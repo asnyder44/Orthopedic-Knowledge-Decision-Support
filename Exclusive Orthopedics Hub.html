@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Exclusive Orthopedics Hub</title>
+<style>
+:root{--bg:#fff;--alt:#eef5fc;--ink:#12263f;--mut:#51657d;--pri:#0b5cad;--pri2:#0a3d73;--line:#d6e3f1;--card:#fff;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b1624;--alt:#102338;--ink:#e6eef8;--mut:#9db3cc;--pri:#5aa9f2;--pri2:#9ccbf7;--line:#1f3550;--card:#12263c}}
+:root[data-theme="dark"]{--bg:#0b1624;--alt:#102338;--ink:#e6eef8;--mut:#9db3cc;--pri:#5aa9f2;--pri2:#9ccbf7;--line:#1f3550;--card:#12263c}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:calc(76px + env(safe-area-inset-top,0px))}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 "Segoe UI",system-ui,-apple-system,Helvetica,Arial,sans-serif}
+a{color:var(--pri)}h1,h2,h3{font-family:Georgia,"Times New Roman",serif;line-height:1.2;margin:0 0 .5em}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:20px;height:64px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;color:var(--pri2);text-decoration:none;white-space:nowrap}
+nav{display:flex;gap:4px;margin-left:auto;overflow-x:auto}
+nav a{padding:8px 12px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:14px;white-space:nowrap}
+nav a:hover,nav a.on{background:var(--alt);color:var(--pri)}
+.hero{background:linear-gradient(135deg,var(--pri2),var(--pri));color:#fff;padding:72px 0 64px}
+.hero .hero-inner{display:grid;grid-template-columns:1.2fr .8fr;gap:24px;align-items:center}
+.hero h1{font-size:clamp(2rem,5vw,3.4rem)}.hero p{max-width:620px;font-size:1.15rem;opacity:.92}
+.hero-visual{position:relative;border-radius:18px;overflow:hidden;min-height:320px;border:1px solid rgba(255,255,255,.2);box-shadow:0 28px 55px rgba(10,26,49,.25)}
+.hero-visual img{display:block;width:100%;height:100%;object-fit:cover}
+.search{display:flex;max-width:560px;margin-top:24px;background:#fff;border-radius:12px;overflow:hidden}
+.search input{flex:1;border:0;padding:15px 18px;font-size:16px;color:#12263f;outline:0;min-width:0}
+.search button{border:0;background:#0a3d73;color:#fff;padding:0 22px;font-size:15px;cursor:pointer}
+#results{max-width:560px;margin-top:8px;background:var(--card);color:var(--ink);border-radius:12px;display:none;overflow:hidden}
+#results a{display:block;padding:10px 16px;text-decoration:none;color:var(--ink);border-bottom:1px solid var(--line)}
+#results a:hover{background:var(--alt)}#results small{color:var(--mut)}
+section{padding:60px 0}.alt{background:var(--alt)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px;text-decoration:none;color:var(--ink);transition:.15s}
+.tile:hover{transform:translateY(-3px);border-color:var(--pri)}.tile .ic{font-size:28px}.tile p{color:var(--mut);font-size:14px;margin:.3em 0 0}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:28px;margin-top:20px}
+.tabs{display:flex;gap:6px;overflow-x:auto;border-bottom:1px solid var(--line);margin:18px 0}
+.tabs button{border:0;background:none;padding:10px 14px;cursor:pointer;color:var(--mut);font-size:15px;border-bottom:3px solid transparent;white-space:nowrap}
+.tabs button.on{color:var(--pri);border-color:var(--pri);font-weight:600}
+details{border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin:8px 0;background:var(--bg)}
+summary{cursor:pointer;font-weight:600}details p{margin:.5em 0 0;color:var(--mut)}
+ul.pl{padding-left:20px}ul.pl li{margin:6px 0}
+.dia{display:flex;gap:20px;align-items:center;flex-wrap:wrap;background:var(--alt);border-radius:12px;padding:16px}
+.dia .showcase{width:min(300px,100%);flex:none;border-radius:12px;overflow:hidden;border:1px solid var(--line);background:#dfeaf5}
+.dia .showcase img{display:block;width:100%;height:220px;object-fit:cover}
+.dia span{color:var(--mut);font-size:14px;flex:1;min-width:200px}
+.chat{max-width:640px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px}
+.msg{background:var(--alt);border-radius:12px;padding:12px 14px;margin-bottom:12px;font-size:15px}
+.chat form{display:flex;gap:8px}.chat input{flex:1;padding:12px;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font-size:16px;min-width:0}
+.chat button{border:0;background:var(--pri);color:#fff;border-radius:10px;padding:0 18px;cursor:pointer}
+footer{background:var(--pri2);color:#cfe3f8;padding:36px 0;font-size:14px}footer a{color:#fff}
+@media (max-width: 760px){.hero .hero-inner{grid-template-columns:1fr}.hero-visual{min-height:240px}}
+</style></head><body>
+<header><div class="wrap bar">
+<a class="brand" href="#top"><svg width="34" height="34" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="10" fill="#0b5cad"/><path d="M12 10c-3 0-4 4-1 5l3 2 6 6 2 3c1 3 5 2 5-1 0-2-2-2-3-3l-6-6c0-2-2-6-6-6zM28 30c3 0 4-4 1-5l-3-2-6-6-2-3c-1-3-5-2-5 1 0 2 2 2 3 3l6 6c0 2 2 6 6 6z" fill="#fff" transform="translate(0 0) scale(1)" opacity=".95"/></svg>Exclusive Orthopedics Hub</a>
+<nav id="nav"><a href="#specialties">Specialties</a><a href="#explore">Explore</a><a href="#orthobot">OrthoBot</a><a href="#resources">Resources</a></nav>
+</div></header>
+
+<div id="top" class="hero"><div class="wrap hero-inner">
+<div>
+<h1>Exclusive Orthopedics Hub</h1>
+<p>Your all-access gateway to orthopedic knowledge — conditions, procedures, diagnostics and evidence-based care across the subspecialties.</p>
+<div class="search"><input id="q" placeholder="Search a condition, procedure or subspecialty…" autocomplete="off"><button onclick="doSearch()">Search</button></div>
+<div id="results"></div>
+</div>
+<div class="hero-visual" aria-label="Orthopedic consult image"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLn_1EnGORtNGd_fOVj-DqZHBf7-mnw5tKHqbT70Zaw&s=10" alt="Orthopedic professional consulting a patient"></div>
+</div></div>
+
+<section id="specialties"><div class="wrap">
+<h2>Orthopedic subspecialties</h2><p style="color:var(--mut)">Choose an area to explore overviews, conditions, procedures, diagnostics and treatment evidence.</p>
+<div class="grid" id="tiles"></div></div></section>
+
+<section id="explore" class="alt"><div class="wrap">
+<h2 id="sTitle"></h2><p id="sOver" style="color:var(--mut);max-width:760px"></p>
+<div class="panel">
+<div class="dia"><div class="showcase"><img id="showcaseImg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLn_1EnGORtNGd_fOVj-DqZHBf7-mnw5tKHqbT70Zaw&s=10" alt="Orthopedic specialty imagery"></div><span id="showcaseCaption">Orthopedic evaluation and imaging examples used to support diagnosis and treatment planning.</span></div>
+<div class="tabs" id="tabs"></div><div id="tabBody"></div></div>
+</div></section>
+
+<section id="orthobot"><div class="wrap">
+<h2>Ask an OrthoBot</h2><p style="color:var(--mut)">Placeholder for a future AI assistant grounded in vetted orthopedic sources.</p>
+<div class="chat"><div class="msg" id="log">Hello! OrthoBot is not connected yet. Once integrated, you will be able to ask questions about conditions and procedures. For now, try the search bar above.</div>
+<form onsubmit="return bot()"><input id="bq" placeholder="e.g., What is recovery like after ACL surgery?"><button>Ask</button></form></div>
+</div></section>
+
+<section id="resources" class="alt"><div class="wrap">
+<h2>Trusted sources</h2>
+<ul class="pl">
+<li><a href="https://orthoinfo.aaos.org/" target="_blank" rel="noopener">OrthoInfo (AAOS)</a> — patient education from the American Academy of Orthopaedic Surgeons</li>
+<li><a href="https://www.aaos.org/" target="_blank" rel="noopener">AAOS</a> — clinical practice guidelines and professional resources</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">PubMed</a> — peer-reviewed orthopedic literature</li>
+<li><a href="https://www.cochranelibrary.com/" target="_blank" rel="noopener">Cochrane Library</a> — systematic reviews of interventions</li>
+</ul></div></section>
+
+<footer><div class="wrap">© Exclusive Orthopedics Hub — educational prototype. Content is a general summary and is not medical advice; consult a qualified clinician for individual care.</div></footer>
+
+<script>
+const pm=t=>({t:"PubMed: "+t,u:"https://pubmed.ncbi.nlm.nih.gov/?term="+encodeURIComponent(t)});
+const D=[
+{id:"sports",n:"Sports Medicine",i:"🏃",o:"Focuses on injuries from athletic and recreational activity, with emphasis on restoring function and safe return to play, using both non-operative and arthroscopic approaches.",
+c:[["ACL tear","A rupture of the knee's anterior cruciate ligament, often from pivoting or landing; causes instability."],["Meniscus tear","Damage to knee cartilage cushions, causing pain, catching, or swelling."],["Rotator cuff tear","Injury to shoulder tendons causing pain and weakness with overhead use."],["Tennis elbow","Overuse tendinopathy at the outer elbow."]],
+p:["ACL reconstruction with graft","Arthroscopic meniscus repair or partial meniscectomy","Rotator cuff repair","Shoulder stabilization (labral repair)"],
+d:["Clinical stability tests (Lachman, pivot shift)","MRI for soft-tissue injury","Ultrasound for tendons","Weight-bearing X-rays to assess alignment"],
+e:"Structured rehabilitation is first-line for many partial tears and degenerative meniscal problems. Active young patients with ACL instability often do better with reconstruction, though supervised rehab remains a reasonable option for some. Timing of return to sport is increasingly criteria-based rather than calendar-based.",
+s:"ACL reconstruction outcomes systematic review"},
+{id:"spine",n:"Spine",i:"🦴",o:"Addresses disorders of the cervical, thoracic and lumbar spine, from common back pain to nerve compression and deformity. Most problems are managed without surgery.",
+c:[["Lumbar disc herniation","Disc material pressing on a nerve root, often causing sciatica."],["Spinal stenosis","Narrowing of the canal causing leg symptoms with walking."],["Scoliosis","Abnormal sideways spinal curvature."],["Cervical radiculopathy","Neck-origin nerve irritation causing arm pain or numbness."]],
+p:["Microdiscectomy","Laminectomy decompression","Spinal fusion","Artificial disc replacement (selected cases)"],
+d:["Neurologic exam: strength, reflexes, sensation","MRI for nerve and disc detail","CT for bony anatomy","Standing X-rays for alignment"],
+e:"Most acute low back pain and many disc herniations improve within weeks with activity, physical therapy and analgesics. Surgery is considered for progressive weakness, cauda equina syndrome, or persistent disabling symptoms after nonoperative care.",
+s:"lumbar disc herniation surgery versus conservative treatment"},
+{id:"trauma",n:"Trauma",i:"🩹",o:"Manages acute fractures and complex injuries, prioritizing alignment, stable fixation, soft-tissue health and early mobilization, often in coordination with emergency and critical care teams.",
+c:[["Hip fracture","Common in older adults; surgery within a day or two is generally favored."],["Distal radius fracture","Wrist break, often after a fall on an outstretched hand."],["Tibial shaft fracture","Lower-leg fracture frequently treated with a rod."],["Open fracture","Bone breaks through skin; needs urgent antibiotics and debridement."]],
+p:["Intramedullary nailing","Plate and screw fixation (ORIF)","External fixation","Hemiarthroplasty for displaced hip fractures"],
+d:["Orthogonal X-ray views including joint above and below","CT for complex joint fractures","Neurovascular assessment","Compartment syndrome screening"],
+e:"Early surgery and orthogeriatric co-management improve outcomes after hip fracture. Many stable fractures, such as some wrist and ankle injuries, heal well with casting. Open fractures benefit from prompt antibiotics and staged soft-tissue care.",
+s:"hip fracture timing of surgery outcomes"},
+{id:"hand",n:"Hand & Upper Extremity",i:"✋",o:"Covers the hand, wrist, forearm and elbow, including nerve compression, tendon problems, arthritis and injuries, with a focus on fine function.",
+c:[["Carpal tunnel syndrome","Median nerve compression causing numbness and night symptoms."],["Trigger finger","Tendon catching causing a finger to lock."],["Thumb base arthritis","Basal joint degeneration causing pinch pain."],["Dupuytren contracture","Thickening of palm tissue that bends fingers."]],
+p:["Carpal tunnel release","Trigger finger release","Thumb CMC arthroplasty","Tendon repair"],
+d:["Provocative tests (Phalen, Tinel)","Nerve conduction studies","X-rays for arthritis and fractures","Ultrasound for tendon and nerve"],
+e:"Night splinting and steroid injection can help mild-to-moderate carpal tunnel; surgery gives more durable relief in persistent or severe cases. Corticosteroid injection resolves many trigger fingers, often with a possible recurrence.",
+s:"carpal tunnel syndrome surgery versus splinting"},
+{id:"joint",n:"Joint Reconstruction",i:"🦿",o:"Treats advanced arthritis and joint failure of the hip and knee, mainly with joint replacement, alongside nonoperative measures and revision surgery.",
+c:[["Hip osteoarthritis","Cartilage wear causing groin pain and stiffness."],["Knee osteoarthritis","Common cause of pain and reduced mobility."],["Osteonecrosis","Loss of blood supply to bone, often at the femoral head."],["Failed implant","Loosening, wear or infection needing revision."]],
+p:["Total hip arthroplasty","Total knee arthroplasty","Partial knee replacement","Revision arthroplasty"],
+d:["Weight-bearing X-rays","Functional scores and gait assessment","Inflammatory markers and aspiration if infection suspected","MRI or CT for planning"],
+e:"Exercise, weight management and anti-inflammatories are core first steps for osteoarthritis. When nonoperative care fails, hip and knee replacement reliably improve pain and function, with most implants lasting 15–20+ years.",
+s:"total knee arthroplasty outcomes osteoarthritis"},
+{id:"foot",n:"Foot & Ankle",i:"🦶",o:"Deals with disorders of the foot and ankle including sprains, tendon disease, deformity and arthritis.",
+c:[["Ankle sprain","Ligament injury usually responding to functional rehab."],["Achilles tendinopathy","Heel-cord pain with load."],["Bunion (hallux valgus)","Deformity at the big toe base."],["Plantar fasciitis","Heel pain, worst with first steps."]],
+p:["Bunion correction","Achilles repair","Ankle arthroscopy","Ankle fusion or replacement"],
+d:["Weight-bearing X-rays","Ultrasound for tendons","MRI for cartilage and ligaments","Gait and footwear review"],
+e:"Most ankle sprains and plantar fasciitis resolve with rehab, stretching and supportive footwear. Eccentric loading programs are well supported for Achilles tendinopathy.",
+s:"Achilles tendinopathy eccentric exercise"}];
+const T=[["Common conditions","c"],["Procedures","p"],["Diagnostics","d"],["Evidence summary","e"],["Sources","l"]];
+const imageMap={sports:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfr9wwkytUrsC2epzcer2cY1HXkBzxrPPtUWbS9o7Atg&s=10",spine:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRftSRRJguxslUvUB5txQ26gN7H6pc6BGpa9FyB41vvng&s=10",trauma:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VJtBS42tcVFNQOqxP9_GJo02kBiacDVFQVUnYkWxtQ&s=10",hand:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFpdrd1UPhtNoBSaY9VpsLWlScIgPJm7fx8u4PFL5pw&s=10",joint:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvakt90el9MGsubF2D3oYjbsMV_1qkx9Um9UjmMN08g&s=10",foot:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhV3BZ7wqPB7cNhqTEJOnrJODSkNHjuH8Y355LXvztQQ&s=10"};
+const captionMap={sports:"Sports medicine evaluation and return-to-play rehab planning for active patients.",spine:"Spine-focused assessment and imaging for back, neck, and nerve-related symptoms.",trauma:"Trauma care and fracture management with imaging and stabilization planning.",hand:"Hand and upper-extremity assessment for tendon, nerve, and joint conditions.",joint:"Joint replacement and reconstruction planning for arthritis, injury, and mobility restoration.",foot:"Foot and ankle care with imaging and treatment planning for pain, alignment, and function."};
+let cur=D[0],tab="c";
+const $=id=>document.getElementById(id);
+$("tiles").innerHTML=D.map(s=>`<a class="tile" href="#explore" onclick="pick('${s.id}')"><div class="ic">${s.i}</div><h3>${s.n}</h3><p>${s.o.split(",")[0].split(".")[0]}.</p></a>`).join("");
+function pick(id,t){cur=D.find(x=>x.id==id);tab=t||"c";render()}
+function render(){
+$("sTitle").textContent=cur.n;$("sOver").textContent=cur.o;
+$("showcaseImg").src=imageMap[cur.id]||imageMap.sports;
+$("showcaseImg").alt=`${cur.n} orthopedic specialty imagery`;
+$("showcaseCaption").textContent=captionMap[cur.id]||captionMap.sports;
+$("tabs").innerHTML=T.map(t=>`<button class="${t[1]==tab?"on":""}" onclick="tab='${t[1]}';render()">${t[0]}</button>`).join("");
+let h="";
+if(tab=="c")h=cur.c.map(c=>`<details><summary>${c[0]}</summary><p>${c[1]}</p></details>`).join("");
+if(tab=="p")h='<ul class="pl">'+cur.p.map(x=>`<li>${x}</li>`).join("")+"</ul>";
+if(tab=="d")h='<ul class="pl">'+cur.d.map(x=>`<li>${x}</li>`).join("")+"</ul>";
+if(tab=="e")h=`<p>${cur.e}</p>`;
+if(tab=="l"){const l=[{t:"OrthoInfo (AAOS) — patient education",u:"https://orthoinfo.aaos.org/"},{t:"AAOS clinical practice guidelines",u:"https://www.aaos.org/quality/quality-programs/"},pm(cur.s)];
+h='<ul class="pl">'+l.map(x=>`<li><a href="${x.u}" target="_blank" rel="noopener">${x.t}</a></li>`).join("")+"</ul>"}
+$("tabBody").innerHTML=h}
+function doSearch(){
+const q=$("q").value.trim().toLowerCase(),r=$("results");
+if(!q){r.style.display="none";return}
+const hits=[];
+D.forEach(s=>{
+if((s.n+s.o).toLowerCase().includes(q))hits.push([s.n,"Subspecialty",s.id,"c"]);
+s.c.forEach(c=>{if((c[0]+c[1]).toLowerCase().includes(q))hits.push([c[0],"Condition · "+s.n,s.id,"c"])});
+s.p.forEach(p=>{if(p.toLowerCase().includes(q))hits.push([p,"Procedure · "+s.n,s.id,"p"])});
+s.d.forEach(p=>{if(p.toLowerCase().includes(q))hits.push([p,"Diagnostic · "+s.n,s.id,"d"])})});
+r.style.display="block";
+r.innerHTML=hits.length?hits.slice(0,8).map(h=>`<a href="#explore" onclick="pick('${h[2]}','${h[3]}');$('results').style.display='none'">${h[0]}<br><small>${h[1]}</small></a>`).join(""):'<a href="#">No matches — try another term.</a>'}
+$("q").addEventListener("input",doSearch);
+$("q").addEventListener("keydown",e=>{if(e.key=="Enter")doSearch()});
+function bot(){const v=$("bq").value.trim();if(v){$("log").textContent="OrthoBot (placeholder): thanks for asking “"+v+"”. AI answers are coming in a future version.";$("bq").value=""}return false}
+render();
+</script></body></html>
