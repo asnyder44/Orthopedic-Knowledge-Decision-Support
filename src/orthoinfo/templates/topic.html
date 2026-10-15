@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}{{ doc.title }}{% endblock %}
+{% block content %}
+<article class="topic">
+  <h1>{{ doc.title }}</h1>
+  {% if doc.alt_titles %}<p class="alt">Also called: {{ doc.alt_titles | join(', ') }}</p>{% endif %}
+  {% for line in lines %}
+    {% if line.endswith('?') and not line.startswith('- ') and line|length <= 120 %}<h2>{{ line }}</h2>
+    {% elif line.startswith('- ') %}<p class="li">{{ line[2:] }}</p>
+    {% else %}<p>{{ line }}</p>{% endif %}
+  {% endfor %}
+  <p class="source">Source: <a href="{{ doc.url }}" rel="noopener" target="_blank">{{ doc.publisher }}</a>
+    ({{ doc.organization }}) · last updated {{ doc.last_updated or 'unknown' }} · retrieved {{ doc.retrieved[:10] }}</p>
+</article>
+{% endblock %}

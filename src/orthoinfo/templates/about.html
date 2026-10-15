@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}About{% endblock %}
+{% block content %}
+<article class="topic">
+  <h1>About this tool</h1>
+  <p>OrthoInfo is a student project that helps <strong>{{ scope.audience | lower }}</strong>
+     find general information about {{ scope.specialty | lower }} conditions. It does not
+     diagnose, recommend treatment, or replace a clinician.</p>
+  <p>Search results come only from the sources listed below. If they don't cover a
+     question, the tool says so rather than guessing.</p>
+  <h2>Sources (dataset {{ version }})</h2>
+  <table>
+    <thead><tr><th>Topic</th><th>Publisher</th><th>Last updated</th><th>Retrieved</th></tr></thead>
+    <tbody>
+      {% for d in topics %}
+        <tr><td><a href="{{ d.url }}" rel="noopener" target="_blank">{{ d.title }}</a></td>
+            <td>{{ d.publisher }}</td><td>{{ d.last_updated or 'unknown' }}</td><td>{{ d.retrieved[:10] }}</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</article>
+{% endblock %}

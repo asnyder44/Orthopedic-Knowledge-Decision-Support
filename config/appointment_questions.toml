@@ -1,0 +1,41 @@
+# Questions a patient might bring to an appointment, shown beside search results.
+# STATUS: DRAFT — written by the student team. The subject reviewer must approve
+# every entry before the pilot (record approval in docs/review_plan.md).
+# These are prompts for a conversation with a clinician, never advice.
+
+reviewed_by = ""      # reviewer name once approved
+reviewed_on = ""      # YYYY-MM-DD
+
+general = [
+    "What do you think is causing my symptoms, and how sure are you?",
+    "Are any tests needed, and what would they tell us?",
+    "What are my options, including not treating it right now?",
+    "What can I do at home, and what should I avoid?",
+    "What signs mean I should call you or seek care sooner?",
+    "Where can I read more about this from a reliable source?",
+]
+
+[topics.carpaltunnelsyndrome]
+questions = [
+    "Which activities might be making my hand symptoms worse?",
+    "Would a wrist splint or changes at work help in my situation?",
+    "At what point would surgery be worth discussing?",
+]
+
+[topics.handinjuriesanddisorders]
+questions = [
+    "Is this problem in a bone, joint, tendon, or nerve?",
+    "Will this affect my grip or how I use my hand at work?",
+]
+
+[topics.wristinjuriesanddisorders]
+questions = [
+    "Do I need an X-ray or other imaging for my wrist?",
+    "How long before I can use my wrist normally again?",
+]
+
+[topics.elbowinjuriesanddisorders]
+questions = [
+    "Is this related to overuse, and which movements should I limit?",
+    "Would physical therapy or exercises help?",
+]

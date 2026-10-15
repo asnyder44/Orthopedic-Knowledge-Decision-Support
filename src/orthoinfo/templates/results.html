@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}{{ query }}{% endblock %}
+{% block content %}
+{% if scope_notice %}
+  <aside class="notice">{{ scope_notice }}</aside>
+{% endif %}
+
+{% if abstain %}
+  <section class="empty">
+    <h1>We couldn't find a reliable answer</h1>
+    <p>Our collection covers a small set of {{ scope.specialty | lower }} topics and doesn't
+       appear to address <q>{{ query }}</q>. Try different wording, browse the
+       <a href="{{ url_for('home') }}">topic list</a>, or ask your clinician.</p>
+  </section>
+{% else %}
+  <h1 class="results-heading">Information related to <q>{{ query }}</q></h1>
+  {% for g in groups %}
+    <article class="result">
+      <h2><a href="{{ url_for('topic', doc_id=g.doc.doc_id) }}">{{ g.doc.title }}</a></h2>
+      {% for hit in g.hits %}
+        <section class="excerpt">
+          <h3>{{ hit.chunk.heading }}</h3>
+          {% for line in hit.chunk.text.split('\n') %}
+            {% if line.startswith('- ') %}<p class="li">{{ line[2:] }}</p>{% else %}<p>{{ line }}</p>{% endif %}
+          {% endfor %}
+        </section>
+      {% endfor %}
+      <p class="source">Source: <a href="{{ g.doc.url }}" rel="noopener" target="_blank">{{ g.doc.publisher }}</a>
+        · last updated {{ g.doc.last_updated or 'unknown' }}
+        · retrieved {{ g.doc.retrieved[:10] }}</p>
+    </article>
+  {% endfor %}
+{% endif %}
+
+<aside class="appointment">
+  <h2>Questions to ask at your appointment</h2>
+  {% if not appt_reviewed %}<p class="draft">Draft list — awaiting clinical reviewer approval.</p>{% endif %}
+  <ul>
+    {% for q in appointment_questions %}<li>{{ q }}</li>{% endfor %}
+  </ul>
+  <button type="button" onclick="window.print()">Print these questions</button>
+</aside>
+{% endblock %}

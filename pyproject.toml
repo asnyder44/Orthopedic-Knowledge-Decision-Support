@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "orthoinfo"
+version = "0.1.0"
+description = "A focused, evaluated orthopedic patient-education search tool (Data Science in Practice sponsor project)."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.0",
+]
+
+[project.optional-dependencies]
+# Meaning-based (embedding) search. Heavier install: pulls in PyTorch.
+semantic = [
+    "sentence-transformers>=3.0",
+    "numpy>=1.26",
+    # Use the operating system's certificate store when downloading the model
+    # (needed on networks that inspect TLS, e.g. many campus/corporate networks).
+    "truststore>=0.9",
+]
+dev = [
+    "pytest>=8",
+]
+
+[project.scripts]
+orthoinfo = "orthoinfo.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+orthoinfo = ["templates/*.html", "static/*.css"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

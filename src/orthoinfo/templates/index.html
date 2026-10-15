@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="intro">
+  <h1>Prepare for your appointment</h1>
+  <p>Find plain-language information about common hand, wrist and elbow conditions,
+     see exactly where it comes from, and leave with questions to ask your clinician.</p>
+</section>
+<section>
+  <h2>Browse topics</h2>
+  <ul class="topics">
+    {% for d in topics if d.role == 'core' %}
+      <li><a href="{{ url_for('topic', doc_id=d.doc_id) }}">{{ d.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <details>
+    <summary>Related topics</summary>
+    <ul class="topics">
+      {% for d in topics if d.role != 'core' %}
+        <li><a href="{{ url_for('topic', doc_id=d.doc_id) }}">{{ d.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </details>
+</section>
+{% endblock %}

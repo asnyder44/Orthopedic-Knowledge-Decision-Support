@@ -1,0 +1,62 @@
+# Scope agreed with the sponsor (step 2). Edit this file, then re-run
+# `orthoinfo collect` and `orthoinfo build` to produce a new dataset version.
+
+specialty = "Hand and upper extremity"
+audience = "Patients and caregivers preparing for an orthopedic appointment"
+language = "en"
+
+# role = "core"     -> one of the 3-4 conditions the project commits to covering well
+# role = "context"  -> related topics kept in the collection so search has realistic
+#                      neighbours to confuse (and so we can measure that confusion)
+# `url` pins the exact MedlinePlus health topic expected for `term`; the collector
+# warns if the web service does not return it.
+
+[[topics]]
+term = "carpal tunnel syndrome"
+url = "https://medlineplus.gov/carpaltunnelsyndrome.html"
+role = "core"
+
+[[topics]]
+term = "hand injuries and disorders"
+url = "https://medlineplus.gov/handinjuriesanddisorders.html"
+role = "core"
+
+[[topics]]
+term = "wrist injuries and disorders"
+url = "https://medlineplus.gov/wristinjuriesanddisorders.html"
+role = "core"
+
+[[topics]]
+term = "elbow injuries and disorders"
+url = "https://medlineplus.gov/elbowinjuriesanddisorders.html"
+role = "core"
+
+[[topics]]
+term = "finger injuries and disorders"
+url = "https://medlineplus.gov/fingerinjuriesanddisorders.html"
+role = "context"
+
+[[topics]]
+term = "shoulder injuries and disorders"
+url = "https://medlineplus.gov/shoulderinjuriesanddisorders.html"
+role = "context"
+
+[[topics]]
+term = "tendinitis"
+url = "https://medlineplus.gov/tendinitis.html"
+role = "context"
+
+[[topics]]
+term = "sprains and strains"
+url = "https://medlineplus.gov/sprainsandstrains.html"
+role = "context"
+
+[[topics]]
+term = "fractures"
+url = "https://medlineplus.gov/fractures.html"
+role = "context"
+
+[[topics]]
+term = "osteoarthritis"
+url = "https://medlineplus.gov/osteoarthritis.html"
+role = "context"
