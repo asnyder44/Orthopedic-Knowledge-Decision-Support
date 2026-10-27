@@ -1,0 +1,62 @@
+# What `orthoinfo collect` downloads. Only sources whose terms permit reuse are
+# listed; see docs/sources.md before adding one. Re-running `collect` with the
+# same --version resumes and skips files already downloaded.
+
+[medlineplus]
+enabled = true
+# MedlinePlus topic groups to keep from the bulk XML (78 topics in this group, Oct 2026).
+groups = ["Bones, Joints and Muscles"]
+extra_titles = []               # individual topics outside those groups
+fetch_page_dates = true         # one request per topic for its "Last updated" date
+max_related_links = 15
+
+[niams]
+enabled = true
+index_pages = ["muscle-bone-diseases", "arthritis-and-rheumatic-diseases"]
+# Links on the index pages that are not musculoskeletal topics.
+exclude = ["all-diseases", "skin-diseases", "educational-resources", "asian-language-resources",
+           "social-media-resources"]
+skip_subpages = ["more-info"]   # "Research & Resources" tabs: lists of links
+
+[openstax]
+enabled = true
+book = "anatomy-and-physiology-2e"
+book_title = "Anatomy and Physiology 2e"
+authors = "J. Gordon Betts et al."
+year = 2022
+chapters = [6, 7, 8, 9, 10, 11]  # bone tissue, axial & appendicular skeleton, joints, muscle
+
+[europepmc]
+enabled = true
+# Licences that allow reuse with attribution. Adding "cc by-nc" / "cc by-nc-nd"
+# roughly doubles the pool but restricts commercial use and adaptation.
+licenses = ["cc by", "cc by-sa", "cc0"]
+# Prefer synthesised evidence over single studies; remove to include all article types.
+filter = 'PUB_TYPE:"review" OR PUB_TYPE:"systematic-review" OR PUB_TYPE:"Meta-Analysis" OR PUB_TYPE:"Practice Guideline" OR PUB_TYPE:"guideline"'
+sort = "CITED desc"             # most-cited first
+max_per_query = 200             # most queries have fewer matches than this; raise for more
+# Each query is matched as a phrase in title/abstract. Use Europe PMC syntax for more
+# control, e.g. 'TITLE_ABS:"mallet finger" OR TITLE_ABS:"baseball finger"'.
+delay = 0.3
+workers = 4                     # parallel full-text downloads
+queries = [
+    # hand and upper extremity (the course scope)
+    "carpal tunnel syndrome", "trigger finger", "de Quervain tenosynovitis",
+    "distal radius fracture", "scaphoid fracture", "lateral epicondylitis",
+    "cubital tunnel syndrome", "Dupuytren contracture", "thumb carpometacarpal osteoarthritis",
+    "ganglion cyst wrist", "rotator cuff tear", "frozen shoulder adhesive capsulitis",
+    "shoulder dislocation", "hand osteoarthritis",
+    # wider orthopaedics
+    "knee osteoarthritis", "hip osteoarthritis", "hip fracture", "anterior cruciate ligament injury",
+    "meniscus tear", "total knee arthroplasty", "total hip arthroplasty", "ankle sprain",
+    "Achilles tendinopathy", "plantar fasciitis", "low back pain", "lumbar spinal stenosis",
+    "scoliosis", "osteoporotic fracture", "stress fracture", "tendinopathy",
+]
+
+[wikipedia]
+enabled = true
+titles_from = ["medlineplus", "niams"]   # look up each topic these sources found
+extra_titles = ["Trigger finger", "De Quervain syndrome", "Lateral epicondylitis",
+                "Cubital tunnel syndrome", "Distal radius fracture", "Scaphoid fracture",
+                "Ganglion cyst", "Dupuytren's contracture", "Mallet finger", "Boxer's fracture"]
+delay = 0.5
