@@ -1,0 +1,25 @@
+# Search settings used by the web app. Change `default_method` only after the
+# experiment (`orthoinfo evaluate`) justifies it — see docs/experiment_plan.md.
+
+default_method = "bm25"
+semantic_model = "sentence-transformers/all-MiniLM-L6-v2"
+
+# Source types searched by default, in the app and in `orthoinfo evaluate`.
+# One of: patient_education, encyclopedia, textbook, research_article.
+# The app has a checkbox to widen a search to all types.
+default_source_types = ["patient_education"]
+
+# Section headings that are website chrome (button labels, link lists) rather than content.
+# The NIAMS scraper in dataset v2026-10-26 let these through; passages under these headings
+# are never shown. Remove an entry here once the dataset no longer contains it.
+exclude_headings = ["Related Information", "Learn About Research"]
+
+# If a method's confidence (its top score) is below this value, the app says the
+# collection cannot answer the question instead of showing weak matches.
+# BM25 scores are unbounded; semantic/hybrid use cosine similarity (0-1).
+# Tune on the *dev* split only: `orthoinfo evaluate --split dev` prints a suggestion.
+[abstain_threshold]
+# 4.0: on the 2026-10-12 draft dev set, 5.0 turned away 3/10 answerable questions.
+bm25 = 4.0
+semantic = 0.40
+hybrid = 0.40

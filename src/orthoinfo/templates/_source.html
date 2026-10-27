@@ -1,0 +1,8 @@
+<p class="source">
+  <span class="badge badge-{{ doc.source_type }}">{{ type_labels[doc.source_type] }}</span>
+  {% if doc.authors %}{{ doc.authors }}. {% endif %}
+  <a href="{{ doc.url }}" rel="noopener" target="_blank">{{ doc.container or doc.publisher }}</a>{% if doc.published %} ({{ doc.published[:4] }}){% endif %}
+  · last updated {{ doc.last_updated or 'not stated' }} · retrieved {{ doc.retrieved[:10] }}
+  <br><span class="license">Licence: {{ doc.license.split(' — ')[0] }}</span>
+  {% if doc.source_type == 'research_article' %}<br><span class="audience-note">Written for clinicians and researchers; discuss findings with your clinician.</span>{% endif %}
+</p>

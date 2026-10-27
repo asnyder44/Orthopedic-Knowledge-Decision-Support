@@ -1,0 +1,25 @@
+{
+  "version": "v2026-10-26",
+  "documents": 151,
+  "chunks": 1206,
+  "words": 143284,
+  "by_source": {
+    "medlineplus": 78,
+    "niams": 28,
+    "openstax": 45
+  },
+  "by_source_type": {
+    "patient_education": 106,
+    "textbook": 45
+  },
+  "by_license": {
+    "Public domain (NLM-authored MedlinePlus summary); credit MedlinePlus": 78,
+    "Public domain (U.S. federal government work, NIH/NIAMS); credit NIAMS": 28,
+    "CC BY 4.0 (OpenStax); attribute OpenStax and link to the book": 45
+  },
+  "sha256": {
+    "documents.jsonl.gz": "b52c8567cdf4abd3176cbf893753c846b915152c437891046de5593b18adafb6",
+    "chunks.jsonl.gz": "f98f7981b5e5d0302cbf132cefd236a673a9a03bc1737399102ae89f86a8a8c6",
+    "inventory.csv": "df3b8cae289c7f89aa2e5a4d715db017cbe6ca4e91599fecc57be0ced37175c3"
+  }
+}

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="intro">
+  <h1>Prepare for your appointment</h1>
+  <p>Find plain-language information about bone, joint and muscle conditions,
+     see exactly where it comes from, and leave with questions to ask your clinician.</p>
+</section>
+<section>
+  <h2>Featured: {{ scope.specialty | lower }}</h2>
+  <ul class="topics">
+    {% for d in topics if d.role == 'core' %}
+      <li><a href="{{ url_for('document', doc_id=d.doc_id) }}">{{ d.title }}</a>
+        <span class="muted">· {{ d.container }}</span></li>
+    {% endfor %}
+  </ul>
+  <details>
+    <summary>All patient-information topics ({{ topics | length }})</summary>
+    <ul class="topics">
+      {% for d in topics if d.role != 'core' %}
+        <li><a href="{{ url_for('document', doc_id=d.doc_id) }}">{{ d.title }}</a>
+          <span class="muted">· {{ d.container }}</span></li>
+      {% endfor %}
+    </ul>
+  </details>
+  <p class="muted">The collection also holds
+    {% for t, n in counts.items() if t != 'patient_education' %}{{ n }} {{ type_labels[t] | lower }}{{ 's' if n != 1 }}{{ ', ' if not loop.last }}{% endfor %}
+    — tick the box above to include them in a search.</p>
+</section>
+{% endblock %}

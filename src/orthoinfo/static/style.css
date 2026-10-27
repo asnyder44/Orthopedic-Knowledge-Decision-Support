@@ -1,0 +1,62 @@
+:root {
+  /* Same design tokens as the Hub's index.html */
+  --bg: #fff; --alt: #eef5fc; --fg: #12263f; --muted: #51657d; --accent: #0b5cad; --accent-2: #0a3d73;
+  --card: #fff; --line: #d6e3f1; --warn-bg: #fff4d6; --warn-line: #e8c46a;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #0b1624; --alt: #102338; --fg: #e6eef8; --muted: #9db3cc; --accent: #5aa9f2; --accent-2: #9ccbf7;
+          --card: #12263c; --line: #1f3550; --warn-bg: #3a3220; --warn-line: #8a6d2a; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg);
+       font: 16px/1.65 "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; line-height: 1.2; }
+a { color: var(--accent); }
+header.site { position: sticky; top: 0; z-index: 10; display: flex; flex-wrap: wrap; gap: .25rem 1rem;
+              align-items: center; padding: .6rem max(1rem, calc((100% - 1120px) / 2 + 20px));
+              background: var(--bg); border-bottom: 1px solid var(--line); }
+.brand { font-weight: 700; font-size: 1.1rem; text-decoration: none; color: var(--accent-2); white-space: nowrap; }
+.tag { color: var(--muted); font-size: .85rem; }
+header nav { margin-left: auto; display: flex; gap: 4px; flex-wrap: wrap; }
+header nav a { padding: 8px 12px; border-radius: 8px; color: var(--fg); text-decoration: none; font-size: 14px; }
+header nav a:hover { background: var(--alt); color: var(--accent); }
+main { max-width: 52rem; margin: 0 auto; padding: 1rem; }
+form.search { margin: 1rem 0 1.5rem; }
+form.search .row { display: flex; gap: .5rem; }
+.widen { display: block; margin-top: .5rem; font-size: .9rem; color: var(--muted); }
+.muted { color: var(--muted); font-size: .9rem; }
+.badge { display: inline-block; font-size: .75rem; font-weight: 600; padding: .05rem .45rem;
+         border-radius: 999px; border: 1px solid var(--line); margin-right: .35rem; }
+.badge-patient_education { background: #e3f1e6; color: #1e5b2c; border-color: #b9dcc0; }
+.badge-textbook { background: #e6ecfa; color: #24427e; border-color: #c2cff0; }
+.badge-encyclopedia { background: #f1ebfa; color: #503080; border-color: #d8c8f0; }
+.badge-research_article { background: #fbefe0; color: #7a4a10; border-color: #efd2a8; }
+.license, .audience-note { font-size: .85rem; }
+.audience-note { font-style: italic; }
+.table-wrap { overflow-x: auto; }
+form.search input { flex: 1; min-width: 0; padding: .7rem .8rem; font: inherit;
+                    border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--fg); }
+button { padding: .6rem 1rem; font: inherit; border: 0; border-radius: 10px;
+         background: var(--accent); color: #fff; cursor: pointer; }
+.result, .appointment, .empty, .topic { background: var(--card); border: 1px solid var(--line);
+         border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 1rem; }
+.result h2 { margin: 0 0 .25rem; font-size: 1.2rem; }
+.excerpt h3 { font-size: 1rem; margin: .75rem 0 .25rem; }
+.excerpt p, .topic p { margin: .3rem 0; }
+p.li { padding-left: 1.2rem; position: relative; }
+p.li::before { content: "•"; position: absolute; left: .3rem; }
+.source { color: var(--muted); font-size: .9rem; border-top: 1px solid var(--line);
+          padding-top: .5rem; margin-top: .75rem; }
+.notice { background: var(--warn-bg); border: 1px solid var(--warn-line); border-radius: 8px;
+          padding: .75rem 1rem; margin-bottom: 1rem; }
+.draft { color: var(--muted); font-style: italic; font-size: .9rem; }
+.alt { color: var(--muted); }
+.results-heading { font-size: 1.3rem; }
+ul.topics { columns: 2; padding-left: 1.2rem; }
+table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+th, td { text-align: left; padding: .4rem; border-bottom: 1px solid var(--line); }
+footer { max-width: 52rem; margin: 2rem auto; padding: 0 1rem; color: var(--muted); font-size: .85rem; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+@media (max-width: 600px) { ul.topics { columns: 1; } table { font-size: .85rem; } }
+@media print { header, form.search, footer, .result, button, .notice { display: none; }
+               .appointment { border: 0; } }

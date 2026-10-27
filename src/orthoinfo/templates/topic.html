@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}{{ doc.title }}{% endblock %}
+{% block content %}
+<article class="topic">
+  <h1>{{ doc.title }}</h1>
+  {% if doc.alt_titles %}<p class="alt">Also called: {{ doc.alt_titles | join(', ') }}</p>{% endif %}
+  {% include "_source.html" %}
+  {% for section in doc.sections %}
+    {% if loop.first or section.heading != doc.sections[loop.index0 - 1].heading %}<h2>{{ section.heading }}</h2>{% endif %}
+    {% for line in section.text.split('\n') %}
+      {% if line.startswith('- ') %}<p class="li">{{ line[2:] }}</p>{% else %}<p>{{ line }}</p>{% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% if doc.related_links %}
+    <h2>More from trusted organizations</h2>
+    <p class="muted">Selected by MedlinePlus. These are links only; their content is not part of this collection.</p>
+    <ul>
+      {% for link in doc.related_links %}
+        <li><a href="{{ link.url }}" rel="noopener" target="_blank">{{ link.title }}</a>
+          {% if link.organization %}<span class="muted">· {{ link.organization }}</span>{% endif %}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</article>
+{% endblock %}

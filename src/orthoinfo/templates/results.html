@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}{{ query }}{% endblock %}
+{% block content %}
+{% if scope_notice %}
+  <aside class="notice">{{ scope_notice }}</aside>
+{% endif %}
+
+{% if abstain %}
+  <section class="empty">
+    <h1>We couldn't find a reliable answer</h1>
+    <p>The {% if not widen %}patient-information {% endif %}sources in this collection don't appear to
+       address <q>{{ query }}</q>. Try different wording{% if not widen and extra_types %}, include {{ extra_types }},{% endif %} or ask your clinician.</p>
+  </section>
+{% else %}
+  <h1 class="results-heading">Information related to <q>{{ query }}</q></h1>
+  {% for g in groups %}
+    {% set doc = g.doc %}
+    <article class="result">
+      <h2><a href="{{ url_for('document', doc_id=doc.doc_id) }}">{{ doc.title }}</a></h2>
+      {% for hit in g.hits %}
+        <section class="excerpt">
+          <h3>{{ hit.chunk.heading }}</h3>
+          {% for line in hit.chunk.text.split('\n') %}
+            {% if line.startswith('- ') %}<p class="li">{{ line[2:] }}</p>{% else %}<p>{{ line }}</p>{% endif %}
+          {% endfor %}
+        </section>
+      {% endfor %}
+      {% include "_source.html" %}
+    </article>
+  {% endfor %}
+{% endif %}
+
+<aside class="appointment">
+  <h2>Questions to ask at your appointment</h2>
+  {% if not appt_reviewed %}<p class="draft">Draft list — awaiting clinical reviewer approval.</p>{% endif %}
+  <ul>
+    {% for q in appointment_questions %}<li>{{ q }}</li>{% endfor %}
+  </ul>
+  <button type="button" onclick="window.print()">Print these questions</button>
+</aside>
+{% endblock %}

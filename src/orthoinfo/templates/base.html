@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{% block title %}Library{% endblock %} · Exclusive Orthopedics Hub</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header class="site">
+    <a class="brand" href="{{ url_for('site') }}">Exclusive Orthopedics Hub</a>
+    <span class="tag">Source library · education only</span>
+    <nav>
+      <a href="{{ url_for('site') }}">Hub</a>
+      <a href="{{ url_for('site') }}#orthobot">OrthoBot</a>
+      <a href="{{ url_for('home') }}">Library</a>
+      <a href="{{ url_for('about') }}">About &amp; sources</a>
+    </nav>
+  </header>
+  <main>
+    <form class="search" action="{{ url_for('search') }}" method="get" role="search">
+      <div class="row">
+        <label for="q" class="visually-hidden">Your question</label>
+        <input id="q" name="q" type="search" value="{{ query or '' }}"
+               placeholder="Ask a question, e.g. why do my fingers go numb at night?" autofocus>
+        <button type="submit">Search</button>
+      </div>
+      <label class="widen"><input type="checkbox" name="all" value="1" {% if widen %}checked{% endif %}>
+        {% if extra_types %}Also search {{ extra_types }}{% else %}Search all sources{% endif %}</label>
+    </form>
+    {% block content %}{% endblock %}
+  </main>
+  <footer>
+    <p>{{ emergency_notice }}</p>
+    <p>General information from public sources, not medical advice. Dataset {{ version }} · search: {{ method }}.</p>
+  </footer>
+</body>
+</html>

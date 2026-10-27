@@ -1,0 +1,3 @@
+participant_id,version,order,scenario_id,completed,seconds,comprehension_0to3,checked_source,unsupported_statements,notes
+P01,baseline,1,S1,1,140,2,0,0,example row - delete; scrolled specialty menu before finding hand section
+P01,new,2,S2,1,65,3,1,0,example row - delete
