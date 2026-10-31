@@ -9,10 +9,10 @@ semantic_model = "sentence-transformers/all-MiniLM-L6-v2"
 # The app has a checkbox to widen a search to all types.
 default_source_types = ["patient_education"]
 
-# Section headings that are website chrome (button labels, link lists) rather than content.
-# The NIAMS scraper in dataset v2026-10-26 let these through; passages under these headings
-# are never shown. Remove an entry here once the dataset no longer contains it.
-exclude_headings = ["Related Information", "Learn About Research"]
+# Section headings that are website chrome (button labels, link lists) rather than content;
+# passages under these headings are never shown. The rebuilt v2026-10-26 dataset (fixed
+# NIAMS scraper) no longer contains "Related Information" or "Learn About Research".
+exclude_headings = []
 
 # If a method's confidence (its top score) is below this value, the app says the
 # collection cannot answer the question instead of showing weak matches.

@@ -26,6 +26,24 @@ def test_parse_jats_extracts_metadata_and_sections():
     assert headings == ["Abstract", "Methods", "Methods — Search"]  # Funding skipped
 
 
+def test_parse_jats_skips_tables_nested_in_paragraphs():
+    xml = JATS.replace(
+        b"<p>We reviewed trials.</p>",
+        b"<p>We reviewed trials.<table-wrap><label>Table 1</label><table><tr><td>cell</td></tr></table>"
+        b"</table-wrap> All were included.</p>",
+    )
+    methods = next(s for s in parse_jats(xml)["sections"] if s["heading"] == "Methods")
+    assert methods["text"] == "We reviewed trials. All were included."
+
+
+def test_parse_jats_authors_marked_on_group():
+    xml = JATS.replace(
+        b'<contrib-group><contrib contrib-type="author">',
+        b'<contrib-group content-type="author"><contrib>',
+    )
+    assert parse_jats(xml)["authors"] == ["A Lee"]
+
+
 def test_html_sections_split_at_headings():
     html = "<p>Intro.</p><h2>Symptoms</h2><p>Pain.</p><ul><li>Swelling</li></ul><h3>Causes</h3><p>Injury.</p>"
     assert html_sections(html, "Topic") == [

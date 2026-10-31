@@ -64,12 +64,31 @@ ul.pl{padding-left:20px}ul.pl li{margin:6px 0}
 .bnote{font-size:13px;color:var(--mut);margin:10px 0 0}
 .appt{font-size:14px}.appt .draft{color:var(--mut);font-style:italic}
 footer{background:var(--pri2);color:#cfe3f8;padding:36px 0;font-size:14px}footer a{color:#fff}
+/* Medical disclaimer: deliberately high-contrast and large so it can't be missed. */
+.disclaimer{background:#fff4d6;color:#3d2f00;border-bottom:3px solid #c99a2e;font-size:17px;line-height:1.5}
+.disclaimer .wrap{display:flex;gap:14px;align-items:flex-start;padding-top:16px;padding-bottom:16px}
+.disclaimer .ic{font-size:28px;line-height:1;flex:none}.disclaimer p{margin:0}
+.disclaimer strong{display:block;font-size:19px;margin-bottom:2px}
+.msg.doctor,.doctor-box{background:#fff4d6;color:#3d2f00;border:2px solid #c99a2e;font-size:16px}
+.doctor-box{border-radius:12px;padding:12px 14px;margin:0 0 14px}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .disclaimer,:root:not([data-theme="light"]) .msg.doctor,:root:not([data-theme="light"]) .doctor-box{background:#3a3220;color:#fbefc8;border-color:#c99a2e}}
+:root[data-theme="dark"] .disclaimer,:root[data-theme="dark"] .msg.doctor,:root[data-theme="dark"] .doctor-box{background:#3a3220;color:#fbefc8;border-color:#c99a2e}
+.about-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:20px}
+.about-grid .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+.about-grid h3{font-size:1.15rem}.about-grid p,.about-grid li{color:var(--mut);font-size:15px}
+.about-grid ul{padding-left:20px;margin:.4em 0 0}.about-lead{max-width:760px;font-size:1.05rem}
 @media (max-width: 760px){.hero .hero-inner{grid-template-columns:1fr}.hero-visual{min-height:240px}}
 </style></head><body>
 <header><div class="wrap bar">
 <a class="brand" href="#top"><svg width="34" height="34" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="10" fill="#0b5cad"/><path d="M12 10c-3 0-4 4-1 5l3 2 6 6 2 3c1 3 5 2 5-1 0-2-2-2-3-3l-6-6c0-2-2-6-6-6zM28 30c3 0 4-4 1-5l-3-2-6-6-2-3c-1-3-5-2-5 1 0 2 2 2 3 3l6 6c0 2 2 6 6 6z" fill="#fff" transform="translate(0 0) scale(1)" opacity=".95"/></svg>Exclusive Orthopedics Hub</a>
-<nav id="nav"><a href="#specialties">Specialties</a><a href="#explore">Explore</a><a href="#orthobot">OrthoBot</a><a href="#resources">Resources</a><a id="libLink" href="/library">Source library</a></nav>
+<nav id="nav"><a href="#specialties">Specialties</a><a href="#explore">Explore</a><a href="#orthobot">OrthoBot</a><a href="#resources">Resources</a><a id="libLink" href="/library">Source library</a><a href="#about">About</a></nav>
 </div></header>
+
+<div class="disclaimer" role="note" aria-label="Medical disclaimer"><div class="wrap">
+<span class="ic" aria-hidden="true">⚠️</span>
+<p><strong>Medical disclaimer: information only, not medical advice</strong>
+This website does not give medical advice and does not diagnose any condition. It only provides general information from public sources. Always talk to a physician or other qualified healthcare provider about your symptoms, diagnosis or treatment. In an emergency, call 911 or your local emergency number.</p>
+</div></div>
 
 <div id="top" class="hero"><div class="wrap hero-inner">
 <div>
@@ -94,10 +113,12 @@ footer{background:var(--pri2);color:#cfe3f8;padding:36px 0;font-size:14px}footer
 
 <section id="orthobot"><div class="wrap">
 <h2>Ask an OrthoBot</h2><p style="color:var(--mut);max-width:760px">Ask a question and OrthoBot shows the passages from vetted public sources (MedlinePlus, NIH/NIAMS and more) that relate to it, with the publisher, licence and date beside each one. It quotes its sources rather than writing its own answers, and it cannot diagnose or give personal medical advice.</p>
-<div class="chat"><div id="log" aria-live="polite"><div class="msg" id="greet">Hello! Ask about a condition or procedure, for example “Why do my fingers feel numb at night?”.</div></div>
+<div class="chat">
+<div class="doctor-box" role="note"><strong>🩺 Always consult your physician.</strong> OrthoBot shares general information only. It is not a doctor, cannot diagnose you, and cannot tell you what treatment is right for you. Please talk to a physician or other qualified healthcare provider about your symptoms and before making any decisions about your care.</div>
+<div id="log" aria-live="polite"><div class="msg" id="greet">Hello! Ask about a condition or procedure, for example “Why do my fingers feel numb at night?”.</div></div>
 <form onsubmit="bot();return false"><input id="bq" maxlength="500" autocomplete="off" aria-label="Your question" placeholder="e.g., Why do my fingers feel numb at night?"><button id="bsend">Ask</button></form>
 <label class="bopt" id="bOpt" hidden><input type="checkbox" id="bAll"> <span id="bAllText"></span></label>
-<p class="bnote">General information, not medical advice. If you have severe pain, a visibly deformed limb, numbness that comes on suddenly, or signs of infection, seek medical care now.</p></div>
+<p class="bnote"><strong>General information only, not medical advice.</strong> If you have severe pain, a visibly deformed limb, numbness that comes on suddenly, or signs of infection, seek medical care now or call 911.</p></div>
 </div></section>
 
 <section id="resources" class="alt"><div class="wrap">
@@ -109,7 +130,22 @@ footer{background:var(--pri2);color:#cfe3f8;padding:36px 0;font-size:14px}footer
 <li><a href="https://www.cochranelibrary.com/" target="_blank" rel="noopener">Cochrane Library</a> — systematic reviews of interventions</li>
 </ul></div></section>
 
-<footer><div class="wrap">© Exclusive Orthopedics Hub — educational prototype. Content is a general summary and is not medical advice; consult a qualified clinician for individual care.</div></footer>
+<section id="about"><div class="wrap">
+<h2>About this application</h2>
+<p class="about-lead">Exclusive Orthopedics Hub helps patients, caregivers and students find general, trustworthy information about bone, joint and muscle conditions, for example to understand a condition or prepare questions before an appointment. Everything it shows comes from public sources, and each source is named so you can check it.</p>
+<div class="doctor-box" role="note" style="max-width:760px;margin-top:16px"><strong>What this application is not.</strong> It does not give medical advice, does not diagnose, and does not recommend treatment. It cannot see your history, examine you or order tests, so it cannot tell what is causing your symptoms. Use it to learn and to prepare questions, then talk to a physician or other qualified healthcare provider.</div>
+<div class="about-grid">
+<div class="card"><h3>🔎 Search bar</h3><p>At the top of the page. Type a condition, procedure or subspecialty (for example “carpal tunnel” or “ACL”) to find it in the subspecialty summaries on this page. Choosing a result opens it in the Explore section.</p></div>
+<div class="card"><h3>🦴 Specialties</h3><p>Six orthopedic subspecialties: sports medicine, spine, trauma, hand and upper extremity, joint reconstruction, and foot and ankle. Choose one to open its overview in Explore.</p></div>
+<div class="card"><h3>📖 Explore</h3><p>A short overview of the chosen subspecialty, with five tabs:</p><ul><li><b>Common conditions</b>: what each condition is, in brief</li><li><b>Procedures</b>: operations and treatments used in that area</li><li><b>Diagnostics</b>: examinations and tests clinicians use</li><li><b>Evidence summary</b>: what research generally shows about treatment</li><li><b>Sources</b>: links to AAOS, OrthoInfo and a PubMed search</li></ul></div>
+<div class="card"><h3>💬 OrthoBot</h3><p>Ask a question in your own words. OrthoBot searches the source library and shows the matching passages exactly as the sources wrote them, with the publisher, licence and date beside each one. It does not write its own answers, and it says so when it can’t find a reliable match.</p><ul><li>Tick the box under the question to include textbooks and research articles as well as patient information.</li><li>Each answer ends with suggested questions to ask at your appointment.</li><li>Questions asking for a personal diagnosis or dose get a reminder that only a clinician can answer them.</li></ul></div>
+<div class="card"><h3>🔗 Resources</h3><p>Links to trusted organizations outside this site: OrthoInfo and AAOS (the American Academy of Orthopaedic Surgeons), PubMed and the Cochrane Library.</p></div>
+<div class="card"><h3>📚 Source library</h3><p>The full collection that OrthoBot searches: patient information from MedlinePlus (U.S. National Library of Medicine) and NIH (NIAMS), an open anatomy textbook (OpenStax), and open-access research articles from Europe PMC.</p><ul><li><b>Library</b>: search the collection, and list the patient-information topics</li><li><b>Browse</b>: list research articles by topic, or textbook chapters</li><li><b>Document pages</b>: the full text of each source, with a link to the original</li><li><b>About &amp; sources</b>: how many documents come from each source, and their licences</li></ul></div>
+</div>
+<p style="color:var(--mut);max-width:760px;margin-top:20px">This is an educational prototype. Information can be incomplete or out of date, and research articles are written for clinicians and report single studies. In an emergency, call 911 or your local emergency number.</p>
+</div></section>
+
+<footer><div class="wrap">© Exclusive Orthopedics Hub — educational prototype. <strong>This website does not give medical advice and does not diagnose.</strong> It provides general information only. Consult a physician or other qualified healthcare provider for advice about your own health.</div></footer>
 
 <script>
 const pm=t=>({t:"PubMed: "+t,u:"https://pubmed.ncbi.nlm.nih.gov/?term="+encodeURIComponent(t)});
@@ -190,8 +226,13 @@ $("libLink").href=API+"/library";
 const mk=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e};
 const safeUrl=u=>/^https:\/\//i.test(u||"")?u:null;
 function addMsg(node){const log=$("log");log.appendChild(node);log.scrollTop=log.scrollHeight;return node}
+/* Scroll the chat so `node` (the question just asked) sits at the top, with its answer below it.
+   Instant, in the same task as rendering: the reader never sees the bottom of a long answer first. */
+function showFrom(node){const log=$("log");log.scrollTop+=node.getBoundingClientRect().top-log.getBoundingClientRect().top}
 function renderLines(box,lines){let ul=null;lines.forEach(t=>{if(t.startsWith("- ")){if(!ul){ul=mk("ul");box.appendChild(ul)}ul.appendChild(mk("li",null,t.slice(2)))}else{ul=null;box.appendChild(mk("p",null,t))}})}
+const DOCTOR_REMINDER="Reminder: this is general information, not medical advice or a diagnosis. Please consult a physician or other qualified healthcare provider about your symptoms and before making any decisions about your care.";
 function renderAnswer(j){
+ addMsg(mk("div","msg doctor","🩺 "+DOCTOR_REMINDER));
  if(j.scope_notice)addMsg(mk("div","msg notice",j.scope_notice));
  if(!j.found){addMsg(mk("div","msg","I couldn’t find a reliable match for that in the sources I have. Try different wording, search above, browse the source library, or ask your clinician."))}
  else{
@@ -216,14 +257,14 @@ let busy=false;
 async function bot(){
  const v=$("bq").value.trim();if(!v||busy)return false;
  busy=true;$("bsend").disabled=true;$("bq").value="";
- addMsg(mk("div","msg me",v));
+ const asked=addMsg(mk("div","msg me",v));
  const wait=addMsg(mk("div","msg","Searching the sources…"));
  try{
   const r=await fetch(API+"/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({question:v,all_sources:$("bAll").checked})});
   const j=await r.json().catch(()=>({}));wait.remove();
   if(r.ok)renderAnswer(j);else addMsg(mk("div","msg err",j.error||"Sorry, something went wrong. Please try again."));
  }catch(e){wait.remove();addMsg(mk("div","msg err","I can’t reach the OrthoBot service right now. You can still use the search bar above."))}
- finally{busy=false;$("bsend").disabled=false}
+ finally{busy=false;$("bsend").disabled=false;showFrom(asked)}
  }
 fetch(API+"/api/info").then(r=>r.ok?r.json():Promise.reject()).then(i=>{
  const extra=Object.entries(i.source_types_available).filter(([t])=>!i.default_source_types.includes(t));

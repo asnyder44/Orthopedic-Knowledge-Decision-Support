@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% set label = type_labels[source_type] %}
+{% block title %}{{ label }}s{% endblock %}
+{% block content %}
+<p class="muted"><a href="{{ url_for('home') }}">← Library</a></p>
+<h1>{{ label }}s</h1>
+{% if source_type == 'research_article' %}
+  <p class="audience-note">Written for clinicians and researchers. Each article reports its own
+     findings; ask your clinician what they mean for you.</p>
+{% endif %}
+
+<form class="browse-filter" action="{{ url_for('browse', source_type=source_type) }}" method="get">
+  {% if topics %}
+    <label for="topic">Topic</label>
+    <select id="topic" name="topic" onchange="this.form.submit()">
+      <option value="">All topics</option>
+      {% for t, n in topics %}
+        <option value="{{ t }}" {% if t == topic %}selected{% endif %}>{{ t[:1] | upper }}{{ t[1:] }} ({{ n }})</option>
+      {% endfor %}
+    </select>
+  {% endif %}
+  <label for="title-filter">Title contains</label>
+  <input id="title-filter" name="q" type="search" value="{{ q }}" placeholder="e.g. surgery">
+  <button type="submit">Filter</button>
+  {% if topic or q %}<a href="{{ url_for('browse', source_type=source_type) }}">Clear</a>{% endif %}
+</form>
+
+{% if docs %}
+  <p class="muted">Showing {{ start + 1 }}–{{ start + docs | length }} of {{ total }}{% if topics %}, most cited first{% endif %}.</p>
+  <ul class="doc-list">
+    {% for d in docs %}
+      <li><a href="{{ url_for('document', doc_id=d.doc_id) }}">{{ d.title }}</a>
+        <span class="muted">· {{ d.container }}{% if d.published %} · {{ d.published[:4] }}{% endif %}
+          {%- if d.cited_by %} · cited {{ d.cited_by }} times{% endif %}
+          {%- if d.collected_for and not topic %} · {{ d.collected_for }}{% endif %}</span></li>
+    {% endfor %}
+  </ul>
+  {% if pages > 1 %}
+    <nav class="pager" aria-label="Pages">
+      {% if page > 1 %}<a href="{{ url_for('browse', source_type=source_type, topic=topic or None, q=q or None, page=page - 1) }}">← Previous</a>{% endif %}
+      <span class="muted">Page {{ page }} of {{ pages }}</span>
+      {% if page < pages %}<a href="{{ url_for('browse', source_type=source_type, topic=topic or None, q=q or None, page=page + 1) }}">Next →</a>{% endif %}
+    </nav>
+  {% endif %}
+{% else %}
+  <p class="empty">No {{ label | lower }}s match this filter.</p>
+{% endif %}
+{% endblock %}

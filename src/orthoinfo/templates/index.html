@@ -22,8 +22,13 @@
       {% endfor %}
     </ul>
   </details>
-  <p class="muted">The collection also holds
-    {% for t, n in counts.items() if t != 'patient_education' %}{{ n }} {{ type_labels[t] | lower }}{{ 's' if n != 1 }}{{ ', ' if not loop.last }}{% endfor %}
-    — tick the box above to include them in a search.</p>
+  <h2>Other sources in the collection</h2>
+  <ul class="topics">
+    {% for t, n in counts | dictsort if t != 'patient_education' %}
+      <li><a href="{{ url_for('browse', source_type=t) }}">{{ type_labels[t] }}s</a>
+        <span class="muted">· {{ n }}</span></li>
+    {% endfor %}
+  </ul>
+  <p class="muted">Tick the box above to include them in a search.</p>
 </section>
 {% endblock %}

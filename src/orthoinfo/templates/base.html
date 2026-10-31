@@ -15,8 +15,17 @@
       <a href="{{ url_for('site') }}#orthobot">OrthoBot</a>
       <a href="{{ url_for('home') }}">Library</a>
       <a href="{{ url_for('about') }}">About &amp; sources</a>
+      <a href="{{ url_for('site') }}#about">About this app</a>
     </nav>
   </header>
+  <div class="disclaimer" role="note" aria-label="Medical disclaimer">
+    <span class="ic" aria-hidden="true">⚠️</span>
+    <p><strong>Medical disclaimer: information only, not medical advice</strong>
+      This website does not give medical advice and does not diagnose any condition. It only
+      provides general information from public sources. Always talk to a physician or other
+      qualified healthcare provider about your symptoms, diagnosis or treatment. In an
+      emergency, call 911 or your local emergency number.</p>
+  </div>
   <main>
     <form class="search" action="{{ url_for('search') }}" method="get" role="search">
       <div class="row">
@@ -32,7 +41,9 @@
   </main>
   <footer>
     <p>{{ emergency_notice }}</p>
-    <p>General information from public sources, not medical advice. Dataset {{ version }} · search: {{ method }}.</p>
+    <p><strong>This website does not give medical advice and does not diagnose.</strong> It provides
+       general information from public sources only; consult a physician about your own health.
+       Dataset {{ version }} · search: {{ method }}.</p>
   </footer>
 </body>
 </html>

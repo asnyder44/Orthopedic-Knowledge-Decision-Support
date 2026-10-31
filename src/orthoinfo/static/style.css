@@ -21,6 +21,14 @@ header nav { margin-left: auto; display: flex; gap: 4px; flex-wrap: wrap; }
 header nav a { padding: 8px 12px; border-radius: 8px; color: var(--fg); text-decoration: none; font-size: 14px; }
 header nav a:hover { background: var(--alt); color: var(--accent); }
 main { max-width: 52rem; margin: 0 auto; padding: 1rem; }
+/* Medical disclaimer: deliberately high-contrast and large so it can't be missed. */
+.disclaimer { display: flex; gap: .9rem; align-items: flex-start; background: #fff4d6; color: #3d2f00;
+              border-bottom: 3px solid #c99a2e; font-size: 1.06rem; line-height: 1.5;
+              padding: 1rem max(1rem, calc((100% - 1120px) / 2 + 20px)); }
+.disclaimer .ic { font-size: 1.75rem; line-height: 1; flex: none; }
+.disclaimer p { margin: 0; }
+.disclaimer strong { display: block; font-size: 1.19rem; margin-bottom: .1rem; }
+@media (prefers-color-scheme: dark) { .disclaimer { background: #3a3220; color: #fbefc8; } }
 form.search { margin: 1rem 0 1.5rem; }
 form.search .row { display: flex; gap: .5rem; }
 .widen { display: block; margin-top: .5rem; font-size: .9rem; color: var(--muted); }
@@ -53,6 +61,13 @@ p.li::before { content: "•"; position: absolute; left: .3rem; }
 .alt { color: var(--muted); }
 .results-heading { font-size: 1.3rem; }
 ul.topics { columns: 2; padding-left: 1.2rem; }
+ul.doc-list { padding-left: 1.2rem; }
+ul.doc-list li { margin: .45rem 0; }
+form.browse-filter { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin: 1rem 0; }
+form.browse-filter select, form.browse-filter input { padding: .5rem .6rem; font: inherit; min-width: 0;
+         border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--fg); }
+form.browse-filter input { flex: 1 1 12rem; }
+.pager { display: flex; gap: 1rem; align-items: center; justify-content: center; margin: 1.5rem 0; }
 table { width: 100%; border-collapse: collapse; font-size: .95rem; }
 th, td { text-align: left; padding: .4rem; border-bottom: 1px solid var(--line); }
 footer { max-width: 52rem; margin: 2rem auto; padding: 0 1rem; color: var(--muted); font-size: .85rem; }

@@ -28,6 +28,23 @@ def test_website_served_at_root_with_security_headers():
     assert "frame-ancestors 'none'" in r.headers["Content-Security-Policy"]
 
 
+def test_medical_disclaimer_on_every_page():
+    for path in ("/", "/library", "/search?q=carpal+tunnel", "/doc/mplus:carpaltunnelsyndrome",
+                 "/browse/research_article", "/about"):
+        html = client().get(path).get_data(as_text=True)
+        assert 'class="disclaimer"' in html, path
+        assert "does not give medical advice and does not diagnose" in html, path
+
+
+def test_orthobot_reminds_to_consult_a_physician_and_about_section():
+    html = client().get("/").get_data(as_text=True)
+    assert "Always consult your physician." in html  # permanent box in the chat
+    assert "DOCTOR_REMINDER" in html  # repeated at the top of every answer
+    assert 'id="about"' in html and 'href="#about"' in html
+    for part in ("Search bar", "Specialties", "Explore", "OrthoBot", "Resources", "Source library"):
+        assert part in html.split('id="about"', 1)[1], part
+
+
 def test_existing_site_features_still_present():
     html = client().get("/").get_data(as_text=True)
     for marker in ("function doSearch()", "function pick(", 'id="tiles"', "Orthopedic subspecialties", "Trusted sources"):
@@ -110,3 +127,17 @@ def test_library_pages_still_work():
     assert c.get("/doc/mplus:carpaltunnelsyndrome").status_code == 200
     assert c.get("/doc/does-not-exist").status_code == 404
     assert c.get("/about").status_code == 200
+
+
+def test_browse_lists_non_patient_sources():
+    c = client()
+    library = c.get("/library").get_data(as_text=True)
+    assert "/browse/research_article" in library and "/browse/textbook" in library
+    html = c.get("/browse/research_article").get_data(as_text=True)
+    assert "of 2220, most cited first" in html and html.count('href="/doc/pmc:') == 50
+    html = c.get("/browse/research_article?topic=carpal+tunnel+syndrome&q=surgery").get_data(as_text=True)
+    assert "/doc/pmc:" in html and "Showing 1–" in html
+    assert "No research articles match" in c.get("/browse/research_article?q=zzzz").get_data(as_text=True)
+    assert c.get("/browse/textbook").status_code == 200
+    assert c.get("/browse/patient_education").status_code == 404  # already listed on /library
+    assert c.get("/browse/nonsense").status_code == 404

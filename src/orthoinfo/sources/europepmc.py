@@ -100,8 +100,29 @@ def collect(out: Path, cfg: dict, http) -> None:
                    missing_fulltext=missing)
 
 
+# Elements whose text is not running prose; some journals nest them inside <p>.
+NON_PROSE = {"table-wrap", "table", "fig", "fig-group", "table-wrap-group", "supplementary-material",
+             "graphic", "media", "alternatives", "disp-formula-group"}
+
+
+def _gather(el, parts: list[str]) -> None:
+    if el.text:
+        parts.append(el.text)
+    for child in el:
+        if child.tag not in NON_PROSE:
+            _gather(child, parts)
+        else:
+            parts.append(" ")
+        if child.tail:
+            parts.append(child.tail)
+
+
 def _text(el) -> str:
-    return re.sub(r"\s+", " ", "".join(el.itertext())).strip() if el is not None else ""
+    if el is None:
+        return ""
+    parts: list[str] = []
+    _gather(el, parts)
+    return re.sub(r"\s+", " ", "".join(parts)).strip()
 
 
 def _paragraphs(sec) -> list[str]:
@@ -145,8 +166,20 @@ def parse_jats(xml_bytes: bytes) -> dict:
             _walk(sec, [], sections)
 
     authors = []
-    for name in root.findall(".//contrib-group/contrib[@contrib-type='author']/name"):
-        authors.append(" ".join(filter(None, [_text(name.find("given-names")), _text(name.find("surname"))])))
+    # Authorship is marked on each <contrib contrib-type="author"> or, in some journals,
+    # on the group (<contrib-group content-type="author">).
+    for group in (meta.findall("contrib-group") if meta is not None else []):
+        for contrib in group.findall("contrib"):
+            role = contrib.get("contrib-type") or group.get("content-type") or "author"
+            name = contrib.find(".//name")
+            if role != "author":
+                continue
+            if name is not None:
+                authors.append(" ".join(filter(None, [_text(name.find("given-names")), _text(name.find("surname"))])))
+            elif contrib.find(".//string-name") is not None:
+                authors.append(_text(contrib.find(".//string-name")))
+            elif contrib.find("collab") is not None:
+                authors.append(_text(contrib.find("collab")))
     lic = root.find(".//permissions/license")
     href = lic.get("{http://www.w3.org/1999/xlink}href") if lic is not None else None
     return {

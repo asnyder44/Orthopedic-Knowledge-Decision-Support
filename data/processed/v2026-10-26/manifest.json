@@ -1,25 +1,30 @@
 {
   "version": "v2026-10-26",
-  "documents": 151,
-  "chunks": 1206,
-  "words": 143284,
+  "documents": 2371,
+  "chunks": 72152,
+  "words": 9952122,
   "by_source": {
     "medlineplus": 78,
     "niams": 28,
-    "openstax": 45
+    "openstax": 45,
+    "europepmc": 2220
   },
   "by_source_type": {
     "patient_education": 106,
-    "textbook": 45
+    "textbook": 45,
+    "research_article": 2220
   },
   "by_license": {
     "Public domain (NLM-authored MedlinePlus summary); credit MedlinePlus": 78,
     "Public domain (U.S. federal government work, NIH/NIAMS); credit NIAMS": 28,
-    "CC BY 4.0 (OpenStax); attribute OpenStax and link to the book": 45
+    "CC BY 4.0 (OpenStax); attribute OpenStax and link to the book": 45,
+    "CC BY": 2213,
+    "CC BY-SA": 4,
+    "CC0": 3
   },
   "sha256": {
-    "documents.jsonl.gz": "b52c8567cdf4abd3176cbf893753c846b915152c437891046de5593b18adafb6",
-    "chunks.jsonl.gz": "f98f7981b5e5d0302cbf132cefd236a673a9a03bc1737399102ae89f86a8a8c6",
-    "inventory.csv": "df3b8cae289c7f89aa2e5a4d715db017cbe6ca4e91599fecc57be0ced37175c3"
+    "documents.jsonl.gz": "278acd40cd07319b2a89c1e5c7446f51bbbdc74828f3b836ba64193d6d71d373",
+    "chunks.jsonl.gz": "65ed0ad4c5507ffba78602fda95cd9833df8e6e79bdabd0862232ab749c2368c",
+    "inventory.csv": "50d80a31344b78c680b420ea258889f02493031127d832c917d31f1fcc08d6dc"
   }
 }

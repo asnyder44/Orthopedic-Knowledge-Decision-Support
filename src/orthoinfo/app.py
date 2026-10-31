@@ -3,6 +3,7 @@
   /                 the Exclusive Orthopedics Hub website (index.html at the project root)
   /library          Anna's search UI (topic browser, search results, source pages)
   /search /doc/... /about    library pages (unchanged behaviour)
+  /browse/<type>    list research articles or textbooks, filterable by topic and title
   POST /api/ask     OrthoBot endpoint used by the website's "Ask an OrthoBot" section
   GET  /api/health  liveness + dataset info (use for deploy health checks)
   GET  /api/info    dataset info for the front end (which source types exist)
@@ -31,6 +32,7 @@ from .service import TYPE_LABELS, OrthoService
 log = logging.getLogger("orthoinfo")
 
 MAX_QUESTION_CHARS = 500
+BROWSE_PAGE = 50  # documents per page on /browse/<type>
 CSP = ("default-src 'self'; img-src 'self' https: data:; style-src 'self' 'unsafe-inline'; "
        "script-src 'self' 'unsafe-inline'; connect-src 'self'; base-uri 'self'; "
        "form-action 'self'; frame-ancestors 'none'")
@@ -111,6 +113,31 @@ def create_app(method: str | None = None, version: str | None = None) -> Flask:
     def document(doc_id: str):
         doc = svc.docs.get(doc_id) or abort(404)
         return render_template("topic.html", **common, doc=doc)
+
+    @app.get("/browse/<source_type>")
+    def browse(source_type: str):
+        """List the non-patient sources (research articles, textbooks), which the library
+        page doesn't: filter by the topic they were collected for and by title words."""
+        if source_type == "patient_education" or not svc.type_counts.get(source_type):
+            abort(404)
+        docs = [d for d in svc.documents if d["source_type"] == source_type]
+        topics = sorted(Counter(d["collected_for"] for d in docs if d.get("collected_for")).items(),
+                        key=lambda item: item[0].lower())
+        topic = request.args.get("topic", "")
+        q = request.args.get("q", "").strip()[:MAX_QUESTION_CHARS]
+        if topic:
+            docs = [d for d in docs if d.get("collected_for") == topic]
+        if q:
+            words = q.lower().split()
+            docs = [d for d in docs if all(w in f"{d['title']} {d.get('container') or ''}".lower() for w in words)]
+        if topics:  # research articles: most cited first; textbooks keep book order
+            docs.sort(key=lambda d: (-int(d.get("cited_by") or 0), d["title"]))
+        pages = max(1, -(-len(docs) // BROWSE_PAGE))
+        page = min(max(request.args.get("page", 1, type=int), 1), pages)
+        return render_template("browse.html", **common, source_type=source_type, topics=topics,
+                               topic=topic, q=q, total=len(docs), page=page, pages=pages,
+                               start=(page - 1) * BROWSE_PAGE,
+                               docs=docs[(page - 1) * BROWSE_PAGE:page * BROWSE_PAGE])
 
     @app.get("/about")
     def about():

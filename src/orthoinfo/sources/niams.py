@@ -54,8 +54,11 @@ def _content(page: str) -> str:
     # The article ends where the link cards ("View all Diseases", "Related Information")
     # or the review date begin, whichever comes first.
     ends = [i for i in (page.find("view-all__btn-wrap", start), page.find("Last Reviewed", start)) if i != -1]
-    body = page[start:min(ends)] if ends else page[start:]
-    return re.sub(r'<ul class="nav navigation-tabs".*?</ul>', " ", body, flags=re.S)
+    end = min(ends) if ends else len(page)
+    end = page.rfind("<", start, end) if "<" in page[start:end] else end  # don't cut inside a tag
+    body = re.sub(r'<ul class="nav navigation-tabs".*?</ul>', " ", page[start:end], flags=re.S)
+    # Buttons for the page's own PDF/print versions.
+    return re.sub(r"<a\b[^>]*>\s*(Download PDF|Print)\s*</a>", " ", body)
 
 
 def parse(raw: Path, cfg: dict):
