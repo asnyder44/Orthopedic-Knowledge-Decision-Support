@@ -17,14 +17,18 @@ import datetime as dt
 import json
 import logging
 import os
+import secrets
 import threading
 import time
 import uuid
 from collections import Counter, defaultdict, deque
 
 from flask import Flask, abort, jsonify, make_response, render_template, request, send_file
+from okds import llm
+from okds.web import bp as ko_portal
 from werkzeug.exceptions import HTTPException
 
+from .assistant import HubAssistant
 from .config import LOG_DIR, ROOT
 from .safety import EMERGENCY_NOTICE
 from .service import TYPE_LABELS, OrthoService
@@ -32,6 +36,7 @@ from .service import TYPE_LABELS, OrthoService
 log = logging.getLogger("orthoinfo")
 
 MAX_QUESTION_CHARS = 500
+MAX_API_BODY = 16 * 1024  # /api/ask requests
 BROWSE_PAGE = 50  # documents per page on /browse/<type>
 CSP = ("default-src 'self'; img-src 'self' https: data:; style-src 'self' 'unsafe-inline'; "
        "script-src 'self' 'unsafe-inline'; connect-src 'self'; base-uri 'self'; "
@@ -63,14 +68,22 @@ class RateLimiter:
 
 def create_app(method: str | None = None, version: str | None = None) -> Flask:
     app = Flask(__name__)
-    app.config["MAX_CONTENT_LENGTH"] = 16 * 1024
+    # KO Portal pages send whole KOs and source texts; the OrthoBot API keeps its own 16 KB limit below.
+    app.config["MAX_CONTENT_LENGTH"] = 4 * 1024 * 1024
+    # Sessions hold the KO Portal's form token and editor sign-in. Without a fixed key, sign-ins end
+    # when the server restarts (gunicorn preloads the app, so all workers share the generated key).
+    app.secret_key = os.environ.get("ORTHOINFO_SECRET_KEY") or secrets.token_bytes(32)
+    app.config.update(SESSION_COOKIE_SAMESITE="Lax", SESSION_COOKIE_HTTPONLY=True,
+                      SESSION_COOKIE_SECURE=os.environ.get("ORTHOINFO_SECURE_COOKIES") == "1")
     if os.environ.get("ORTHOINFO_TRUST_PROXY") == "1":  # behind nginx / a PaaS router
         from werkzeug.middleware.proxy_fix import ProxyFix
 
         app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
 
     svc = OrthoService(method, version)
+    assistant = app.extensions["orthobot_assistant"] = HubAssistant()
     limiter = RateLimiter(int(os.environ.get("ORTHOINFO_RATE_LIMIT", "30")))
+    ai_limiter = RateLimiter(int(os.environ.get("ORTHOBOT_AI_RATE_LIMIT", "6")))
     log_queries = os.environ.get("ORTHOINFO_LOG_QUERIES") == "1"
     cors = [o.strip() for o in os.environ.get("ORTHOINFO_CORS_ORIGINS", "").split(",") if o.strip()]
     site_file = ROOT / "index.html"
@@ -79,6 +92,12 @@ def create_app(method: str | None = None, version: str | None = None) -> Flask:
               "type_labels": TYPE_LABELS, "emergency_notice": EMERGENCY_NOTICE,
               "appt_reviewed": svc.appt_reviewed,
               "extra_types": svc.extra_types_phrase}
+
+    @app.context_processor
+    def _common():  # every page, including the KO Portal's, extends base.html and needs these
+        return common
+
+    app.register_blueprint(ko_portal)
 
     # ---------------------------------------------------------------- website
     @app.get("/")
@@ -154,6 +173,8 @@ def create_app(method: str | None = None, version: str | None = None) -> Flask:
             return "", 204
         if not limiter.allow(request.remote_addr or "unknown"):
             return _error(429, "Too many questions in a short time. Please wait a minute and try again.")
+        if (request.content_length or 0) > MAX_API_BODY:
+            return _error(413, "That request is too large.")
         body = request.get_json(silent=True)
         if not isinstance(body, dict):
             return _error(400, "Send a JSON object like {\"question\": \"...\"}.")
@@ -167,15 +188,34 @@ def create_app(method: str | None = None, version: str | None = None) -> Flask:
         ans = svc.ask(question, widen=widen, max_docs=3)
         if log_queries:
             _log(question, svc.method, widen, ans.result, ans.abstain, "api")
-        return jsonify(svc.to_api(ans))
+        data = svc.to_api(ans)
+        data["knowledge_objects"] = assistant.ko_passages(question)
+        if body.get("mode") == "ai":
+            data["ai"] = _ai_answer(question, ans)
+        data["found_any"] = bool(data["found"] or data["knowledge_objects"] or (data.get("ai") or {}).get("found"))
+        return jsonify(data)
+
+    def _ai_answer(question: str, ans) -> dict:
+        if not assistant.ai_available:
+            return {"error": "AI answers are not turned on for this website. Here are the sources instead."}
+        if not ai_limiter.allow(request.remote_addr or "unknown"):
+            return {"error": "Too many AI answers in a short time. Here are the sources; try AI again in a minute."}
+        try:
+            return assistant.ai_answer(question, ans.groups)
+        except llm.LLMError as e:
+            log.warning("AI answer failed: %s", e)
+            return {"error": "The AI is not available right now. Here are the sources instead."}
+
+    def _info() -> dict:
+        return {**svc.info(), "knowledge_objects": assistant.ko_count(), "ai_answers": assistant.ai_available}
 
     @app.get("/api/health")
     def api_health():
-        return jsonify({"status": "ok", **svc.info()})
+        return jsonify({"status": "ok", **_info()})
 
     @app.get("/api/info")
     def api_info():
-        return jsonify(svc.info())
+        return jsonify(_info())
 
     # ---------------------------------------------------------------- cross-cutting
     def _error(status: int, message: str):

@@ -1,0 +1,17 @@
+{% extends "ko/layout.html" %}
+{% block title %}Sign in{% endblock %}
+{% block content %}
+<h1>Sign in as an editor</h1>
+{% if login_available %}
+<form class="card narrow" method="post" action="{{ url_for('ko.login') }}">
+  <input type="hidden" name="csrf_token" value="{{ csrf }}">
+  <input type="hidden" name="next" value="{{ next }}">
+  <label class="field">Editor password <input type="password" name="password" autocomplete="current-password" required autofocus></label>
+  <p><button>Sign in</button></p>
+  <p class="muted small">Editors can make drafts, save, import and delete KOs, and add topics.</p>
+</form>
+{% else %}
+<div class="notice">Sign-in is off on this server. Editing works on the computer that runs the app
+  (open it at <code>http://127.0.0.1</code>), or the server owner can set <code>OKDS_EDIT_PASSWORD</code>.</div>
+{% endif %}
+{% endblock %}

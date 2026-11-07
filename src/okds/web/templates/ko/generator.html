@@ -1,0 +1,135 @@
+{% extends "ko/layout.html" %}
+{% block title %}Knowledge Object Generator{% endblock %}
+{% block content %}
+<h1>Knowledge Object Generator</h1>
+<p class="lead">Make a new KO in 5 steps, see the rules the AI follows, or watch the guide.</p>
+{% if not can_edit %}
+  <div class="notice">You are in read-only mode, so you can look around but not fetch pages, make drafts or save.
+    {% if login_available %}<a href="{{ url_for('ko.login', next=request.full_path) }}">Sign in as an editor</a>.{% endif %}</div>
+{% endif %}
+
+<div class="tabs" data-tabs>
+  <div class="tablist" role="tablist">
+    <button role="tab" data-tab="make" aria-selected="true">Make a KO</button>
+    <button role="tab" data-tab="prompt">Generator Prompt</button>
+    <button role="tab" data-tab="guide">▶ Watch the 2-minute guide</button>
+  </div>
+
+  <section class="tabpanel" data-panel="make">
+    <div class="steps" id="gen-steps" role="tablist" aria-label="Steps"></div>
+    <div class="wizard">
+      <div class="stage card">
+        <div class="g-h" id="gen-h"></div><div class="muted" id="gen-sub"></div>
+        <div class="notice" id="gen-blocked" hidden></div>
+
+        <div data-step="1">
+          <div class="seg" role="radiogroup" aria-label="Topic">
+            <label><input type="radio" name="concept_mode" value="pick" checked> Choose from the list</label>
+            <label><input type="radio" name="concept_mode" value="add"> Add a new one</label>
+          </div>
+          <div id="gen-pick">
+            <label class="field">Topic <span class="help" title="{{ data.help.topic }}">?</span>
+              <select id="gen-topic"></select></label>
+            <p class="muted small" id="gen-topic-info"></p>
+          </div>
+          <div id="gen-add" hidden>
+            <div class="row2">
+              <label class="field">Main name * <span class="help" title="{{ data.help.main_name }}">?</span>
+                <input id="nc-term" placeholder="e.g. Trigger Finger"></label>
+              <label class="field">Other names <span class="help" title="{{ data.help.other_names }}">?</span>
+                <input id="nc-alts" placeholder="e.g. stenosing tenosynovitis"></label>
+            </div>
+            <div class="row2">
+              <label class="field">KO type * <span class="help" title="{{ data.help.ko_type }}">?</span>
+                <select id="nc-type">{% for k in data.ko_types %}<option>{{ k }}</option>{% endfor %}</select></label>
+              <label class="field">Body area * <span class="help" title="{{ data.help.specialty }}">?</span>
+                <select id="nc-spec">{% for k, v in data.specialties.items() %}<option value="{{ k }}">{{ v }}</option>{% endfor %}</select></label>
+            </div>
+            <details><summary>Codes (optional)</summary><div class="row2">
+              <label class="field">MeSH ID <input id="nc-mesh"></label>
+              <label class="field">ICD-10-CM <input id="nc-icd"></label></div></details>
+            <button type="button" id="nc-add">Add topic</button>
+            <div id="nc-msg" role="status"></div>
+          </div>
+        </div>
+
+        <div data-step="2" hidden>
+          <fieldset class="field"><legend>Readers (main reader first) * <span class="help" title="{{ data.help.readers }}">?</span></legend>
+            <div id="gen-audience" class="checks"></div>
+            <p class="muted small">Order: <span id="gen-audience-order"></span></p></fieldset>
+          <label class="field">Your name <span class="help" title="{{ data.help.author }}">?</span>
+            <input id="gen-author" placeholder="e.g. Allen"></label>
+          <details><summary>More options</summary><div class="row3">
+            <label class="field">Reading level <input id="gen-reading"></label>
+            <label class="field">Difficulty <select id="gen-difficulty">{% for d in data.enums.difficulty %}<option>{{ d }}</option>{% endfor %}</select></label>
+            <label class="field">License <input id="gen-license"></label></div></details>
+        </div>
+
+        <div data-step="3" hidden>
+          <div id="gen-sources"></div>
+          <div class="btnrow">
+            <button type="button" class="secondary" id="src-add">+ Add another source</button>
+            <button type="button" class="secondary" id="src-reset">Reset sources</button>
+          </div>
+        </div>
+
+        <div data-step="4" hidden>
+          <div class="seg" role="radiogroup" aria-label="Draft mode">
+            <label><input type="radio" name="draft_mode" value="ai"> With AI</label>
+            <label><input type="radio" name="draft_mode" value="template"> Empty template (no AI)</label>
+          </div>
+          <div id="gen-draft-warn"></div>
+          <button type="button" id="gen-generate">✨ Generate draft</button>
+          <p class="muted small" id="gen-has-draft" hidden>You already have a draft. Generating again replaces it.</p>
+          <div id="gen-stream" class="stream" hidden><p class="muted small" id="gen-stream-label"></p><pre id="gen-stream-text"></pre></div>
+          <details id="gen-prompts"><summary>For experts: see the AI instructions</summary>
+            <p class="muted small">Shows the exact text the AI would get for the fields above.</p>
+            <pre id="gen-prompts-system"></pre><pre id="gen-prompts-user"></pre></details>
+        </div>
+
+        <div data-step="5" hidden>
+          <div id="gen-notes"></div>
+          <p class="muted" id="gen-no-draft">No draft yet. Go to step 4 and click “Generate draft”.</p>
+          {% with editor_id = "gen-editor" %}{% include "ko/_editor.html" %}{% endwith %}
+        </div>
+      </div>
+
+      <aside class="panel card" aria-live="polite">
+        <span class="badge-step" id="p-badge"></span>
+        <div class="p-title" id="p-title"></div>
+        <div class="p-intro" id="p-intro"></div>
+        <div class="p-fields" id="p-fields"></div>
+        <div class="p-example" id="p-example"></div>
+        <div class="track"><div id="p-track"></div></div>
+        <div class="p-hint" id="p-hint"></div>
+        <div class="btnrow">
+          <button type="button" class="secondary" id="p-back">← Back</button>
+          <button type="button" id="p-next">Next →</button>
+          <button type="button" id="p-new" hidden>New KO</button>
+          <span class="muted" id="p-count"></span>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="tabpanel" data-panel="prompt" hidden>
+    <p>The rules the AI follows when it drafts a KO.</p>
+    <p><a class="btn secondary" href="{{ url_for('ko.generator_prompt_md') }}">Download .md</a></p>
+    <div class="card prose">{{ prompt_html }}</div>
+    <details><summary>For experts: the exact instructions the portal sends to the AI</summary>
+      <p class="muted small">This is the live prompt (<code>src/okds/prompts/ko_generator.md</code>) plus the vocabulary.
+        The text above explains the same rules for people.</p>
+      <pre>{{ system_prompt }}</pre></details>
+  </section>
+
+  <section class="tabpanel" data-panel="guide" hidden>
+    <iframe class="guide" src="{{ url_for('ko.guide') }}" title="Two-minute guide to the KO Generator" loading="lazy"></iframe>
+    <details><summary>All fields at a glance</summary><div class="table-wrap"><table>
+      <tr><th>Step</th><th>Field</th><th>What it means</th></tr>
+      {% for s, f, m in field_table %}<tr><td>{{ s }}</td><td>{{ f }}</td><td>{{ m }}</td></tr>{% endfor %}
+    </table></div></details>
+  </section>
+</div>
+<script type="application/json" id="gen-data">{{ data|tojson }}</script>
+{% endblock %}
+{% block page_scripts %}<script src="{{ url_for('ko.static', filename='generator.js') }}"></script>{% endblock %}

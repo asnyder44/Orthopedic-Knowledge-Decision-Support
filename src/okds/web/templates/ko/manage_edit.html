@@ -1,0 +1,29 @@
+{% extends "ko/layout.html" %}
+{% block title %}Edit {{ doc.ko_id }}{% endblock %}
+{% block content %}
+<h1>Knowledge Object Library</h1>
+<div class="subtabs"><a href="{{ url_for('ko.library') }}">Browse</a><a class="on" href="{{ url_for('ko.manage') }}">Manage (edit, import, export)</a></div>
+<form class="libfilter" method="get" onsubmit="location.href=this.dataset.base.replace('__ID__', encodeURIComponent(this.ko.value));return false"
+      data-base="{{ url_for('ko.manage_edit', ko_id='__ID__') }}">
+  <label for="pick">Open a KO</label>
+  <select id="pick" name="ko" onchange="this.form.requestSubmit()">
+    {% for id, title in others %}<option value="{{ id }}"{{ ' selected' if id == doc.ko_id }}>{{ id }} · {{ title }}</option>{% endfor %}
+  </select>
+</form>
+
+{% with editor_id = "manage-editor" %}{% include "ko/_editor.html" %}{% endwith %}
+<script type="application/json" id="editor-data">{{ {"text": text, "ko_id": doc.ko_id, "urls": urls, "can_edit": can_edit}|tojson }}</script>
+
+<details class="card danger"><summary>Delete this KO</summary>
+  <form method="post" action="{{ url_for('ko.manage_delete', ko_id=doc.ko_id) }}">
+    <input type="hidden" name="csrf_token" value="{{ csrf }}">
+    <p class="muted small">Removes this KO from the library. Its ID is never reused.</p>
+    <label><input type="checkbox" name="confirm" value="{{ doc.ko_id }}" required> Yes, delete {{ doc.ko_id }}</label>
+    <p><button class="danger"{{ ' disabled' if not can_edit }}>Delete</button></p>
+  </form>
+</details>
+{% endblock %}
+{% block page_scripts %}<script>
+(function(){const d=JSON.parse(document.getElementById("editor-data").textContent);
+ KOEditor(document.getElementById("manage-editor"),{text:d.text,savedText:d.text,storageKey:"ko-edit-"+d.ko_id,urls:d.urls,canEdit:d.can_edit});})();
+</script>{% endblock %}

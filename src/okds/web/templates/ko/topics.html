@@ -1,0 +1,52 @@
+{% extends "ko/layout.html" %}
+{% block title %}KO Topics{% endblock %}
+{% block content %}
+<h1>KO Topics</h1>
+<p class="muted">The list of topics (the Concept Registry). Every KO starts as a topic here, and the portal gives it an ID.</p>
+{% if rows %}
+<div class="table-wrap card"><table>
+  <tr><th>Topic</th><th>ID</th><th>Type</th><th>Body area</th><th>Other names</th><th>Status</th></tr>
+  {% for r in rows %}<tr><td>{{ r.term }}</td><td><code>{{ r.ko_id }}</code></td><td>{{ r.type }}</td><td>{{ r.specialty }}</td><td>{{ r.alts }}</td><td>{{ r.status }}</td></tr>{% endfor %}
+</table></div>
+{% else %}<div class="notice">No topics yet.</div>{% endif %}
+<p class="muted small">Status: planned = no KO yet · drafted = a KO was saved.</p>
+
+<h2>Add a topic</h2>
+<form class="card" method="post" action="{{ url_for('ko.topics') }}">
+  <input type="hidden" name="csrf_token" value="{{ csrf }}">
+  <div class="row2">
+    <label class="field">Main name * <span class="help" title="{{ help.main_name }}">?</span>
+      <input name="term" required placeholder="e.g. Trigger Finger" value="{{ form.get('term', '') }}"></label>
+    <label class="field">Other names <span class="help" title="{{ help.other_names }}">?</span>
+      <input name="alternate_terms" placeholder="e.g. stenosing tenosynovitis" value="{{ form.get('alternate_terms', '') }}"></label>
+  </div>
+  <div class="row2">
+    <label class="field">KO type * <span class="help" title="{{ help.ko_type }}">?</span>
+      <select name="ko_type">{% for k in ko_types %}<option{{ ' selected' if form.get('ko_type') == k }}>{{ k }}</option>{% endfor %}</select></label>
+    <label class="field">Body area * <span class="help" title="{{ help.specialty }}">?</span>
+      <select name="specialty">{% for k, val in specs.items() %}<option value="{{ k }}"{{ ' selected' if form.get('specialty') == k }}>{{ val }}</option>{% endfor %}</select></label>
+  </div>
+  <details><summary>Codes (optional)</summary><div class="row2">
+    <label class="field">MeSH ID <input name="mesh" value="{{ form.get('mesh', '') }}"></label>
+    <label class="field">ICD-10-CM <input name="icd10cm" value="{{ form.get('icd10cm', '') }}"></label></div></details>
+  <p><button{{ ' disabled title="Read only: sign in to add topics"'|safe if not can_edit }}>Add topic</button></p>
+</form>
+
+<h2>For experts</h2>
+<p class="muted small">Registry file: <code>{{ settings.registry_path }}</code></p>
+<details><summary>KO types and clusters</summary><div class="table-wrap"><table>
+  <tr><th>ko_type</th><th>id code</th><th>cluster</th><th>cluster name</th><th>what it is</th></tr>
+  {% for t, d in v.ko_types.items() %}<tr><td>{{ t }}</td><td>{{ d.code }}</td><td>{{ d.cluster }}</td><td>{{ v.clusters[d.cluster] }}</td><td>{{ d.description }}</td></tr>{% endfor %}
+</table></div></details>
+<details><summary>Allowed relationships (predicates)</summary><div class="table-wrap"><table>
+  <tr><th>predicate</th><th>subject</th><th>object</th><th>meaning</th></tr>
+  {% for p, d in v.predicates.items() %}<tr><td>{{ p }}</td>
+    <td>{{ d.subject if d.subject is string else d.subject|join(', ') }}</td>
+    <td>{{ d.object if d.object is string else d.object|join(', ') }}</td><td>{{ d.meaning }}</td></tr>{% endfor %}
+</table></div><p class="muted small">Forbidden: {{ v.forbidden_predicates|join(', ') }}</p></details>
+<details><summary>Fixed value lists</summary>
+  {% for name, values in v.enums.items() %}
+    <p><b>{{ name }}</b>: {% if values is mapping %}{% for k, val in values.items() %}{{ k }} ({{ val }}){{ ', ' if not loop.last }}{% endfor %}{% else %}{{ values|join(', ') }}{% endif %}</p>
+  {% endfor %}
+</details>
+{% endblock %}

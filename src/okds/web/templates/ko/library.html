@@ -1,0 +1,75 @@
+{% extends "ko/layout.html" %}
+{% block title %}{{ detail.title if detail and detail.title else 'Knowledge Object Library' }}{% endblock %}
+{% block content %}
+<h1>Knowledge Object Library</h1>
+<div class="subtabs"><a class="on" href="{{ url_for('ko.library') }}">Browse</a><a href="{{ url_for('ko.manage') }}">Manage (edit, import, export)</a></div>
+{% if not n_entries %}
+  <div class="notice">No KOs yet. Make one in the Knowledge Object Generator, or import a file in Manage.</div>
+{% else %}
+<div class="libcols{{ ' sel' if selected }}">
+  <div class="liblist">
+    <form method="get" action="{{ url_for('ko.library') }}" class="libfilter">
+      <label class="visually-hidden" for="lib-q">Search</label>
+      <input id="lib-q" name="q" type="search" value="{{ q }}" placeholder="Search Knowledge Objects">
+      <label class="visually-hidden" for="lib-topic">Topic</label>
+      <select id="lib-topic" name="topic" onchange="this.form.submit()">
+        <option value="0">All topics</option>
+        {% for n in topics %}<option value="{{ n }}"{{ ' selected' if n == topic }}>{{ topic_name(n) }} ({{ counts[n] }})</option>{% endfor %}
+      </select>
+      <button type="submit">Search</button>
+    </form>
+    <p class="muted small">{{ shown|length }} of {{ docs|length }} Knowledge Objects</p>
+    {% if not shown %}<p class="muted">No Knowledge Objects match. <a href="{{ url_for('ko.library') }}">Clear search</a></p>{% endif %}
+    {% for d in shown %}
+      <a class="kocard{{ ' on' if selected and d.ko_id == selected.ko_id }}" href="{{ url_for('ko.library', ko=d.ko_id, q=q or None, topic=topic or None) }}">
+        <b>{{ d.front.get('title', d.ko_id) }}</b>
+        <span class="muted small">{{ topic_name(cluster(d)) }}{% if d.front.get('difficulty') %} · {{ d.front.get('difficulty')|string|capitalize }}{% endif %}</span>
+      </a>
+    {% endfor %}
+  </div>
+
+  <div class="libdetail card">
+    {% if detail and detail.error %}
+      <div class="flash error">{{ detail.error }}</div>
+    {% elif detail %}
+      <h2>{{ detail.title }}</h2>
+      <p><span class="chip ai">{{ detail.topic }}</span>{% if detail.difficulty %}<span class="chip">{{ detail.difficulty }}</span>{% endif %}<span class="chip">Review: {{ detail.status }}</span></p>
+      {% if detail.summary %}<p class="lead-box">{{ detail.summary }}</p>{% endif %}
+      <div class="btnrow">
+        <a class="btn" href="{{ url_for('ko.orthobot', q=detail.ask) }}">💬 Ask about this</a>
+        <a class="btn secondary" href="{{ url_for('ko.ko_markdown', ko_id=selected.ko_id) }}">Download (.md)</a>
+      </div>
+      <details open><summary>Read the full Knowledge Object</summary><div class="prose">{{ detail.body }}</div></details>
+      <details><summary>Sources ({{ detail.sources|length }})</summary>
+        {% for s in detail.sources %}
+          <p><b>[{{ s.get('id') }}]</b> {{ s.get('publisher', '') }}:
+            {% if (s.get('url') or '').startswith('http') %}<a href="{{ s.get('url') }}" target="_blank" rel="noopener">{{ s.get('title', s.get('url')) }}</a>{% else %}{{ s.get('title', '') }}{% endif %}<br>
+            <span class="muted small">{{ s.get('source_type', '') }} · reuse: {{ s.get('permitted_use', '') }} · page date: {{ s.get('publication_date', '') }}</span></p>
+        {% endfor %}
+      </details>
+      <details><summary>Connected Knowledge Objects ({{ detail.links|length }})</summary>
+        {% for l in detail.links %}<p><a href="{{ url_for('ko.library', ko=l.ko_id) }}">{{ l.words }} → {{ l.title }}</a></p>{% else %}<p class="muted small">No links to other KOs in the library yet.</p>{% endfor %}
+      </details>
+      <details><summary>Practice questions ({{ detail.questions|length }})</summary>
+        <p class="muted small">Tap a question to ask OrthoBot.</p>
+        {% for qq in detail.questions %}<p><a href="{{ url_for('ko.orthobot', q=qq) }}">{{ qq }}</a></p>{% endfor %}
+      </details>
+      <details><summary>For reviewers</summary>
+        <p>ID <code>{{ selected.ko_id }}</code> · type {{ selected.front.get('ko_type', '') }} · version {{ selected.front.get('version', '') }} · updated {{ selected.front.get('last_updated', '') }}<br>
+          Review: {{ detail.status }} · author: {{ detail.review.get('author', '') }} · checks: {{ detail.errors }} problem(s), {{ detail.warnings }} to double-check</p>
+        {% if detail.open_issues %}<ul>{% for i in detail.open_issues %}<li>{{ i }}</li>{% endfor %}</ul>{% endif %}
+        <p><a href="{{ url_for('ko.manage_edit', ko_id=selected.ko_id) }}">Edit this KO in Manage</a></p>
+      </details>
+    {% else %}
+      <div class="eyebrow">The library</div>
+      <h2>{{ docs|length }} Knowledge Objects about orthopedics</h2>
+      <p>Each one is a short, sourced note about one topic. Pick one on the left, or search for a word.</p>
+      <p class="muted small">Or browse by topic</p>
+      <div class="grid cols-3">
+        {% for n in topics %}<a class="kocard" href="{{ url_for('ko.library', topic=n) }}"><b>{{ topic_name(n) }}</b><span class="muted small">{{ counts[n] }} Knowledge Object(s)</span></a>{% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
+{% endblock %}

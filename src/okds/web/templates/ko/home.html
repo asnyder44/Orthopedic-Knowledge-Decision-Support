@@ -1,0 +1,111 @@
+{% extends "ko/layout.html" %}
+{% block title %}What is a Knowledge Object{% endblock %}
+{% block content %}
+<h1>What is a Knowledge Object?</h1>
+<p class="lead">A short, trusted note about <b>one</b> orthopedic topic. Every fact has a source, and it links to related topics.</p>
+
+<div class="tabs" data-tabs>
+  <div class="tablist" role="tablist">
+    <button role="tab" data-tab="glance" aria-selected="true">At a glance</button>
+    <button role="tab" data-tab="article">Full article</button>
+  </div>
+
+  <section class="tabpanel" data-panel="glance">
+    <h2>1 · Think of it like a recipe card</h2>
+    <p class="muted">If you know recipe cards, you already understand KOs.</p>
+    <div class="card table-wrap"><table>
+      <tr><th>A recipe card…</th><th>A Knowledge Object…</th><th>Example</th></tr>
+      {% for card, ko, ex in t.ANALOGY %}<tr><td>{{ md_inline(card) }}</td><td>{{ md_inline(ko) }}</td><td>{{ ex }}</td></tr>{% endfor %}
+    </table></div>
+
+    <h2>2 · Parts of every KO</h2>
+    <p class="muted">Here is a real KO, shortened, with its 4 parts numbered.</p>
+    <div class="anat">
+      <div class="anat-keys">
+        <div class="anat-key"><span class="num">1</span><div><b>Labels</b><span>ID, type, reader, version. The same on every KO.</span></div></div>
+        <div class="anat-key"><span class="num">2</span><div><b>Explanation</b><span>Plain words about one topic. Every fact ends with a source marker.</span></div></div>
+        <div class="anat-key"><span class="num">3</span><div><b>Sources</b><span>Where each fact comes from. At least 2 trusted ones.</span></div></div>
+        <div class="anat-key"><span class="num">4</span><div><b>Links</b><span>Named connections to other KOs, so people and computers can follow them.</span></div></div>
+      </div>
+      <div class="anat-doc" role="img" aria-label="Example Knowledge Object with its 4 parts">
+        <div class="zone"><span class="num">1</span><span class="tagchip">KO-HAND-COND-001</span><span class="tagchip">Condition</span><span class="tagchip">for patients</span><span class="tagchip">v0.1</span></div>
+        <div class="zone"><span class="num">2</span><h4>Carpal Tunnel Syndrome</h4>The median nerve is squeezed in the wrist. This can cause numbness and tingling in the hand. <span class="m">[S1][S2]</span></div>
+        <div class="zone"><span class="num">3</span><span class="m">[S1]</span> MedlinePlus (NLM) · <span class="m">[S2]</span> NINDS (NIH)</div>
+        <div class="zone"><span class="num">4</span><span class="muted">diagnosed by →</span> Nerve Conduction Study<br><span class="muted">often confused with →</span> Cubital Tunnel Syndrome</div>
+      </div>
+    </div>
+
+    <h2>3 · One KO, two jobs</h2>
+    <p class="muted">Each KO is written for people and labeled for computers.</p>
+    <div class="grid cols-2">
+      {% for job in t.JOBS %}
+      <div class="card">
+        <h3>{{ job.title }}</h3><p>{{ job.text }}</p>
+        <ul>{% for g in job.gets %}<li>{{ g }}</li>{% endfor %}</ul>
+        <p class="muted small">{{ job.sample_label }}</p><pre>{{ job.sample }}</pre>
+        <p class="muted small"><b>Used by:</b> {{ job.used_by }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <h2>4 · What is inside</h2>
+    <p class="muted">All KOs share one layout. The middle part changes with the kind of topic.</p>
+    <div class="card">
+      <p><b>Every KO has the same labels</b></p>
+      <p>{% for l in t.SHARED_LABELS %}<span class="chip">{{ l }}</span>{% endfor %}</p>
+      <p><b>…and the same main sections</b></p>
+      <p>{% for s in t.SHARED_SECTIONS %}<span class="chip{{ ' opt' if s == t.OPTIONAL_SECTION }}">{{ s }}</span>{% endfor %}</p>
+      <p class="muted small">Dashed: only when the readers are patients or caregivers.</p>
+    </div>
+    <p><b>Inside “Explanation”, the parts depend on the type</b></p>
+    <div class="grid cols-4">
+      {% for ko_type, name, links, example in t.TYPES %}
+      <div class="card">
+        <h3>{{ name }}</h3>
+        <ul>{% for part in subsections[ko_type] %}<li>{{ part }}</li>{% endfor %}</ul>
+        <p class="muted small"><b>Links:</b> {{ links }}</p>
+        <p class="muted small"><b>Example:</b> {{ example }}</p>
+      </div>
+      {% endfor %}
+    </div>
+    <p class="muted small">Also: {{ t.OTHER_TYPES }}, each with its own parts.</p>
+
+    <h2>5 · How a KO is made</h2>
+    <p class="muted">Five steps, from an idea to a trusted note.</p>
+    <div class="grid cols-5">
+      {% for title, text in t.MAKE_STEPS %}
+      <div class="card"><div class="eyebrow">Step {{ loop.index }}</div><h3>{{ title }}</h3><p>{{ text }}</p></div>
+      {% endfor %}
+    </div>
+
+    <h2>6 · KO rules</h2>
+    <p class="muted">Every KO follows these.</p>
+    <div class="grid cols-3">
+      {% for r in t.RULES %}
+      <div class="card">
+        <h3>{{ r.title }}</h3><p>{{ r.rule }}</p>
+        <p><span class="yes">✓</span> {{ r.do }}<br><span class="no">✗</span> {{ r.dont }}</p>
+        <p class="muted small"><b>Why:</b> {{ r.why }}</p>
+        <p class="muted small"><b>In the portal:</b> {{ r.portal }}</p>
+        {% if loop.last %}
+          <p class="path">{% for s, ai in t.STATUS_PATH %}<span class="chip{{ ' ai' if ai }}">{{ s }}</span>{% if not loop.last %} → {% endif %}{% endfor %}</p>
+          <p class="muted small">Blue: AI may set it. White: only a person can.</p>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+
+    <h2>7 · Words to know</h2>
+    <p class="muted">Short meanings for the words used on this page.</p>
+    <div class="card table-wrap"><table>
+      <tr><th>Word</th><th>What it means</th></tr>
+      {% for word, meaning in t.GLOSSARY %}<tr><td><b>{{ word }}</b></td><td>{{ meaning }}</td></tr>{% endfor %}
+    </table></div>
+  </section>
+
+  <section class="tabpanel" data-panel="article" hidden>
+    <p><a class="btn secondary" href="{{ url_for('ko.article_md') }}">Download .md</a></p>
+    <div class="card prose">{{ article }}</div>
+  </section>
+</div>
+{% endblock %}

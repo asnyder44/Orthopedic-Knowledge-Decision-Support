@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>How to use the Knowledge Object Generator</title>
+<style>
+  /* same colors as the portal (UI style 21 · Clinic Blue) */
+  :root { --brand: #0b5cad; --brand-soft: #dcebfa; --ink: #12263f; --muted: #4d6179; --line: #d3e0ee;
+          --ok: #1f7a4f; --ok-soft: #e4f5ec; --warn: #8a5a00; --bg: #e7eff8; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--ink); background: #fff; }
+  .guide { display: flex; flex-wrap: wrap; gap: 14px; padding: 6px; }
+  .stage { position: relative; flex: 1 1 470px; height: 470px; border: 1px solid var(--line); border-radius: 12px;
+           background: var(--bg); overflow: hidden; }
+  .titlebar { height: 34px; display: flex; align-items: center; gap: 6px; padding: 0 12px; background: #fff;
+              border-bottom: 1px solid var(--line); font-size: 12px; color: var(--muted); }
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: #e3e7ea; }
+  .titlebar b { margin-left: 8px; color: var(--ink); font-weight: 600; }
+  .screen { position: absolute; inset: 46px 16px 14px 16px; opacity: 0; transform: translateX(24px);
+            transition: opacity .45s ease, transform .45s ease; pointer-events: none; }
+  .screen.active { opacity: 1; transform: none; }
+  .h { font-size: 16px; font-weight: 700; margin: 2px 0 2px; }
+  .sub { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+  .row { display: flex; gap: 10px; margin-bottom: 9px; }
+  .row > .field { flex: 1; }
+  .field { position: relative; margin-bottom: 9px; border-radius: 8px; }
+  .label { font-size: 11.5px; color: var(--muted); margin: 0 0 3px 2px; }
+  .box { min-height: 30px; padding: 6px 9px; background: #fff; border: 1px solid var(--line); border-radius: 7px;
+         font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .box.select::after { content: "▾"; float: right; color: var(--muted); }
+  .box.area { white-space: normal; height: 74px; font-size: 11.5px; line-height: 1.35; color: #34444f; }
+  .ph { color: #a4b0b8; }
+  .radio { display: flex; gap: 8px; margin-bottom: 12px; }
+  .pill { padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: #fff; font-size: 12.5px; }
+  .pill.on { border-color: var(--brand); background: var(--brand-soft); color: var(--brand); font-weight: 600; }
+  .chips { display: flex; gap: 6px; align-items: center; min-height: 30px; padding: 4px 6px; background: #fff;
+           border: 1px solid var(--line); border-radius: 7px; }
+  .chip { padding: 2px 8px; border-radius: 6px; background: var(--brand); color: #fff; font-size: 12px; opacity: 0;
+          transform: scale(.6); transition: all .3s ease; }
+  .chip.on { opacity: 1; transform: none; }
+  .btn { display: inline-block; padding: 7px 13px; border-radius: 7px; border: 1px solid var(--line); background: #fff;
+         font-size: 12.5px; transition: transform .12s ease; }
+  .btn.primary { background: var(--brand); border-color: var(--brand); color: #fff; font-weight: 600; }
+  .btn.pressed { transform: scale(.93); }
+  .card { border: 1px solid var(--line); border-radius: 10px; background: #fff; padding: 10px 10px 4px; margin-bottom: 9px; }
+  .card .h2 { font-size: 12.5px; font-weight: 700; margin-bottom: 7px; }
+  .exp { display: flex; justify-content: space-between; padding: 6px 9px; border: 1px solid var(--line); border-radius: 7px;
+         font-size: 12px; color: var(--muted); background: #fbfcfc; margin-bottom: 9px; }
+  .mini { opacity: 0; max-height: 0; overflow: hidden; transition: all .4s ease; }
+  .mini.on { opacity: 1; max-height: 60px; }
+  .msg { font-size: 11.5px; padding: 5px 9px; border-radius: 7px; background: var(--ok-soft); color: var(--ok);
+         opacity: 0; transition: opacity .3s; margin-top: -4px; margin-bottom: 8px; }
+  .msg.on { opacity: 1; }
+  .banner { padding: 9px 11px; border-radius: 8px; font-size: 13px; margin-bottom: 10px; }
+  .banner.ok { background: var(--ok-soft); color: var(--ok); }
+  .tabs { display: flex; gap: 16px; border-bottom: 1px solid var(--line); margin-bottom: 9px; font-size: 13px; }
+  .tab { padding: 5px 2px; color: var(--muted); }
+  .tab.on { color: var(--brand); border-bottom: 2px solid var(--brand); font-weight: 600; }
+  .doc { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 9px 11px; font-size: 12px; line-height: 1.45; }
+  .doc b { font-size: 13px; }
+  .progress { height: 7px; border-radius: 4px; background: #e6ecef; overflow: hidden; margin: 10px 0 6px; opacity: 0; transition: opacity .3s; }
+  .progress.on { opacity: 1; }
+  .bar { height: 100%; width: 0; background: var(--brand); transition: width 1.6s ease; }
+  .toast { position: absolute; right: 16px; bottom: 16px; padding: 8px 13px; border-radius: 8px; background: var(--ink);
+           color: #fff; font-size: 12.5px; opacity: 0; transform: translateY(10px); transition: all .35s ease; }
+  .toast.on { opacity: 1; transform: none; }
+  .hl { animation: pulse 1.3s ease-in-out infinite; z-index: 2; }
+  @keyframes pulse { 0%,100% { box-shadow: 0 0 0 3px rgba(11,92,173,.55); } 50% { box-shadow: 0 0 0 7px rgba(11,92,173,.18); } }
+  .cursor { position: absolute; left: 60%; top: 60%; width: 22px; height: 22px; z-index: 5; pointer-events: none;
+            transition: left .8s cubic-bezier(.5,0,.2,1), top .8s cubic-bezier(.5,0,.2,1); }
+  .ripple { position: absolute; width: 30px; height: 30px; margin: -15px 0 0 -15px; border-radius: 50%;
+            border: 2px solid var(--brand); opacity: 0; z-index: 4; pointer-events: none; }
+  .ripple.go { animation: rip .55s ease-out; }
+  @keyframes rip { from { opacity: .9; transform: scale(.3); } to { opacity: 0; transform: scale(1.6); } }
+
+  .panel { flex: 1 1 290px; min-height: 470px; display: flex; flex-direction: column; border: 1px solid var(--line);
+           border-radius: 12px; padding: 16px 18px; background: #fff; }
+  .badge { align-self: flex-start; padding: 3px 10px; border-radius: 999px; background: var(--brand-soft); color: var(--brand);
+           font-size: 12px; font-weight: 600; }
+  .ftitle { font-size: 21px; font-weight: 750; margin: 12px 0 8px; }
+  .fwhat { font-size: 15px; line-height: 1.5; }
+  .fex { margin-top: 12px; padding: 8px 11px; border-left: 3px solid var(--brand); background: var(--bg); border-radius: 0 7px 7px 0;
+         font-size: 13.5px; }
+  .fex:empty { display: none; }
+  .fade { animation: fadein .4s ease; }
+  @keyframes fadein { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .spacer { flex: 1; }
+  .controls { display: flex; align-items: center; gap: 8px; margin-top: 14px; }
+  .controls button { font: inherit; font-size: 13px; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--line);
+                     background: #fff; cursor: pointer; }
+  .controls button.main { background: var(--brand); color: #fff; border-color: var(--brand); }
+  .controls button:disabled { opacity: .4; cursor: default; }
+  .count { margin-left: auto; font-size: 12px; color: var(--muted); }
+  .track { height: 5px; border-radius: 3px; background: #e6ecef; margin-top: 10px; overflow: hidden; }
+  .track div { height: 100%; width: 0; background: var(--brand); transition: width .4s ease; }
+  @media (prefers-reduced-motion: reduce) { .cursor, .screen, .chip, .bar { transition: none; } .hl { animation: none; box-shadow: 0 0 0 3px rgba(11,92,173,.55); } }
+</style>
+</head>
+<body>
+<div class="guide">
+  <div class="stage" id="stage">
+    <div class="titlebar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><b>OKDS Portal</b> · Knowledge Object Generator</div>
+
+    <!-- 1. Pick a topic -->
+    <div class="screen" id="s-topic">
+      <div class="h">1 · Pick a topic</div><div class="sub">What will this KO explain?</div>
+      <div class="radio" id="t-radio"><span class="pill on">Choose from the list</span><span class="pill" id="t-new">Add a new one</span></div>
+      <div class="field" id="t-topic"><div class="label">Topic</div><div class="box select val"><span class="ph">Choose a topic</span></div></div>
+      <div class="sub" id="t-meta" style="opacity:0;transition:opacity .4s">Type: Condition · Hand &amp; Upper Extremity</div>
+    </div>
+
+    <!-- 1b. Add a new topic -->
+    <div class="screen" id="s-new">
+      <div class="h">1 · Add a new topic</div><div class="sub">Only if your topic is not in the list.</div>
+      <div class="radio"><span class="pill">Choose from the list</span><span class="pill on">Add a new one</span></div>
+      <div class="card" id="n-form">
+        <div class="row">
+          <div class="field" id="n-name"><div class="label">Main name *</div><div class="box val"><span class="ph">e.g. Trigger Finger</span></div></div>
+          <div class="field" id="n-alt"><div class="label">Other names (split with ;)</div><div class="box val"><span class="ph">optional</span></div></div>
+        </div>
+        <div class="row">
+          <div class="field" id="n-type"><div class="label">KO type *</div><div class="box select val">Concept</div></div>
+          <div class="field" id="n-spec"><div class="label">Body area *</div><div class="box select val">GEN · General</div></div>
+        </div>
+        <div class="field" style="display:inline-block" id="n-add"><span class="btn primary">Add topic</span></div>
+      </div>
+    </div>
+
+    <!-- 2. Who reads it -->
+    <div class="screen" id="s-reader">
+      <div class="h">2 · Who will read it?</div><div class="sub">This sets how simple the words are.</div>
+      <div class="row">
+        <div class="field" id="r-aud"><div class="label">Readers (main reader first) *</div>
+          <div class="chips"><span class="chip" id="c1">patient ✕</span><span class="chip" id="c2">caregiver ✕</span></div></div>
+        <div class="field" id="r-name"><div class="label">Your name</div><div class="box val"><span class="ph">e.g. Allen</span></div></div>
+      </div>
+      <div class="exp field" id="r-more"><span>More options (reading level, difficulty, license)</span><span>▸</span></div>
+    </div>
+
+    <!-- 3. Sources -->
+    <div class="screen" id="s-src">
+      <div class="h">3 · Add your sources</div><div class="sub">At least 2 trusted pages. The KO may only use facts from them.</div>
+      <div class="card">
+        <div class="h2">Source S1</div>
+        <div class="field" id="x-known"><div class="label">Known source (optional)</div><div class="box select val"><span class="ph">Pick from our list</span></div></div>
+        <div class="row">
+          <div class="field" id="x-url" style="flex:3"><div class="label">Page link *</div><div class="box val"><span class="ph">https://...</span></div></div>
+          <div class="field" id="x-fetch" style="flex:0 0 auto;padding-top:16px"><span class="btn">Fetch page text</span></div>
+        </div>
+        <div class="msg" id="x-msg">Fetched the page text. Remove parts that are not about the topic.</div>
+        <div class="row">
+          <div class="field" id="x-title"><div class="label">Page title *</div><div class="box val"><span class="ph"> </span></div></div>
+          <div class="field" id="x-pub"><div class="label">Publisher *</div><div class="box val"><span class="ph"> </span></div></div>
+        </div>
+        <div class="field" id="x-text"><div class="label">Source text *</div><div class="box area val"><span class="ph">Paste the text, or click Fetch</span></div></div>
+        <div class="exp field" id="x-more"><span>More details (type, reuse rules, dates)</span><span>▸</span></div>
+      </div>
+      <div class="mini" id="x-s2"><div class="card"><div class="h2">Source S2 · Carpal Tunnel Syndrome (NIAMS)</div></div></div>
+      <div class="field" style="display:inline-block" id="x-add"><span class="btn">+ Add another source</span></div>
+    </div>
+
+    <!-- 4. Draft -->
+    <div class="screen" id="s-draft">
+      <div class="h">4 · Make a draft</div><div class="sub">Let AI write it, or write it yourself.</div>
+      <div class="radio field" id="d-mode" style="display:flex"><span class="pill on">With AI</span><span class="pill">Empty template</span></div>
+      <div class="field" style="display:inline-block" id="d-gen"><span class="btn primary">Generate draft</span></div>
+      <div class="progress" id="d-prog"><div class="bar" id="d-bar"></div></div>
+      <div class="msg" id="d-msg">Draft ready. Scroll down to check it.</div>
+    </div>
+
+    <!-- 5. Check and save -->
+    <div class="screen" id="s-save">
+      <div class="h">5 · Check and save</div><div class="sub">Read it, fix it, save it.</div>
+      <div class="banner ok field" id="v-banner">✅ Ready to save</div>
+      <div class="tabs field" id="v-tabs"><span class="tab on">Preview</span><span class="tab">Edit</span><span class="tab">Checks</span></div>
+      <div class="doc"><b>Carpal Tunnel Syndrome</b><br>KO-HAND-COND-001 · Condition · draft<br><br>
+        Carpal tunnel syndrome happens when the median nerve is squeezed inside the wrist <span style="color:var(--brand)">[S1][S2]</span>.</div>
+      <div style="margin-top:10px"><span class="field" style="display:inline-block" id="v-save"><span class="btn primary">Save to library</span></span>
+        <span class="btn" style="margin-left:6px">Download ▾</span></div>
+    </div>
+
+    <svg class="cursor" id="cursor" viewBox="0 0 24 24"><path d="M4 2 L4 19 L8.6 14.8 L11.6 21.5 L14.4 20.3 L11.4 13.7 L17.6 13.7 Z" fill="#1d2a33" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/></svg>
+    <div class="ripple" id="ripple"></div>
+    <div class="toast" id="toast"></div>
+  </div>
+
+  <div class="panel">
+    <span class="badge" id="badge">Step 1 · Pick a topic</span>
+    <div id="explain" class="fade">
+      <div class="ftitle" id="ftitle"></div>
+      <div class="fwhat" id="fwhat"></div>
+      <div class="fex" id="fex"></div>
+    </div>
+    <div class="spacer"></div>
+    <div class="track"><div id="track"></div></div>
+    <div class="controls">
+      <button id="prev" title="Back">◀ Back</button>
+      <button id="play" class="main" title="Play or pause">⏸ Pause</button>
+      <button id="next" title="Next">Next ▶</button>
+      <span class="count" id="count"></span>
+    </div>
+  </div>
+</div>
+
+<script>
+const SECTIONS = { topic: "Step 1 · Pick a topic", new: "Step 1 · Pick a topic", reader: "Step 2 · Readers",
+                   src: "Step 3 · Sources", draft: "Step 4 · Draft", save: "Step 5 · Check and save" };
+const SAMPLE_TEXT = "Carpal tunnel syndrome (CTS) occurs when the median nerve, which runs from your forearm into the palm of your hand, becomes pressed or squeezed at the wrist...";
+const STEPS = [
+  { s: "topic", t: "t-radio", title: "Pick a topic", what: "Every KO explains <b>one</b> topic, like a condition, a test, or a surgery. First, choose your topic." },
+  { s: "topic", t: "t-topic", title: "Topic", what: "The list comes from the <b>Concept Registry</b>. The code at the start is the topic's ID. The portal makes it for you.",
+    ex: "KO-HAND-COND-001 · Carpal Tunnel Syndrome", act: "select", val: "KO-HAND-COND-001 · Carpal Tunnel Syndrome", after: "meta" },
+  { s: "new", t: "n-form", title: "Topic not in the list?", what: "Choose <b>Add a new one</b> and fill in 4 boxes. Then the topic is ready to use." },
+  { s: "new", t: "n-name", title: "Main name", what: "The usual name of the topic.", ex: "Trigger Finger", act: "type", val: "Trigger Finger" },
+  { s: "new", t: "n-alt", title: "Other names", what: "Other words people use for the same thing. Split them with a semicolon (;).", ex: "stenosing tenosynovitis", act: "type", val: "stenosing tenosynovitis" },
+  { s: "new", t: "n-type", title: "KO type", what: "What kind of topic it is: <b>Condition</b> (illness or injury), <b>DiagnosticTest</b>, <b>Treatment</b>, <b>Procedure</b> (surgery), <b>Device</b>, and more.", ex: "Condition", act: "select", val: "Condition" },
+  { s: "new", t: "n-spec", title: "Body area (specialty)", what: "The body area team, like Hand, Spine, Sports, Trauma, Joint, or Foot. It becomes part of the ID.", ex: "HAND · Hand & Upper Extremity", act: "select", val: "HAND · Hand & Upper Extremity" },
+  { s: "new", t: "n-add", title: "Add topic", what: "The portal checks the name is new, then gives it an ID. <b>You never type IDs yourself.</b>", act: "click", after: "toast:Added KO-HAND-COND-003 · Trigger Finger" },
+  { s: "reader", t: "r-aud", title: "Readers", what: "Who will read this KO. Put the <b>main reader first</b>. For patients, the KO uses simple words.", ex: "patient, caregiver", act: "chips" },
+  { s: "reader", t: "r-name", title: "Your name", what: "So the team knows who made the draft.", ex: "Allen", act: "type", val: "Allen" },
+  { s: "reader", t: "r-more", title: "More options", what: "Reading level, difficulty, and license. <b>The defaults are fine</b> for most KOs." },
+  { s: "src", t: "x-known", title: "Known source", what: "Optional. Pick a trusted website from our <b>Data Sources</b> list. It fills in the publisher and the reuse rules for you.", ex: "MedlinePlus Health Topics", act: "select", val: "MedlinePlus Health Topics", after: "pub" },
+  { s: "src", t: "x-url", title: "Page link", what: "Paste the link to the <b>exact page</b> about your topic, not the home page.", ex: "https://medlineplus.gov/carpaltunnelsyndrome.html", act: "type", val: "https://medlineplus.gov/carpaltunnelsyndrome.html" },
+  { s: "src", t: "x-fetch", title: "Fetch page text", what: "Copies the text of the page into the <b>Source text</b> box, so you don't have to.", act: "click", after: "fetch" },
+  { s: "src", t: "x-title", title: "Page title and publisher", what: "The name of the page and who published it. Check that they are right." },
+  { s: "src", t: "x-text", title: "Source text", what: "These are the <b>only facts</b> the KO may use. Delete menus, ads, and parts about other topics." },
+  { s: "src", t: "x-more", title: "More details", what: "Source type, reuse rules, and dates. <b>link_and_paraphrase</b> means: rewrite in your own words, never copy. <b>&lt;verify&gt;</b> means: not checked yet." },
+  { s: "src", t: "x-add", title: "Add another source", what: "You need <b>at least 2 sources</b>. Two trusted sources that agree make the KO stronger.", act: "click", after: "s2" },
+  { s: "draft", t: "d-mode", title: "Draft mode", what: "<b>With AI:</b> the AI (Claude or OpenAI) writes a draft using only your sources.<br><b>Empty template:</b> you write it yourself in the editor." },
+  { s: "draft", t: "d-gen", title: "Generate draft", what: "Makes the draft. With AI, this takes about a minute.", act: "click", after: "gen" },
+  { s: "save", t: "v-banner", title: "Status", what: "✅ <b>Green</b>: ready.<br>ℹ️ <b>Blue</b>: you can save, but some facts still say &lt;verify&gt;.<br>❌ <b>Red</b>: fix the problems first." },
+  { s: "save", t: "v-tabs", title: "Preview · Edit · Checks", what: "<b>Preview</b>: read the KO.<br><b>Edit</b>: change the text.<br><b>Checks</b>: see what to fix." },
+  { s: "save", t: "v-save", title: "Save to library", what: "Saves the KO on this computer. Open the <b>KO Library</b> tab to find it, and ask <b>OrthoBot</b> about it.", act: "click", after: "toast:Saved to KO Library ✓" },
+  { s: "save", t: null, title: "That's it! 🎉", what: "Pick a topic → add 2 sources → make a draft → check and save.<br><br>Now try it yourself. You can watch this guide again any time." },
+];
+
+const $ = id => document.getElementById(id);
+const stage = $("stage"), cursor = $("cursor"), ripple = $("ripple"), toast = $("toast");
+let i = 0, playing = true, timers = [];
+let visible = typeof IntersectionObserver === "undefined";  // no observer: assume visible
+const later = (fn, ms) => timers.push(setTimeout(fn, ms));
+const clearTimers = () => { timers.forEach(clearTimeout); timers = []; };
+
+function setVal(id, text) { const v = $(id).querySelector(".val"); if (v) v.textContent = text; }
+function resetScreens() {
+  setVal("t-topic", ""); $("t-topic").querySelector(".val").innerHTML = '<span class="ph">Choose a topic</span>';
+  $("t-meta").style.opacity = 0;
+  [["n-name", "e.g. Trigger Finger"], ["n-alt", "optional"], ["r-name", "e.g. Allen"], ["x-url", "https://..."], ["x-known", "Pick from our list"]]
+    .forEach(([id, ph]) => $(id).querySelector(".val").innerHTML = `<span class="ph">${ph}</span>`);
+  setVal("n-type", "Concept"); setVal("n-spec", "GEN · General");
+  ["x-title", "x-pub"].forEach(id => $(id).querySelector(".val").innerHTML = '<span class="ph"> </span>');
+  $("x-text").querySelector(".val").innerHTML = '<span class="ph">Paste the text, or click Fetch</span>';
+  ["c1", "c2", "x-msg", "x-s2", "d-prog", "d-msg"].forEach(id => $(id).classList.remove("on"));
+  $("d-bar").style.width = "0"; toast.classList.remove("on");
+}
+function effect(name, instant) {
+  if (!name) return;
+  if (name === "meta") $("t-meta").style.opacity = 1;
+  if (name === "pub") setVal("x-pub", "NLM/NIH (MedlinePlus)");
+  if (name === "fetch") { setVal("x-title", "Carpal Tunnel Syndrome | MedlinePlus"); setVal("x-text", SAMPLE_TEXT); $("x-msg").classList.add("on"); }
+  if (name === "s2") $("x-s2").classList.add("on");
+  if (name === "gen") {
+    $("d-prog").classList.add("on");
+    if (instant) { $("d-bar").style.width = "100%"; $("d-msg").classList.add("on"); }
+    else { later(() => $("d-bar").style.width = "100%", 50); later(() => $("d-msg").classList.add("on"), 1700); }
+  }
+  if (name.startsWith("toast:") && !instant) { toast.textContent = name.slice(6); toast.classList.add("on"); later(() => toast.classList.remove("on"), 2200); }
+}
+function finalState(step) {
+  if (step.act === "type" || step.act === "select") setVal(step.t, step.val);
+  if (step.act === "chips") { $("c1").classList.add("on"); $("c2").classList.add("on"); }
+  effect(step.after, true);
+}
+function moveCursorTo(el) {
+  const s = stage.getBoundingClientRect(), r = el.getBoundingClientRect();
+  const x = r.left - s.left + Math.min(r.width * 0.55, r.width - 12), y = r.top - s.top + r.height * 0.62;
+  cursor.style.left = x + "px"; cursor.style.top = y + "px";
+  return [x, y];
+}
+function click(x, y) {
+  ripple.style.left = x + "px"; ripple.style.top = y + "px";
+  ripple.classList.remove("go"); void ripple.offsetWidth; ripple.classList.add("go");
+}
+function typeInto(id, text, done) {
+  const v = $(id).querySelector(".val"); v.textContent = ""; let k = 0;
+  const speed = Math.max(18, Math.min(55, 1400 / text.length));
+  const tick = () => { v.textContent = text.slice(0, ++k); if (k < text.length) later(tick, speed); else done && done(); };
+  later(tick, speed);
+}
+function show(n) {
+  clearTimers();
+  i = Math.max(0, Math.min(STEPS.length - 1, n));
+  const step = STEPS[i];
+  document.querySelectorAll(".screen").forEach(el => el.classList.toggle("active", el.id === "s-" + step.s));
+  document.querySelectorAll(".hl").forEach(el => el.classList.remove("hl"));
+  resetScreens();
+  for (let j = 0; j < i; j++) finalState(STEPS[j]);   // everything before this step is already done
+
+  $("badge").textContent = SECTIONS[step.s];
+  const ex = $("explain"); ex.classList.remove("fade"); void ex.offsetWidth; ex.classList.add("fade");
+  $("ftitle").textContent = step.title; $("fwhat").innerHTML = step.what;
+  $("fex").textContent = step.ex ? "Example: " + step.ex : "";
+  $("count").textContent = `${i + 1} / ${STEPS.length}`;
+  $("track").style.width = ((i + 1) / STEPS.length * 100) + "%";
+  $("prev").disabled = i === 0; $("next").disabled = i === STEPS.length - 1;
+
+  let wait = 4800;
+  if (step.t) {
+    const el = $(step.t);
+    later(() => {
+      const [x, y] = moveCursorTo(el);
+      later(() => {
+        el.classList.add("hl");
+        if (step.act === "type") { typeInto(step.t, step.val); }
+        if (step.act === "select") { click(x, y); later(() => setVal(step.t, step.val), 300); }
+        if (step.act === "chips") { click(x, y); later(() => $("c1").classList.add("on"), 300); later(() => $("c2").classList.add("on"), 800); }
+        if (step.act === "click") {
+          click(x, y); const b = el.querySelector(".btn"); if (b) { b.classList.add("pressed"); later(() => b.classList.remove("pressed"), 160); }
+          later(() => effect(step.after, false), 250);
+        } else if (step.after && step.act !== "click") { later(() => effect(step.after, false), 600); }
+      }, 850);
+    }, 450);
+    if (step.act === "type") wait += Math.min(1500, step.val.length * 40);
+    if (step.after === "gen") wait += 1200;
+  } else {
+    cursor.style.left = "88%"; cursor.style.top = "88%";
+    wait = 0; playing = false; $("play").textContent = "↻ Replay";
+  }
+  if (playing && visible && wait) later(() => show(i + 1), wait);
+}
+$("next").onclick = () => show(i + 1);
+$("prev").onclick = () => show(i - 1);
+$("play").onclick = () => {
+  if (i === STEPS.length - 1) { playing = true; $("play").textContent = "⏸ Pause"; show(0); return; }
+  playing = !playing; $("play").textContent = playing ? "⏸ Pause" : "▶ Play";
+  if (playing) show(i + 1); else clearTimers();
+};
+document.addEventListener("keydown", e => { if (e.key === "ArrowRight") show(i + 1); if (e.key === "ArrowLeft") show(i - 1); });
+window.addEventListener("load", () => {
+  show(0);
+  if (typeof IntersectionObserver !== "undefined") {
+    // Start (or resume) when the guide is on screen; pause when its tab is hidden.
+    new IntersectionObserver(entries => {
+      const now = entries.some(e => e.isIntersecting);
+      if (now === visible) return;
+      visible = now;
+      if (visible) show(i); else clearTimers();
+    }).observe(document.querySelector(".guide"));
+  }
+});
+</script>
+</body>
+</html>

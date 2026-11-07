@@ -2,3 +2,21 @@
 /.idea/Orthopedic-Knowledge-Decision-Support.iml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+
+# Generated files (rebuilt from the Markdown KOs) and local logs
+data/build/
+data/logs/

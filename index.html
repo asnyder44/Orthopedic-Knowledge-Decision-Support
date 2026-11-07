@@ -60,9 +60,13 @@ ul.pl{padding-left:20px}ul.pl li{margin:6px 0}
 .src p{margin:4px 0;font-size:15px}.src ul{margin:4px 0;padding-left:20px;font-size:15px}
 .src .meta{color:var(--mut);font-size:13px;border-top:1px solid var(--line);margin-top:10px;padding-top:6px}
 .badge{display:inline-block;font-size:12px;font-weight:600;padding:1px 8px;border-radius:999px;border:1px solid var(--line);color:var(--mut);margin-right:6px}
-.bopt{display:block;font-size:14px;color:var(--mut);margin-top:10px}
+.bopt{display:block;font-size:14px;color:var(--mut);margin-top:10px}.bopt[hidden]{display:none}
 .bnote{font-size:13px;color:var(--mut);margin:10px 0 0}
 .appt{font-size:14px}.appt .draft{color:var(--mut);font-style:italic}
+.src.ko{border-left:4px solid var(--pri)}.src .status{font-size:12px;color:var(--mut)}
+.ai{background:var(--alt);border:1px solid var(--pri);border-radius:12px;padding:12px 14px}
+.ai .cite{display:inline-block;font-size:12px;font-weight:700;padding:0 5px;border-radius:6px;border:1px solid var(--pri);color:var(--pri);margin:0 1px}
+.ai ol{margin:6px 0 0;padding-left:22px;font-size:14px}.ai .warn{font-size:13px;color:var(--mut)}
 footer{background:var(--pri2);color:#cfe3f8;padding:36px 0;font-size:14px}footer a{color:#fff}
 /* Medical disclaimer: deliberately high-contrast and large so it can't be missed. */
 .disclaimer{background:#fff4d6;color:#3d2f00;border-bottom:3px solid #c99a2e;font-size:17px;line-height:1.5}
@@ -81,7 +85,7 @@ footer{background:var(--pri2);color:#cfe3f8;padding:36px 0;font-size:14px}footer
 </style></head><body>
 <header><div class="wrap bar">
 <a class="brand" href="#top"><svg width="34" height="34" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="10" fill="#0b5cad"/><path d="M12 10c-3 0-4 4-1 5l3 2 6 6 2 3c1 3 5 2 5-1 0-2-2-2-3-3l-6-6c0-2-2-6-6-6zM28 30c3 0 4-4 1-5l-3-2-6-6-2-3c-1-3-5-2-5 1 0 2 2 2 3 3l6 6c0 2 2 6 6 6z" fill="#fff" transform="translate(0 0) scale(1)" opacity=".95"/></svg>Exclusive Orthopedics Hub</a>
-<nav id="nav"><a href="#specialties">Specialties</a><a href="#explore">Explore</a><a href="#orthobot">OrthoBot</a><a href="#resources">Resources</a><a id="libLink" href="/library">Source library</a><a href="#about">About</a></nav>
+<nav id="nav"><a href="#specialties">Specialties</a><a href="#explore">Explore</a><a href="#orthobot">OrthoBot</a><a href="#resources">Resources</a><a id="libLink" href="/library">Source library</a><a id="koLink" href="/ko/">KO Portal</a><a id="netLink" href="/ko/network">Discovery Network</a><a href="#about">About</a></nav>
 </div></header>
 
 <div class="disclaimer" role="note" aria-label="Medical disclaimer"><div class="wrap">
@@ -112,12 +116,13 @@ This website does not give medical advice and does not diagnose any condition. I
 </div></section>
 
 <section id="orthobot"><div class="wrap">
-<h2>Ask an OrthoBot</h2><p style="color:var(--mut);max-width:760px">Ask a question and OrthoBot shows the passages from vetted public sources (MedlinePlus, NIH/NIAMS and more) that relate to it, with the publisher, licence and date beside each one. It quotes its sources rather than writing its own answers, and it cannot diagnose or give personal medical advice.</p>
+<h2>Ask an OrthoBot</h2><p style="color:var(--mut);max-width:760px">Ask a question and OrthoBot shows the passages from vetted public sources (MedlinePlus, NIH/NIAMS and more) that relate to it, with the publisher, licence and date beside each one. It quotes its sources rather than writing its own answers, and it cannot diagnose or give personal medical advice. It also quotes the team’s Knowledge Objects, with their review status.</p>
 <div class="chat">
 <div class="doctor-box" role="note"><strong>🩺 Always consult your physician.</strong> OrthoBot shares general information only. It is not a doctor, cannot diagnose you, and cannot tell you what treatment is right for you. Please talk to a physician or other qualified healthcare provider about your symptoms and before making any decisions about your care.</div>
 <div id="log" aria-live="polite"><div class="msg" id="greet">Hello! Ask about a condition or procedure, for example “Why do my fingers feel numb at night?”.</div></div>
 <form onsubmit="bot();return false"><input id="bq" maxlength="500" autocomplete="off" aria-label="Your question" placeholder="e.g., Why do my fingers feel numb at night?"><button id="bsend">Ask</button></form>
 <label class="bopt" id="bOpt" hidden><input type="checkbox" id="bAll"> <span id="bAllText"></span></label>
+<label class="bopt" id="bAiOpt" hidden><input type="checkbox" id="bAi"> Also write a short AI answer from these sources (each sentence cites a source; AI can make mistakes)</label>
 <p class="bnote"><strong>General information only, not medical advice.</strong> If you have severe pain, a visibly deformed limb, numbness that comes on suddenly, or signs of infection, seek medical care now or call 911.</p></div>
 </div></section>
 
@@ -140,6 +145,7 @@ This website does not give medical advice and does not diagnose any condition. I
 <div class="card"><h3>📖 Explore</h3><p>A short overview of the chosen subspecialty, with five tabs:</p><ul><li><b>Common conditions</b>: what each condition is, in brief</li><li><b>Procedures</b>: operations and treatments used in that area</li><li><b>Diagnostics</b>: examinations and tests clinicians use</li><li><b>Evidence summary</b>: what research generally shows about treatment</li><li><b>Sources</b>: links to AAOS, OrthoInfo and a PubMed search</li></ul></div>
 <div class="card"><h3>💬 OrthoBot</h3><p>Ask a question in your own words. OrthoBot searches the source library and shows the matching passages exactly as the sources wrote them, with the publisher, licence and date beside each one. It does not write its own answers, and it says so when it can’t find a reliable match.</p><ul><li>Tick the box under the question to include textbooks and research articles as well as patient information.</li><li>Each answer ends with suggested questions to ask at your appointment.</li><li>Questions asking for a personal diagnosis or dose get a reminder that only a clinician can answer them.</li></ul></div>
 <div class="card"><h3>🔗 Resources</h3><p>Links to trusted organizations outside this site: OrthoInfo and AAOS (the American Academy of Orthopaedic Surgeons), PubMed and the Cochrane Library.</p></div>
+<div class="card"><h3>🧩 KO Portal</h3><p>Where the team writes <b>Knowledge Objects</b>: short notes about one topic in which every fact is marked with its source. OrthoBot also quotes these notes and shows each one’s review status (a draft has not been checked by a clinician yet).</p><ul><li><b>What is a KO?</b>: how Knowledge Objects work</li><li><b>Generator</b>: a 5-step wizard that turns 2 or more trusted sources into a draft KO</li><li><b>Library, Topics, Sources</b>: read, check and manage the KOs</li></ul></div>
 <div class="card"><h3>📚 Source library</h3><p>The full collection that OrthoBot searches: patient information from MedlinePlus (U.S. National Library of Medicine) and NIH (NIAMS), an open anatomy textbook (OpenStax), and open-access research articles from Europe PMC.</p><ul><li><b>Library</b>: search the collection, and list the patient-information topics</li><li><b>Browse</b>: list research articles by topic, or textbook chapters</li><li><b>Document pages</b>: the full text of each source, with a link to the original</li><li><b>About &amp; sources</b>: how many documents come from each source, and their licences</li></ul></div>
 </div>
 <p style="color:var(--mut);max-width:760px;margin-top:20px">This is an educational prototype. Information can be incomplete or out of date, and research articles are written for clinicians and report single studies. In an emergency, call 911 or your local emergency number.</p>
@@ -222,7 +228,7 @@ $("q").addEventListener("input",doSearch);
 $("q").addEventListener("keydown",e=>{if(e.key=="Enter")doSearch()});
 /* ---- OrthoBot: talks to the OrthoInfo API (/api/ask). All server text is inserted with textContent. ---- */
 const API=((document.querySelector('meta[name="orthobot-api"]')||{}).content||"").replace(/\/$/,"");
-$("libLink").href=API+"/library";
+$("libLink").href=API+"/library";$("koLink").href=API+"/ko/";$("netLink").href=API+"/ko/network";
 const mk=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e};
 const safeUrl=u=>/^https:\/\//i.test(u||"")?u:null;
 function addMsg(node){const log=$("log");log.appendChild(node);log.scrollTop=log.scrollHeight;return node}
@@ -231,11 +237,37 @@ function addMsg(node){const log=$("log");log.appendChild(node);log.scrollTop=log
 function showFrom(node){const log=$("log");log.scrollTop+=node.getBoundingClientRect().top-log.getBoundingClientRect().top}
 function renderLines(box,lines){let ul=null;lines.forEach(t=>{if(t.startsWith("- ")){if(!ul){ul=mk("ul");box.appendChild(ul)}ul.appendChild(mk("li",null,t.slice(2)))}else{ul=null;box.appendChild(mk("p",null,t))}})}
 const DOCTOR_REMINDER="Reminder: this is general information, not medical advice or a diagnosis. Please consult a physician or other qualified healthcare provider about your symptoms and before making any decisions about your care.";
+/* AI answer (only when the server allows it): plain text with [n] badges, then the numbered sources it cites. */
+function renderAi(ai){
+ if(ai.error){addMsg(mk("div","msg notice",ai.error));return}
+ const box=mk("div","msg ai");box.appendChild(mk("strong",null,"AI answer"));
+ box.appendChild(mk("div","warn","Written by AI ("+ai.model+") only from the passages it found. It can make mistakes: check the cited sources."));
+ (ai.text||"").split("\n").filter(t=>t.trim()).forEach(line=>{
+  const p=mk("p");line.replace(/^\s*[-*]\s+/,"• ").split(/(\[\d{1,2}\])/).forEach(part=>{const m=part.match(/^\[(\d{1,2})\]$/);p.appendChild(m?mk("span","cite",m[1]):document.createTextNode(part.replace(/\*\*/g,"")))});box.appendChild(p)});
+ if(ai.citations&&ai.citations.length){const ol=mk("ol");ai.citations.forEach(c=>{
+  const li=mk("li");li.value=c.n;const href=c.kind==="ko"?API+c.path:safeUrl(c.url);
+  if(href){const a=mk("a",null,c.title);a.href=href;a.target="_blank";a.rel="noopener";li.appendChild(a)}else li.appendChild(mk("span",null,c.title));
+  li.appendChild(document.createTextNode(" — "+c.section+(c.kind==="ko"?" (Knowledge Object)":" ("+c.publisher+")")));ol.appendChild(li)});box.appendChild(ol)}
+ (ai.warnings||[]).forEach(w=>box.appendChild(mk("div","warn",w)));
+ addMsg(box);
+}
 function renderAnswer(j){
  addMsg(mk("div","msg doctor","🩺 "+DOCTOR_REMINDER));
  if(j.scope_notice)addMsg(mk("div","msg notice",j.scope_notice));
- if(!j.found){addMsg(mk("div","msg","I couldn’t find a reliable match for that in the sources I have. Try different wording, search above, browse the source library, or ask your clinician."))}
- else{
+ if(j.ai)renderAi(j.ai);
+ const kos=j.knowledge_objects||[];
+ if(!j.found&&!kos.length){if(!(j.ai&&j.ai.found))addMsg(mk("div","msg","I couldn’t find a reliable match for that in the sources I have. Try different wording, search above, browse the source library, or ask your clinician."))}
+ const showKos=()=>{if(!kos.length)return;
+  addMsg(mk("div","msg","From our Knowledge Objects: short notes the team wrote from trusted sources. Check the review status: a draft has not been checked by a clinician yet."));
+  kos.forEach(k=>{
+   const card=mk("div","src ko"),h=mk("h4");
+   h.appendChild(mk("span","badge","Knowledge Object"));
+   const a=mk("a",null,k.title);a.href=API+k.path;a.target="_blank";a.rel="noopener";h.appendChild(a);card.appendChild(h);
+   card.appendChild(mk("h5",null,k.section));renderLines(card,k.lines);
+   card.appendChild(mk("div","meta",["Review status: "+k.review_status,k.ko_id].concat(k.sources.map(s=>"["+s.id+"] "+s.publisher)).join(" · ")));
+   addMsg(card)});
+ };
+ if(j.found){
   addMsg(mk("div","msg","Here is what the sources say that relates to your question. This is general information and may not answer your exact situation."));
   j.passages.forEach(p=>{
    const s=p.source,card=mk("div","src"),h=mk("h4"),href=safeUrl(s.url);
@@ -246,6 +278,7 @@ function renderAnswer(j){
    card.appendChild(mk("div","meta",[s.publisher,s.license,"last updated "+(s.last_updated||"not stated"),"retrieved "+s.retrieved].join(" · ")));
    addMsg(card)});
  }
+ showKos();  // after the library's official sources
  const aq=j.appointment_questions;
  if(aq&&aq.items.length){
   const d=mk("details","appt");d.appendChild(mk("summary",null,"Questions to ask at your appointment"));
@@ -260,7 +293,7 @@ async function bot(){
  const asked=addMsg(mk("div","msg me",v));
  const wait=addMsg(mk("div","msg","Searching the sources…"));
  try{
-  const r=await fetch(API+"/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({question:v,all_sources:$("bAll").checked})});
+  const r=await fetch(API+"/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({question:v,all_sources:$("bAll").checked,mode:$("bAi").checked?"ai":"quote"})});
   const j=await r.json().catch(()=>({}));wait.remove();
   if(r.ok)renderAnswer(j);else addMsg(mk("div","msg err",j.error||"Sorry, something went wrong. Please try again."));
  }catch(e){wait.remove();addMsg(mk("div","msg err","I can’t reach the OrthoBot service right now. You can still use the search bar above."))}
@@ -269,6 +302,7 @@ async function bot(){
 fetch(API+"/api/info").then(r=>r.ok?r.json():Promise.reject()).then(i=>{
  const extra=Object.entries(i.source_types_available).filter(([t])=>!i.default_source_types.includes(t));
  if(extra.length){$("bAllText").textContent="Also search "+extra.map(([,x])=>x.label.toLowerCase()+"s").join(" and ");$("bOpt").hidden=false}
+ if(i.ai_answers)$("bAiOpt").hidden=false;
 }).catch(()=>{$("greet").textContent="OrthoBot is offline at the moment. You can still use the search bar above and browse the subspecialties."});
 render();
 </script></body></html>

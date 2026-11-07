@@ -1,0 +1,166 @@
+{% extends "ko/layout.html" %}
+{% block title %}Discovery Network{% endblock %}
+{% macro tabbtn(key, label) %}<button role="tab" data-tab="{{ key }}"{{ ' aria-selected="true"'|safe if tab == key }}>{{ label }}</button>{% endmacro %}
+{% block content %}
+<h1>Information Discovery Network</h1>
+<p class="lead">Explore how orthopedic knowledge connects. Every topic here is a Knowledge Object (KO), and every
+  connection comes from a KO and lists the sources behind it.</p>
+<div class="proto-banner" role="note"><b>Prototype layout.</b> This shows what the Discovery Network could look like,
+  built from the KOs saved today. The team is still designing the details (connection types, research objects,
+  analysis), so expect changes.</div>
+
+<div class="netstats">
+  <div><b>{{ insights.counts.kos }}</b><span>Knowledge Objects</span></div>
+  <div><b>{{ insights.counts.links }}</b><span>sourced connections</span></div>
+  <div><b>{{ insights.counts.proposed_concepts }}</b><span>proposed topics not written yet</span></div>
+  <div><b>{{ insights.counts.predicates_used }} / {{ insights.counts.predicates_available }}</b><span>connection types in use</span></div>
+</div>
+
+<div class="tabs" data-tabs>
+  <div class="tablist" role="tablist">
+    {{ tabbtn("explore", "Explore the network") }}
+    {{ tabbtn("journey", "Knowledge journey") }}
+    {{ tabbtn("research", "Research discovery") }}
+    {{ tabbtn("insights", "Network insights") }}
+  </div>
+
+  {# ------------------------------------------------------------ Explore #}
+  <section class="tabpanel" data-panel="explore">
+    <div class="netcols">
+      <div class="netmain card">
+        <div class="netbar">
+          <label class="visually-hidden" for="net-search">Find a topic</label>
+          <input id="net-search" type="search" placeholder="Find a topic, e.g. splint" list="net-names">
+          <datalist id="net-names">{% for n in net.nodes %}<option value="{{ n.label }}">{% endfor %}</datalist>
+          <label class="inline-opt"><input type="checkbox" id="net-proposed" checked> Show proposed topics</label>
+          <label class="inline-opt">Show
+            <select id="net-depth"><option value="0">everything</option><option value="1">1 step from selected</option><option value="2">2 steps from selected</option></select></label>
+          <button type="button" class="secondary" id="net-reset">Reset view</button>
+        </div>
+        <svg id="net-svg" role="img" aria-label="Network of Knowledge Objects and their connections" viewBox="0 0 900 560"></svg>
+        <div class="legend" id="net-legend"></div>
+        <details><summary>Filter by connection type</summary><div id="net-preds" class="checks"></div></details>
+        <p class="muted small">Click a topic to see its connections. Drag to move a topic. Solid circles are written KOs,
+          dashed circles are topics on the KO Topics list with no KO yet, and dotted circles are topics a KO proposes.</p>
+      </div>
+      <aside class="netside card" id="net-panel" aria-live="polite">
+        <div class="eyebrow">Selected topic</div>
+        <p class="muted">Pick a topic in the network to see what it connects to, and which sources support each connection.</p>
+      </aside>
+    </div>
+  </section>
+
+  {# ------------------------------------------------------------ Journey #}
+  <section class="tabpanel" data-panel="journey" hidden>
+    <p class="muted">From one condition to everything around it: anatomy → diagnosis → treatment → surgery → devices →
+      outcomes → recovery. Written KOs are links; grey cards are topics a KO proposes but nobody has written yet.</p>
+    <form method="get" class="libfilter">
+      <input type="hidden" name="tab" value="journey">
+      <label for="j-cond">Condition</label>
+      <select id="j-cond" name="condition" onchange="this.form.submit()">
+        {% for c in conditions %}<option value="{{ c.id }}"{{ ' selected' if c.id == condition }}>{{ c.label }}</option>{% endfor %}
+      </select>
+      <noscript><button>Show</button></noscript>
+    </form>
+    {% if journey %}
+    <div class="journey">
+      {% for stage in journey %}
+      <div class="jstage{{ ' empty' if not stage['items'] }}">
+        <div class="jhead">{{ stage.title }}</div>
+        {% for item in stage['items'] %}
+          {% if item.kind == 'ko' %}
+            <a class="jcard" href="{{ url_for('ko.library', ko=item.id) }}"><b>{{ item.label }}</b>
+              <span class="muted small">{{ item.status }}{% if item.via %} · via {{ item.via }}{% endif %}</span></a>
+          {% else %}
+            <div class="jcard ghost"><b>{{ item.label }}</b>
+              <span class="muted small">{{ 'not written yet' if item.kind == 'proposed' else item.status }}{% if item.via %} · via {{ item.via }}{% endif %}</span></div>
+          {% endif %}
+        {% else %}
+          <div class="jcard ghost"><span class="muted small">Nothing yet: a gap to fill.</span></div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+    <p class="muted small">“via” means the topic connects through another KO (2 steps away).</p>
+    {% else %}<div class="notice">No condition KOs yet.</div>{% endif %}
+  </section>
+
+  {# ------------------------------------------------------------ Research discovery (concept) #}
+  <section class="tabpanel" data-panel="research" hidden>
+    <div class="proto-banner" role="note"><b>Concept.</b> The network has no research objects yet (publications,
+      clinical trials, guidelines). This shows how a researcher could look into a question once they exist. The
+      “Related knowledge” results below come from the real KOs.</div>
+    <div class="grid cols-2">
+      <form class="card" id="rd-form">
+        <label class="field">Clinical topic
+          <select id="rd-topic">{% for n in net.nodes if n.kind == 'ko' %}<option value="{{ n.id }}">{{ n.label }}</option>{% endfor %}</select></label>
+        <label class="field">Research focus <input id="rd-focus" placeholder="e.g. graft technologies, return to work"></label>
+        <fieldset><legend>Information to explore</legend>
+          {% for k in ["Related KOs", "Devices", "Outcomes", "Clinical trials", "Publications", "Guidelines"] %}
+          <label><input type="checkbox" name="rd-kind" value="{{ k }}" checked> {{ k }}</label>{% endfor %}
+        </fieldset>
+        <button>Explore</button>
+      </form>
+      <div class="card"><h3>Kinds of objects still to come</h3>
+        <ul>{% for t, d in planned_types %}<li><b>{{ t }}</b>: <span class="muted">{{ d }}</span></li>{% endfor %}</ul>
+        <p class="muted small">Kyle's vision: start from structured sources (PubMed, ClinicalTrials.gov, OpenAlex, Crossref),
+          extract into the KO schema, and have a person review uncertain connections.</p></div>
+    </div>
+    <div id="rd-results"></div>
+  </section>
+
+  {# ------------------------------------------------------------ Insights #}
+  <section class="tabpanel" data-panel="insights" hidden>
+    <p class="muted">Network analysis of the KO dataset: what is well covered, what is missing, and where to write next.
+      A topic with few KOs may just be one the team hasn't written about yet.</p>
+    <div class="grid cols-2">
+      <div class="card"><h3>Most connected topics</h3>
+        {% set top = insights.most_connected[0].links if insights.most_connected else 1 %}
+        {% for m in insights.most_connected %}
+          <div class="hbar"><a href="{{ url_for('ko.network_page', focus=m.id) }}">{{ m.label }}</a>
+            <span class="bar"><span style="width:{{ (m.links / top * 100)|round }}%"></span></span><b>{{ m.links }}</b></div>
+        {% endfor %}
+        {% if insights.unconnected %}<p class="muted small">Not connected yet: {{ insights.unconnected|join(', ') }}</p>{% endif %}
+      </div>
+      <div class="card"><h3>Connections by type</h3>
+        {% set topp = insights.predicates[0][1] if insights.predicates else 1 %}
+        {% for p, n in insights.predicates %}
+          <div class="hbar"><span title="{{ net.predicates.get(p, '') }}">{{ p|replace('_', ' ')|lower }}</span>
+            <span class="bar"><span style="width:{{ (n / topp * 100)|round }}%"></span></span><b>{{ n }}</b></div>
+        {% endfor %}
+        <p class="muted small">Not used yet: {{ insights.unused_predicates|map('replace', '_', ' ')|map('lower')|join(', ') }}</p>
+      </div>
+      <div class="card"><h3>Coverage along the knowledge journey</h3>
+        <table class="small"><tr><th>Stage</th><th>Written</th><th>Proposed</th></tr>
+          {% for s in insights.stages %}<tr><td>{{ s.title }}</td><td class="{{ 'bad' if not s.written }}">{{ s.written }}</td><td>{{ s.proposed }}</td></tr>{% endfor %}
+        </table>
+        <p class="muted small">Stages with 0 written KOs are the biggest gaps in the network.</p>
+      </div>
+      <div class="card"><h3>Write these next</h3>
+        <p class="muted small">Topics the KOs propose, most often proposed first.</p>
+        <ol>{% for g in insights.top_gaps %}<li>{{ g.label }} <span class="muted small">({{ g.ko_type }}; proposed by {{ g.proposed_by|join(', ') }})</span></li>{% endfor %}</ol>
+        {% if insights.merged %}<p class="muted small">Merged duplicates (entity resolution): {{ insights.merged|join(' · ') }}</p>{% endif %}
+      </div>
+      <div class="card"><h3>Quality</h3>
+        <ul>
+          <li>Review status: {% for s, n in insights.statuses %}{{ n }} {{ s }}{{ ', ' if not loop.last }}{% endfor %}</li>
+          <li>Connections without a supporting source: <b>{{ insights.unsupported_links }}</b></li>
+          <li>Topics on the KO Topics list with no KO yet: <b>{{ insights.counts.planned }}</b></li>
+        </ul>
+      </div>
+      <div class="card"><h3>Ideas for the team</h3>
+        <ul class="small">
+          <li>Clustering and topic modeling across KOs</li>
+          <li>Better matching of duplicate concepts (entity resolution)</li>
+          <li>Moving the graph into a database such as Neo4j: <code>okds/network.py</code> is the one place to change</li>
+          <li>Research objects from PubMed / ClinicalTrials.gov, with confidence-based review</li>
+          <li>OrthoBot answers that follow these connections</li>
+        </ul>
+        <p class="small"><a href="{{ url_for('ko.api_network') }}">Download the network as JSON</a></p>
+      </div>
+    </div>
+  </section>
+</div>
+<script type="application/json" id="net-data">{{ {"net": net, "focus": focus, "urls": {"library": url_for('ko.library'), "orthobot": url_for('ko.orthobot'), "network": url_for('ko.network_page')}}|tojson }}</script>
+{% endblock %}
+{% block page_scripts %}<script src="{{ url_for('ko.static', filename='network.js') }}"></script>{% endblock %}

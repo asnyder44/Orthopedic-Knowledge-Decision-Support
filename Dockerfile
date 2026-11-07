@@ -2,17 +2,23 @@ FROM python:3.12-slim
 
 ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 \
     ORTHOINFO_ROOT=/app \
-    ORTHOINFO_DATASET_VERSION=v2026-10-26
+    ORTHOINFO_DATASET_VERSION=v2026-10-26 \
+    OKDS_DATA_DIR=/app/data \
+    OKDS_SEMANTIC=false
 
 WORKDIR /app
 COPY pyproject.toml README.md ./
 COPY src ./src
 RUN pip install --no-cache-dir ".[prod]"
 
-# Only what the running app needs: config, the processed dataset, the website, server settings.
+# Only what the running app needs: config, the processed dataset, the Knowledge Objects and their
+# topic list and source catalog, the website, server settings.
 # (data/raw is for rebuilding the dataset and is not shipped; see .dockerignore.)
 COPY config ./config
 COPY data/processed/v2026-10-26 ./data/processed/v2026-10-26
+COPY data/kos ./data/kos
+COPY data/sources ./data/sources
+COPY data/registry.csv ./data/registry.csv
 COPY index.html gunicorn.conf.py ./
 
 RUN useradd --system --no-create-home app && chown -R app /app/data

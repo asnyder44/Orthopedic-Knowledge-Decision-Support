@@ -1,0 +1,118 @@
+# OKDS controlled vocabulary (okds-vocab-1.0).
+# One file, used by the generator prompt, the validator, and (later) the loaders.
+# Source: docs/reference/knowledge-object-guide.md §4. Values marked (decide) in the guide are still open.
+
+vocab_version: "okds-vocab-1.0"
+schema_version: "okds-ko-1.0"
+
+# Concept KO types. `code` is used in the KO ID; `cluster` is assigned by rule (guide §4.5).
+ko_types:
+  Condition:           {code: COND,  cluster: 2, description: "A disease, injury, or disorder"}
+  AnatomicalStructure: {code: ANAT,  cluster: 1, description: "A body part relevant to orthopedics"}
+  DiagnosticTest:      {code: DX,    cluster: 3, description: "An exam maneuver, imaging test, or lab/electrodiagnostic test"}
+  Treatment:           {code: TRT,   cluster: 4, description: "A non-surgical treatment"}
+  Procedure:           {code: PROC,  cluster: 5, description: "A surgical procedure"}
+  Device:              {code: DEV,   cluster: 5, description: "An implant, instrument, or brace category"}
+  RehabProtocol:       {code: REHAB, cluster: 6, description: "A recovery or rehabilitation plan"}
+  OutcomeMeasure:      {code: OUT,   cluster: 6, description: "A way of measuring results"}
+  Concept:             {code: CONC,  cluster: 7, description: "A general idea or clarification"}
+
+clusters:
+  1: "Body basics"
+  2: "Understand the condition"
+  3: "Getting diagnosed"
+  4: "Treatment without surgery"
+  5: "Surgery and devices"
+  6: "Recovery and results"
+  7: "Good to know"
+
+# Data rows that come from APIs, not hand-written KOs. Links to them are allowed
+# but cannot be checked against the KO registry yet.
+entity_record_types:
+  - Organization
+  - ClinicalTrial
+  - RegulatoryClearance
+  - Patent
+  - Guideline
+  - Researcher
+  - Grant
+  - Specialty
+  - Location
+
+# Closed relationship list. subject/object: list of types, "any", or "same" (same type as subject).
+predicates:
+  AFFECTS:              {subject: [Condition], object: [AnatomicalStructure], meaning: "The condition involves this body part"}
+  PART_OF:              {subject: [AnatomicalStructure], object: [AnatomicalStructure], meaning: "Anatomy hierarchy"}
+  HAS_SYMPTOM:          {subject: [Condition], object: [Concept], meaning: "A typical symptom"}
+  HAS_RISK_FACTOR:      {subject: [Condition], object: [Concept], meaning: "Raises the chance of the condition"}
+  DIAGNOSED_BY:         {subject: [Condition], object: [DiagnosticTest], meaning: "The test is used to diagnose the condition"}
+  TREATS:               {subject: [Treatment, Procedure], object: [Condition], meaning: "Used to treat the condition"}
+  ALTERNATIVE_TO:       {subject: [Treatment, Procedure], object: [Treatment, Procedure], meaning: "A reasonable alternative option"}
+  USES_DEVICE:          {subject: [Procedure, Treatment], object: [Device], meaning: "The procedure uses this device"}
+  FOLLOWED_BY:          {subject: [Procedure], object: [RehabProtocol], meaning: "Standard recovery after the procedure"}
+  MEASURED_BY:          {subject: [Condition, Procedure], object: [OutcomeMeasure], meaning: "How results are measured"}
+  COMPLICATION_OF:      {subject: [Condition], object: [Procedure, Condition], meaning: "A known complication"}
+  CONTRASTS_WITH:       {subject: any, object: same, meaning: "Often confused but different"}
+  PREREQUISITE_FOR:     {subject: any, object: any, meaning: "Read this first (builds learning paths)"}
+  BELONGS_TO_SPECIALTY: {subject: any, object: [Specialty], meaning: "Specialty grouping"}
+  RECOMMENDED_BY:       {subject: [Treatment, Procedure, DiagnosticTest], object: [Guideline], meaning: "A guideline addresses it"}
+  MANUFACTURED_BY:      {subject: [Device], object: [Organization], meaning: "Maker"}
+  STUDIED_IN:           {subject: [Treatment, Procedure, Device], object: [ClinicalTrial], meaning: "A trial studies it"}
+  CLEARED_AS:           {subject: [Device], object: [RegulatoryClearance], meaning: "FDA clearance or approval"}
+  PATENTED_AS:          {subject: [Device], object: [Patent], meaning: "Related patent"}
+  LOCATED_IN:           {subject: [Organization], object: [Location], meaning: "For the Indiana ecosystem map"}
+
+forbidden_predicates: [RELATED_TO, ASSOCIATED_WITH]
+
+enums:
+  specialty:
+    SPORT: "Sports Medicine"
+    SPINE: "Spine"
+    TRAUMA: "Trauma"
+    HAND: "Hand & Upper Extremity"
+    JOINT: "Joint Reconstruction"
+    FOOT: "Foot & Ankle"
+    GEN: "General"
+  audience: [patient, caregiver, student, clinician, researcher, industry]
+  difficulty: [beginner, intermediate, advanced]
+  review_status: [draft, ai_checked, team_checked, clinician_reviewed, published, retired]
+  # Statuses only a person may set (guide §8.3).
+  human_review_status: [team_checked, clinician_reviewed, published]
+  source_type:
+    - guideline
+    - government_health_page
+    - patient_education
+    - journal_article
+    - systematic_review
+    - textbook
+    - regulatory
+    - trial_registry
+    - patent
+    - organization_site
+    - other
+  permitted_use: [public_domain, open_license, link_and_paraphrase, restricted, "<verify>"]
+
+# Required Markdown body headings (guide §5.4–5.5).
+headings:
+  core:
+    - "Summary"
+    - "Key Facts (claim → source)"
+    - "Explanation"
+    - "Common Misunderstandings"
+    - "Questions to Ask Your Doctor"
+    - "Test Questions"
+    - "Related Topics"
+    - "References"
+  # Required only when the audience includes one of these.
+  patient_only_heading: "Questions to Ask Your Doctor"
+  patient_audiences: [patient, caregiver]
+  explanation_subsections:
+    Condition: ["What it is", "Causes and risk factors", "Symptoms", "How it is diagnosed", "Treatment options", "When to seek care"]
+    AnatomicalStructure: ["Where it is", "What it does", "Conditions that affect it"]
+    DiagnosticTest: ["What it checks", "How it is done", "What results can mean", "Limits"]
+    Treatment: ["What it is", "How it helps", "Who it may suit", "Risks and side effects", "Evidence summary"]
+    Procedure: ["What it is", "Why it is done", "How it is done", "Devices used", "Risks", "Recovery timeline", "Alternatives"]
+    Device: ["What it is", "Where it is used", "Types", "Regulatory status", "Makers"]
+    RehabProtocol: ["Goals", "Phases and typical timing", "Warning signs"]
+    OutcomeMeasure: ["What it measures", "How it is scored", "Where it is used"]
+    Concept: ["Explanation", "Examples"]

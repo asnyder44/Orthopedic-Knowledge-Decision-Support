@@ -1,0 +1,11 @@
+ko_id,preferred_term,alternate_terms,ko_type,specialty,mesh_id,icd10cm,status
+KO-HAND-ANAT-001,Median Nerve,,AnatomicalStructure,HAND,,,drafted
+KO-HAND-ANAT-002,Carpal Tunnel,,AnatomicalStructure,HAND,,,drafted
+KO-HAND-COND-001,Carpal Tunnel Syndrome,CTS; median nerve compression at the wrist,Condition,HAND,,G56.0-,drafted
+KO-HAND-COND-002,Cubital Tunnel Syndrome,ulnar nerve entrapment at the elbow,Condition,HAND,,,drafted
+KO-HAND-COND-003,Trigger Finger,stenosing tenosynovities,Condition,HAND,,,planned
+KO-HAND-DX-001,Nerve Conduction Study,NCS; electrodiagnostic testing,DiagnosticTest,HAND,,,drafted
+KO-HAND-DX-002,Phalen's Test,wrist flexion test,DiagnosticTest,HAND,,,drafted
+KO-HAND-PROC-001,Carpal Tunnel Release,CTR; open release; endoscopic release,Procedure,HAND,,,drafted
+KO-HAND-TRT-001,Wrist Splinting,wrist brace; night splint,Treatment,HAND,,,drafted
+KO-HAND-TRT-002,Corticosteroid Injection,steroid shot,Treatment,HAND,,,drafted

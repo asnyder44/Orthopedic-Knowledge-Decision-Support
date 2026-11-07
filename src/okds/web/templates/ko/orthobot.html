@@ -1,0 +1,49 @@
+{% extends "ko/layout.html" %}
+{% block title %}KO OrthoBot{% endblock %}
+{% block content %}
+<h1>KO OrthoBot</h1>
+<p class="muted">Answers only from the saved Knowledge Objects, with sources. Use it to test the KOs.
+  The public OrthoBot on the <a href="{{ url_for('site') }}#orthobot">Hub</a> also searches the source library. Not medical advice.</p>
+{% if not n_docs %}
+  <div class="notice">No KOs yet. Save one in the Knowledge Object Generator first.</div>
+{% else %}
+<div class="botcols">
+  <div class="botchat">
+    <div class="card welcome">
+      <p><b>Hi! I'm OrthoBot.</b> Ask me a question and I'll answer from our library of Knowledge Objects.</p>
+      <ol><li>Type a question in plain words.</li><li>Read the answer.</li>
+        <li>Match a number like <span class="cite">1</span> with the same number under <b>Citations</b>.</li></ol>
+      <p>Not sure where to start? Type “help” or tap a question.</p>
+      {% if starters %}<p class="muted small">Popular questions:</p>
+        <div class="chips">{% for q in starters %}<button type="button" class="chipbtn" data-ask="{{ q }}">{{ q }}</button>{% endfor %}</div>{% endif %}
+    </div>
+    <div id="bot-log" aria-live="polite"></div>
+    <form id="bot-form" class="botform">
+      <label class="visually-hidden" for="bot-q">Your question</label>
+      <input id="bot-q" maxlength="500" autocomplete="off" placeholder="Ask a question, e.g. How is carpal tunnel syndrome treated?">
+      <button id="bot-send">Ask</button>
+    </form>
+    <details class="card"><summary>⚙ Options</summary>
+      <fieldset><legend>Answer type</legend>
+        {% if ai_allowed %}<label><input type="radio" name="bot-mode" value="ai" checked> AI answer ({{ settings.ai_label }})</label>{% endif %}
+        <label><input type="radio" name="bot-mode" value="quick"{{ ' checked' if not ai_allowed }}> Quick answer (no AI)</label>
+        {% if not settings.ai_ready %}<p class="muted small">AI answers are off. Add a Claude or OpenAI API key to <code>.env</code> to turn them on.</p>
+        {% elif not ai_allowed %}<p class="muted small">AI answers are for editors on this server.</p>{% endif %}
+      </fieldset>
+      <fieldset><legend>How to find KO parts</legend>
+        {% for m, label in methods %}<label><input type="radio" name="bot-method" value="{{ m }}"{{ ' checked' if m == default_method }}> {{ label }}</label>{% endfor %}
+        {% if semantic.status in ('error', 'unavailable') %}<p class="muted small">Meaning search is off: {{ semantic.error }}</p>{% endif %}
+      </fieldset>
+      <button type="button" class="secondary" id="bot-clear">Clear chat</button>
+    </details>
+    <p class="muted small">Knows {{ n_docs }} KO(s), {{ n_chunks }} passages · meaning search: {{ 'ready' if semantic.ready else semantic.status }}</p>
+  </div>
+  <aside class="botsrc">
+    <h3>Citations</h3>
+    <div id="bot-cites"><p class="muted small">After you ask a question, the KO parts used in the answer show here.</p></div>
+  </aside>
+</div>
+<script type="application/json" id="bot-data">{{ {"urls": urls, "ask": ask}|tojson }}</script>
+{% endif %}
+{% endblock %}
+{% block page_scripts %}<script src="{{ url_for('ko.static', filename='orthobot.js') }}"></script>{% endblock %}

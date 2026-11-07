@@ -1,0 +1,27 @@
+{# KO editor: status line, Preview / Edit / Checks, save. Driven by KOEditor in ko.js. #}
+<div class="ko-editor" id="{{ editor_id }}">
+  <div class="ed-status status info" role="status">Checking…</div>
+  <div class="ed-unsaved notice" hidden>You have changes that are not saved yet.
+    <button type="button" class="link ed-revert">Revert</button></div>
+  <div class="tabs" data-tabs>
+    <div class="tablist" role="tablist">
+      <button type="button" role="tab" data-tab="preview" aria-selected="true">Preview</button>
+      <button type="button" role="tab" data-tab="edit">Edit</button>
+      <button type="button" role="tab" data-tab="checks">Checks</button>
+    </div>
+    <div class="tabpanel" data-panel="preview"><div class="ed-preview prose"></div></div>
+    <div class="tabpanel" data-panel="edit" hidden>
+      <p class="muted small">Change the text here. The checks update as you type.</p>
+      <label class="visually-hidden" for="{{ editor_id }}-text">KO text</label>
+      <textarea id="{{ editor_id }}-text" class="ed-text mono" rows="26" spellcheck="false"></textarea>
+    </div>
+    <div class="tabpanel" data-panel="checks" hidden><div class="ed-checks"></div></div>
+  </div>
+  <p class="ed-replace muted small" hidden></p>
+  <div class="ed-actions">
+    <label class="ed-force" hidden><input type="checkbox" class="ed-force-box"> Save anyway as a draft (it still has problems)</label>
+    <button type="button" class="ed-save"{% if not can_edit %} disabled title="Read only: sign in to save"{% endif %}>Save to library</button>
+    <button type="button" class="secondary ed-download">Download .md</button>
+  </div>
+  <div class="ed-result" role="status"></div>
+</div>

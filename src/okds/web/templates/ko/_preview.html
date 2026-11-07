@@ -1,0 +1,5 @@
+<h4 class="pv-title">{{ front.get('title', '') }}</h4>
+<p class="muted small">{{ front.get('ko_id') }} · {{ front.get('ko_type') }} · {{ specialty }} · {{ review.get('status') }}</p>
+{% if front.get('summary') %}<div class="lead-box">{{ front.get('summary') }}</div>{% endif %}
+{{ body }}
+<details><summary>Machine-readable data</summary><pre>{{ data }}</pre></details>

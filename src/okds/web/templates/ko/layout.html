@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block tag %}KO Portal · Knowledge Objects{% endblock %}
+{% block head %}
+  <meta name="csrf-token" content="{{ csrf }}">
+  <link rel="stylesheet" href="{{ url_for('ko.static', filename='portal.css') }}">
+{% endblock %}
+{% block main_class %}wide{% endblock %}
+{% block footer_class %}wide{% endblock %}
+{% block search %}
+{% set sections = [
+  ("home", "ko.home", "What is a KO?"),
+  ("generator", "ko.generator_page", "KO Generator"),
+  ("library", "ko.library", "KO Library"),
+  ("topics", "ko.topics", "KO Topics"),
+  ("sources", "ko.sources", "KO Sources"),
+  ("network", "ko.network_page", "Discovery Network"),
+  ("orthobot", "ko.orthobot", "KO OrthoBot"),
+] %}
+<div class="ko-bar">
+  <nav class="ko-nav" aria-label="KO Portal">
+    {% for key, endpoint, label in sections %}
+      <a href="{{ url_for(endpoint) }}" class="{{ 'on' if active == key }}"{% if active == key %} aria-current="page"{% endif %}>{{ label }}</a>
+    {% endfor %}
+  </nav>
+  <div class="ko-status">
+    <span class="pill {{ 'ok' if settings.ai_ready else '' }}" title="AI model: {{ settings.ai_model if settings.ai_ready else 'none' }}">
+      AI {{ ('on · ' ~ settings.ai_label) if settings.ai_ready else 'off' }}</span>
+    {% if can_edit %}
+      <span class="pill ok" title="You can save and change KOs">Editing on</span>
+      {% if session.get('ko_editor') %}
+        <form method="post" action="{{ url_for('ko.logout') }}" class="inline"><input type="hidden" name="csrf_token" value="{{ csrf }}"><button class="link">Sign out</button></form>
+      {% endif %}
+    {% else %}
+      <span class="pill" title="Read only">Read only</span>
+      {% if login_available %}<a href="{{ url_for('ko.login', next=request.full_path) }}">Sign in</a>{% endif %}
+    {% endif %}
+  </div>
+</div>
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% for cat, msg in messages %}<div class="flash {{ cat }}" role="status">{{ msg }}</div>{% endfor %}
+{% endwith %}
+{% if crumb %}<p class="crumb">Knowledge Object › {{ crumb }}</p>{% endif %}
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('ko.static', filename='ko.js') }}"></script>{% block page_scripts %}{% endblock %}{% endblock %}

@@ -1,0 +1,40 @@
+{% extends "ko/layout.html" %}
+{% block title %}Manage Knowledge Objects{% endblock %}
+{% block content %}
+<h1>Knowledge Object Library</h1>
+<div class="subtabs"><a href="{{ url_for('ko.library') }}">Browse</a><a class="on" href="{{ url_for('ko.manage') }}">Manage (edit, import, export)</a></div>
+{% if not can_edit %}<div class="notice">Read only: you can open and check KOs, but not save, import, export or delete.
+  {% if login_available %}<a href="{{ url_for('ko.login', next=request.full_path) }}">Sign in as an editor</a>.{% endif %}</div>{% endif %}
+
+{% if rows %}
+<div class="table-wrap card"><table>
+  <tr><th>Title</th><th>ID</th><th>Type</th><th>Status</th><th>Version</th><th>Problems</th><th>To double-check</th><th></th></tr>
+  {% for r in rows %}
+  <tr><td>{{ r.title }}</td><td><code>{{ r.ko_id }}</code></td><td>{{ r.type or '' }}</td><td>{{ r.status or '' }}</td>
+      <td>{{ r.version or '' }}</td><td class="{{ 'bad' if r.problems }}">{{ r.problems }}</td><td>{{ r.warnings if r.warnings is defined else '' }}</td>
+      <td>{% if r.readable and r.status is defined %}<a href="{{ url_for('ko.manage_edit', ko_id=r.ko_id) }}">Open</a>{% endif %}</td></tr>
+  {% endfor %}
+</table></div>
+{% else %}<p class="muted">No KOs yet.</p>{% endif %}
+
+<div class="grid cols-3">
+  <form class="card" method="post" action="{{ url_for('ko.manage_import') }}" enctype="multipart/form-data">
+    <h3>Import a KO file</h3>
+    <input type="hidden" name="csrf_token" value="{{ csrf }}">
+    <label class="field">KO Markdown file <input type="file" name="file" accept=".md,text/markdown"></label>
+    <label><input type="checkbox" name="replace" value="1"> Replace a KO with the same ID</label>
+    <p><button{{ ' disabled' if not can_edit }}>Import</button></p>
+  </form>
+  <div class="card">
+    <h3>Download all</h3>
+    <p class="muted small">KO files, data files, source packs and the topic list as one .zip.</p>
+    {% if can_edit and rows %}<a class="btn" href="{{ url_for('ko.export_zip') }}">Download all (.zip)</a>{% else %}<button disabled>Download all (.zip)</button>{% endif %}
+  </div>
+  <form class="card" method="post" action="{{ url_for('ko.manage_rebuild') }}">
+    <h3>Rebuild data files</h3>
+    <input type="hidden" name="csrf_token" value="{{ csrf }}">
+    <p class="muted small">Re-makes the .json copies from the KO files.</p>
+    <button{{ ' disabled' if not (can_edit and rows) }}>Rebuild data files</button>
+  </form>
+</div>
+{% endblock %}

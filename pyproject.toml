@@ -4,16 +4,24 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "orthoinfo"
-version = "0.1.0"
-description = "A focused, evaluated orthopedic patient-education search tool (Data Science in Practice sponsor project)."
+version = "0.2.0"
+description = "Exclusive Orthopedics Hub: an evaluated orthopedic patient-education search tool (OrthoInfo) with OrthoBot and the OKDS Knowledge Object portal."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "flask>=3.0",
+    # KO Portal (okds)
+    "markdown-it-py>=3.0",
+    "pyyaml>=6.0",
+    "jsonschema>=4.20",
+    "python-dotenv>=1.0",
+    "certifi>=2024.2.2",
+    "anthropic>=2.0,<3",
+    "openai>=1.40",
 ]
 
 [project.optional-dependencies]
-# Meaning-based (embedding) search. Heavier install: pulls in PyTorch.
+# Meaning-based (embedding) search for the source library. Heavier install: pulls in PyTorch.
 semantic = [
     "sentence-transformers>=3.0",
     "numpy>=1.26",
@@ -21,22 +29,35 @@ semantic = [
     # (needed on networks that inspect TLS, e.g. many campus/corporate networks).
     "truststore>=0.9",
 ]
+# Meaning search over the Knowledge Objects: a small local embedding model (about 70 MB, downloaded on first use).
+ko-semantic = ["fastembed>=0.3", "numpy"]
 # Production web server (the Dockerfile installs this).
 prod = [
     "gunicorn>=22",
 ]
 dev = [
     "pytest>=8",
+    "ruff>=0.6",
 ]
 
 [project.scripts]
 orthoinfo = "orthoinfo.cli:main"
+okds = "okds.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
 
 [tool.setuptools.package-data]
 orthoinfo = ["templates/*.html", "static/*.css"]
+okds = ["schema/*", "prompts/*.md", "content/*.md", "web/templates/ko/*.html", "web/static/*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py311"
+include = ["src/okds/**/*.py", "src/orthoinfo/assistant.py", "tests/ko/**/*.py"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
