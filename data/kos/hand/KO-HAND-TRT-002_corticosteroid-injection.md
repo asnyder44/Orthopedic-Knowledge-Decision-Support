@@ -55,15 +55,17 @@ relationships:
   - S1
   - S2
   - S3
+- predicate: TREATS
+  target_id: KO-HAND-COND-003
+  target_label: Trigger Finger
+  source_ids:
+  - S2
+- predicate: TREATS
+  target_id: KO-HAND-COND-004
+  target_label: De Quervain Tenosynovitis
+  source_ids:
+  - S2
 proposed_concepts:
-- term: Trigger Finger (stenosing flexor tenosynovitis)
-  suggested_type: Condition
-  predicate: TREATS
-  reason: S2 lists trigger finger as one of the best-supported uses of steroid injection in the hand.
-- term: De Quervain Tenosynovitis
-  suggested_type: Condition
-  predicate: TREATS
-  reason: S2 says steroid injection is strongly supported for de Quervain tenosynovitis.
 - term: Ultrasound-guided injection
   suggested_type: Concept
   predicate: PREREQUISITE_FOR
@@ -146,9 +148,9 @@ review:
 safety:
   not_medical_advice: true
   scope_note: General education only. Not a diagnosis or treatment plan.
-version: 0.1.0
+version: 0.1.1
 created: '2026-11-01'
-last_updated: '2026-11-01'
+last_updated: '2026-11-14'
 update_triggers:
 - A new Cochrane or other systematic review on steroid injection for carpal tunnel syndrome is published.
 - AAOS publishes or updates its carpal tunnel syndrome guideline (injection recommendation).
@@ -160,6 +162,11 @@ change_log:
   by: OKDS agent (Claude)
   change: Initial draft written by OKDS agent (Claude) (claude-opus-5-5, okds-gen-1.0) from source pack
     SP-KO-HAND-TRT-002.
+- version: 0.1.1
+  date: '2026-11-14'
+  by: KO Collector + Claude (Claude Code session)
+  change: 'Proposed concepts that now have KOs became relationships (same sources): treats → Trigger Finger
+    (KO-HAND-COND-003); treats → De Quervain Tenosynovitis (KO-HAND-COND-004)'
 ---
 
 ## Summary
@@ -227,6 +234,8 @@ In CTS, the shot reduces swelling in and around the median nerve, shrinks thicke
 - Alternative to: Wrist Splinting (KO-HAND-TRT-001), Carpal Tunnel Release (KO-HAND-PROC-001)
 - Proposed new topics: Trigger Finger (condition), De Quervain Tenosynovitis (condition), Ultrasound-guided injection (concept)
 - Background reading: Carpal Tunnel (KO-HAND-ANAT-002), Median Nerve (KO-HAND-ANAT-001)
+- treats → Trigger Finger (KO-HAND-COND-003)
+- treats → De Quervain Tenosynovitis (KO-HAND-COND-004)
 
 ## References
 1. [S1] NIAMS (NIH). *Carpal Tunnel Syndrome: Diagnosis, Treatment, and Steps to Take.* https://www.niams.nih.gov/health-topics/carpal-tunnel-syndrome/diagnosis-treatment-and-steps-to-take (retrieved 2026-11-01)

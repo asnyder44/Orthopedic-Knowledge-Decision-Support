@@ -1,0 +1,786 @@
+{
+  "term": "Anterior Cruciate Ligament Tear",
+  "collected": "2026-11-14",
+  "count": 43,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Optimal Timing of Anterior Cruciate Ligament Reconstruction in Patients With Anterior Cruciate Ligament Tear: A Systematic Review and Meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9672975/",
+      "publisher": "JAMA network open",
+      "year": "2022",
+      "doi": "10.1001/jamanetworkopen.2022.42742",
+      "abstract": "Importance The timing of surgery has been regarded as a key factor in anterior cruciate ligament reconstruction (ACLR), and early vs delayed ACLR remains a controversial topic. Objective To synthesize up-to-date published data from randomized clinical trials (RCTs) comparing early vs elective delayed ACLR for patients with ACL deficiency, in terms of clinical outcomes and complications. Data sources The PubMed, Cochrane Library, and Web of Science databases were systematically searched until September 9, 2022. Study selection All published RCTs comparing clinical and functional outcomes and complications associated with early ACLR vs elective delayed ACLR. Data extraction and synthesis Two reviewers independently extracted relevant data and assessed the methodological quality following the PRISMA guidelines. Main outcomes and measures Due to the clinical heterogeneity, the random-effects model was preferred. The primary outcomes were functional outcomes and complications. The Mantel-Haenszel test was used to evaluate dichotomous variables and the inverse variance method was used to assess continuous variables. Results This meta-analysis included 972 participants in 11 RCTs stratified by follow-up duration. The following factors did not differ between early and delayed ACLR: operative time (mean difference, 4.97; 95% CI, -0.68 to 10.61; P = .08), retear (OR, 1.52; 95% CI, 0.52-4.43; P = .44), and infection (OR, 3.80; 95% CI, 0.77-18.79; P = .10). There were also no differences between groups in range of motion, knee laxity, International Knee Documentation Committee (IKDC rating scale), and Tegner score. IKDC score (mean difference, 2.77; 95% CI, 1.89-3.66; P Conclusion and relevance This systematic review and meta-analysis found that early ACLR was not superior to delayed ACLR in terms of most factors analyzed, except for IKDC and Lysholm scores. This information should be available to patients with ACL deficiency and clinicians as part of the shared decision-making process of treatment selection.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.98,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The diagnostic accuracy of clinical tests for anterior cruciate ligament tears are comparable but the Lachman test has been previously overestimated: a systematic review and meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9464183/",
+      "publisher": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "year": "2022",
+      "doi": "10.1007/s00167-022-06898-4",
+      "abstract": "Purpose The diagnostic accuracy of clinical tests for anterior cruciate ligament injury has been reported in previous systematic reviews. Numerous studies in these reviews include subjects with additional knee ligament injury, which could affect the sensitivity of the tests. Meta-analyses have also been performed using methods that do not account for the non-independence of sensitivity and specificity, potentially overestimating diagnostic accuracy. The aim of this study was to report the diagnostic accuracy of clinical tests for anterior cruciate ligament tears (partial and complete) without concomitant knee ligament injury. Methods A systematic review with meta-analysis was performed according to the PRISMA guidelines. Meta-analyses included studies reporting the specificity and/or sensitivity of tests with or without concomitant meniscal injury. Where possible, pooled diagnostic estimates were calculated with bivariate random-effects modelling to determine the most accurate effect sizes. Diagnostic accuracy values are presented for the anterior drawer, Lachman, Lever sign and pivot shift tests overall and in acute or post-acute presentations. Results Pooled estimates using a bivariate model for overall sensitivity and specificity respectively were as follows: anterior drawer test 83% [95% CI, 77-88] and 85% [95% CI, 64-95]; Lachman test 81% [95% CI, 73-87] and 85% [95% CI, 73-92]; pivot shift test 55% [95% CI, 47-62] and 94% [95% CI, 88-97]; Lever sign test 83% [95% CI, 68-92] and 91% [95% CI, 83-95]. For specific presentations, the sensitivity and specificity of the Lachman test, respectively, were: complete tears 68% [95% CI, 54-79] and 79% [95% CI, 51-93]; post-acute injuries 70% [95% CI, 57-80] and 77% [95% CI, 53-91]. Conclusions The pivot shift and Lever sign were the best tests overall for ruling in or ruling out an anterior cruciate ligament tear, respectively. The diagnostic accuracy of the Lachman test, particularly in post-acute presentations and for complete tears, is lower than previously reported. Further research is required to establish more accurate estimates for the Lachman test in acute presentations and partial ligament tears using bivariate analysis. Level of evidence III.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.98,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Influence of Anterior Cruciate Ligament Tear on Thigh Muscle Strength and Hamstring-to-Quadriceps Ratio: A Meta-Analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4706431/",
+      "publisher": "PloS one",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0146234",
+      "abstract": "Theoretical compensation after anterior cruciate ligament (ACL) tear could cause quadriceps weakness and hamstring activation, preventing anterior tibial subluxation and affecting the expected hamstring-to-quadriceps ratio. Although quadriceps weakness often occurs after ACL tears, it remains unclear whether hamstring strength and hamstring-to-quadriceps ratio increase in ACL deficient knees. This meta-analysis compared the isokinetic muscle strength of quadriceps and hamstring muscles, and the hamstring-to-quadriceps ratio, of the injured and injured limbs of patients with ACL tears. This meta-analysis included all studies comparing isokinetic thigh muscle strengths and hamstring-to-quadriceps ratio in the injured and uninjured legs of patients with ACL tear, without or before surgery. Thirteen studies were included in the meta-analysis. Quadriceps and hamstring strengths were 22.3 N∙m (95% CI: 15.2 to 29.3 N∙m; P<0.001) and 7.4 N∙m (95% CI: 4.3 to 10.5 N∙m; P<0.001) lower, respectively, on the injured than on the uninjured side. The mean hamstring-to-quadriceps ratio was 4% greater in ACL deficient than in uninjured limbs (95% CI: 1.7% to 6.3%; P<0.001). Conclusively, Decreases were observed in both the quadriceps and hamstring muscles of patients with ACL tear, with the decrease in quadriceps strength being 3-fold greater. These uneven reductions slightly increase the hamstring-to-quadriceps ratio in ACL deficient knees.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.74,
+      "providers": [
+        "europepmc",
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effectiveness of Knee Injury and Anterior Cruciate Ligament Tear Prevention Programs: A Meta-Analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670212/",
+      "publisher": "PloS one",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0144063",
+      "abstract": "Objective: Individuals frequently involved in jumping, pivoting or cutting are at increased risk of knee injury, including anterior cruciate ligament (ACL) tears. We sought to use meta-analytic techniques to establish whether neuromuscular and proprioceptive training is efficacious in preventing knee and ACL injury and to identify factors related to greater efficacy of such programs. Methods: We performed a systematic literature search of studies published in English between 1996 and 2014. Intervention efficacy was ascertained from incidence rate ratios (IRRs) weighted by their precision (1/variance) using a random effects model. Separate analyses were performed for knee and ACL injury. We examined whether year of publication, study quality, or specific components of the intervention were associated with efficacy of the intervention in a meta-regression analysis. Results: Twenty-four studies met the inclusion criteria and were used in the meta-analysis. The mean study sample was 1,093 subjects. Twenty studies reported data on knee injury in general terms and 16 on ACL injury. Maximum Jadad score was 3 (on a 0–5 scale). The summary incidence rate ratio was estimated at 0.731 (95% CI: 0.614, 0.871) for knee injury and 0.493 (95% CI: 0.285, 0.854) for ACL injury, indicating a protective effect of intervention. Meta-regression analysis did not identify specific intervention components associated with greater efficacy but established that later year of publication was associated with more conservative estimates of intervention efficacy. Conclusion: The current meta-analysis provides evidence that neuromuscular and proprioceptive training reduces knee injury in general and ACL injury in particular. Later publication date was associated with higher quality studies and more conservative efficacy estimates. As study quality was generally low, these data suggest that higher quality studies should be implemented to confirm the preventive efficacy of such programs.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.7,
+      "providers": [
+        "europepmc",
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Arthroscopic repair of proximal anterior cruciate ligament tears in children and adolescents: A systematic review",
+      "url": "https://amu.hal.science/hal-04955516v1",
+      "publisher": "Journal of Children's Orthopaedics",
+      "year": "2024",
+      "doi": "10.1177/18632521241244626",
+      "abstract": "Purpose: Anterior cruciate ligament repair techniques are of growing interest because they allow for minimally invasive surgery that avoids harvesting of the transplant, without risking growth deficiencies in young patients. The aim of this study is to summarize the published evidence about arthroscopic repair of anterior cruciate ligament proximal tears in skeletally immature patients. Methods: In total, four studies were included and processed for data extraction after screening for eligibility for this systematic review: one retrospective cohort study and three retrospective case series. Altogether, the four studies included in this review included 61 skeletally immature patients with a mean age of 12.1 years diagnosed with proximal anterior cruciate ligament tear who underwent arthroscopic repair with preservation of the native ligament. The mean follow-up period was 2.8 years. Results: The most relevant and objective outcome that we considered was re-rupture rate. One study reports a cumulative incidence of graft failure in the first 3 years after surgery of 48.8% while the others report a 0%, 0% and 21.5% re-rupture rate. No growth disturbances were reported in the included studies. Conclusion: Despite growing interest surrounding anterior cruciate ligament repair techniques, the presence of limited quality studies in the literature means repair cannot be strongly supported at present. Some encouraging data regarding the absence of growth disturbance and functional outcomes does exist, but studies with larger samples are required. Level of evidence: level IV.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.06,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Anterior cruciate ligament tear and associated ligamentous and meniscal injuries - A magnetic resonance imaging-based study in a tertiary care centre in South Kerala",
+      "url": "https://zenodo.org/records/19467076",
+      "publisher": "International Journal of Medical and Pharmaceutical Research",
+      "year": "2026",
+      "doi": "10.5281/zenodo.19467076",
+      "abstract": "Introduction: The knee joint, being the largest synovial joint in the body, is highly susceptible to musculoskeletal pain and injury, frequently resulting in instability and range-of-motion limitations. The anterior cruciate ligament (ACL) is a crucial stabilizer, preventing the anterior translation of the tibia on the femur, and is commonly injured in athletes and trauma patients. Injuries to the ACL are often immediately disabling, require prolonged rehabilitation, and are frequently associated with trauma to the menisci (MM and LM) and other ligamentous structures. Magnetic Resonance (MR) imaging is the investigation of choice for assessing the status of the ACL and associated structures, as it helps identify subtle meniscal and ligamentous changes necessary for appropriate early management. Aim: The aim of this study was to identify the association of ACL tear with ligamentous and meniscal injuries of the knee joint based on magnetic resonance imaging findings in a tertiary care centre in South Kerala. Materials and methods: This was a cross-sectional study conducted in the Department of Radio diagnosis at a tertiary care centre in South Kerala from February 2020 to October 2021. The study population consisted of 79 patients, aged 18 to 40 years, of both genders, referred for MR imaging due to clinical suspicion of an ACL tear. Patients with contraindications for MRI, prior knee surgery, or infective arthritis were excluded. Data was collected using consecutive sampling, and radiological findings were studied from images obtained via a 1.5 Tesla MRI equipment. Statistical analysis involved presenting categorical data as frequency and percentages, continuous data using descriptive statistics (including mean and standard deviation), and associated injury frequencies with percentages and 95% confidence intervals. Results: The study included 79 participants, 64.6% of whom were male, with a mean age of 28.75 ± 7.12 years. Partial ACL tears were found in 59.5% of cases, while complete tears accounted for 40.5%. Associated medial meniscal (MM) tears were observed in 68.4% of the participants. The most frequent MM injury patterns were posterior horn tear (30.4%) and posterior horn tear with body tear (22.8%). Lateral meniscal (LM) tears were found in 36.7% of the study population, with posterior horn tear being the most common specific pattern (11.4%). Regarding collateral ligaments, 21.6% had a medial collateral ligament (MCL) tear (20.3% partial), 7.6% had a lateral collateral ligament (LCL) tear, and 6.3% had a partial posterior cruciate ligament (PCL) tear. Meniscal injuries were notably more common than collateral ligament injuries. Conclusion: A significant association was found between ACL tears and other concurrent ligamentous and meniscal injuries, with meniscal tears occurring much more frequently than collateral ligament injuries. Given the high prevalence of associated injuries (particularly MM tears), a comprehensive clinical and radiological assessment using MRI is crucial for practitioners to enhance prognosis and prevent overlooked injuries that may lead to delayed recovery or re-surgery.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Prevalence and mechanisms of anterior cruciate ligament tears in military personnel: A cross-sectional study in Iran",
+      "url": "https://doi.org/10.1371/journal.pone.0303326",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0303326",
+      "abstract": "Background: Anterior cruciate ligament (ACL) tear is common in military setting; such an injury increase institutional costs and workforce strain, however, few studies have investigated the mechanism and associated factors of ACL tear specifically in a military setting. The aim of this study was to investigate the prevalence and mechanisms of ACL tears in military personnel at a military referral hospital in Iran. Material and methods: This cross-sectional study examined 402 military personnel who presented with knee complaints at a single referral Iranian military hospital. The ACL injury prevalence and mechanisms were assessed by physical examination, medical records, and magnetic resonance imaging (MRI) of the knee. Data were collected by an orthopedic resident. Results: Of the total 402 patients, 285 were diagnosed with ACL tears; the prevalence was 70.9%. The most common mechanism leading to ACL tear was noncontact events. The knee changing direction-knee pivoting (54%) was the most frequent lower limb status, followed by a fall with the knee in valgus position (20.7%). The most commonly associated activity was military training (63.9%) and sports activities (32.6%). The incidence of ACL injuries was higher in soldiers compared with officers during military training, but higher in officers during sports exercises (P = 0.002). Common associated injuries involved the knee meniscus and cartilage. Conclusion: The findings support those of previous studies, that in military personnel, the most common knee injury is damage to the ACL, most frequently through noncontact events, specifically knee pivoting, during military activities rather than sports and among soldiers. These findings help develop ACL injury prevention programs.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Optimal measurement method for anterior instability on stress radiographs in anterior cruciate ligament tear: Considering the effect of static anterior tibial subluxation",
+      "url": "https://doi.org/10.1371/journal.pone.0310428",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0310428",
+      "abstract": "Introduction: Accurate assessment of anterior cruciate ligament (ACL) function is vital for guiding treatment. Nevertheless, the presence of tibial subluxation in the neutral position of a patient with an ACL injury may potentially introduce a confounding factor. This study aims to investigate whether tibial subluxation in the neutral position affects the diagnosis of anterior instability in patients with ACL injuries, potentially impacting the reliability and diagnostic accuracy of stress radiography. Methods: This study included 88 patients: 30 with acute complete ACL tears (acute group), 28 with chronic complete ACL tears (chronic group), and 30 patients who underwent knee arthroscopic surgery other than ACL reconstruction (control group). Side-to-side differences (SSD) in stress radiography were measured using the Telos load status and the SSD of the gap between the Telos load and unload statuses. Diagnostic accuracy of the two methods was assessed using areas under the receiver operating characteristic curves (AUCs). Results: The load SSD (5.92 ± 5.28 mm) was higher than the load-unload SSD (4.27 ± 5.99 mm) in the chronic group (P = 0.017). The load SSD demonstrated a significantly higher diagnostic value than that of the load-unload SSD in the combined group (AUC = 0.920 vs. 0.830; P = 0.012) and chronic group (AUC = 0.913 vs. 0.754; P = 0.002). After adjusting the symptoms for radiographic duration from 6 to 3 months in the chronic group, the load SSD exhibited a significantly higher diagnostic value (AUC = 0.902) than that of the load-unload SSD (AUC = 0.740; P < 0.001). Conclusion: The load SSD provides superior diagnostic accuracy compared to the load-unload SSD in ACL tear cases, where static anterior tibial subluxation may result in false negatives. Although load-unload SSD may have diagnostic value within the first 3 months post-injury, the load SSD method provides a reliable assessment of ACL function for patients beyond this timeframe.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Review on Biomechanics of Anterior Cruciate Ligament and Materials for Reconstruction",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5971278/",
+      "publisher": "Applied bionics and biomechanics",
+      "year": "2018",
+      "doi": "10.1155/2018/4657824",
+      "abstract": "The anterior cruciate ligament is one of the six ligaments in the human knee joint that provides stability during articulations. It is relatively prone to acute and chronic injuries as compared to other ligaments. Repair and self-healing of an injured anterior cruciate ligament are time-consuming processes. For personnel resuming an active sports life, surgical repair or replacement is essential. Untreated anterior cruciate ligament tear results frequently in osteoarthritis. Therefore, understanding of the biomechanics of injury and properties of the native ligament is crucial. An abridged summary of the prominent literature with a focus on key topics on kinematics and kinetics of the knee joint and various loads acting on the anterior cruciate ligament as a function of flexion angle is presented here with an emphasis on the gaps. Briefly, we also review mechanical characterization composition and anatomy of the anterior cruciate ligament as well as graft materials used for replacement/reconstruction surgeries. The key conclusions of this review are as follows: (a) the highest shear forces on the anterior cruciate ligament occur during hyperextension/low flexion angles of the knee joint; (b) the characterization of the anterior cruciate ligament at variable strain rates is critical to model a viscoelastic behavior; however, studies on human anterior cruciate ligament on variable strain rates are yet to be reported; (c) a significant disparity on maximum stress/strain pattern of the anterior cruciate ligament was observed in the earlier works; (d) nearly all synthetic grafts have been recalled from the market; and (e) bridge-enhanced repair developed by Murray is a promising technique for anterior cruciate ligament reconstruction, currently in clinical trials. It is important to note that full extension of the knee is not feasible in the case of most animals and hence the loading pattern of human ACL is different from animal models. Many of the published reviews on the ACL focus largely on animal ACL than human ACL. Further, this review article summarizes the issues with autografts and synthetic grafts used so far. Autografts (patellar tendon and hamstring tendon) remains the gold standard as nearly all synthetic grafts introduced for clinical use have been withdrawn from the market. The mechanical strength during the ligamentization of autografts is also highlighted in this work.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Clinical diagnosis of partial or complete anterior cruciate ligament tears using patients' history elements and physical examination tests",
+      "url": "https://doi.org/10.1371/journal.pone.0198797",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0198797",
+      "abstract": "Objective: To assess the diagnostic validity of clusters combining history elements and physical examination tests to diagnose partial or complete anterior cruciate ligament (ACL) tears. Design: Prospective diagnostic study. Settings: Orthopaedic clinics (n = 2), family medicine clinics (n = 2) and community-dwelling. Participants: Consecutive patients with a knee complaint (n = 279) and consulting one of the participating orthopaedic surgeons (n = 3) or sport medicine physicians (n = 2). Interventions: Not applicable. Main outcome measures: History elements and physical examination tests performed independently were compared to the reference standard: an expert physicians’ composite diagnosis including history elements, physical tests and confirmatory magnetic resonance imaging. Penalized logistic regression (LASSO) was used to identify history elements and physical examination tests associated with the diagnosis of ACL tear and recursive partitioning was used to develop diagnostic clusters. Diagnostic accuracy measures including sensitivity (Se), specificity (Sp), predictive values and positive and negative likelihood ratios (LR+/-) with associated 95% confidence intervals (CI) were calculated. Results: Forty-three individuals received a diagnosis of partial or complete ACL tear (15.4% of total cohort). The Lachman test alone was able to diagnose partial or complete ACL tears (LR+: 38.4; 95%CI: 16.0–92.5). Combining a history of trauma during a pivot with a “popping” sensation also reached a high diagnostic validity for partial or complete tears (LR+: 9.8; 95%CI: 5.6–17.3). Combining a history of trauma during a pivot, immediate effusion after trauma and a positive Lachman test was able to identify individuals with a complete ACL tear (LR+: 17.5; 95%CI: 9.8–31.5). Finally, combining a negative history of pivot or a negative popping sensation during trauma with a negative Lachman or pivot shift test was able to exclude both partial or complete ACL tears (LR-: 0.08; 95%CI: 0.03–0.24). Conclusion: Diagnostic clusters combining history elements and physical examination tests can support the differential diagnosis of ACL tears compared to various knee disorders.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effect of Time after Anterior Cruciate Ligament Tears on Proprioception and Postural Stability",
+      "url": "https://doi.org/10.1371/journal.pone.0139038",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0139038",
+      "abstract": "This study was designed to compare proprioception and postural stability in patients with acute (time from injury ≤ 3 months) and chronic (time from injury > 3 months) ACL tears, and to evaluate the correlation between time interval after ACL injury and proprioception. Thigh muscle strength, postural stability, and joint position sense were compared in 48 patients with acute ACL tears and in 28 with chronic ACL tears. Maximal torque (60°/sec) of the quadriceps and hamstring was evaluated using an isokinetic testing device. Postural stability was determined from the anterior-posterior (APSI), medial-lateral (MLSI), and overall (OSI) stability indices using stabilometry. Joint position sense was also tested by reproduction of passive positioning (RPP). Muscle strengths and stability indices on both the involved and uninvolved sides were similar in the acute and chronic ACL tear groups. RPP on the involved side was significantly greater in the chronic than in the acute ACL tear group (7.8° vs. 5.6°, P = 0.041). Two of three stability indices (APSI, OSI) and RPP were significantly greater on the involved than the uninvolved side in the chronic ACL tear group.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Quadriceps and hamstring tendon autografts in ACL reconstruction yield comparably good results in a prospective, randomized controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8783919/",
+      "publisher": "Archives of orthopaedic and trauma surgery",
+      "year": "2022",
+      "doi": "10.1007/s00402-021-03862-8",
+      "abstract": "Introduction Comparable data of functional outcomes of anterior cruciate ligament reconstruction using either hamstring- or quadriceps tendon grafts is controversial. This prospective, randomized controlled trial aims to provide data comparing both grafts regarding the functional outcome. Materials and methods A two centre trial involving symptomatic patients 18 years of age or older with an anterior cruciate ligament tear was conducted. We randomly assigned 27 patients to quadruple hamstring tendon reconstruction and 24 to quadriceps tendon reconstruction. The patients were evaluated preoperatively, at 3, 6, 12 and 24 months post-surgery. The primary outcome parameter was the side-to-side knee laxity measured with an arthrometer. Secondary outcomes included results in the International Knee Documentation Committee (IKDC) and Lysholm Scores and isokinetic testing of strength in knee extension and flexion. Results Forty-four patients (86%) completed the 2-year follow-up. There was significantly improved knee stability at all time intervals with no difference between the two study groups. The manual side-to-side displacement improved by 4.7 ± 3.0 mm in patients with hamstring tendon reconstruction and 5.5 ± 2.9 mm in patients with quadriceps tendon reconstruction. In addition, muscle strength and outcome scores (IKDC and Lysholm Score) did not show any differences between the hamstring tendon group and the quadriceps tendon group. Patients in the hamstring tendon group returned to their pre-injury activity level after 95.2 ± 45.5 days while patients in the quadriceps tendon group needed 82.1 ± 45.6 days. Conclusion Quadriceps and hamstring tendon autografts yield comparably good results in primary anterior cruciate ligament reconstruction.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.88,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Outcomes of Initial Nonoperative Management of Partial Anterior Cruciate Ligament Tears in Pediatric Patient",
+      "url": "http://www.sciencedirect.com/science/article/pii/S276827652600009X",
+      "publisher": "Journal of the Pediatric Orthopaedic Society of North America",
+      "year": "2026",
+      "doi": "10.1016/j.jposna.2026.100330",
+      "abstract": "Background: Partial anterior cruciate ligament (pACL) injuries are a challenging clinical problem without reliable diagnostic criteria and scant data on outcomes. The majority of prior studies defined a partial tear either arthroscopically or by exam under anesthesia, and have focused on the surgical management.This study investigates the outcomes of partial anterior cruciate ligament tears identified with data available in the clinic. Methods: We conducted a retrospective cohort study, with follow-up survey of pediatric patients aged between the ages of 8 and 18 years who were diagnosed with a partial anterior cruciate ligament tear in orthopaedic and sports medicine clinics at an urban, level-1 pediatric trauma center between 1/1/2009 and 12/31/2019, to determine the prevalence of progression to anterior cruciate ligament insufficiency. Secondarily, we (1) determined the rate of meniscus tears associated with partial anterior cruciate ligament tears, (2) determined the mean time to progression to anterior cruciate ligament insufficiency, and (3) assessed risk factors associated with progression to anterior cruciate ligament insufficiency. Demographic and clinic data were collected from the medical records. Results: Three hundred and sixty-five patients with partial anterior cruciate ligament tears were identified. We had a response rate of 27% (n = 99). Fifteen patients had immediate operative management. The remaining eighty-four, treated nonoperatively at the onset, were analyzed. Of the whole cohort, 21 of 84 (25%) patients progressed to anterior cruciate ligament insufficiency. After accounting for censored data, the imputed median survival time of a partial anterior cruciate ligament tear was 11.4 months (Interquartile range [IQR]: 5.5-28.6 months) after returning to sports. No significant differences were found in sex, sports participation, body mass index, contusion pattern, associated injuries on magnetic resonance imaging, or physical therapy or bracing duration existed between those who progressed to anterior cruciate ligament insufficiency and those that did not. Conclusions: A substantial proportion (25%) of partial anterior cruciate ligament tears progress to an anterior cruciate ligament insufficiency. Progression does not appear to be independently associated with clinical and radiographic findings or management practices. Key Concepts: (1) Our findings suggest that partial anterior cruciate ligament tears defined by clinic-based data (history, exam, and radiology) commonly progress to full anterior cruciate ligament insufficiency, particularly in the first year. (2) A substantial proportion (25%) of partial anterior cruciate ligament tears progress to anterior cruciate ligament insufficiency. (3) Progression does not appear to be independently associated with demographics, reported clinical factors, exam findings, radiographic findings (bone contusion patterns, associated injuries) or management practices (time out of sports, bracing). (4) This study provides important data to help advise patients on rates of progression of a partial ACL tear to ACL insufficiency. Additionally, there is liimited data on understanding mitigation of this risk. Level of Evidence: Level III",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Artificial Intelligence in Anterior Cruciate Ligament Tear Diagnosis: A Bibliometric Analysis of the 50 Most Cited Studies",
+      "url": "https://www.semanticscholar.org/paper/ce41e16b690cacafeeab7a618f5dcb3cddc4fa73",
+      "publisher": "Indian Journal of Radiology and Imaging",
+      "year": "2025",
+      "doi": "10.1055/s-0045-1811267",
+      "abstract": "Abstract Introduction Since the 2000s, artificial intelligence (AI) publications in medicine have surged, particularly in orthopaedics and radiology. A key area is the diagnosis of anterior cruciate ligament (ACL) tears, where AI enhances detection and treatment strategies. This study aims to perform a bibliometric analysis of AI in ACL tear diagnosis, identifying pivotal studies to guide future research and clinical priorities. Materials and Methods A bibliometric analysis was conducted using the Web of Science database. The top-50 articles were ranked by citation count and analyzed for basic characteristics and research focus. Trends in diagnostic advancements and AI model utilization were also assessed. Results The most cited articles, published between 2017 and 2024, peaked in 2021 ( n = 13). Citation counts ranged from 7 to 401 (median: 8.5 ± 7.0). China ( n = 14) and the United States ( n = 13) emerged as the leading contributors. The vast majority (90%) of models were based on convolutional neural networks (CNNs), with 80% undergoing internal validation. Only 5% of the included models utilized a radiomic framework. Conclusion This bibliometric analysis examines the growing role of AI in ACL tear diagnosis, with a marked increase in research output from 2017 to 2024. Key barriers to the adoption of AI models include algorithmic bias, data privacy, explainability, cost-effectiveness, and interoperability. The underrepresentation of radiomic-based models, despite their diagnostic potential, highlights an avenue for future research. Advancing explainable AI, strengthening validation, and establishing standardized reporting guidelines will be essential to ensure clinical integration to improve patient outcomes.",
+      "licence": "CCBYNCND",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.612,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Clinically relevant stabilizers of the posteromedial and posterolateral knee: normal anatomy, scanning technique, and ultrasound findings in patients with anterior cruciate ligament tear",
+      "url": "https://www.semanticscholar.org/paper/c3122c68272cd0e61ec0a215f89671bb61d8b922",
+      "publisher": "European Radiology",
+      "year": "2025",
+      "doi": "10.1007/s00330-025-11868-8",
+      "abstract": "Unrecognized and untreated injuries of the posteromedial and posterolateral corners of the knee are more common than previously thought and have been linked to poor outcomes after anterior cruciate ligament reconstruction. Amongst imaging modalities, magnetic resonance is currently referred to as the gold standard for the evaluation of these regions, but has several limitations, in particular in the identification of subacute and chronic lesions. Recent technological advancements and the progressive refinement of linear probes have expanded the potential of High-resolution ultrasound in demonstrating the stabilizers of the posteromedial and posterolateral corners in both normal and pathological cases, and now this modality may be considered as a useful complementary tool for the evaluation of these structures. The aim of this work is twofold: (i) to review, also with the support of dedicated dissections and schematic drawings, the normal anatomy and the biomechanical role of the clinically relevant stabilizers of the posteromedial and posterolateral knee, including the distal expansion of the semimembranosus tendon, the popliteus muscle–tendon unit, and the posterior oblique ligament; (ii) to illustrate the normal ultrasound appearance of these structures and the spectrum of pathological findings that this modality may disclose in patients with anterior cruciate ligament tear. QuestionInjuries of the posteromedial and posterolateral knee worsen the outcome after anterior cruciate ligament reconstruction but are often underdiagnosed on imaging. FindingsUltrasound has potential in diagnosing tears of stabilizers of the posteromedial and posterolateral knee and provides complementary information to MRI about ligament status and continuity. Clinical relevanceIn subacute and chronic injuries, ultrasound has some advantages over MRI as it can disclose subtle abnormalities that might otherwise be unrecognized, thereby improving diagnostic confidence and patient counselling.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.608,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Quadriceps Morphology 6‐ to 60‐Months After Anterior Cruciate Ligament Tear",
+      "url": "https://www.semanticscholar.org/paper/b6eba256b8dd85500ad24fd4557da0ba9b526f1e",
+      "publisher": "Scandinavian Journal of Medicine & Science in Sports",
+      "year": "2025",
+      "doi": "10.1111/sms.70109",
+      "abstract": "The purpose of this study was to compare quadriceps morphology between legs and individuals with a first‐time anterior cruciate ligament (ACL) tear and uninjured controls. This was an exploratory cross‐sectional study. We enrolled participants who were aged 19–35 years, and 6–60 months after a first‐time ACL tear as well as uninjured controls. Participants attended two sessions separated by a minimum of 7 days. Bilateral knee extensor concentric and eccentric strength and rate of torque development (RTD) were assessed at the first session, and bilateral vastus lateralis muscle biopsies were obtained at the second. Muscle fiber‐type specific cross‐sectional area (fCSA), fiber‐type proportions, and extracellular matrix area were calculated. Between‐limb and between‐group differences were estimated using mixed‐effects regression. 41 of 47 (87%) participants completed the study (n = 21 ACL, n = 20 control). ACL group participants were a median (range) of 23 months from injury, and 78% had undergone an ACL reconstruction. Uninjured group participants had greater knee extensor concentric strength (−39.3 Nm; 95% CI: −54.2, −20.5), eccentric strength (−30.2 Nm; 95% CI: −53.4, −11.6), and RTD (−0.16 Nm/ms; 95% CI: −0.33, −0.04). No between‐group or between‐limb differences in muscle fiber‐type specific fCSA, fiber‐type proportions, or extracellular matrix area were observed. Despite deficits in knee extensor muscle performance, no difference in vastus lateralis fiber‐type specific CSA, fiber‐type proportion, or extracellular matrix area was detected between individuals 6–60 months after an ACL tear and uninjured controls.",
+      "licence": "CCBYNCND",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.606,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Segond Fracture with an Anterior Cruciate Ligament Tear",
+      "url": "https://www.semanticscholar.org/paper/01be7fc43d20ae79a297ef5e42c391d19fa54e36",
+      "publisher": "Applied Radiology",
+      "year": "2025",
+      "doi": "10.37549/jpcr-25-0026",
+      "abstract": "The “lateral capsular sign,” an elliptical-shaped skeletal fragment along the outside edge of the tibial plateau, is a characteristic of a Segond fracture usually associated with an anterior cruciate ligament (ACL) tear. Although this sign can be seen on conventional radiographs, MRI offers a more thorough evaluation of knee joint structures and verifies ACL involvement. Imaging should be used to explore for other potential injuries and diagnoses, such as the arcuate sign indicating fibular head avulsion. The best therapeutic approach requires a prompt and precise diagnosis. Surgery to correct the avulsion and ACL reconstruction are frequently used in the management of Segond fractures with ACL tears. With surgical intervention, there is a favorable prognosis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Reliability of Preoperative Magnetic Resonance Imaging in Determining the Anterior Cruciate Ligament Tear Location",
+      "url": "https://doi.org/10.1177/23259671251383081",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2025",
+      "doi": "10.1177/23259671251383081",
+      "abstract": "Background: The accurate identification of the anterior cruciate ligament (ACL) tear location is important for preoperative planning, as it influences the choice between reconstruction or repair procedures, particularly for proximal tears. Therefore, there is a need for a reliable preoperative tool that yields findings consistent with diagnostic arthroscopy. Purpose: To evaluate the reliability of preoperative magnetic resonance imaging (MRI) for determination of the ACL tear location. Study Design: Cohort study (diagnosis); Level of evidence, 2. Methods: Patients diagnosed with a full-thickness ACL tear between January 2022 and January 2024 were included in this study. The modified Sherman classification was used to categorize the ACL tear location into 5 types: I (proximal avulsion tear), II (proximal tear), III (midsubstance tear), IV (distal tear), and V (distal avulsion tear). There were 2 musculoskeletal radiologists who reviewed preoperative MRI scans, whereas diagnostic arthroscopic video recordings were retrospectively reviewed by 2 orthopaedic surgeons. The MRI findings were then compared with the arthroscopic findings, with diagnostic arthroscopy serving as the reference standard for the exact tear location. The Fleiss kappa (κ) was used to assess the reliability of the MRI findings. Results: A total of 41 patients were included in this study. The rate of agreement between radiologists regarding the tear location based on preoperative MRI scans was 61.0% (25/41), while the rate of agreement between surgeons based on diagnostic arthroscopic video recordings was 87.8% (36/41). The interrater agreement between radiologists was moderate (κ = 0.460), whereas the interrater agreement between surgeons was excellent (κ = 0.833). The rate of agreement between radiologist 1 and surgeon 1 was 70.7% (29/41), and that between radiologist 1 and surgeon 2 was 75.6% (31/41). For radiologist 2, the rate of agreement was 75.6% (31/41) with both surgeon 1 and surgeon 2. The overall reliability analysis indicated good agreement (κ = 0.648) between the MRI and arthroscopic findings. Conclusion: Preoperative MRI reliably identified the tear location, with a good strength of agreement between preoperative MRI and diagnostic arthroscopy. Nevertheless, despite its reliability, the interrater agreement between radiologists in interpreting preoperative MRI scans was only moderate, whereas surgeons achieved excellent agreement based on diagnostic arthroscopic video recordings.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "A High-Grade Lachman’s Exam Predicts a Ramp Tear of the Medial Meniscus in Patients with Anterior Cruciate Ligament Tear: A Prospective Clinical and Radiological Evaluation",
+      "url": "https://www.semanticscholar.org/paper/632fefcc9de1dca0d628dfa8f2c6dbc0c4cf34a1",
+      "publisher": "Journal of Clinical Medicine",
+      "year": "2024",
+      "doi": "10.3390/jcm13030683",
+      "abstract": "Background: Medial meniscus ramp tears are present in 22.9–40.8% of anterior cruciate ligament tears. The diagnosis of ramp tears is difficult on MRI, with sensitivity reported around 48%, which has recently emphasized the importance of proper arthroscopic probing for ramp tears. Methods: A prospective evaluation was performed on patients undergoing a single bundle ACL reconstruction to assess patient demographics, posterior tibial slope, posterior cruciate ligament angle, Lachman’s exam, and rotational instability to determine secondary findings associated with medial meniscal ramp tears. Results: A total of 96 patients underwent ACL reconstruction, of these, 63 patients had an isolated ACL tear, and 33 patients had an ACL tear with a concomitant medial meniscus ramp tear. A high-grade Lachman’s exam and male sex were associated with medial meniscus ramp tears. There were no differences in posterior tibial slope, posterior cruciate ligament angle, or rotational instability between groups. Conclusions: This study found that a high-grade Lachman’s exam and male sex were significantly associated with patients with an ACL tear with a concomitant medial meniscus ramp tear. These findings suggest that an ACL tear with concomitant medial meniscus ramp tear may be better diagnosed based upon the clinical evaluation rather than other secondary radiological findings.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.59,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Anterior Cruciate Ligament Tear: Individualized Indications for Non-Operative Management",
+      "url": "https://www.semanticscholar.org/paper/2fa725ad4e637abcbb70caf8cc1ab58acb97f46d",
+      "publisher": "Journal of Clinical Medicine",
+      "year": "2024",
+      "doi": "10.3390/jcm13206233",
+      "abstract": "Anterior cruciate ligament (ACL) rupture represents a common sports injury that is mostly managed operatively. However, non-operative treatment can also play a role, despite the limited high-quality published data on ACL tear management. Both methods have shown favorable outcomes, but clear guidelines based on high-quality research are lacking. Several factors should be considered and discussed with the patient before deciding on the best treatment method. These include patient characteristics and expectations, concomitant injuries, and clinical evaluation, with laxity or/and instability being one of the most essential parameters examined. This should eventually lead to an individualized approach for each patient to ensure the best possible outcome. This review aims to delve into all parameters that are related to ACL rupture and guide physicians in choosing the most appropriate treatment method for each patient.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.584,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Sex Differences in Quadriceps Atrophy After Anterior Cruciate Ligament Tear",
+      "url": "https://www.semanticscholar.org/paper/e7633ecda724dcb8300636b4aff8ea553a720603",
+      "publisher": "Sports health",
+      "year": "2024",
+      "doi": "10.1177/19417381241230612",
+      "abstract": "Background: Female athletes lag behind their male counterparts in recovery from anterior cruciate ligament (ACL) injury. Quadriceps muscle size and strength are crucial factors for regaining function after ACL injury, but little is known about how these metrics vary due to biological sex. Hypothesis: Female patients have reduced vastus lateralis fiber cross-sectional area (CSA) and lower quadriceps strength after ACL injury than male patients. Study Design: Cross-sectional study. Level of Evidence: Level 4. Methods: A total of 60 participants with recent ACL tear were evaluated for vastus lateralis muscle fiber CSA, isometric quadriceps peak torque, and quadriceps rate of torque development. Linear mixed models were fit to determine differences across sex and limb for each variable of interest. Results: The female group averaged almost 20% atrophy between limbs (P < 0.01), while the male group averaged just under 4% (P = 0.05). Strength deficits between limbs were comparable between female and male groups. Conclusion: Immediately after ACL injury, female patients have greater between-limb differences in muscle fiber CSA but between-limb strength deficits comparable with those of male patients. Clinical Relevance: These results indicate that the underpinnings of strength loss differ based on biological sex, and thus individual patients could benefit from a sex-specific treatment approach to ACL injury.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.58,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Deep Learning-Assisted Automatic Diagnosis of Anterior Cruciate Ligament Tear in Knee Magnetic Resonance Images",
+      "url": "https://www.semanticscholar.org/paper/77eb75f47cff39363ec4635d528c03df4273b5fb",
+      "publisher": "Tomography",
+      "year": "2024",
+      "doi": "10.3390/tomography10080094",
+      "abstract": "Anterior cruciate ligament (ACL) tears are prevalent knee injures, particularly among active individuals. Accurate and timely diagnosis is essential for determining the optimal treatment strategy and assessing patient prognosis. Various previous studies have demonstrated the successful application of deep learning techniques in the field of medical image analysis. This study aimed to develop a deep learning model for detecting ACL tears in knee magnetic resonance Imaging (MRI) to enhance diagnostic accuracy and efficiency. The proposed model consists of three main modules: a Dual-Scale Data Augmentation module (DDA) to enrich the training data on both the spatial and layer scales; a selective group attention module (SG) to capture relationships across the layer, channel, and space scales; and a fusion module to explore the inter-relationships among various perspectives to achieve the final classification. To ensure a fair comparison, the study utilized a public dataset from MRNet, comprising knee MRI scans from 1250 exams, with a focus on three distinct views: axial, coronal, and sagittal. The experimental results demonstrate the superior performance of the proposed model, termed SGNET, in ACL tear detection compared with other comparison models, achieving an accuracy of 0.9250, a sensitivity of 0.9259, a specificity of 0.9242, and an AUC of 0.9747.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.58,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "High specificity of an AI-powered framework in cross-checking male professional football anterior cruciate ligament tear reports in public databases.",
+      "url": "https://www.semanticscholar.org/paper/b461bf44f9ee1ce37aee74f561708a9f69b5546a",
+      "publisher": "Knee Surgery, Sports Traumatology, Arthroscopy",
+      "year": "2024",
+      "doi": "10.1002/ksa.12571",
+      "abstract": "PURPOSE While public databases like Transfermarkt provide valuable data for assessing the impact of anterior cruciate ligament (ACL) injuries in professional footballers, they require robust verification methods due to accuracy concerns. We hypothesised that an artificial intelligence (AI)-powered framework could cross-check ACL tear-related information from large publicly available data sets with high specificity. METHODS The AI-powered framework uses Google Programmable Search Engine to search a curated, multilingual list of websites and OpenAI's GPT to translate search queries, appraise search results and analyse injury-related information in search result items (SRIs). Specificity was the chosen performance metric-the AI-powered framework's ability to accurately identify texts that do not mention an athlete suffering an ACL tear-with SRI as the evaluation unit. A database of ACL tears in male professional footballers from first- and second-tier leagues worldwide (1999-2024) was collected from Transfermarkt.com, and players were randomly selected for appraisal until enough SRIs were obtained to validate the framework's specificity. Player age at injury and time until return-to-play (RTP) were recorded and compared with Union of European Football Associations (UEFA) Elite Club Injury Study data. RESULTS Verification of 231 athletes yielded 1546 SRIs. Human analysis of the SRIs showed that 335 mentioned an ACL tear, corresponding to 83 athletes with ACL tears. Specificity and sensitivity of GPT in identifying mentions of ACL tears in a player were 99.3% and 88.4%, respectively. Mean age at rupture was 26.6 years (standard deviation: 4.6, 95% confidence interval [CI]: 25.6-27.6). Median RTP time was 225 days (interquartile range: 96, 95% CI: 209-251), which is comparable to reports using data from the UEFA Elite Club Injury Study. CONCLUSION This study shows that an AI-powered framework can achieve high specificity in cross-checking ACL tear reports in male professional football from public databases, markedly reducing manual workload and enhancing the reliability of media-based sports medicine research. LEVEL OF EVIDENCE Level III.",
+      "licence": "other-oa",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.576,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Anterior Cruciate Ligament Tear Detection Based on T-Distribution Slice Attention Framework with Penalty Weight Loss Optimisation",
+      "url": "https://www.mdpi.com/2306-5354/11/9/880",
+      "publisher": "Bioengineering",
+      "year": "2024",
+      "doi": "10.3390/bioengineering11090880",
+      "abstract": "Anterior cruciate ligament (ACL) plays an important role in stabilising the knee joint, prevents excessive anterior translation of the tibia, and provides rotational stability. ACL injuries commonly occur as a result of rapid deceleration, sudden change in direction, or direct impact to the knee during sports activities. Although several deep learning techniques have recently been applied in the detection of ACL tears, challenges such as effective slice filtering and the nuanced relationship between varying tear grades still remain underexplored. This study used an advanced deep learning model that integrated a T-distribution-based slice attention filtering mechanism with a penalty weight loss function to improve the performance for detection of ACL tears. A T-distribution slice attention module was effectively utilised to develop a robust slice filtering system of the deep learning model. By incorporating class relationships and substituting the conventional cross-entropy loss with a penalty weight loss function, the classification accuracy of our model is markedly increased. The combination of slice filtering and penalty weight loss shows significant improvements in diagnostic performance across six different backbone networks. In particular, the VGG-Slice-Weight model provided an area score of 0.9590 under the receiver operating characteristic curve (AUC). The deep learning framework used in this study offers an effective diagnostic tool that supports better ACL injury detection in clinical diagnosis practice.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comparative analysis of five-year outcomes of anterior cruciate ligament tears repaired with different techniques",
+      "url": "https://doi.org/10.18019/1028-4427-2024-30-3-337-344",
+      "publisher": "Гений oртопедии",
+      "year": "2024",
+      "doi": "10.18019/1028-4427-2024-30-3-337-344",
+      "abstract": "Introduction Primary repair of the anterior cruciate ligament (ACL) torn from the femur and the synovial membrane being intact can be an indication for two competing methods including dynamic intraligamentary stabilization (DIS) as the saving method and resection of the stump and primary autoplasty as a more traumatic option. The purpose was to evaluate the five-year results of DIS in comparison with early ACL reconstruction of the knee joint. Material and methods A review and statistical analysis of outcomes of 72 patients with ACL injuries (47 males and 25 females) were performed. The patients aged between 18 and 45 years (30.9 ± 8.5), with the length of time from injury ranging from 3 to 21 days (10.6 ± 5.0) and the Tegner activity score of 5 (1–9; 5.8 ± 0.9) prior to injury. DIS was performed for the first group of patients (n = 39) who arthroscopically were diagnosed with ACL torn off the femur with the synovial membrane preserved. Early ACL repair was performed for the controls (second group, n = 33). Results VAS scored 1.4 ± 0.8 in group I and 1.9 ± 0.8 in group II at 6 months, p = 0.004. Patient satisfaction scored 8.0 ± 0.8 in group I and 7.4 ± 0.8 in group II at 12 months, p = 0.003. Tegner activity level scored 6.5 ± 0.9 in group I and 6.3 ± 0.8 in group II at 12 months, p = 0.014. The Lysholm knee score measured 91.1 ± 2.2 in group I and 88.6 ± 3.5 in group II at 12 months, p = 0.001. Five-year dynamic observation showed relapses of anterior-medial instability of the knee joint in 10 patients (13.9 %), with 4 patients in group I (10.3 %) and 6 patients in group II (18.2 %). Discussion Outcomes of proximal ACL tears with intact synovium can be as good as with ACL repair. Removal of the torn cruciate ligament with the synovium being intact and grafting may be an unnecessary and aggressive approach. Conclusion Dynamic intraligamentous stabilization as compared to early ACL repair shows a faster recovery of physical activity at a short term and less relapses of knee joint instability at a long term.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Functional Outcome of Anterior Cruciate Ligament Reconstruction with Quadrupled Semitendinosus Tendon Autograft",
+      "url": "https://zenodo.org/records/11056369",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.11056369",
+      "abstract": "Introduction: The anterior cruciate ligament tear is the most common severe ligamentous injury to the knee. Arthroscopic ACL reconstruction is indicated, with many graft possibilities including quadrupled semitendinosus and gracilis, doubled peroneus, quadriceps tendon, and bone patellar tendon-bone. So, the current study was conducted to evaluate the functional outcome of anterior cruciate ligament reconstruction with quadrupled semitendinosus autograft. Materials and Methods: The present prospective study comprised 30 patients under the age of 55 years who were referred with ACL deficit to the orthopedic department of a Mallareddy Institute of Medical Sciences in Hyderabad between August 2021 and July 2022 and had arthroscopic ACL Reconstruction. They were examined utilizing the Lysholm and Gilquist knee grading system. Patients were followed up for a minimum of one year. Results: In the present study, out of 30 patients, 23(76.7%) were male and 7(23.3%) were female patients aged between 18 and 50 years were included in this study, with 24 (80%) being younger than 36 years. 19 patients (63%) had knee involvement on the right side, while 11 patients (37%) had knee involvement on the left side.. As per the Lysholm scoring system, 11 (36.7%) patients had an Excellent outcome; 15 (50%) had a Good outcome. complications were seen in only 6 patients. Conclusion: In conclusion, quadrupled semitendinosus graft arthroscopic ACL Reconstruction yields excellent functional outcomes with low morbidity.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Treatment for acute anterior cruciate ligament tear: five year outcome of randomised trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3553934/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2013",
+      "doi": "10.1136/bmj.f232",
+      "abstract": "Objective To compare, in young active adults with an acute anterior cruciate ligament (ACL) tear, the mid-term (five year) patient reported and radiographic outcomes between those treated with rehabilitation plus early ACL reconstruction and those treated with rehabilitation and optional delayed ACL reconstruction. Design Extended follow-up of prospective randomised controlled trial. Setting Orthopaedic departments at two hospitals in Sweden. Participants 121 young, active adults (mean age 26 years) with acute ACL injury to a previously uninjured knee. One patient was lost to five year follow-up. Intervention All patients received similar structured rehabilitation. In addition to rehabilitation, 62 patients were assigned to early ACL reconstruction and 59 were assigned to the option of having a delayed ACL reconstruction if needed. Main outcome measure The main outcome was the change from baseline to five years in the mean value of four of the five subscales of the knee injury and osteoarthritis outcome score (KOOS(4)). Other outcomes included the absolute KOOS(4) score, all five KOOS subscale scores, SF-36, Tegner activity scale, meniscal surgery, and radiographic osteoarthritis at five years. Results Thirty (51%) patients assigned to optional delayed ACL reconstruction had delayed ACL reconstruction (seven between two and five years). The mean change in KOOS(4) score from baseline to five years was 42.9 points for those assigned to rehabilitation plus early ACL reconstruction and 44.9 for those assigned to rehabilitation plus optional delayed reconstruction (between group difference 2.0 points, 95% confidence interval -8.5 to 4.5; P=0.54 after adjustment for baseline score). At five years, no significant between group differences were seen in KOOS(4) (P=0.45), any of the KOOS subscales (P ≥ 0.12), SF-36 (P ≥ 0.34), Tegner activity scale (P=0.74), or incident radiographic osteoarthritis of the index knee (P=0.17). No between group differences were seen in the number of knees having meniscus surgery (P=0.48) or in a time to event analysis of the proportion of meniscuses operated on (P=0.77). The results were similar when analysed by treatment actually received. Conclusion In this first high quality randomised controlled trial with minimal loss to follow-up, a strategy of rehabilitation plus early ACL reconstruction did not provide better results at five years than a strategy of initial rehabilitation with the option of having a later ACL reconstruction. Results did not differ between knees surgically reconstructed early or late and those treated with rehabilitation alone. These results should encourage clinicians and young active adult patients to consider rehabilitation as a primary treatment option after an acute ACL tear. Trial registration Current Controlled Trials ISRCTN84752559.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A Channel Correction and Spatial Attention Framework for Anterior Cruciate Ligament Tear with Ordinal Loss",
+      "url": "https://www.mdpi.com/2076-3417/13/8/5005",
+      "publisher": "Applied Sciences",
+      "year": "2023",
+      "doi": "10.3390/app13085005",
+      "abstract": "The anterior cruciate ligament (ACL) is critical for controlling the motion of the knee joint, but it is prone to injury during sports activities and physical work. If left untreated, ACL injuries can lead to various pathologies such as meniscal damage and osteoarthritis. While previous studies have used deep learning to diagnose ACL tears, there has been a lack of standardization in human unit classification, leading to mismatches between their findings and actual clinical diagnoses. To address this, we perform a triple classification task based on various tear classes using an ordinal loss on the KneeMRI dataset. We utilize a channel correction module to address image distribution issues across multiple patients, along with a spatial attention module, and test its effectiveness with various backbone networks. Our results show that the modules are effective on various backbone networks, achieving an accuracy of 83.3% on ResNet-18, a 6.65% improvement compared to the baseline. Additionally, we carry out an ablation experiment to verify the effectiveness of the three modules and present our findings with figures and tables. Overall, our study demonstrates the potential of deep learning in diagnosing ACL tear and provides insights into improving the accuracy and standardization of such diagnoses.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Kneeling Assessment after Anterior Cruciate Ligament Reconstruction Using Bone-Patellar Tendon-Bone Autograft versus Hamstring Autograft",
+      "url": "https://zenodo.org/records/3910917",
+      "publisher": "Orthopaedic Surgery and Traumatology",
+      "year": "2020",
+      "doi": "10.5281/zenodo.3910917",
+      "abstract": "Background : ACL reconstruction surgeries is a common surgery that aim to provide stability and return functionality post ACL injury. Commonly, bone patellar tendon-bone (BPTB) and hamstring tendon autografts are used for the reconstruction. The choice of optimal autograft remains debatable to achieve satisfactory outcomes for various activities after reconstruction, including kneeling as widely needed, especially in prayers among Muslims. Kneeling with considerable ranges of motion and the minimum level of pain is still under rigorous investigations to choose proper autograft. Purpose : Hereby, we compare kneeling outcomes post-operatively using bone-patellar tendon-bone autografts with hamstring autografts for ACL reconstruction. Methods : A retrospective cohort study; Level of evidence (III) has enrolled. Adult patients underwent primary ACL reconstruction using either BPTB or HS autografts after they consented at a single institution with a minimum of 1-year as follow-up post-operatively were reviewed for assessment of the surgery’s outcomes in regards of kneeling pain and subjective assessment measures using International Knee Documentation Committee (IKDC) evaluation system. Results : A total of Thirty-two males were met our inclusion criteria. Analysis of data provided that 12 patients were in the BPTB group and 20 patients in the HS group. All patients show ACL rupture was sustained during participation in the athletic activity. After a follow-up of 1-year, there was no statistically significant difference between scores of two groups when comparing patient-reported outcome measures, with mean IKDC scores of 68.5 and 62.55 in the BPTB and HS groups, respectively. Interestingly, insignificant statistical differences observed in both groups regarding kneeling pain in the BPTB group when compared with the HS group. Conclusion : The findings of our study have shown that Arthroscopic ACL reconstruction using either hamstring autograft or bone patellar tendon autograft ends with equally reasonable satisfactory outcomes, with an insignificant difference in kneeling pain between both groups.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Anterolateral ligament injuries in knees with an anterior cruciate ligament tear: Contribution of ultrasonography and MRI",
+      "url": "https://hal.science/hal-02143185v1",
+      "publisher": "European Radiology",
+      "year": "2017",
+      "doi": "10.1007/s00330-017-4955-0",
+      "abstract": "OBJECTIVES: To describe the pathological appearance of the anterolateral ligament (ALL) on US and MRI in knees with an anterior cruciate ligament (ACL) tear. METHODS: This prospective study included 30 patients who had a suspected acute ACL tear. Their injured and contralateral knees were evaluated with radiography, US and MRI. Two radiologists evaluated the ALL on the MRI and US examinations. Agreement between these examiners' findings was evaluated with Cohen's kappa. RESULTS: On US examination, the ALL was found to be injured in 63% of cases (19/30; k = 0.93). The enthesis was found to be torn in 50% of cases (15/30; k = 1), with the tear located at the tibial attachment in all instances. On the MRI exam, the ALL was found to be injured in 53% of cases (16/30; k = 0.93). The enthesis was found to be torn in 13% of cases (4/30; k = 0.76), with the tear located at the tibial attachment in all instances (k = 0.93). CONCLUSION: ALL injuries that occur with ACL tears are located at the tibial enthesis. They are often associated with bone avulsion at the enthesis and are better viewed on US.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparison of Medial and Lateral Meniscus Root Tears",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4619510/",
+      "publisher": "PloS one",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0141021",
+      "abstract": "The meniscus root plays an essential role in maintaining the circumferential hoop tension and preventing meniscal displacement. Studies on meniscus root tears have investigated the relationship of osteoarthritis and an anterior cruciate ligament tear. However, few studies have directly compared the medial and lateral root tears. To assess the prevalence of meniscal extrusion and its relationship with clinical features in medial and lateral meniscus root tears, we performed a retrospective review of the magnetic resonance imaging (MRI) results of 42 knee patients who had meniscus posterior horn root tears and who had undergone arthroscopic operations. The presence of meniscal extrusion was evaluated and the exact extent was measured from the tibial margin. The results were correlated with arthroscopic findings. Clinical features including patients' ages, joint abnormalities, and previous trauma histories were evaluated. Twenty-two patients had medial meniscus root tears (MMRTs) and twenty patients had lateral meniscus root tears (LMRTs). Meniscal extrusion was present in 18 MMRT patients and one LMRT patient. The mean extent of extrusion was 4.2mm (range, 0.6 to 7.8) in the MMRT group and 0.9mm (range, -1.9 to 3.4) in the LMRT group. Five patients with MMRT had a history of trauma, while 19 patients with LMRT had a history of trauma. Three patients with MMRT had anterior cruciate ligament (ACL) tears, while 19 patients with LMRT had ACL tears. The mean age of the patients was 52 years (range: 29-71 years) and 30 years (range: 14-62 years) in the MMRT and LMRT group, respectively. There was a significant correlation between a MMRT and meniscal extrusion (p<0.0001), and between an ACL tear and LMRT (p<0.0001). A history of trauma was significantly common in LMRT (p<0.0001). LMRT patients were significantly younger than MMRT patients (p<0.0001). Kellgren-Lawrence (K-L) grade differed significantly between MMRT and LMRT group (p<0.0001). Meniscal extrusion is common in patients with MMRTs. However, it is rare in patients with LMRTs, which are more commonly associated with a history of trauma and ACL tears.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Smartphone apps for orthopaedic sports medicine - a smart move?",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603922/",
+      "publisher": "BMC sports science, medicine & rehabilitation",
+      "year": "2015",
+      "doi": "10.1186/s13102-015-0017-6",
+      "abstract": "Background With the advent of smartphones together with their downloadable applications (apps), there is increasing opportunities for doctors, including orthopaedic sports surgeons, to integrate such technology into clinical practice. However, the clinical reliability of these medical apps remains questionable. We reviewed available apps themed specifically towards Orthopaedic Sports Medicine and related conditions and assessed the level of medical professional involvement in their design and content, along with a review of these apps. Method The most popular smartphone app stores (Android, Apple, Blackberry, Windows, Samsung, Nokia) were searched for Orthopaedic Sports medicine themed apps, using the search terms; Orthopaedic Sports Medicine, Orthopaedics, Sports medicine, Knee Injury, Shoulder Injury, Anterior Cruciate Ligament Tear, Medial Collateral Ligament Tear, Rotator Cuff Tear, Meniscal Tear, Tennis Elbow. All English language apps related to orthopaedic sports medicine were included. Results A total of 76 individual Orthopaedic Sports Medicine themed apps were identified. According to app store classifications, there were 45 (59 %) medical themed apps, 28 (37 %) health and fitness themed apps, 1 (1 %) business app, 1 (1 %) reference app and 1 (1 %) sports app. Forty-nine (64 %) apps were available for download free of charge. For those that charged access, the prices ranged from £0.69 to £69.99. Only 51 % of sports medicine apps had customer satisfaction ratings and 39 % had named medical professional involvement in their development or content. Conclusions We found the majority of Orthopaedic Sports Medicine apps had no named medical professional involvement, raising concerns over their content and evidence-base. We recommend increased regulation of such apps to improve the accountability of app content.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Applying Personal Genetic Data to Injury Risk Assessment in Athletes",
+      "url": "https://doi.org/10.1371/journal.pone.0122676",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0122676",
+      "abstract": "Recent studies have identified genetic markers associated with risk for certain sports-related injuries and performance-related conditions, with the hope that these markers could be used by individual athletes to personalize their training and diet regimens. We found that we could greatly expand the knowledge base of sports genetic information by using published data originally found in health and disease studies. For example, the results from large genome-wide association studies for low bone mineral density in elderly women can be re-purposed for low bone mineral density in young endurance athletes. In total, we found 124 single-nucleotide polymorphisms associated with: anterior cruciate ligament tear, Achilles tendon injury, low bone mineral density and stress fracture, osteoarthritis, vitamin/mineral deficiencies, and sickle cell trait. Of these single nucleotide polymorphisms, 91% have not previously been used in sports genetics. We conducted a pilot program on fourteen triathletes using this expanded knowledge base of genetic variants associated with sports injury. These athletes were genotyped and educated about how their individual genetic make-up affected their personal risk profile during an hour-long personal consultation. Overall, participants were favorable of the program, found it informative, and most acted upon their genetic results. This pilot program shows that recent genetic research provides valuable information to help reduce sports injuries and to optimize nutrition. There are many genetic studies for health and disease that can be mined to provide useful information to athletes about their individual risk for relevant injuries.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Evaluation of Anterior Cruciate Ligament repair with Iliotibial Band",
+      "url": "https://zenodo.org/records/8283198",
+      "publisher": "PJSR",
+      "year": "2010",
+      "doi": "10.5281/zenodo.8283198",
+      "abstract": "Reconstruction of the anterior cruciate ligament (ACL) is the surgical treatment of choice as direct primary repair of the ligament has been shown to result in persistent laxity and instability of the knee. The aim of reconstruction is to restore stability of the knee without restricting its functions. Anterior cruciate ligament reconstruction requires a graft which may be either an autograft or an allograft or a synthetic graft. Most studies agree that using the patient’s own tissue (autograft) to repair an anterior cruciate ligament tear is the way to go. Graft taken from patellar tendon gives good results but muscle weakness, pain, tendonitis and kneecap fracture are just a few of the possible post-operative problems. In this prospective study of ACL reconstruction, tendon material from iliotibial tract was used in a special way for adding stability to the knee called iliotibial band tenodesis. Herein, 17 cases of ACL repair and augmantation with iliotibial tract is being evaluated.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.0,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Conservative Rehabilitation of Partial Anterior Cruciate Ligament Tear - A Case Report",
+      "url": "https://hal.science/hal-05266209v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "The anterior cruciate ligament is one of the most important ligaments in the knee joint (ACL). The ACL is necessary for appropriate knee joint mobility and mechanics. When the ACL is torn, patients may experience issues with their knee's function, as well as instability and the sensation of 'falling away' while walking. The anterior cruciate ligament acts as a main restraint on tibia-to-femur translation (anterior shear). Depending on the angle of knee flexion, this function is allocated to either anteromedial or posterolateral bundle. When the knee is fully extended, the posterolateral bundle is tense; however, when the knee flexes, the posterolateral bundle loosens and the anteromedial bundle tightens. We report the case of a 32-year-old man who twisted his leg while jogging, resulting in a partial thickness ACL rupture and mild joint effusion along the periarticular surface of the right knee, as revealed by radiological symptoms and MRI.Conservative rehabilitation in a patient aged 32 year shows good results and so the surgery was not performed. Initially 10 weeks protocol was managed in hospital under the guidance of a therapist including strengthening, stretching and conditioning of lower limb muscles, later on as pain reduced and patient achieved functional pain free range 12 week protocol was further set for home program.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.74,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Anterior cruciate ligament reconstruction with anterolateral stabilization by a modified Lemaire technique in adolescent professional football player: a case report",
+      "url": "https://zenodo.org/records/5501491",
+      "publisher": "Acta Chirurgica Croatica",
+      "year": "2021",
+      "doi": "10.5281/zenodo.5501491",
+      "abstract": "Background: Anterior cruciate ligament (ACL) tear is one of the most common injuries in professional athletes. Additional procedures, such as anterolateral ligament reconstruction and lateral extra-articular tenodesis attempt to reduce rotational instability, the most common cause of re-injury in patients with a nonisolated ACL tear. Case study: A 17-year-old professional football player suffered a right knee injury in a direct hit to the lateral side of the knee. Magnetic resonance imaging showed anterior cruciate ligament tear and lateral knee structures soft tissue contusion. Due to the injury of the lateral structures and the increased risk of ACL rerupture, it was decided to perform ACL reconstruction with additional anterolateral stabilization by a modified Lemaire technique without additional screw fixation in the area of the lateral femoral epicondyle, which could damage the epiphyseal plate and, concurrently, impair bone growth. Conclusion: The addition of lateral extra-articular tenodesis by a modified Lemaire technique prevents rotational instability in a patient with expressed pivotshift before the surgery, without overconstraint of the knee and additional damage to the epiphyseal plate.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.74,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Psychometric Validation of the Persian Version of the Lysholm Score",
+      "url": "https://doi.org/10.1177/23259671251327682",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2025",
+      "doi": "10.1177/23259671251327682",
+      "abstract": "Background: The Lysholm Knee Score (LKS) is a widely utilized patient-reported outcome measure for knee injury patients, due to its robust psychometric properties. It has been translated and validated in several languages, but it has not been translated into Persian. Purpose: To perform psychometric validation and cultural adaptation for the Persian version of the LKS (P-LKS) in patients with anterior cruciate ligament tears. Study Design: Cohort study (diagnosis); Level of evidence, 3. Method: The LKS was translated into Persian using a forward-backward translation procedure. To assess the reliability and validity of the P-LKS, responses were gathered from 100 consecutive patients (mean age, 35 ± 13 years; 91 male and 9 female). These participants also fulfilled the Persian versions of the International Knee Documentation Committee Subjective Form (IKDC-SF) and the 36-Item Short Form Health Survey (SF-36). Construct validity was evaluated by correlating the scores from the P-LKS with those from the Persian IKDC-SF and SF-36. Reliability was determined by examining test-retest reliability and internal consistency. Additionally, floor and ceiling effects, as well as measurement errors, were assessed. The Bland-Altman method was utilized to evaluate absolute agreement. Results: Construct validity was strong, as >80% of the predetermined hypotheses regarding correlations between the P-LKS and other measures were verified. The P-LKS exhibited a high correlation with the Persian IKDC-SF ( r = 0.92) and the physical component of the Persian SF-36 ( r = 0.85). Bland-Altman analysis indicated no systematic bias among the test and retest phases. The test-retest reliability and internal consistency for the P-LKS were excellent (ICC = 0.97; Cronbach alpha = 0.88). Floor and ceiling effects for the overall score of the P-LKS were <15% (0% and 2%, respectively). The standard error of measurement was 1.04; the minimal detectable change at the individual level was 2.88, and at the group level, it was 0.29. Conclusion: The study demonstrated that the P-LKS successfully preserved the attributes of the original version. It can be regarded as a reliable tool for Persian-speaking patients with complete anterior cruciate ligament tear.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Thrombolytic Therapy in a Patient with Extensive Pulmonary Embolism Complicated by Cardiac Arrest",
+      "url": "https://hal.science/hal-05222395v1",
+      "publisher": "HAL open archive",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Pulmonary embolism is the third most frequently-occurring cause of death after cerebrovascular accidents and myocardial infarction. This condition can occur as a result of a thromboembolic event due to recent immobilization. Massive pulmonary thromboembolism is a life-threatening condition that can cause cardiac arrest, stroke, and eventually death. The present case report discusses the case of a 60-year-old obese, non-insulin-dependent diabetic male admitted to the emergency room with complaints of shortness of breath and fatigue. Previously, the patient was diagnosed with a meniscal and anterior cruciate ligament tear following a work-related knee injury. Echocardiogram showed S1 Q3 T3, and a transthoracic echocardiography demonstrated significant right ventricle dilatation and cardiac strain. Laboratory investigations showed higher levels of D Dimer and a computerized tomography pulmonary angiogram was also conducted. An obvious extensive saddle-shaped pulmonary artery (PA) embolism was detected at the bifurcation, which extended to both right and left pulmonary arteries. This extensive pulmonary embolism led to the patient’s acute deterioration due to cardiogenic shock. The patient went through nine cycles of cardiac abnormality for 18 minutes and was treated with cardiopulmonary resuscitation and thrombolytic therapy accordingly. The diagnosis of pulmonary embolism was made based on the history of immobilization as a result of knee injury and the clinical picture of shortness of breath and tachycardia. This case study will explore how the patient was diagnosed and managed with thrombolytic therapy in conjunction with CPR to relieve cardiac arrest caused by pulmonary embolism and subglottal laryngeal edema.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Impact of Insurance and Practice Type on Access to Orthopaedic Sports Medicine",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7401157/",
+      "publisher": "Orthopaedic journal of sports medicine",
+      "year": "2020",
+      "doi": "10.1177/2325967120933696",
+      "abstract": "Background The Patient Protection Affordable Care Act has expanded Medicaid eligibility in recent years. However, the provisions of the act have not translated to improved Medicaid payments for specialists such as orthopaedic surgeons. The number of health care practitioners who accept Medicaid is already decreasing, with low reimbursement rates being cited as the primary reason for the trend. Hypothesis Private practice orthopaedic groups will see patients with Medicaid or Medicare at lower rates than academic orthopaedic practices, and business days until appointment availability will be higher for patients with Medicaid and Medicare than those with private insurance. Study design Cross-sectional study. Methods Researchers made calls to 2 regular-sized orthopaedic practices, 1 small orthopaedic practice, and 1 academic orthopaedic practice in each of the 50 states in the United States. Callers described a scenario of a recent injury resulting in a bucket-handle meniscal tear and an anterior cruciate ligament tear seen on magnetic resonance imaging at an outside emergency department. For a total of 194 practices, 3 separate telephone calls were made, each with a different insurance type. Data regarding insurance acceptance and business days until appointment were tabulated. Student t tests or analysis of variance for continuous data and χ 2 or Fisher exact tests for categorical data were utilized. Results After completing 582 telephone calls, it was determined that 31.4% (n = 59) did not accept Medicaid, compared with 2.2% (n = 4) not accepting Medicare and 1% (n = 1) not accepting private insurance ( P P = 0.12). Mean business days until appointment for Medicaid, Medicare, and private insurance were 5.3, 4.1, and 2.9, respectively ( P Conclusions Access to care remains a significant burden for the Medicaid population, given a rate of Medicaid refusal of 32.2% across regular-sized orthopaedic practices. If Medicaid is accepted, time until appointment was significantly longer when compared with private insurance.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Benefits of an In-Office Arthroscopy in the Diagnosis of Unresolved Knee Pain",
+      "url": "http://dx.doi.org/10.1155/2018/6125676",
+      "publisher": "Case Reports in Orthopedics",
+      "year": "2018",
+      "doi": "10.1155/2018/6125676",
+      "abstract": "We report a patient who developed persistent knee pain with mechanical symptoms after an uncomplicated patellofemoral arthroplasty. The etiology of his knee pain remained inconclusive following magnetic resonance imaging due to metallic artifact image distortion. With the use of an in-office needle arthroscopy, an immediate and definitive diagnosis was obtained, preventing an unnecessary surgery for a diagnostic arthroscopy. We discovered a lateral meniscus tear, an anterior cruciate ligament tear, and a medial femoral condyle chondral defect for which the patient underwent arthroscopic partial meniscectomy, ligament reconstruction, and osteochondral allograft transplantation, with resolution of his knee pain.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comparison of Clinical Examination, MRI and Arthroscopy Findings in Internal Derangement of the Knee: A Cross-Sectional Study",
+      "url": "http://www.ijars.net/articles/PDF/2241/19962_CE[Ra1]_F(GH)_PF1(VsuGH)_PFA(GH)_PF2(VsuGH).pdf",
+      "publisher": "International Journal of Anatomy Radiology and Surgery",
+      "year": "2017",
+      "doi": "10.7860/IJARS/2017/19962:2241",
+      "abstract": "Introduction: Walking is one of the prime actions carried out by our body and the knee joint plays a crucial role in its normal functioning. Owing to its anatomical structure and the functional demands, injuries involving the menisci and cruciate ligaments of knee joint are one of the most frequently encountered problems by an Orthopaedic surgeon. There are different modalities for diagnosing knee joint injuries. A cross-sectional study was done to compare clinical examination and MRI findings with arthroscopy findings of the knee joint. Aim: To study and compare MRI and arthroscopic findings of meniscal injuries and cruciate ligament injuries. Also to compare findings of clinical examination with that of MRI and arthroscopic findings of meniscal and cruciate ligament injuries. Materials and Methods: A one-year hospital based crosssectional study in which all 90 patients admitted were scheduled to undergo arthroscopic surgery of the knee following clinical and radiological evaluation. Findings of MRI and clinical examination were compared with that of arthroscopy findings, which are treated as gold standard, and the analysis was done. Results: MRI vs. arthroscopy findings: Sensitivity of anterior cruciate ligament, medial and lateral meniscus was 100%, 70% and 72% and the specificity was 90%, 78% and 70% respectively. The accuracy of anterior cruciate ligament, medial and lateral meniscus are as follows 95%, 76% and 71%. The positive predictive value was 93%, 67% and 62%. Clinical examination vs. arthroscopy findings: Sensitivity of anterior cruciate ligament, medial and lateral meniscus was 100%, 82% and 67% respectively. The specificity was 95%, 78% and 70%. The accuracy of anterior cruciate ligament, medial and lateral meniscus are as follows 98%, 80% and 69%. The positive predictive value was 96%, 70% and 60%. Conclusion: Following the study, if MRI is positive for anterior cruciate ligament tear then the chances of finding the same on arthroscopy are very high. For medial and lateral meniscus, chances of identifying a normal meniscus are higher than that of detecting a pathological meniscus. Clinical examination was effective in single lesion injuries. In multiple injuries, the false positive results were more.For menisci, negative predictive value is higher than the positive predictive value which means that the chances of detecting a normal knee are higher than detecting a lesion.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Anterolateral ligament of the knee: myth or reality?",
+      "url": "https://hal.science/hal-01449551v1",
+      "publisher": "Surgical and Radiologic Anatomy",
+      "year": "2016",
+      "doi": "10.1007/s00276-016-1657-2",
+      "abstract": "A ligament of the knee has recently drawn the attention: the rediscovered anterolateral ligament (ALL) of the knee. The tibial insertion of the ALL is torn off in the Segond fracture, pathognomonic of the anterior cruciate ligament tear. The ALL originates from the lateral femoral epicondyle and has fibers inserting on the lateral meniscus. It attaches distally to the tibial plateau, midway between the tip of the fibular head and Gerdy's tubercle. The purpose of this study was to evaluate the visibility of the ALL using routine MRI (1.5T) protocol. In the first part of our study 10 cadaveric knee joints were examined using MR imaging to evaluate the visibility of the ALL. These cadaveric knees have been dissected to assess the presence of the ALL and to evaluate the accordance between MRI and anatomic dissection. In the second part of the study, 61 knee MRI of patients were examined to evaluate the visibility of the ALL using axial and coronal DP-FS weighted sequences. In all cadaveric knee MRI, the ALL was visualized (full visualization in 75 % and partial visualization in 25 % of the cases), with 100 % accordance between MRI and anatomic dissection. Two cadaveric knees where the ALL was not viewed were excluded of the radio-anatomic analysis. The ALL was visualized in 93.4 % (95 % CI = 84.1-98.2) of the knee MRI studies of the 61 patients included. The whole ligament was visualized in 82 % (95 % CI = 70-90.6) examinations and it was partially visualized in 11.5 % (95 % CI = 4.7-22.2). Our results show that the ALL of the knee can be identified using routine 1.5T MR imaging, which suggest that better radiological description of this underestimated anatomical structure may be beneficial in the preoperative planning of ACL tears.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "OSTEOMYELITIS POST ANTERIOR CRUCIATE LIGAMENT RECONSTRUCTION: A CASE REPORT",
+      "url": "https://hal.science/hal-05392245v1",
+      "publisher": "Journal of Case Reports in Medical Science",
+      "year": "2017",
+      "doi": "",
+      "abstract": "Background: Arthroscopically assisted reconstruction of the anterior cruciate ligament (ACL) is a common and effective method for treatment of anterior knee instability following ACL injury. ACL reconstruction is not without potential complications, including post-operative infection. Reports of osteomyelitis after ACL reconstruction are rare in the literature. Hence we represent one of rare cases of osteomyelitis following ACL reconstruction. Case Presentation: A 34 years old male patient, medically free with history of anterior cruciate ligament reconstruction following right knee anterior cruciate ligament tear presented with wound infection over the harvested site. He was febrile with right knee moderate effusion and pus discharge from harvested site. Laboratory data at the time of admission were significant high for white blood cell (WBC) count, erythrocyte sedimentation rate (ESR), and a positive C-Reactive protein (CRP). He hadtenderness over the knee with restricted range of motion. Patient diagnosed as osteomyelitis and received proper management. Conclusion: Reconstruction of the ACL is a common and generally successful procedure. Osteomyelitis following ACL reconstruction can be a devastating complication. Osteomyelitis after ACL reconstruction is a rare complication and usually occurs secondary to septic arthritis developing in the immediate post-operative period, therefore osteomyelitis should be considered in the differential diagnosis of any patient presenting with localized knee pain post-ACL reconstruction.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.58,
+      "providers": [
+        "hal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "term": "Physical Therapy for Low Back Pain",
+  "collected": "2026-11-14",
+  "count": 12,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Implications of early and guideline adherent physical therapy for low back pain on utilization and costs",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4393575/",
+      "publisher": "BMC health services research",
+      "year": "2015",
+      "doi": "10.1186/s12913-015-0830-3",
+      "abstract": "Background Initial management decisions following a new episode of low back pain (LBP) are thought to have profound implications for health care utilization and costs. The purpose of this study was to evaluate the impact of early and guideline adherent physical therapy for low back pain on utilization and costs within the Military Health System (MHS). Methods Patients presenting to a primary care setting with a new complaint of LBP from January 1, 2007 to December 31, 2009 were identified from the MHS Management Analysis and Reporting Tool. Descriptive statistics, utilization, and costs were examined on the basis of timing of referral to physical therapy and adherence to practice guidelines over a 2-year period. Utilization outcomes (advanced imaging, lumbar injections or surgery, and opioid use) were compared using adjusted odds ratios with 99% confidence intervals. Total LBP-related health care costs over the 2-year follow-up were compared using linear regression models. Results 753,450 eligible patients with a primary care visit for LBP between 18-60 years of age were considered. Physical therapy was utilized by 16.3% (n = 122,723) of patients, with 24.0% (n = 17,175) of those receiving early physical therapy that was adherent to recommendations for active treatment. Early referral to guideline adherent physical therapy was associated with significantly lower utilization for all outcomes and 60% lower total LBP-related costs. Conclusions The potential for cost savings in the MHS from early guideline adherent physical therapy may be substantial. These results also extend the findings from similar studies in civilian settings by demonstrating an association between early guideline adherent care and utilization and costs in a single payer health system. Future research is necessary to examine which patients with LBP benefit early physical therapy and determine strategies for providing early guideline adherent care.",
+      "licence": "cc by",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.2,
+      "providers": [
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Clinical guidelines are silent on the recommendation of physical activity and exercise therapy for low back pain: A systematic review.",
+      "url": "https://www.semanticscholar.org/paper/98aff743089e220b0dc688559be30775afbdf71e",
+      "publisher": "Journal of Science and Medicine in Sport",
+      "year": "2024",
+      "doi": "10.1016/j.jsams.2024.01.003",
+      "abstract": "OBJECTIVES To synthesise and evaluate the quality of the recommendations for exercise therapy and physical activity from guidelines for the prevention and/or management of low back pain. DESIGN Systematic review. METHODS Included clinical practice guidelines for the management of low back pain published between 2014 and 2022 and searched in 9 databases until September 2022. The quality of evidence was evaluated with the Appraisal of Guidelines, Research and Evaluation tool (AGREE-II instrument). RESULTS After screening 3448 studies, 18 clinical practice guidelines were included in this review. Only five (27 %) guidelines were judged as having a satisfactory quality of evidence (i.e., rigour of development and applicability), and 13 (72 %) of guidelines are discussed and rated as critical. Regarding physical activity, no guidelines provided recommendations for the primary prevention of low back pain or incorporated adequate physical activity aspects considering type, dosage, frequency, and intensity. For exercises, all (100 %) guidelines recommended at least one type of supervised exercise in the management of low back pain, and 16 (88 %) provided an overall recommendation for people to stay active. CONCLUSIONS Guidelines offer minimal or, sometimes, no detail regarding physical activity or specific exercise regimens for the management and prevention of low back pain. When some guidance is provided, the recommendations typically lack specificity concerning the type, intensity, duration, and frequency of exercise and, in many cases, they represent a combination of scarce available evidence and stakeholder perspectives.",
+      "licence": "CCBY",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.6,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The methodological quality of clinical trials of physical therapy for low back pain varies between countries with different income levels. A meta-epidemiological study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11724997/",
+      "publisher": "Brazilian journal of physical therapy",
+      "year": "2024",
+      "doi": "10.1016/j.bjpt.2024.101139",
+      "abstract": "Background Low back pain is a severe global health problem. To face this issue, testing interventions using rigorously performed randomized controlled trials is essential. However, it is unclear if a country's income level is related to the quality of trials conducted. Objective To compare the frequency and methodological quality of randomized controlled trials of physical therapy interventions for low back pain conducted in countries with different income levels. Methods This meta-epidemiological study retrieved trials from the Physiotherapy Evidence Database (PEDro), Literatura Latino Americana em Ciências da Saúde (LILACS), and Scientific Electronic Library Online (SciELO). The methodological quality was evaluated using the 0-10 PEDro scale. Then we calculated the mean differences with a 95% confidence interval and performed an ANOVA test with Bonferroni correction to compare the PEDro scores between income groups. Results We included 2552 trials; 70.4% were conducted in high-income countries. The mean (standard deviation) PEDro score of all trials was 5.5 (0.03) out of 10. Trials from low- or lower-middle-income countries had lower methodological quality than those from upper-middle- and high-income countries, but the mean difference was small (-0.6 points (95% CI -0.9, -0.3), and -0.7 points (95% CI -1.1, -0.5) respectively). Conclusion Income level influences the methodological quality of trials of physical therapy intervention but is not the only factor. Implementing strategies to improve the methodological rigor of trials in patients with low back pain is necessary in all countries, regardless of income level.",
+      "licence": "cc by-nc-nd",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.06,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Characteristics and Outcomes of Patients Receiving Physical Therapy for Low Back Pain with a Nociplastic Pain Presentation: A Secondary Analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10023235/",
+      "publisher": "Pain research & management",
+      "year": "2023",
+      "doi": "10.1155/2023/5326261",
+      "abstract": "Introduction Individuals with low back pain (LBP) may be classified based on mechanistic descriptors, such as a nociplastic pain presentation (NPP). The purpose of this secondary analysis was to examine the frequency and characteristics of patients with a NPP referred to physical therapy with LBP. Additionally, we characterized patients with LBP meeting the criteria for NPP by demographic, clinical, psychological, and pain sensitivity variables. Finally, we examined short- and long-term clinical outcomes in patients with a NPP compared to those without a NPP. Materials and methods Patients referred to physical therapy for LBP completed the Patient Self-report Survey for the Assessment of Fibromyalgia. Participants were categorized as \"LBP with NPP\" or \"LBP without NPP\" based on the threshold established in this measure. A rank sum test examined for differences in pain-related psychological factors and pressure-pain threshold between groups. Next, a Friedman test examined if LBP intensity and disability trajectories differed by groups at one and six months after initiation of physical therapy. Results 22.2% of patients referred to physical therapy for LBP met the criteria for a NPP. Patients with a NPP reported significantly greater disability, pain catastrophizing, depression, anxiety, and somatization compared to individuals without a NPP ( p p > 0.05). Individuals with LBP with a NPP demonstrated nonsignificant, small to medium reductions in pain and disability at one and six months. Individuals experiencing LBP without a NPP demonstrated significant reductions in pain and disability in the short- and long term. Conclusion Patients with LBP with a NPP displayed greater negative pain-related psychological factors but similar pain sensitivity compared to LBP without NPP.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Implementation of Psychologically Informed Physical Therapy for Low Back Pain: Where Do We Stand, Where Do We Go?",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8665872/",
+      "publisher": "Journal of pain research",
+      "year": "2021",
+      "doi": "10.2147/jpr.s311973",
+      "abstract": "Lindsay A Ballengee,1– 3 Leah L Zullig,3,4 Steven Z George1,5 1Department of Orthopaedic Surgery, Duke University, Durham, NC, USA; 2Division of Physical Therapy, Duke University, Durham, NC, USA; 3Department of Population Health Sciences, Duke University School of Medicine, Durham, NC, USA; 4Center of Innovation to Accelerate Discovery and Practice Transformation, Durham Veterans Affairs Health Care System, Durham, NC, USA; 5Duke Clinical Research Institute, Duke University, Durham, NC, USACorrespondence: Lindsay A Ballengee 311 Trent Drive, Durham, NC, 27710, USATel +1 919 403 3702Email lindsay.ballengee@duke.eduSteven Z George 300 W. Morgan Street, Durham, NC, 27701, USATel +1 919 668 8300Email steven.george@duke.eduAbstract: Low back pain continues to be a leading cause of disability and cost throughout the world. Evidence-based guidelines recommend use of non-pharmacological interventions to address decreases in physical function due to low back pain. Psychologically informed physical therapy (PIPT) is one way to effectively and efficiently address the need for non-pharmacological approaches. However, adoption of psychologically informed practice (PiP) by physical therapists has shown mixed results due to implementation challenges. In this perspective, we discuss the current state of PIPT training and implementation. We also propose a conceptual roadmap for future implementation needs related to increasing delivery of PIPT-informed approaches.Keywords: implementation science, physical therapy, pain, non-pharmacological",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.44,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Development and internal validation of a baseline prediction model for ≥10-point Oswestry Disability Index improvement by episode end among adults receiving outpatient physical therapy for low back pain: A retrospective cohort study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13727176/",
+      "publisher": "Medicine",
+      "year": "2026",
+      "doi": "10.1097/md.0000000000051283",
+      "abstract": "Low back pain outcomes after outpatient physical therapy are heterogeneous. This retrospective single-center cohort prediction-model study aimed to develop and internally validate a parsimonious baseline model using Oswestry Disability Index (ODI) and STarT Back risk category to predict ≥10-point ODI improvement by routine episode end and assess whether additional baseline variables improve prediction. The hospital data team supplied 400 adult low back pain episodes with baseline and final ODI available. After eligibility exclusions, 391 episodes with complete ODI and STarT Back data comprised the primary cohort; the extended model used 356 complete cases. ≥10-point ODI improvement occurred from baseline to the final recorded physical therapy visit; episode duration was variable (median 31 days [interquartile range 25-63], range 10-95). Model Development and Internal Validation: The primary model included baseline ODI and STarT Back risk category. Internal validation used 2000 bootstrap resamples with optimism correction; nested bootstrap resampling quantified uncertainty around corrected performance. Overall, 236/391 (60.4%) achieved ≥10-point ODI improvement. Baseline ODI was associated with higher odds of improvement (aOR 1.046; 95% confidence interval [CI], 1.027-1.066), whereas high versus low STarT Back risk was associated with lower odds (aOR 0.291; 95% CI, 0.157-0.539). Apparent AUC was 0.666 (95% CI, 0.612-0.719) and Brier score 0.216. Optimism-corrected AUC was 0.657 (95% CI, 0.607-0.722), Brier score 0.220 (0.200-0.233), calibration slope 0.959 (0.925-0.990), and intercept 0.018 (-0.011 to 0.041). The calibration curve showed localized miscalibration. Baseline ODI and STarT Back risk provided modest internally validated prediction of episode-end ODI improvement. The baseline-ODI association may reflect mathematical coupling, regression to the mean, and differential opportunity to achieve the threshold. The model does not estimate causal treatment benefit and requires external validation and local calibration. This prediction-model study was not prospectively registered.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Therapeutic Alliance: Patients' Expectations Before and Experiences After Physical Therapy for Low Back Pain-A Qualitative Study With 6-Month Follow-Up",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8632789/",
+      "publisher": "Physical therapy",
+      "year": "2021",
+      "doi": "10.1093/ptj/pzab187",
+      "abstract": "Abstract Objective The aim of this study was to explore patients’ expectations before and experiences after physical therapy for low back pain. Methods Qualitative in-depth, semi-structured interviews with patients attending physical therapy were performed before, immediately after, and 6 months after treatment. Data were analyzed from a hermeneutical perspective with decontextualization, recontextualization, and identification of themes. Results Patients’ pretreatment expectations to physical therapy focused around exercises and a body-oriented diagnosis. After treatment, reassurance, active listening with explanations, and personally adapted strategies for self-managing pain and regaining control over everyday activity were expressed as decisive for a meaningful therapeutic alliance. Conclusion Expectations before treatment focused on exercises and diagnosis. Empathetic and personally adapted education aimed at empowerment was experienced as a meaningful aspect of the therapeutic alliance after treatment. The therapeutic alliance provided a basis to integrate knowledge on the complexity of pain. Impact Our findings indicate that patients emphasize physical therapists’ interactional and pedagogical skills as meaningful aspects of the therapeutic alliance, which has implications for clinical practice and training physical therapist students.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Active, Targeted, and Measured Device-Based Therapy for Low Back Pain With the David Spine Concept Comparison of 2 Treatment Protocols",
+      "url": "https://zenodo.org/records/6394055",
+      "publisher": "Zenodo",
+      "year": "2021",
+      "doi": "10.1097/TGR.0000000000000333",
+      "abstract": "Abstract Background: The David Spine Concept (DSC) device-based physical therapy for low back pain involves the quantitative assessment of lumbar muscle strength and range of motion. The study aims to determine the effectiveness of the DSC device-based therapy for low back pain. Methods: In this retrospective observational study, clinical data of 103 patients who underwent DSC device-based physiotherapy were reviewed. Pre- and posttreatment outcome measures for pain and disability were assessed. Results: Our results showed statistically significant improvement in terms of disability, pain, and functional status after physiotherapy. Conclusion: The DSC device-based therapy effectively relieved pain, improved function, and reduced disability in patients with low back pain. Keywords Author Keywords adult spine deformity degenerative spondylolisthesis disability exercise therapy low back pain nonoperative treatment Keywords Plus SYSTEMATIC REVIEWS REHABILITATION EXERCISE IMPAIRMENT",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Use of Physical Therapy for Low Back Pain by Medicaid Enrollees",
+      "url": "https://doi.org/10.2522/ptj.20150037",
+      "publisher": "Oxford University Press (OUP)",
+      "year": "2015",
+      "doi": "10.2522/ptj.20150037",
+      "abstract": "Background Medicaid insures an increasing proportion of adults in the United States. Physical therapy use for low back pain (LBP) in this population has not been described. Objective The study objectives were: (1) to examine physical therapy use by Medicaid enrollees with new LBP consultations and (2) to evaluate associations with future health care use and LBP-related costs. Design The study was designed as a retrospective evaluation of claims data. Methods A total of 2,289 patients with new LBP consultations were identified during 2012 (mean age=39.3 years [SD=11.9]; 68.2% women). The settings in which the patients entered care and comorbid conditions were identified. Data obtained at 1 year after entry were examined, and physical therapy use was categorized with regard to entry setting, early use (within 14 days of entry), or delayed use (&gt;14 days after entry). The 1-year follow-up period was evaluated for use outcomes (imaging, injection, surgery, and emergency department visit) and LBP-related costs. Variables associated with physical therapy use and cost outcomes were evaluated with multivariate models. Results Physical therapy was used by 457 patients (20.0%); 75 (3.3%) entered care in physical therapy, 89 (3.9%) received early physical therapy, and 298 (13.0%) received delayed physical therapy. Physical therapy was more common with chronic pain or obesity comorbidities and less likely with substance use disorders. Entering care in the emergency department decreased the likelihood of physical therapy. Entering care in physical medicine increased the likelihood. Relative to primary care entry, physical therapy entry was associated with lower 1-year costs. Limitations A single state was studied. No patient-reported outcomes were included. Conclusions Physical therapy was used often by Medicaid enrollees with LBP. High rates of comorbidities were evident and associated with physical therapy use. Although few patients entered care in physical therapy, this pattern may be useful for managing costs.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Changes in Pain Catastrophizing and Related Outcomes Following a Single-Session Empowered Relief Intervention Delivered by Physical Therapists in Workers with Low Back Pain: A Pilot Study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12457081/",
+      "publisher": "Journal of pain research",
+      "year": "2025",
+      "doi": "10.2147/jpr.s527830",
+      "abstract": "Junie S Carrière,1– 4 Marie-France Coutu,1– 4 Beth D Darnall,5 Guillaume Léonard,3,4,6 Marie-Pier Royer,1,3,4 Mei Yue Li,4 Martine Bordeleau,3,4,6 Marie-José Durand1– 4 1Centre d’Action en Prévention et Réadaptation de l’Incapacité au Travail (CAPRIT), Longueuil, Quebec, Canada; 2Centre de recherche Charles-Le Moyne, Longueuil, Quebec, Canada; 3École de réadaptation, Sherbrooke, Quebec, Canada; 4Faculté de médecine et des sciences de la santé, Université de Sherbrooke, Sherbrooke, Canada; 5Department of Anesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Palo Alto, CA, USA; 6Centre de recherche sur le vieillissement (CdRV), CIUSSS de l’Estrie – CHUS, Sherbrooke, Quebec, CanadaCorrespondence: Junie S Carrière, Email Junie.Carriere@USherbrooke.caPurpose: Low back pain is among the most prevalent pain conditions. Cognitive behavioral therapy reduces the negative effects of low back pain, but access to treatment is limited. Empowered Relief is a 2-hour single-session pain management skills intervention that has demonstrated efficacy at improving pain outcomes in individuals with chronic low back pain. The objectives were 1) to assess the acceptability of Empowered Relief delivered by physical therapists in a sample of French-Canadian workers with low back pain; and 2) to explore changes in pain catastrophizing and other pain-related outcomes following Empowered Relief and physical therapy.Methods: The study was an uncontrolled prospective pilot trial of Empowered Relief and physical therapy for low back pain. Participants were 63 French-Canadian individuals undergoing physical therapy for subacute and chronic low back pain (< 1 year duration). Participants completed baseline measures of demographic and measure of pain catastrophizing, pain intensity, symptoms of anxiety and depression, physical function and pain interference before taking part in a single-session 2-hour Empowered Relief virtual course. Participants then completed a post-class acceptability questionnaire and a 4-week follow-up questionnaire assessing the same measures as baseline.Results: A 2-hour single-session of Empowered Relief demonstrated high acceptability among participants. Pain catastrophizing scores reduced by an average of 28 points, with 90% achieving clinically significant change. Participation in Empowered Relief and physical therapy was associated with reductions in pain intensity, and clinically meaningful improvements in symptoms of anxiety and depression, physical function and pain interference at 4-weeks follow-up. Effect sizes were moderate to large, and the largest changes were found in individuals with subacute low back pain.Conclusion: Empowered Relief, when delivered by physical therapists, may offer a rapid, scalable intervention to complement physical therapy and improve early outcomes in workers with low back pain. The results provide evidence to support a future randomized controlled trial evaluating the effect of Empowered Relief delivered by physical therapists for low back pain.Plain Language Summary: Low back pain is one of the most common types of pain, and while therapy can help, many people have trouble accessing treatment. Empowered Relief is a one-time, two-hour class that teaches pain management skills and has been shown to help people with chronic low back pain. This study looked at whether the class was well-received by French-Canadian workers with low back pain and whether there were changes in pain and well-being after Empowered Relief combined with physical therapy. We worked with 63 French-Canadian adults receiving physical therapy for low back pain that had lasted less than a year. They answered questions about their pain levels, physical abilities, and mental health before and after taking the class. They also completed a follow-up survey four weeks later. Participants found the Empowered Relief class highly acceptable. After four weeks, they tended to report less pain, improved mood, and better physical function. The biggest improvements were seen in people with subacute (between 1-3 months) back pain. Empowered Relief is a quick and easy way to teach pain management skills early in recovery. These results suggest that it could be a useful tool to complement physical therapy and help people with back pain feel better faster.Keywords: empowered relief, physical therapy, pain management, low back pain, psychological",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Prognostic ability of STarT Back Screening Tool combined with work-related factors in patients with low back pain in primary care: a prospective study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8183211/",
+      "publisher": "BMJ open",
+      "year": "2021",
+      "doi": "10.1136/bmjopen-2020-046446",
+      "abstract": "Objective Primary care screening tools for patients with low back pain may improve outcome by identifying modifiable obstacles for recovery. The STarT Back Screening Tool (SBST) consists of nine biological and psychological items, with less focus on work-related factors. We aimed at testing the prognostic ability of SBST and the effect of adding items for future and present work ability. Methods Prospective observational study in patients (n=158) attending primary care physical therapy for low back pain. The prognostic ability of SBST and the added prognostic value of two work items; expectation for future work ability and current work ability, were calculated for disability, pain and quality of life outcome at 3 months follow-up. The medium and high-risk group in the SBST were collapsed in the analyses due to few patients in the high-risk group. The prognostic ability was assessed using the explained variance (R 2 ) of the outcomes from univariable and multivariable linear regression and beta values with 95% CIs were used to assess the prognostic value of individual items. Results The SBST classified 107 (67.7%) patients as low risk and 51 (32.3%) patients as medium/high risk. SBST provided prognostic ability for disability (R 2 =0.35), pain (R 2 =0.25) and quality of life (R 2 =0.28). Expectation for return to work predicted outcome in univariable analyses but provided limited additional prognostic ability when added to the SBST. Present work ability provided additional prognostic ability for disability (β=-2.5; 95% CI=-3.6 to -1.4), pain (β=-0.2; 95% CI=-0.5 to -0.002) and quality of life (β=0.02; 95% CI=0.001 to 0.04) in the multivariable analyses. The explained variance (R 2 ) when work ability was added to the SBST was 0.60, 0.49 and 0.47 for disability, pain and quality of life, respectively. Conclusions Adding one work ability item to the SBST gives additional prognostic information across core outcomes. Clinical trial number: NCT03626389.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effect of General Versus Specialized Exercises on Movement Control of Lumbo- Pelvic Region in Subjects with Chronic Low Back Pain",
+      "url": "https://journals.lsu.lt/baltic-journal-of-sport-health/article/view/165",
+      "publisher": "Baltic Journal of Sport and Health Sciences",
+      "year": "2018",
+      "doi": "10.33607/bjshs.v3i90.165",
+      "abstract": "Research background and hypothesis. Low back pain is a huge problem in the world. One of the main reasons why the low back pain problems arise is lumbo-pelvic motor control dysfunction. Specialized exercises are the basis of physical therapy for low back pain patients. Hypothesis: specialized exercises can be more effective for movement control of lumbo-pelvic region in subjects with chronic low back pain. Research aim was to assess the effect of general versus specialized exercises for movement control of lumbo- pelvic region in subjects with chronic low back pain. Research methods. The study involved 60 subjects with chronic low back pain, 29 women and 31 men, aged 21.5 years on average. All subjects were submitted to the Low Back Pain Duration and Beacke Habitual Physical Activity Assessment questionnaires (Baecke et al., 1982). Lumbo-pelvic motion control was evaluated by six Hannu Luomajoki movement control tests (Luomajoki et al., 2008). Specialized and general training programs were prescribed and performed under supervision of physical therapist. Video materials expert analysis was used for the evaluation of the study data. Research results. The results showed that a specialized training program was more effective than general exercises in improving movement control in lumbo-pelvic region for patients with low back pain. Discussion and conclusions. General exercise training program for general exercise group had no effect for all test results. Specialized exercise training program results showed that lumbo-pelvic movement control improved in five of the six control tests (p < 0.05). Keywords: motor control, physical therapy program, stability, mobility.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

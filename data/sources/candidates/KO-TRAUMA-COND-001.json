@@ -1,0 +1,889 @@
+{
+  "term": "Hip Fracture",
+  "collected": "2026-11-14",
+  "count": 49,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Benzodiazepines, Z-drugs and the risk of hip fracture: A systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0174730",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0174730",
+      "abstract": "Background: Hip fractures in the older person lead to an increased risk of mortality, poorer quality of life and increased morbidity. Benzodiazepine (BNZ) use is associated with increased hip fracture rate, consequently Z-drugs are fast becoming the physician’s hypnotic prescription of choice yet data on their use is limited. We compared the risk of hip fracture associated with Z-drugs and BNZ medications, respectively, and examined if this risk varied with longer-term use. Methods and findings: We carried out a systematic review of the literature and meta-analysis. MEDLINE and SCOPUS were searched to identify studies involving BNZ or Z-drugs and the risk of hip fracture up to May 2015. Each included study was quality-assessed. A pooled relative risk of hip fracture was calculated using the generic inverse variance method, with a random effects model, with the length of hypnotic usage as a subgroup. Both BNZ, and Z-drug use respectively, were significantly associated with an increased risk of hip fracture (RR = 1.52, 95% CI 1.37–1.68; and RR = 1.90, 95% CI 1.68–2.13). Short-term use of BNZ and Z-drugs respectively, was also associated with the greatest risk of hip fracture (RR = 2.40, 95% CI 1.88–3.05 and RR = 2.39, 95% CI 1.74–3.29). Conclusions: There is strong evidence that both BNZ and Z-drugs are associated with an increased risk of hip fracture in the older person, and there is little difference between their respective risks. Patients newly prescribed these medicines are at the greatest risk of hip fracture. Clinicians and policy makers need to consider the increased risk of fallings and hip fracture particularly amongst new users of these medications.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.78,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Obesity and Risk of Hip Fracture in Adults: A Meta-Analysis of Prospective Cohort Studies",
+      "url": "https://doi.org/10.1371/journal.pone.0055077",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0055077",
+      "abstract": "Background: Many observational studies assessed the association between obesity and risk of hip fracture in adults, but reported controversial results. Our goal was to evaluate the association between obesity and risk of hip fracture in adults by conducting a meta-analysis of prospective cohort studies. Methods: Three databases, PubMed, Embase and Web of Science, were searched through May 2012 to identify eligible cohort studies. Either a fixed- or a random-effects model was used to calculate the pooled relative risk (RR) with its 95% confidence interval (95%CI). Results: Fifteen prospective cohort studies involving a total 3,126,313 participants were finally included into this meta-analysis. Overall, adults with obesity compared with the normal weight group had a significantly decreased risk of hip fracture (RR: 0.66, 95% CI 0.57 to 0.77, P<0.001). Meta-analyses by the adjusted status of RRs also suggested adults with obesity compared with the reference group had a significantly decreased risk of hip fracture (adjusted RR: 0.48, 95% CI 0.39 to 0.58, P<0.001; unadjusted RR: 0.66, 95% CI 0.56 to 0.78, P<0.001). Subgroup analyses by gender suggested individuals with obesity had a significantly decreased risk for developing hip fracture compared with the reference group in both men (RR 0.54, 95% CI 0.48 to 0.60, P<0.001) and women (RR 0.70, 95% CI 0.58 to 0.84, P<0.001). No evidence of publication bias was observed in this meta-analysis. Conclusions: This meta-analysis of prospective cohort studies suggests that obesity significantly decreases the risk of hip fracture in adults, and obesity is probably a protective factor of hip fracture in adults.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.62,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Timing matters in hip fracture surgery: patients operated within 48 hours have better outcomes. A meta-analysis and meta-regression of over 190,000 patients",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3463569/",
+      "publisher": "PloS one",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0046175",
+      "abstract": "Background To assess the relationship between surgical delay and mortality in elderly patients with hip fracture. Systematic review and meta-analysis of retrospective and prospective studies published from 1948 to 2011. Medline (from 1948), Embase (from 1974) and CINAHL (from 1982), and the Cochrane Library. Odds ratios (OR) and 95% confidence intervals for each study were extracted and pooled with a random effects model. Heterogeneity, publication bias, bayesian analysis, and meta-regression analyses were done. Criteria for inclusion were retro- and prospective elderly population studies, patients with operated hip fractures, indication of timing of surgery and survival status. Methodology/principal findings There were 35 independent studies, with 191,873 participants and 34,448 deaths. The majority considered a cut-off between 24 and 48 hours. Early hip surgery was associated with a lower risk of death (pooled odds ratio (OR) 0.74, 95% confidence interval (CI) 0.67 to 0.81; P Conclusions/significance Surgical delay is associated with a significant increase in the risk of death and pressure sores. Conservative timing strategies should be avoided. Orthopaedic surgery services should ensure the majority of patients are operated within one or two days.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.58,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Balance Problems",
+      "url": "https://medlineplus.gov/balanceproblems.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Have you ever felt dizzy, lightheaded, or as if the room is spinning around you? If the feeling happens often, it could be a sign of a balance problem. Balance problems can make you feel unsteady. You may also have blurred vision, confusion, and disorientation. They are one cause of falls and fall-related injuries, such as a hip fracture (broken hip ). Some balance problems are due to problems in the inner ear. Others may involve another part of the body, such as the brain or the heart. Aging, infections, head injury, certain medicines, or problems with blood circulation may also cause balance problems. It is important to see your doctor about balance problems. They can be a sign of other health problems, such as an ear infection or a stroke. Your doctor may send you to a specialist for a diagnosis. You may need a hearing test, blood tests, or imaging studies of your head and brain. Other possible tests look at your eye movements, and how your body responds to movement. In some cases, treating the illness that is causing the disorder will help with the balance problem. Exercises, a change in diet, and some medicines also can help. NIH: National Institute on Deafness and Other Communication Disorders",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A critical review of the long-term disability outcomes following hip fracture",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5010762/",
+      "publisher": "BMC geriatrics",
+      "year": "2016",
+      "doi": "10.1186/s12877-016-0332-0",
+      "abstract": "Background Hip fractures are an increasingly common consequence of falls in older people that are associated with a high risk of death and reduced function. This review aims to quantify the impact of hip fracture on older people's abilities and quality of life over the long term. Methods Studies were identified through PubMed and Scopus searches and contact with experts. Cohort studies of hip fracture patients reporting outcomes 3 months post-fracture or longer were included for review. Outcomes of mobility, participation in domestic and community activities, health, accommodation or quality of life were categorised according to the World Health Organization's International Classification of Functioning and synthesised narratively. Risk of bias was assessed according to four items from the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement. Results Thirty-eight studies from 42 publications were included for review. Most followed a clearly defined sample from the time of fracture. Hip fracture survivors experienced significantly worse mobility, independence in function, health, quality of life and higher rates of institutionalisation than age matched controls. The bulk of recovery of walking ability and activities for daily living occurred within 6 months after fracture. Between 40 and 60 % of study participants recovered their pre-fracture level of mobility and ability to perform instrumental activities of daily living, while 40-70 % regained their level of independence for basic activities of daily living. For people independent in self-care pre-fracture, 20-60 % required assistance for various tasks 1 and 2 years after fracture. Fewer people living in residential care recovered their level of function than those living in the community. In Western nations, 10-20 % of hip fracture patients are institutionalised following fracture. Few studies reported impact on participation in domestic, community, social and civic life. Conclusions Hip fracture has a substantial impact on older peoples' medium- to longer-term abilities, function, quality of life and accommodation. These studies indicate the range of current outcomes rather than potential improvements with different interventional approaches. Future studies should measure impact on life participation and determine the proportion of people that regain their pre-fracture level of functioning to investigate strategies for improving these important outcomes.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Epidemiology of hip fracture: Worldwide geographic variation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004072/",
+      "publisher": "Indian journal of orthopaedics",
+      "year": "2011",
+      "doi": "10.4103/0019-5413.73656",
+      "abstract": "Osteoporosis is a major health problem, especially in elderly populations, and is associated with fragility fractures at the hip, spine, and wrist. Hip fracture contributes to both morbidity and mortality in the elderly. The demographics of world populations are set to change, with more elderly living in developing countries, and it has been estimated that by 2050 half of hip fractures will occur in Asia. This review conducted using the PubMed database describes the incidence of hip fracture in different regions of the world and discusses the possible causes of this wide geographic variation. The analysis of data from different studies show a wide geographic variation across the world, with higher hip fracture incidence reported from industrialized countries as compared to developing countries. The highest hip fracture rates are seen in North Europe and the US and lowest in Latin America and Africa. Asian countries such as Kuwait, Iran, China, and Hong Kong show intermediate hip fracture rates. There is also a north-south gradient seen in European studies, and more fractures are seen in the north of the US than in the south. The factors responsible of this variation are population demographics (with more elderly living in countries with higher incidence rates) and the influence of ethnicity, latitude, and environmental factors. The understanding of this changing geographic variation will help policy makers to develop strategies to reduce the burden of hip fractures in developing countries such as India, which will face the brunt of this problem over the coming decades.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.04,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "A Scoping Review of Strategies for the Prevention of Hip Fracture in Elderly Nursing Home Residents",
+      "url": "https://doi.org/10.1371/journal.pone.0009515",
+      "publisher": "PLoS ONE",
+      "year": "2010",
+      "doi": "10.1371/journal.pone.0009515",
+      "abstract": "Background: Elderly nursing home residents are at increased risk of hip fracture; however, the efficacy of fracture prevention strategies in this population is unclear. Objective: We performed a scoping review of randomized controlled trials of interventions tested in the long-term care (LTC) setting, examining hip fracture outcomes. Methods: We searched for citations in 6 respective electronic searches, supplemented by hand searches. Two reviewers independently reviewed all citations and full-text papers; consensus was achieved on final inclusion. Data was abstracted in duplicate. Findings: We reviewed 22,349 abstracts or citations and 949 full-text papers. Data from 20 trials were included: 7 - vitamin D (n = 12,875 participants), 2 - sunlight exposure (n = 522), 1 - alendronate (n = 327), 1 - fluoride (n = 460), 4 – exercise or multimodal interventions (n = 8,165), and 5 - hip protectors (n = 2,594). Vitamin D, particularly vitamin D3 ≥800 IU orally daily, reduced hip fracture risk. Hip protectors reduced hip fractures in included studies, although a recent large study not meeting inclusion criteria was negative. Fluoride and sunlight exposure did not significantly reduce hip fractures. Falls were reduced in three studies of exercise or multimodal interventions, with one study suggesting reduced hip fractures in a secondary analysis. A staff education and risk assessment strategy did not significantly reduce falls or hip fractures. In a study underpowered for fracture outcomes, alendronate did not significantly reduce hip fractures in LTC. Conclusions: The intervention with the strongest evidence for reduction of hip fractures in LTC is Vitamin D supplementation; more research on other interventions is needed.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.0,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Frailty and post-operative outcomes in older surgical patients: a systematic review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007853/",
+      "publisher": "BMC geriatrics",
+      "year": "2016",
+      "doi": "10.1186/s12877-016-0329-8",
+      "abstract": "Background As the population ages, increasing numbers of older adults are undergoing surgery. Frailty is prevalent in older adults and may be a better predictor of post-operative morbidity and mortality than chronological age. The aim of this review was to examine the impact of frailty on adverse outcomes in the 'older old' and 'oldest old' surgical patients. Methods A systematic review was undertaken. Electronic databases from 2010 to 2015 were searched to identify articles which evaluated the relationship between frailty and post-operative outcomes in surgical populations with a mean age of 75 and older. Articles were excluded if they were in non-English languages or if frailty was measured using a single marker only. Demographic data, type of surgery performed, frailty measure and impact of frailty on adverse outcomes were extracted from the selected studies. Quality of the studies and risk of bias was assessed by the Epidemiological Appraisal Instrument. Results Twenty-three studies were selected for the review and they were assessed as medium to high quality. The mean age ranged from 75 to 87 years, and included patients undergoing cardiac, oncological, general, vascular and hip fracture surgeries. There were 21 different instruments used to measure frailty. Regardless of how frailty was measured, the strongest evidence in terms of numbers of studies, consistency of results and study quality was for associations between frailty and increased mortality at 30 days, 90 days and one year follow-up, post-operative complications and length of stay. A small number of studies reported on discharge to institutional care, functional decline and lower quality of life after surgery, and also found a significant association with frailty. Conclusion There was strong evidence that frailty in older-old and oldest-old surgical patients predicts post-operative mortality, complications, and prolonged length of stay. Frailty assessment may be a valuable tool in peri-operative assessment. It is possible that different frailty tools are best suited for different acuity and type of surgical patients. The association between frailty and return to pre-morbid function, discharge destination, and quality of life after surgery warrants further research.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.74,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Osteoporosis in the Pakistan Population A comprehensive review of prevalence, determinants, clinical consequences, and public-health responses",
+      "url": "https://zenodo.org/records/17216685",
+      "publisher": "Zenodo",
+      "year": "2025",
+      "doi": "10.5281/zenodo.17216685",
+      "abstract": "Osteoporosis in the Pakistan Population A comprehensive review of prevalence, determinants, clinical consequences, and public-health responses Abstract (≈220 words) Osteoporosis—characterised by low bone mass and microarchitectural deterioration—is an emerging public-health problem in Pakistan as the population ages and risk factors (vitamin D deficiency, low calcium intake, sedentary behaviour, and obesity) become more common. This review synthesises published evidence on the prevalence and distribution of low bone mineral density (BMD) and osteoporosis in Pakistan, examines key determinants, summarises clinical and economic consequences (including fracture burden), and evaluates current opportunities for prevention and management at individual and population levels. Data from community and hospital studies indicate large proportions of adults—especially postmenopausal women—have osteopenia or osteoporosis; population-level modelling using country-calibrated FRAX estimates suggests tens of thousands of hip fractures annually with projections of rapid increases as the elderly population grows. Major determinants in Pakistan include older age, female sex and postmenopausal status, vitamin D deficiency, low dietary calcium, multiparity, low body mass index (BMI), low literacy/socioeconomic status, limited physical activity, and high prevalence of smoking in some subgroups. Despite substantial burden, awareness, diagnosis and treatment rates are low. Evidence supports a multi-pronged response: (1) primary prevention through vitamin D and calcium sufficiency, weight-bearing physical activity and smoking cessation; (2) case finding using risk assessment tools (FRAX with Pakistan calibration) and targeted DXA scanning; (3) ensuring access to affordable pharmacologic therapies for high-risk individuals; and (4) health-system strategies—fortification, antenatal/postmenopausal counselling, and fracture liaison services—to reduce fractures. Priorities include nationally representative surveillance, health-economics analyses, and implementation research on scalable interventions. PMC+2PMC+2 Keywords Osteoporosis, Pakistan, bone mineral density, fractures, FRAX, prevention, vitamin D, public health Introduction Osteoporosis is defined by the World Health Organization (WHO) as a BMD that is 2.5 standard deviations or more below the young adult mean (T-score ≤ −2.5). Clinically, osteoporosis becomes most significant because of fragility fractures—particularly hip, spine and wrist fractures—that increase morbidity, mortality and health-care costs. Although much of the global burden has historically been described in Western populations, low- and middle-income countries (LMICs) including Pakistan face growing burdens due to population ageing, nutrition transitions, and pervasive risk factors such as vitamin D deficiency and physical inactivity. Understanding the magnitude and drivers of osteoporosis in Pakistan is essential to design cost-effective, culturally appropriate prevention and management strategies. Recent systematic reviews and Pakistan-specific analyses have highlighted high prevalence of low BMD and projected large numbers of osteoporotic fractures if current trends continue. PMC+1 This article reviews the epidemiology of osteoporosis in Pakistan, summarises major risk factors, presents the burden of fractures and projections, discusses diagnostic and management challenges, and proposes evidence-based public-health and clinical strategies tailored to the Pakistani context. Methods (literature selection and scope) We synthesised peer-reviewed articles, systematic reviews, national/regional surveys and modelling studies reporting BMD, osteoporosis prevalence, fracture incidence or risk factors in Pakistan up to 2025. Key sources included narrative reviews of osteoporosis in Pakistan, community and hospital cross-sectional BMD studies (DXA and surrogate measures), FRAX calibration and modelling papers for Pakistan, and policy/epidemiologic summaries (JPMA, PJMS). Where national representative data were unavailable, we drew on multi-centre clinical studies and modelling efforts to infer burden and trends. For load-bearing and policy statements we prioritised the most recent, largest and nationally relevant sources. PMC+1 Epidemiology — prevalence and distribution Community and hospital studies Multiple hospital-based and community BMD studies in Pakistan show high frequencies of low BMD, osteopenia and osteoporosis across adult age groups—particularly among postmenopausal women: A cross-sectional study in a suburban Pakistani population using DXA reported osteopenia prevalence of ~29.8% and osteoporosis prevalence of ~27.2%, with only ~43% of subjects having normal BMD. These data indicate that more than half of adults in the sampled population had low bone mass. PMC Earlier and subsequent hospital and community studies report variable but consistently elevated prevalence; for example, surveys focused on peri- and postmenopausal women commonly identify osteoporosis/osteopenia in 30–70% depending on age group and threshold definitions. PubMed+1 National estimates and projected fracture burden Although nationally representative BMD surveys are limited, modelling efforts using Pakistan-calibrated FRAX or surrogate FRAX models estimate substantial fracture burden. A surrogate FRAX model estimated about 36,524 hip fractures in 2015 among individuals aged ≥50 in Pakistan, with projections of a ~214% increase to over 114,000 hip fractures by 2050 if demographic trends continue—illustrating the potential exponential increase in fracture burden with ageing. These projections underscore the urgency of population-level prevention. PMC+1 Gender and age patterns As globally, women—particularly postmenopausal women—bear the greatest burden. Reported prevalence of osteoporosis is substantially higher in women than men (studies report female osteoporosis prevalence ranging from ~20–40% in adult samples and lower prevalence in men but significant at older ages), and prevalence rises with advancing age and menopause duration. jpma.org.pk+1 Table 1 — Selected prevalence estimates and projections (Pakistan) Source / sample Key finding Tariq et al., PJMS (2019) — suburban adults, DXA Osteopenia 29.8%; Osteoporosis 27.2%; Normal BMD 43%. PMC PAFMJ AFIRM study (multi-ethnic) High frequency of low bone mass across ethnic groups (increasing with age). PAFMJ Surrogate FRAX, Pakistan (Naureen et al., 2021) Estimated 36,524 hip fractures in 2015; projected >114,000 by 2050 (214% increase). ACU Research Bank JPMA / national estimates (review) Estimated ~9.9 million people currently with osteoporosis (women 7.2 million); projected rise by 2050. jpma.org.pk Key determinants and risk factors in Pakistan Multiple interacting determinants explain the high prevalence of low BMD and osteoporosis: Advancing age and postmenopausal status. Rapid bone loss occurs in the years after menopause due to reduced estrogen; Pakistan’s demographic transition is increasing the proportion of older adults. Several studies list age and menopause duration as dominant risk factors. old.jsp.org.pk+1 Vitamin D deficiency. Pakistan has a high prevalence of vitamin D deficiency across age groups—a critical determinant of bone health that impairs calcium absorption and may exacerbate bone loss. Vitamin D deficiency is widespread and interacts with low dietary calcium to increase skeletal risk. PMC+1 Low dietary calcium intake. Dietary patterns with low dairy consumption and limited consumption of calcium-rich foods reduce lifelong calcium intake, contributing to lower peak bone mass and increased osteoporosis risk. PMC Low BMI and nutritional status. Several Pakistani studies identify low BMI and poor general nutrition as risk factors in some populations, though increasing overweight/obesity in other subgroups complicates patterns. Low body weight reduces mechanical loading on bone and is a well-known osteoporosis risk. old.jsp.org.pk+1 Reproductive factors and multiparity. High parity and extended periods of lactation—common in some subpopulations—may influence maternal bone density, particularly in contexts of inadequate nutritional replenishment. Some local studies list multiparity as an associated factor. old.jsp.org.pk Physical inactivity and sedentary lifestyle. Urbanisation and decreasing physical activity reduce weight-bearing exercise that maintains bone strength. SMJ Socioeconomic and educational status. Lower education and socioeconomic status are associated with lower BMD in Pakistan, likely mediated through diet, limited health literacy, and reduced access to preventive care. Pakistan Journal of Medical Sciences Smoking and alcohol use. Tobacco use—more common among men—negatively affects bone; alcohol also contributes where used. Local data show smoking is a risk factor in community studies. SMJ Clinical consequences and burden Fractures and outcomes Fragility fractures—particularly hip fractures—carry high morbidity and mortality. The FRAX-based modelling indicates large absolute numbers of hip fractures and a projected sharp rise by mid-century given population ageing. Hip fractures are associated with loss of independence, reduced mobility, increased institutionalisation, and high short-term mortality; vertebral fractures contribute chronic pain and disability. The health-system and economic consequences in Pakistan—where rehabilitation and long-term care capacity are limited—are substantial. PMC+1 Low awareness and under-diagnosis Many Pakistani studies point to low public and clinician awareness, under-diagnosis and under-treatment. For instance, a national review estimated that only a minority of those with osteoporosis were aware of their diagnosis or receiving treatment, signalling a large care gap and missed opportunities for secondary prevention. jpma.org.pk Diagnosis, risk assessment and tools DXA and resource constraints Dual-energy X-ray absorptiometry (DXA) is the gold standard to diagnose osteoporosis. However, DXA access in Pakistan is limited and concentrated in urban tertiary centres; cost and geographic access make universal screening impractical. Many community studies rely on opportunistic DXA or surrogate measures. Given resource constraints, a pragmatic approach is targeted DXA for those identified as high risk using clinical tools. PAFMJ FRAX and Pakistan calibration FRAX—an internationally used fracture risk calculator—has been calibrated for Pakistan using surrogate incidence data. The Pakistan FRAX model enables clinicians to estimate 10-year probabilities of hip and major osteoporotic fractures, guiding treatment thresholds when combined with local cost-effectiveness and guideline considerations. Recent publications describe FRAX-based intervention thresholds adapted to Pakistan. FRAX without BMD may be useful in primary care to prioritise who should receive DXA or treatment. PubMed+1 Prevention and management: evidence-based approaches for Pakistan 1. Primary prevention (population level) Vitamin D and calcium sufficiency. Given high vitamin D deficiency and low calcium intake, population strategies—fortification of staple foods, public education on safe sun exposure, supplementation for high-risk groups—are priorities. Routine counselling on dietary calcium (dairy, fortified foods, green leafy vegetables) and vitamin D supplementation where indicated can prevent bone loss. PMC+1 Physical activity promotion. Encourage weight-bearing and resistance exercises (walking, stair-climbing, resistance bands) across the life course; public health messaging and community exercise programmes can be integrated into primary health services. SMJ Tobacco and alcohol control. Strengthening tobacco cessation programmes reduces long-term skeletal harm, alongside multiple other health benefits. SMJ 2. Case finding and secondary prevention (clinical level) Risk stratification using FRAX. Implement FRAX in primary care to identify individuals at high 10-year fracture risk who should receive DXA and/or pharmacologic therapy. FRAX without BMD can be used where DXA is unavailable to prioritise scanning and interventions. White Rose Research Online+1 DXA for confirmation and monitoring. Targeted DXA for postmenopausal women ≥65 years, patients with fragility fractures, long-term glucocorticoid use, or other high-risk features. Use baseline BMD for treatment decisions and follow-up to monitor response where feasible. PAFMJ 3. Pharmacologic treatment First-line options. Bisphosphonates (oral or IV), denosumab, selective estrogen receptor modulators, and parathyroid hormone analogues are effective for fracture risk reduction in appropriate patients. Cost and access restrict availability; national formularies and procurement strategies should prioritise essential, evidence-based agents for high-risk individuals. PMC Adherence and safety. Ensure patient counselling on dosing (e.g., bisphosphonate administration), monitor for adverse effects (renal function, hypocalcaemia), and address barriers to adherence (cost, access). PMC 4. Post-fracture care and fracture liaison services (FLS) FLS model. Establishing FLS—coordinated programmes that identify patients with fragility fractures and ensure secondary prevention (treatment, rehabilitation, fall prevention)—has been effective globally in reducing subsequent fractures. Adapting FLS to Pakistan’s hospital settings can improve outcomes and reduce recurrent fractures. Pilot programmes and implementation research are needed. PMC Table 2 — Interventions: benefits, barriers and Pakistan feasibility Intervention Key benefits Main barriers in Pakistan Feasibility / priority Vitamin D supplementation (targeted & antenatal) Reduces deficiency; supports bone health Supply/logistics, awareness High — priority Dietary calcium promotion / fortification Population calcium adequacy Industry/regulatory coordination Moderate — pilot fortification FRAX risk stratification in primary care Efficient case identification Training, access to tool High — implementable DXA scanning (targeted) Diagnostic precision Limited access, cost Moderate — targeted use Pharmacologic therapy (bisphosphonates) Reduces fracture risk Cost, availability, adherence High priority for high-risk patients Fracture liaison service (FLS) Secondary prevention, care coordination System organisation, funding Pilot in tertiary hospitals (References supporting intervention effectiveness and feasibility are discussed in text.) PMC+1 Health economics and policy considerations The projected rise in hip fractures implies growing direct (hospital, surgery, rehabilitation) and indirect (loss of productivity, long-term care) costs. There is an urgent need for country-specific health-economics analyses to compare the cost-effectiveness of prevention strategies (fortification, supplementation, FRAX-guided treatment, FLS). In many LMIC settings, prevention and targeted treatment have favourable cost-effectiveness compared with the high costs of hip fracture care and long-term disability. Policymakers should consider integrating osteoporosis prevention into existing noncommunicable disease (NCD) and maternal-child health programmes to leverage resources. PMC+1 Research gaps and priorities Nationally representative BMD and fracture incidence data. Robust surveillance to establish baseline burden and track trends. PMC Implementation research on fortification and supplementation programmes. Which vehicles (wheat flour, milk, edible oil) are most acceptable and effective? PMC Economic evaluations. Cost-effectiveness of screening thresholds, pharmacologic strategies, and FLS in Pakistan. ACU Research Bank Pilot FLS and FRaX implementation studies. To demonstrate feasibility and impact on secondary fracture prevention. White Rose Research Online Behavioural interventions. Culturally adapted programmes to increase weight-bearing exercise, dietary calcium, and vitamin D sufficiency. SMJ Limitations of the evidence base Most prevalence data are from hospital or regional studies and may not be nationally representative; assay and methodological heterogeneity complicate comparisons. FRAX modelling uses surrogate estimates where national fracture incidence data are sparse; while informative for planning, these projections carry uncertainty. Data on treatment coverage, adherence and long-term outcomes in Pakistan are limited, constraining health-systems planning. Conclusion and recommendations Osteoporosis and low bone mass are common in Pakistani adults—especially postmenopausal women—and projected fracture burden suggests large future health and economic consequences if preventive action is not scaled. Key recommendations: Prioritise vitamin D and calcium sufficiency through targeted supplementation (pregnant and postmenopausal women, elderly), public education and selective food fortification pilot programmes. PMC Implement FRAX risk assessment in primary care to prioritise DXA and pharmacologic therapy for those at highest 10-year fracture risk. White Rose Research Online Expand access to cost-effective pharmacologic treatment (e.g., bisphosphonates) for high-risk individuals, with monitoring and adherence support. PMC Develop pilot fracture liaison services in tertiary hospitals to close the secondary prevention gap. PMC Invest in national surveillance and research (BMD surveys, fracture registries, implementation trials and cost-effectiveness studies) to inform policy and scale-up. Concerted action combining public-health prevention and targeted clinical interventions can substantially reduce the personal and societal burden of osteoporosis in Pakistan over coming decades. Tables & Figures (for publication) Table 1: Selected prevalence estimates and projections (above). Table 2: Intervention matrix (above). Figure 1 (suggested): Projected hip fractures in Pakistan (2015 ≈ 36,524 → 2050 ≈ 114,820) based on FRAX surrogate modelling (Naureen et al., 2021). This bar-chart visually emphasises the projected rise if prevention is not scaled. ACU Research Bank Selected references Khan AH. Osteoporosis and its perspective in Pakistan: A review. (2018). Provides an overview of prevalence, risk factors and management challenges in Pakistan. PMC Naureen G, et al. A surrogate FRAX model for Pakistan. (2021). Estimated hip fracture numbers and projections for Pakistan using surrogate incidence data. PMC+1 Tariq S, et al. Status of bone health and association of socio-demographic factors with bone mineral density in Pakistan. PJMS (2019). Reported osteopenia 29.8% and osteoporosis 27.2% in a suburban sample. PMC Farooq M. Low Bone Mineral Density and its age and gender related distribution in a suburban population of Pakistan. PAFMJ (recent). High frequency of low BMD with increase by age. PAFMJ JPMA editorial / review. Osteoporosis’s undertreatment in Pakistan. (2023). National estimates of current burden (~9.9 million people) and calls for action. jpma.org.pk Mamji MF. Risk factors for osteoporosis in post-menopausal women — Pakistani study. JSP (2010). Identified advancing age, longer menopause duration, multiparity, low BMI, low socioeconomic status as significant factors. old.jsp.org.pk Fatima M. Determining the risk factors and prevalence of osteoporosis among women in Pakistan. (2009). Early community BMD work showing substantial osteopenia/osteoporosis prevalence. PubMed Johansson H, et al. FRAX-based intervention thresholds for Pakistan. (2022). Guidance on applying FRAX in clinical practice for Pakistan. PubMed",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A systematic review of hip fracture incidence and probability of fracture worldwide",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3421108/",
+      "publisher": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+      "year": "2012",
+      "doi": "10.1007/s00198-012-1964-3",
+      "abstract": "Unlabelled The country-specific risk of hip fracture and the 10-year probability of a major osteoporotic fracture were determined on a worldwide basis from a systematic review of literature. There was a greater than 10-fold variation in hip fracture risk and fracture probability between countries. Introduction The present study aimed to update the available information base available on the heterogeneity in the risk of hip fracture on a worldwide basis. An additional aim was to document variations in major fracture probability as determined from the available FRAX models. Methods Studies on hip fracture risk were identified from 1950 to November 2011 by a Medline OVID search. Evaluable studies in each country were reviewed for quality and representativeness and a study (studies) chosen to represent that country. Age-specific incidence rates were age-standardised to the world population in 2010 in men, women and both sexes combined. The 10-year probability of a major osteoporotic fracture for a specific clinical scenario was computed in those countries for which a FRAX model was available. Results Following quality evaluation, age-standardised rates of hip fracture were available for 63 countries and 45 FRAX models available in 40 countries to determine fracture probability. There was a greater than 10-fold variation in hip fracture risk and fracture probability between countries. Conclusions Worldwide, there are marked variations in hip fracture rates and in the 10-year probability of major osteoporotic fractures. The variation is sufficiently large that these cannot be explained by the often multiple sources of error in the ascertainment of cases or the catchment population. Understanding the reasons for this heterogeneity may lead to global strategies for the prevention of fractures.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.58,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The role of depression in the association between mobilisation timing and live discharge after hip fracture surgery: Secondary analysis of the UK National Hip Fracture Database",
+      "url": "https://doi.org/10.1371/journal.pone.0298804",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0298804",
+      "abstract": "Purpose: The aim was to compare the probability of discharge after hip fracture surgery conditional on being alive and in hospital between patients mobilised within and beyond 36-hours of surgery across groups defined by depression. Methods: Data were taken from the National Hip Fracture Database and included patients 60 years of age or older who underwent hip fracture surgery in England and Wales between 2014 and 2016. The conditional probability of postsurgical live discharge was estimated for patients mobilised early and for patients mobilised late across groups with and without depression. The association between mobilisation timing and the conditional probability of live discharge were also estimated separately through adjusted generalized linear models. Results: Data were analysed for 116,274 patients. A diagnosis of depression was present in 8.31% patients. In those with depression, 7,412 (76.7%) patients mobilised early. In those without depression, 84,085 (78.9%) patients mobilised early. By day 30 after surgery, the adjusted odds ratio of discharge among those who mobilised early compared to late was 1.79 (95% CI: 1.56–2.05, p<0.001) and 1.92 (95% CI: 1.84–2.00, p<0.001) for those with and without depression, respectively. Conclusion: A similar proportion of patients with depression mobilised early after hip fracture surgery when compared to those without a diagnosis of depression. The association between mobilisation timing and time to live discharge was observed for patients with and without depression.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Management of hip fractures in the elderly: to fix or not to fix?",
+      "url": "https://zenodo.org/records/10869992",
+      "publisher": "Revista Latinoamericana de Hipertension",
+      "year": "2024",
+      "doi": "10.5281/zenodo.10869992",
+      "abstract": "Hip fracture ( HF) is a frequent condition in the elderly population, especially females. It is associated with higher mortality, decreased functionality, higher dependency, and in general poorer quality of life (QoL) for the patients and caregivers. At present, there is no well-established evidence-based guideline regarding the ideal treatment approach for this condition. Most of the evidence suggests that surgical management is the optimal approach in most scenarios, providing the best outcomes, the highest survival rates, and the most improvement in QoL. However, other studies in specific subpopulations, like highly frail elder patients, or those with short life expectancy, indicate these subjects may not benefit as much from the procedure. Furthermore, most of the available information focuses on survival rates and other medical parameters, while ignoring other patient-centered aspects like QoL, comfort, and treatment satisfaction. In general, it is recommended to perform a proper and individualized evaluation before deciding to operate. Proper candidate selection, taking into consideration comorbidities, life expectancy, patient preference, and overall benefits should lead, in most cases, toward the surgical approach. However, non-operative management should not be neglected when the conditions to operate are not met. This review aims to understand the fundamentals behind the decision making for total hip replacement in the elderly, and to ponder the potential approaches after considering several risk and protective factors.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Longitudinal trajectories of functional recovery after hip fracture",
+      "url": "https://doi.org/10.1371/journal.pone.0283551",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0283551",
+      "abstract": "Background: There is limited evidence regarding predictors of functional trajectories after hip fracture. We aimed to identify groups with different trajectories of functional recovery the first year after hip fracture, and to determine predictors for belonging to such groups. Methods: This longitudinal study combined data from two large randomized controlled trials including patients with hip fracture. Participants were assessed at baseline, four and 12 months. We used the Nottingham Extended Activities of Daily Living (NEADL) as a measure of instrumental ADL (iADL) and Barthel Index for personal ADL (pADL). A growth mixture model was estimated to identify groups of patients following distinct trajectories of functioning. Baseline characteristics potentially predicting group-belonging were assessed by multiple nominal regression. Results: Among 726 participants (mean age 83.0; 74.7% women), we identified four groups of patients following distinct ADL trajectories. None of the groups regained their pre-fracture ADL. For one of the groups identified in both ADL outcomes, a steep decline in function was shown the first four months after surgery, and none of the groups showed functional recovery between four and 12 months after surgery. Conclusions: No groups regained their pre-fracture ADL. Some of the patients with relatively high pre-fracture function, had a steep ADL decline. For this group there is a potential for recovery, but more knowledge and research is needed in this group. These findings could be useful in uncovering groups of patients with different functioning after a hip fracture, and aid in discharge planning.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Association of lower urinary tract symptoms and hip fracture in adults aged ≥ 50 years",
+      "url": "https://doi.org/10.1371/journal.pone.0246653",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0246653",
+      "abstract": "Aim: Lower urinary tract symptoms (LUTS) result in morbidities; however, their association with the occurrence of hip fracture is relatively unknown in the context of Asian studies. The purpose of the study was to investigate this link with the hip fracture risk in Taiwanese men and women aged 50 years and above. Materials and methods: From 2000 through 2012, a population-based retrospective cohort study was conducted; claims data of 18,976 patients diagnosed with LUTS (dysuria, urinary retention, incontinence, and increased urinary frequency and urgency) were retrieved from Taiwan’s National Health Insurance Research Database. The patients were compared with 1:2 age, sex, and index year-matched controls (comparison group, n = 37,952). The incidence and hazard ratios of the hip fracture risk were calculated by the Cox proportional hazard regression models. Results: The mean age was 66.2 ± 9.7 years, and the proportion of men was 58.1% in both study groups. Fractures occurred in 772 patients and 1,156 control subjects. The corresponding incidences were 7.0 and 5.0/1000 person-years. Compared to the control subjects, the patients with LUTS had an increased hip fracture risk [adjusted hazard ratio (aHR) = 1.29; 95% confidence interval (CI): 1.17–1.42]. LUTS was independently associated with an increased hip fracture risk in both men (aHR = 1.24; 95% CI: 1.08–1.42) and women (aHR = 1.34; 95% CI: 1.18–1.53) (p for interaction = 0.557). Similarly, the subgroup effect of age on hip fracture risks was not found (p for interaction = 0.665). Conclusion: The study found LUTS was associated with an increased risk of hip fracture. Large-scale prospective studies in diverse populations are required to investigate causalities.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Hip Fracture in People with Erectile Dysfunction: A Nationwide Population-Based Cohort Study",
+      "url": "https://doi.org/10.1371/journal.pone.0153467",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0153467",
+      "abstract": "The aims of this study were to investigate the risk of hip fracture and contributing factors in patients with erectile dysfunction(ED). This population-based study was performed using the Taiwan National Health Insurance Research Database. The analysis included4636 patients aged ≥ 40 years who had been diagnosed with ED (International Classification of Diseases, Ninth Revision, Clinical Modification codes 302.72, 607.84) during 1996–2010. The control group included 18,544 randomly selected age-matched patients without ED (1:4 ratio). The association between ED and hip fracture risk was estimated using a Cox proportional hazard regression model. During the follow-up period, 59 (1.27%) patients in the ED group and 140 (0.75%) patients in the non-ED group developed hip fracture. After adjusting for covariates, the overall incidence of hip fracture was 3.74-times higher in the ED group than in the non-ED group (2.03 vs. 0.50 per 1000 person-years, respectively). The difference in the overall incidence of hip fracture was largest during the 3-year follow-up period (hazard ratio = 7.85; 95% confidence interval = 2.94–20.96; P <0.0001). To the best of our knowledge, this nationwide population-based study is the first to investigate the relationship between ED and subsequent hip fracture in an Asian population. The results showed that ED patients had a higher risk of developing hip fracture. Patients with ED, particularly those aged 40–59 years, should undergo bone mineral density examinations as early as possible and should take measures to reduce the risk of falls.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The clinical diagnosis of osteoporosis: a position statement from the National Bone Health Alliance Working Group",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988515/",
+      "publisher": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+      "year": "2014",
+      "doi": "10.1007/s00198-014-2655-z",
+      "abstract": "Unlabelled Osteoporosis causes an elevated fracture risk. We propose the continued use of T-scores as one means for diagnosis but recommend that, alternatively, hip fracture; osteopenia-associated vertebral, proximal humerus, pelvis, or some wrist fractures; or FRAX scores with ≥3% (hip) or 20% (major) 10-year fracture risk also confer an osteoporosis diagnosis. Introduction Osteoporosis is a common disorder of reduced bone strength that predisposes to an increased risk for fractures in older individuals. In the USA, the standard criterion for the diagnosis of osteoporosis in postmenopausal women and older men is a T-score of ≤ -2.5 at the lumbar spine, femur neck, or total hip by bone mineral density testing. Methods Under the direction of the National Bone Health Alliance, 17 clinicians and clinical scientists were appointed to a working group charged to determine the appropriate expansion of the criteria by which osteoporosis can be diagnosed. Results The group recommends that postmenopausal women and men aged 50 years should be diagnosed with osteoporosis if they have a demonstrable elevated risk for future fractures. This includes having a T-score of less than or equal to -2.5 at the spine or hip as one method for diagnosis but also permits a diagnosis for individuals in this population who have experienced a hip fracture with or without bone mineral density (BMD) testing and for those who have osteopenia by BMD who sustain a vertebral, proximal humeral, pelvic, or, in some cases, distal forearm fracture. Finally, the term osteoporosis should be used to diagnose individuals with an elevated fracture risk based on the World Health Organization Fracture Risk Algorithm, FRAX. Conclusions As new ICD-10 codes become available, it is our hope that this new understanding of what osteoporosis represents will allow for an appropriate diagnosis when older individuals are recognized as being at an elevated risk for fracture.",
+      "licence": "cc by-nc",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.16,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Mortality following Hip Fracture in Men with Prostate Cancer",
+      "url": "https://doi.org/10.1371/journal.pone.0074492",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0074492",
+      "abstract": "Background: Hip fractures are associated with increased mortality and are a known adverse effect of androgen deprivation therapy (ADT) for prostate cancer (PCa). It was our aim to evaluate how mortality after hip fracture is modified by PCa and ADT. Methods: PCa dataBase Sweden (PCBaSe 2.0) is based on the National PCa Register and also contains age and county-matched PCa-free men. We selected all men (n = 14,205) who had been hospitalized with a hip fracture between 2006 and 2010; 2,300 men had a prior PCa diagnosis of whom 1,518 (66%) were on ADT prior to date of fracture. Risk of death was estimated with cumulative incidence and standardized mortality ratios (SMRs) to make comparisons with the entire PCa population and the general population. Results: Cumulative incidences indicated that there was a higher risk of death following a hip fracture for PCa men on ADT than for PCa men not on ADT or PCa-free men, particularly in the first year. The SMRs showed that PCa men on ADT with a hip fracture were 2.44 times more likely to die than the comparison cohort of all PCa men (95%CI: 2.29-2.60). This risk was especially increased during the first month (5.64 (95%CI: 4.16–7.48)). In absolute terms, hip fractures were associated with 20 additional deaths per 1,000 person-years in PCa men not on ADT, but 30 additional deaths per 1,000 person-years for PCa men on ADT, compared to all PCa men. Conclusion: Hip fractures are associated with higher all-cause mortality in PCa men on ADT than in PCa men not on ADT or PCa-free men, especially within the first three months.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.12,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Mortality and cause of death in hip fracture patients aged 65 or older: a population-based study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3118151/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2011",
+      "doi": "10.1186/1471-2474-12-105",
+      "abstract": "Background The high mortality of hip fracture patients is well documented, but sex- and cause-specific mortality after hip fracture has not been extensively studied. The purpose of the present study was to evaluate mortality and cause of death in patients after hip fracture surgery and to compare their mortality and cause of death to those in the general population. Methods Records of 428 consecutive hip fracture patients were collected on a population-basis and data on the general population comprising all Finns 65 years of age or older were collected on a cohort-basis. Cause of death was classified as follows: malignant neoplasms, dementia, circulatory disease, respiratory disease, digestive system disease, and other. Results Mean follow-up was 3.7 years (range 0-9 years). Overall 1-year postoperative mortality was 27.3% and mortality after hip fracture at the end of the follow-up was 79.0%. During the follow-up, age-adjusted mortality after hip fracture surgery was higher in men than in women with hazard ratio (HR) 1.55 and 95% confidence interval (95% CI) 1.21-2.00. Among hip surgery patients, the most common causes of death were circulatory diseases, followed by dementia and Alzheimer's disease. After hip fracture, men were more likely than women to die from respiratory disease, malignant neoplasm, and circulatory disease. During the follow-up, all-cause age- and sex-standardized mortality after hip fracture was 3-fold higher than that of the general population and included every cause-of-death category. Conclusion During the study period, the risk of mortality in hip fracture patients was 3-fold higher than that in the general population and included every major cause of death.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.04,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The Epidemic of Hip Fractures: Are We on the Right Track?",
+      "url": "https://doi.org/10.1371/journal.pone.0022227",
+      "publisher": "PLoS ONE",
+      "year": "2011",
+      "doi": "10.1371/journal.pone.0022227",
+      "abstract": "Background: Hip fractures are a public health problem, leading to hospitalization, long-term rehabilitation, reduced quality of life, large healthcare expenses, and a high 1-year mortality. Especially older adults are at greater risk of fractures than the general population, due to the combination of an increased fall risk and osteoporosis. The aim of this study was to determine time trends in numbers and incidence rates of hip fracture-related hospitalizations and admission duration in the older Dutch population. Methods and Findings: Secular trend analysis of all hospitalizations in the older Dutch population (≥65 years) from 1981 throughout 2008, using the National Hospital Discharge Registry. Numbers, age-specific and age-adjusted incidence rates (per 10,000 persons) of hospital admissions and hospital days due to a hip fracture were used as outcome measures in each year of the study. Between 1981 and 2008, the absolute number of hip fractures doubled in the older Dutch population. Incidence rates of hip fracture-related hospital admissions increased with age, and were higher in women than in men. The age-adjusted incidence rate increased from 52.0 to 67.6 per 10,000 older persons. However, since 1994 the incidence rate decreased (percentage annual change −0.5%, 95% CI: −0.7; −0.3), compared with the period 1981–1993 (percentage annual change 2.3%, 95% CI: 2.0; 2.7). The total number of hospital days was reduced by a fifth, due to a reduced admission duration in all age groups. A possible limitation was that data were obtained from a linked administrative database, which did not include information on medication use or co-morbidities. Conclusions: A trend break in the incidence rates of hip fracture-related hospitalizations was observed in the Netherlands around 1994, possibly as a first result of efforts to prevent falls and fractures. However, the true cause of the observation is unknown.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.04,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Hip Fracture Incidence in Relation to Age, Menopausal Status, and Age at Menopause: Prospective Analysis",
+      "url": "https://doi.org/10.1371/journal.pmed.1000181",
+      "publisher": "PLoS Medicine",
+      "year": "2009",
+      "doi": "10.1371/journal.pmed.1000181",
+      "abstract": "Using data from the UK Million Women Study, Emily Banks and colleagues investigate the relationships between the incidence of hip fracture and a woman's age, menopausal status, and age at menopause. Background: Bone mineral density is known to decrease rapidly after the menopause. There is limited evidence about the separate contributions of a woman's age, menopausal status and age at menopause to the incidence of hip fracture. Methods and Findings: Over one million middle-aged women joined the UK Million Women Study in 1996–2001 providing information on their menopausal status, age at menopause, and other factors, which was updated, where possible, 3 y later. All women were registered with the UK National Health Service (NHS) and were routinely linked to information on cause-specific admissions to NHS hospitals. 561,609 women who had never used hormone replacement therapy and who provided complete information on menopausal variables (at baseline 25% were pre/perimenopausal and 75% postmenopausal) were followed up for a total of 3.4 million woman-years (an average 6.2 y per woman). During follow-up 1,676 (0.3%) were admitted to hospital with a first incident hip fracture. Among women aged 50–54 y the relative risk (RR) of hip fracture risk was significantly higher in postmenopausal than premenopausal women (adjusted RR 2.22, 95% confidence interval [CI] 1.22–4.04; p = 0.009); there were too few premenopausal women aged 55 y and over for valid comparisons. Among postmenopausal women, hip fracture incidence increased steeply with age (p<0.001), with rates being about seven times higher at age 70–74 y than at 50–54 y (incidence rates of 0.82 versus 0.11 per 100 women over 5 y). Among postmenopausal women of a given age there was no significant difference in hip fracture incidence between women whose menopause was due to bilateral oophorectomy compared to a natural menopause (adjusted RR 1.20, 95% CI 0.94–1.55; p = 0.15), and age at menopause had little, if any, effect on hip fracture incidence. Conclusions: At around the time of the menopause, hip fracture incidence is about twice as high in postmenopausal than in premenopausal women, but this effect is short lived. Among postmenopausal women, age is by far the main determinant of hip fracture incidence and, for women of a given age, their age at menopause has, at most, a weak additional effect. : Please see later in the article for the Editors' Summary Background: Anyone can break a hip but most hip fractures occur in elderly people. As people age, their bones gradually lose minerals and become less dense, which weakens the bones and makes them more susceptible to fracture. Because women lose bone density faster than men as they age and because women constitute the majority of the elderly, three-quarters of hip fractures occur in women. Hip fractures can cause long-term health problems and premature death. Thus, although surgical repair of a broken hip usually only requires a hospital stay of about a week, a quarter of elderly people who were living independently before their fracture have to stay in a nursing home for at least a year after their injury and a fifth of elderly people who break a hip die within the year. Most hip fractures are caused by falls. Regular exercise to improve strength and balance combined with review of medicines (to reduce side effects and interactions), regular eye examinations, and the removal of fall hazards from the home can help to prevent hip fractures in elderly people. Why Was This Study Done?: Bone density decreases very rapidly in women immediately after menopause—the time when menstruation permanently stops—and then continues to decrease more slowly with age. Most women have their menopause in their early 50s but menopause can occur in younger women. Early menopause is thought to be a risk factor for osteoporosis (thinning of the bones) and fractures later in life but little is known about how menopause influences hip fracture risk as women age. In this prospective study (a type of study in which a group of people is followed for several years to see whether they develop a particular condition), the researchers investigate the incidence of hip fractures in relation to age, menopausal status, and age at menopause among the participants of the Million Women Study. This study, which recruited 1.3 million women aged 50–64 years who attended UK breast cancer screening clinics between 1996 and 2001, has been investigating how reproductive and lifestyle factors affect women's health. What Did the Researchers Do and Find?: At enrollment and three years later, the study participants provided information about their menopausal status and other health and lifestyle factors likely to affect their fracture risk. From these data, the researchers identified more than half a million women who had never used hormone replacement therapy (which reduces fracture risk) and who had given complete information about their menopausal status. They then looked for statistical associations between the occurrence of a first hip fracture in these women over the next few years and their age, menopausal status, and age at menopause. Among women aged 50–54 years, postmenopausal women were twice as likely to have a hip fracture as premenopausal women. Among postmenopausal women, the incidence of hip fractures increased steeply with age and was seven times higher in 70–74-year olds than in 50–54-year olds. Women who had their menopause before age 45 had a slightly increased risk of hip fracture but any effect of age at menopause on the risk of hip fracture was small compared to the effect of age itself, and the slightly increased risk may have been due to other factors that could not be fully accounted for in the analysis. What Do These Findings Mean?: These findings indicate that around the time of menopause, although hip fractures are rare, the risk of a fracture in postmenopausal women is twice that in premenopausal women. The findings also show that among postmenopausal women, age is the major determinant of hip fracture risk and that for women of a given age, their age at menopause has little effect on hip fracture risk. Women attending breast cancer screening clinics and completing questionnaires about their health may not be representative of the general population. Furthermore, these findings rely on women self-reporting their menopausal status accurately. Nevertheless, the results of this study suggest that clinicians advising women about hip fracture prevention should probably base their advice on the woman's age and on age-related factors such as frailty rather than on factors related to menopause. Clinicians can also now reassure elderly women who had an early menopause that their risk of hip fracture is unlikely to be higher than that of similar women who had a later menopause. Additional Information: Please access these Web sites via the online version of this summary at http://dx.doi.org/10.1371/journal.pmed.1000181.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effectiveness of a tele-rehabilitation intervention to improve performance and reduce morbidity for people post hip fracture - study protocol for a randomized controlled trial",
+      "url": "http://link.springer.com/article/10.1186/s12877-019-1141-z",
+      "publisher": "BMC Geriatrics",
+      "year": "2019",
+      "doi": "10.1186/s12877-019-1141-z",
+      "abstract": "Abstract Background Most surviving hip-fracture patients experience reduced mobility and lose some of their functional ability, which increases the risk of complications and rehospitalization. Post-discharge transitional programs to reduce readmissions and disabilities have shown some success. Telerehabilitation refers to the use of technologies to provide rehabilitation services to people in their homes. Considering the need for long-term follow-up care for people with hip fracture, in-home telerehabilitation could increase independence, decrease hospital stays and reduce the burden for caregivers. The objective of this study is to investigate the effectiveness of an intervention program based on telerehabilitation on activities of daily living (ADL), quality of life (QOL), depression and burden on caregivers compared to face-to-face home visits and usual care of community-dwelling older adults after hip fracture. Methods/design This will be a three-armed randomized control trial (RCT) including pre/post intervention and follow-up. The trial will include 90 older people with hip fractures who will be randomly assigned to a telerehabilitation group (N = 30), face-to-face visits (N = 30) and a control group. The aim of the intervention is to improve the transition from rehabilitation units to community dwelling. It will include 10 videoconferencing/ face-to-face sessions from an occupational therapist in the presence of the primary caregiver. Each session will be utilized to guide the participants to achieve their self-identified goals, focusing on problem-solving for daily life situations and on the ability to implement the discussed strategies for a variety of activities. Outcome measures include Functional Independence Measure (FIM) for evaluation of ADL, SF-12 for evaluation of Health-related QOL, The Geriatric Depression Scale (GDS) and The Zarit Caregiver Burden Scale. Data will be analyzed using Repeated measures MANOVA. Discussion The current study will enable the cost-effectiveness examination of a suggested rehabilitation service based on available technology. The proposed intervention will increase accessibility of in-home rehabilitation services, improve function and health, and reduce economic burden. Trial registration NCT03376750 (12/15/2017).",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.76,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Stress Hyperglycemia Ratio and Preoperative Acute Heart Failure in Elderly Hip Fracture Patients with Chronic Cerebrovascular Diseases",
+      "url": "https://www.dovepress.com/stress-hyperglycemia-ratio-and-preoperative-acute-heart-failure-in-eld-peer-reviewed-fulltext-article-CIA",
+      "publisher": "Clinical Interventions in Aging",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Mingming Fu,1 Aoying Min,2 Zhiyong Hou,3– 6 Zhiqian Wang21Department of Electromyography, Hebei Medical University Third Hospital, Shijiazhuang, Hebei, People’s Republic of China; 2Department of Geriatric Orthopedics, Hebei Medical University Third Hospital, Shijiazhuang, Hebei, People’s Republic of China; 3Department of Orthopaedic Surgery, Hebei Medical University Third Hospital, Shijiazhuang, Hebei, People’s Republic of China; 4Engineering Research Center of Orthopedic Minimally Invasive Intelligent Equipment, Ministry of Education, Shijiazhuang, Hebei, People’s Republic of China; 5Hebei Province Biomechanics Key Laboratory, Shijiazhuang, People’s Republic of China; 6NHC Key Laboratory of Intelligent Orthopedic Equipment, Hebei Medical University Third Hospital, Shijiazhuang, Hebei, People’s Republic of ChinaCorrespondence: Zhiqian Wang, Department of Geriatric Orthopedics, Hebei Medical University Third Hospital, Shijiazhuang, Hebei, 050051, People’s Republic of China, Email 37800709@hebmu.edu.cn; Zhiyong Hou, Department of Orthopaedic Surgery, Hebei Medical University Third Hospital, 050051, Shijiazhuang, Hebei, People’s Republic of China, Email drzyhou@hebmu.edu.cnBackground: The prognostic significance of the stress hyperglycemia ratio (SHR), calculated using admission blood glucose (ABG) and glycated hemoglobin (HbA1c), remains unclear in the context of perioperative complications associated with hip fractures. This study evaluates the association and predictive capability of the SHR for preoperative acute heart failure in hip fracture patients with chronic cerebrovascular disease.Methods and Results: A total of 515 patients were analyzed, revealing a 16.8% incidence of preoperative HF. Significant intergroup differences in age (P < 0.001), ASA classification (P < 0.001), coronary heart disease (P=0.025), serum albumin level (P < 0.001), and admission SHR (P=0.033) were identified between patients with and without preoperative heart failure. Logistic regression identified SHR, CHD, ASA, neutrophils, and hypoproteinemia as independent predictors of preoperative HF, leading to the development of a nomogram that demonstrated good predictive performance (AUC 0.72). Calibration curves and decision curve analysis indicated the model’s clinical utility. Machine learning algorithms, especially the XGBoost model, surpassed traditional models by achieving an AUC of 0.787, demonstrating excellent calibration and clinical applicability. SHAP analysis validated the stable contribution of SHR in risk prediction.Conclusions: This study highlights the SHR’s strong predictive ability for preoperative HF in hip fracture patients with chronic cerebrovascular disease. The XGBoost machine learning model could improve risk stratification and clinical decision-making for this at-risk group.Keywords: stress hyperglycemia ratio, hip fracture, heart failure, chronic cerebrovascular diseases, machine learning",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "5 The cost of surgical site infection (SSI) in hip fracture patients: a cost analysis using the Irish Hip Fracture Database",
+      "url": "https://hal.science/hal-05491082v1",
+      "publisher": "British Journal of Surgery",
+      "year": "2025",
+      "doi": "10.1093/bjs/znaf159.023",
+      "abstract": "Abstract Background In line with the forecasted increase in ageing of the Irish population, the number of hip fractures is expected to rise accompanied by associated complications. This highlights the growing need of value for money based interventions which requires a robust evidence base. Currently the literature on hip fracture related SSIs is limited; the aim of this study is to quantify the direct cost of in-hospital resources used to treat a surgical site infection (SSI) post hip fracture surgery in Ireland. Methods A micro-costing methodology was conducted of the direct cost of in-patient hospital resources used to treat a post hip fracture operation SSI. Utilising patient level data from the Irish Hip Fracture Database 2023 and cost data from the Health Service Executive (HSE). Costs were estimated for each SSI patient during their hospital admission and were reported by demographic and clinical subgroups to evaluate any disparities in healthcare outcomes and expenditure. In order to contextualise the analysis, the average in-patient SSI episode cost was compared to a patient episode corresponding to a major or a minor hip fracture using Irish specific Diagnostic Related Groups (DRGs). The data collected only relates to the acute hospital admission for hip fracture and not after discharge. Results In 2023, 16 patients had developed an SSI post hip fracture surgery. The total cost of SSI for all patients was €712 898 equating to an average of €44 556 per patient; the main cost can be attributed to the prolonged length of stay within this cohort with an average of 33.9 days. No notable cost disparities were apparent between the different SSI types. However, the mean average SSI cost for males was €35 418, females was 50 039, patients aged 80 years and over €49 712 and those aged under 80 years €33 213 suggesting the presence of discrepancies between different demographic sub-groups within the cohort. Conclusions For the first time, this study provides estimates of the burden of SSI for hip fracture patients in Ireland. Spending €712 898 on 16 patients highlights that SSI imposes a significant financial burden on the Irish healthcare system. For this patient cohort Ireland has a higher average treatment cost per person for hip fracture related SSIs than other countries which have published research evidence in this area. This is due to the patients' extended hospital length of stay which has been identified as the primary cost driver of SSI. This highlights the need to capture further data to fortify these results before their application is used to inform prevention and management of SSI.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Postoperative delirium is a risk factor of institutionalization after hip fracture: an observational cohort study",
+      "url": "https://ut-toulouseinp.hal.science/hal-04615976v1",
+      "publisher": "Frontiers in Medicine",
+      "year": "2023",
+      "doi": "10.3389/fmed.2023.1165734",
+      "abstract": "Introduction Hip fracture is a common clinical problem in geriatric patients often associated with poor postoperative outcomes. Postoperative delirium (POD) and postoperative neurocognitive disorders (NCDs) are particularly frequent. The consequences of these disorders on postoperative recovery and autonomy are not fully described. The aim of this study was to determine the role of POD and NCDs on the need for institutionalization at 3 months after hip fracture surgery. Method A population-based prospective cohort study was conducted on hip fracture patients between March 2016 and March 2018. The baseline interview, which included a Mini-Mental State Examination (MMSE), was conducted in the hospital after admission for hip fracture. NCDs were appreciated by MMSE scoring evolution (difference between preoperative MMSE and MMSE at day 5 >2 points). POD was evaluated using the Confusion Assessment Method. The primary endpoint was the rate of new institutionalization at 3 months. We used a multivariate analysis to assess the risk of new institutionalization. Results A total of 63 patients were included. Thirteen patients (20.6%) were newly institutionalized at 3 months. Two factors were significantly associated with the risk of postoperative institutionalization at 3 months: POD (OR = 5.23; 95% CI 1.1–27.04; p = 0.04) and IADL evolution (OR = 1.8; 95% CI 1.23–2.74; p = 0.003). Conclusion Only POD but not NCDs was associated with the risk of dependency and institutionalization after hip fracture surgery. The prevention of POD appears to be essential for improving patient outcomes and optimizing the potential for returning home.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Impact of orthogeriatric management on the average length of stay of patients aged over seventy five years admitted to hospital after hip fractures",
+      "url": "https://hal.science/hal-03226923v1",
+      "publisher": "International Orthopaedics",
+      "year": "2021",
+      "doi": "10.1007/s00264-020-04908-z",
+      "abstract": "Hip fracture is a frequent and serious condition in the elderly. We conducted a retrospective cohort study to answer the following questions: (1) Could treatment in an orthogeriatric unit help to reduce the average length of stay for patients aged over 75 years admitted to hospital for the treatment of a hip fracture?; and (2) Could such treatment influence the post-operative outcomes of patients with hip fracture?",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Is preoperative balloon aortic valvuloplasty of interest for severe aortic stenosis in hip fracture surgery?",
+      "url": "https://ut-toulouseinp.hal.science/hal-04354044v1",
+      "publisher": "Injury",
+      "year": "2021",
+      "doi": "10.1016/j.injury.2020.09.048",
+      "abstract": "Purpose: In elderly patients, the discovery and management of a severe aortic stenosis (AS) prior to emergency non-cardiac surgery is a frequent and controversial issue. The objective of this study was to evaluate preoperative balloon aortic valvuloplasty (BAV) for severe AS in hip fracture surgery.Methods: We conducted an observational, monocentric, retrospective study from 2011 to 2018. Survival (30-day, 90-day and 180-day mortality) and the occurrence of perioperative complications were analyzed and compared between control (i.e. no BAV prior to surgery) and preoperative BAV groups in patients with hip fracture surgery and a formal transthoracic echocardiographic diagnosis of severe AS (aortic valve area < 1 cm²). Patients' allocation to the intervention and control groups was after a discussion between cardiologist, anesthesiologist and the surgeon.Results: Among the 8506 patients who underwent hip fracture surgery, 29 patients in the control group and 30 patients in the BAV group were finally included. Kaplan-Meier survival analysis demonstrated a significant decrease in mortality in the BAV group (p=0.014) despite an increase in median time to operation of about 48 hours (p<0.0001). Multivariate analysis (stepwise logistic regression) showed that postoperative delirium (OR [95%CI]: 17.5 [1.8-168]; p=0.013) and postoperative acute congestive heart failure (OR [95%CI]: 59.4 [5.0-711.1]; p=0.0013) were predictive factors of 30-day mortality with an area under ROC curve of 0.90 (95%CI: 0.80-0.97; p<0.0001).Conclusions: preoperative BAV for severe AS could reduce the mortality of hip fracture patients despite an increase in time to operation. This improved survival could be linked to the decrease in cardiologic and neurologic adverse events. A larger prospective randomized study is necessary before generalizing our results.",
+      "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The global burden of falls: global, regional and national estimates of morbidity and mortality from the Global Burden of Disease Study 2017",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571347/",
+      "publisher": "Injury prevention : journal of the International Society for Child and Adolescent Injury Prevention",
+      "year": "2020",
+      "doi": "10.1136/injuryprev-2019-043286",
+      "abstract": "Background Falls can lead to severe health loss including death. Past research has shown that falls are an important cause of death and disability worldwide. The Global Burden of Disease Study 2017 (GBD 2017) provides a comprehensive assessment of morbidity and mortality from falls. Methods Estimates for mortality, years of life lost (YLLs), incidence, prevalence, years lived with disability (YLDs) and disability-adjusted life years (DALYs) were produced for 195 countries and territories from 1990 to 2017 for all ages using the GBD 2017 framework. Distributions of the bodily injury (eg, hip fracture) were estimated using hospital records. Results Globally, the age-standardised incidence of falls was 2238 (1990-2532) per 100 000 in 2017, representing a decline of 3.7% (7.4 to 0.3) from 1990 to 2017. Age-standardised prevalence was 5186 (4622-5849) per 100 000 in 2017, representing a decline of 6.5% (7.6 to 5.4) from 1990 to 2017. Age-standardised mortality rate was 9.2 (8.5-9.8) per 100 000 which equated to 695 771 (644 927-741 720) deaths in 2017. Globally, falls resulted in 16 688 088 (15 101 897-17 636 830) YLLs, 19 252 699 (13 725 429-26 140 433) YLDs and 35 940 787 (30 185 695-42 903 289) DALYs across all ages. The most common injury sustained by fall victims is fracture of patella, tibia or fibula, or ankle. Globally, age-specific YLD rates increased with age. Conclusions This study shows that the burden of falls is substantial. Investing in further research, fall prevention strategies and access to care is critical.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Osteosarcopenia: epidemiology, diagnosis, and treatment-facts and numbers",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7296259/",
+      "publisher": "Journal of cachexia, sarcopenia and muscle",
+      "year": "2020",
+      "doi": "10.1002/jcsm.12567",
+      "abstract": "Background Osteosarcopenia, the presence of osteopenia/osteoporosis and sarcopenia, is an emerging geriatric giant, which poses a serious global health burden. Methods and results The prevalence of osteosarcopenia ranges in community-dwelling older adults [5-37% (≥65 years)] with the highest rates observed in those with fractures (low-trauma fracture: ~46%; hip fracture: 17.1-96.3%). Among 2353 community-dwelling adults, risk factors associated with osteosarcopenia include older age [men: 14.3% (60-64 years) to 59.4% (≥75 years); women: 20.3% (60-64 years) to 48.3% (≥75 years), P Conclusions This syndrome is expected to grow in age-related and disease-related states, a likely consequence of immunosenescence coinciding with increased sedentarism, obesity, and fat infiltration of muscle and bone. Evidence suggests the pathophysiology of osteosarcopenia includes genetic polymorphisms, reduced mechanical loading, and impaired endocrine functioning, as well as altered crosstalk between muscle, bone, and fat cells. Clinicians should screen for osteosarcopenia via imaging methods (i.e. dual-energy X-ray absorptiometry) to quantify muscle and bone mass, in addition to assessing muscle strength (i.e. grip strength) and functional capacity (i.e. gait speed). A comprehensive geriatric assessment, including medical history and risk factors, must also be undertaken. Treatment of this syndrome should include osteoporotic drugs [bone anabolics/antiresorptives (i.e. teriparatide, denosumab, bisphosphates)] where indicated, and progressive resistance and balance exercises (at least 2-3 times/week). To maximize musculoskeletal health, nutritional recommendations [protein (1.2-1.5 g/kg/day), vitamin D (800-1000 IU/day), calcium (1300 mg/day), and creatine (3-5 g/day)] must also be met. It is anticipated that diagnosis and treatment for osteosarcopenia will become part of routine healthcare in the future. However, further work is required to identify biomarkers, which, in turn, may increase diagnosis, risk stratification, and targeted treatments to improve health outcomes.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Early surgery is feasible in patients with hip fractures who are on clopidogrel therapy",
+      "url": "https://aott.org.tr/index.php/pub/article/view/2976",
+      "publisher": "Acta Orthopaedica et Traumatologica Turcica",
+      "year": "2020",
+      "doi": "10.3944/AOTT.2015.14.0160",
+      "abstract": "Abstract Objective: Timing of surgery in hip fracture patients using antiplatelet agents is a controversial issue. Clopidogrel is an antiplatelet drug widely used in the treatment of many diseases. In this study, we aimed to investigate the outcomes of early surgery in hip fracture patients using clopidogrel. Methods: Elderly patients with femoral neck fractures who underwent open surgery between 2009 and 2014 were evaluated. Two hundred and eleven patients were included in the study. Patients were separated into 3 groups. Group 1 was constituted of patients using clopidogrel who had been operated on within 48 h after admission (n=74), Group 2 was constituted of patients using clopidogrel who had been operated on after the fifth day of admission (n=55), and Group 3 was constituted of patients not using clopidogrel who had been operated on within 48 h after admission (n=83). Length of hospital stay, amount of blood transfusion, rate of complication, and mortality rate were assessed for comparison of groups. Results: Age, sex, preoperative hemoglobin values, and ASA scores were not different between the groups. Amount of blood transfusions was higher in Group 1 (p=0.023). Duration of hospital stay was longer in Group 2 (p<0.01), as was complication rate (25.4%) (p<0.01). Mortality within 30 days and within the first 3 months post-surgery was significantly higher in Group 2 (p=0.031, p<0.01; respectively). Conclusion: Surgery should not be postponed in hip fracture patients using clopidogrel. Özet Amaç: Antiplatelet tedavi alırken kalça kırığı gelişen hastaların cerrahi mu¨dahale zamanlaması tartışmalı bir durumdur. Klopidogrel birçok hastalığın tedavisinde yaygın olarak kullanılan antiplatelet bir ilaçtır. Bu çalışmada klopidogrel tedavisi alırken kalça kırığı olan hastaların cerrahi mu¨dahale sonuçlarını karşılaştırmayı amaçladık. Çalışma planı: 2009 ile 2014 yılları arasında ileri yaş femur boyun kırığı nedeni ile açık cerrahi uygulanan hastalar geriye dönu¨k olarak tarandı. Çalışmaya 211 hasta dahil edildi. Hastalar; klopidogrel kullanan ve ilk 48 saat içinde opere edilenler (grup 1, 74 hasta), klopidogrel kullanan ve beşinci gu¨nden sonra opere edilen (grup 2, 55 hasta) ve herhangi bir antiagregan kullanmayan (grup 3, 82 hasta) olarak u¨ç gruba ayrıldı. Gruplar kan transfu¨zyon miktarı, yatış su¨resi, komplikasyon ve mortalite açısından karşılaştırıldı. Bulgular: Gruplar arasında yaş cinsiyet operasyon öncesi hemoglobin değerleri ve ASA skorları açısından anlamlı fark tespit edilemedi. Birinci gruptaki hastaların daha fazla kan transfu¨zyonu ihtiyacı oldu (p=0.023). İkinci grupta hastanede kalış su¨resi daha yu¨ksek idi (p<0.01) ve daha yu¨ksek oranda (%25.4) komplikasyon göru¨ldu¨ (p<0.01). İkinci gruptaki hastalarda ilk otuz gu¨n içinde ve ilk u¨ç ay içinde ölu¨m oranı diğer gruplara göre daha yu¨ksek bulundu (sırasıyla, p=0.031, p<0.01). Çıkarımlar: Kalça kırıklarında cerrahi mu¨dahale klopidogrel kullanan hastalarda ertelenmemelidir. DOI: 10.3944/AOTT.2015.14.0160 Bu özet, makalenin henüz redaksiyonu tamamlanmamış haline aittir ve bilgi verme amaçlıdır. Yayın aşamasında değişiklik gösterebilir.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "COVID-19 pandemic and hip fractures: impact and lessons learned",
+      "url": "https://online.boneandjoint.org.uk/doi/epdf/10.1302/2633-1462.19.BJO-2020-0116.R1",
+      "publisher": "Bone & Joint Open",
+      "year": "2020",
+      "doi": "10.1302/2633-1462.19.BJO-2020-0116.R1",
+      "abstract": "Aims: The coronavirus disease (COVID)-19 pandemic forced an unprecedented period of challenge to the NHS in the UK where hip fractures in the elderly population are a major public health concern. There are approximately 76,000 hip fractures in the UK each year which make up a substantial proportion of the trauma workload of an average orthopaedic unit. This study aims to assess the impact of the COVID-19 pandemic on hip fracture care service and the emerging lessons to withstand any future outbreaks. Methods: Data were collected retrospectively on 157 hip fractures admitted from March to May 2019 and 2020. The 2020 group was further subdivided into COVID-positive and COVID-negative. Data including the four-hour target, timing to imaging, hours to operation, anaesthetic and operative details, intraoperative complications, postoperative reviews, COVID status, Key Performance Indicators (KPIs), length of stay, postoperative complications, and the 30-day mortality were compiled from computer records and our local National Hip Fracture Database (NHFD) export data. Results: Hip fractures and inpatient falls significantly increased by 61.7% and 7.2% respectively in the 2020 group. A significant difference was found among the three groups regarding anaesthetic preparation time, anaesthetic time, and recovery time. The mortality rate in the 2020 COVID-positive group (36.8%) was significantly higher than both the 2020 COVID-negative and 2019 groups (11.5% and 11.7% respectively). The hospital stay was significantly higher in the COVID-positive group (mean of 24.21 days (SD 19.29)). Conclusion: COVID-19 has had notable effects on the hip fracture care service: hip fracture rates increased significantly. There were inefficiencies in theatre processes for which we have recommended the use of alternate theatres. COVID-19 infection increased the 30-day mortality and hospital stay in hip fractures. More research needs to be done to reduce this risk.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "One-year mortality rate after hip fracture in the western region of Saudi Arabia: A retrospective cohort study",
+      "url": "https://hal.science/hal-05321163v1",
+      "publisher": "Current Orthopaedic Practice",
+      "year": "2020",
+      "doi": "10.1097/BCO.0000000000000841",
+      "abstract": "Background: The mortality rate of elderly patients who sustain a hip fracture is high compared to the general population. Identifying risk factors can help predict patients at risk of hip fracture to reduce the mortality rate. No studies have shown the mortality rate of patients with hip fractures in the western region of Saudi Arabia. Therefore, this study aimed to identify the risk factors associated with the mortality of patients with hip fractures admitted to the King Abdulaziz Hospital and compare the results with other studies. Methods: The mortality rate (within 1 yr or less) in 177 patients over the age of 60 yr who were admitted to the university hospital between July, 2007, and September, 2012, with hip fractures was retrospectively studied. The patients were assessed with regard to gender, age, type of hip fracture, and type of surgical intervention. Results: The overall mortality rate 1 yr after hip fracture was 12.43%, and the mean age was 77.77 yr old. The risk factors most associated with mortality were as follows: advanced age (71 to 80 and 81 to 90 yr old), male, peritrochanteric (extracapsular) fracture, and operative fixation with dynamic hip screw. Conclusions: The mortality rate of patients with hip fractures within 1 yr has a high-risk potential, especially for male patients over 71 yr of age with peritrochanteric (extracapsular) fractures. Surgical treatment with dynamic hip screw also was shown to be a risk factor between the different treatment options. Level of Evidence: Level IV.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Tranexamic acid in hip fracture surgery: a randomized controlled trial.",
+      "url": "https://ujm.hal.science/ujm-00439705v1",
+      "publisher": "British Journal of Anaesthesia",
+      "year": "2009",
+      "doi": "10.1093/bja/aep314",
+      "abstract": "BACKGROUND: /st> Hip fracture surgery may be associated with substantial blood loss. This study was designed to assess the efficacy and safety of the use of tranexamic acid in hip fracture surgery for the reduction of erythrocyte transfusion. METHODS: /st> The study pertains to a randomized double-blind study with blinded adjudication of outcomes. Patients requiring surgery for an isolated hip fracture of less than 48 h received saline or tranexamic acid 15 mg kg(-1) given at skin incision and 3 h later. Primary efficacy outcome was erythrocyte transfusion from surgery up to day 8. Transfusion was administered according to a standardized protocol (Hb Fifty-seven patients were randomized to tranexamic acid and 53 to placebo. The rate of erythrocyte transfusion was 42% with tranexamic acid and 60% with placebo (P=0.06). Preoperative haemoglobin value, age, and type of surgery were risk factors for erythrocyte transfusion independent of treatment group. The probability of vascular events at 6 weeks was 16% in the tranexamic acid group and 6% in the placebo group (P=0.10). A meta-analysis combining this study with previous trials showed that tranexamic acid significantly reduced erythrocyte transfusion in hip fracture surgery although efficacy was lower than that observed in hip or knee arthroplasty. CONCLUSIONS: /st> In hip fracture surgery, tranexamic acid reduces erythrocyte transfusion but may promote a hypercoagulable state. Thus, further evaluation of safety is required before recommending the off-label use of tranexamic acid.",
+      "licence": "",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The use of Barthel index for the assessment of the functional recovery after osteoporotic hip fracture: One year follow-up.",
+      "url": "https://doi.org/10.1371/journal.pone.0212000",
+      "publisher": "PLoS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0212000",
+      "abstract": "The Barthel index evolution was analyzed in a sample of older people with osteoporotic hip fracture in order to verify the influence of comorbidities and cognitive impairment on the physical recovery of those patients, during the first year following the fracture. A prospective observational study was carried out between October 1, 2012 and March 31, 2013. A sample of 247 individuals was initially selected. After a primary revision, 39 participants were excluded (clearly not meeting inclusion criteria, lack of data, or not agree to participate in the study), and finally a total of 208 participants were included in the analysis, 166 women, with an average age of 84.59 years, and 42 men, with an average age of 82.05. 54.80% of all cases were older than 85 years. The mean Barthel index value prior to fracture was 76.63, decreasing to 64.91 at one-year follow-up. Only 22.12% of patients achieved a full recovery for activities of daily living. A statistical analysis was performed by comparing Barthel index recovery depending on the values of Charlson and Pfeiffer indexes, respectively. The mean differences in Barthel index drop between the one-year follow-up and the hospital admission values were found statistical significant (p<0.01). These findings indicate that Charlson and Pfeiffer indexes clearly influence the Barthel index recovery. Low values of Charlson and Pfeiffer indexes resulted in better Barthel index recovery. In conclusion, the Barthel index is a good tool to evaluate the physical recovery after osteoporotic hip fracture.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Posterior approach compared to direct lateral approach resulted in better patient-reported outcome after hemiarthroplasty for femoral neck fracture: 20,908 patients from the Norwegian Hip Fracture Register",
+      "url": "http://dx.doi.org/10.1080/17453674.2016.1250480",
+      "publisher": "Acta Orthopaedica",
+      "year": "2017",
+      "doi": "10.1080/17453674.2016.1250480",
+      "abstract": "Background and purpose — Hemiarthroplasty (HA) is the most common treatment for displaced femoral neck fractures in many countries. In Norway, there has been a tradition of using the direct lateral surgical approach, but worldwide a posterior approach is more often used. Based on data from the Norwegian Hip Fracture Register, we compared the results of HA operated through the posterior and direct lateral approaches regarding patient-reported outcome measures (PROMs) and reoperation rate. Patients and methods — HAs due to femoral neck fracture in patients aged 60 years and older were included from the Norwegian Hip Fracture Register (2005–2014). 18,918 procedures were reported with direct lateral approach and 1,990 with posterior approach. PROM data (satisfaction, pain, quality of life (EQ-5D), and walking ability) were reported 4, 12, and 36 months postoperatively. The Cox regression model was used to calculate relative risk (RR) of reoperation. Results — There were statistically significant differences in PROM data with less pain, better satisfaction, and better quality of life after surgery using the posterior approach than using the direct lateral approach. The risk of reoperation was similar between the approaches. Interpretation — Hemiarthroplasty for hip fracture performed through a posterior approach rather than a direct lateral approach results in less pain, with better patient satisfaction and better quality of life. The risk of reoperation was similar with both approaches.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Pre-operative urinary tract infection: is it a risk factor for early surgical site infection with hip fracture surgery? A retrospective analysis",
+      "url": "https://doi.org/10.1177/2054270416675083",
+      "publisher": "JRSM Open",
+      "year": "2017",
+      "doi": "10.1177/2054270416675083",
+      "abstract": "Objective The aims of the current study were to determine whether pre-operative urinary tract infections in patients presenting acutely with neck of femur fractures resulted in a delay to surgery and whether such patients were at increased risk of developing post-operative surgical site infections. Design A retrospective review of all patients presenting with a neck of femur fracture, at a single centre over a one-year period. The hospital hip fracture database was used as the main source of data. Setting UK University Teaching Hospital Participants All patients ( n = 460) presenting across a single year study period with a confirmed hip fracture. Outcome measures The presence of pre-operative urinary tract infection, the timing of surgical intervention, the occurrence of post-operative surgical site infection and the pathogens identified. Results A total of 367 patients were operated upon within 24 hours of admission. Urinary infections were the least common cause of delay. A total of 99 patients (21.5%) had pre-operative urinary tract infection. Post-operatively, a total of 57 (12.4%) patients developed a surgical site infection. Among the latter, 31 (54.4%) did not have a pre-operative urinary infection, 23 (40.4%) patients had a pre-operative urinary tract infection, 2 had chronic leg ulcers and one patient had a pre-operative chest infection. Statistically, there was a strong relationship between pre-operative urinary tract infection and the development of post-operative surgical site infection ( p -value: 0.0005). Conclusion The results of our study indicate that pre-operative urinary tract infection has a high prevalence amongst those presenting with neck of femur fractures, and this is a risk factor for the later development of post-operative surgical site infection.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Orthogeriatrics in Hip Fracture",
+      "url": "https://doi.org/10.2174/1874325001711011181",
+      "publisher": "Bentham Science Publishers Ltd.",
+      "year": "2017",
+      "doi": "10.2174/1874325001711011181",
+      "abstract": "Orthogeriatrics is a system of care for complex elderly patients who have suffered fragility fractures. This has resulted in demonstrable improvements in care for patients with hip fracture. The article includes a review of the early history of orthogeriatrics as well as current concepts in orthogeriatric care including the use of national databases, audit and important aspects of clinical care such as analgesia, perioperative decision making, ceilings of care and rehabilitation.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Outcomes After Hip Fracture Surgery Compared With Elective Total Hip Replacement",
+      "url": "https://hal.science/hal-01545509v1",
+      "publisher": "Journal of the American Medical Association",
+      "year": "2015",
+      "doi": "10.1001/jama.2015.10842",
+      "abstract": "IMPORTANCE Patients undergoing surgery for a hip fracture have a higher risk of mortality and major complications compared with patients undergoing an elective total hip replacement (THR) operation. The effect of older age and comorbidities associated with hip fracture on this increased perioperative risk is unknown. OBJECTIVE To determine if there was a difference in hospital mortality among patients who underwent hip fracture surgery relative to an elective THR, after adjustment for age, sex, and preoperative comorbidities. DESIGN, SETTING, AND PARTICIPANTS Using the French National Hospital Discharge Database from January 2010 to December 2013, patients older than 45 years undergoing hip surgery at French hospitals were included. The International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10), codes were used to determine patients' comorbidities and complications after surgery. A population matched for age, sex, and preoperative comorbidities of patients who underwent elective THR or hip fracture surgery was created using a multivariable logistic model and a greedy matching algorithm with a 1: 1 ratio. EXPOSURE Hip fracture. MAIN OUTCOMES AND MEASURES Postoperative in-hospital mortality. RESULTS A total of 690 995 eligible patients were included from 864 centers in France. Patients undergoing elective THR surgery (n = 371 191) were younger, more commonly men, and had less comorbidity compared with patients undergoing hip fracture surgery. Following hip fracture surgery (n = 319 804), 10 931 patients (3.42%) died before hospital discharge and 669 patients (0.18%) died after elective THR. Multivariable analysis of the matched populations (n = 234 314) demonstrated a higher risk of mortality (1.82% for hip fracture surgery vs 0.31% for elective THR; absolute risk increase, 1.51% [95% CI, 1.46%-1.55%]; relative risk [RR], 5.88 [95% CI, 5.26-6.58]; P <.001) and of major postoperative complications (5.88% for hip fracture surgery vs 2.34% for elective THR; absolute risk increase, 3.54%[95% CI, 3.50%-3.59%]; RR, 2.50 [95% CI, 2.40-2.62]; P <.001) among patients undergoing hip fracture surgery. CONCLUSIONS AND RELEVANCE In a large cohort of French patients, hip fracture surgery compared with elective THR was associated with a higher risk of in-hospital mortality after adjustment for age, sex, and measured comorbidities. Further studies are needed to define the causes for these differences.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Non-sedentary Lifestyle Can Reduce Hip Fracture Risk among Older Caucasians Adults: The Adventist Health Study-2",
+      "url": "https://hal.science/hal-05502163v1",
+      "publisher": "British Journal of Medicine and Medical Research",
+      "year": "2015",
+      "doi": "",
+      "abstract": "Aims: The beneficial effect of physical activity on reducing hip fracture risk has been supported in many previous studies. The present cohort study explores the relationship between total daily physical activity expressed as MET-hour/day and hip fracture risk among men over 50 years of age and postmenopausal women (n=22,836). Methodology: Associations between self-reported hip fracture incidence and total daily physical activity and selected lifestyle factors were assessed using Cox proportional hazard regression. Results: In gender-specific multivariable models, total activity above average (≥ 51 MET-hours per day for men, ≥ 48 MET-hours per day for women) compared to those with sedentary lifestyle (< 40 MET-hours per day) reduced the risk of hip fracture by 60% among men (HR=0.40, 95%CI: 0.23-0.70) (Ptrend=0.002) and 48% among women (HR=0.52, 95%CI: 0.32-0.84) (Ptrend=0.01). Conclusion: Our findings suggest that a moderate level of physical activity and avoiding a sedentary lifestyle can reduce the risk of hip fracture among the elderly.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Combined Spinal-epidural Anesthesia for Hip Fracture Surgery in Two Geriatric Patients with Low Ejection Fractions",
+      "url": "https://hal.science/hal-05497354v1",
+      "publisher": "British Journal of Medicine and Medical Research",
+      "year": "2015",
+      "doi": "",
+      "abstract": "Aims: To present the combined spinal-epidural anesthesia and postoperative analgesia in two geriatric patients, with low Ejection Fractions (EF) that underwent hip fracture surgery. Presentation of Case: Herein, 90 and 106-years-old geriatric patients respectively, with low ejection fractions were admitted to the orthopaedic ward because of hip fracture. These patients were planned to undergo hip prosthesis surgery. Anesthesia and postoperative analgesia were achieved by Combined Spinal-Epidural (CSE) techniques in both patients. We observed that spinal anesthesia using low dose hyperbaric bupivacaine with fentanyl was an effective and safe method, and post-surgical patient controlled analgesia via an epidural catheter provided sufficient pain control for 48 h. Discussion: In older patients with hip fracture, comorbidities such as cardiac disease increase the risk of perioperative morbidity and mortality. Individuals that undergo hip prosthesis surgery are usually geriatric patients, and comorbidities can increase their risk of perioperative morbidity and mortality during surgery. Regional anaesthesia techniques are widely utilized for surgical procedures (especially obstetrics, orthopaedics, urology, general surgery) and pain management, and they are known to have favourable effects on the vital signs and endocrine and metabolic responses after the operation compared with those of general anesthesia. In addition, regional anaesthesia is preferable because of its superior results in relation to postoperative pain control. Conclusion: Combined spinal epidural anaesthesia with low-dose hyperbaric bupivacaine and fentanyl in hip fracture surgery is a safe and efficient method when used in geriatric patients with low EF. In addition, we find that patient controlled epidural analgesia is a considerably effective technique in postoperative pain management.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Prediction of 30-Day Mortality after a Hip Fracture Surgery Using Neural and Bayesian Networks",
+      "url": "https://inria.hal.science/hal-01391361v1",
+      "publisher": "HAL open archive",
+      "year": "2014",
+      "doi": "10.1007/978-3-662-44654-6_56",
+      "abstract": "Osteoporotic hip fractures have a significant morbidity and excess mortality among the elderly and have imposed huge health and economic burdens on societies worldwide. A medical database of 349 patients that have been operated for hip fracture has been analyzed. Two models of data were used in Multi-Layer Perceptrons, Radial Basis Function and Naïve Bayes networks, in order to predict the 30-day mortality after a hip fracture surgery and also to investigate which is the most appropriate risk factor between the New Mobility Score and Institution factor for the Greek population. The proposed method may be used as a screening tool that will assist orthopedics in the surgery of the hip fracture according to each different patient.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Subsequent Hip Fracture in Osteoporotic Hip Fracture Patients",
+      "url": "https://doi.org/10.3349/ymj.2012.53.5.1005",
+      "publisher": "Yonsei University College of Medicine",
+      "year": "2012",
+      "doi": "10.3349/ymj.2012.53.5.1005",
+      "abstract": "A significant number of patients who have experienced previous surgical treatment for an osteoporotic hip fracture experience a subsequent hip fracture (SHF) on the opposite side. This study aims to analyze the risk factors and the correlation between osteoporosis and SHF on the opposite side in order to assess the usefulness of bisphosphonate treatment for the prevention of SHFs.We included 517 patients treated from March 1997 to April 2009 in this study. The inclusion criteria included previous unilateral hip fracture, without osteoporotic treatment, and a T-score less than -3.0 at the time of the fracture. We studied these patients in terms of death, SHF, alcoholism, living alone, dementia, dizziness, health status, osteoporotic treatment after fracture and bone mineral density (BMD). In total, 34 patients experienced a SHF. We selected another 34 patients without a SHF who had similar age, sex, body mass index, BMD, diagnosis, treatment and a follow up period for a matched pair study. We compared these two groups. The average follow up was 8.3 years and 8.1 years, respectively.The mortality rate of the 517 patients was 138 (27%). The BMD at the time of fracture demonstrated no statistical difference between the two groups (p>0.05). Nine patients (26%) within the SHF group were prescribed Risedronate and 18 patients (53%) received the same treatment in the non-SHF group. There was a statistical relationship with the treatment of osteoporosis (p=0.026). The average BMD of patients with SHF was -5.13 and -5.02 in patients without SHF was (p>0.05).Although primary surgical treatments are important for an excellent outcome in osteoporotic hip fractures, treatment of osteoporosis itself is just as important for preventing SHFs.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Reoperations of hip fractures",
+      "url": "https://doi.org/10.3109/17453678508992969",
+      "publisher": "MJS Publishing, Medical Journals Sweden AB",
+      "year": "1985",
+      "doi": "10.3109/17453678508992969",
+      "abstract": "The incidence and type of reoperations after osteosynthesis of cervical and trochanteric femoral fractures in the city of Göteborg, Sweden was studied from 1965 through 1981. The yearly incidence of reoperations decreased for both types of fractures over the years. Reoperations after cervical fractures were frequent, occurring in about 30 per cent. There were few reoperations after trochanteric fractures on the other hand, 3.6 per cent in 1981. Arthroplasties comprised the greatest number of reoperations, with a fairly constant relative frequency of about 18 per cent during the study period.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Incidence of hip Fractures",
+      "url": "https://doi.org/10.3109/17453678008990833",
+      "publisher": "Medical Journals Sweden AB",
+      "year": "1980",
+      "doi": "10.3109/17453678008990833",
+      "abstract": "The incidence of hip fractures in the period 1971-1976 was calculated. The overall incidence was about 3 per thousand above the age of 50 years and about 20 per thousand above the age of 80 years. Hip fractures were twice as prevalent in females as in males and the incidence was found to double for each 5-year increment in age. The percentage of femoral neck fractures decreased with age in females but was constant in males.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Epidemiology of Hip Fractures",
+      "url": "https://doi.org/10.1093/oxfordjournals.epirev.a017956",
+      "publisher": "Oxford University Press (OUP)",
+      "year": "1997",
+      "doi": "10.1093/oxfordjournals.epirev.a017956",
+      "abstract": "Hip fractures are the most serious osteoporotic fracture at both an individual and population level. In the United States alone there are over 250,000 hip fractures each year (1), costing at least 5.4 billion dollars annually (2). About 20 percent of persons who fracture their hip are dead within a year (3, 4) and, of the survivors, many never regain their prefracture level of physical function (5, 6).",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A dimensão do cuidado do pós operatório de fratura de fêmur em idosos: uma revisão integrativa",
+      "url": "https://periodicos.unoesc.edu.br/evidencia/article/view/34645",
+      "publisher": "Evidência",
+      "year": "2024",
+      "doi": "",
+      "abstract": "Trata-se de uma revisão integrativa que busca enumerar e compreender pelas revisões de literatura as circunstâncias que permeiam o pós-operatório da fratura de fêmur. A revisão do processo baseou-se nas recomendações da lista de conferência do Rayyan Enterprise, Faster Sistematic Review. Foram examinados artigos publicados entre 2010 e 2023 que fizessem estudo qualitativo relacionado à fratura de quadril em idosos. As buscas ocorreram em agosto nas bases de dados Pubmed, MEDLINE, Scopus e Capes. A seleção compreendeu três etapas: busca, pré-seleção e inclusão de artigos. Foram utilizados os seguintes descritores em ciências da saúde (DeCS): (hip fracture) AND (elderly) AND (qualitative). Foram identificados 41 artigos nas bases de dados pesquisadas através das estratégias de busca. Após leitura dos títulos e resumos, 25 artigos foram considerados potencialmente elegíveis para inclusão no estudo e foram recuperados para leitura na íntegra. Após a leitura completa, os 9 artigos foram selecionados mediante aplicação dos critérios de inclusão e exclusão estabelecido. O pós-operatório da fratura de fêmur em idosos é um momento frágil que gera a experiência de uma nova rotina e a incerteza de uma recuperação de suas atividades fisiológicas do passado. A concepção dos profissionais de saúde e cuidadores são decisivos para sua melhor recuperação.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Sarcopenia and Balance in Community-dwelling Women with Postmenopausal Osteoporosis",
+      "url": "\nhttp://behmedicalbulletin.org/archives/archive-detail/article-preview/sarcopenia-and-balance-in-community-dwelling-women/47537\n",
+      "publisher": "Bagcilar Medical Bulletin",
+      "year": "2021",
+      "doi": "10.4274/BMB.galenos.2021.03.034",
+      "abstract": "Objective:Sarcopenia and osteoporosis share common risk factors and biological pathways. In the present study, patients with postmenopausal osteoporosis were screened for sarcopenia using the algorithm proposed by the European Working Group on Sarcopenia in Older People (EWGSOP) and balance impairment was investigated in sarcopenic patients.Method:Fifty three postmenopausal osteoporotic patients were evaluated for sarcopenia as per the algorithm proposed by the EWGSOP. Among the parameters included in the algorithm, gait speed was assessed using the timed up&go test (TUG), Jamar hand dynamometer was used to measure grip strength and calf circumference (an anthropometric method) was used for the measurement of muscle mass. Balance was assessed using the Berg balance scale and functional abilities using the TUG.Results:Fifty three postmenopausal patients with osteoporosis with a mean age of 65.48±9.12 years (range 47-84) were enrolled in the study. Sixteen patients (30.2%) reported a fall within the previous year, 22 patients (41.5%) had a history of fracture and 17 patients (32.1%) had maternal history of hip fracture. Sarcopenia was present in 8 (15.1%) patients. There was no significant difference between balance measurements of sarcopenic and non-sarcopenic patients (p>0.05). Only muscle mass showed a positive weak correlation and a significant association with balance (r=0.28, p<0.05).Conclusion:Despite low rate of balance impairment, most of our patients had a history of fracture. Balance is not the only risk factor for falls in postmenopausal patients. The use of anthropometry as a screening tool and usage of more objective methods for definitive diagnosis provide more accurate data for the measurement of muscle mass.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "One-Year Mortality Rates Before and After Implementing Quality-Improvement Initiatives to Prevent Inpatient Falls (2012–2016)",
+      "url": "http://www.mdpi.com/2308-3417/3/1/9",
+      "publisher": "Geriatrics",
+      "year": "2018",
+      "doi": "10.3390/geriatrics3010009",
+      "abstract": "Single-room ward design has previously been associated with increased risk of inpatient falls and adverse outcomes. However, following quality initiatives, the incidence of inpatient falls has shown a sustained reduction. Benefits have also been observed in the reduction of hip fractures. However, one-year mortality trends have not been reported. The aim of this observational study is to report the trends in one-year mortality rates before and after implementing quality-improvement initiatives to prevent inpatient falls over the last 5 years (2012–2016). This retrospective observational study was conducted for all patients who had sustained an inpatient fall between January 2012 and December 2016. All the incident reports in DATIX patient-safety software which were completed for each inpatient fall were studied, and the clinical information was extracted from Clinical Work Station software. Mortality data were collected on all patients for a minimum of one year following the discharge from the hospital. The results show that 95% patients were admitted from their own homes; 1704 patients had experienced 3408 incidents of an inpatient fall over 5 years. The mean age of females (82.61 ± 10.34 years) was significantly higher than males (79.36 ± 10.14 years). Mean falls/patient = 2.0 ± 2.16, range 1–33). Mean hospital stay was 45.43 ± 41.42 days. Mean hospital stay to the first fall was 14.5 ± 20.79 days, and mean days to first fall prior to discharge was 30.8 ± 34.33 days. The results showed a significant and sustained reduction in the incidence of inpatient falls. There was a downward trend in the incidence of hip fractures over the last two years. There was no significant difference in the inpatient and 30-day mortality rate over the last five years. However, mortality trends appear to show a significant downward trend in both six-month and one-year mortality rates over the last two years following the implementation of quality initiatives to prevent inpatient falls. A significant reduction in the incidence of inpatient falls following quality initiatives initially has been observed, followed by a downward trend in the incidence of hip fractures. We have just started to observe a significant reduction in the 6-month and one-year mortality. We propose prompt completion of multifactorial falls risk assessments, and every possible quality initiative should be taken to prevent a ‘first inpatient fall’, which should result in the sustained improvement of clinical outcomes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Therapy: Risks associated with chronic PPI use — signal or noise?",
+      "url": "https://zenodo.org/records/895402",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.1038/nrgastro.2016.44",
+      "abstract": "Chronic kidney disease has joined the growing list (pneumonia, myocardial infarction, hip fracture, Clostridium difficile infections, acute interstitial nephritis, hypomagnesaemia) of putative risks associated with chronic PPI use based on results from an observational epidemiological study. However, the low hazard ratio (<1.5) makes it doubtful that this association is a causal relationship.",
+      "licence": "other-open",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "FRAX and the assessment of fracture probability in men and women from the UK",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2267485/",
+      "publisher": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+      "year": "2008",
+      "doi": "10.1007/s00198-007-0543-5",
+      "abstract": "Unlabelled A fracture risk assessment tool (FRAX) is developed based on the use of clinical risk factors with or without bone mineral density tests applied to the UK. Introduction The aim of this study was to apply an assessment tool for the prediction of fracture in men and women with the use of clinical risk factors (CRFs) for fracture with and without the use of femoral neck bone mineral density (BMD). The clinical risk factors, identified from previous meta-analyses, comprised body mass index (BMI, as a continuous variable), a prior history of fracture, a parental history of hip fracture, use of oral glucocorticoids, rheumatoid arthritis and other secondary causes of osteoporosis, current smoking, and alcohol intake 3 or more units daily. Methods Four models were constructed to compute fracture probabilities based on the epidemiology of fracture in the UK. The models comprised the ten-year probability of hip fracture, with and without femoral neck BMD, and the ten-year probability of a major osteoporotic fracture, with and without BMD. For each model fracture and death hazards were computed as continuous functions. Results Each clinical risk factor contributed to fracture probability. In the absence of BMD, hip fracture probability in women with a fixed BMI (25 kg/m(2)) ranged from 0.2% at the age of 50 years for women without CRF's to 22% at the age of 80 years with a parental history of hip fracture (approximately 100-fold range). In men, the probabilities were lower, as was the range (0.1 to 11% in the examples above). For a major osteoporotic fracture the probabilities ranged from 3.5% to 31% in women, and from 2.8% to 15% in men in the example above. The presence of one or more risk factors increased probabilities in an incremental manner. The differences in probabilities between men and women were comparable at any given T-score and age, except in the elderly where probabilities were higher in women than in men due to the higher mortality of the latter. Conclusion The models provide a framework which enhances the assessment of fracture risk in both men and women by the integration of clinical risk factors alone and/or in combination with BMD.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

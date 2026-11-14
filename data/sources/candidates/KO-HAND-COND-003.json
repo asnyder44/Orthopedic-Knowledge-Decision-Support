@@ -1,0 +1,763 @@
+{
+  "term": "Trigger Finger",
+  "collected": "2026-11-14",
+  "count": 42,
+  "candidates": [
+    {
+      "provider": "medlineplus",
+      "title": "Finger Injuries and Disorders",
+      "url": "https://medlineplus.gov/fingerinjuriesanddisorders.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "You use your fingers and thumbs to do everything from grasping objects to playing musical instruments to typing. When there is something wrong with them, it can make life difficult. Common problems include: Injuries that result in fractures (broken bones), ruptured ligaments and dislocations Osteoarthritis - wear-and-tear arthritis. It can also cause deformity. Tendinitis - irritation of the tendons Dupuytren's contracture - a hereditary thickening of the tough tissue that lies just below the skin of your palm. It causes the fingers to stiffen and bend. Trigger finger - an irritation of the sheath that surrounds the flexor tendons. It can cause the tendon to catch and release like a trigger .",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Relative motion splints versus metacarpophalangeal joint blocking splints in the management of trigger finger: Study protocol for a randomized comparative trial",
+      "url": "https://doi.org/10.1371/journal.pone.0307033",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0307033",
+      "abstract": "Background: Evidence supports the use of hand-based metacarpophalangeal joint (MCPJ) blocking splints as an intervention for trigger finger (TF). In practice, finger-based relative motion (RM) splints are also implemented without evidence. Purpose: This randomized comparative trial (RCT) aims to evaluate implementation of MCPJ blocking and RM splints for effectiveness, function, occupational performance and wearability after 6 weeks of TF management. Methods and analysis: Priori analysis determined 36 individuals were needed for random assignment to the RM or MCPJ blocking splint groups. Individuals must be aged ≥21 years, and diagnosed with TF involving ≥1 finger. For blinding purposes, the primary author screens for eligibility, fabricates the splints and educates. Therapist A administers the primary outcome measures Week-1 and Week-6—stage of stenosing tenosynovitis and secondary outcome measures- number of triggering events in 10 active fists, visual analog scales (VAS) for pain, splint comfort and satisfaction, Disabilities of the Arm, Shoulder and Hand, and Canadian Occupational Performance Measure. Therapist B in Week-3 instructs participants in deep tissue massage and administers splint wearability VASs. The RM pencil test is used to determine the affected finger(s) MCPJ splint position i.e., more extension or flexion based on participant response. The MCPJ blocking splint holds the MCPJ in a neutral position. Analysis involves a mixed-effects ANOVA to compare Week-1 and Week-6 primary and secondary outcomes. Results: Recruitment and data collection are ongoing. Discussion: Biomechanically RM splints control tendon excursion and reduce passive tendon tension while allowing unencumbered finger motion and hand function. Hence clinicians use RM splints as an intervention for TF, despite the lack of implementation evidence. This RCT implements a function-focused as well as patient-centered approach with partial blinding of assessors and participants. Conclusion: We anticipate that this study will provide evidence for the implementation of RM splints to manage adults with TF. Trial registration: Clinical trial registration This trial is registered with ClinicalTrials.gov (NCT05763017).",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.96,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Conservative management of trigger finger with steroid injections: A narrative literature review",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2773157X25003029",
+      "publisher": "Journal of Orthopaedic Reports",
+      "year": "2026",
+      "doi": "10.1016/j.jorep.2025.100850",
+      "abstract": "Objective: Trigger finger (stenosing flexor tenosynovitis) is a common cause of painful digital locking and functional impairment. Corticosteroid injection is the most widely used nonoperative treatment, though its effectiveness varies depending on patient and disease characteristics. This narrative literature review synthesizes findings from 33 studies evaluating corticosteroid injection outcomes, predictors of success and failure, comparisons with other nonoperative treatments, variations in injection technique and dosage, repeat injection efficacy, and rates of surgical progression. Methods: A structured PubMed search was performed on September 1, 2025 to identify articles related to the outcomes of first and repeat injections for the treatment of trigger finger. The search yielded 92 articles, with 33 deemed relevant after title and abstract screening and backward citation searching. Results: Reported success rates for initial injection ranged from 45 % to 80 %, with repeat injections achieving long-term relief in approximately 39 % of cases. Predictors of reduced success included multiple digit involvement, advanced disease stage, and metabolic syndrome. Notably, diabetes alone was not consistently associated with poorer outcomes. Higher corticosteroid doses (20 mg triamcinolone) improved short-term response (3 and 6 months), but long-term differences diminished with regard to this dose-dependent improvement effect (near equivalent with 5 mg, 10 mg triamcinolone at one year). While surgical release remains the most definitive treatment, corticosteroid injections provide a safe and cost-effective first-line therapy for most adults with trigger finger. Conclusion: Corticosteroid injection is an effective and safe first-line therapy for adult trigger finger, with many patients achieving durable relief and avoiding surgery. Predictive factors such as multiple digit involvement, advanced Quinnell stage, and metabolic syndrome help identify patients at risk for treatment failure. Compared with splinting, NSAID injection, and physiotherapy, corticosteroid injection offers superior short-term symptom improvement but carries higher recurrence rates.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Misconceptions about trigger finger: a scoping review. Definition, pathophysiology, site of lesion, etiology. Trigger finger solving a maze",
+      "url": "https://doi.org/10.1186/s42358-024-00379-7",
+      "publisher": "Advances in Rheumatology",
+      "year": "2024",
+      "doi": "10.1186/s42358-024-00379-7",
+      "abstract": "Abstract Trigger finger (TF) is a disorder characterized by snapping or locking a finger. It has a prevalence of greater than 3% in the general population; however, this estimate could be increased to 5% up to 20% in diabetic patients. Some unreal ambiguity about definition, pathophysiology, site of lesion, and etiology are found among researchers and clinicians, leading to a lack of understanding of all aspects of the disease and improper management as many clinicians proceed to anti-inflammatory medications or steroids injection without in-depth patient evaluation. Original articles cited up to 2022, found through a Google search using the specified keywords, have been used in this review. Close-access articles were accessed through our researcher account with the Egyptian Knowledge Bank. In this review, we will focus on pathophysiology to present all possible findings and etiology to represent all risk factors and associated diseases to assess and confirm a diagnosis and the exact location of pathology hence better treatment modalities and reducing the recurrence of the pathology.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Association between hyperlipidemia and trigger finger: A nationwide population-based cohort study",
+      "url": "https://doi.org/10.1371/journal.pone.0288426",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0288426",
+      "abstract": "The cause of trigger fingers remains uncertain. High lipid levels in the blood may reduce blood supply to the distal fingers and promote inflammation. We aimed to explore the association between hyperlipidemia and trigger finger. A nationwide population-based cohort study using longitudinal data from 2000 to 2013, 41,421 patients were included in the hyperlipidemia cohort and 82,842 age- and sex-matched patients were included in the control cohort. The mean age was 49.90 ± 14.73 years in the hyperlipidemia cohort and 49.79 ± 14.71 years in the control cohort. After adjusting for possible comorbidities, the hazard ratio of trigger finger in the hyperlipidemia cohort was 4.03 (95% confidence interval [CI], 3.57–4.55), with values of 4.59 (95% CI, 3.67–5.73) and 3.77 (95% CI, 3.26–4.36) among male and female patients, respectively. This large-scale population-based study demonstrated that hyperlipidemia is correlated to trigger finger.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Efficacy of Extracorporeal Shockwave Therapy in the Treatment of Patients with Trigger Finger",
+      "url": "https://zenodo.org/records/17284446",
+      "publisher": "International Journal of Innovative Science and Research Technology (IJISRT)",
+      "year": "2023",
+      "doi": "10.5281/zenodo.17284446",
+      "abstract": "Background and Need:- Trigger finger being one of the common causes of pain and disability in the hand, is thought to be caused by inflammation and narrowing of the A1 pulley. Extracorporeal Shockwave Therapy (ESWT) which is commonly used to treat varied orthopaedic conditions, works by correcting the mechanical insufficiency related to trigger finger. This article aims to give an overview of ESWT in reducing pain, stiffness and improving range of motion in patients with trigger finger.  Methods:- 570 articles were retrieved from databases viz. PubMed, Science Direct and Google Scholar. Considering the inclusion and exclusion criteria, five studies were found eligible for this review that consisted of interventional and cohort studies.  Results:- Two randomised controlled trials found significant reduction in pain intensity and severity of triggering, but did not show any significant differences in functional impact of triggering. Alternately, two non-randomised trials and one retrospective cohort study showed reduced pain levels and increased general functional capacity, grip strength, pinch strength and range of motion.  Conclusion:- ESWT can be consider as a safe and effective treatment in alleviating pain and general function in patients with trigger finger. However, these findings need to be confirmed by future trials and establish the short- and long-term effects of ESWT on pain, range of motion, strength and function in the management of trigger finger.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "A medical imaging analysis system for trigger finger using an adaptive texture-based active shape model (ATASM) in ultrasound images",
+      "url": "https://doi.org/10.1371/journal.pone.0187042",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0187042",
+      "abstract": "Trigger finger has become a prevalent disease that greatly affects occupational activity and daily life. Ultrasound imaging is commonly used for the clinical diagnosis of trigger finger severity. Due to image property variations, traditional methods cannot effectively segment the finger joint’s tendon structure. In this study, an adaptive texture-based active shape model method is used for segmenting the tendon and synovial sheath. Adapted weights are applied in the segmentation process to adjust the contribution of energy terms depending on image characteristics at different positions. The pathology is then determined according to the wavelet and co-occurrence texture features of the segmented tendon area. In the experiments, the segmentation results have fewer errors, with respect to the ground truth, than contours drawn by regular users. The mean values of the absolute segmentation difference of the tendon and synovial sheath are 3.14 and 4.54 pixels, respectively. The average accuracy of pathological determination is 87.14%. The segmentation results are all acceptable in data of both clear and fuzzy boundary cases in 74 images. And the symptom classifications of 42 cases are also a good reference for diagnosis according to the expert clinicians’ opinions.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Short-Term Effects of Capacitive and Resistive Electric Transfer Therapy and Static Splinting in the Management of Trigger Finger: A Non-Randomized Clinical Study",
+      "url": "https://www.mdpi.com/2075-1729/16/1/30",
+      "publisher": "Life",
+      "year": "2025",
+      "doi": "10.3390/life16010030",
+      "abstract": "Trigger finger (TF) is a common debilitating hand disorder that often results in pain and functional limitations. Currently accepted conservative treatments include splinting, nonsteroidal anti-inflammatory drugs, and corticosteroid injections. Recently, transfer energy capacitive and resistive (TECAR) therapy is emerging as a promising intervention for its potential to enhance microcirculation, reduce pain and inflammation, and stimulate tissue regeneration in various musculoskeletal conditions. However, its effectiveness for TF remains unclear. This study aims to compare the outcomes between TF conservative management with splinting alone, TECAR therapy alone, and the combined approach. Twenty-one fingers from 16 patients were included, with outcomes measured in terms of pain intensity, Green’s TF classification, frequency, severity and functional impact of triggering, and Quick-Disabilities of the Arm, Shoulder, and Hand. Assessments were conducted at baseline, at the fourth and eighth weeks after the initial treatment, and at one-month follow-up. Although all groups showed beneficial effects in all outcomes from baseline to the follow-up, the combined therapy group demonstrated statistically significant, quicker, and higher magnitude improvements in all clinical parameters compared to the single-treatment groups. By combining TECAR therapy with conventional splinting, TF patients may experience faster pain relief and functional recovery. Thus, integrating TECAR therapy into rehabilitation programs may represent a valuable opportunity for enhancing pain management and recovery in TF patients.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Stenosing flexor tenosinovitis on middle finger (trigger finger), surgical treatment in a 1 year old pacient. Case report.",
+      "url": "https://zenodo.org/records/7965438",
+      "publisher": "International Journal Of Medical Science And Clinical Research Studies",
+      "year": "2023",
+      "doi": "10.5281/zenodo.7965438",
+      "abstract": "Trigger finger, or stenosing tenosynovitis, is a common pathology of the hand, but a low incidence of this condition has been reported in children. Its pathophysiology is poorly understood and genetic association studies are lacking. There are conservative management such as immobilization with a splint, corticosteroid injection, physical rehabilitation therapy, but the definitive treatment is usually surgical, including percutaneous release of the A1 pulley and open release of the A1 pulley",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.82,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comparative results of percutaneous and open surgery for trigger fingers: a propensity score analysis",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsurg.2025.1509292/full",
+      "publisher": "Frontiers in Surgery",
+      "year": "2025",
+      "doi": "10.3389/fsurg.2025.1509292",
+      "abstract": "Background and objectivesTrigger finger is a common hand condition characterized by the locking of a digit, often requiring surgical intervention when conservative treatments fail. This study aimed to compare the outcomes of a modified percutaneous release technique with those of traditional open release surgery.Materials and methodsA retrospective cohort study was conducted on 245 patients (287 digits), of which 161 digits underwent open release and 126 underwent percutaneous release. A modified technique for percutaneous release was described. Propensity score matching was used to balance the data. Cox regression and Laplace regression were applied to analyze the hazard ratio and median survival time for pain relief and time to return to work. Adverse events were also reported.ResultsThe duration of pain relief in the percutaneous release group was shorter than that in the open release group (hazard ratio = 1.73, 95% CI: 0.98–3.06; p = 0.057). Fifty percent of patients in the percutaneous release group experienced pain relief within two days, compared to seven days in the open release group (p = 0.003). Time to return to work was significantly shorter in the percutaneous release group than in the open release group (hazard ratio = 2.93, 95% CI: 2.08–4.13; p < 0.001). Fifty percent of patients in the percutaneous release group returned to work within three days, compared to 15 days in the open release group (p < 0.001). Three digits (2.4%) required conversion to open release due to the failure of percutaneous release. No nerve injuries or recurrences were observed at a follow-up of 42.2 ± 2.2 months.ConclusionsPercutaneous release resulted in an earlier return to work and a high success rate (97.6%) with no nerve injuries or recurrences over 42 months. Despite a 2.4% failure rate, careful technique minimized complications. Further randomized trials are needed to confirm these findings and optimize patient selection.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Surgical treatment of trigger finger in adults",
+      "url": "https://zenodo.org/records/15162250",
+      "publisher": "Journal of Multidisciplinary Orthopaedic Surgery",
+      "year": "2025",
+      "doi": "10.5281/zenodo.15162250",
+      "abstract": "Abstract Background: Trigger finger (TF) is a common stenosing tenosynovitis characterized by painful catching or locking of the flexor tendon of the finger. In this study, we evaluated the results of patients diagnosed with TF who underwent A1 pulley release through open incision. Methods: Between January 2024 and April 2025, 211 patients (161 females, 50 males; mean age 59.4 ± 11.05 years; range, 18-86 years) with a diagnosis of TF who underwent open A1 pulley release were included in the study. Results: Involvement was on the right in 124 (58.7%) hands and on the left in 87 (41.2%) hands. The thumb was affected in 62 (50%), second finger in 9 (7.2%), third finger in 22 (17.7%), fourth finger in 28 (22.6%), and fifth finger in 3 (2.4%) of those with right hand involvement. In the left hand, 56 (64.4%) involved the thumb, 2 (2.3%) the second finger, 15 (17.2%) the third finger, 11 (12.6%) the fourth finger, and 3 (3.4%) the fifth finger. The mean follow-up period was 7.8 ± 4.9 (range, 1-16) months. Postoperative recurrence rates were as no recurrence in 206 (97.6%) patients and recurrence in 5 (2.4%) patients. Conclusions: The open release method we applied in the surgical treatment of TF is an effective and reliable method in that all anatomical structures, especially the A1 pulley, are visible, reducing the development of neurovascular complications and allowing the A1 pulley to be completely loosened.",
+      "licence": "cc-by-nc-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Awareness and Perception of Occupational Therapy among the General Population in Jeddah, KSA",
+      "url": "https://zenodo.org/records/14676337",
+      "publisher": "MAR Trauma & Orthopedics",
+      "year": "2025",
+      "doi": "10.5281/zenodo.14676337",
+      "abstract": "Abstract: Background : Occupational therapy (OT) is vital in multidisciplinary healthcare, particularly in hand surgery and rehabilitation. However, awareness of its role remains limited, affecting access and patient outcomes. Objective : To assess awareness and perceptions of OT in managing hand pathologies and post-operative care among the general population in Jeddah, Saudi Arabia. Methods : A cross-sectional study was conducted in Jeddah (October 2023–June 2024) during the “Together for a Healthy Hand” campaign. Data were collected via a structured questionnaire covering demographics, exposure to hand conditions, perceptions, and OT awareness. Convenience sampling was employed, and statistical analyses performed. Results : Out of 313 participants (68.7% female), 66 (21.1%) worked in healthcare, and 77 (24.6%) in office jobs. Overall, 68.7% were aware of OT in hand management. Awareness was significantly higher among healthcare workers (28.4%) and those with prior exposure to hand conditions, particularly Carpal Tunnel Syndrome, Trigger Finger, or De Quervain’s Syndrome (p < 0.05). Conclusion : Awareness of OT in Jeddah is moderate, with a focus on hand surgery but limited understanding of its broader scope. Targeted educational initiatives are recommended to enhance OT awareness and accessibility, improving patient outcomes and healthcare delivery.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Following carpel tunnel release, what factors affect whether patients return to the same or different hand surgeon for a subsequent procedure?",
+      "url": "https://doi.org/10.1371/journal.pone.0312159",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0312159",
+      "abstract": "Background: Following carpal tunnel release (CTR), patients may be indicated for subsequent hand surgery (contralateral CTR and/or trigger finger release [TFR]). While surgeons typically take pride in patient loyalty, the rate of returning to the same hand surgeons has not been previously characterized. Methods: Patients undergoing CTR were isolated from 2010–2021 PearlDiver M151 dataset. Subsequent CTR or TFR were identified and characterized as being performed by the same or different surgeon, with patient factors associated with changing to a different surgeon determined by multivariable analyses. Results: In total, 1,121,922 CTR patients were identified. Of these, subsequent surgery was identified for 307,385 (27.4%: CTR 289,455 [94.2%] and TFR 17,930 [5.8%]). Of the patients with a subsequent surgery, 257,027 (83.6%) returned to the same surgeon and 50,358 (16.4%) changed surgeons. Multivariable analysis found factors associated with changing surgeon (in order of decreasing odds ration [OR]) to be: TFR as the second procedure (OR 2.98), time between surgeries greater than 2-years (OR 2.30), Elixhauser-Comorbidity Index (OR 1.14 per 2-point increase), and male sex (OR 1.06), with less likely hood of changing for those with Medicare (OR 0.95 relative to commercial insurance) (p<0.001 for each). Pertinent negatives included: age, Medicaid, and having a 90-day adverse event after the index procedure. Conclusions: Over fifteen percent of patients who required a subsequent CTR or TFR following CTR did not return to the same surgeon. Understanding what factors lead to outmigration of patients form a practice may help direct efforts for patient retention.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Testosterone Replacement Therapy and Associated Rates of Trigger Finger, de Quervain Tenosynovitis, and Their Subsequent Management",
+      "url": "https://zenodo.org/records/15029985",
+      "publisher": "The Journal Of Hand Surgery",
+      "year": "2024",
+      "doi": "10.5281/zenodo.15029985",
+      "abstract": "© This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. Deposited by shareyourpaper.org and openaccessbutton.org. We've taken reasonable steps to ensure this content doesn't violate copyright. However, if you think it does you can request a takedown by emailing help@openaccessbutton.org.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "An innovation percutaneous needle knife use for trigger finger: A retrospective cohort study",
+      "url": "http://www.tcmjmed.com/article.asp?issn=1016-3190;year=2023;volume=35;issue=3;spage=242;epage=246;aulast=Velmurugan",
+      "publisher": "Tzu Chi Medical Journal",
+      "year": "2023",
+      "doi": "10.4103/tcmj.tcmj_277_22",
+      "abstract": "Objectives: This study retrospectively evaluated the effectiveness of percutaneous pulley release by our newly designed needle knife in terms of cure, relapse, and complication rates. Materials and Methods: Two hundred and fifty-seven patients were allocated into male and female groups between October 2014 and September 2021. We included patients >15 years of age with a trigger finger (TF) (types II–VI). The primary outcome was the absence of a TF and pain-free movement. In contrast, the secondary outcome included second-time surgery and the number of complications such as infection and admission for antibiotics. Results: One hundred patients were male, and 157 patients were female. Males and females had mean ages of 62.45 ± 11.76 and 61.50 ± 8.57 years, respectively. The operative time was significantly longer in males than in females (7.88 ± 6.02 vs. 6.52 ± 3.74 min in males and females, respectively, P = 0.027). However, the percentages of diabetes mellitus and gout were the same in both groups. For the percutaneous methods with our needle knife, remission of the trigger was achieved in all cases. In addition, seven patients received revision and three patients with complications. After needle surgery, topical and joint pain scores were improved in both groups (from 5.09 ± 1.31 to 0.80 ± 1.56). Conclusion: The percutaneous methods with our needle knife displayed effectiveness. The cure rate was high, and the relapse rate was low. Further large-scale clinical trials comparing percutaneous needle to open surgery for releasing the TF will be needed to confirm our results.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Comprehensive Approach to Chronic Trigger Finger: A1 Pulley Stretching and Dry Needling",
+      "url": "https://hal.science/hal-05214138v1",
+      "publisher": "HAL open archive",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Trigger finger (TF) is a frequent condition that is more common in women in their fifth decade of life. It is caused by the trapping of the flexor digitorum superficial and flexor digitorum profundus tendons as they travel through fibro-osseous tunnels of the wrist, palm, and hand digits. This results in discomfort and stiffness, limiting daily activities. Corticosteroid injections are the first line of conservative treatment before surgery is performed. Physiotherapy has proven to be extremely effective in the treatment of trigger fingers. We described a 75-year-old woman who had persistent trigger finger pain and stiffness. Ultrasound, tendon gliding exercises, mobilization together with A1 pulley stretching, and dry needling were applied over a two-week period. Pre- and post-test scores of pains and activity limitation were obtained. The findings showed that Pain scores decreased from 6 to 0 on the Nottingham Pain Rating Scale (NPRS) scale, and activity limitation decreased from 67.5 to 10.5% on the patient-rated wrist evaluation (PRWE) scale. Two innovative techniques that is the A1 pulley and dry needling along with ultrasound, tendon glide exercise, and mobilization are found to be effective in managing chronic trigger finger.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Association of Diabetic Cheiroarthropathy with Duration of DM and Hba1c",
+      "url": "https://zenodo.org/records/11186367",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2023",
+      "doi": "10.5281/zenodo.11186367",
+      "abstract": "Background : Diabetic mellitus can lead to a myriad of complications (both microvascular and macrovascular). The wide spectrum of rheumatic affections related to DM are Diabetic Hand Syndrome (Diabetic Cheiroarthropathy), Adhesive Capsulitis, Trigger Finger, Dupuytren’s Contracture, Diffuse Idiopathic Skeletal Hyperostosis (DISH), Diabetic muscle infarction etc. Diabetic cheiroarthropathy is characterized by limited movement of the joints of the hands along with thickening of the skin on the palmar and dorsal surfaces. Studies have found association between Diabetic Cheiroarthropathy, Duration of diabetes and Glycation end products of Diabetes. The present study was conducted to study the prevalence of Diabetic Cheiroarthropathy in patients of DM and its association with duration of DM and Glycation end products. Materials and Methods: This was conducted on 200 patients in the department of Medicine, Government Medical College, Amritsar. The study protocol was approved by the institutional ethics committee. The patients were enrolled in the study after obtaining written informed consent. All the patients were interviewed and examined for peripheral neuropathy, retinopathy by ophthalmoscopy, presence of albuminuria and Diabetic Cheiroarthropathy by Prayer Sign and Table Top Sign. The results were then analyzed. Results: Out of 200 patients, 104 patients had cheiroarthropathy. Majority of the patients with cheiroarthropathy (33) were in the age group 61-70 years. The mean age of patients with and without cheiroarthropathy were 61.3±13.6 years and 45.8±9.8 years, respectively (p value= 0.000). The mean diabetes’ duration in absence of cheiroarthropathy was 4.3±2.5 years, while in presence of cheiroarthropathy it was 12.6±5.7 years (p value= 0.000). With increasing duration of diabetes, incidence of Cheiroarthropathy also increased and this showed statistical significance (p value=0.000). Cheiroarthropathy showed positive association with HbA1c as with increasing HbA1c levels, there was increased incidence of Cheiroarthropathy (p value=0.000). Conclusion: Advancing age plays in the determination of the severity of diabetic cheiroarthropathy along with the duration of Diabetes Mellitus. Apart from the already established association of Cheiroarthropathy with microvascular complications, there is also association of Cheiroarthropathy with the status of HbA1c levels of the patient.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Wide-awake Local Anesthesia with No Tourniquet: An Updated Review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7997095/",
+      "publisher": "Plastic and reconstructive surgery. Global open",
+      "year": "2021",
+      "doi": "10.1097/gox.0000000000003507",
+      "abstract": "The wide-awake local anesthesia with no tourniquet (WALANT) technique has become popularized for various hand/upper extremity procedures. Before surgery, patients receive local anesthetic, consisting of lidocaine with epinephrine, and remain awake for the entire procedure. The purpose of this review was to investigate the advantages, diverse application, outcomes, cost benefits, use in challenging environments, patient considerations, and contraindications associated with WALANT. Methods A comprehensive review of the literature on the WALANT technique was conducted. Search terms included: WALANT, wide-awake surgery, no tourniquet, local anesthesia, hand, wrist, cost, and safety. Results The WALANT technique has proven to be successful for common procedures such as flexor tendon repair, tendon transfer, trigger finger releases, Depuytren disease, and simple bony procedures. Recently, the use of WALANT has expanded to more extensive soft-tissue repair, fracture management, and bony manipulation. Advantages include negating preoperative evaluation and testing for anesthesia clearance, eliminating risk of monitored anesthesia care, removal of anesthesia providers and ancillary staff, significant cost savings, and less waste produced. Intraoperative evaluations can be performed through active patient participation, and postoperative recovery and monitoring time are reduced. WALANT is associated with high patient satisfaction rates and low infection rates. Conclusions The WALANT technique has proven to be valuable to both patients and providers, optimizing patient satisfaction and providing substantial healthcare savings. As its application continues to grow, current literature suggests positive outcomes.",
+      "licence": "cc by-nc-nd",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Recurrent Diabetic Trigger Finger. Percutaneous or Open Release as Surgical Treatment is More Effective in Long-term Outcomes?",
+      "url": "https://hal.science/hal-05164372v1",
+      "publisher": "HAL open archive",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Stenosing Tenosynovitis is a common complication in diabetic patients. The release of the A1 pulley is the final treatment (open or percutaneous). The functional outcomes and complication rates of two methods (open versus percutaneous release) for recurrent trigger finger in diabetic patients are compared in this study. Materials and Methods: 114 patients with diabetes mellitus and an average age of 48 years (range 28-64 yrs old) were treated for recurrent trigger finger. The modified Quinnell grading system was used as a selection criterion for the classification of trigger digit. The patients were divided in two groups randomly. Group A, included 52 patients who were treated with open release of A1 pulley and group B included 62 patients who were treated with percutaneous release using the tip of an 18-gauge or knife (Ophtalmic Corneal/ Scleral knife 19 Gauge). Results: The median follow-up was 12 months (range from 10-14 months). The results were based on the Visual Analogue Scale (VAS), Quick Dash, and Gilberts & Wereldasma Questionnaire. At 3 months, the results seemed to be better in group B, while there was no statistical difference at six months and at one year postoperatively. Conclusions: In long-term postoperative follow-up, both surgical approaches (open and percutaneous release) produced comparable therapeutic efficacy. The advantages though of the percutaneous release over the classic open method in short-term outcomes are: 1) low cost, 2) less complication rates and 3) immediate functional recovery.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "An Ultrasound-guided Percutaneous Surgical Technique for Trigger Finger Release Using a Minimally Invasive Surgical Knife",
+      "url": "https://hal.science/hal-03629543v1",
+      "publisher": "Techniques in Hand & Upper Extremity Surgery",
+      "year": "2021",
+      "doi": "10.1097/BTH.0000000000000367",
+      "abstract": "Triggering of the finger at the A1 pulley is one of the most frequent pathologies encountered in hand surgery and a common cause of hand pain. Open release of the A1 pulley is currently still regarded as the golden-standard procedure. Nevertheless, there is an increasing interest in minimally invasive percutaneous techniques for the treatment of this condition. Current techniques range from percutaneous needle techniques without imaging, to the use of hook knives, with ultrasound guidance. Because of concerns about possible complications or incomplete releases, hand surgeons remain wary. The objective of this study was to introduce a new ultrasound-guided percutaneous surgical technique for trigger finger release, using a second-generation minimally invasive surgical knife. In this series of 78 releases, complete resolution of the symptoms was found in 98.7% of the cases. One recurrence of triggering was observed. There were no tendon injuries, infections, or neurovascular lesions recorded. This paper contains technical pearls and possible pitfalls to ensure the surgeon of a complete release and to avoid complications. A video of the technique was also included as Supplemental Digital Content (http://links.lww.com/BTH/A143). We can conclude that the procedure can be considered as safe and highly effective for the treatment of triggering at the A1 pulley.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Risk factors for operated carpal tunnel syndrome: a multicenter population-based case-control study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2761403/",
+      "publisher": "BMC public health",
+      "year": "2009",
+      "doi": "10.1186/1471-2458-9-343",
+      "abstract": "Background Carpal tunnel syndrome (CTS) is a socially and economically relevant disease caused by compression or entrapment of the median nerve within the carpal tunnel. This population-based case-control study aims to investigate occupational/non-occupational risk factors for surgically treated CTS. Methods Cases (n = 220) aged 18-65 years were randomly drawn from 13 administrative databases of citizens who were surgically treated with carpal tunnel release during 2001. Controls (n = 356) were randomly sampled from National Health Service registry records and were frequency matched by age-gender-specific CTS hospitalization rates. Results At multivariate analysis, risk factors were blue-collar/housewife status, BMI > or = 30 kg/m2, sibling history of CTS and coexistence of trigger finger. Being relatively tall (cut-offs based on tertiles: women > or =165 cm; men > or =175 cm) was associated with lower risk. Blue-collar work was a moderate/strong risk factor in both sexes. Raised risks were apparent for combinations of biomechanical risk factors that included frequent repetitivity and sustained force. Conclusion This study strongly underlines the relevance of biomechanical exposures in both non-industrial and industrial work as risk factors for surgically treated CTS.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Cost and Efficiency Analysis of the WALANT Technique for the Management of Trigger Finger in a Procedure Room of a Major City Hospital",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6908359/",
+      "publisher": "Plastic and reconstructive surgery. Global open",
+      "year": "2019",
+      "doi": "10.1097/gox.0000000000002509",
+      "abstract": "The \"Wide Awake Local Anesthesia No Tourniquet\" (WALANT) technique is gaining popularity in hand surgery owing to its benefits of reduced cost, shorter hospital stay, improved safety, and the ability to perform active intraoperative examinations. The aim of this study is to analyze the cost savings and efficiency of performing A1 pulley release for treatment of trigger finger using the WALANT technique in a major city hospital procedure room (PR) as compared with the standard tourniquet, operating room (OR) approach. Methods Patients who underwent trigger finger release between 2012 and 2017 were identified. Demographic and procedural information were obtained. Patients were followed for an average of 82 and 242 days in the PR and OR groups, respectively. Results Thirty-nine PR and 37 OR patients were identified. Case length and turnover time were shorter in the PR group [21.4 ± 7 versus 23.5 ± 14.3 min ( P = 0.942) and 31.1 ± 11.1 and 65.3 ± 17.7 min ( P Conclusion Performing A1 pulley release for treatment of trigger finger using the WALANT technique is both cost effective and time efficient compared to performing the same procedure in the main OR of a major city public hospital.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Surgery for trigger finger",
+      "url": "https://doi.org/10.1002/14651858.cd009860.pub2",
+      "publisher": "Wiley",
+      "year": "2018",
+      "doi": "10.1002/14651858.cd009860.pub2",
+      "abstract": "Trigger finger is a common clinical disorder, characterised by pain and catching as the patient flexes and extends digits because of disproportion between the diameter of flexor tendons and the A1 pulley. The treatment approach may include non-surgical or surgical treatments. Currently there is no consensus about the best surgical treatment approach (open, percutaneous or endoscopic approaches).To evaluate the effectiveness and safety of different methods of surgical treatment for trigger finger (open, percutaneous or endoscopic approaches) in adults at any stage of the disease.We searched CENTRAL, MEDLINE, Embase and LILACS up to August 2017.We included randomised or quasi-randomised controlled trials that assessed adults with trigger finger and compared any type of surgical treatment with each other or with any other non-surgical intervention. The major outcomes were the resolution of trigger finger, pain, hand function, participant-reported treatment success or satisfaction, recurrence of triggering, adverse events and neurovascular injury.Two review authors independently selected the trial reports, extracted the data and assessed the risk of bias. Measures of treatment effect for dichotomous outcomes calculated risk ratios (RRs), and mean differences (MDs) or standardised mean differences (SMD) for continuous outcomes, with 95% confidence intervals (CIs). When possible, the data were pooled into meta-analysis using the random-effects model. GRADE was used to assess the quality of evidence for each outcome.Fourteen trials were included, totalling 1260 participants, with 1361 trigger fingers. The age of participants included in the studies ranged from 16 to 88 years; and the majority of participants were women (approximately 70%). The average duration of symptoms ranged from three to 15 months, and the follow-up after the procedure ranged from eight weeks to 23 months.The studies reported nine types of comparisons: open surgery versus steroid injections (two studies); percutaneous surgery versus steroid injection (five studies); open surgery versus steroid injection plus ultrasound-guided hyaluronic acid injection (one study); percutaneous surgery plus steroid injection versus steroid injection (one study); percutaneous surgery versus open surgery (five studies); endoscopic surgery versus open surgery (one study); and three comparisons of types of incision for open surgery (transverse incision of the skin in the distal palmar crease, transverse incision of the skin about 2-3 mm distally from distal palmar crease, and longitudinal incision of the skin) (one study).Most studies had significant methodological flaws and were considered at high or unclear risk of selection bias, performance bias, detection bias and reporting bias. The primary comparison was open surgery versus steroid injections, because open surgery is the oldest and the most widely used treatment method and considered as standard surgery, whereas steroid injection is the least invasive control treatment method as reported in the studies in this review and is often used as first-line treatment in clinical practice.Compared with steroid injection, there was low-quality evidence that open surgery provides benefits with respect to less triggering recurrence, although it has the disadvantage of being more painful. Evidence was downgraded due to study design flaws and imprecision.Based on two trials (270 participants) from six up to 12 months, 50/130 (or 385 per 1000) individuals had recurrence of trigger finger in the steroid injection group compared with 8/140 (or 65 per 1000; range 35 to 127) in the open surgery group, RR 0.17 (95% CI 0.09 to 0.33), for an absolute risk difference that 29% fewer people had recurrence of symptoms with open surgery (60% fewer to 3% more individuals); relative change translates to improvement of 83% in the open surgery group (67% to 91% better).At one week, 9/49 (184 per 1000) people had pain on the palm of the hand in the steroid injection group compared with 38/56 (or 678 per 1000; ranging from 366 to 1000) in the open surgery group, RR 3.69 (95% CI 1.99 to 6.85), for an absolute risk difference that 49% more had pain with open surgery (33% to 66% more); relative change translates to worsening of 269% (585% to 99% worse) (one trial, 105 participants).Because of very low quality evidence from two trials we are uncertain whether open surgery improve resolution of trigger finger in the follow-up at six to 12 months, when compared with steroid injection (131/140 observed in the open surgery group compared with 80/130 in the control group; RR 1.48, 95% CI 0.79 to 2.76); evidence was downgraded due to study design flaws, inconsistency and imprecision. Low-quality evidence from two trials and few event rates (270 participants) from six up to 12 months of follow-up, we are uncertain whether open surgery increased the risk of adverse events (incidence of infection, tendon injury, flare, cutaneous discomfort and fat necrosis) (18/140 observed in the open surgery group compared with 17/130 in the control group; RR 1.02, 95% CI 0.57 to 1.84) and neurovascular injury (9/140 observed in the open surgery group compared with 4/130 in the control group; RR 2.17, 95% CI 0.7 to 6.77). Twelve participants (8 versus 4) did not complete the follow-up, and it was considered that they did not have a positive outcome in the data analysis. We are uncertain whether open surgery was more effective than steroid injection in improving hand function or participant satisfaction as studies did not report these outcomes.Low-quality evidence indicates that, compared with steroid injection, open surgical treatment in people with trigger finger, may result in a less recurrence rate from six up to 12 months following the treatment, although it increases the incidence of pain during the first follow-up week. We are uncertain about the effect of open surgery with regard to the resolution rate in follow-up at six to 12 months, compared with steroid injections, due high heterogeneity and few events occurred in the trials; we are uncertain too about the risk of adverse events and neurovascular injury because of a few events occurred in the studies. Hand function or participant satisfaction were not reported.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparative clinical study of ultrasound-guided A1 pulley release vs open surgical intervention in the treatment of trigger finger",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314146/",
+      "publisher": "World journal of orthopedics",
+      "year": "2017",
+      "doi": "10.5312/wjo.v8.i2.163",
+      "abstract": "Aim To investigate the effectiveness of ultrasound-guided release of the first annular pulley and compare results with the conventional open operative technique. Methods In this prospective randomized, single-center, clinical study, 32 patients with trigger finger or trigger thumb, grade II-IV according to Green classification system, were recruited. Two groups were formed; Group A (16 patients) was treated with an ultrasound-guided percutaneous release of the affected A1 pulley under local anesthesia. Group B (16 patients) underwent an open surgical release of the A1 pulley, through a 10-15 mm incision. Patients were assessed pre- and postoperatively (follow-up: 2, 4 and 12 wk) by physicians blinded to the procedures. Treatment of triggering (primary variable of interest) was expressed as the \"success rate\" per digit. The time for taking postoperative pain killers, range of motion recovery, QuickDASH test scores (Greek version), return to normal activities (including work), complications and cosmetic results were assessed. Results The success rate in group A was 93.75% (15/16) and in group B 100% (16/16). Mean times in group A patients were 3.5 d for taking pain killers, 4.1 d for returning to normal activities, and 7.2 and 3.9 d for complete extension and flexion recovery, respectively. Mean QuickDASH scores in group A were 45.5 preoperatively and, 7.5, 0.5 and 0 after 2, 4, and 12 wk postoperatively. Mean times in group B patients were 2.9 d for taking pain killers, 17.8 d for returning to normal activities, and 5.6 and 3 d for complete extension and flexion recovery. Mean QuickDASH scores in group B were 43.2 preoperatively and, 8.2, 1.3 and 0 after 2, 4, and 12 wk postoperatively. The cosmetic results found excellent or good in 87.5% (14/16) of group A patients, while in 56.25% (9/16) of group B patients were evaluated as fair or poor. Conclusion Treatment of the trigger finger using ultrasonography resulted in fewer absence of work days, and better cosmetic results, in comparison with the open surgery technique. It is a promising method that represents excellent results without major complications, so that it could be possibly be established as a first-line treatment in the trigger finger's disease.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Linear regression analysis of Hospital Episode Statistics predicts a large increase in demand for elective hand surgery in England",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315884/",
+      "publisher": "Journal of plastic, reconstructive & aesthetic surgery : JPRAS",
+      "year": "2015",
+      "doi": "10.1016/j.bjps.2014.10.011",
+      "abstract": "Introduction We integrated two factors, demographic population shifts and changes in prevalence of disease, to predict future trends in demand for hand surgery in England, to facilitate workforce planning. Methods We analysed Hospital Episode Statistics data for Dupuytren's disease, carpal tunnel syndrome, cubital tunnel syndrome, and trigger finger from 1998 to 2011. Using linear regression, we estimated trends in both diagnosis and surgery until 2030. We integrated this regression with age specific population data from the Office for National Statistics in order to estimate how this will contribute to a change in workload over time. Results There has been a significant increase in both absolute numbers of diagnoses and surgery for all four conditions. Combined with future population data, we calculate that the total operative burden for these four conditions will increase from 87,582 in 2011 to 170,166 (95% confidence interval 144,517-195,353) in 2030. Discussion The prevalence of these diseases in the ageing population, and increasing prevalence of predisposing factors such as obesity and diabetes, may account for the predicted increase in workload. The most cost effective treatments must be sought, which requires high quality clinical trials. Our methodology can be applied to other sub-specialties to help anticipate the need for future service provision.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Local Corticosteroid and Anesthetic Injection in Trigger Finger Deformity",
+      "url": "https://hal.science/hal-05501825v1",
+      "publisher": "British Journal of Medicine and Medical Research",
+      "year": "2015",
+      "doi": "",
+      "abstract": "Objective: Efficacy of local corticosteroid and anesthetic injection was investigated in adult trigger finger deformity. Materials and Methods: Sixty four fingers of 56 patients (40 females mean age: 44(33-58), 16 males mean age: 45(37-62) who did not benefit from 4 weeks of NSAID treatment and rest were referred to orthopaedics or physical therapy departments of our hospital for trigger finger deformity. One cc. depomedrol (methylprednisolone acetate) and 2 cc. citanest (prilocain hydrochloride) mixture was injected at the level of A1 pulley. The follow up period was 3 months. Results: In forty of 56 patients (32 female, 8 male) triggering and pain completely disappeared. Triggering disappeared but pain was persistant in 8 patients and both triggering and pain were persistant in 8 patients. Conclusion: Injection of local corticosteroid and anesthetic drug mixture in treatment of trigger finger deformity is an easy, cheap and effective method. We conclude that it is useful to apply this treatment for once before decision to surgery.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Management of limited joint mobility in diabetic patients",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3656815/",
+      "publisher": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "year": "2013",
+      "doi": "10.2147/dmso.s33943",
+      "abstract": "Several rheumatologic manifestations are more pronounced in subjects with diabetes, ie, frozen shoulder, rotator cuff tears, Dupuytren's contracture, trigger finger, cheiroarthropathy in the upper limb, and Achilles tendinopathy and plantar fasciitis in the lower limb. These conditions can limit the range of motion of the affected joint, thereby impairing function and ability to perform activities of daily living. This review provides a short description of diabetes-related joint diseases, the specific pathogenetic mechanisms involved, and the role of inflammation, overuse, and genetics, each of which activates a complex sequence of biochemical alterations. Diabetes is a causative factor in tendon diseases and amplifies the damage induced by other agents as well. According to an accepted hypothesis, damaged joint tissue in diabetes is caused by an excess of advanced glycation end products, which forms covalent cross-links within collagen fibers and alters their structure and function. Moreover, they interact with a variety of cell surface receptors, activating a number of effects, including pro-oxidant and proinflammatory events. Adiposity and advanced age, commonly associated with type 2 diabetes mellitus, are further pathogenetic factors. Prevention and strict control of this metabolic disorder is essential, because it has been demonstrated that limited joint motion is related to duration of the disease and hyperglycemia. Several treatments are used in clinical practice, but their mechanisms of action are not completely understood, and their efficacy is also debated.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Risk of musculoskeletal disorder among Taiwanese nurses cohort: a nationwide population-based study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3637823/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2013",
+      "doi": "10.1186/1471-2474-14-144",
+      "abstract": "Background Musculoskeletal disorders (MSDs) represent the leading causes of occupational injuries among nursing staff. This population-based study was designed to assess the incidence and age-specific incidence of MSDs among a Taiwanese nurse cohort compared with non-nurses. Description Data from the Taiwan National Health Insurance Research Database were used to identify MSDs in the study population. A total of 3914 nurses with a diagnosis of MSD were included, together with 11,744 non-nurses as a comparison group. The comparison subjects were randomly selected at a ratio of 3:1 relative to the nurse population and were matched by gender and age. The incidence of MSDs was calculated for the study group, with nurse-to-reference risk ratios presented as odds ratios with 95% confidence intervals (CIs). During the period 2004-2010, 3004 MSDs occurred among the nurses (76.24%) and 7779 (65.79%) in the non-nurses. The annual incidence of MSDs for the nurses increased from 28.35% in 2006 to 33.65% in 2010. The nurse-to-reference risk ratio was 1.27 (95% CI 1.19-1.35) in 2004 and 1.46 (1.37-1.55) in 2010. Herniation of intervertebral disc, lumbago, rotator cuff syndrome, medial epicondylitis, trigger finger and carpal tunnel syndrome were the most common problems. Conclusions Nurses are at higher risk of MSDs and the trend is increasing. Incorrect work-related posture/movement, psychological issues and the rolling shift system may be the major causes of MSDs among nurses in Taiwan.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.12,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The efficacy of steroid injection in the treatment of trigger finger",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3504690/",
+      "publisher": "Clinics in orthopedic surgery",
+      "year": "2012",
+      "doi": "10.4055/cios.2012.4.4.263",
+      "abstract": "Background Trigger finger is one of the most common reasons for referral to a hand specialist clinic. The purpose of this study is to investigate the efficacy of steroid injections for treating trigger digits. Methods Ninety digits were investigated with at least a year follow up. The study mainly focused on the efficacy of the injections, as well as co-morbidities, presence of a nodule, actual digit injected and the severity at presentation using Green's classification. Results The study found that 66% of trigger digits were effectively treated using steroid injections. There was a difference between the efficacy of the injection in the different digits, with a statistical significance between the thumb and the fingers. The results also showed that there was no statistical relationship between the severity of the condition, the presence of a nodule or co-morbidities and the efficacy of the steroid injections. Conclusions The study found that steroid injections are an effective first-line intervention for the treatment of trigger digit. It also found an increased efficacy for treating the thumb compared to other digits. Both the severity of the condition at presentation and the presence of a nodule had no significant impact on the efficacy of the injections.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Adult trigger finger",
+      "url": "https://doi.org/10.1136/bmj.e5743",
+      "publisher": "BMJ",
+      "year": "2012",
+      "doi": "10.1136/bmj.e5743",
+      "abstract": "A 62 year old diabetic woman complains of pain in the palm of her hand at the base of her ring finger, which is held in flexion. Extension is painful, produces an audible click, and often requires the assistance of the other hand. Trigger finger is caused by inflammation and constriction of the retinacular sheath through which the flexor tendons run as they pass from the palm of the hand into the finger. This causes irritation of the tendon, sometimes resulting in the formation of a nodule, which impinges on the pulley, causing pain and restricting movement. The retinacular sheath is composed of five annular “pulleys” which hold the tendon close to the bone and are integral to the biomechanics of finger flexion (figure⇓). The A1 pulley, at the level of the metacarpal head, is the first part of the sheath and is subject to the highest force. Consequently, triggering usually occurs at this level. Fig 1 Lateral view of a digit showing a simplified view the annular pulley system (A1-5), the flexor tendons with inflammatory nodule, and the passage of the needle for corticosteroid injection The cause is often multifactorial. Trigger finger is most common in the sixth decade, women, people with diabetes, and the dominant hand.1 ### History",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Trigger finger: etiology, evaluation, and treatment",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2684207/",
+      "publisher": "Current reviews in musculoskeletal medicine",
+      "year": "2008",
+      "doi": "10.1007/s12178-007-9012-1",
+      "abstract": "Trigger finger is a common finger aliment, thought to be caused by inflammation and subsequent narrowing of the A1 pulley, which causes pain, clicking, catching, and loss of motion of the affected finger. Although it can occur in anyone, it is seen more frequently in the diabetic population and in women, typically in the fifth to sixth decade of life. The diagnosis is usually fairly straightforward, as most patients complain of clicking or locking of the finger, but other pathological processes such as fracture, tumor, or other traumatic soft tissue injuries must be excluded. Treatment modalities, including splinting, corticosteroid injection, or surgical release, are very effective and are tailored to the severity and duration of symptoms.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Trigger wrist. A case report",
+      "url": "https://zenodo.org/records/7039876",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.5281/zenodo.7039876",
+      "abstract": "Introduction : Trigger wrist clinical entity is an infrequent pathology comparing with stenosing flexor tenosynovitis or trigger finger. It is defined as: the painful click or catching sensation proximal to radiocarpal joint during finger or wrist motion. The present case reports a 23-year-old woman with a trigger wrist diagnosis. A release surgery was held by wide-awake approach, under local anesthetic. An adjacent mass on the flexor digitorum profundus tendon of the third finger was completely resected as well as the synovial tissue. The anatomopathological study showed: compatible characteristics with a tendon sheath fibroma. The trigger fingers at wrist level are uncommon compared with stenosing flexor tenosynovitis of fingers. The causes of this disorder can be multifactorial and always acting on flexor tendons of the fingers at wrist level. The diagnosis is based on a thorough clinical examination together with an accurate anamnesis. When there is triggering at wrist level together with a nerve compression syndrome, it is possible to deepen in paraclinical studies to elucidate the diagnosis. Keywords: Trigger wrist",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.78,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A Novel Clinical Classification of Peroneal Tendon Disease Correlates with Tissue Pathology and Postoperative Outcomes",
+      "url": "https://doi.org/10.1177/2473011426S00040",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2026",
+      "doi": "10.1177/2473011426S00040",
+      "abstract": "Category: Ankle, Basic Sciences/Biologics Keywords: Achilles Tendon Rupture, Achilles Tendon, Achilles Tendon Repair Introduction/Purpose: Peroneal tendon disease (PerTD) is a major cause of lateral ankle pain, including tendinosis, tenosynovitis, tears, and instability, all involving inflammation or degeneration of the tendon and tenosynovium (TS). The TS maintains tendon health by providing lubrication and nutrients, and its role in disorders like rheumatoid arthritis and trigger finger is well established. In PerTD, however, its contribution is poorly understood. Research has largely focused on tendon structure, leaving cellular and subcellular TS features understudied. Despite its clinical importance, no current classification of PerTD incorporates both tendon and TS pathology. Such classifications are essential for predicting outcomes, guiding treatment, and studying disease mechanisms. We aimed to develop a clinically meaningful TS and tendon classification and link TS phenotypes to molecular signatures and patient-reported outcomes. Methods: We developed a 5-stage PerTD classification for surgically treated patients (IRB-approved): Type 0 (non-inflamed TS, normal tendons, n=9), Type 1 (inflamed TS, normal tendons, n=16), Type 2 ( 50% tear, n=6), and Type 4 (near-complete rupture, n=3, Fig1B). Transcriptomic differences across types were analyzed, and Gene Ontology (GO) enrichment was performed. TS specimens were formalin-fixed and paraffin-embedded (FFPE), H&E-stained, and qualitatively assessed. Picrosirius Red (PSR)–stained FFPE sections were imaged under fluorescence microscopy, tiled into 10,000µm 2 regions, and collagen-positive fractions normalized per specimen. Multiplex IHC (CLIC5, CD68, CD31, DAPI) was imaged on the Akoya PhenoImager. PROMIS Pain Interference and Physical Function Scores were collected preoperatively and at 3, 6, 12, and 24 months postoperatively. Collagen fraction was modeled using mixed-effects beta regression with Tukey-adjusted estimated marginal means. PROMIS score trajectories were compared (Kruskal–Wallis test and Dunn’s correction). Analyses were two-sided (α=0.05) in R Studio. Results: Transcriptomic analysis revealed stage-specific TS molecular signatures across PerTD (Fig1A) with distinct GO-term enrichments differentiating stages 1–4 (Fig1B). Early PerTD (types 1/2) showed enrichment of inflammatory and tissue-remodeling pathways, whereas advanced PerTD (types 3/4) demonstrated upregulation of mitochondrial genes, altered fatty acid metabolism, and neutrophil degranulation (Fig1B). Histopathology showed progressive dense sublining connective tissue and thickened TS lining (Fig1C-D). IHC for CLIC5 (TS fibroblasts) and CD68 (TS macrophages) confirmed these findings (Fig1E). Quantitative PSR analysis showed significantly increased collagen-positive area in tendinopathic PerTD (types 2–4) vs type 1 (p=0.03, Fig1F). Patients with dense connective tissue exhibited greater postoperative improvement in PROMIS Physical Function and reduction in Pain (Fig1G), trends not observed in patients without a dense connective tissue reaction (data not shown). Conclusion: Our classification defines PerTD categories with distinct histopathological and molecular profiles, including macrophage enrichment and fibroblast expansion within thickened TS lining, consistent with a macrophage–fibroblast activation axis driving fibrotic remodeling. While fibrosis and lining thickening were more common in advanced stages, they did not fully align with clinical categories, underscoring the need for refinement through integration of histopathology and non-invasive imaging. The observed association between dense connective-tissue reaction and greater postoperative functional improvement highlights the classification’s potential as a prognostic tool and a platform for biomarker discovery, ultimately informing preoperative decision-making and targeted therapeutic strategies.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Demographic Characteristics, Clinical Features, and Surgical History in Children with Mucopolysaccharidoses: A Single Center Experience",
+      "url": "https://dergipark.org.tr/en/download/article-file/6229085",
+      "publisher": "Journal of Contemporary Medicine",
+      "year": "2026",
+      "doi": "10.16899/jcm.1995984",
+      "abstract": "Background: Mucopolysaccharidoses (MPS) are a heterogeneous group of lysosomal storage disorders characterized by progressive glycosaminoglycan accumulation and multisystem involvement. Owing to their broad clinical spectrum, patients require lifelong multidisciplinary follow-up. This study aimed to characterize the demographic profile, clinical manifestations, and surgical history of pediatric patients with mucopolysaccharidoses followed at a tertiary referral center.Methods: This retrospective descriptive study included 10 patients with confirmed MPS. Demographic characteristics, MPS subtype, enzyme replacement therapy (ERT) status, hearing and ophthalmological findings, cardiac involvement, and surgical history were retrospectively reviewed from medical records.Results: Ten patients (6 males, 4 females) were included. The cohort comprised three patients with MPS VI, two with MPS II, and one patient each with MPS I, IVA, IIIB, IIIC, and IIID. Seven patients (70%) were receiving ERT. Cardiac involvement was identified in four patients (40%), whereas hearing impairment was documented in three patients (30%). Five patients (50%) had a history surgical intervention. Otorhinolaryngological procedures were the most common operations, followed by inguinal hernia repair, trigger finger release, cervical stabilization, and neurosurgical procedures. Airway abnormalities and cervical spine involvement were notable perioperative findings.Conclusion: This case series demonstrates the marked clinical heterogeneity of MPS and its multisystem manifestations. Despite advances in disease-specific therapy, many patients continue to require multidisciplinary follow-up because of persistent cardiac, auditory, musculoskeletal, and airway involvement. Recognition of perioperative risk factors may facilitate safer surgical management when operative interventions are required.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Acute Iatrogenic Flexor Digitorum Profundus Rupture after Percutaneous A1 Pulley Release: MRI and Intraoperative Correlation",
+      "url": "https://hal.science/hal-05712134v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Percutaneous A1 pulley release is commonly used to treat trigger finger, but the blind nature of the procedure may expose adjacent structures to injury. This case report describes an acute iatrogenic rupture of the flexor digitorum profundus tendon after percutaneous release and correlates the preoperative magnetic resonance imaging findings with the intraoperative observations. A 54-year-old woman presented one week after undergoing percutaneous release of the left middle-finger A1 pulley elsewhere. She reported immediate loss of active finger flexion after the procedure, accompanied by pain and swelling in the palm. Examination demonstrated loss of active flexion at the distal interphalangeal joint and tenderness around the A1 pulley without neurovascular deficit. Magnetic resonance imaging showed discontinuity of the flexor digitorum profundus tendon at the A1 pulley, proximal retraction to the palm, and partial injury to the volar plate of the metacarpophalangeal joint. Surgical exploration confirmed complete tendon rupture, tenosynovitis, frayed tendon edges, and partial volar-plate injury without joint instability. The tendon was mobilised and repaired using a multistrand modified Tsuge technique. Postoperative management included a dorsal blocking splint and supervised mobilisation. At six months, the patient had regained full active flexion of the distal interphalangeal joint, with a residual 10° terminal extension loss and no recurrent triggering or rerupture. Immediate loss of active flexion after percutaneous release should prompt assessment for tendon injury, and magnetic resonance imaging can support diagnosis and operative planning.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Clinical Examination and Self-Reported Upper Extremity Impairments in Patients with Long-Standing Type 1 Diabetes Mellitus",
+      "url": "http://dx.doi.org/10.1155/2020/4172635",
+      "publisher": "Journal of Diabetes Research",
+      "year": "2020",
+      "doi": "10.1155/2020/4172635",
+      "abstract": "Aim. The aims of the current study were (1) to determine the prevalence of upper extremity impairments (UEIs) in patients with type 1 diabetes by clinical investigation; (2) to investigate if self-reported impairments were concordant with clinical findings and if key questions could be identified; and (3) to investigate if answers to our self-reported questionnaire regarding UEIs are reliable. Methods. Patients with type 1 diabetes were invited to participate in a cross-sectional study of clinical and self-reported (12 items) UEIs in adjunction to ordinary scheduled clinical visit. Before the visit, a questionnaire on UEIs was filled in twice (test-retest) followed by clinical testing at the planned visit. Results. In total, 69 patients aged 45±14 years and with diabetes duration 26±15 were included in the study. In the clinical examination, two-thirds (65%) of the patients showed one or more UEI, with failure to perform hand against back as the most common clinical finding (40%) followed by positive Phalen’s test (27%), Tinel’s test (26%), and Prayer’s sign (24%). UEIs observed by clinical examination were often bilateral, and multiple impairments often coexisted. Self-reported shoulder stiffness was associated with impaired shoulder mobility and with Prayer’s sign. Self-reported reduced hand strength was associated to lower grip force, Prayer’s sign, trigger finger, fibrosis string structures, and reduced thenar strength as well as reduced shoulder mobility. In addition, self-reporting previous surgery of carpal tunnel and trigger finger was associated with several clinical UEIs including shoulder, hand, and finger. The test-retest of the questionnaire showed a high agreement of 80-98% for reported shoulder, hand, and finger impairments. Conclusion. UEIs are common in type 1 diabetes. Self-reported shoulder stiffness and reduced hand strength might be used to capture patients with UEIs in need of clinical investigation and enhanced preventive and therapeutic strategies, as well as rehabilitative interventions.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Trigger finger presenting secondary to leiomyoma: a case report",
+      "url": "http://www.jmedicalcasereports.com/content/3/1/7284",
+      "publisher": "Journal of Medical Case Reports",
+      "year": "2009",
+      "doi": "10.1186/1752-1947-3-7284",
+      "abstract": "Abstract Introduction We present a previously undescribed entity: trigger finger secondary to a leiomyoma. This is the first time such a case has been reported and highlights the fact that common conditions can sometimes present secondary to rare diseases. Case presentation A 39-year-old Caucasian man presented with a fairly typical presentation of trigger finger. During surgical treatment, the lesion was excised and sent for histology, which showed tissue consistent with a leiomyoma. The patient made an uneventful recovery. Conclusion Trigger finger is a common condition that is usually easily diagnosed and managed. However, it is important to appreciate that uncommon conditions, such as leiomyoma, can present with what is sometimes considered trivial disease, and one should always consider the differential diagnoses even when faced with relatively benign conditions.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.3,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Trigger finger in adults",
+      "url": "https://doi.org/10.1503/cmaj.150225",
+      "publisher": "CMA Joule Inc.",
+      "year": "2015",
+      "doi": "10.1503/cmaj.150225",
+      "abstract": "The lifetime risk is about 2% to 3%, with women affected more frequently than men. The risk is as high as 10% among people with diabetes mellitus. The ring finger and thumb are most frequently affected.[1][1] Patients present with symptomatic locking during flexion and extension of the affected",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Congenital Trigger Finger",
+      "url": "https://doi.org/10.47338/jns.v3.255",
+      "publisher": "Skyler Publication",
+      "year": "2014",
+      "doi": "10.47338/jns.v3.255",
+      "abstract": "Please see the fulltext",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.16,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Prevalence of hand disorders in type 2 diabetes mellitus and its correlation with microvascular complications",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3793438/",
+      "publisher": "Annals of medical and health sciences research",
+      "year": "2013",
+      "doi": "10.4103/2141-9248.117942",
+      "abstract": "Background Physicians have long recognized the association between diabetes mellitus and several pathologic conditions of the hand. The most commonly recognized maladies are limited joint mobility (LJM), Dupuytren's disease (DD), trigger finger (TF), and carpal tunnel syndrome (CTS). Incidence of these hand disorders has increased in the setting of diabetes. Collectively, these are described as diabetic hand syndrome. Aim The aims were to find out the prevalence of hand disorders in diabetic patients, and to study the relation of these hand disorders with microvascular complications. Subjects and methods This is an observational cross-sectional case-control study done over a period of 1 year Patients of type 2 DM, of age Results A total of 400 subjects were studied, 200 each in the case and control groups. Of total 200 diabetic patients, 30% (60/200) patients had neuropathy, 37.5% (75/200) had nephropathy, and 44.5% (89/200) patients had retinopathy. In the study population, 67% patients were having one or more hand disorders, in which LJM was found in 40.5% (81/200) patients, DD was found in 19% (38/200) patients, TF in 16.5% (33/200), and CTS in 14% (28/200) patients. Conclusions This study shows a high prevalence of hand disorders in diabetic patients and also correlates with the duration of type 2 DM, LJM being the most common hand disorder and more common in patients who have microvascular complications.",
+      "licence": "cc by-nc-sa",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "TRIGGER FINGER.",
+      "url": "https://doi.org/10.1001/jama.1907.25320140014001d",
+      "publisher": "American Medical Association (AMA)",
+      "year": "1907",
+      "doi": "10.1001/jama.1907.25320140014001d",
+      "abstract": "ABSTRACT Stenosing flexor tenosynovitis, more commonly known as trigger finger , is one of the most common causes of hand pain and dysfunction. Clinicians must be able to identify the disorder, know the broad range of treatment options, and counsel patients on the treatment best suited for their condition. Awareness of the economic burden each option entails is central to optimizing treatment outcomes and patient satisfaction.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "A CASE OF TRIGGER FINGERS",
+      "url": "https://doi.org/10.1097/00000658-190210000-00015",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "1902",
+      "doi": "10.1097/00000658-190210000-00015",
+      "abstract": "n/a",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    }
+  ]
+}

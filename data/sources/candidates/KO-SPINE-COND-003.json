@@ -1,0 +1,944 @@
+{
+  "term": "Adolescent Idiopathic Scoliosis",
+  "collected": "2026-11-14",
+  "count": 52,
+  "candidates": [
+    {
+      "provider": "medlineplus",
+      "title": "Scoliosis",
+      "url": "https://medlineplus.gov/scoliosis.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Scoliosis causes a sideways curve of your backbone, or spine. These curves are often S- or C-shaped. Scoliosis is most common in late childhood and the early teens , when children grow fast. Girls are more likely to have it than boys. It can run in families. Symptoms include leaning to one side and having uneven shoulders and hips. Sometimes it is easy to notice, but not always. Children may get screening for scoliosis at school or during a checkup. If it looks like there is a problem, your doctor will use your medical and family history, a physical exam, and imaging tests to make a diagnosis. Treatment depends on your age, how much more you're likely to grow, how much curving there is, and whether the curve is temporary or permanent. People with mild scoliosis might only need checkups to see if the curve is getting worse. Others might need to wear a brace or have surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 5.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparative efficacy and safety of high-dose versus low-dose tranexamic acid in adolescent idiopathic scoliosis: A systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0320391",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0320391",
+      "abstract": "Objective : The objective of this meta-analysis was to evaluate the comparative effectiveness and safety of high-dose versus low-dose tranexamic acid (TXA) in adolescents undergoing treatment for idiopathic scoliosis. Methods : A comprehensive literature search was conducted across PubMed, Web of Science, Embase, Cochrane Library, and China National Knowledge Infrastructure (CNKI) databases up to March 2024. We sought to identify randomized controlled trials (RCTs) and retrospective controlled studies (RCSs) assessing the impact of high-dose compared to low-dose TXA on perioperative blood loss and transfusion requirements in spinal fusion procedures for adolescent idiopathic scoliosis. The study was registered in INPLASY (Registration number: INPLASY202480018). Results : Our meta-analysis included data from six studies: two high-quality RCTs and four lower-quality RCSs, comprising a total of 611 participants. Subgroup analysis revealed that high-dose TXA significantly reduced intraoperative blood loss and transfusion rates in RCSs, whereas no significant differences were observed in RCTs. The combined findings showed that high-dose TXA was associated with a significant reduction in intraoperative blood loss [weighted mean difference (WMD) = -215.48, 95% confidence interval (CI) (-367.58, -63.37), P < 0.001], as well as a decreased likelihood of transfusion [risk ratio (RR) = 0.40, 95% CI (0.30, 0.53), P < 0.001]. Operative time did not differ significantly, and no thromboembolic events were reported in either treatment group. The differences between high and low doses varied widely across studies. Conclusion : This meta-analysis indicates that high-dose TXA does not significantly reduce intraoperative blood loss, transfusion rates, or operative time compared to low-dose TXA in adolescent idiopathic scoliosis. While RCSs showed some benefit, our analysis places more emphasis on the results from RCTs, which did not show significant differences. Further high-quality RCTs are needed to confirm its effectiveness and safety.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.1,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Why do we treat adolescent idiopathic scoliosis? What we want to obtain and to avoid for our patients. SOSORT 2005 Consensus paper",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1475888/",
+      "publisher": "Scoliosis",
+      "year": "2006",
+      "doi": "10.1186/1748-7161-1-4",
+      "abstract": "Background Medicine is a scientific art: once science is not clear, choices are made according to individual and collective beliefs that should be better understood. This is particularly true in a field like adolescent idiopathic scoliosis, where currently does not exist definitive scientific evidence on the efficacy either of conservative or of surgical treatments. Aim of the study To verify the philosophical choices on the final outcome of a group of people believing and engaged in a conservative treatment of idiopathic scoliosis. Methods We performed a multifaceted study that included a bibliometric analysis, a questionnaire, and a careful Consensus reaching procedure between experts in the conservative treatment of scoliosis (SOSORT members). Results The Consensus reaching procedure has shown to be useful: answers changed in a statistically significant way, and 9 new outcome criteria were included. The most important final outcomes were considered Aesthetics (100%), Quality of life and Disability (more than 90%), while more than 80% of preferences went to Back Pain, Psychological well-being, Progression in adulthood, Breathing function, Scoliosis Cobb degrees (radiographic lateral flexion), Needs of further treatments in adulthood. Discussion In the literature prevail outcome criteria driven by the contingent treatment needs or the possibility to have measurement systems (even if it seems that usual clinical and radiographic methods are given much more importance than more complex Disability or Quality of Life instruments). SOSORT members give importance to a wide range of outcome criteria, in which clinical and radiographic issues have the lowest importance. Conclusion We treat our patients for what they need for their future (Breathing function, Needs of further treatments in adulthood, Progression in adulthood), and their present too (Aesthetics, Disability, Quality of life). Technical matters, such as rib hump or radiographic lateral alignment and rotation, but not lateral flexion, are secondary outcomes and only instrumental to previously reported primary outcomes. We advocate a multidimensional, comprehensive evaluation of scoliosis patients, to gather all necessary data for a complete therapeutic approach, that goes beyond x-rays to reach the person and the family.",
+      "licence": "cc by",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "How ‘Idiopathic’ Is Adolescent Idiopathic Scoliosis? A Systematic Review on Associated Abnormalities",
+      "url": "https://doi.org/10.1371/journal.pone.0097461",
+      "publisher": "PLoS ONE",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0097461",
+      "abstract": "Background: Despite more than a century of dedicated research, the etiology and pathogenesis of adolescent idiopathic scoliosis (AIS) remain unclear. By definition, ‘idiopathic’ implies an unknown cause. Nevertheless, many abnormalities concomitant to AIS have been described, often with the suggestion that these abnormalities are related to etio-pathogenesis. Insight in the concomitant abnormalities may assist in improving the understanding of the etiological pathways of AIS. We aimed to systematically review and synthesize available studies on abnormalities concomitant to AIS. Methods: Original studies comparing untreated AIS patients with healthy adolescents on abnormalities other than the deformity of the spine were retrieved from PubMed and Embase. We followed PRISMA guidelines and to quantify the relationship between each abnormality and AIS we used a best-evidence-syntheses for relating risk-of-bias to consistency of effect sizes. Results: We identified 88 relevant citations, forty-seven carried high risk-of-bias and twenty studies did not report quantitative data in a sufficient manner. The remaining twenty-one publications failed to report data from before initiation of the deformity and blind assessments. These cross-sectional studies provided data on fourteen abnormalities concomitant to AIS. With our best-evidence-syntheses we were unable to find both strong evidence and a consistent pattern of occurrence for AIS and any of these abnormalities. From moderate risk-of-bias studies a relatively consistent pattern of occurrence for AIS and impaired gait control (4 studies; 155 subjects; Cohen’s d = 1.00) and decreased bone mineral density (2 studies; 954 subjects; Cohen’s d = −0.83) was found. For nine abnormalities a consistent pattern of occurrence with AIS was found, but the evidence for these was weak. Conclusions: Based on the available literature, strong evidence is lacking for a consistent pattern of occurrence of AIS and any abnormality. The relevance for understanding the multifactorial etiology of AIS is very limited.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.66,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Current concepts in the diagnosis and management of adolescent idiopathic scoliosis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250959/",
+      "publisher": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+      "year": "2020",
+      "doi": "10.1007/s00381-020-04608-4",
+      "abstract": "Background Adolescent Idiopathic Scoliosis (AIS) is a complex 3D structural disorder of the spine that has a significant impact on a person's physical and emotionalstatus. Thus, efforts have been made to identify the cause of the curvature and improve management outcomes. Aim This comprehensive review looks at the relevant literature surrounding the possible aetio-pathogenesis of AIS, its clinical features, investigations, surgicalmanagement options, and reported surgical outcomes in anterior spinal fusion, posterior spinal fusion or combined approach in the treatment of AIS.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Adolescent idiopathic scoliosis: natural history and long term treatment effects",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1475645/",
+      "publisher": "Scoliosis",
+      "year": "2006",
+      "doi": "10.1186/1748-7161-1-2",
+      "abstract": "Adolescent idiopathic scoliosis is a lifetime, probably systemic condition of unknown cause, resulting in a spinal curve or curves of ten degrees or more in about 2.5% of most populations. However, in only about 0.25% does the curve progress to the point that treatment is warranted.Untreated, adolescent idiopathic scoliosis does not increase mortality rate, even though on rare occasions it can progress to the >100 degrees range and cause premature death. The rate of shortness of breath is not increased, although patients with 50 degrees curves at maturity or 80 degrees curves during adulthood are at increased risk of developing shortness of breath. Compared to non-scoliotic controls, most patients with untreated adolescent idiopathic scoliosis function at or near normal levels. They do have increased pain prevalence and may or may not have increased pain severity. Self-image is often decreased. Mental health is usually not affected. Social function, including marriage and childbearing may be affected, but only at the threshold of relatively larger curves.Non-operative treatment consists of bracing for curves of 25 degrees to 35 degrees or 40 degrees in patients with one to two years or more of growth remaining. Curve progression of >/= 6 degrees is 20 to 40% more likely with observation than with bracing. Operative treatment consists of instrumentation and arthrodesis to realign and stabilize the most affected portion of the spine. Lasting curve improvement of approximately 40% is usually achieved.In the most completely studied series to date, at 20 to 28 years follow-up both braced and operated patients had similar, significant, and clinically meaningful reduced function and increased pain compared to non-scoliotic controls. However, their function and pain scores were much closer to normal than patient groups with other, more serious conditions.Risks associated with treatment include temporary decrease in self-image in braced patients. Operated patients face the usual risks of major surgery, a 6 to 29% chance of requiring re-operation, and the remote possibility of developing a pain management problem.Knowledge of adolescent idiopathic scoliosis natural history and long-term treatment effects is and will always remain somewhat incomplete. However, enough is know to provide patients and parents the information needed to make informed decisions about management options.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Biomechanical spinal growth modulation and progressive adolescent scoliosis--a test of the 'vicious cycle' pathogenetic hypothesis: summary of an electronic focus group debate of the IBSE",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1626075/",
+      "publisher": "Scoliosis",
+      "year": "2006",
+      "doi": "10.1186/1748-7161-1-16",
+      "abstract": "There is no generally accepted scientific theory for the causes of adolescent idiopathic scoliosis (AIS). As part of its mission to widen understanding of scoliosis etiology, the International Federated Body on Scoliosis Etiology (IBSE) introduced the electronic focus group (EFG) as a means of increasing debate on knowledge of important topics. This has been designated as an on-line Delphi discussion. The text for this debate was written by Dr Ian A Stokes. It evaluates the hypothesis that in progressive scoliosis vertebral body wedging during adolescent growth results from asymmetric muscular loading in a \"vicious cycle\" (vicious cycle hypothesis of pathogenesis) by affecting vertebral body growth plates (endplate physes). A frontal plane mathematical simulation tested whether the calculated loading asymmetry created by muscles in a scoliotic spine could explain the observed rate of scoliosis increase by measuring the vertebral growth modulation by altered compression. The model deals only with vertebral (not disc) wedging. It assumes that a pre-existing scoliosis curve initiates the mechanically-modulated alteration of vertebral body growth that in turn causes worsening of the scoliosis, while everything else is anatomically and physiologically 'normal' The results provide quantitative data consistent with the vicious cycle hypothesis. Dr Stokes' biomechanical research engenders controversy. A new speculative concept is proposed of vertebral symphyseal dysplasia with implications for Dr Stokes' research and the etiology of AIS. What is not controversial is the need to test this hypothesis using additional factors in his current model and in three-dimensional quantitative models that incorporate intervertebral discs and simulate thoracic as well as lumbar scoliosis. The growth modulation process in the vertebral body can be viewed as one type of the biologic phenomenon of mechanotransduction. In certain connective tissues this involves the effects of mechanical strain on chondrocytic metabolism a possible target for novel therapeutic intervention.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Designing multimedia patient education materials for adolescent idiopathic scoliosis: A protocol for a feasibility randomized controlled trial of patient education videos",
+      "url": "https://doi.org/10.1371/journal.pone.0297394",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0297394",
+      "abstract": "Triple-masked three-armed feasibility parallel randomized controlled trial. Multimedia patient education materials are increasingly used in healthcare. While much research focuses on optimising their scientific content, research is equally needed to optimise design and implementation. This study aims to determine the feasibility of a study examining how the implementation of scientific advice on design affects patient outcomes. Participants aged 10–18 with radiographically confirmed adolescent idiopathic scoliosis will be recruited from community settings in Ireland and randomized into usual care or receiving multimedia educational videos with or without evidence-informed design principles. Participants will be masked in the two video intervention arms, as will the therapist sending the educational videos. Outcomes will include the number of participants recruited and randomized, the number analysed post-intervention and at week eight, and the outcomes for baseline, post-intervention, and week 8. Adverse events will also be reported. This feasibility randomized controlled trial will offer insight into the feasibility of implementing advice from the literature in designing a trial of multimedia patient education materials for a population with adolescent idiopathic scoliosis. Trial registration: Clinical Trail: Trial is registered on ClinicalTrials.gov as NCT06090344.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.96,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The effectiveness of two different exercise approaches in adolescent idiopathic scoliosis: A single-blind, randomized-controlled trial",
+      "url": "https://doi.org/10.1371/journal.pone.0249492",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0249492",
+      "abstract": "Objectives: The purpose of this study was to compare the efficacy of two different types of exercise methods in patients with adolescent idiopathic scoliosis. Methods: In total, 28 subjects with adolescent idiopathic scoliosis with a mild curve magnitude (10°–26°) were randomly divided into two groups: the Schroth group (n = 14) and the core group (n = 14). The patients in the Schroth group were treated with supervised Schroth exercises, and the patients in the core group were treated with supervised core stabilization exercises; both groups performed the exercises for three days per week for a total of 10 weeks, and both were given additional traditional exercises to perform. Assessment included Cobb angle (Radiography), trunk rotation (Adam’s test), cosmetic trunk deformity (Walter Reed Visual Assessment Scale), spinal mobility (Spinal Mouse), peripheral muscle strength (Biodex System 4-Pro), and quality of life (Scoliosis Research Society-22 questionnaire). Results: It was found that patients in the Schroth group showed greater improvement in Cobb angles, thoracic trunk rotation angle, cosmetic trunk deformity, spinal mobility, and quality of life than those in the core group (p<0.05), except for in lumbar trunk rotation angle. Peripheral muscle strength improvement was greater in the core group than in the Schroth group (p<0.05). Conclusion: Schroth exercises are more effective than core stabilization exercises in the correction of scoliosis and related problems in mild adolescent idiopathic scoliosis, and core stabilization exercises are more effective than Schroth exercises in the improvement of peripheral muscle strength. Trial registration: NCT04421157",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.84,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Schroth Physiotherapeutic Scoliosis-Specific Exercises Added to the Standard of Care Lead to Better Cobb Angle Outcomes in Adolescents with Idiopathic Scoliosis - an Assessor and Statistician Blinded Randomized Controlled Trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198985/",
+      "publisher": "PloS one",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0168746",
+      "abstract": "Background The North American non-surgical standard of care for adolescent idiopathic scoliosis (AIS) includes observation and bracing, but not exercises. Schroth physiotherapeutic scoliosis-specific exercises (PSSE) showed promise in several studies of suboptimal methodology. The Scoliosis Research Society calls for rigorous studies supporting the role of exercises before including it as a treatment recommendation for scoliosis. Objectives To determine the effect of a six-month Schroth PSSE intervention added to standard of care (Experimental group) on the Cobb angle compared to standard of care alone (Control group) in patients with AIS. Methods Fifty patients with AIS aged 10-18 years, with curves of 10°-45° and Risser grade 0-5 were recruited from a single pediatric scoliosis clinic and randomized to the Experimental or Control group. Outcomes included the change in the Cobb angles of the Largest Curve and Sum of Curves from baseline to six months. The intervention consisted of a 30-45 minute daily home program and weekly supervised sessions. Intention-to-treat and per protocol linear mixed effects model analyses are reported. Results In the intention-to-treat analysis, after six months, the Schroth group had significantly smaller Largest Curve than controls (-3.5°, 95% CI -1.1° to -5.9°, p = 0.006). Likewise, the between-group difference in the square root of the Sum of Curves was -0.40°, (95% CI -0.03° to -0.8°, p = 0.046), suggesting that an average patient with 51.2° at baseline, will have a 49.3° Sum of Curves at six months in the Schroth group, and 55.1° in the control group with the difference between groups increasing with severity. Per protocol analyses produced similar, but larger differences: Largest Curve = -4.1° (95% CI -1.7° to -6.5°, p = 0.002) and [Formula: see text] (95% CI -0.8 to 0.2, p = 0.006). Conclusion Schroth PSSE added to the standard of care were superior compared to standard of care alone for reducing the curve severity in patients with AIS. Trial registration NCT01610908.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Sitting Posture and Adolescent Idiopathic Scoliosis: A Comparative Analysis of Postural Patterns in Female Students Aged 13-14",
+      "url": "https://zenodo.org/records/13857186",
+      "publisher": "Zenodo",
+      "year": "2024",
+      "doi": "10.5281/zenodo.13857186",
+      "abstract": "This dataset contains research data on the sitting postural patterns of female adolescents aged 13 to 14, specifically focusing on those with and without idiopathic scoliosis. The dataset is designed to facilitate further research and analysis in the field of adolescent health and posture. Key Components Subject Group : Female adolescents aged 13 to 14 years Participants include those with idiopathic scoliosis and those without. Postural Variables Assessed : Head Position : Analysis of head alignment during various activities. Writing Paper Location : Evaluation of the positioning of writing materials during writing tasks. Static Postural Assessment : Comprehensive assessment of overall posture in static positions. Data Analysis The dataset includes both input and output data derived from statistical analyses conducted using SPSS software . This includes: Descriptive Statistics : Summarizes key characteristics of the data, providing insights into central tendencies and variability among the assessed postural variables. Inferential Statistics : Enables researchers to draw conclusions about the broader population based on the sample data, facilitating hypothesis testing and generalizations. Significance This dataset contributes valuable insights into the postural patterns of adolescents, particularly regarding how these patterns may differ between those with scoliosis and their peers. It serves as a resource for researchers aiming to explore the implications of posture on health outcomes in this demographic.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Screening of adolescent idiopathic scoliosis using generative adversarial network (GAN) inversion method in chest radiographs",
+      "url": "https://doi.org/10.1371/journal.pone.0285489",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0285489",
+      "abstract": "Objective: Conventional computer-aided diagnosis using convolutional neural networks (CNN) has limitations in detecting sensitive changes and determining accurate decision boundaries in spectral and structural diseases such as scoliosis. We devised a new method to detect and diagnose adolescent idiopathic scoliosis in chest X-rays (CXRs) employing the latent space’s discriminative ability in the generative adversarial network (GAN) and a simple multi-layer perceptron (MLP) to screen adolescent idiopathic scoliosis CXRs. Materials and methods: Our model was trained and validated in a two-step manner. First, we trained a GAN using CXRs with various scoliosis severities and utilized the trained network as a feature extractor using the GAN inversion method. Second, we classified each vector from the latent space using a simple MLP. Results: The 2-layer MLP exhibited the best classification in the ablation study. With this model, the area under the receiver operating characteristic (AUROC) curves were 0.850 in the internal and 0.847 in the external datasets. Furthermore, when the sensitivity was fixed at 0.9, the model’s specificity was 0.697 in the internal and 0.646 in the external datasets. Conclusion: We developed a classifier for Adolescent idiopathic scoliosis (AIS) through generative representation learning. Our model shows good AUROC under screening chest radiographs in both the internal and external datasets. Our model has learned the spectral severity of AIS, enabling it to generate normal images even when trained solely on scoliosis radiographs.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Effect of Milwaukee Brace in Adolescent Idiopathic Scoliosis",
+      "url": "https://zenodo.org/records/6694320",
+      "publisher": "International Journal of Innovative Science and Research Technology",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6694320",
+      "abstract": "The spine presents two characteristics significant to Milwaukee brace use, its varying susceptibility to both deforming and corrective influence and its relative in accessibility. The Milwaukee brace can apply longitudinal as well as transverse forces to correct the spinal deformity. This study intended to evaluate the effectiveness of Milwaukee brace on progression control as well as correction of scoliosis. Methodology: All the patients diagnosed with AIS.04(four) scoliotic patients ,02 males and 02 females of age group 08-14 who fulfilled the following criteria were recruited were reviewed. After assessment The patient were asked to use Milwaukeebrace was fabricated and advised to the patients to use 23 hours per day with exercises. After 1 year radiographic data were taken for evaluation Results: All data showed clinical improvement in Cobb’s angle, pelvis symmetry,shoulder level by using Milwaukee braces. The best response to brace treatment occurred when treatment was begun before onset of puberty. Longer curves corrected best. Curves of less than 40 degree were satisfactorily treated without surgery.The x-rays (orthoscanogram) was taken of 4 patients without braces who are using Milwaukee braces 7-12months ago. In patient1 there is no pelvic asymmetry. There is improvement of pelvic symmetry in all three patient as compared with previous x-rays. Lateral trunk shift measument also done.it was also as compared with previous x-rays. Conclusion: After analysis of data it was confirmed that Milwaukee brace when used 23 hours per day is effective in preventing progression of higher curves.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Assessment of Average Correction of Cobb's Angle Post Instrumentation in Adolescent Ideopathic Scoliosis in Lenknee Type 1 Curve",
+      "url": "https://zenodo.org/records/6471937",
+      "publisher": "International Journal of Current Science Research and Review",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6471937",
+      "abstract": "ABSTRACT Introduction: Preferred instrumentation for adolescent idiopathic scoliosis (AIS) remains controversial. Surgical correction is classically indicated for progressive curves more than 40° in the skeletally immature patient. Aims and objectives: The basic aim of the study is to analyse the average correction of Cobb’s angle post instrumentation in adolescent ideopathic scoliosis in lenknee type 1 curve. Material and methods: This descriptive study was conducted in Services hospital, Lahore during 2020 to 2021. This study was done with the approval of ethical committee of hospital. There are 27 patients that were included in this study. The age range for the selected patients was 14-20 years from which 15 female and 12 male. The total duration of the study was 2 years. Results: The data was collected from 27 patients. In three patients with Lenke type 1 curve, the apex of curve was the disc at T8/9 or the vertebral body at T9. The mean coronal Cobb angle of the main thoracic curve was 43.7° and the Cobb angles of the compensatory curves on thoracolumbar or lumbar region were less than 20°. On scoliometer measurement of the rib hump averaged 18.5°. On the lateral bending film the mean Cobb angle of main thoracic curve was corrected to 15.7°. Conclusion: It is concluded that patients with Lenke 1 increasing the cost density of instrumentation does not translate into improving the Cobb angle of the uninstrumented spine and does not change any of the cosmetic parameters measured on clinical patient photographs.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Assessment of adolescent idiopathic scoliosis from body scanner image by finite element simulations",
+      "url": "https://doi.org/10.1371/journal.pone.0243736",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0243736",
+      "abstract": "Adolescent idiopathic scoliosis, is a three-dimensional spinal deformity characterized by lateral curvature and axial rotation around the vertical body axis of the spine, the cause of which is yet unknown. The fast progression entails regular clinical monitoring, including X-rays. Here we present an approach to evaluate scoliosis from the three-dimensional image of a patient’s torso, captured by an ionizing radiation free body scanner, in combination with a model of the ribcage and spine. A skeletal structure of the ribcage and vertebral column was modelled with computer aided designed software and was used as an initial structure for macroscopic finite element method simulations. The basic vertebral column model was created for an adult female in an upright position. The model was then used to simulate the patient specific scoliotic spine configurations. The simulations showed that a lateral translation of a vertebral body results in an effective axial rotation and could reproduce the spinal curvatures. The combined method of three-dimensional body scan and finite element model simulations thus provide quantitative anatomical information about the position, rotation and inclination of the thoracic and lumbar vertebrae within a three-dimensional torso. Furthermore, the simulations showed unequal distributions of stress and strain profiles across the intervertebral discs, due to their distortions, which might help to further understand the pathogenesis of scoliosis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Sagittal profile modifications in hybrid versus all screw technique in adolescent idiopathic scoliosis",
+      "url": "https://zenodo.org/records/5729249",
+      "publisher": "Scientific reports",
+      "year": "2021",
+      "doi": "10.1038/s41598-020-79523-4",
+      "abstract": "Abstract Aim of the study was to evaluate sagittal parameters modifications, with particular interest in thoracic kyphosis, in patients affected by adolescent idiopathic scoliosis (AIS) comparing hybrid and all-screws technique. From June 2010 to September 2018, 145 patients were enrolled. Evaluation included: Lenke classification, Risser scale, coronal Cobb angle, thoracic kyphosis (TK), lumbar lordosis (LL), sagittal vertical axis (SVA), pelvic incidence (PI), pelvic tilt (PT), sacral slope (SS). Patients were divided in two groups (1 all-screws and 2 hybrid); a further division, in both groups, was done considering preoperative TK values. Descriptive and inferential statistical analysis was conducted. 99 patients were in group 1, 46 in group 2 (mean follow-up 3.7 years). Patients with a normo-kyphotic profile developed a little variation in TK (Δ pre-post = 2.4° versus - 2.0° respectively). Hyper-kyphotic subgroups had a tendency of restoring a good sagittal alignment. Hypo-kyphotic subgroups, patients treated with all-screw implants developed a higher increase in TK mean Cobb angle (Δ pre-post = 10°) than the hybrid subgroup (Δ pre-post = 5.4°) (p = 0.01). All-screws group showed better results in restoring sagittal alignment in all subgroups compared to hybrid groups, especially in hypo-TK subgroup, with the important advantage to give better correction on coronal plane.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Altered balance control in thoracic adolescent idiopathic scoliosis during obstructed gait",
+      "url": "https://doi.org/10.1371/journal.pone.0228752",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0228752",
+      "abstract": "Adolescent idiopathic scoliosis (AIS) is the most common spinal deformity during adolescence, leading to altered postural control with compromised stability. To identify the effects of AIS on whole-body balance control during obstacle-crossing, 14 adolescents with Lenke 1 thoracic AIS and 14 healthy controls were compared in terms of the inclination angle (IA) of the body’s center of mass (COM) relative to the center of pressure (COP), the rate of change of IA (RCIA) and the jerk index of IA. Between-side comparisons were also performed for the AIS group. The patients showed less smooth COM-COP motion in the sagittal plane with significantly increased anterior RCIA and IA jerk index during crossing with either the concave side (p = 0.001) or the convex side (p = 0.001) leading when compared to healthy controls. In the frontal plane, the patients showed close-to-zero RCIA (p = 0.002) while crossing with the leading limb, with an increased IA magnitude (p = 0.039) only while crossing with the concave-side limb leading. The patients with Lenke 1 thoracic AIS were found to cross obstacles with altered, compromised COM-COP control in both sagittal and frontal planes when compared to healthy controls. The results suggest that the thoracic spinal deformity in Lenke 1 AIS affects the whole-body balance control during obstacle-crossing, which should be monitored for signs of increased risk of loss of balance in the management of such patient groups.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "SLC39A8 gene encoding a metal ion transporter: discovery and bench to bedside",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6744627/",
+      "publisher": "Human genomics",
+      "year": "2019",
+      "doi": "10.1186/s40246-019-0233-3",
+      "abstract": "SLC39A8 is an evolutionarily highly conserved gene that encodes the ZIP8 metal cation transporter in all vertebrates. SLC39A8 is ubiquitously expressed, including pluripotent embryonic stem cells; SLC39A8 expression occurs in every cell type examined. Uptake of ZIP8-mediated Mn 2+ , Zn 2+ , Fe 2+ , Se 4+ , and Co 2+ represents endogenous functions-moving these cations into the cell. By way of mouse genetic differences, the phenotype of \"subcutaneous cadmium-induced testicular necrosis\" was assigned to the Cdm locus in the 1970s. This led to identification of the mouse Slc39a8 gene, its most closely related Slc39a14 gene, and creation of Slc39a8-overexpressing, Slc39a8(neo/neo) knockdown, and cell type-specific conditional knockout mouse lines; the Slc39a8(-/-) global knockout mouse is early-embryolethal. Slc39a8(neo/neo) hypomorphs die between gestational day 16.5 and postnatal day 1-exhibiting severe anemia, dysregulated hematopoiesis, hypoplastic spleen, dysorganogenesis, stunted growth, and hypomorphic limbs. Not surprisingly, genome-wide association studies subsequently revealed human SLC39A8-deficiency variants exhibiting striking pleiotropy-defects correlated with clinical disorders in virtually every organ, tissue, and cell-type: numerous developmental and congenital disorders, the immune system, cardiovascular system, kidney, lung, liver, coagulation system, central nervous system, musculoskeletal system, eye, and gastrointestinal tract. Traits with which SLC39A8-deficiency variants are currently associated include Mn 2+ -deficient hypoglycosylation; numerous birth defects; Leigh syndrome-like mitochondrial redox deficiency; decreased serum high-density lipoprotein-cholesterol levels; increased body mass index; greater risk of coronary artery disease, hypotension, cardiovascular death, allergy, ischemic stroke, schizophrenia, Parkinson disease, inflammatory bowel disease, Crohn disease, myopia, and adolescent idiopathic scoliosis; systemic lupus erythematosus with primary Sjögren syndrome; decreased height; and inadvertent participation in the inflammatory progression of osteoarthritis.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Adolescent idiopathic scoliosis associated POC5 mutation impairs cell cycle, cilia length and centrosome protein interactions",
+      "url": "https://doi.org/10.1371/journal.pone.0213269",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0213269",
+      "abstract": "Adolescent Idiopathic Scoliosis (AIS) is a spinal deformity that affects approximately 3 percent of human adolescents. Although the etiology and molecular basis of AIS is unclear, several genes such as POC5 have been identified as possible causes of the condition. In order to understand the role of POC5 in the pathogenesis of AIS, we investigated the subcellular localization of POC5 in cilia of cells over-expressing either the wild type (wt) or an AIS-related POC5 variant POC5A429V. Mutation of POC5 was found to alter its subcellular localization and to induce ciliary retraction. Furthermore, we observed an impaired cell-cycle progression with the accumulation of cells in the S-phase in cells expressing POC5A429V. Using immunoprecipitation coupled to mass spectrometry, we identified specific protein interaction partners of POC5, most of which were components of cilia and cytoskeleton. Several of these interactions were altered upon mutation of POC5. Altogether, our results demonstrate major cellular alterations, disturbances in centrosome protein interactions and cilia retraction in cells expressing an AIS-related POC5 mutation. Our study suggests that defects in centrosomes and cilia may underlie AIS pathogenesis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Genome-wide association study identifies new susceptibility loci for adolescent idiopathic scoliosis in Chinese girls",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4595747/",
+      "publisher": "Nature communications",
+      "year": "2015",
+      "doi": "10.1038/ncomms9355",
+      "abstract": "Adolescent idiopathic scoliosis (AIS) is a structural deformity of the spine affecting millions of children. As a complex disease, the genetic aetiology of AIS remains obscure. Here we report the results of a four-stage genome-wide association study (GWAS) conducted in a sample of 4,317 AIS patients and 6,016 controls. Overall, we identify three new susceptibility loci at 1p36.32 near AJAP1 (rs241215, Pcombined=2.95 × 10(-9)), 2q36.1 between PAX3 and EPHA4 (rs13398147, Pcombined=7.59 × 10(-13)) and 18q21.33 near BCL-2 (rs4940576, Pcombined=2.22 × 10(-12)). In addition, we refine a previously reported region associated with AIS at 10q24.32 (rs678741, Pcombined=9.68 × 10(-37)), which suggests LBX1AS1, encoding an antisense transcript of LBX1, might be a functional variant of AIS. This is the first GWAS investigating genetic variants associated with AIS in Chinese population, and the findings provide new insight into the multiple aetiological mechanisms of AIS.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Identification of a Susceptibility Locus for Severe Adolescent Idiopathic Scoliosis on Chromosome 17q24.3",
+      "url": "https://doi.org/10.1371/journal.pone.0072802",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0072802",
+      "abstract": "Adolescent idiopathic scoliosis (AIS) is the most common spinal deformity, affecting around 2% of adolescents worldwide. Genetic factors play an important role in its etiology. Using a genome-wide association study (GWAS), we recently identified novel AIS susceptibility loci on chromosomes 10q24.31 and 6q24.1. To identify more AIS susceptibility loci relating to its severity and progression, we performed GWAS by limiting the case subjects to those with severe AIS. Through a two-stage association study using a total of ∼12,000 Japanese subjects, we identified a common variant, rs12946942 that showed a significant association with severe AIS in the recessive model (P = 4.00×10−8, odds ratio [OR] = 2.05). Its association was replicated in a Chinese population (combined P = 6.43×10−12, OR = 2.21). rs12946942 is on chromosome 17q24.3 near the genes SOX9 and KCNJ2, which when mutated cause scoliosis phenotypes. Our findings will offer new insight into the etiology and progression of AIS.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.12,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Differential Proteome Analysis of Bone Marrow Mesenchymal Stem Cells from Adolescent Idiopathic Scoliosis Patients",
+      "url": "https://doi.org/10.1371/journal.pone.0018834",
+      "publisher": "PLoS ONE",
+      "year": "2011",
+      "doi": "10.1371/journal.pone.0018834",
+      "abstract": "Adolescent idiopathic scoliosis (AIS) is a complex three-dimensional deformity of the spine. The cause and pathogenesis of scoliosis and the accompanying generalized osteopenia remain unclear despite decades of extensive research. In this study, we utilized two-dimensional fluorescence difference gel electrophoresis (2D-DIGE) coupled with mass spectrometry (MS) to analyze the differential proteome of bone marrow mesenchymal stem cells (BM-MSCs) from AIS patients. In total, 41 significantly altered protein spots were detected, of which 34 spots were identified by MALDI-TOF/TOF analysis and found to represent 25 distinct gene products. Among these proteins, five related to bone growth and development, including pyruvate kinase M2, annexin A2, heat shock 27 kDa protein, γ-actin, and β-actin, were found to be dysregulated and therefore selected for further validation by Western blot analysis. At the protein level, our results supported the previous hypothesis that decreased osteogenic differentiation ability of MSCs is one of the mechanisms leading to osteopenia in AIS. In summary, we analyzed the differential BM-MSCs proteome of AIS patients for the first time, which may help to elucidate the underlying molecular mechanisms of bone loss in AIS and also increase understanding of the etiology and pathogenesis of AIS.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.04,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Association between adolescent idiopathic scoliosis prevalence and age at menarche in different geographic latitudes",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1501058/",
+      "publisher": "Scoliosis",
+      "year": "2006",
+      "doi": "10.1186/1748-7161-1-9",
+      "abstract": "Background Age at menarche is considered a reliable prognostic factor for idiopathic scoliosis and varies in different geographic latitudes. Adolescent idiopathic scoliosis prevalence has also been reported to be different in various latitudes and demonstrates higher values in northern countries. A study on epidemiological reports from the literature was conducted to investigate a possible association between prevalence of adolescent idiopathic scoliosis and age at menarche among normal girls in various geographic latitudes. An attempt is also made to implicate a possible role of melatonin in the above association. Material-methods 20 peer-reviewed published papers reporting adolescent idiopathic scoliosis prevalence and 33 peer-reviewed papers reporting age at menarche in normal girls from most geographic areas of the northern hemisphere were retrieved from the literature. The geographic latitude of each centre where a particular study was originated was documented. The statistical analysis included regression of the adolescent idiopathic scoliosis prevalence and age at menarche by latitude. Results The regression of prevalence of adolescent idiopathic scoliosis and age at menarche by latitude is statistically significant (p Conclusion Late age at menarche is parallel with higher prevalence of adolescent idiopathic scoliosis. Pubarche appears later in girls that live in northern latitudes and thus prolongs the period of spine vulnerability while other pre-existing or aetiological factors are contributing to the development of adolescent idiopathic scoliosis. A possible role of geography in the pathogenesis of idiopathic scoliosis is discussed, as it appears that latitude which differentiates the sunlight influences melatonin secretion and modifies age at menarche, which is associated to the prevalence of idiopathic scoliosis.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Enhancing Orthotic Treatment for Scoliosis: Development of Body Pressure Mapping Knitwear with Integrated FBG Sensors",
+      "url": "https://www.mdpi.com/1424-8220/25/5/1284",
+      "publisher": "Sensors",
+      "year": "2025",
+      "doi": "10.3390/s25051284",
+      "abstract": "Bracing is a widely used conservative treatment for adolescent idiopathic scoliosis (AIS) patients, yet there is no consensus on the optimal amount of force applied. Although a number of different sensors have been developed to continuously monitor the applied pressure and force, they have several limitations, including inadequate overall force distribution and displacement. They also cause discomfort with limited wearability. In this study, body pressure mapping knitwear (BPMK) integrated with fourteen silicone-embedded fiber Bragg grating (FBG) sensors is developed to monitor immediate and overall changes in force during the bracing treatment. A wear trial of the BPMK is conducted by using a validated soft AIS mannequin, and prediction equations have been formulated for the FBG sensors at individual locations. The findings indicate that the measured forces are in good agreement with those obtained from clinical studies, with peak forces around the padding regions reaching approximately 2N. This was further validated by using finite element (FE) models. When comparing X-ray images, the estimated differences in Cobb angles were found to be 0.6° for the thoracic region and 2.1° for the lumbar region. This model is expected to provide valuable insights into optimal force application, thus minimizing the risk of injury and enhancing bracing compliance and efficacy. Ultimately, this innovative approach provides clinicians with data-driven insights for safer and more effective bracing applications, thus improving the quality of life of AIS patients.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Morphological and Morphometric Assessment of Adolescent Idiopathic Scoliosis According to Pelvic Axial Rotation—A Retrospective Cohort Study with 397 Patients",
+      "url": "https://www.mdpi.com/2227-9067/12/8/991",
+      "publisher": "Children",
+      "year": "2025",
+      "doi": "10.3390/children12080991",
+      "abstract": "Background: A precise radiographic evaluation of adolescent idiopathic scoliosis (AIS) is essential for effective treatment planning and follow-up. The pelvic axial rotation (PAR) and horizontal balance of the pelvis are critical factors to consider throughout the treatment and monitoring of AIS. While some previous studies have examined spinal curvature in relation to PAR direction and the direction of the major curve (DMC) in AIS patients, this study aims to explore the relationship between scoliosis morphology, pelvic axial rotation (PAR), and the direction of the major curve in patients with adolescent idiopathic scoliosis. Methods: Radiographic images of 397 patients diagnosed with AIS between 2023 and 2024 at a Tertiary Referral Hospital were retrospectively evaluated. Morphological and morphometric measurements, including sex, Lenke and Risser classifications, lower leg discrepancy, Cobb angle, PAR direction, and major curvature direction, were performed. Results: The mean age of the 397 patients (246 female, 151 male) was 14.47 ± 2.29. There is no significant correlation between PAR and DMC ( p = 0.919). No significant differences were found in terms of sex ( p = 0.603). Regardless of the PAR direction, major curvature was more common on the left side (57.7%). Furthermore, a positive correlation was noted between the Cobb angle and LLD. Conclusions: Our study contributes to a growing body of literature questioning the deterministic role of PAR in AIS. While previous reports have emphasized the directional correlation between the pelvis and spinal curvature, our findings suggest that pelvic rotation may not be a reliable indicator of curve direction in all patients. This highlights the complexity of AIS biomechanics and underscores the need for individualized radiographic and clinical evaluation rather than a reliance on generalized compensatory models.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effect of Cheneau bracing on rib cage kinematics during breathing in adolescent idiopathic scoliosis assessed by biplanar radiography: a feasibility study",
+      "url": "https://hal.science/hal-05444165v1",
+      "publisher": "European Spine Journal",
+      "year": "2025",
+      "doi": "10.1007/s00586-025-09689-w",
+      "abstract": "Background Adolescent idiopathic scoliosis (AIS) can be associated with restrictive lung disease. Brace wearing is also associated with restrictive lung disease. Due to external compression, bracing could alter the biomechanical function of the rib cage. The aim of this work was to test the feasibility of using biplanar radiography to study the impact of the brace on the rib cage kinematics during breathing. Materials and methods Twelve patients with moderate AIS, treated with Cheneau-Toulouse-Munster (CTM) brace, underwent pulmonary function test and biplanar radiography at two lung volumes: normal breathing and full inspiration with and without brace. Their spine and rib cage were reconstructed in 3D from the radiographs. Results Lung volumes were reduced after application of the brace, both by pulmonary function test and 3D reconstruction. The reduction in the rib cage volume appeared to be due to changes in rib cage width, in relation to the pressure pads. Costovertebral strategy did not seem to be modified by brace wearing. The brace tended to increase the correction of the cobb angle in maximum inspiration. Conclusions This study confirms the relevance of assessing respiratory function using biplanar radiography and 3D reconstruction. By reducing lung volumes without changing the costo-vertebral strategy, the impact of the Cheneau brace on ventilation remains to be clarified. Level of evidence III, prospective.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "AN INNOVATIVE ENERGY METHOD TO INFORM SURGICAL PLANNING OF ADOLESCENT IDIOPATHIC SCOLIOSIS",
+      "url": "https://hal.science/hal-05179542v1",
+      "publisher": "HAL open archive",
+      "year": "2025",
+      "doi": "",
+      "abstract": "Despite the critical role of surgery in managing adolescent idiopathic scoliosis (AIS), the choice of instrumented levels and the sagittal balance remains challenging. We proposed an image-driven energetic model to reduce empiricism. The objective is to simulate the impact of the instrumentation length, ie. the choice of lower and upper instrumented vertebra (LIV and UIV), on the spine response.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Biomechanical analysis of spinal range of motion and intervertebral disc loadings in normal and adolescent idiopathic scoliosis models",
+      "url": "https://hal.science/hal-05416509v1",
+      "publisher": "Frontiers in Bioengineering and Biotechnology",
+      "year": "2025",
+      "doi": "10.3389/fbioe.2025.1473776",
+      "abstract": "Objective While the Lenke classification enhances our structural understanding of adolescent idiopathic scoliosis (AIS), the biomechanical implications for spinal range of motion (ROM) and intervertebral disc (IVD) loadings remain unclear. This study aims to quantitatively explore and compare these biomechanical responses in normal thoracolumbar spines and those with various curvatures of Lenke types under pure bending conditions. Methods The baseline thoracolumbar finite element (FE) model was derived from a comprehensive human body FE model, validated, and calibrated against spinal responses under dynamic compression and quasi-static bending conditions. Using mesh morphing, AIS models of Lenke 1, Lenke 2, Lenke 3, and Lenke 5 were established to represent their respective spinal curvatures. Pure bending moments of ±7.5 Nm in flexion-extension, lateral bending, and axial rotation were applied to both normal and AIS models. Global spinal ROM and ROM of spinal segments T1-T6, T7-T12, and L1-Sacrum were measured under each loading condition. IVD mechanical loadings, including force, moment, and VonMises stress, were also evaluated and compared across all models. Results AIS models showed higher principal ROM compared to the normal model, with Lenke 2 having the highest ROM from T1-Sacrum and Lenke 3 the highest ROM from T6-12. AIS models exhibited more asymmetry in segmental ROM, particularly in the lumbar spine during lateral bending and axial rotation. IVD mechanical loadings varied significantly between normal and AIS models, influenced by spinal curvature types. AIS models had higher secondary moments and shear forces, especially under flexion-extension. The highest stress was mostly observed in the frontal IVD regions under flexion which was greatly reduced under extension. Lateral bending caused the highest stress predominantly on the same side as the loading direction in the IVD regions. The IVDs of T6-T7 and T12-L1 showed even stress distribution under axial rotation, while the right IVD regions of L5-Sacrum sustained the highest stress under right axial rotation, and the left regions under left axial rotation. In Lenke 3 and Lenke 5 models, the right (concave) regions of the T12-L1 IVD consistently sustained higher stress levels, regardless of the loading conditions applied. Conclusion This study underscores significant biomechanical differences between normal and AIS models, revealing intricate interactions within scoliotic spines and enhancing our understanding of AIS biomechanics. These insights can aid in better diagnosis, treatment planning, and prognosis. Extension-focused therapeutic exercises may reduce stress on anterior IVDs, potentially lowering the risk of low back pain or disc herniation, while careful management of rotational exercises can help minimize stress in the lower lumbar regions.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Psychometric analysis and the implications for the use of the scoliosis research society questionnaire (SRS-22r English) for individuals with adolescent idiopathic scoliosis",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2666548424002385",
+      "publisher": "North American Spine Society Journal",
+      "year": "2024",
+      "doi": "10.1016/j.xnsj.2024.100545",
+      "abstract": "Background: Despite widespread usage of the SRS-22r questionnaire (Scoliosis Research Society Questionnaire-22r), the English version has only sparingly been subjected to analysis using modern psychometric techniques for patients with adolescent idiopathic scoliosis (AIS). The study purpose was to improve interpretation and clinical utility of the SRS-22r for adolescents with AIS by generating additional robust evidence, using modern statistical techniques. Questions about (1) Structure and (2) Item and Scale Functioning are addressed and interpreted for clinicians and researchers. Methods: This retrospective case review analyzed SRS-22r data collected from 1823 patients (mean age 14.9±2.2years) with a primary diagnosis of AIS who clinically completed an SRS-22r questionnaire.Individual SRS-22r questions and domain scores were retrieved through data queries. Patient information collected through chart review included diagnosis, age at assessment, sex, race and radiographic parameters. From 6044 SRS-22r assessments, 1 assessment per patient was randomly selected. Exploratory structural equation modeling (ESEM) and item response theory (IRT) techniques were used for data modeling, item calibration, and reliability assessment. Results: ESEM demonstrated acceptable fit to the data: χ2 (130)=343.73, p 0.80) reliability. Conclusions: Modern psychometric assessment of the SRS-22r, in adolescent patients with AIS, are presented and interpreted to assist clinicians and researchers in understanding its strengths and limitations. Overall, the SRS-22r demonstrated good psychometric properties in all domains except function. Cautious interpretation of the total score is suggested, as it does not reflect a single HRQoL construct.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Association of genetic variation in COL11A1 with adolescent idiopathic scoliosis",
+      "url": "https://elifesciences.org/articles/89762",
+      "publisher": "eLife",
+      "year": "2024",
+      "doi": "10.7554/eLife.89762",
+      "abstract": "Adolescent idiopathic scoliosis (AIS) is a common and progressive spinal deformity in children that exhibits striking sexual dimorphism, with girls at more than fivefold greater risk of severe disease compared to boys. Despite its medical impact, the molecular mechanisms that drive AIS are largely unknown. We previously defined a female-specific AIS genetic risk locus in an enhancer near the PAX1 gene. Here, we sought to define the roles of PAX1 and newly identified AIS-associated genes in the developmental mechanism of AIS. In a genetic study of 10,519 individuals with AIS and 93,238 unaffected controls, significant association was identified with a variant in COL11A1 encoding collagen (α1) XI (rs3753841; NM_080629.2_c.4004C>T; p.(Pro1335Leu); p=7.07E–11, OR = 1.118). Using CRISPR mutagenesis we generated Pax1 knockout mice (Pax1-/-). In postnatal spines we found that PAX1 and collagen (α1) XI protein both localize within the intervertebral disc-vertebral junction region encompassing the growth plate, with less collagen (α1) XI detected in Pax1-/- spines compared to wild-type. By genetic targeting we found that wild-type Col11a1 expression in costal chondrocytes suppresses expression of Pax1 and of Mmp3, encoding the matrix metalloproteinase 3 enzyme implicated in matrix remodeling. However, the latter suppression was abrogated in the presence of the AIS-associated COL11A1P1335L mutant. Further, we found that either knockdown of the estrogen receptor gene Esr2 or tamoxifen treatment significantly altered Col11a1 and Mmp3 expression in chondrocytes. We propose a new molecular model of AIS pathogenesis wherein genetic variation and estrogen signaling increase disease susceptibility by altering a PAX1-COL11a1-MMP3 signaling axis in spinal chondrocytes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Association of Functional Gastrointestinal Disorders with Adolescent Idiopathic Scoliosis",
+      "url": "https://www.mdpi.com/2227-9067/11/1/118",
+      "publisher": "Children",
+      "year": "2024",
+      "doi": "10.3390/children11010118",
+      "abstract": "Numerous adolescents diagnosed with adolescent idiopathic scoliosis (AIS) often manifest symptoms indicative of functional gastrointestinal disorders (FGIDs). However, the precise connection between FGIDs and AIS remains unclear. The study involved adolescents drawn from sample datasets provided by the Korean Health Insurance Review and Assessment Service spanning from 2012 to 2016, with a median dataset size of 1,446,632 patients. The AIS group consisted of individuals aged 10 to 19 with diagnostic codes for AIS, while the control group consisted of those without AIS diagnostic codes. The median prevalence of FGIDs in adolescents with AIS from 2012 to 2016 was 24%. When accounting for confounding factors, the analysis revealed that adolescents with AIS were consistently more prone to experiencing FGIDs each year (2012: adjusted odds ratio (aOR), 1.21 [95% confidence interval (CI), 1.10–1.35], p p p p p < 0.001). These findings suggest that AIS is correlated with an elevated likelihood of FGIDs, indicating that AIS may function as a potential risk factor for these gastrointestinal issues. Consequently, it is recommended to provide counseling to adolescents with AIS, alerting them to the heightened probability of experiencing chronic gastrointestinal symptoms.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Adolescent Idiopathic Scoliosis and Pregnancy",
+      "url": "https://doi.org/10.7759/cureus.46782",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "2023",
+      "doi": "10.7759/cureus.46782",
+      "abstract": "Objective This study examined the interaction between adolescent idiopathic scoliosis (AIS) and pregnancy, focusing on pregnancy outcomes, changes in back pain, and anesthesia use. Methods A retrospective analysis was conducted on adult patients with AIS who gave birth at our institution between 2006 and 2022. Results A total of 163 AIS patients with 263 pregnancies were included. The median age at delivery was 33 (range 18 to 50) years. Among 157 patients with information on prior scoliosis treatment, 66.9% had not received treatment, 20.4% had undergone spinal fusion, and 12.7% had received bracing. Of the 260 pregnancies with available data, 90.4% were delivered at term and 8.5% were preterm. Of the 257 pregnancies with information on anesthesia type, 35.0% received epidural anesthesia, 17.9% received spinal anesthesia, 37.7% received combined spinal and epidural anesthesia, 8.2% received no anesthesia, and 1.2% received intravenous or general anesthesia. Difficulty administering neuraxial anesthesia was reported in 6.1% of cases, and these patients were less likely to receive combined spinal and epidural anesthesia (6.3% versus 39.8%, p = 0.0123). Among 116 cases with recorded back pain during pregnancy, 67.2% reported increased pain, 31.9% reported similar pain, and one patient reported decreased pain. Of the 16 patients with pre and postpartum radiographs, eight showed a Cobb angle increase ≥ 3°, with five patients having an increase ≥ 5°. Conclusions Pregnancy can exacerbate back pain and pose challenges for neuraxial anesthesia in some AIS patients. Further large-scale, multi-institutional studies with standardized data collection are needed to fully understand the impact of pregnancy on AIS.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Global malalignment in adolescent idiopathic scoliosis: The axial deformity is the main driver",
+      "url": "https://hal.science/hal-03577114v1",
+      "publisher": "European Spine Journal",
+      "year": "2022",
+      "doi": "10.1007/s00586-021-07101-x",
+      "abstract": "Purpose: To evaluate the global alignment of non-operated subjects with adolescent idiopathic scoliosis. Method: A total of 254 subjects with AIS and 64 controls underwent low dose biplanar X-rays and had their spine, pelvis, and rib cage reconstructed in 3D. Global alignment was measured in the sagittal and frontal planes by calculating the OD-HA angle (between C2 dens to hip axis with the vertical). Subjects with AIS were classified as malaligned if the OD-HA was > 95th percentile relative to controls. Results: The sagittal OD-HA in AIS remained within the normal ranges. In the frontal plane, 182 AIS were normally aligned (Group 1, OD-HA = 0.9°) but 72 were malaligned (Group 2, OD-HA = 2.9°). Group 2 had a more severe spinal deformity in the frontal and horizontal planes compared to Group 1 (Cobb: 42 ± 16° vs. 30 ± 18°; apical vertebral rotation AVR: 19 ± 10° vs. 12 ± 7°, all p < 0.05). Group 2 subjects were mainly classified as Lenke 5 or 6. 19/72 malaligned subjects had a mild deformity (Cobb < 30°) but a progressive scoliosis (severity index ≥ 0.6). The frontal OD-HA angle was found to be mainly determined (adjusted-R2 = 0.22) by the apical vertebral rotation and secondarily by the Lenke type. Conclusions: This study showed that frontal malalignment is more common in distal major structural scoliosis and its main driver is the apical vertebral rotation. This highlights the importance of monitoring the axial plane deformity in order to avoid worsening of the frontal global alignment.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Biomechanical Evaluation of Intercostal Muscles in Healthy Children and Adolescent Idiopathic Scoliosis: A Preliminary Study",
+      "url": "https://hal.science/hal-03031970v1",
+      "publisher": "Ultrasound in Medicine and Biology",
+      "year": "2021",
+      "doi": "10.1016/j.ultrasmedbio.2020.09.011",
+      "abstract": "Spine deformity during adolescent idiopathic scoliosis can induce a rib-cage deformity. This bone deformity can have direct consequences on the chest-wall muscles, including intercostal muscles, leading to respiratory impairments in individuals with severe cases. The aim of this study was to determine whether shear-wave elastography can be used to measure intercostal-muscle shear-wave speed (SWS) in healthy children and those with adolescent idiopathic scoliosis (AIS). Nineteen healthy participants and 16 with AIS took part. SWS measurements were taken by three operators, twice each. Average SWS was 2.3 ± 0.4 m/s, and inter-operator reproducibility was 0.2 m/s. SWS was significantly higher during apnea than in normal breathing (p < 0.01) in both groups. No significant difference was observed between groups in apnea or in normal breathing. Characterization of the intercostal muscles by ultrasound elastography is therefore feasible and reliable for children and adolescents with and without scoliosis.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Research progress on the etiology and pathogenesis of adolescent idiopathic scoliosis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7046244/",
+      "publisher": "Chinese medical journal",
+      "year": "2020",
+      "doi": "10.1097/cm9.0000000000000652",
+      "abstract": "Etiology of adolescent idiopathic scoliosis (AIS), a complicated three-dimensional spinal deformity with early-onset, receives continuous attention but remains unclear. To gain an insight into AIS pathogenesis, this review searched PubMed database up to June 2019, using key words or medical subject headings terms including \"adolescent idiopathic scoliosis,\" \"scoliosis,\" \"pathogenesis,\" \"etiology,\" \"genetics,\" \"mesenchymal stem cells,\" and their combinations, summarized existing literatures and categorized the theories or hypothesis into nine aspects. These aspects include bone marrow mesenchymal stem cell studies, genetic studies, tissue analysis, spine biomechanics measurements, neurologic analysis, hormone studies, biochemical analysis, environmental factor analysis, and lifestyle explorations. These categories could be a guidance for further etiology or treatment researches to gain inspiration.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Patient-specific rods for thoracic kyphosis correction in adolescent idiopathic scoliosis surgery: Preliminary results",
+      "url": "https://hal.science/hal-03135580v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2020",
+      "doi": "10.1016/j.otsr.2019.07.027",
+      "abstract": "INTRODUCTION: Restoring a degree of kyphosis consistent with good sagittal alignment of the spine is a key concern when performing surgery to correct adolescent idiopathic scoliosis (AIS). The objective of this study was to assess the preliminary outcomes of posterior fusion for AIS using patient-specific rods that were pre-contoured based on pelvic incidence. The primary evaluation criterion was thoracic kyphosis at last follow-up. HYPOTHESIS: The use of pre-bent patient-specific rods has a favourable effect on thoracic kyphosis at last follow-up. MATERIAL AND METHODS: A total of 37 patients with AIS, including 17 with hypokyphosis, managed with patient-specific rods were included in a prospective study. The rod contouring angles were based on predefined pelvic incidence criteria (25° to 40° for the rod on the convex side and the same value plus 10° for the rod on the concave side). Thoracic kyphosis was assessed before surgery and at last follow-up, after 12-36 months (mean, 19 months). Student's t test was applied to compare means. Multivariate linear regression analysis was performed. RESULTS: At last follow-up, the mean increase in kyphosis was 14° and was comparable to the planned increase (mean difference=0, p=0.85). Factors associated with kyphosis at last follow-up were the concave rod contouring angle and the pre-operative kyphotic angle of the thoracic segment to be instrumented (p",
+      "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Influence of Distal Fusion Level on Sagittal Spinopelvic and Spinal Parameters in the Surgical Management of Adolescent Idiopathic Scoliosis",
+      "url": "http://www.asianspinejournal.org/upload/pdf/asj-12-147.pdf",
+      "publisher": "Asian Spine Journal",
+      "year": "2018",
+      "doi": "10.4184/asj.2018.12.1.147",
+      "abstract": "Study DesignRetrospective analysis of adolescent idiopathic scoliosis.PurposeThis study aimed to investigate the influence of distinct distal fusion levels on spinopelvic parameters in patients with adolescent idiopathic scoliosis (AIS) who underwent posterior instrumentation and fusion surgery.Overview of LiteratureThe distal fusion level selection in treatment of AIS is the one of milestone to effect on surgical outcome. Most of the paper focused on the coronal deformity correction and balance. The literature have lack of knowledge about spinopelvic changing after surgical treatment and the relation with distal fusion level. We evaluate the spinopelvic and pelvic parameter alteration after fusion surgery in treatment of AIS.MethodsA total of 100 patients with AIS (88 females and 12 males) were retrospectively reviewed. Patients were assigned into the following three groups according to the distal fusion level: lumbar 2 (L2), lumbar 3 (L3), and lumbar 4 (L4). Using a lateral plane radiograph of the whole spine, spinopelvic angular parameters such as thoracic kyphosis (TK), lumbar lordosis (LL), pelvic incidence (PI), sacral slope (SS), and pelvic tilt (PT) were radiologically assessed.ResultsThe mean age was 15±2.4 years, and the mean follow-up period was 24.27±11.69 months. Regarding the lowest instrumented vertebra, patients were categorized as follows: 30 patients in L2 (group 1), 40 patients in L3 (group 2), and 30 patients in L4 (group 3). TK decreased from 36.60±13.30 degrees preoperatively to 26.00±7.3 degrees postoperatively in each group (p=0.001). LL decreased from 52.8±9.4 degrees preoperatively to 44.30±7.50 degrees postoperatively (p=0.001). Although PI showed no difference preoperatively among the groups, it was statistically higher postoperatively in group 3 than in the other groups (p 0.05). However, mean SS was significantly higher in group 3 (p=0.042, p<0.05). PT decreased from 15.50±7.90 degrees preoperatively to 15.2±7.10 degrees postoperatively. The positive relationship (28.5%) between LL and PI measurements was statistically significant (r=0.285; p=0.004, p<0.01). Furthermore, the positive relationship (36.5%) between LL and SS measurements was statistically significant (r=0.365; p=0.001, p<0.01).ConclusionsWhen the distal instrumentation level in AIS surgery is below L3, a significant change in PT and SS (pelvic parameters) is anticipated.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Titanium vs cobalt chromium: what is the best rod material to enhance adolescent idiopathic scoliosis correction with sublaminar bands?",
+      "url": "https://hal.science/hal-02100243v1",
+      "publisher": "European Spine Journal",
+      "year": "2017",
+      "doi": "10.1007/s00586-016-4838-0",
+      "abstract": "PURPOSE: Cobalt chromium (CoCr) rods have recently gained popularity in adolescent idiopathic scoliosis (AIS) surgical treatment, replacing titanium (Ti) rods, with promising frontal correction rates in all-screw constructs. Posteromedial translation has been shown to emphasize thoracic sagittal correction, but the influence of rod material in this correction technique has never been investigated. The aim of this study was to compare the postoperative correction between Ti and CoCr rods for the treatment of thoracic AIS using posteromedial translation technique. METHODS: 70 patients operated for thoracic (Lenke 1 or 2) AIS, in 2 institutions, between 2010 and 2013, were included. All patients underwent posterior fusion with hybrid constructs using posteromedial translation technique. The only difference between groups in the surgical procedure was the rod material (Ti or CoCr rods). Radiological measurements were compared preoperatively, postoperatively and at last follow-up (minimum 2 years). RESULTS: Preoperatively, groups were similar in terms of coronal and sagittal parameters. Postoperatively, no significant difference was observed between Ti and CoCr regarding frontal corrections, even when the preoperative flexibility of the curves was taken into account (p = 0.13). CoCr rods allowed greater restoration of T4T12 thoracic kyphosis, which remained stable over time (p = 0.01). Most common postoperative complication was proximal junctional kyphosis (n = 4). However, no significant difference was found between groups regarding postoperative complications rate. CONCLUSION: CoCr and Ti rods both provide significant and stable frontal correction in AIS treated with posteromedial translation technique using hybrid constructs. However, CoCr might be considered to emphasize sagittal correction in hypokyphotic patients.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Selective versus hyperselective posterior fusions in Lenke 5 adolescent idiopathic scoliosis: comparison of radiological and clinical outcomes",
+      "url": "https://hal.science/hal-02135745v1",
+      "publisher": "European Spine Journal",
+      "year": "2017",
+      "doi": "10.1007/s00586-017-5070-2",
+      "abstract": "PURPOSE: Recent literature has reported that the ]progression risk of Lenke 5 adolescent idiopathic scoliosis (AIS) during adulthood had been underestimated. Surgery is, therefore, proposed more to young patients with progressive curves. However, choice of the approach and fusion levels remains controversial. The aim of this study was to analyze the influence of the length of posterior fusion on clinical and radiological outcomes in Lenke 5 AIS. METHODS: All Lenke 5 AIS operated between 2008 and 2012 were included with a minimum 2-year follow-up. Patients were divided into two groups according to the length of fusion. In the first group (selective), the upper instrumented level (UIV) was the upper end vertebra of the main structural curve and distally the fusion was extended to the stable and neutral vertebra, according to Lenke's classification. In the second group (hyperselective), shorter fusions were performed and the number of levels fused depended on the location of the apex of the curve (at maximum, 2 levels above and below, according to Hall's criteria). Apart from the fusion level selection, the surgical procedure was similar in both groups. Radiological outcomes and SRS-22 scores were reported. RESULTS: 78 patients were included (35 selective and 43 hyperselective). The number of levels fused was significantly higher in the first group (7.8 ± 3 vs 4.3 ± 0.6). None of the patients was fused to L4 in selective group. No correlation was found between length of fusion and complication rate. Eight patients had adding-on phenomenon among which 6 (75%) had initially undergone hyperselective fusions and had significantly higher postoperative lower instrumented vertebra (LIV) tilt. In the adding-on group, LIV was located above the last touching vertebra (LTV) in 62.5% of the cases and above the stable vertebra (SV) in 87.5%. Patients in the selective group reported a significantly lower score in the SRS function domain. CONCLUSION: Coronal alignment was restored in both groups. Hyperselective posterior fusions can be considered in Lenke 5 AIS, preserving one or two mobile segments, with similar clinical and radiological outcomes. However, selection of the LIV according to SV and LTV need to be accurately analyzed in order to avoid adding-on during follow-up.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Adolescent Idiopathic Scoliosis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4897334/",
+      "publisher": "The open orthopaedics journal",
+      "year": "2016",
+      "doi": "10.2174/1874325001610010143",
+      "abstract": "Background: Scoliosis refers to deviation of spine greater than 10 degrees in the coronal plane. Idiopathic Scoliosis is the most common spinal deformity that develops in otherwise healthy children. The sub types of scoliosis are based on the age of the child at presentation. Adolescent idiopathic scoliosis (AIS) by definition occurs in children over the age of 10 years until skeletal maturity. Objective: The objective of this review is to outline the features of AIS to allow the physician to recognise this condition and commence early treatment, thereby optimizing patient outcome. Method: A thorough literature search was performed using available databases, including Pubmed and Embase, to cover important research published covering AIS. Conclusion: AIS results in higher incidence of back pain and discontent with body image. Curves greater than 50 degrees in thoracic region and greater than 30 degrees in lumbar region progress at a rate of 0.5 to 1 degree per year into adulthood. Curves greater than 60 degrees can lead to pulmonary functional deficit. Therefore once the disease is recognized, effective treatment should be instituted to address the deformity and prevention of its long-term sequelae.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Correlation between Spinal Coronal Profile and Proximal Femur Bone Mineral Density in Adolescent Idiopathic Scoliosis",
+      "url": "https://doi.org/10.1055/s-0036-1582810",
+      "publisher": "Global Spine Journal",
+      "year": "2016",
+      "doi": "10.1055/s-0036-1582810",
+      "abstract": "Introduction Although Adolescent Idiopathic Scoliosis patients have lower Bone Mineral Density (BMD) but relationship between BMD and curve pattern, intensity of curve, or its progress in these patients is controversial. Some studies have shown a significant difference between left and right proximal femur BMDs in AIS patients. Since the curve pattern relationship with density of bilateral proximal femur has not been identified, this study aims to investigate the relationship between Spinal Coronal Profile and differences in BMD on either sides of proximal femur in patients with AIS. Material and Methods This study is prospective and included 50patients with AIS who underwent posterior or anterior and posterior correction and fusion surgery between December 2013 and december 2014. The mean age at the time of surgery was 16.6 ± 5.8 years. Bilateral proximal femur BMD and Z-score was calculated before surgery by dual-energy X-ray absorptiometry. We evaluated correlations between coronal parameters, obtained from preoperative radiographs, and the BMD ratio using Paired Samples Test analysis. Results Patients with Lenke type 1 curve (28; all with a right convex curve)have no significant difference between bilateral proximal femur density but in patients with Lenke type 5curve(22;all with a left convex curve)have greater bone mineral density on right side(concave). Conclusion The bilateral proximal femur BMD difference was significantly correlated with the coronal balance in AIS patients. When the patient have coronal imbalance the proximal femur BMD was greater in the concave side.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Braces for Idiopathic Scoliosis in Adolescents",
+      "url": "https://doi.org/10.1097/brs.0000000000001887",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2015",
+      "doi": "10.1097/brs.0000000000001887",
+      "abstract": "Idiopathic scoliosis is a three-dimensional deformity of the spine. The most common form is diagnosed in adolescence. While adolescent idiopathic scoliosis (AIS) can progress during growth and cause a surface deformity, it is usually not symptomatic. However, in adulthood, if the final spinal curvature surpasses a certain critical threshold, the risk of health problems and curve progression is increased.To evaluate the efficacy of bracing for adolescents with AIS versus no treatment or other treatments, on quality of life, disability, pulmonary disorders, progression of the curve, and psychological and cosmetic issues.We searched CENTRAL, MEDLINE, EMBASE, five other databases, and two trials registers up to February 2015 for relevant clinical trials. We also checked the reference lists of relevant articles and conducted an extensive handsearch of grey literature.Randomized controlled trials (RCTs) and prospective controlled cohort studies comparing braces with no treatment, other treatment, surgery, and different types of braces for adolescent with AIS.We used standard methodological procedures expected by The Cochrane Collaboration.We included seven studies (662 participants). Five were planned as RCTs and two as prospective controlled trials. One RCT failed completely, another was continued as an observational study, reporting also the results of the participants that had been randomized.There was very low quality evidence from one small RCT (111 participants) that quality of life (QoL) during treatment did not differ significantly between rigid bracing and observation (mean difference (MD) -2.10, 95% confidence interval (CI) -7.69 to 3.49). There was very low quality evidence from a subgroup of 77 adolescents from one prospective cohort study showing that QoL, back pain, psychological, and cosmetic issues did not differ significantly between rigid bracing and observation in the long term (16 years).Results of the secondary outcomes showed that there was low quality evidence that rigid bracing compared with observation significantly increased the success rate in 20° to 40° curves at two years' follow-up (one RCT, 116 participants; risk ratio (RR) 1.79, 95% CI 1.29 to 2.50). There was low quality evidence that elastic bracing increased the success rate in 15° to 30° curves at three years' follow-up (one RCT, 47 participants; RR 1.88, 95% CI 1.11 to 3.20).There is very low quality evidence from two prospective cohort studies with a control group that rigid bracing increases the success rate (curves not evolving to 50° or above) at two years' follow-up (one study, 242 participants; RR 1.50, 95% CI 1.19 to 1.89) and at three years' follow-up (one study, 240 participants; RR 1.75, 95% CI 1.42 to 2.16). There was very low quality evidence from a prospective cohort study (57 participants) that very rigid bracing increased the success rate (no progression of 5° or more, fusion, or waiting list for fusion) in adolescents with high degree curves (above 45°) (one study, 57 adolescents; RR 1.79, 95% CI 1.04 to 3.07 in the intention-to-treat (ITT) analysis).There was low quality evidence from one RCT that a rigid brace was more successful than an elastic brace at curbing curve progression when measured in Cobb degrees in low degree curves (20° to 30°), with no significant differences between the two groups in the subjective perception of daily difficulties associated with wearing the brace (43 girls; risk of success at four years' follow-up: RR 1.40, 1.03 to 1.89). Finally, there was very low quality evidence from one RCT (12 participants) that a rigid brace with a pad pressure control system is no better than a standard brace in reducing the risk of progression.Only one prospective cohort study (236 participants) assessed adverse events: neither the percentage of adolescents with any adverse event (RR 1.27, 95% CI 0.96 to 1.67) nor the percentage of adolescents reporting back pain, the most common adverse event, were different between the groups (RR 0.72, 95% CI 0.47 to 1.10).Due to the important clinical differences among the studies, it was not possible to perform a meta-analysis. Two studies showed that bracing did not change QoL during treatment (low quality), and QoL, back pain, and psychological and cosmetic issues in the long term (16 years) (very low quality). All included papers consistently showed that bracing prevented curve progression (secondary outcome). However, due to the strength of evidence (from low to very low quality), further research is very likely to have an impact on our confidence in the estimate of effect. The high rate of failure of RCTs demonstrates the huge difficulties in performing RCTs in a field where parents reject randomization of their children. This challenge may prevent us from seeing increases in the quality of the evidence over time. Other designs need to be implemented and included in future reviews, including 'expertise-based' trials, prospective controlled cohort studies, prospective studies conducted according to pre-defined criteria such as the Scoliosis Research Society (SRS) and the international Society on Scoliosis Orthopedic and Rehabilitation Treatment (SOSORT) criteria. Future studies should increase their focus on participant outcomes, adverse effects, methods to increase compliance, and usefulness of physiotherapeutic scoliosis specific exercises added to bracing.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Внедрение программы реабилитации подростков 12-16-летнего возраста со сколиозом І-ІІ степени = Implementation of the program of rehabilitation Adolescents 12-16 years of age with scoliosis I-II degree",
+      "url": "https://zenodo.org/records/17868",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2015",
+      "doi": "10.5281/zenodo.17868",
+      "abstract": "Tyagur Taras . Внедрение программы реабилитации подростков 12-16-летнего возраста со сколиозом І-ІІ степени = Implementation of the program of rehabilitation Adolescents 12-16 years of age with scoliosis I-II degree . Journal of Education, Health and Sport. 2015;5(2):297-310. ISSN 2391-8306. DOI: 10.5281/zenodo.17868 http://ojs.ukw.edu.pl/index.php/johs/article/view/2015%3B5%282%29%3A297-310 https://pbn.nauka.gov.pl/works/561265 http://dx.doi.org/10.5281/zenodo.17868 Formerly Journal of Health Sciences. ISSN 1429-9623 / 2300-665X. Archives 2011 – 2014 http://journal.rsw.edu.pl/index.php/JHS/issue/archive Deklaracja. Specyfika i zawartość merytoryczna czasopisma nie ulega zmianie. Zgodnie z informacją MNiSW z dnia 2 czerwca 2014 r., że w roku 2014 nie będzie przeprowadzana ocena czasopism naukowych; czasopismo o zmienionym tytule otrzymuje tyle samo punktów co na wykazie czasopism naukowych z dnia 31 grudnia 2014 r. The journal has had 5 points in Ministry of Science and Higher Education of Poland parametric evaluation. Part B item 1089. (31.12.2014). © The Author (s) 2015; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland and Radom University in Radom, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received : 20.10.2014. Revised 18.01.2015. Accepted : 25.02.2015. Внедрение программы реабилитации подростков 12-16-летнего возраста со сколиозом І-ІІ степени Implementation of the program of rehabilitation Adolescents 12-16 years of age with scoliosis I-II degree Тарас Тягур Taras Tyagur Прикарпатский национальный университет имени Василя Стефаныка Vasyl Stefanyk precarpatian National University Резюме За последнее десятилетие сформировались негативные тенденции в динамике основных параметров здоровья подростков. Пристальное внимание к сколиозу объясняется тем, что при тяжелых формах данного заболевания и без своевременной коррекции деформации становятся фактором для развития структурных изменений в позвоночнике и заболеваний внутренних органов, что приводит к уменьшению продолжительности жизни и трудоспособности, а также и к инвалидности. Причины, которые могут привести к деформации, многочисленны. Негативное влияние оказывают неблагоприятные условия окружающей среды, социально-гигиенические факторы и длительное пребывание ребенка в неправильном положении тела. Рост числа детей со сколиозом в последние годы диктует необходимость разработки эффективных реабилитационных программ по лечению данной патологии. Для профилактики и коррекции сколиотической болезни наиболее эффективными средствами физической реабилитации считаются лечебная гимнастика и лечебно-оздоровительное плавание. Основные задачи физических упражнений сводятся к выработке правильной осанки, повышению силовой выносливости мышц, тренировке общей координации движений, что создает условия для восстановления правильного положения тела, исправления имеющихся дефектов, улучшения функции сердечнососудистой и дыхательной систем, общего оздоровления организма ребенка. Экспериментальная лечебная тактика сколиоза включала использование комплекса гидрокинезотерапии, дыхательную гимнастику Тай-Чи, подводное вытяжение и мануальную терапию. В контрольной группе была задействована классическая методика. Для установления эффективности разработанной методики было проведено антропометрическое исследованное, рассчитан индекс массы тела – ИМТ, изучены показатели вентиляционной функции легких и показатели сердечнососудистой системы. Улучшение физического статуса обследованных подростков со сколиозом I-II степени в рамках комплексной программы восстановительного лечения на этапе заключительного исследования проявлялось снижением нервно-психического напряжения, снижением количества жалоб, увеличением роста, веса и окружности груди, стабилизацией индекса массы тела (ИМТ), улучшением показателей дыхательной и сердечнососудистой системы. Разработанная комплексная программа коррекции заболевания является эффективным средством восстановительного лечения подростков со сколиозом I и II степени, поскольку положительная динамика в экспериментальной группе была более выражена по сравнению с традиционными методами лечения в контрольной группе. Ключевые слова: сколиотическая болезнь, деформация позвоночника, гидрокинезотерапия, плавание, физическая нагрузка, массаж, дыхательная гимнастика. Summary Over the last decade negative trend have formed in the basic parameters of adolescent health. Careful attention to scoliosis because severe forms of the disease, and without timely correction of the deformation becoming a factor for the development of structural changes in the spine and internal diseases, leading to reduced life expectancy and disability and disability. Causes that may lead to incorrect posture are numerous. Negative impact on the formation of posture have adverse environmental conditions, social and hygienic factors and long-term stay of the child in the correct position of the body. The growing number of children with scoliosis in recent years calls for the development of effective rehabilitation programs for the treatment of this disease. For the prevention and correction of posture the most effective means of physical rehabilitation are considered therapeutic exercises and therapeutic recreation swimming. The main objectives of physical exercise are reduced to develop the correct posture, increase muscle strength endurance, exercise overall coordination of movements, creates conditions for the restoration of the correct body position, correcting the defects, improving the function of the cardiovascular and respiratory systems, overall health of the child. Experimental scoliosis treatment tactics included the use of complex hydrokinesotherapy, breathing exercises of Tai Chi, underwater traction and manual therapy. The control group was involved in classical technique. To establish the effectiveness of the developed method was conducted anthropometric investigate calculated body mass index - BMI, studied indicators of pulmonary ventilation function and performance of the cardiovascular system. Improving the physical status of the surveyed adolescents with scoliosis I-II degree through an integrated program of rehabilitation treatment at the final stage of the study was shown a decrease in mental stress, decrease in the number of complaints, an increase of height, weight and chest circumference, stabilization of body mass index (BMI), improvements in respiratory and cardiovascular system. A comprehensive program of correction of the disease is an effective means of rehabilitation treatment of adolescents with scoliosis I and II degree, as a positive trend in the experimental group was more pronounced compared to the traditional methods of treatment in the control group. Key words: scoliosis, spinal deformity, hydrokinesiotherapy, swimming, exercise, massage, breathing exercises.",
+      "licence": "cc-zero",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Association between vitamin d levels and adolescent idiopathic scoliosis",
+      "url": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1808-18512014000400275&lng=en&tlng=en",
+      "publisher": "Coluna/Columna",
+      "year": "2014",
+      "doi": "10.1590/S1808-18512014130400432",
+      "abstract": "Objective: To compare the levels of 25-hydroxyvitamin D in patients with AIS and a control group. Methods: The patients were recruited from the outpatient clinic of our institution during the year of 2013. Children diagnosed with scoliosis before 10 or after 18 years of age, and those suffering from neurological or muscular disorders, congenital malformations or genetic syndromes were excluded. The 25-OHD levels were determined by a fully automated electrochemiluminescence test. The appropriate level of 25-OHD was defined as greater than 30 ng/mL. The results were compared to a group of healthy individuals. Results: In group 1 (control) 63,3% showed abnormal vitamin D levels, while 91% of patients with AIS presented a low level of vitamin D. The mean BMI was 19.6 kg/m2 for controls and 20.3 kg/m2 for group 2. Statistical analysis showed significant difference (p<0.0001) between the levels of vitamin D. The average and minimum levels of vitamin D were respectively 27 and 13.6 ng/mL for group 1 and 18.8 and 3.13 ng/mL for AIS group. Conclusions: Patients with AIS had statistically significant lower levels of 25-OHD than healthy patients. Further research should be conducted to investigate the actual impact of serum vitamin D levels on the pathophysiology of AIS.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Bracing in adolescent idiopathic scoliosis",
+      "url": "https://doi.org/10.1007/s11832-012-0464-5",
+      "publisher": "SAGE Publications",
+      "year": "2013",
+      "doi": "10.1007/s11832-012-0464-5",
+      "abstract": "The article reviews the present knowledge about brace treatment for adolescent idiopathic scoliosis (AIS). Indications, technique, problems, and results, are presented based on the literature. It is stressed by the authors that more scientific evidence is needed to reach a final conclusion whether brace treatment in AIS is effective or not.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Epidemiology of adolescent idiopathic scoliosis",
+      "url": "https://doi.org/10.1007/s11832-012-0457-4",
+      "publisher": "SAGE Publications",
+      "year": "2013",
+      "doi": "10.1007/s11832-012-0457-4",
+      "abstract": "Adolescent idiopathic scoliosis is a common disease with an overall prevalence of 0.47–5.2 % in the current literature. The female to male ratio ranges from 1.5:1 to 3:1 and increases substantially with increasing age. In particular, the prevalence of curves with higher Cobb angles is substantially higher in girls than in boys: The female to male ratio rises from 1.4:1 in curves from 10° to 20° up to 7.2:1 in curves >40°. Curve pattern and prevalence of scoliosis is not only influenced by gender, but also by genetic factors and age of onset. These data obtained from school screening programs have to be interpreted with caution, since methods and cohorts of the different studies are not comparable as age groups of the cohorts and diagnostic criteria differ substantially. We do need data from studies with clear standards of diagnostic criteria and study protocols that are comparable to each other.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Idiopathic scoliosis: etiological concepts and hypotheses",
+      "url": "https://hal.univ-lorraine.fr/hal-01709207v1",
+      "publisher": "Journal of Children's Orthopaedics",
+      "year": "2013",
+      "doi": "10.1007/s11832-012-0458-3",
+      "abstract": "Scoliosis is diagnosed as idiopathic in 70 % of structural deformities affecting the spine in children and adolescents, probably reflecting our current misunderstanding of this disease. By definition, a structural scoliosis should be the result of some primary disorder. The goal of this article is to give a comprehensive overview of the currently proposed etiological concepts in idiopathic scoliosis regarding genetics, molecular biology, biomechanics, and neurology, with particular emphasis on adolescent idiopathic scoliosis (AIS). Despite the fact that numerous potential etiologies for idiopathic scoliosis have been formulated, the primary etiology of AIS remains unknown. Beyond etiology, identification of prognostic factors of AIS progression would probably be more relevant in our daily practice, with the hope of reducing repetitive exposure to radiation, unnecessary brace treatments, psychological implications, and costs-of-care related to follow-up in low-risk patients.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Exercises for adolescent idiopathic scoliosis",
+      "url": "https://doi.org/10.1002/14651858.cd007837",
+      "publisher": "John Wiley & Sons, Ltd",
+      "year": "2009",
+      "doi": "10.1002/14651858.cd007837",
+      "abstract": "Adolescent idiopathic scoliosis (AIS) is a three-dimensional deformity of the spine . While AIS can progress during growth and cause a surface deformity, it is usually not symptomatic. However, in adulthood, if the final spinal curvature surpasses a certain critical threshold, the risk of health problems and curve progression is increased. The use of scoliosis-specific exercises (SSE) to reduce progression of AIS and postpone or avoid other more invasive treatments is controversial.To evaluate the efficacy of SSE in adolescent patients with AIS.The following databases (up to 30 March 2011) were searched with no language limitations: CENTRAL (The Cochrane Library 2011, issue 2), MEDLINE (from January 1966), EMBASE (from January 1980), CINHAL (from January 1982), SportDiscus (from January 1975), PsycInfo (from January 1887), PEDro (from January 1929). We screened reference lists of articles and also conducted an extensive handsearch of grey literature.Randomised controlled trials and prospective cohort studies with a control group comparing exercises with no treatment, other treatment, surgery, and different types of exercises.Two review authors independently selected studies, assessed risk of bias and extracted data.Two studies (154 participants) were included. There is low quality evidence from one randomised controlled study that exercises as an adjunctive to other conservative treatments increase the efficacy of these treatments (thoracic curve reduced: mean difference (MD) 9.00, (95% confidence interval (CI) 5.47 to 12.53); lumbar curve reduced:MD 8.00, (95% CI 5.08 to 10.92)). There is very low quality evidence from a prospective controlled cohort study that scoliosis-specific exercises structured within an exercise programme can reduce brace prescription (risk ratio (RR) 0.24, (95% CI 0.06 to1.04) as compared to usual physiotherapy (many different kinds of general exercises according to the preferences of the single therapists within different facilities).There is a lack of high quality evidence to recommend the use of SSE for AIS. One very low quality study suggested that these exercises may be more effective than electrostimulation, traction and postural training to avoid scoliosis progression, but better quality research needs to be conducted before the use of SSE can be recommended in clinical practice.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Adolescents With Idiopathic Scoliosis Are Not Osteoporotic",
+      "url": "https://doi.org/10.1097/brs.0b013e318169578f",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2008",
+      "doi": "10.1097/brs.0b013e318169578f",
+      "abstract": "Case controlled study.To explore the relative effects of body mass index (BMI) and the presence or absence of adolescent idiopathic scoliosis (AIS) on bone mineral density (BMD) as evidenced by Z-scores in adolescents.Prior studies have identified adolescents with idiopathic scoliosis as having \"osteoporosis\" or \"osteopenia,\" when only a small percentage of subjects in these studies actually had bone density that was clinically abnormal. The terms osteoporosis and osteopenia as used in adults cannot be applied to adolescents and children, as fracture risk has not been well correlated to Z-scores. As we had noted that our scoliosis patients of normal and heavy weight had normal Z-scores, this study was undertaken to explore the relationship of bone mineral density to body mass index in adolescents with and without scoliosis.Dual energy x-ray absorptiometry (DXA) scans of 49 adolescents with adolescent idiopathic scoliosis were compared to 40 normal control adolescents. Z-scores were compared to reduce variability when comparing subjects of varying age and genders. Student t test or simple linear regression was used to explore relationships between Z-scores and clinical and demographic variables.In both groups of subjects, Z-score was most strongly correlated with BMI (P < 0.001). The presence of scoliosis had the effect of lowering the Z-score as if the individual had \"lost\" 3.4 BMI units.Z-scores in subjects with and without scoliosis were most strongly correlated to BMI: thin patients had lower bone density, heavy patients had higher. The presence of scoliosis had an effect similar to subtracting 3.4 \"BMI units,\" lowering the Z-score from what might otherwise be predicted. The \"scoliosis effect\" may be noticeable in thin individuals, pushing them to the \"low for age\" level, whereas in heavier individuals, the effect is negligible. No subjects in either group met the ISCD definition for osteoporosis.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The development of adolescent idiopathic scoliosis",
+      "url": "https://doi.org/10.1007/bf00301328",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "1996",
+      "doi": "10.1007/bf00301328",
+      "abstract": "There are many conflicting actiological theories for adolescent idiopathic scoliosis. We present a simple new model of scoliosis and a mechanism by which it is initiated and progresses. This mechanism provides a final common pathway for the multiple aetiological factors. A simple model of the spine, incorporating its fundamental mechanical features, was constructed. The model consisted of interconnected anterior compression and posterior tension columns. It allowed normal spinal movements, with flexion limited by the posterior column and rotation centered around the anterior column. It also allowed deformities to develop. The ends of the model were fixed in the position of the vertebrae they represented. Overgrowth of the anterior column relative to the posterior column caused the model to take up the shape of an idiopathic scoliosis. The greater the overgrowth, the more marked the deformity. Normally anterior and posterior column growth are coupled. During the growth spurt the thoracic kyphosis flattens indicating that anterior growth temporarily exceeds posterior growth. If this over-growth is marked a scoliosis will develop, as demonstrated by the model. Once this occurs the coupling is lost, anterior growth further outstrips posterior growth and the deformity progresses. Not all scolioses worsen, as the tendency to progress is balanced by neuromuscular factors and remodelling. Factors that increase the growth rate, induce asymmetry or decrease the inherent stability of the spine all encourage the development and progression of a scoliosis. This explains the complex biomechanics of scoliosis and provides a final common pathway by which the multiple aetiological factors can induce idiopathic scoliosis. It has important implications for the understanding and treatment of this condition.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Clinical Consequences of Unreconstructed Pelvic Defect Caused by Osteosarcoma with Subsequent Progressive Scoliosis in a Pediatric Patient—Case Report",
+      "url": "https://www.mdpi.com/2227-9067/11/5/607",
+      "publisher": "Children",
+      "year": "2024",
+      "doi": "10.3390/children11050607",
+      "abstract": "Osteosarcoma is the most common primary malignant bone tumor in children and adolescents. The standard and most effective treatment is wide resection of the tumor combined with neoadjuvant chemotherapy. Adolescent idiopathic scoliosis (AIS) is a genetically determined three-dimensional spinal deformity, which occurs in teenage patients and is mostly progressive. The basic management strategy is surgical treatment when the curve exceeds 50 degrees. However, the indications are different in oncologic patients. The aim of this study was to describe a case of adolescent scoliosis with osteosarcoma of the pelvis. The authors conducted a scoping review using PubMed and Embase to analyze the state of knowledge. The presented paper is the first report of pelvis osteosarcoma coexisting with adolescent idiopathic scoliosis. Treatment for this complex case finished with very good results, with no recurrence observed during the nine-year follow-up.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.86,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "An adhesion G protein-coupled receptor is required in cartilaginous and dense connective tissues to maintain spine alignment",
+      "url": "https://elifesciences.org/articles/67781",
+      "publisher": "eLife",
+      "year": "2021",
+      "doi": "10.7554/eLife.67781",
+      "abstract": "Adolescent idiopathic scoliosis (AIS) is the most common spine disorder affecting children worldwide, yet little is known about the pathogenesis of this disorder. Here, we demonstrate that genetic regulation of structural components of the axial skeleton, the intervertebral discs, and dense connective tissues (i.e., ligaments and tendons) is essential for the maintenance of spinal alignment. We show that the adhesion G protein-coupled receptor ADGRG6, previously implicated in human AIS association studies, is required in these tissues to maintain typical spine alignment in mice. Furthermore, we show that ADGRG6 regulates biomechanical properties of tendon and stimulates CREB signaling governing gene expression in cartilaginous tissues of the spine. Treatment with a cAMP agonist could mirror aspects of receptor function in culture, thus defining core pathways for regulating these axial cartilaginous and connective tissues. As ADGRG6 is a key gene involved in human AIS, these findings open up novel therapeutic opportunities for human scoliosis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

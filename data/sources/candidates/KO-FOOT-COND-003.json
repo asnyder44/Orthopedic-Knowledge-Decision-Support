@@ -1,0 +1,871 @@
+{
+  "term": "Achilles Tendon Rupture",
+  "collected": "2026-11-14",
+  "count": 48,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Rerupture outcome of conservative versus open repair versus minimally invasive repair of acute Achilles tendon ruptures: A systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0285046",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0285046",
+      "abstract": "Objective: To compare the rerupture rate after conservative treatment, open repair, and minimally invasive surgery management of acute Achilles tendon ruptures. Design: Systematic review and network meta-analysis. Data sources: We searched Medline, Embase, and the Cochrane Central Register of Controlled Trials from inception to August 2022. Methods: Randomised controlled trials involving different treatments for Achilles tendon rupture were included. The primary outcome was rerupture. Bayesian network meta-analysis with random effects was used to assess pooled relative risks (RRs) and 95% confidence intervals. We evaluated the heterogeneity and publication bias. Results: Thirteen trials with 1465 patients were included. In direct comparison, there was no difference between open repair and minimally invasive surgery for rerupture rate (RR, 0.72, 95% CI 0.10–4.4; I2 = 0%; Table 2). Compared to the conservative treatment, the RR was 0.27 (95% CI 0.10–0.62, I2 = 0%) for open repair and 0.14 (95% CI 0.01–0.88, I2 = 0%) for minimally invasive surgery. The network meta-analysis had obtained the similar results as the direct comparison. Conclusion: Both open repair and minimally invasive surgery were associated with a significant reduction in rerupture rate compared with conservative management, but no difference in rerupture rate was found comparing open repair and minimally invasive surgery.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.02,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Achilles Tendon Rupture: Mechanisms of Injury, Principles of Rehabilitation and Return to Play",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7804867/",
+      "publisher": "Journal of functional morphology and kinesiology",
+      "year": "2020",
+      "doi": "10.3390/jfmk5040095",
+      "abstract": "The Achilles tendon is the thickest, strongest and largest tendon in the human body, but despite its size and tensile strength, it frequently gets injured. Achilles tendon ruptures (ATRs) mainly occur during sports activities, and their incidence has increased over the last few decades. Achilles tendon tears necessitate a prolonged recovery time, sometimes leaving long-term functional limitations. Treatment options include conservative treatment and surgical repair. There is no consensus on which is the best treatment for ATRs, and their management is still controversial. Limited scientific evidence is available for optimized rehabilitation regimen and on the course of recovery after ATRs. Furthermore, there are no universally accepted outcomes regarding the return to play (RTP) process. Therefore, the aim of this narrative review is to give an insight into the mechanism of injuries of an ATR, related principles of rehabilitation, and RTP.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "I.S.Mu.L.T. Achilles tendon ruptures guidelines",
+      "url": "https://doi.org/10.32098/mltj.03.2018.03",
+      "publisher": "Edra SpA",
+      "year": "2019",
+      "doi": "10.32098/mltj.03.2018.03",
+      "abstract": "This work provides easily accessible guidelines for the diagnosis, treatment and rehabilitation of Achilles tendon ruptures. These guidelines could be considered as recommendations for good clinical practice developed through a process of systematic review of the literature and expert opinion, to improve the quality of care for the individual patient and rationalize the use of resources. This work is divided into two sessions: 1) questions about hot topics; 2) answers to the questions following Evidence Based Medicine principles. Despite the frequency of the pathology and the high level of satisfaction achieved in treatment of Achilles tendon ruptures, a global consensus is lacking. In fact, there is not a uniform treatment and rehabilitation protocol used for Achilles tendon ruptures.",
+      "licence": "Open Access",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Meta-analysis and suggested guidelines for prevention of venous thromboembolism (VTE) in foot and ankle surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4823373/",
+      "publisher": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "year": "2016",
+      "doi": "10.1007/s00167-015-3976-y",
+      "abstract": "Purpose To perform a meta-analysis investigating venous thromboembolism (VTE) following isolated foot and ankle surgery and propose guidelines for VTE prevention in this group of patients. Methods Following a PRISMA compliant search, 372 papers were identified and meta-analysis performed on 22 papers using the Critical Appraisal Skills Programme and Centre for Evidence-Based Medicine level of evidence. Results 43,381 patients were clinically assessed for VTE and the incidence with and without chemoprophylaxis was 0.6% (95% CI 0.4-0.8%) and 1% (95% CI 0.2-1.7%), respectively. 1666 Patients were assessed radiologically and the incidence of VTE with and without chemoprophylaxis was 12.5% (95% CI 6.8-18.2%) and 10.5% (95% CI 5.0-15.9%), respectively. There was no significant difference in the rates of VTE with or without chemoprophylaxis whether assessed clinically or by radiological criteria. The risk of VTE in those patients with Achilles tendon rupture was greater with a clinical incidence of 7% (95% CI 5.5-8.5%) and radiological incidence of 35.3% (95% CI 26.4-44.3%). Conclusion Isolated foot and ankle surgery has a lower incidence of clinically apparent VTE when compared to general lower limb procedures, and this rate is not significantly reduced using low molecular weight heparin. The incidence of VTE following Achilles tendon rupture is high whether treated surgically or conservatively. With the exception of those with Achilles tendon rupture, routine use of chemical VTE prophylaxis is not justified in those undergoing isolated foot and ankle surgery, but patient-specific risk factors for VTE should be used to assess patients individually. Level of evidence II.",
+      "licence": "cc by",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Platelet-Rich Plasma in Acute Achilles Tendon Ruptures: A Systematic Review and Meta-Analysis",
+      "url": "https://doi.org/10.1177/2473011421S00549",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2022",
+      "doi": "10.1177/2473011421S00549",
+      "abstract": "Category: Trauma; Sports Introduction/Purpose: Platelet Rich Plasma (PRP) is known to exert multi-directional biological effects favouring tendon healing. However, conclusions drawn by numerous studies on its clinical efficacy for acute Achilles tendon rupture are limited. We performed a systematic review and meta-analysis to investigate this and to compare to those without PRP treatment. Methods: The Cochrane Controlled Register of Trials, Pubmed, Medline and Embase were used and assessed according to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) criteria with the following search terms: ('plasma' OR 'platelet-rich' OR 'platelet-rich plasma' or 'PRP') AND ('Achilles tendon rupture/tear' OR' calcaneal tendon rupture/tear' OR 'tendo calcaneus rupture/tear'). Data pertaining to biomechanical outcomes (heel endurance test, isokinetic strength, calf- circumference and range of motion), patient-reported outcome measures (PROMs) and incidence of re-ruptures were extracted. Meta-analysis was performed for same outcomes measured in at least three studies. Pooled outcome data were analysed by random and fixed-effects models. Results: After abstract and full-text screening, 6 studies were included. In total there were 510 patients of which 256 had local PRP injection and 254 without. The average age was41.6 years, mean time from injury to treatment 5.9 days and mean follow-up at 61 weeks. Biomechanically, there was similar heel endurance, isokinetic strength, calf circumference and range of motion between both groups. In general, there were no differences in patient reported outcomes from all scoring systems used in the studies. Both groups returned to their pre-injured level at a similar time and there were no differences on the incidence of re- rupture (OR 1.13, 95% CI, 0.46 to 2.80, p = 0.79). Conclusion: PRP injections for acute Achilles tendon ruptures do not improve medium to long-term biomechanical and clinical outcomes. However, future studies incorporating the ideal application and biological composition of PRP are required to investigate its true clinical efficacy.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.98,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Interest of platelet rich plasma in Achilles tendon rupture management: a systematic review",
+      "url": "https://inserm.hal.science/inserm-03321194v1",
+      "publisher": "The Physician and Sportsmedicine",
+      "year": "2022",
+      "doi": "10.1080/00913847.2021.1969216",
+      "abstract": "Objectives: Acute Achilles tendon rupture (ATR) is a disabling sport-related injury. Its management involves conservative treatment with early weight-bearing or surgical treatment. Platelet-rich plasma (PRP) has raised interest as an adjuvant for treatment, given its properties on tendon repair and its anti-inflammatory effect. We aimed to assess clinical impact of PRP use in surgical or non-surgical treatment of acute ATR: range of motion, muscle strength, function, return to sport and adverse events.Method: A systematic literature research was performed using PubMed, ScienceDirect, and Google Scholar databases to collect studies reporting clinical outcomes after acute ATR treated with PRP.Results: Eight studies were eligible and included 543 acute ATR. Four were randomized comparative studies. A total of 128 patients were treated surgically and 415 were treated conservatively, 271 received PRP injection. Five studies described the type of PRP used, which was variable. Only one study including 12 patients found significant outcomes in favor of the PRP group, with a 4-week earlier recovery of a normal range of motion and a 7-week earlier return to running. No difference in clinical or morphological evaluations, strength measurement, and functional outcomes was found in other studies both at short and long-term. PRP did not seem to modify the frequency of adverse events.Conclusions: Data are not clearly in favor of a significant effect of the PRP use for treatment of ATR. There might be a slight effect on evolution during the first months. Its interest should be assessed in future studies with strong methodology.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.98,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Functional weight-bearing mobilization after Achilles tendon rupture enhances early healing response: a single-blinded randomized controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5487693/",
+      "publisher": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "year": "2017",
+      "doi": "10.1007/s00167-016-4270-3",
+      "abstract": "Purpose Functional weight-bearing mobilization may improve repair of Achilles tendon rupture (ATR), but the underlying mechanisms and outcome were unknown. We hypothesized that functional weight-bearing mobilization by means of increased metabolism could improve both early and long-term healing. Methods In this prospective randomized controlled trial, patients with acute ATR were randomized to either direct post-operative functional weight-bearing mobilization (n = 27) in an orthosis or to non-weight-bearing (n = 29) plaster cast immobilization. During the first two post-operative weeks, 15°-30° of plantar flexion was allowed and encouraged in the functional weight-bearing mobilization group. At 2 weeks, patients in the non-weight-bearing cast immobilization group received a stiff orthosis, while the functional weight-bearing mobilization group continued with increased range of motion. At 6 weeks, all patients discontinued immobilization. At 2 weeks, healing metabolites and markers of procollagen type I (PINP) and III (PIIINP) were examined using microdialysis. At 6 and 12 months, functional outcome using heel-rise test was assessed. Results Healing tendons of both groups exhibited increased levels of metabolites glutamate, lactate, pyruvate, and of PIIINP (all p Conclusions Functional weight-bearing mobilization enhanced the early healing response of ATR. In addition, early ankle range of motion was improved without the risk of Achilles tendon elongation and without altering long-term functional outcome. The relationship between functional weight-bearing mobilization-induced upregulation of glutamate and enhanced healing suggests novel opportunities to optimize post-operative rehabilitation.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.68,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Prospective Study of Platelet-Rich Plasma as Biological Augmentation for Acute Achilles Tendon Rupture Repair",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5225328/",
+      "publisher": "BioMed research international",
+      "year": "2016",
+      "doi": "10.1155/2016/9364170",
+      "abstract": "Acute Achilles tendon rupture is one of the most common tendon injuries in adults. We hypothesized that Platelet-Rich Plasma (PRP) can be used as biological augmentation for surgical treatment of acute Achilles tendon rupture. Our study is a prospective randomized controlled trial. Patients with acute Achilles tendon rupture undergoing surgical repair were randomly assigned into either control group or PRP group. End-to-end modified Krackow suture was performed in both groups. In the PRP group, PRP was injected into the paratenon sheath and around the ruptured tissue after the tendon was repaired. Postoperatively we evaluated isokinetic muscle strength at 3, 6, 12, and 24 months. In addition, ankle ROM, calf circumference, Leppilahti score, and the SF-36 score were evaluated at 6, 12, and 24 months after operation. At 3 months, the PRP group had better isokinetic muscle. The PRP group also achieved higher SF-36 and Leppilahti scores at 6 and 12 months. At 24 months, the PRP group had an improved ankle range of motion compared to the control group. Our study results suggest that PRP can serve as a biological augmentation to acute Achilles tendon rupture repair and improves both short and midterm functional outcomes.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The experience of individuals following non-surgical management of Achilles tendon rupture in the United Kingdom – a qualitative study",
+      "url": "https://doi.org/10.1371/journal.pone.0352761",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0352761",
+      "abstract": "Objectives: Despite extensive research on Achilles tendon ruptures (ATR), the lived experience of patients remains under explored. This study aimed to investigate the experiences of individuals managed non-surgically within the National Health Service (NHS). Design: Qualitative study using semi-structured, one-to-one interviews. Setting: NHS services in the United Kingdom providing non-surgical management for ATR. Participants: Fifteen patients (mean age 54.5 years) who had sustained an ATR and were managed non-surgically. Participants were recruited from a specialist ATR clinic. Methods: A stakeholder-informed topic guide was used to conduct semi-structured interviews. Interviews were audio-recorded, transcribed verbatim, and analysed using reflexive thematic analysis. Coding was undertaken independently by two researchers, with themes reviewed by the full research team. The study followed COREQ guidelines for qualitative reporting. Results: Three themes were identified: (1) The experience of injury and entering the healthcare system: ‘it felt as if my whole ankle had exploded’ participants described sudden injury onset, sometimes painless, and varied understanding of treatment options; (2) The experience of non-surgical immobilisation: ‘you’re being told so much in that first session…I just couldn’t remember’ boot immobilisation was valued for mobility but challenged comfort and self-management; and (3) The rehabilitation journey: ‘it happened so unexpectedly so it can happen again’ fear and uncertainty about rehabilitation and returning to sport were common, shaping participant’s rehabilitation experience. Conclusions: This study highlights how diverse ATR injury experiences, early management variability, and boot-related challenges impact recovery. Fear of re-rupture shapes rehabilitation and return to sport, emphasising the need for clearer guidance on boot use, weightbearing, and rehabilitation progression, alongside consistent healthcare professional support to optimise outcomes.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Chronic Achilles Tendon Rupture – Repair Using Flexor Hallucis Longus (FHL) Tendon Transfer and Augmentation in a 50-Year-Old Female",
+      "url": "https://zenodo.org/records/18996189",
+      "publisher": "International Journal of Medical Science and Advanced Clinical Research (IJMACR)",
+      "year": "2026",
+      "doi": "10.5281/zenodo.18996189",
+      "abstract": "Abstract Achilles tendon ruptures are a common injury, particularly among active individuals. However, chronic Achilles tendon ruptures, defined as those occurring more than 4-6 weeks after injury, are more challenging to manage and often require specialised treatment approaches. This case report discusses the surgical management of a 50-year-old female who presented with a chronic Achilles tendon rupture, treated through repair with Flexor Hallucis Longus (FHL) tendon transfer and augmentation. The outcome was favourable with the restoration of function and resolution of pain.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison of outcomes between minimally invasive percutaneous bunnell suture and traditional open modified Kessler technique for acute closed achilles tendon rupture: A single-center cohort study",
+      "url": "https://doi.org/10.1371/journal.pone.0339026",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0339026",
+      "abstract": "Percutaneous Bunnell repair and open modified Kessler repair remain debated options for acute Achilles tendon rupture (AATR). We retrospectively compared a minimally invasive percutaneous Bunnell technique (Group A) with an open modified Kessler repair (Group B) within a standardized early functional rehabilitation (EFR) protocol at a single center. Fifty-five adults with closed AATR treated between January 2021 and December 2022 were analyzed (Group A, n = 25; Group B, n = 30). Between-group comparisons used Welch t tests for continuous variables and χ² or Fisher exact tests for categorical variables; American Orthopaedic Foot & Ankle Society (AOFAS) and Achilles Tendon Total Rupture Score (ATRS) were assessed at 12 and 24 weeks, with Holm adjustment applied within each scale. Compared with Group B, Group A had shorter operative time (56.6 ± 15.1 vs 68.2 ± 23.2 minutes; mean difference −11.6; 95% CI −22.05 to −1.15; P = 0.030), less intraoperative blood loss (28.4 ± 8.4 vs 74.7 ± 19.4 mL; −46.3; 95% CI −54.22 to −38.38; P < 0.001), and a shorter length of stay (4.8 ± 2.0 vs 6.6 ± 2.9 days; −1.8; 95% CI −3.13 to −0.47; P = 0.009). At 12 weeks, AOFAS favored Group A (+1.36; 95% CI + 0.19 to +2.53; P = 0.047) and ATRS also favored Group A (+1.73; 95% CI + 0.48 to +2.98; P = 0.008). At 24 weeks, AOFAS was not different (+0.51; 95% CI −0.49 to +1.51; P = 0.312), whereas ATRS remained higher in Group A (+2.17; 95% CI + 0.88 to +3.46; P = 0.003). Overall complications were 12.0% vs 26.7% (risk difference −14.7%; 95% CI −34.10 to +7.20; P = 0.310); no sural nerve injuries occurred. Within an EFR framework, percutaneous Bunnell repair provided superior perioperative efficiency with comparable safety and modest, sub-MCID functional advantages, supporting confirmation in larger prospective studies.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Rehabilitation after surgical treatment of achilles tendon rupture",
+      "url": "https://zenodo.org/records/17151181",
+      "publisher": "Journal of Physical Rehabilitation and Sports Medicine",
+      "year": "2025",
+      "doi": "10.5281/zenodo.17151181",
+      "abstract": "Inadequate rehabilitation after surgery on the Achilles tendon is steadily increasing, which leads to an increase in recurrent injuries. Recovery is the main task of any rehabilitation program today. Key words: injuries; trauma; surgery; rehabilitation; Achilles tendon; restoration of joint functions.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Incidence, demographics, characteristics and management of acute Achilles tendon rupture: An epidemiological study",
+      "url": "https://doi.org/10.1371/journal.pone.0304197",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0304197",
+      "abstract": "Background: Achilles tendon rupture (ATR) account for 10.7% of all tendon and ligament injuries and causes lasting muscular deficits and have a profound impact on patients’ quality of life. The incidence, characteristics and management of ATR in the United Kingdom (UK) is poorly understood. This investigation aims to understand the incidence of ATR in the UK. Methods: Prospective data collection of ATR incidence from a United Kingdom Emergency department. Retrospective review of management protocols and immobilisation duration from electronic medical records. Results: ATR incidence is 8 per 100,000 people per annum. Participants were predominately male (79.2%) and primarily reported a sporting mechanism of injury (65.2%). Mean immobilisation duration was 63.1 days. 97.1% were non-surgically managed post ATR. 46.2% of participants had experienced a previous ATR or Achilles tendinopathy prior to their current ATR. Conclusion: The incidence of ATR found was 8. cases per 100,000 people per annum. Most ATR were managed non-surgically in this cohort. The majority of ruptures occurred during sporting activity. Almost one quarter (23.3%) of individuals report Achilles pain prior to ATR.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Bosworth Technique for Repair of Chronic Achilles Tendon Rupture: A Prospective Study",
+      "url": "https://zenodo.org/records/12743454",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.12743454",
+      "abstract": "Background: The Achilles tendon is the strongest tendon in the human body. Retraction and atrophy of the tendon ends, scar tissue between the tendon ends makes primary repair of the chronic Achilles tendon tear difficult. Tendon transfer is associated with less Strength of the graft, need for additional incisions for harvesting the graft, wound breakdown and infections. Achilles tendon is used to reconstruct the gap to overcome the above complications. The aim of the study was to evaluate the clinical and functional outcomes of chronic Achilles tendon ruptures treated with Bosworth technique. Materials and Methods: This is a prospective observational study. Sixty-seven patients with chronic complete tendoachilles rupture treated surgically With Bosworth technique were included. The clinical outcome was assessed using Leppilahti scoring system. Results: The mean follow up was 36.4 months. Excellent to good results were reported in 60 patients (89.5%), 5 patients had fair and 2 Patients had poor results according to Leppilahti scoring system. No major complications or re-rupture of the tendon were Noted. Conclusion: The reconstruction of chronic Achilles tendon ruptures with Bosworth technique is associated with good clinical and functional outcomes.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The achilles tendon rupture: A deeper dive into its impact on professional and high-performance athletes",
+      "url": "https://zenodo.org/records/15063242",
+      "publisher": "World Journal of Advanced Research and Reviews",
+      "year": "2024",
+      "doi": "10.5281/zenodo.15063242",
+      "abstract": "Background : The Achilles tendon rupture (ATR) is an injury that has been detrimental to professional athletes over the years, recently rising to unforeseen heights as the intensity of sports has increased. Methods : To obtain relevant statistics for this paper, a review of prior research, including original research and case studies, was conducted. Digital publications and clinical data were reviewed to dissect factors such as injury causes, operations, current initiatives, the role of technology, and future implications. Results : The data revealed a significant increase in documented ATRs in athletes and the National Football League (NFL) over the years; most recently, these injuries increased from 11 in the 2019-2020 season to 24 in the 2021-2022 season. 3 Despite advancements in technology and recovery methods, dynamic changes involving training, conditioning, physicality, and intensity in sports have greatly contributed to the increased rates of injuries. With modernized resources such as advanced testing and rehabilitation procedures incorporating artificial intelligence (AI), specialists continue to search for new ways to treat injury and improve functional outcomes more effectively. Conclusion : This paper examines ATRs in athletes, its risk factors, current surgical methods for treatment, and modern rehabilitation methods. Future research should continue to develop comprehensive assessment and treatment methods to decrease the time to return to play, reduce the risk of re-injuries, and ensure cost-effective standards in implementing advanced rehabilitation modalities.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Treatment of Acute Achilles Tendon Rupture",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7031433/",
+      "publisher": "Clinics in orthopedic surgery",
+      "year": "2020",
+      "doi": "10.4055/cios.2020.12.1.1",
+      "abstract": "There is no clear consensus on the optimal treatment of acute Achilles tendon rupture. Recently, studies have demonstrated the critical role of functional rehabilitation in the treatment of ruptured Achilles tendons. Hence, conservative treatment is preferred by a growing number of surgeons seeking to treat the condition without the risk of complications from surgery. However, operative treatment is still considered as a more reliable treatment option for acute Achilles tendon rupture. In this review article, we provide an overview of recent treatment strategies for acute rupture of the Achilles tendon.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Achilles tendon rupture: avoiding tendon lengthening during surgical repair and rehabilitation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178860/",
+      "publisher": "The Yale journal of biology and medicine",
+      "year": "2011",
+      "doi": "",
+      "abstract": "Achilles tendon rupture is a serious injury for which the best treatment is still controversial. Its primary goal should be to restore normal length and tension, thus obtaining an optimal function. Tendon elongation correlates significantly with clinical outcome; lengthening is an important cause of morbidity and may produce permanent functional impairment. In this article, we review all factors that may influence the repair, including the type of surgical technique, suture material, and rehabilitation program, among many others.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.04,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Treatment of ruptured Achilles tendon: open or percutaneos procedure",
+      "url": "https://zenodo.org/records/3534156",
+      "publisher": "Acta Chirurgica Croatica",
+      "year": "2008",
+      "doi": "10.5281/zenodo.3534156",
+      "abstract": "Aim The aim of this study was to compare open and percutaneous surgical procedure in treatment of Achilles tendon rupture in terms of efficiency in athletes (professional and amateur). Methods Our work included 48 professional or amateur athletes with rupture of Achilles tendon. The age of athletes was between 25 and 40 years (average 34.83 +/- STDEV 4.65). Twenty-four athletes were operated with open procedure and 24 with percutaneous method. The period in which those procedures were made was between 1998 and 2005. All operated patients were tested one year after the surgical procedure. Results Presentation and comparison between open and percutaneous method were made on isokinetic dynamometer. The group operated with percutaneous method had 20% better results than those who were operated with open procedure. Discussion and conclusion Percutaneous method is technically easier than open method. Time spent in hospital is 14.5 times shorter with percutaneous procedure (percutaneous procedure – range 0.5 to 2 days, average 0.79 +/- STDEV 0.36; open procedure – range 10 to 24 days, average 11.46 +/- STDEV 2.70; p<0.00). Return to sport activities is twice faster than in the group treated with open procedure. We had no postoperative infections or reruptured Achilles tendon in the group treated with percutaneous procedure. In the group treated with open procedure we had one patient with postoperative infection (4.2%). In our opinion the best method in surgical treatment of Achilles tendon rupture is percutaneous method.> <0.00). Return to sport activities is twice faster than in the group treated with open procedure. We had no postoperative infections or reruptured Achilles tendon in the group treated with percutaneous procedure. In the group treated with open procedure we had one patient with postoperative infection (4.2%). In our opinion the best method in surgical treatment of Achilles tendon rupture is percutaneous method.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Risk of Deep Vein Thrombosis After Acute Achilles Tendon Rupture: A Secondary Analysis of a Randomized Controlled Trial Comparing Early Controlled Motion of the Ankle Versus Immobilization",
+      "url": "https://doi.org/10.1177/2325967120915909",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2020",
+      "doi": "10.1177/2325967120915909",
+      "abstract": "Background: Immobilization of the ankle joint has been suggested as a key element in the pathogenesis leading to deep vein thrombosis (DVT). Purpose: To investigate whether early controlled ankle motion (ECM) could reduce the incidence of DVT compared with immobilization (IM) in the treatment of acute Achilles tendon rupture. Study Design: Randomized controlled trial; Level of evidence, 2. Methods: Patients aged 18 to 70 years were eligible for inclusion, and treatment was nonoperative. The ECM group performed movements of the ankle 5 times a day from weeks 3 to 8 after rupture. The control group was immobilized for 8 weeks. The outcome measure was DVT diagnosed with color Doppler ultrasound for above- and below-knee DVT at 2 and 8 weeks. The Achilles tendon Total Rupture Score, the heel-rise work test, and the Copenhagen Achilles ultrasonographic Length Measurement were performed at 4-, 6-, and 12-month follow-up. Results: A total of 189 patients were assessed for eligibility from February 2014 to December 2016. Of these, 130 were randomized: 68 patients were allocated to the ECM group and 62 to the IM group. All patients participated in follow-up at 8 weeks assessing for DVT. In total, 62 (47.7%) patients were diagnosed with DVT: 33 of 68 (48.5%) in the ECM group and 28 of 61 (46.8%) in the IM group ( P = .84). DVT did not affect treatment outcomes at 4, 6, and 12 months. D-dimer had low sensitivity (71%) for detecting DVT. Conclusion: We found that 1 in 2 patients presented with DVT in nonoperative treatment of acute Achilles tendon rupture. The ECM protocol revealed no benefit versus IM in reducing the incidence of DVT. DVT did not influence functional and patient-reported outcomes the first year after rupture. D-dimer seems an inappropriate test for detection of DVT in patients with acute Achilles tendon rupture. Registration: NCT02015364 ( ClinicalTrials.gov identifier).",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.8,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Reconstruction of chronic Achilles tendon ruptures using a doubled peroneus longus tendon free graft and interference screw fixation: a technical note",
+      "url": "https://doi.org/10.1186/s13018-026-07162-y",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2026",
+      "doi": "10.1186/s13018-026-07162-y",
+      "abstract": "Abstract Background The surgical management of chronic Achilles tendon ruptures (CATR) with significant tissue defects (Myerson Type II/III) presents a clinical challenge. Traditional reconstructive methods relying on free hamstring autografts or flexor hallucis longus transfers are often limited by donor-site morbidity, infection risks, or are unavailable in patients with a history of anterior cruciate ligament (ACL) reconstruction. This technical note describes a refined, tissue-preserving surgical technique utilising a doubled free autologous peroneus longus (PL) tendon graft. Methods Under regional anaesthesia and thigh tourniquet control, a targeted 4 cm mini-open lateral incision is performed. The PL tendon is identified, harvested proximally using a tendon stripper, and a concomitant distal side-to-side tenodesis of the PL to the PB is performed to minimise eversion weakness. On the back table, the free PL autograft is doubled to achieve a 10 mm diameter construct. A calcaneal tunnel is drilled using progressive reaming. The free graft is routed through the proximal Achilles stump, passed subcutaneously, and drawn through the calcaneus. Final rigid stabilisation is secured with a 10 × 30 mm Bio-Interference Screw (Arthrex®) with the ankle held in maximum forced equinus to ensure optimal tensioning. Postoperatively, a 4-phase accelerated protocol begins with 3 weeks in a short-leg fibreglass cast under protected weight-bearing. Results/technical advantages This technique achieves reliable primary mechanical stability, allowing for early protected loading while minimising soft-tissue stripping in the hypovascular distal Achilles watershed area. The free PL autograft provides an adequate structural match, and complements the translational framework of the Soft Tissue Healing Diamond (ST-Diamond) concept. Furthermore, this approach serves as a potential alternative for middle-aged patients who have a history of prior ACL reconstruction using hamstring autografts, avoiding contralateral donor-site morbidity or the use of allografts. Conclusion The described mini-open free peroneus longus autograft reconstruction with interference screw fixation represents a cautious, reproducible, and biologically sound salvage option for large chronic Achilles tendon defects, balancing mechanical stability with minimal surgical morbidity.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Surgical treatment of chronic Achilles tendon rupture results in improved gait biomechanics",
+      "url": "https://doi.org/10.1186/s13018-022-02948-2",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2022",
+      "doi": "10.1186/s13018-022-02948-2",
+      "abstract": "Abstract Background Chronic Achilles tendon rupture is associated with persistent weakness at push-off with the affected foot and poor balance, resulting in significant alterations to normal gait. Surgical repair is the most common treatment for improving gait in patients with a Chronic Achilles tendon rupture, but, to date, the outcomes have not been quantified in the literature. Methods A total of 23 patients with a Chronic Achilles tendon rupture (mean age 61 ± 15 years) underwent three-dimensional gait analysis according to a standardized protocol using an optical tracking system. Data of spatiotemporal, kinematic and kinetic variables were collected preoperatively and one year postoperatively. In addition, the postoperative gait biomechanics were compared with the gait biomechanics of a control group consisting of 70 healthy individuals (mean age 49 ± 20 years). The prospectively collected data were analyzed by an independent t test. Results Postoperatively, increments were found in gait speed (mean difference − 0.12 m/s), stride length (− 0.12 m), peak ankle moment (− 0.64 Nm/kg), peak ankle power (− 1.38 W/kg), peak knee power (− 0.36 m) and reduced step width (0.01 m), compared with preoperative gait biomechanics (p < 0.014). Compared with the control group, patients with a Chronic Achilles tendon rupture exhibited slower postoperative gait speed (mean difference 0.24 m/s), wider step width (− 0.02 m), shorter stride length (0.16 m), longer relative stance phase (− 2.15%), lower peak knee flexion (17.03 degrees), greater peak knee extension (2.58 degrees), lower peak ankle moment (0.35 Nm/kg), peak ankle power (1.22 W/kg) and peak knee power (1.62 W/kg), (p < 0.010). Conclusion Surgical intervention and postoperative rehabilitation can be an effective treatment for alterations in gait after a Chronic rupture of the Achilles tendon. However, at one year postoperatively, patients still exhibit impairments in spatiotemporal variables and knee and ankle power compared with healthy controls.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Association between outdoor temperature and achilles tendon repair: A 14-years nationwide population-based cohort study",
+      "url": "https://doi.org/10.1371/journal.pone.0265041",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0265041",
+      "abstract": "The incidence of achilles tendon rupture varies by gender, age, and seasonal variation. However, there has been no study as yet linking achilles tendon rupture to daily fluctuations in outdoor temperature. The purpose of this study was to investigate the association between outdoor temperature and achilles tendon rupture using a Korea Meteorological Administration database and a Korean National Health Insurance Service-National Sample Cohort database. Between 2002 and 2015, all instances of achilles tendon repair were retrieved from the National Health Insurance Service-National Sample Cohort database to examine sociodemographic factors, specifically sex, age, residential area, and income level. Minimum age requirement was 20 years. Outdoor temperatures recorded at 16 observation points in South Korea were also acquired from the Korea Meteorological Administration data center for analysis. Overall, 850 (0.119%) of 713,456 individuals in the National Health Insurance Service-National Sample Cohort database underwent achilles tendon repair between 2002 and 2015. Yearly procedural totals increased with advancing age, peaking at ages 30–39 years (14.6 per 100,000 persons) and declining thereafter. Minimum, median, and maximum outdoor temperatures were associated with achilles tendon repair (p<0.05), as did household income. In multivariate logistic regression analysis, outdoor temperatures, sex, age, and household income emerged as factors significantly associated with achilles tendon repair. Outcomes of this study confirm an association between incidence of achilles tendon repair and outdoor temperature, the latter denoting a novel index and likely surrogate measure of vigorous physical activity afforded by warmer weather.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "A numerical framework for mechano-regulated tendon healing—Simulation of early regeneration of the Achilles tendon",
+      "url": "https://doi.org/10.1371/journal.pcbi.1008636",
+      "publisher": "PLOS Computational Biology",
+      "year": "2021",
+      "doi": "10.1371/journal.pcbi.1008636",
+      "abstract": "Mechano-regulation during tendon healing, i.e. the relationship between mechanical stimuli and cellular response, has received more attention recently. However, the basic mechanobiological mechanisms governing tendon healing after a rupture are still not well-understood. Literature has reported spatial and temporal variations in the healing of ruptured tendon tissue. In this study, we explored a computational modeling approach to describe tendon healing. In particular, a novel 3D mechano-regulatory framework was developed to investigate spatio-temporal evolution of collagen content and orientation, and temporal evolution of tendon stiffness during early tendon healing. Based on an extensive literature search, two possible relationships were proposed to connect levels of mechanical stimuli to collagen production. Since literature remains unclear on strain-dependent collagen production at high levels of strain, the two investigated production laws explored the presence or absence of collagen production upon non-physiologically high levels of strain (>15%). Implementation in a finite element framework, pointed to large spatial variations in strain magnitudes within the callus tissue, which resulted in predictions of distinct spatial distributions of collagen over time. The simulations showed that the magnitude of strain was highest in the tendon core along the central axis, and decreased towards the outer periphery. Consequently, decreased levels of collagen production for high levels of tensile strain were shown to accurately predict the experimentally observed delayed collagen production in the tendon core. In addition, our healing framework predicted evolution of collagen orientation towards alignment with the tendon axis and the overall predicted tendon stiffness agreed well with experimental data. In this study, we explored the capability of a numerical model to describe spatial and temporal variations in tendon healing and we identified that understanding mechano-regulated collagen production can play a key role in explaining heterogeneities observed during tendon healing. Author summary: The frequency of Achilles tendon ruptures has increased over the last decades. Treatments can involve different loading or unloading strategies of the Achilles tendon during healing. However, there is no consensus on the optimal treatment since the effect of loading on Achilles tendon healing is not fully understood. Recent experimental studies have shown that the tendon heals differently in different regions, particularly the core of the tendon callus seems to behave differently from the outside of the tendon. To better understand these spatial variations in Achilles tendon healing, a 3D computational model of a normally loaded healing tendon was created. We predicted tissue formation and reorganization upon mechanical stimulation of the healing tissue. We observed that strain-dependent tissue formation could explain recent observations of decreased tissue formation in the core of the healing callus during early tendon healing. This work investigates how mechanical stimuli affect the formation and reorganization of the newly formed tissue, considering both distributions in space and over time.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Evaluation of Calf Muscular Function During the Recovery Phase After the Repair of an Achilles Tendon Rupture",
+      "url": "https://www.frontiersin.org/article/10.3389/fsurg.2019.00057/full",
+      "publisher": "Frontiers in Surgery",
+      "year": "2019",
+      "doi": "10.3389/fsurg.2019.00057",
+      "abstract": "Background: During the recovery phase after the repair of an Achilles tendon rupture, measuring calf muscular function is important for predicting prognosis. Tensiomyography (TMG) is a selective and non-invasive diagnostic method for skeletal muscular contractile properties based on the displacement of the muscle belly.Case Presentation: Tensiomyography gives information about maximal displacement of the muscle belly (Dm), delay time, contraction time (Tc), sustain time, and relaxation time. Using Tensiomyography we evaluated a patient that had Achilles tendon rupture surgery. The contralateral normal side measurements were also performed for evaluation and comparison of the site of injury.Findings: In this study, the maximal displacement of the muscle belly changed significantly compared to other parameters. The maximal displacement of the muscle belly decreased after cast removal day and increased gradually during the early recovery phase and then slightly decreased again during the late recovery phase.Conclusions: These responses of the maximal displacement of muscle belly show a correlation with the recovery of muscular function.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Achilles tendon structure is negatively correlated with body mass index, but not influenced by statin use: A cross-sectional study using ultrasound tissue characterization",
+      "url": "https://doi.org/10.1371/journal.pone.0199645",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0199645",
+      "abstract": "Introduction: Statins are widely used to inhibit cholesterol production in the liver among people with hypercholesterolemia. A recent epidemiological study in the UK has shown that statin use (unlike elevated BMI) is not associated with an increased risk of Achilles tendon rupture. However, because of laboratory reports suggesting a negative influence of statins on tenocyte metabolism, we decided to directly compare the Achilles tendon structure (cross-sectional area and longitudinal collagen organization) in regular statin users compared to non-users. Methods: We conducted ultrasound tissue characterization (UTC) of the Achilles tendon in statin users and a comparison group of similar age and gender. Statin users and control participants were recruited from May 10 2015 to February 17 2017 through a cardiovascular health centre and from the general community. Cross-sectional area of the Achilles tendon and longitudinal collagen organization (% type I echoes) were assessed using quantitative ultrasound tissue characterization by a blinded observer at a predetermined location (2 cm proximal to the calcaneus). Results: Sixty-six individuals who were either taking statins for at least one year (ST, n = 33) or a comparison group who had never taken statins (CG, n = 33) were included in the study. The Achilles tendon cross-sectional area (ST 59.7 (13) mm2, CG 59.9 (8.5) mm2) and proportion of echo-type I patterns [ST 70 (10)%, CG 74 (13)%] were equivalent in the two groups. In contrast, there was a negative correlation between BMI (rs = -0.25, p = 0.042) and type I echo values. Obese individuals demonstrated a significantly lower percentage of type I echoes (62 (11)%) than individuals of normal body mass index (73 (10)% p<0.05). Conclusion: These findings demonstrate that there is no evidence of a negative statin influence on Achilles tendon structure. Given earlier reports that the risk of Achilles injury is equivalent in statin users and non-users, weightbearing exercise may be prescribed without placing the Achilles tendon at a higher risk of injury than among the general population. The results of this study are consistent with the known negative effects of elevated BMI on tendon structure, suggesting that an assessment of the Achilles tendons prior to prescribing weightbearing exercise may be prudent in obese individuals.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Chronic Achilles Tendon Rupture",
+      "url": "https://doi.org/10.2174/1874325001711010660",
+      "publisher": "Bentham Science Publishers Ltd.",
+      "year": "2017",
+      "doi": "10.2174/1874325001711010660",
+      "abstract": "Background: The Achilles tendon, the largest and strongest tendon in the human body, is nevertheless one of the tendons which most commonly undergoes a complete subcutaneous tear. Achilles tendon ruptures are especially common in middle aged men who occasionally participate in sport. Even though Achilles tendon ruptures are frequent, up to 25% of acute injuries are misdiagnosed, and present as chronic injuries. Methods: This is a review article about diagnosis and management of chronic Achilles tendon ruptures. Minimally invasive Achilles tendon reconstruction is discussed. Results: The optimal surgical procedure is still debated, however, less invasive peroneus brevis reconstruction technique and free hamstring autograft provide good functional results. Conclusion: The management of chronic ruptures is more demanding than acute tears, because of the retraction of the tendon ends, and the gap makes primary repair impossible. Wound complications and infections are frequent after open procedures. Minimally invasive treatments provide good functional results and lower complications rate.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Minimally Invasive versus Open Surgery in Patients with Complete Acute Achilles Tendon Rupture",
+      "url": "https://hal.science/hal-05388385v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2017",
+      "doi": "",
+      "abstract": "Introduction: The incidence of Achilles tendon ruptures is 18 per 100,000 habitants, its etiology is mechanical or degenerative, and surgical treatment is required in both cases. Evolution depends on several factors. Objective: To compare the functional results of minimally invasive and open surgery in Achilles tendon ruptures using the Leppilahti Scale. Methods: A cross-sectional study of patients with Achilles tendon rupture managed by open and minimally invasive surgery from January 2014 to August 2015. The following variables were studied: surgical time, complications, underlying diseases and functional grade according to the Leppilahti scale. Results: There were 41 patients, 38 (92.7%) of them men and 3 (7.3%) women. The right side was affected in 22 (53.7%) and the left in 19 (46.3%) cases. 19 (46.3%) patients underwent minimal invasive surgery and 22 (53.7%) open surgery. With the Leppilahti Scale, patients with minimal invasive surgery had excellent functionality in 6 (31.57%) and good functionality in 13 (68.42%) cases while conventional surgery had excellent functionality in 2 (9.1%), good functionality in 12 (54.5%), regular functionality in 6 (27.3%), and bad functionality in 2 (9.1%) patients. Minimally invasive management showed improvement in pain, muscle stiffness, muscle weakness of the tricep sural, range of motion differences between ankles, isokinetic muscle strength, overall outcome, and surgical time compared to open surgery (p ≤0.05). Conclusions: Minimally invasive surgery offers better surgical results than open surgery for repair of the Achilles tendon.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Practice Patterns in the Care of Acute Achilles Tendon Ruptures",
+      "url": "https://doi.org/10.1177/2325967116S00171",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2016",
+      "doi": "10.1177/2325967116S00171",
+      "abstract": "Objectives: Over the last decade, there has been a growing body of level I evidence supporting non-operative management (focused on early range of motion and weight bearing) of acute Achilles tendon ruptures. Despite this emerging evidence, there have been very few studies evaluating its uptake. Our primary objective was to determine whether the findings from a landmark trial assessing the optimal management strategy for acute Achilles tendon ruptures influenced the practice patterns of orthopaedic surgeons in Ontario, Canada over a 12-year time period. As a second objective we examined whether patient and provider predictors of surgical repair utilization differed before and after dissemination of the landmark trial results. Methods: Using provincial health administrative databases, we identified Ontario residents ≥ 18 years of age with an acute Achilles tendon rupture from April 2002 to March 2014. The proportion of surgically repaired ruptures was calculated for each calendar quarter and year. A time series analysis using an interventional autoregressive integrated moving average (ARIMA) model was used to determine whether changes in the proportion of surgically repaired ruptures were chronologically related to the dissemination of results from a landmark trial by Willits et al. (first quarter, 2009). Spline regression was then used to independently identify critical time-points of change in the surgical repair rate to confirm our findings. A multivariate logistic regression model was used to assess for differences in patient (baseline demographics) and provider (hospital type) predictors of surgical repair utilization before and after the landmark trial. Results: In 2002, ˜19% of acute Achilles tendon ruptures in Ontario were surgically repaired, however, by 2014 only 6.5% were treated operatively. A statistically significant decrease in the rate of surgical repair (p < 0.001) was observed after the results from a landmark trial were presented at a major North American conference (February 2009). Prior to the dissemination of trial results, the odds of undergoing surgical repair at a teaching hospital were found to be significantly higher than if treated at a non-teaching hospital (odds ratio (OR), 1.52; 95% confidence interval (CI), 1.04-2.22; p = 0.03). However, after the landmark trial there was no significant difference in the odds of undergoing surgical repair between teaching and non-teaching hospitals (p = 0.46). All other predictors of surgical repair utilization remained unchanged in the before-and-after analysis. Conclusion: The current study demonstrates that large, well-designed randomized trials, such as the one conducted by Willits et al. can significantly change the practice patterns of orthopaedic surgeons. Moreover, the significant decline in surgical repair rate at both teaching and non-teaching hospitals after the landmark trial suggests both academic and non-academic surgeons readily incorporate high quality evidence in to their practice.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Thompson Test in Achilles Tendon Rupture",
+      "url": "http://jetem.org/thompson-test-achilles-tendon-rupture/",
+      "publisher": "Journal of Education and Teaching in Emergency Medicine",
+      "year": "2016",
+      "doi": "doi:10.21980/J8VC7S",
+      "abstract": "HPI: A 26-year old male presented to the emergency department after experiencing the acute onset of left ankle pain while playing basketball. Upon jumping, he felt a “pop” in his left posterior ankle, followed by pain and difficulty ambulating. His exam was notable for a defect at the left Achilles tendon on palpation. The practitioner performed a Thompson test, which was positive (abnormal) on the left. Significant Findings: The left Achilles tendon had a defect on palpation, while the right Achilles tendon was intact. When squeezing the right (unaffected) calf, the ankle spontaneously plantar flexed, indicating a negative (normal) Thompson test. Upon squeeze of the left (affected) calf, the ankle did not plantar flex, signifying a positive (abnormal) Thompson test. The diagnosis of left Achilles tendon rupture was confirmed intraoperatively one week later. Discussion: The Achilles tendon (also: calcaneal tendon or heel cord) is derived from the medial and lateral heads of the gastrocnemius muscle, as well as the soleus muscle. Rupture of the Achilles tendon most commonly occurs in the distal tendon, approximately 2-6 cm from its attachment to the calcaneal tuberosity, in an area of hypovascularity known as the “watershed” or “critical” zone.1-3 The Thompson test (also: Simmonds-Thompson test), described by Simmonds in 1957 and Thompson in 1962, is done while the patient is in the prone position, with feet hanging over the end of a table/gurney, or with the patient kneeling on a stool or chair.4-5 Squeezing the calf of an unaffected limb will cause the ankle to plantar flex, but squeezing the calf of a limb with an Achilles tendon rupture will cause no motion. The sensitivity of the Thompson’s test for the diagnosis of a complete Achilles tendon rupture is 96-100% and the specificity is 93-100%, but data is limited.6-8",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Achilles Tendon Rupture",
+      "url": "https://doi.org/10.5811/westjem.2014.10.24127",
+      "publisher": "Western Journal of Emergency Medicine",
+      "year": "2015",
+      "doi": "10.5811/westjem.2014.10.24127",
+      "abstract": "A 60-year-old man presented to the emergency department complaining of acute onset posterior ankle pain. He reported playing tennis earlier in the afternoon when he suddenly stopped and pivoted, noting a “pop” sensation and pain to the right posterior ankle. The pain was sharp and increased with movement. The patient also experienced difficulty weight bearing and ambulating. There was a palpable defect at the distal end of the expected course of the Achilles tendon and lack of plantar flexion with squeezing the affected calf (Figure A). Point-of-care ultrasound (POCUS) was performed for further evaluation, and noted a discontinuity of the Achilles tendon with retracted proximal and distal ends, consistent with rupture (Figure B; Video). Orthopedics was consulted, and the patient was admitted for operative repair. Figure A and B (A) Comparison of both posterior ankles in patient with right posterior Achilles tendon rupture. (B) Longitudinal ultrasound image of the area of pain to the posterior right ankle, noting retracted ends of the Achilles tendon (arrows) and hematoma in-between ... Video Ultrasound video of the Achilles tendon using a linear transducer demonstrating retracted proximal and distal tendon ends, separated by a mixed echogenic focus (hematoma), consistent with complete tendon rupture. Achilles tendon rupture typically occurs by pushing off the weight-bearing foot with knee extended, sudden dorsiflexion of the ankle, or forceful dorsiflexion of a plantar-flexed foot.1,2 Physical examination may reveal a palpable defect at the tendon injury site, loss of strength with voluntary plantar flexion, increased passive dorsiflexion, and loss of plantar flexion with squeezing of the calf when the patient is lying prone (Simmonds-Thompson test).3–5 POCUS using a high-frequency transducer has been shown to be effective at visualizing Achilles tendon rupture, noting loss of the tightly arranged fibrillar pattern of the tendon fibers and an area of hypoechogenicity at the site of tendon defect.6,7 Additional ultrasound findings of tendon rupture include hematoma formation at the site of rupture and posterior acoustic shadowing at the retracted rupture margins.8 To avoid misdiagnosis of tendon injury due to the effect of anisotropy as the tendon fibers insert on the calcaneus, one should completely scan through the tendon course and insertion point in different planes.7",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Achilles tendon ruptures",
+      "url": "https://doi.org/10.1007/s12178-013-9185-8",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "2013",
+      "doi": "10.1007/s12178-013-9185-8",
+      "abstract": "The incidence of acute Achilles tendon ruptures is on the rise. This is thought to be due to the increasing number of middle-aged persons participating in athletic and/or strenuous activity. Ruptures of the Achilles tendon can be severely debilitating, with deficits seen years after the initial incident. Also, these injuries can have substantial socioeconomic impacts regardless of the treatment selected. Debate continues over the optimal treatment of Achilles tendon ruptures, especially the argument whether to treat patients nonoperatively or surgically. Newer evidence shows that functional rehabilitation, including early weight-bearing, should be an integral part of successful treatment of acute Achilles ruptures. Further research is needed to further investigate the ideal treatment and rehabilitation protocols.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Screening Method Based on Walking Plantar Impulse for Detecting Musculoskeletal Senescence and Injury",
+      "url": "https://doi.org/10.1371/journal.pone.0083839",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0083839",
+      "abstract": "No consensus has been reached on how musculoskeletal system injuries or aging can be explained by a walking plantar impulse. We standardize the plantar impulse by defining a principal axis of plantar impulse. Based upon this standardized plantar impulse, two indexes are presented: plantar pressure record time series and plantar-impulse distribution along the principal axis of plantar impulse. These indexes are applied to analyze the plantar impulse collected by plantar pressure plates from three sources: Achilles tendon ruptures; elderly people (ages 62–71); and young people (ages 19–23). Our findings reveal that plantar impulse distribution curves for Achilles tendon ruptures change irregularly with subjects’ walking speed changes. When comparing distribution curves of the young, we see a significant difference in the elderly subjects’ phalanges plantar pressure record time series. This verifies our hypothesis that a plantar impulse can function as a means to assess and evaluate musculoskeletal system injuries and aging.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.12,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Evaluation of surgical treatment for ruptured Achilles tendon in 31 athletes.",
+      "url": "https://unilim.hal.science/hal-00849036v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2013",
+      "doi": "10.1016/j.otsr.2013.03.024",
+      "abstract": "INTRODUCTION: In the past few decades, the incidence of Achilles tendon rupture has increased in parallel with increased sports participation. Although the optimal treatment remains controversial, there is a trend towards surgical treatment in athletes. HYPOTHESIS: Surgical repair of ruptured Achilles tendon in athlete results in good functional and objective recovery, irrespective of the type of surgery performed. Subsidiarily, are the results different between percutaneous surgery (PS) and standard open surgery (OS)? MATERIALS AND METHODS: This was a cross-sectional study of 31 patients who presented with a ruptured Achilles tendon that occurred during sports participation. Percutaneous surgery was performed in 16 patients and open surgery in 15 patients between 2005 and 2009. The objective recovery status was evaluated by open chain goniometry, measurement of leg muscle atrophy and assessment of isokinetic strength. The functional analysis was based on the delay, level of sports upon return, AOFAS and VAS for pain. RESULTS: Our series of Achilles tendon rupture patients consisted of 88% men and 12% women, with an average age of 38 years. In 71% of cases, the rupture occurred during eccentric loading. After a follow-up of 15 months, the muscle atrophy was 13 mm after PS and 24 mm after OS (P=0.01). A strength deficit of 19% in the plantar flexors was found in the two groups. No patient experienced a rerupture. The return to sports occurred at 130 days after PS and 178 days after OS (P=0.005). The average AOFAS score was 94 and the VAS was 0.5. There were no differences in ankle range of motion between the two groups. The majority (77%) of patients had returned to their preinjury level of sports activity. DISCUSSION: The return to activities of daily living was slower in our study than in studies based in Anglo-Saxon countries; this can be explained by the different sick leave coverage systems. Percutaneous surgery resulted in a faster return to sports (about 130 days) and less muscle atrophy than open surgery. Our results for return to sports and return to preinjury levels were similar to published results for athletes and were independent of the type of surgery performed. The AOFAS score was comparable to published studies. We found no difference in muscle strength between the two surgery groups 15 months after the procedure. Apart from venous thrombosis typically described after lower-limb immobilization, secondary postoperative complications mostly consisted of sural paresthesia, which had resolved at the 15-month postoperative follow-up evaluation. CONCLUSION: The results of surgical treatment for ruptured Achilles tendon are good overall. By combining the simplicity of conservative treatment and the reliability of standard surgical treatment, percutaneous surgery is the treatment of choice to achieve excellent results. The return to sports occurred earlier, the muscle atrophy was less and the functional score was better in our patients treated by percutaneous surgery. LEVEL OF EVIDENCE: Level IV.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The Incidence of Achilles Tendon Rupture",
+      "url": "https://doi.org/10.3109/17453677608998983",
+      "publisher": "MJS Publishing, Medical Journals Sweden AB",
+      "year": "1976",
+      "doi": "10.3109/17453677608998983",
+      "abstract": "During the years 1950-1973, 229 cases of Achilles tendon rupture were diagnosed in the city of Malmö. More than half of the injuries were caused by sporting activities, the most common being badminton and football (soccer). Ruptures caused by injuries other than sports injuries were found in considerably older subjects. During the period investigated the incidence of Achilles tendon rupture increased in the city more than could be accounted for by changes in the population. This increase could only be partly explained by the increasing interest in sporting activities in the population at risk.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Incidence of Achilles tendon rupture",
+      "url": "https://doi.org/10.3109/17453679608994688",
+      "publisher": "MJS Publishing, Medical Journals Sweden AB",
+      "year": "1996",
+      "doi": "10.3109/17453679608994688",
+      "abstract": "We determined the incidence of a total Achilles tendon rupture in the city of Oulu and changes over the 16-year period 1979-1994. During this time, 110 ruptures occurred. The incidence increased from 2 ruptures/10(5) inhabitants in 1979-1986 to 12 in 1987-1994, with a mean of 7. The peak annual incidence, 18, was recorded in 1994. The incidence was highest in the age group 30-39 years. Male dominance was 5.5:1, and 81% of the ruptures were related to sports, with 88% occurring in ball games. The mean age was significantly lower for the sports injuries.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Functional Outcomes of a Novel Modified Giftbox Technique for Primary Achilles Tendon Repairs",
+      "url": "https://doi.org/10.1177/2473011425S00471",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2025",
+      "doi": "10.1177/2473011425S00471",
+      "abstract": "Research Type: Level 4 – Case series Introduction/Purpose: Primary Achilles tendon ruptures are common injuries and typically result from acute loading associated with sudden and forceful contraction of the gastrocnemius. Various surgical techniques exist that allow decreased re-rupture rates and faster return to play. The giftbox technique demonstrates improvement in the biomechanical properties of acute Achilles tendon repairs and decreased re-rupture rates compared to prior techniques (Labib et al. 2009; Labib et al. 2016). However, re-ruptures still occur. For this reason, this project explores a modification to the giftbox technique, where the proximal and distal free suture ends are passed anteriorly to the tendon and tied at lateral struts. Specifically, the purpose is to evaluate the functional outcomes observed with this novel technique. Methods: An institution-based registry with foot and ankle patient data that was prospectively collected was queried. Consecutive patients who underwent surgical repair of acute Achilles tendon ruptures between June 2017 and March 2023 with the senior author’s modified giftbox technique were evaluated. The inclusion criteria were patients who had an acute primary Achilles tendon rupture within six weeks prior to surgery, clinical diagnosis, and underwent surgical repair. Patients with ipsilateral ankle pathology and revision surgeries were excluded from the study. Patient reported outcome measures (PROMs) were obtained preoperatively and at 6 month, and ≥1-year postoperative clinic visit with the validated Foot and Ankle Ability Measure Activities of Daily Living (FAAM ADL) subscale, PROMIS Mental Health, and PROMIS Physical Health. PROMs were compared to the preoperative scores with a paired t-test and 95% confidence intervals were reported. Results: 56 patients were identified who had undergone acute Achilles tendon rupture repair with the modified giftbox technique and were included in this study (14 females). All patients completed a preoperative survey, 46 (82%) patients completed a 1-month postoperative PROM survey, 51 (91%) completed a 3-month postoperative PROM, 50 (89.3%) completed a 6-month postoperative PROM, and 54 (96%) patients completed a final postoperative PROM, with a minimum of 1-year. Mean follow-up was 2.85 years. The PROM results are summarized in Table 1. Notably, a significant improvement in all scores except PROMIS-MH was observed starting at the 3-month visit. Patients continued to progress with each visit. Overall complication rate was 10.7% consisting of 1 re-rupture, 1 infection, 1 neuropathy, and 3 delayed wound healing. Conclusion: This study clinically assesses a novel modified giftbox technique for treating acute Achilles tendon ruptures, revealing improved functional outcomes based on FAAM (ADL and Sport), PROMIS-PH, and VAS in both mid-term and long-term follow-ups. The novel modified giftbox technique is suitable for surgical repair of acute Achilles tendon ruptures, and results compare well to historical reports of re-rupture, infection, and wound complication rates. Furthermore, this provides a comprehensive overview of patient standards at each interval.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Functional Outcomes of Achilles Repair in the U.S. Military",
+      "url": "https://doi.org/10.1177/2473011425S00264",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2025",
+      "doi": "10.1177/2473011425S00264",
+      "abstract": "Research Type: Level 3 - Retrospective cohort study, Case-control study, Meta-analysis of Level 3 studies Introduction/Purpose: Achilles tendon ruptures (ATR) are common injuries among adults and can cause significant pain and disability. To date, no studies have been performed to evaluate the functional outcomes of Achilles tendon repair (AR) using a standardized physical readiness test (PRT) in a military population. The intent of this study was to assess the outcomes of AR on physical readiness in U.S. Navy personnel. Methods: A retrospective analysis of 2014-2020 data from the Military Health System Medical Data Repository (MDR) and Physical Readiness Information Management System. Achilles tendon rupture was identified using a procedure code from MDR. The study cohort included military personnel who underwent only one Achilles tendon rupture procedure and who had cardiovascular Physical Readiness Test (PRT) assessments both before and after operative repair. The cardiovascular component was stratified into three subgroups: individuals who biked pre- and post-Achilles tendon rupture, those who ran, and those who ran pre-Achilles tendon rupture but transitioned to another cardiovascular test following operative repair. Participants who completed PRT cardiovascular assessments within 30 to 730 days pre-Achilles tendon rupture and 90 to 730 days post-Achilles tendon rupture were included. Differences in pre- and post-Achilles tendon rupture PRT scores for the bike and run subgroups were compared. The proportions of individuals who improved, decreased, or maintained fitness categories were reported. Results: The composition of Navy personnel across the cardiovascular subgroup of the PRT ranged between 4% to 7% female and 93% to 96% male. 451 completed the cardiovascular section of the PRT pre- and post-Achilles tendon rupture as follows: 156 individuals biked, 127 ran, and 144 ran pre-Achilles tendon rupture but transitioned to another cardiovascular test following operative repair (run-to-another). Individuals performed worse on their PRTs post-Achilles tendon rupture compared with their pre-Achilles tendon rupture scores for the biking subgroup (+9.58 seconds, p=0.018) and the running subgroup (+40.79 seconds, p< 0.001). There was no significant difference for the biking subgroup. Fitness category levels significantly declined for only the running subgroup (-0.252 categories, p< 0.001) and run-to-another subgroup (-0.188 categories, p=0.011) between pre- and post-Achilles tendon rupture scores. Conclusion: ATRs represent a significant musculoskeletal challenge impacting a substantial portion of individuals in the United States, including a notable prevalence among U.S. military personnel. Our findings reveal a notable decline in PRT scores following AR, which was particularly evident in running performance. However, most personnel returned to their pre-AR PRT score categories and there was a low failure rate, suggesting that AR may have a limited impact on military readiness.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Dendritic Cell-Derived Exosomes Promote Tendon Healing and Regulate Macrophage Polarization in Preventing Tendinopathy",
+      "url": "https://www.dovepress.com/dendritic-cell-derived-exosomes-promote-tendon-healing-and-regulate-ma-peer-reviewed-fulltext-article-IJN",
+      "publisher": "International Journal of Nanomedicine",
+      "year": "2024",
+      "doi": "",
+      "abstract": "Rao Chen,1,2,* Liya Ai,1,2,* Jiying Zhang,1,3,4 Dong Jiang1,3,4 1Department of Sports Medicine, Peking University Third Hospital, Institute of Sports Medicine of Peking University, Beijing, 100191, People’s Republic of China; 2Department of Laboratory Animal Science, Peking University Health Science Center, Beijing, 100191, People’s Republic of China; 3Beijing Key Laboratory of Sports Injuries, Beijing, 100191, People’s Republic of China; 4Engineering Research Center of Sports Trauma Treatment Technology and Devices, Ministry of Education, Beijing, 100191, People’s Republic of China*These authors contributed equally to this workCorrespondence: Dong Jiang, Department of Sports Medicine, Peking University Third Hospital, Beijing, 100191, People’s Republic of China, Email bysyjiangdong@126.comIntroduction: Tendon injuries present a significant challenge for independent repair, and can progress into tendinopathy over time, highlighting the importance of early intervention. Dendritic cell-derived exosomes (DEXs) has been shown to shift the polarization of M1 macrophages, the predominant inflammatory cells in the early stages of tendon injury. This study introduces a therapeutic approach that effectively manages inflammation while promoting regeneration in the treatment of tendinopathy.Methods: The purification and characterization of DEXs were meticulously conducted. Experiments were carried out using an Achilles tendon rupture mouse model, with weekly DEXs treatment starting on postoperative day (POD) 4. In vitro, the function of DEXs was assessed by coculturing them with tendon stem/progenitor cells (TSPCs) in culture medium containing IL-1β. Tendon healing progress was evaluated using Sirius Red staining, Masson’s trichrome staining, biomechanical testing, and immunofluorescence microscopy. The inflammatory microenvironment of injured tendons was evaluated using the Luminex procedure and flow cytometry analysis.Results: DEXs treatment significantly enhanced tendon cell differentiation, promoted collagen type I synthesis, and inhibited collagen type III synthesis, thereby expediting tendon healing. Furthermore, DEXs treatment improved the inflammatory microenvironment by reducing multiple cytokines (IL-1β, IL-4, IL-6, TNF-α, and IFN-γ) and induced the conversion of M1 macrophages to M2 macrophages by activating the PI3K/AKT pathway.Conclusion: DEXs demonstrated a potent ability to promote tendon healing while ameliorating the inflammatory microenvironment, suggesting their potential as a therapeutic approach to prevent the development of tendinopathy. Keywords: dendritic cell-derived exosomes, macrophage polarization, tendinopathy, inflammatory microenvironment",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Achilles tendon injury rehabilitation and lower limb biomechanics Rééducation des lésions du tendon d'Achille et biomécanique des membres inférieurs",
+      "url": "https://theses.hal.science/tel-04192365v1",
+      "publisher": "HAL open archive",
+      "year": "2023",
+      "doi": "10.70675/35b723daza1d8z43d6zb8b3zf8d5a8e93c08",
+      "abstract": "There are two themes to this thesis. Theme 1 is titled “Return to sport outcome measures to assess lower limb strength, performance and biomechanical features after an Achilles tendon injury”. There are 2 chapters within this theme which will also be journal publications. We tested the reliability of a seated calf isometric strength test protocol. We felt this study was important as force plate technology has become widely available in research, sports club and clinical settings. However, there is a lack of consistency in how calf strength is assessed and reported. We also investigated the reliability and biomechanical features of a novel single leg horizontal plyometric exercise. Other studies have demonstrated largest Achilles tensile forces and loading rates, as well as muscle contributions from the calf muscles in horizontal hopping compared to vertical hopping. Our study highlighted that horizontal hopping requires highest joint powers from the ankle, higher stiffness at the knee and that peak hip joint moments correlated strongly with hop distance and reactive strength index. We propose the utilisation of this test as a suitable return to play outcome measure following Achilles and calf injury and to assess horizontal reactive strength performance similar to the widely used vertical reactive strength index measure by dividing rebound distance by contact time.Theme 2 is titled “Rehabilitation pathway for Achilles tendon injuries governed by assessment outcome measures”. Under theme 2 there are three chapters. The first chapter is a protocol paper for a randomised controlled trial for a criteria-based multi-factorial rehabilitation program for chronic mid portion Achilles tendinopathy in runners. Most traditional AT RCTs have been based on a single mode of exercise (eccentric exercise or heavy slow resistance) and single mode of testing (plantar flexor strength or hop performance). Few studies investigated running biomechanics. No studies that have a combined exercise approach and test strength, hopping and running biomechanics, as well as long term follow-ups. This paper has been published in BMC Musculoskeletal disorders journal. The next chapter reports on the findings of a 12 week RCT comparing a novel training program with an established research-based protocol acting as the control. We used the VISA-A Questionnaire as the primary outcome measure and assessed plantar flexor isokinetic strength, vertical and single plyometric performance, as well as evaluating their running biomechanics using 3D motion capture at week 0, 6 and 12 timepoints. The last chapter is a case report on a football player who sustained an Achilles tendon rupture and subsequent surgical repair. The chapter and prospective journal paper outlines a criteria-based multi-factorial rehabilitation program over a 9 month period, as well as calf strength, plyometric performance and biomechanical evaluation of linear and multi-directional running at various timepoints over the 9 month program. There are no published guidelines or agreed return to sport outcome measures for athletes recovering from an Achilles tendon rupture and limited biomechanical evaluation during hopping, linear and multi-directional running tasks. Il y a deux thèmes dans cette thèse. Le thème 1 s'intitule « Mesures des résultats du retour au sport pour évaluer la force, la performance et les caractéristiques biomécaniques des membres inférieurs après une blessure au tendon d'Achille ». Il y a 2 chapitres dans ce thème qui seront également des publications dans des revues. Nous avons testé la fiabilité d'un protocole de test de force isométrique du mollet assis. Nous avons estimé que cette étude était importante car la technologie des plateformes de force est devenue largement disponible dans la recherche, les clubs sportifs et les milieux cliniques. Cependant, il y a un manque d'uniformité dans la façon dont la force du mollet est évaluée et rapportée. Nous avons également étudié la fiabilité et les caractéristiques biomécaniques d'un nouvel exercice de pliométrie horizontale à une jambe. D'autres études ont démontré les forces de traction et les taux de charge d'Achille les plus importants, ainsi que les contributions musculaires des muscles du mollet dans les sauts horizontaux par rapport aux sauts verticaux. Notre étude a mis en évidence que le saut horizontal nécessite les puissances articulaires les plus élevées de la cheville, une rigidité plus élevée au niveau du genou et que les moments articulaires maximaux de la hanche sont fortement corrélés à la distance du saut et à l'indice de force réactive. Nous proposons l'utilisation de ce test comme mesure appropriée des résultats du retour au jeu après une blessure au tendon d'Achille et au mollet et pour évaluer la performance de la force réactive horizontale similaire à la mesure de l'indice de force réactive verticale largement utilisée en divisant la distance de rebond par le temps de contact.Le thème 2 s'intitule « Parcours de réadaptation pour les lésions du tendon d'Achille régi par des mesures de résultats d'évaluation ». Sous le thème 2, il y a trois chapitres. Le premier chapitre est un document de protocole pour un essai contrôlé randomisé pour un programme de réadaptation multifactoriel basé sur des critères pour la tendinopathie d'Achille chronique de la partie moyenne chez les coureurs. La plupart des ECR AT traditionnels ont été basés sur un seul mode d'exercice (exercice excentrique ou résistance lente lourde) et un seul mode de test (force de flexion plantaire ou performance de saut). Peu d'études ont porté sur la biomécanique de la course. Aucune étude n'a combiné une approche d'exercice et teste la force, la biomécanique des sauts et de la course, ainsi que des suivis à long terme. Cet article a été publié dans la revue BMC Musculoskeletal Disorders. Le chapitre suivant rend compte des résultats d'un ECR de 12 semaines comparant un nouveau programme de formation à un protocole établi basé sur la recherche agissant comme contrôle. Nous avons utilisé le questionnaire VISA-A comme critère de jugement principal et évalué la force isocinétique du fléchisseur plantaire, les performances verticales et pliométriques simples, ainsi que l'évaluation de leur biomécanique de course à l'aide de la capture de mouvement 3D aux semaines 0, 6 et 12. Le dernier chapitre est un rapport de cas sur un joueur de football qui a subi une rupture du tendon d'Achille et une réparation chirurgicale ultérieure. Le chapitre et l'article de journal prospectif décrivent un programme de réadaptation multifactoriel basé sur des critères sur une période de 9 mois, ainsi que la force du mollet, la performance pliométrique et l'évaluation biomécanique de la course linéaire et multidirectionnelle à divers moments au cours du programme de 9 mois. Il n'y a pas de lignes directrices publiées ou de mesures convenues des résultats du retour au sport pour les athlètes qui se remettent d'une rupture du tendon d'Achille et d'une évaluation biomécanique limitée pendant les tâches de course à sauts, linéaires et multidirectionnelles.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "What Are the Sonographic Outcomes of Acute Achilles Tendon Rupture? Nonoperative Versus Surgical Repair?",
+      "url": "https://hal.science/hal-05051030v1",
+      "publisher": "Surgical Technology International",
+      "year": "2021",
+      "doi": "10.52198/21.STI.39.SO1505",
+      "abstract": "The objective was to compare the two-year ultrasonographic outcomes in a consecutive series of patients with acute Achilles tendon rupture (ATr), either treated surgically or nonoperatively.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Extracellular Vesicle-Educated Macrophages Promote Early Achilles Tendon Healing",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6850358/",
+      "publisher": "Stem cells (Dayton, Ohio)",
+      "year": "2019",
+      "doi": "10.1002/stem.2988",
+      "abstract": "Tendon healing follows a complex series of coordinated events, which ultimately produces a mechanically inferior tissue more scar-like than native tendon. More regenerative healing occurs when anti-inflammatory M2 macrophages play a more dominant role. Mesenchymal stromal/stem cells (MSCs) are able to polarize macrophages to an M2 immunophenotype via paracrine mechanisms. We previously reported that coculture of CD14+ macrophages (MQs) with MSCs resulted in a unique M2-like macrophage. More recently, we generated M2-like macrophages using only extracellular vesicles (EVs) isolated from MSCs creating \"EV-educated macrophages\" (also called exosome-educated macrophages [EEMs]), thereby foregoing direct use of MSCs. For the current study, we hypothesized that cell therapy with EEMs would improve in vivo tendon healing by modulating tissue inflammation and endogenous macrophage immunophenotypes. We evaluated effects of EEMs using a mouse Achilles tendon rupture model and compared results to normal tendon healing (without any biologic intervention), MSCs, MQs, or EVs. We found that exogenous administration of EEMs directly into the wound promoted a healing response that was significantly more functional and more regenerative. Injured tendons treated with exogenous EEMs exhibited (a) improved mechanical properties, (b) reduced inflammation, and (c) earlier angiogenesis. Treatment with MSC-derived EVs alone were less effective functionally but stimulated a biological response as evidenced by an increased number of endothelial cells and decreased M1/M2 ratio. Because of their regenerative and immunomodulatory effects, EEM treament could provide a novel strategy to promote wound healing in this and various other musculoskeletal injuries or pathologies where inflammation and inadequate healing is problematic. Stem Cells 2019;37:652-662.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Relative and Absolute Risk of Tendon Rupture with Fluoroquinolone and Concomitant Fluoroquinolone/Corticosteroid Therapy: Population-Based Nested Case-Control Study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6394638/",
+      "publisher": "Clinical drug investigation",
+      "year": "2019",
+      "doi": "10.1007/s40261-018-0729-y",
+      "abstract": "Background and objective Tendon rupture can result from fluoroquinolone exposure. The objective of this study was to quantify relative and absolute risk and determine how risk is affected by timing of exposure. Methods The UK Health Improvement Network primary care database was used to perform a nested case-control study measuring the association between fluoroquinolone exposure and tendon rupture. Adults with tendon rupture were matched on age, sex, general practice and calendar time to four controls selected from a cohort prescribed systemic fluoroquinolone or co-amoxiclav antibiotics. The relative and absolute risk of tendon rupture with fluoroquinolone exposure was calculated. Results Current fluoroquinolone exposure was associated with an increased risk of any tendon rupture (adjusted incidence rate ratio [aIRR] 1.61, 95% CI 1.25-2.09) and Achilles tendon rupture (aIRR 3.14, 95% CI 2.11-4.65) that persisted for 60 days. Risk increased with cumulative exposure and was greatest when co-prescribed with oral corticosteroids (aIRR 19.36, 95% CI 7.78-48.19 for Achilles tendon rupture). The adjusted rate difference (aRD) with fluoroquinolone exposure was 2.9 and 2.1 per 10,000 patients for any and Achilles tendon rupture, respectively, and was greatest in people aged ≥ 60 years prescribed concomitant oral corticosteroid therapy (aDR 19.6 for any tendon and 6.6 Achilles tendon rupture per 10,000). No association was seen with co-amoxiclav or statin exposure, or with biceps or other tendon ruptures. Conclusions Risk of tendon rupture with fluoroquinolones depends on timing, cumulative dose and concomitant exposure to oral corticosteroids. Absolute risk significantly varied by age and concomitant corticosteroid exposure, affecting elderly patients the greatest.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Suture à ciel ouvert du tendon d’Achille : récupération fonctionnelle au long cours",
+      "url": "https://hal.science/hal-01875479v1",
+      "publisher": "Science & Sports",
+      "year": "2018",
+      "doi": "10.1016/j.scispo.2018.01.005",
+      "abstract": "Introduction The incidence of traumatic ruptures of the Achilles tendon has been increasing since the early 2000s. Many surgical techniques (percutaneous, minimally invasive) and non-surgical techniques exist. The objective of our study is to evaluate the functional recovery at one year of recoil after open suture of the Achilles tendon with the Achilles’ Traumatic Rupture Score. Material and methods This was a retrospective monocentric study of the 53 consecutive patients who had surgically treated open-cast traumatic Achilles tendon rupture between 2010 and 2016 at Clermont-Ferrand University Hospital. The primary endpoint was at least one year of functional recovery evaluated by the Achilles Tendon Rupture Score (ATRS). Secondary endpoints included time to recovery, sports recovery, surgical time, scarring, infections and pre-existence of subjective Achillian tendinopathy. The mean follow-up of the series was 47 months (13 to 77 months) with an average operating time of 3 days (0 to 19 days). Results We had no loss of sight. Clinical recovery results were good with an ATRS score at 90% on average (70% to 100%). Surgical complications were only 13.2% of scarring disorders without recurrence of rupture. Discussion The technique of suturing the Achilles tendon is a technique that gives good functional results with a recurrence rate that remains low. However, the skin complications are not negligible and are the major complications of this technique. Early postoperative mobilization could improve the functional outcome.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Bilateral Chronic Rupture of Achilles Tendon after Cortico-Steroid Injection - A Case Report",
+      "url": "https://zenodo.org/records/8279197",
+      "publisher": "PJSR",
+      "year": "2009",
+      "doi": "10.5281/zenodo.8279197",
+      "abstract": "Bilateral chronic rupture of Achilles tendon after cortico steroid injection is rare . Very few Cases of Achilles tendon rupture have been described in the literature after inra / peri tendinious corticosteroid injection . A middle aged man presented with gradually increasing difficulty in climbing stairs and mild pain, swelling in lower posterior part of both legs for two month after cortico steroid injection. We report a case of bilateral chronic rupture of Achilles tendon after cortico steroid injection .",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.3,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Diagnosis of Achilles Tendon Pathology: Ultrasonography Versus Plain X-ray",
+      "url": "https://hal.science/hal-05390545v1",
+      "publisher": "British Journal of Medicine and Medical Research",
+      "year": "2017",
+      "doi": "",
+      "abstract": "Aims: The current study aimed to highlight diagnostic usefulness of ultrasonography (USG) in Achilles tendon pathology. Methods: This cross-sectional study was conducted in the department of Physical Medicine and Rehabilitation in co-operation with Orthopedics and Traumatology facility of Bangabandhu Sheikh Mujib Medical University, Dhaka, Bangladesh. The study period was 2 years (July 2010 to June 2012); and 61 patients with posterior heel pain selected consecutively. Along with history taking, enrolled subjects examined meticulously. Non-invasive measures such as X-ray, USG (Siemens premium edition, Acuson antares, transducer: VF 10-5, 5.7-10 MHz) also used to acquire further information regarding heel pathology. A semi-structured questionnaire used to preserve primary data. Since, four subjects refused to do USG and X-rays were not available from another seven, we studied over rest fifty. Uni-variate analysis performed. Having been used kappa statistics, sensitivity, specificity, positive predictive value, and negative predictive value of ultrasound and X-ray in several Achilles tendon pathologies performed; p < 0.05 considered statistically significant. Results: Among of all participants, 38.0% belonged to 36-45 age range and maximum (68.0%) were male. Although a substantial 37 (76.0%) had been suffering from localized back heel pain, 13 (26.0%) of them had systemic diseases like diabetes mellitus (76.9%), dyslipidaemia (1, 2.0%), systemic lupus erythematosus (1, 2.0%), and ankylosing spondylitis (1, 2.0%). Achilles tendinitis, Achilles tendon rupture, retrocalcaneal bursitis, tendon xanthoma diagnosed using ultrasonogram in 31 (62.0%), 7 (14%), 3(6%), and 1 (2.0%) patients respectively. Concerning Achilles tendon pathology, USG was 95.0% sensitive, 50.0%, specific, and 92.0% accurate, whereas diagnostic sensitivity, specificity, and accuracy for X-ray was 39.0%, 75.0%, and 42.0% respectively. Conclusion: In diagnosing soft tissue pathologies in and around Achilles tendon ultrasound is far better option than conventional X-ray.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The role of proprioceptive system in the rehabilitation of patients after Achilles tendon reconstruction",
+      "url": "https://zenodo.org/records/1041570",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.1041570",
+      "abstract": "Strojek Katarzyna, Weber-Rajek Magdalena, Zukow Walery, Radzimińska Agnieszka. The role of proprioceptive system in the rehabilitation of patients after Achilles tendon reconstruction. Journal of Education, Health and Sport. 2017;7(11):57-66. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.1041570 http://ojs.ukw.edu.pl/index.php/johs/article/view/5006 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Authors 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.10.2017. Revised: 12.10.2017. Accepted: 30.10.2017. The role of proprioceptive system in the rehabilitation of patients after Achilles tendon reconstruction Katarzyna Strojek 1 , Magdalena Weber-Rajek 1 , Walery Żukow 2 , Agnieszka Radzimińska 1 1. Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in Torun, Department of Physiotherapy, Division of Basic Physiotherapy, Bydgoszcz, Poland 2. Department of Spatial Management and Tourism, Faculty of Earth Sciences, Nicolaus Copernicus University, Torun, Poland Adres do korespondencji: Katarzyna Strojek Collegium Medicum w Bydgoszczy, Uniwersytet Mikołaja Kopernika w Toruniu Katedra Fizjoterapii ul. Techników 3 85-801 Bydgoszcz tel. 52 585 34 64 email: katarzyna.strojek@gmail.com Abstract Achilles tendon injury is a major clinical problem because it prevents proper functioning of the patient. The recommended procedure in the event of tendon rupture is surgical treatment - reconstruction of tendon reconstruction. The aim of surgical treatment of Achilles tendon rupture is to bring back its function by restoring the correct length and tension of the tendon and to obtain the highest possible functional state of the patient. The selection of the optimal post-operative rehabilitation programme with a predominance of functional physiotherapy elements is an essential part of the treatment of Achilles tendon rupture. A proper rehabilitation after the surgery enables the patient to achieve better functional results. During the surgery proprioceptors are damaged, that is why the treatment working on three levels of motor control should be introduced as fast as possible, such as kinesthetic or proprioceptive training. Key words: Achilles tendon injury, proprioceptive training.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Bi-exponential T2 analysis of healthy and diseased Achilles tendons: an in vivo preliminary magnetic resonance study and correlation with clinical score",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3769589/",
+      "publisher": "European radiology",
+      "year": "2013",
+      "doi": "10.1007/s00330-013-2897-8",
+      "abstract": "Objective To compare mono- and bi-exponential T2 analysis in healthy and degenerated Achilles tendons using a recently introduced magnetic resonance variable-echo-time sequence (vTE) for T2 mapping. Methods Ten volunteers and ten patients were included in the study. A variable-echo-time sequence was used with 20 echo times. Images were post-processed with both techniques, mono- and bi-exponential [T2 m, short T2 component (T2 s) and long T2 component (T2 l)]. The number of mono- and bi-exponentially decaying pixels in each region of interest was expressed as a ratio (B/M). Patients were clinically assessed with the Achilles Tendon Rupture Score (ATRS), and these values were correlated with the T2 values. Results The means for both T2 m and T2 s were statistically significantly different between patients and volunteers; however, for T2 s, the P value was lower. In patients, the Pearson correlation coefficient between ATRS and T2 s was -0.816 (P = 0.007). Conclusion The proposed variable-echo-time sequence can be successfully used as an alternative method to UTE sequences with some added benefits, such as a short imaging time along with relatively high resolution and minimised blurring artefacts, and minimised susceptibility artefacts and chemical shift artefacts. Bi-exponential T2 calculation is superior to mono-exponential in terms of statistical significance for the diagnosis of Achilles tendinopathy. Key points • Magnetic resonance imaging offers new insight into healthy and diseased Achilles tendons • Bi-exponential T2 calculation in Achilles tendons is more beneficial than mono-exponential • A short T2 component correlates strongly with clinical score • Variable echo time sequences successfully used instead of ultrashort echo time sequences.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Analysis of Achilles tendon vascularity with second generation Contrast-Enhanced Ultrasound (CEUS)",
+      "url": "https://hal.science/hal-00613767v1",
+      "publisher": "Journal of Clinical Ultrasound",
+      "year": "2011",
+      "doi": "10.1002/jcu.20789",
+      "abstract": "Purpose: To compare morphological and power Doppler features of the Achilles tendon and Contrast-Enhanced Ultrasound (CEUS) behaviour between asymptomatic athletes and athletes who had undergone surgery for repair of an Achilles tendon rupture. Materials and Methods: 24 athletes were divided in two groups (A and B). Group A included 14 patients with a median age of 32 years (range 27 to 47 years) who had undergone surgical repair for unilateral Achilles tendon rupture. Group B (control group) included 10 subjects with a median of 34 years (range 27 to 40 years) with no previous or present history of tendinopathy. All patients were evaluated with gray-scale ultrasound (US), power-Doppler and CEUS with second-generation contrast agent. We studied the uninjured Achilles tendon in athletes who had suffered a previous rupture (Group A) and either the left or right Achilles tendon of the athletes in Group B. Results: CEUS showed a significantly greater ability to detect a greater number of vascular spots within the tendon of Group A compared to Group B (< 0.05). Conclusions: In athletes who had suffered a tear of an Achilles tendon, CEUS detected small vessels that were not identified by power-Doppler US in the uninjured contralateral Achilles tendon. CEUS is useful to evaluate vascularity not detected by other imaging techniques. vascularity seems to be increased in patient who had suffered from a previous rupture.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.04,
+      "providers": [
+        "hal"
+      ]
+    }
+  ]
+}

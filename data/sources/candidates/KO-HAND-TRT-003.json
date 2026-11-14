@@ -1,0 +1,1382 @@
+{
+  "term": "Hand Therapy Exercises",
+  "collected": "2026-11-14",
+  "count": 76,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Neurodynamic Techniques in the Treatment of Mild-to-Moderate Carpal Tunnel Syndrome: A Systematic Review and Meta-Analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10419623/",
+      "publisher": "Journal of clinical medicine",
+      "year": "2023",
+      "doi": "10.3390/jcm12154888",
+      "abstract": "Carpal tunnel syndrome (CTS) is a condition that affects the main nerves in the wrist area that causes numbness, tingling, and weakness in the hand and arm. CTS affects 5% of the general population and results in pain in the wrist due to repetitive use, most commonly affecting women and office workers. Conservative management of CTS includes neurodynamic modulation to promote median nerve gliding during upper limb movements to maintain normal function. However, evidence for the benefits of neurodynamic modulation found disparities, and hence, the effectiveness of neurodynamic modulation remains unclear. This study aimed to systematically review the current evidence from randomized controlled trials (RCTs) to establish the effectiveness of neurodynamic techniques as a non-surgical treatment option for CTS. Using the PRISMA guidelines, two authors searched four electronic databases, and studies were included if they conformed to pre-established eligibility criteria. Primary outcome measures included outcomes from the Boston carpal tunnel syndrome questionnaire, while secondary outcomes included nerve conduction velocity, pain, and grip strength. Quality assessment was completed using the Cochrane RoB2 form, and a meta-analysis was performed to assess heterogeneity. Twelve RCTs met our inclusion/exclusion criteria with assessments on 1003 participants in the treatment and control arms. High heterogeneity and some risks of bias were observed between studies, but the results of the meta-analysis showed a significant reduction in our primary outcome, the Boston carpal tunnel syndrome questionnaire-symptom severity scale (mean difference = -1.20, 95% CI [-1.72, -0.67], p p < 0.00001). Secondary outcomes such as sensory and motor conduction velocity increased significantly, while motor latency was significantly reduced, all positively favoring neurodynamic techniques. Pain was also significantly reduced, but grip strength was not significantly different. Our systematic review demonstrates significant benefits of neurodynamic modulation techniques to treat CTS and specifically that it reduces symptom severity, pain, and motor latency, while at the same time improving nerve conduction velocities. Hence, our study demonstrates a clear benefit of neurodynamic techniques to improve recovery CTS.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.02,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparison of Two Manual Therapy Programs, including Tendon Gliding Exercises as a Common Adjunct, While Managing the Participants with Chronic Carpal Tunnel Syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200595/",
+      "publisher": "Pain research & management",
+      "year": "2022",
+      "doi": "10.1155/2022/1975803",
+      "abstract": "Background. Carpal tunnel syndrome (CTS) is the symptomatic compression neuropathy of the median nerve at the wrist level that may become a reason for upper limb disability, in the women and men population. Objective. This study aimed to compare the efficacy of the neurodynamic technique (NT) and carpal bone mobilization technique (CBMT) incorporated with tendon gliding exercises (TGE) as an effect-enhancing adjunct while managing the participants with chronic CTS. Methods. The study followed a two-arm parallel-group randomized comparative design. Thirty participants (aged 30–59 years) with chronic CTS were recruited randomly to both the NT and CBMT groups. In addition to the TGE (a common adjunct), NT and CBMT were performed in the NT and CBMT groups, respectively, for three weeks. The primary outcome measures including pain intensity, functional status, grip strength, and motor nerve conduction study were assessed using a visual analogue scale (VAS), Boston Carpal Tunnel Questionnaire (BCTQ), hand-held dynamometer, and electromyograph, respectively, at baseline, 3 weeks postintervention, and follow-up at one week post end of the intervention. Paired and unpaired t-test were used to calculate the differences in intervention effects within and between the groups with keeping the level of significance α at 0.05. Results. The data analysis revealed a significant (95% CI, p<0.05) difference for all outcomes within each group compared across different time intervals. Similarly, a significant difference was found for all outcomes except pain and grip strength compared between groups at 3 weeks postintervention and follow-up at one week post end of the intervention. Conclusions. The NT revealed more effectiveness than the CBMT when incorporated with TGE to improve nerve conduction velocity and functional status of the hand. However, both NT and CBMT were equally effective in improving pain and grip strength while managing the participants with chronic CTS. In addition, the TGE contributed as a beneficial, effect-enhancing adjunct to the NT and CBMT differently. Significance. The study will guide the physiotherapist in applying either of the combination techniques suitable for achieving treatment objectives while managing the participants with chronic CTS.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.88,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Effectiveness of Nerve Gliding Exercises on Carpal Tunnel Syndrome: A Systematic Review",
+      "url": "https://doi.org/10.1016/j.jmpt.2016.10.004",
+      "publisher": "National University of Health Sciences",
+      "year": "2017",
+      "doi": "10.1016/j.jmpt.2016.10.004",
+      "abstract": "The objective of this study was to review the literature regarding the effectiveness of neural gliding exercises for the management of carpal tunnel syndrome (CTS).A computer-based search was completed through May 2014 in PubMed, Physiotherapy Evidence Database (PEDro), Web of Knowledge, Cochrane Plus, and CINAHL. The following key words were included: nerve tissue, gliding, exercises, carpal tunnel syndrome, neural mobilization, and neurodynamic mobilization. Thirteen clinical trials met the inclusion/exclusion criteria, which were: nerve gliding exercise management of participants aged 18 years or older; clinical or electrophysiological diagnostics of CTS; no prior surgical treatment; and absence of systemic diseases, degenerative joint diseases, musculoskeletal affectations in upper limbs or spine, or pregnancy. All studies were independently appraised using the PEDro scale.The majority of studies reported improvements in pain, pressure pain threshold, and function of CTS patients after nerve gliding, combined or not with additional therapies. When comparing nerve gliding with other therapies, 2 studies reported better results from standard care and 1 from use of a wrist splint, whereas 3 studies reported greater and earlier pain relief and function after nerve gliding in comparison with conservative techniques, such as ultrasound and wrist splint. However, 6 of the 13 studies had a quality of 5 of 11 or less according to the PEDro scale.Limited evidence is available on the effectiveness of neural gliding. Standard conservative care seems to be the most appropriate option for pain relief, although neural gliding might be a complementary option to accelerate recovery of function. More high-quality research is still necessary to determine its effectiveness and the subgroups of patients who may respond better to this treatment.",
+      "licence": "Open Access",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.78,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Efficacy of tendon and nerve gliding exercises for carpal tunnel syndrome: a systematic review of randomized controlled trials",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4563334/",
+      "publisher": "Journal of physical therapy science",
+      "year": "2015",
+      "doi": "10.1589/jpts.27.2645",
+      "abstract": "[Purpose] The purpose of this study was to assess the quality of evidence for the efficacy of tendon and nerve gliding exercises in the management of carpal tunnel syndrome. [Subjects and Methods] Four electronic databases were searched to identify randomized controlled trials on the efficacy of tendon and nerve gliding exercises for carpal tunnel syndrome. Quality assessment was conducted using the Cochrane risk of bias tool. [Results] Four trials were identified and included in the review. The results of critical appraisal of quality ranged between low and moderate risk of bias. The available data could only be included as a narrative description. Symptom severity decreased and functional status improved with combined treatment, involving a tendon or nerve gliding exercise group plus conventional treatments, compared with the use of conventional treatments alone. [Conclusion] Evidence from 4 randomized controlled trials suggests that tendon and nerve gliding exercises, when combined with conventional treatments, may have a favorable effect in patients with carpal tunnel syndrome. However, further randomized controlled trials designed to assess the effect of tendon and nerve gliding exercises alone are required to investigate the hypothesis that such exercises alleviate carpal tunnel syndrome, and to confirm and further elucidate the efficacy of standardized physical exercise programs in patients with carpal tunnel syndrome.",
+      "licence": "cc by-nc-nd",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.7,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Postoperative Functional Recovery After Carpal Tunnel Release: A Narrative Review on Exercise-Based Rehabilitation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12973252/",
+      "publisher": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.103195",
+      "abstract": "Carpal tunnel release is a commonly performed surgical procedure that effectively alleviates compressive symptoms in patients with carpal tunnel syndrome. However, postoperative recovery of hand function, including grip strength, pinch strength, and coordinated hand use, varies considerably among individuals. This variability indicates that functional recovery is influenced by factors beyond the surgical intervention itself. This narrative review synthesizes the existing literature on postoperative functional recovery following carpal tunnel release, with emphasis on functional outcomes, rehabilitation strategies, and exercise-based interventions. Surgical decompression consistently improves sensory symptoms; however, restoration of hand strength and overall functional performance is frequently delayed and heterogeneous. Although early mobilization is generally considered safe, it does not adequately address persistent deficits in strength, coordination, or endurance. Exercise-based rehabilitation approaches-including nerve and tendon gliding exercises and progressive strengthening-are biologically plausible and potentially relevant to postoperative recovery, yet the existing literature is characterized by variability in study design, intervention protocols, and outcome assessment. Postoperative recovery following carpal tunnel release represents a multifactorial process. Exercise-based rehabilitation is a promising but insufficiently studied modifiable component of postoperative care. Well-designed prospective studies are required to clarify its role in optimizing functional recovery after carpal tunnel surgery.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "From Conservative Measures to Surgical Interventions, Treatment Approaches for Cubital Tunnel Syndrome: A Comprehensive Review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10823195/",
+      "publisher": "Cureus",
+      "year": "2023",
+      "doi": "10.7759/cureus.51262",
+      "abstract": "Cubital tunnel syndrome (CuTS) is a neuropathic condition characterized by the compression or irritation of the ulnar nerve at the elbow, resulting in a wide spectrum of symptoms ranging from pain and numbness to muscle weakness and impaired hand function. This comprehensive review delves into the diverse landscape of CuTS treatment approaches, emphasizing the importance of early intervention. The review explores how these strategies aim to alleviate symptoms and enhance patient well-being by beginning with conservative measures encompassing rest, splinting, medications, physical therapy, and lifestyle adjustments. Non-surgical medical interventions, including nerve gliding exercises, ultrasound-guided nerve injections, and orthotic devices, are considered alternative therapies for symptom relief. Surgical interventions, such as decompression procedures and emerging techniques, are discussed in detail, highlighting their indications and expected outcomes. Throughout this review, the critical role of patient-centered care is underscored, emphasizing the need for tailored treatment plans that respect individual preferences and goals. Recognizing the unique nature of each CuTS case, shared decision-making between patients and healthcare providers is advocated, ensuring that interventions align with specific patient needs. As research advances, promising developments in diagnosis, surgical techniques, and drug therapies offer hope for more effective management of CuTS, paving the way for improved symptom relief and enhanced nerve function.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Physiotherapy for Piriformis Syndrome Using Sciatic Nerve Mobilization and Piriformis Release",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9879580/",
+      "publisher": "Cureus",
+      "year": "2022",
+      "doi": "10.7759/cureus.32952",
+      "abstract": "Piriformis syndrome is also synonymous with sciatica or buttock pain. This is a condition where the muscle irritates the sciatic nerve. This nerve passes above, below, or in between the piriformis muscle piercing it. The muscle tightens or shortens, thus compressing the nerve and disturbing the impulses passing from it. The sciatic nerve is a combination of nerve roots from L4 to S3. Piriformis works as a lateral rotator and is a synergistic muscle of the flexor and abductor group. Females most commonly present with piriformis syndrome than males. Many causative factors are responsible for the compression or impingement of the sciatic nerve, one of which is piriformis syndrome. Tingling, numbness, and pain are most often felt by patients when they have compression of any of the nerves. Many physiotherapy techniques have been found to be effective in managing this problem. Techniques like nerve mobilization, stretching, myofascial release, deep friction massage, and many more have been studied by authors describing their effects in the treatment of piriformis syndrome. Neural mobilization consists of two techniques, nerve gliding and nerve tensioning. Studies have found that the gliding technique produces less strain on the nerve than the tensioning technique. Piriformis stretch reduces the tightening, which has caused the impingement. Two techniques have been used for this stretch, stretching with hip flexion over 90 degrees and hip flexion under 90 degrees. This review focuses on the different advances in treating piriformis syndrome.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Sensory Nerve Conduction Velocity Predicts Improvement of Hand Function with Nerve Gliding Exercise Following Carpal Tunnel Release Surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8470096/",
+      "publisher": "Journal of clinical medicine",
+      "year": "2021",
+      "doi": "10.3390/jcm10184121",
+      "abstract": "This study aims to investigate the effects of nerve gliding exercise following carpal tunnel release surgery (NGE-CTRS) and the probing factors affecting the effect of NGE-CTRS on hand function. A total of 86 patients after CTRS participated. Grip strength (grip-s), pinch strength (pinch-s), Semmes-Weinstein monofilament test (SWMT), two-point discrimination (2PD), numbness, pain, and Phalen test (Phalen) were measured and compared between pre- and post-NGE-CTRS. The results showed that the combination of surgery and NGE significantly improved the postoperative grip-s, pinch-s, SWMT, 2PD, numbness, and Phalen; however, no improvement was observed in pain. Background factors that influenced the improved grip-s and pinch-s included gender and preoperative sensory nerve conduction velocity (SCV). Additionally, numbness and Phalen were not affected by age, gender, fault side, bilateral, trigger finger, dialysis, thenar eminence atrophy, motor nerve conduction velocity, SCV, the start of treatment, and occupational therapy intervention. In conclusion, the combination of surgical procedures and NGE showed a high improvement. SCV and time-to-start treatment of intervention for carpal tunnel syndrome may be useful in predicting the function after the intervention.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ultrasonographic and Clinical Outcomes of Pulsed Ultrasound Versus Pulsed Shortwave Diathermy in Mild-to-Moderate Carpal Tunnel Syndrome: A Randomized Controlled Trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13512559/",
+      "publisher": "Healthcare (Basel, Switzerland)",
+      "year": "2026",
+      "doi": "10.3390/healthcare14162555",
+      "abstract": "Background: To compare the clinical and ultrasonographic effects of pulsed therapeutic ultrasound (US) and pulsed shortwave diathermy (SWD) in patients with mild-to-moderate carpal tunnel syndrome (CTS). Methods: In this randomized controlled trial, 40 patients with electrophysiologically confirmed mild-to-moderate CTS were randomly allocated into two groups. Both groups received wrist splinting and tendon-nerve gliding exercises. The US group received 15 sessions of pulsed ultrasound therapy (3 MHz, 0.8 W/cm 2 ), whereas the SWD group received 15 sessions of pulsed shortwave diathermy (80 Hz, 19.2 W). Outcomes were assessed at baseline, 1 month, and 3 months using ultrasonographic median nerve cross-sectional area (MNCSA) (primary outcome), Boston Carpal Tunnel Questionnaire (BCTQ), Visual Analog Scale (VAS) for pain, Douleur Neuropathique 4 (DN4), and handgrip strength. Results: Baseline demographic characteristics, including age (mean ± SD) and sex distribution, were comparable between groups ( p > 0.05), although BCTQ Functional Status and Total scores differed significantly at baseline. Repeated-measures analyses demonstrated significant time effects for MNCSA and all secondary clinical outcomes, including BCTQ scores, VAS pain, DN4 scores, and grip strength (all p 2 range: 0.51-0.75), indicating moderate-to-large effect sizes. Both the US and SWD groups showed sustained improvements at the 1- and 3-month follow-ups, with no significant differences between treatment modalities (all group × time interaction p > 0.05). Conclusions: In patients with mild-to-moderate CTS, both US and SWD administered alongside splinting and exercise were associated with significant clinical and ultrasonographic improvements over 3 months. No significant difference was observed between the two modalities. Both treatments may be considered adjunctive options within conservative management, although further controlled studies are needed to clarify modality-specific effects.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.04,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effectiveness of a New Device for Hand, Wrist, and Forearm Rehabilitation: Feasibility Randomized Controlled Trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11789689/",
+      "publisher": "JMIR rehabilitation and assistive technologies",
+      "year": "2025",
+      "doi": "10.2196/62809",
+      "abstract": "Background Forearm, wrist, and hand impairments affect many individuals and impose a significant economic burden on health care systems. The FEPSim (flexion, extension, pronation, and supination) is designed for hand and wrist rehabilitation. It could become part of the standard care for upper extremity rehabilitation, aiming to improve range of motion, dexterity, and strength during therapeutic activities. However, the FEPSim has not yet been tested in a health care setting, highlighting the need for a trial to assess its effectiveness in upper extremity rehabilitation. Objective We aim to assess the feasibility of conducting a definitive trial investigating the effectiveness of adding a new device for hand therapy exercises, the FEPSim, to standard care for patients with impairments of the hand, wrist, and forearm. Methods Thirty-eight patients with impairments of distal upper extremities were randomly assigned either to the intervention group (FEPSim and standard care, n=19) or to the control group (standard care, n=19). Therapeutic activities to increase strength, range of motion, resistance, and dexterity were delivered by treating hand therapists using the FEPSim device for the intervention group. Outcome measures included wrist passive and active range of motion, grip strength, pinch grip force, and the Patient-Rated Wrist Evaluation. Results The trial retention rate (36/38, 95%) and compliance (control group: 100%; intervention group: 89%) were high. The comparisons of the change-from-baseline between groups revealed that in 63.2% (12/19) of the outcome variables, the change was in favor of the FEPSim, with statistically significant improvements in passive wrist flexion (t34=-0.335, P=.008) and grip strength (t34=-1.841, P=.04). Conclusions The FEPSim was accepted as part of standard care by therapists and patients at 2 hospitals. The trial design was feasible for hand intervention using the FEPSim device. The FEPSim positively affected grip strength, an objective measure of hand functioning.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparison of high- and low-dose radial extracorporeal shock wave therapy in carpal tunnel syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12051945/",
+      "publisher": "Revista da Associacao Medica Brasileira (1992)",
+      "year": "2025",
+      "doi": "10.1590/1806-9282.20241815",
+      "abstract": "Objective The aim of this study was to compare the efficacy of radial extracorporeal shock wave therapy administered at low vs. high pressures in patients with carpal tunnel syndrome. Methods Patients with carpal tunnel syndrome were randomized into two groups: low-dose group and high-dose group. Each patient underwent a total of four sessions of radial extracorporeal shock wave therapy, administered once a week. The radial extracorporeal shock wave therapy was delivered at 4.0 bars for the high-dose group and 1.5 bars for the low-dose group. Both groups received conventional physical therapy program consisting of transcutaneous electrical nerve stimulation, paraffin wax, orthoses, and tendon gliding exercises, three times per week over a 4-week duration. Outcome measures included pain levels, hand grip strength, pinch strength, the Boston Carpal Tunnel Syndrome Questionnaire, and nerve conduction studies. Results Both groups exhibited improvements across all measures, except for the nerve conduction studies parameters. In the intragroup analysis, statistically significant differences were observed with small-to-moderate effect sizes for median motor distal latency, median sensory nerve conduction velocity, median sensory distal latency, and the Boston functional status subscale, all favoring the high-dose group (p Conclusion High-dose radial extracorporeal shock wave therapy was significantly better than low-dose radial extracorporeal shock wave therapy with small-to-moderate effect sizes in the recovery of the function and nerve conduction studies parameters of patients with carpal tunnel syndrome. Clinical trials registry The study was registered on the Clinical Trials Registry (registration number: NCT05681663).",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The effects of virtual reality-mediated tendon and nerve gliding exercises in the conservative management of carpal tunnel syndrome: a double-blind randomized placebo controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11255877/",
+      "publisher": "European journal of physical and rehabilitation medicine",
+      "year": "2024",
+      "doi": "10.23736/s1973-9087.24.08432-6",
+      "abstract": "Background Carpal tunnel syndrome (CTS) is a common condition resulting from compression of the median nerve at the wrist. First-line treatment typically involves conservative management, which commonly includes splinting and gliding exercises. Emerging evidence suggests the potential benefits of using virtual reality (VR) in rehabilitation. Aim This study aimed to assess the effects of VR-mediated tendon and nerve gliding exercises on the conservative treatment of CTS, compared to video-assisted (sham virtual) and home-based gliding exercises. Design This study was a prospective, double-blind, randomized, placebo controlled interventional trial. Setting The study was conducted in the Department of Physical Medicine and Rehabilitation at a university hospital. Population The study included patients with mild to moderate CTS. Methods The study included a total of 54 hands from 33 patients. The participants were randomly allocated into three groups: the VR-mediated group (VG), the sham VR-mediated group (SG), and the control (home-based) group (CG). Both intervention groups engaged in gliding exercises utilizing a Leap Motion Controller-based VR system and instructional videos, under the supervision of a physical therapist. The VR system was activated for the VG and deactivated for the SG. Exercises were performed twice weekly for eight weeks. The CG received a brochure describing the gliding exercises. Primary outcomes were symptom severity measured by the Numerical Rating Scale (NRS) and the Boston Carpal Tunnel Questionnaire (BCTQ), along with nerve conduction studies. Secondary outcomes included muscle strength (hand grip, key pinch), sensory measures (static two-point discrimination, vibration), and quality of life. Results Both the VG and SG showed significant improvements in NRS and BCTQ scores compared to the CG in within-group comparisons. Nighttime symptoms improved significantly in the VG compared to the CG in between-group analyses. Electrophysiological findings showed no significant changes. Conclusions An eight-week VR-mediated exercise program may enhance tendon and nerve gliding exercise effectiveness, particularly for nighttime symptoms in CTS patients. Clinical rehabilitation impact In the future, challenging exercises requiring time and supervision could be effectively performed through VR, offering an alternative to traditional methods.",
+      "licence": "cc by-nc-nd",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.96,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparative Efficacy of Routine Physical Therapy with and without Neuromobilization in the Treatment of Patients with Mild to Moderate Carpal Tunnel Syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9242805/",
+      "publisher": "BioMed research international",
+      "year": "2022",
+      "doi": "10.1155/2022/2155765",
+      "abstract": "Background Median nerve mobilization is a relatively new technique that can be used to treat carpal tunnel syndrome. But literature about additional effects of neuromobilization for the management of carpal tunnel syndrome is scarce. Objective To examine and compare the role of median nerve neuromobilization at the wrist as compared to routine physical therapy in improving pain numeric pain rating scale (NPRS), range of motion (Ballestero-Pérez et al., 2017), muscle strength, and functional status. Methods A sample size of 66 patients was recruited using convenient sampling and distributed randomly in two groups. After assessing both groups using ROM, manual muscle strength, pain at NPRS, and functional status on the Boston Carpal Tunnel Syndrome Questionnaire (BCTQ), which consists of two further scales (the symptom severity scale (SSS) and the functional status scale (FSS)), Group 1 received conservative treatment including ultrasound therapy two days a week for six weeks, using a pulsed mode 0.8 W/cm 2 and frequency 1 MHz, wrist splinting, and tendon gliding exercises, while Group 2 received both conservative treatments including ultrasound, splinting, and tendon gliding exercises as well as a neuromobilization technique. Treatment was given for 6 weeks, 2 sessions/week, and patients were reassessed at the end of the 3 rd and 6 th weeks. Results Although both groups improved significantly in terms of all the outcome measures used, the neuromobilization groups showed a statistically more significant increase in flexion, extension, decrease in pain, decrease in SSS, decrease in FSS, and BCTQ as compared to the routine physical therapy group. Conclusions The addition of neuromobilization in the rehabilitation program of carpal tunnel syndrome has better effects on treatment outcomes.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.88,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Usefulness of Surface Electromyography Complexity Analyses to Assess the Effects of Warm-Up and Stretching during Maximal and Sub-Maximal Hamstring Contractions: A Cross-Over, Randomized, Single-Blind Trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9495372/",
+      "publisher": "Biology",
+      "year": "2022",
+      "doi": "10.3390/biology11091337",
+      "abstract": "This study aimed to apply different complexity-based methods to surface electromyography (EMG) in order to detect neuromuscular changes after realistic warm-up procedures that included stretching exercises. Sixteen volunteers conducted two experimental sessions. They were tested before, after a standardized warm-up, and after a stretching exercise (static or neuromuscular nerve gliding technique). Tests included measurements of the knee flexion torque and EMG of biceps femoris (BF) and semitendinosus (ST) muscles. EMG was analyzed using the root mean square (RMS), sample entropy (SampEn), percentage of recurrence and determinism following a recurrence quantification analysis (%Rec and %Det) and a scaling parameter from a detrended fluctuation analysis. Torque was significantly greater after warm-up as compared to baseline and after stretching. RMS was not affected by the experimental procedure. In contrast, SampEn was significantly greater after warm-up and stretching as compared to baseline values. %Rec was not modified but %Det for BF muscle was significantly greater after stretching as compared to baseline. The a scaling parameter was significantly lower after warm-up as compared to baseline for ST muscle. From the present results, complexity-based methods applied to the EMG give additional information than linear-based methods. They appeared sensitive to detect EMG complexity increases following warm-up.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.88,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparison of two manual therapy techniques in patients with carpal tunnel syndrome: A randomized clinical trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7265508/",
+      "publisher": "Caspian journal of internal medicine",
+      "year": "2020",
+      "doi": "10.22088/cjim.11.2.163",
+      "abstract": "Background Manual therapy techniques are part of physiotherapy treatment of carpal tunnel syndrome (CTS) which are classified into two groups including nerve mobilization and mechanical interface mobilization. The aim of the study was to find which manual therapy method-technique directed to mechanical interface and nerve mobilization-has superior beneficial effects on clinical and electrophysiological findings in conservative management of patients with CTS. Methods Thirty patients with CTS participated into two groups namely: mechanical interface and nerve mobilization in this randomized clinical trial. The intervention was performed three times weekly for 4 weeks. Mechanical interface mobilization was directed to structures around the median nerve at the forearm and wrist. Techniques of median nerve gliding and tension were used in the nerve mobilization group. The outcome measures included visual analogue scale (VAS), symptom severity scale (SSS), hand functional status scale (FSS) and motor and sensory distal latencies of median nerve. Paired t-test and ANCOVA were used for statistical analysis. Results At the end of the 4 th week of the treatment, the mean of VAS, SSS and FSS significantly improved in both groups (p 0.05). Although the mean of motor and sensory distal latencies of median nerve at the end of the treatment period only improved in the nerve mobilization group (p 0.05). Conclusion Mechanical interface mobilization and nerve mobilization techniques are not superior to each other in reducing pain and improving hand symptoms and functional status.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.8,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Thumb Positioning Modulates Median Nerve Mobility and Morphology During Postural Changes in Carpal Tunnel Syndrome: Implications for Nerve Gliding Exercises",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13591192/",
+      "publisher": "Archives of rehabilitation research and clinical translation",
+      "year": "2026",
+      "doi": "10.1016/j.arrct.2026.100660",
+      "abstract": "Objective To investigate the modulation of median nerve (MN) mobility and morphology by thumb positioning during postural changes in patients with carpal tunnel syndrome (CTS), with implications for nerve gliding exercises. Design Cross-sectional case-control study. Setting Outpatient physical medicine and rehabilitation department at a community hospital. Participants Patients aged 18 to 65 years with symptoms of CTS, confirmed using nerve conduction studies, were consecutively enrolled. Those with a history of wrist trauma or surgery were excluded. Interventions Not applicable. Main outcome measures MN and flexor digitorum superficialis (FDS) tendon excursion and cross-sectional area (CSA) of the MN in wrist neutral/extended and thumb-resting/abducted positions. Results A total of 79 CTS hands and 88 healthy hands were enrolled. The CTS group had a significantly larger MN CSA ( p p =.0170 and p =.0007, respectively). The CTS group also had a significantly lower MN excursion ( p p =.0454) but slightly decreasing as the wrist extended with thumb abducted. No between-group difference in FDS tendon excursion was observed for the wrist-neutral position ( p =.1126); for the wrist-extended with thumb-at-rest position, the CTS group exhibited slightly greater FDS tendon excursion ( p =.0476). Both groups exhibited larger FDS excursion during wrist extension and when the thumb moved from rest to abduction ( p =.0026 in CTS group and p =.0060 in control group), indicating posture-related tendon mobility. Conclusions MN mobility and morphology are affected by thumb positioning in CTS. It is recommended to avoid overstretching the thumb in the final step of nerve gliding exercises.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Dexterity Outcomes For Grade 1 Disability In Leprosy Using Rood's Approach Versus Neural Tissue Mobilization",
+      "url": "https://zenodo.org/records/20615239",
+      "publisher": "Journal of Pharmaceutical Sciences",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20615239",
+      "abstract": "Title: Dexterity Outcomes for Grade 1 Disability in Leprosy Using Rood’s Approach Versus Neural Tissue MobilizationBackground:Leprosy is an infection affecting the peripheral nerves, may lead to disability in case proper treatment is not offered. Early diagnosis and treatment are important in leprosy. Physiotherapy plays an important role in the prevention of disability in leprosy.Objective:The purpose of this study is to assess the dexterity results of grade 1 disability in leprosy cases via Rood’s technique and neural tissue mobilization.Methodology:The methodology employed an experiment on 36 individuals with leprosy and application of inclusion and exclusion criteria alongside the informed consent. These patients were randomly assigned into two different groups Group A and Group B. Group A was provided with treatments of quick icing, fast brushing, quick stretch and small joint compression as per the Rood’s technique facilitation processes while group B underwent neural tissue mobilization involving nerve gliding exercises on ulnar, radial and median nerves of their upper extremities. All treatment occurred four times a week for four weeks. Measurements before and after intervention were taken via the Functional Dexterity Test (FDT) and Michigan Hand Outcomes Questionnaire (MHQ).Result:Group A exhibited a high improvement level in relation to both FDT time as well as MHQ scores particularly for activities of daily living, pain, aesthetics and satisfaction levels.Conclusion:The study shows Rood’s approach facilitates better dexterity outcomes than neural tissue mobilization in leprosy patients with grade 1 disability.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effectiveness of Proximal Interphalangeal Joint Block Orthosis and Metacarpophalangeal Joint Block Orthosis in the Management of Trigger Finger: A Prospective Observational Study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13129395/",
+      "publisher": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.106131",
+      "abstract": "Background Orthotic intervention is a non-invasive and commonly used treatment for trigger finger (TF). Among the various splinting options, the comparative effectiveness of proximal interphalangeal joint block orthosis (PIPJ-BO) and metacarpophalangeal joint block orthosis (MCPJ-BO) remains inadequately explored. This study compared the clinical effectiveness of PIPJ-BO and MCPJ-BO in reducing pain, symptom severity, and functional limitations in patients with TF. Methods A prospective observational study was conducted at a tertiary care hospital. Forty-six patients diagnosed with TF (Quinnell grade ≥2) were assigned to either PIPJ-BO (Group A) or MCPJ-BO (Group B). Both groups wore the orthosis 18 hours daily for eight weeks and performed tendon gliding exercises. Outcomes assessed at baseline, four weeks, and eight weeks included the Quinnell grade, Numeric Pain Rating Scale (NPRS), grip strength, and triggering episodes. Data were analyzed using Mann-Whitney U and Wilcoxon signed-rank tests. Results Both groups showed significant within-group improvements in Q-grade and NPRS over time (p .05). Grip strength improved numerically but not significantly. Discussion Both PIPJ-BO and MCPJ-BO were effective in the conservative management of TF. While intergroup differences were not statistically significant, PIPJ-BO showed a slightly greater reduction in symptoms. Early orthotic intervention remains beneficial and should be tailored to patient-specific factors.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "IMPACT OF NEURODYNAMIC MOBILIZATION AND STRETCHING EXERCISES IN CERVICAL RADICULOPATHY: RCT",
+      "url": "https://zenodo.org/records/19708605",
+      "publisher": "International Journal For Technological Research In Engineering",
+      "year": "2026",
+      "doi": "10.5281/zenodo.19708605",
+      "abstract": "When one or more cervical nerve roots malfunction, it causes cervical radiculopathy, which manifests as radiating pain, numbness, paresthesia, and even upper limb motor weakness [1]. Usually brought on by cervical disc herniation, osteophyte growth, or foraminal encroachment particularly affecting the C6 and C7 roots—it typically develops as a result of mechanical compression or irritation of nerve tissue [1,2]. These alterations may cause severe arm and neck pain, which could hinder everyday tasks and lower quality of life. For the majority of patients, conservative treatment is still the primary choice of treatment, even though surgery may be required in cases of growing neurological deficiency or refractory symptoms [3]. The safety and effectiveness of manual therapy and therapeutic exercises, particularly neurodynamic mobilization and stretching, in reducing symptoms and enhancing function are becoming more widely acknowledged among conservative approaches [4]. The mechanical and physiological properties of neural tissue and its interfaces are the focus of neurodynamic mobilization, sometimes referred to as neural mobilization or nerve gliding. In order to increase vascular and axoplasmic flow, lower intraneural pressure, and restore neuronal sliding and mobility, this approach uses movements like tension-slack cycling along nerve pathways [5].",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Zone II Flexor Tendon Repair: Surgical Principles, Rehabilitation Strategies, And Functional Outcomes",
+      "url": "https://zenodo.org/records/21189523",
+      "publisher": "International Journal of Medical Science and Clinical Research Studies",
+      "year": "2026",
+      "doi": "10.5281/zenodo.21189523",
+      "abstract": "Zone II flexor tendon injuries remain among the most challenging conditions in hand surgery because they involve a narrow fibro-osseous tunnel containing both the flexor digitorum superficialis (FDS) and flexor digitorum profundus (FDP) tendons, surrounded by a pulley system that is essential for digital motion. Although advances in suture design, multistrand core repair, epitendinous augmentation, wide-awake local anesthesia no tourniquet (WALANT) techniques, and early controlled rehabilitation have improved outcomes, the management of zone II injuries continues to require careful balance between repair strength, tendon gliding, pulley preservation, and prevention of adhesions or rupture. This narrative review summarizes contemporary evidence regarding surgical timing, operative technique, anesthesia selection, pulley management, rehabilitation protocols, complication prevention, and functional outcomes after zone II flexor tendon repair. Current evidence supports strong multistrand repair, meticulous handling of tendon and sheath structures, early protected motion when feasible, close communication between surgeon and hand therapist, and individualized rehabilitation based on repair strength, patient factors, and adherence risk. Despite substantial progress, complications such as adhesions, stiffness, rupture, reoperation, and delayed return of function remain clinically relevant.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Postoperative management of carpal tunnel syndrome: functional outcomes of a prospective study",
+      "url": "https://zenodo.org/records/22911803",
+      "publisher": "Journal of Physical Rehabilitation and Sports Medicine",
+      "year": "2026",
+      "doi": "10.5281/zenodo.22911803",
+      "abstract": "Summary The purpose of this study is to evaluate the effectiveness of the proposed protocol for patients who have undergone surgery for carpal tunnel syndrome. The study also presents functional outcomes obtained over a 12-month postoperative period. The study included 30 patients (26 women and 4 men), with a mean age of 57.6 years, who underwent minimally invasive surgery (1.5-2 cm) performed by the same surgeon specializing in hand surgery. The functional recovery protocol consisted of a single physical therapy session conducted within the first 14 days postoperatively, focused on patient education and tendon gliding techniques. At 12 months postoperatively, a significant improvement in pain symptoms (mean VAS 1.75/10) and a recovery of muscle strength to a mean of 26.18 kgf were observed, with no complications or recurrences reported in the study group. The protocol based on a single physical therapy session proved effective in achieving optimal functional outcomes, providing patients with autonomy and rapid reintegration, and serving as a sustainable alternative to extended rehabilitation protocols",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "COMPARATIVE STUDY ON THE EFFECTIVENESS OF EXTRACORPOREAL SHOCKWAVE THERAPY VERSUS KINESIO TAPING IN PATIENTS WITH CARPAL TUNNEL SYNDROME",
+      "url": "https://zenodo.org/records/23792790",
+      "publisher": "WORLD JOURNAL OF PHARMACY AND PHARMACEUTICAL SCIENCES",
+      "year": "2026",
+      "doi": "10.5281/zenodo.23792790",
+      "abstract": "Background of The Study: Carpal tunnel syndrome (CTS) is an entrapment neuropathy caused by the compression of the median nerve. Pain, Paraesthesia, and numbness are the symptoms. It occurs in 139 per 100000 people per year. It is more common in female than male. Increases with age in males. Shock wave and ultrasound can be given to treat CTS. Objective of The Study: The objective of this study was to compare the effectiveness of Extracorporeal Shock wave therapy Versus Kinesio taping in patients with carpal tunnel syndrome. Methodology of The Study: This experimental study was conducted in VR PHYSIOTHERAPY CLINIC. On the basis of inclusion and exclusion criteria, 30 subjects were randomly selected. subjects included both men and women with CTS more than 3 months, age between 40-60 years. Those excluded were with the history of diabetes mellitus, polyneuropathy, inflammatory joint disease.20 subjects With CTS were divided into two groups. Group A and Group B consisted of 10 subjects each. Group A: Received shockwave therapy treatment given for 8 weeks (2 - 3 sessions/week) Group B: Received kinesio-taping treatment was given for 8 weeks (2-3 sessions/week) Outcome Measures: Boston carpal tunnel syndrome questionnaire (BCTQ) Dynamometer. Result: This study showed statistical improvement in pain reduction and functional improvement of carpal tunnel syndrome in both group A and group B. but there is significant improvement seen in group A (ESWT)comparative to group B (Kinesio tapping). Conclusion: The present study concluded that the Group A (ESWT along with tendon gliding exercise) shows better improvement in pain reduction, improve symptoms and functional status in patients with CTS.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Management of failed carpal tunnel decompression",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12139599/",
+      "publisher": "EFORT open reviews",
+      "year": "2025",
+      "doi": "10.1530/eor-2025-0058",
+      "abstract": "Surgical decompression of carpal tunnel syndrome is usually successful, and failure is rare. Diagnosis of persistent or recurrent carpal tunnel syndrome is based on thorough anamnesis and clinical examination, defining underlying comorbidities, nerve conduction studies and distinguish recurrent, persistent or new complaints. Management of failed carpal tunnel release may require revision surgery, which includes redo release of the transversal carpal ligament, external neurolysis and flaps. A hypothenar fat pad flap or other local, regional or distant flaps may be added to a redo release of the carpal tunnel. Currently, convincing evidence to superiority of additional flap surgery is lacking. Postoperative care is evolving toward early motion rather than immobilization, with nerve gliding exercises to prevent adhesions and promote nerve recovery. Virtual reality was recently added to postoperative protocol options.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Carpal tunnel syndrome - CTS - primary and secondary prevention - review of literature",
+      "url": "https://apcz.umk.pl/JEHS/article/view/56481",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2025",
+      "doi": "10.12775/JEHS.2025.77.56481",
+      "abstract": "Carpal Tunnel Syndrome (CTS) is the most common neuropathy affecting the median nerve in the upper limb. It is characterized by pain, numbness, paresthesia, muscle weakness, and difficulties in precise hand movements. CTS can be caused by trauma, excessive nerve stretching, or compression. The condition more frequently affects women, with risk factors including obesity, diabetes, and hypothyroidism. Diagnosis of CTS is based on clinical evaluation, Tinel's and Phalen's tests, and examinations such as EMG or MRI. Treatment includes surgical methods like nerve decompression and conservative approaches such as physiotherapy, kinesitherapy, and neuromobilization. Studies show that tendon and nerve gliding exercises can significantly reduce CTS symptoms. These exercises are less invasive and effective in mild to moderate cases of CTS, providing a good alternative or complement to surgical interventions. Regular stretching and strengthening exercises improve the clinical condition of CTS patients. Findings from the literature review suggest that regular exercise can significantly improve the condition of CTS patients, alleviating pain symptoms and enhancing hand function.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Clinical outcomes of ulnar nerve gliding exercise in the nonoperative treatment of cubital tunnel syndrome",
+      "url": "https://doi.org/10.1016/j.jseint.2025.02.001",
+      "publisher": "Elsevier BV",
+      "year": "2025",
+      "doi": "10.1016/j.jseint.2025.02.001",
+      "abstract": "In cubital tunnel syndrome, inflammation and edema around the ulnar nerve inhibit physiologic nerve gliding, causing pain, paresthesia, and muscle weakness. The objective of this study was to investigate the clinical outcomes of our developed ulnar nerve gliding exercise for cubital tunnel syndrome.Seventeen patients with cubital tunnel syndrome underwent ulnar nerve gliding exercise. All patients had numbness and paresthesia of the ulnar aspect of the forearm and hand and tenderness over the cubital tunnel. Before treatment, 15 patients had McGowan grade 2 (moderate) abnormality, and 2 patients had grade 3 (severe). For our nonsurgical ulnar nerve release, an occupational therapist applied repetitive passive wrist movement at maximal elbow flexion position to improve ulnar nerve gliding twice weekly for 20 minutes each session (average treatment period: 5.8 months). Data regarding the visual analog scale of paresthesia, rate of positive elbow flexion tests, Semmes-Weinstein monofilament test, grip strength, pulp pinch strength, and motor and sensory nerve conduction velocities (6 accepted patients) before ulnar nerve gliding exercise were compared with the values at the final follow-up (average follow-up period: 64 months).Ulnar nerve gliding exercise significantly decreased the severity of paresthesia overall (P < .0001). In addition, the elbow flexion test (P = .0002) and Semmes-Weinstein monofilament test (P < .0001) improved and grip strength (P < .0001) and pulp pinch strength (P < .0001) increased comparable to those on the contralateral side. Motor and sensory nerve conduction velocities after ulnar nerve gliding exercise improved in 5 of 6 patients (83%) and 4 of 6 patients (67%), respectively. One patient with McGowan grade 3 abnormality failed ulnar nerve gliding exercise and underwent anterior subcutaneous transposition of the ulnar nerve.The ulnar nerve gliding exercise by using repetitive passive wrist movement at the maximal elbow flexion can be a useful option for moderate cubital tunnel syndrome.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Biomechanical analysis of ulnar nerve gliding and elongation: implications for nonsurgical ulnar nerve release in cubital tunnel syndrome",
+      "url": "http://www.cisejournal.org/upload/pdf/cise-2024-00934.pdf",
+      "publisher": "Clinics in Shoulder and Elbow",
+      "year": "2025",
+      "doi": "10.5397/cise.2024.00934",
+      "abstract": "Background: Nonsurgical ulnar nerve release was developed for conservative treatment of cubital tunnel syndrome. Our objective in this study was to investigate the amount of ulnar nerve gliding and elongation during passive wrist, forearm, or elbow movements to determine the most effective nonsurgical ulnar nerve release technique. Methods: Seven fresh-frozen cadaveric upper limbs were tested in an elbow-testing system. Ulnar nerve gliding (mobility) and elongation (stretching) were measured around the elbow joint using a three-dimensional digitizing system. Data were compared between arm positions (elbow extension vs. 90° flexion, wrist extension vs. flexion, or forearm pronation vs. supination). Results: Passive wrist movement from flexion to extension caused the ulnar nerve to glide. The largest amount of glide during passive wrist movement was found at 90° elbow flexion and maximum forearm supination position (5.4±1.1 mm). Ulnar nerve gliding during passive forearm movement was subtle. The ulnar nerve tightened with elbow flexion. Maximum elongation of the ulnar nerve was 5.6±0.6 mm from extension to 90° flexion in the elbow. Conclusions: Ulnar nerve gliding was most severe during passive wrist movement in elbow flexion and forearm supination. This result suggests that passive wrist movement from flexion to extension with the elbow flexed and forearm supinated may be the most effective nonsurgical ulnar nerve release position to treat cubital tunnel syndrome. Attention should be paid to the elbow flexion angle during nonsurgical ulnar nerve release to not exacerbate cubital tunnel symptoms. Level of evidence: III.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Anti-adhesive agents in tendon repair: mechanisms, preclinical evidence, clinical challenges, and future perspectives—a narrative review",
+      "url": "https://doi.org/10.1186/s13018-025-06436-1",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2025",
+      "doi": "10.1186/s13018-025-06436-1",
+      "abstract": "Abstract Tendon injuries constitute a significant challenge to musculoskeletal health, comprising approximately 50% of all related injuries in the United States and resulting in considerable treatment expenditures. Conventional conservative and surgical interventions frequently do not succeed in mitigating peritendinous adhesions, resulting in compromised functionality, pain, and an increased risk of re-rupture. This analysis investigates the underlying mechanisms of adhesion formation in the context of tendon healing, highlighting the disparity between intrinsic and extrinsic factors throughout the phases of inflammation, proliferation, and remodeling. The restoration of tendon gliding and mobility underscores the significance of adhesion prevention. This review concentrates on anti-adhesive compounds, encompassing physical barriers such as collagen and chitosan, as well as pharmacological agents including 5-fluorouracil and platelet-rich plasma. The analysis covers their mechanisms of action and preclinical efficacy demonstrated in vitro and in animal models, along with their diverse bioactivities, which include anti-inflammatory and antibacterial effects. The principal findings indicate significant reductions in adhesions; however, they also highlight challenges such as inconsistent degradation rates, potential toxicity, and a paucity of clinical evidence. Future directions encompass the implementation of randomized controlled trials, the establishment of standardized protocols, and the development of multifunctional biomaterials aimed at addressing research gaps and improving patient outcomes in the field of orthopedic surgery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Giving nerve and tendon gliding exercises to reduce pain in carpal tunnel syndrome",
+      "url": "https://doi.org/10.51559/ptji.v5i1.173",
+      "publisher": "Sanglah Hospital - Udayana University",
+      "year": "2024",
+      "doi": "10.51559/ptji.v5i1.173",
+      "abstract": "Background: Physical activity in blacksmith workers, which involves repetitive use of hand and wrist muscles, grasping tools, and forging iron, can cause symptoms of carpal tunnel syndrome (CTS), including pain that affects functional activities. This study aimed to determine whether giving Nerve Tendon Gliding Exercise can reduce pain in patients with CTS. Methods: This study used a randomized control trial design. The intervention group received the nerve gliding and tendon gliding exercises, while the control group received the nerve gliding exercise only. Sampling in this study was conducted using non-probability sampling techniques with a purposive sampling model, a sampling technique with specific considerations. The sample of this study involved respondents aged between 25 and 40 years. Furthermore, the data obtained were analyzed using the Wilcoxon and Mann-Whitney tests. Results: Analysis of the results of the effect test using the Wilcoxon Test the results p <0.05 that shows an influence on the treatment group given nerve and gliding exercise with the control group given nerve gliding exercise to reduce pain. Furthermore, the analysis using the Mann-Whitney test obtained the results of the Z value = -2.757 with a p-value of 0.006 <0.05, which means it shows a significant difference in influence. Conclusion: Giving Nerve Tendon Gliding Exercise shows a significant difference in the effect on the treatment group given nerve gliding exercise with the addition of tendon gliding exercise and the control group given nerve gliding exercise to reduce pain.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comparing the effects of carpal bone mobilization and tendon gliding in patients with carpal tunnel syndrome",
+      "url": "https://journals.riphah.edu.pk/index.php/jrcrs/article/view/1561",
+      "publisher": "Journal Riphah College of Rehabilitation Sciences",
+      "year": "2024",
+      "doi": "",
+      "abstract": "Background: Idiopathic carpal tunnel syndrome is a carpal tunnel median nerve neuropathy. CTS is the most typical type of peripheral neuropathy Objective: To determine the effects of carpal bones mobilization and tendon gliding exercise on patients with Carpal Tunnel Syndrome. Methodology: This was a quasi-experimental study. Data was collected from Faisal Hospital and Civil Hospital Faisalabad from April 2022 to August 2022. The total sample size was 32 and calculated from the open epi tool. Patients were recruited in this study by considering the inclusion and exclusion criteria. Patients were divided into two groups. The patients in group A were treated by carpal bone mobilization, and those in group B were treated by tendon gliding exercise. Throughout the course of four weeks, the intervention was carried out three times per week. The outcome measure tools of this study were the Numeric Pain Rating Scale and the Boston Carpal Tunnel Questionnaire. The data was analyzed using SPSS version 23. Results: There was a significant difference in reduction of pain intensity, symptom severity and improvement in functional ability between two groups i.e. Carpal Bone Mobilization and Tendon Gliding at end of four weeks (P<0.002) (P<0.000) (P<0.001). There was more reduction in pain (P<0.002), and symptom severity (P<0.000) and improvement in functional ability (P<0.001) in Tendon Gliding group at end of 4 weeks Conclusion: Tendon gliding exercises were most effective in reducing pain, range of motion, and neck function as compared to nerve mobilization in patients with carpal tunnel syndrome.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The Effect of Forearm Stretching and Tendon Gliding Exercise to Improve Writing Pace of Young Adults",
+      "url": "https://doi.org/10.38124/ijisrt/ijisrt24jun1642",
+      "publisher": "International Journal of Innovative Science and Research Technology",
+      "year": "2024",
+      "doi": "10.38124/ijisrt/ijisrt24jun1642",
+      "abstract": "Background: Good writing pace contributes to more effective time management, higher quality of work, and improved overall performance in various areas of life. Strength and flexibility of the muscles and the overall posture of the writer affects the final output of writing. There are no sufficient studies regarding techniques to improve handwriting speed. So most of the students have a slow handwriting speed during exams and they can not express their full knowledge in papper. To achieve good handwriting speed, stretching and strengthening of forearm and intrinsic muscles of hand is important.  Methods: Based on inclusion and exclusion criteria 30 students were selected. Pre test done by words per minute test and hand dynamometer. Then Flexor stretching and tendon gliding exercises for given 6 months. After that post test was done using words per minute test hand dynamometer and.  Result: Statistical analysis was done. Pre and post test done for hand dynamometer test and words per minute test. There is a significant difference in pre and post test values, hence it proved forearm stretching and tendon gliding exercise improve writing pace of young adults.  Conclusion: According to this study ,forearm stretching and tendon gliding exercise is effective in improving writing pace.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "An online method to monitor hand muscle tone during robot-assisted rehabilitation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939644/",
+      "publisher": "Frontiers in robotics and AI",
+      "year": "2023",
+      "doi": "10.3389/frobt.2023.1093124",
+      "abstract": "Introduction: Robot-assisted neurorehabilitation is becoming an established method to complement conventional therapy after stroke and provide intensive therapy regimes in unsupervised settings (e.g., home rehabilitation). Intensive therapies may temporarily contribute to increasing muscle tone and spasticity, especially in stroke patients presenting tone alterations. If sustained without supervision, such an increase in muscle tone could have negative effects (e.g., functional disability, pain). We propose an online perturbation-based method that monitors finger muscle tone during unsupervised robot-assisted hand therapy exercises. Methods: We used the ReHandyBot, a novel 2 degrees of freedom (DOF) haptic device to perform robot-assisted therapy exercises training hand grasping (i.e., flexion-extension of the fingers) and forearm pronosupination. The tone estimation method consisted of fast (150 ms) and slow (250 ms) 20 mm ramp-and-hold perturbations on the grasping DOF, which were applied during the exercises to stretch the finger flexors. The perturbation-induced peak force at the finger pads was used to compute tone. In this work, we evaluated the method performance in a stiffness identification experiment with springs (0.97 and 1.57 N/mm), which simulated the stiffness of a human hand, and in a pilot study with subjects with increased muscle tone after stroke and unimpaired, which performed one active sensorimotor exercise embedding the tone monitoring method. Results: The method accurately estimates forces with root mean square percentage errors of 3.8% and 11.3% for the soft and stiff spring, respectively. In the pilot study, six chronic ischemic stroke patients [141.8 (56.7) months after stroke, 64.3 (9.5) years old, expressed as mean (std)] and ten unimpaired subjects [59.9 (6.1) years old] were tested without adverse events. The average reaction force at the level of the fingertip during slow and fast perturbations in the exercise were respectively 10.7 (5.6) N and 13.7 (5.6) N for the patients and 5.8 (4.2) N and 6.8 (5.1) N for the unimpaired subjects. Discussion: The proposed method estimates reaction forces of physical springs accurately, and captures online increased reaction forces in persons with stroke compared to unimpaired subjects within unsupervised human-robot interactions. In the future, the identified range of muscle tone increase after stroke could be used to customize therapy for each subject and maintain safety during intensive robot-assisted rehabilitation.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Dual-mode 3D printed dynamic wrist driven orthosis for hand therapy exercises",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmech.2023.1286304/full",
+      "publisher": "Frontiers in Mechanical Engineering",
+      "year": "2023",
+      "doi": "10.3389/fmech.2023.1286304",
+      "abstract": "The primary objective of the Dual-mode Dynamic Wrist Driven Orthosis (D-WDO) is to facilitate wrist-hand therapy exercises for patients with varying levels of residual muscle function. This dual-mode D-WDO system comprises two main components: the orthosis structure and the soft pneumatic actuator (SPA). All system components were designed and produced using Computer Aided Design (CAD) software and the Fused Deposition Modeling (FDM) 3D printing technique. The D-WDO’s structure is constructed from PLA (Polylactic Acid), while the SPA is made from TPU (Thermoplastic Polyurethane) filament. The D-WDO can be operated in passive or active mode by attaching or detaching the SPA from the structure. This D-WDO system is particularly suitable for patients with a minimum MMT level between 2 and 3, as it provides assistance for wrist movement and supports repetitive wrist motion to enhance wrist muscle function. However, it is important to note that the operation and performance of the dual-mode D-WDO system may vary depending on the chosen system configuration. The active D-WDO’s performance demonstrates its ability to achieve the necessary wrist flexion angle for a functional wrist joint, especially in the context of daily activities.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effect of Adding Kinesiotaping to Median Nerve Gliding Exercise Toward Hand Performance of Patients with Carpal Tunnel Syndrome by Using Michigan Hand Outcomes Questionnaire",
+      "url": "https://e-journal.unair.ac.id/SPMRJ/article/view/40623",
+      "publisher": "Surabaya Physical Medicine and Rehabilitation Journal",
+      "year": "2023",
+      "doi": "10.20473/spmrj.v5i2.40623",
+      "abstract": "Background: CTS occurs due to local compression of the median nerve with manifestations of neuropathy, mostly in the productive population. Many conservative treatments have been observed to reduce the degree of pain and quality of life in CTS patients. Kinesiotaping is a new therapy that has been widely used for various musculoskeletal conditions and is known for reducing median nerve compression. Aim: To determine the effect of adding kinesiotaping to median nerve gliding exercise on hand function in CTS patients by using the Michigan Hand Outcomes Questionnaire. Methods: This research was an experimental randomized pre-and post-test group design. A sample of 24 patients from the Medical Rehabilitation Outpatient in RSUP Dr. Kariadi were divided into two groups randomly. The intervention group (n=12, dropout 1) got kinesiotaping application and median nerve gliding exercise. The control group (n=12, dropout 1) did the median nerve gliding exercise only. Hand performance has been evaluated before and at the end of the 4th week of treatment by using the Michigan Hand Outcomes Questionnaire. Result: There were significant improvements in the intervention group's right-hand function (p<0,001), activities of daily living (ADLs) or the ability of the right hand to do certain tasks (p<0,001), work performance (p<0,001), pain (p=0,024), and satisfaction (p<0,001), as compared to the control group. Meanwhile, the intervention and the control group did not show significant differences in left-hand function score (p=0.884), left-hand ability score (p=0.884), and aesthetics score (p=1,000). Conclusion: There was a positive effect on improving hand performance in CTS patients by adding kinesiotaping to median nerve gliding exercises.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effect of Nerve Gliding Exercises and Conventional Treatment in Reducing Wrist Pain among Female Sewing Machine Operators",
+      "url": "https://www.pjmr.org.pk/index.php/pjmr/article/view/317",
+      "publisher": "Pakistan Journal of Medical Research",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Background: The wrist is the most used site in operating the sewing machine. Sewing machine operators work continuously for long period of time. The repetitive movement on the wrist joint can cause pain. The acute wrist pain can affect the daily living activities. Objective: The objective of this study was to determine the effect of nerve gliding exercises and conventional treatment in reducing wrist pain among female sewing machine operators. Study type, settings & duration: The study was randomized controlled trial that was carried out at Government Polytechnic Institute for Women, Dandy School for Fashion Designing and Government Technical Training Institute for Women, Lahore from February to August 2021. Methodology: The study design was Randomized control trial. Total of 66 female participants were randomly taken from different settings. Lottery method sampling technique was used to randomly place the 66 participants into two groups: group A (nerve gliding exercises) as treatment group and group B (TENS for conventional treatment) as control group. The treatment was given for 4 weeks. The TENS was applied for 25-30 mins with the frequency of 80-120Hz. Patient Related Wrist Evaluation questionnaire was used. The independent t-test and paired sample t-test was used for statistical analysis. Results: The group A (nerve gliding exercises) has pain relief score 34.14±7.69 whereas group B (conventional treatment) has pain relief score 38.58±10.14. The p-value obtained ˂0.05 was statistically significant in group A. This p-value shows that the treatment of group A was more effective than group B in ........",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The role of anatomical and topographic features of angioarchitectonics and nerve gliding for its recovery",
+      "url": "https://doi.org/10.18699/ssmj20220603",
+      "publisher": "Institute of Cytology and Genetics, SB RAS",
+      "year": "2022",
+      "doi": "10.18699/ssmj20220603",
+      "abstract": "In the modern concept of treatment of patients with injuries of peripheral nerves, the main thing is to understand the mechanism of its sliding and the peculiarities of blood supply. Studying the nerve topographic anatomy, we are convinced that the mobility of the nerve exists not only in relation to the tissues surrounding it, but also at the level of its inner bundles. In this article, we report on the different degree of nerve mobility depending on its location zone, and that the ulnar and median nerves have the highest degree of mobility at the level of the forearm distal third. To calculate the change in the glide of the nerves, a mathematical model was constructed to measure their mobility during flexion and extension in the elbow joint, allowing to personalize the flap plasty depending on the length of the autograph vascular pedicle. The anatomical and topographic features of the angioarchitectonics of the nerve at various levels were studied, the presence and variability of the location of the vascular pedicle of blood-supplied autografts were studied. The obtained knowledge is necessary for carrying out revascularization of the damaged nerve zone with various types of autografts with autonomous blood flow. Conclusions. Knowledge of the anatomical and topographic features of peripheral nerves, their blood supply and mobility is necessary for their recovery for various injuries.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Excursion of The Median, Ulnar and Radial Nerves During the Nerve Gliding Exercises Used in The Orthopedic Physiotherapy: A Cadaveric Study",
+      "url": "https://doi.org/10.17944/mkutfd.905206",
+      "publisher": "Hatay Mustafa Kemal University Faculty of Medicine",
+      "year": "2021",
+      "doi": "10.17944/mkutfd.905206",
+      "abstract": "Objective: The purpose of this study was to assess the measurement of nerve gliding, resulting from joint motion and changes of upper extremity position. Methods: The upper extremities of ten fresh human cadavers were dissected to delineate relationship between the positioning of upper extremity and gliding distance of nerves. Nerve mobilization – stretching therapy (SMG) techniques are mentioned in the literature for each of the radial, medial and ulnar nerves. Nerve excursion secondary to motion of shoulder, elbow, wrist, and fingers was evaluated at the elbow via SMG application. Initially extremities and the head were positioned with anatomic position. For the median nerve, extremity position was elbow extension, forearm supination, wrist and finger extension. For the ulnar nerve upper extremity position was elbow flexion, full forearm pronation, and wrist and finger dorsiflexion. Finally, the excursion of the radial nerve was observed with the position of elbow extension, forearm pronation, wrist and finger palmar flexion. Results: The ulnar, radial and median nerves excursion were 13.5, 29.75 and 11.37 mm respectively. Conclusion: In this study, longitudinal excursion movement of radial, median and ulnar nerves was observed with movements of shoulder, elbow, wrist and finger joints in different positions. SMG techniques can contribute to the mobilization of nerve tissue in orthopedic rehabilitation.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Efficacy of nerve gliding exercises without myofascial release",
+      "url": "https://doi.org/10.3205/19ifssh1485",
+      "publisher": "German Medical Science GMS Publishing House; Düsseldorf",
+      "year": "2020",
+      "doi": "10.3205/19ifssh1485",
+      "abstract": "14th Triennial Congress of the International Federation of Societies for Surgery of the Hand (IFSSH), 11th Triennial Congress of the International Federation of Societies for Hand Therapy (IFSHT), 11th Triennial Congress of the International Federation of Societies for Hand Therapy (IFSHT) Objective: The nervous system adapts to mechanical loads & undergoes elongation, sliding, cross-sectional change, angulations & compression. If these dynamic protective mechanisms fail, the nervous system is vulnerable to neural edema, ischemia, fibrosis & hypoxia, which causes altered[for full text, please go to the a.m. URL]",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The Effects of Nerve and Tendon Gliding Exercises Combined with Low-level Laser or Ultrasound Therapy in Carpal Tunnel Syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6415562/",
+      "publisher": "Indian journal of orthopaedics",
+      "year": "2019",
+      "doi": "10.4103/ortho.ijortho_45_17",
+      "abstract": "Background Carpal tunnel syndrome (CTS) is a common medical condition that doctors and physiotherapists come across in clinical practice. There are no explicit recommendations concerning which physical therapy methods should be applied in its treatment; however, there have also been no studies on the effects of combining low-level laser therapy (LLLT) or ultrasound with nerve and tendon gliding exercises. The purpose of this study was to evaluate the therapeutic efficacy of ultrasound and LLLT combined with gliding exercises. Materials and methods A total of seventy patients with mild to moderate CTS, divided into two groups, were included in this study. Group 1 received ultrasound treatment, whereas Group 2 underwent LLLT. The treatment lasted 2 weeks (5 sessions/week). In addition, both groups were treated with nerve and tendon gliding exercises three times daily. The clinical evaluation involved an interview on subjective and objective sensory abnormalities, the intensity of pain, the measurement of grip strength, Phalen's test, Tinel's sign, and the Boston Carpal Tunnel Questionnaire. The assessment was performed before and after the treatment. Results A decrease in sensory impairments, improvement in visual analog scale, hand grip strength and the Boston Questionnaire results were significant in all patients after therapy. No meaningful differences between groups were noted in any of the examined variables after treatment. No adverse effects were observed. Conclusions The results of this study may suggest the clinical efficacy of LLLT or ultrasound combined with gliding exercises in patients with mild to moderate CTS.",
+      "licence": "cc by-nc-sa",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ibuprofen-Loaded Hyaluronic Acid Nanofibrous Membranes for Prevention of Postoperative Tendon Adhesion through Reduction of Inflammation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6834315/",
+      "publisher": "International journal of molecular sciences",
+      "year": "2019",
+      "doi": "10.3390/ijms20205038",
+      "abstract": "A desirable multi-functional nanofibrous membrane (NFM) for prevention of postoperative tendon adhesion should be endowed with abilities to prevent fibroblast attachment and penetration and exert anti-inflammation effects. To meet this need, hyaluronic acid (HA)/ibuprofen (IBU) (HAI) NFMs were prepared by electrospinning, followed by dual ionic crosslinking with FeCl 3 (HAIF NFMs) and covalent crosslinking with 1,4-butanediol diglycidyl ether (BDDE) to produce HAIFB NFMs. It is expected that the multi-functional NFMs will act as a physical barrier to prevent fibroblast penetration, HA will reduce fibroblast attachment and impart a lubrication effect for tendon gliding, while IBU will function as an anti-inflammation drug. For this purpose, we successfully fabricated HAIFB NFMs containing 20% (HAI20FB), 30% (HAI30FB), and 40% (HAI40FB) IBU and characterized their physico-chemical properties by scanning electron microscopy, Fourier transformed infrared spectroscopy, thermal gravimetric analysis, and mechanical testing. In vitro cell culture studies revealed that all NFMs except HAI40FB possessed excellent effects in preventing fibroblast attachment and penetration while preserving high biocompatibility without influencing cell proliferation. Although showing significant improvement in mechanical properties over other NFMs, the HAI40FB NFM exhibited cytotoxicity towards fibroblasts due to the higher percentage and concentration of IBU released form the membrane. In vivo studies in a rabbit flexor tendon rupture model demonstrated the efficacy of IBU-loaded NFMs (HAI30FB) over Seprafilm ® and NFMs without IBU (HAFB) in reducing local inflammation and preventing tendon adhesion based on gross observation, histological analyses, and biomechanical functional assays. We concluded that an HAI30FB NFM will act as a multi-functional barrier membrane to prevent peritendinous adhesion after tendon surgery.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A COMPARISION OF THE EFFECTIVENESS OF NEURODYNAMICS VERSUS NERVE AND TENDON GLIDING EXERCISES ALONE FOR CARPAL TUNNEL SYNDROME",
+      "url": "https://pafmj.org/PAFMJ/article/view/31",
+      "publisher": "Pakistan Armed Forces Medical Journal",
+      "year": "2018",
+      "doi": "",
+      "abstract": "Objective: To evaluate the effectiveness of full neurodynamics versus nerve and tendon gliding exercises alone in patients of carpal tunnel syndrome by subjective and electrodiagnostic studies. Study Design: Single blinded randomized controlled trial. Place and Duration of Study: Armed Forces Institute of Rehabilitation Sciences, Rawalpindi, from Aug 2015 to Jan 2016. Patients and Methods: Mild to moderate carpel tunnel syndrome (CTS) patients (n=27) diagnosed on (NCS) nerve conduction studies were selected by non-probability purposive sampling then randomly allocated in two groups i.e, control and experimental by sealed envelope method. Data was collected by using Boston carpal tunnel questionnaire; symptom severity scale, functional status scale and quick disabilities of arm, shoulder and hand score. Control was given nerve tendon gliding exercises with electrotherapy (TENS, ultra-sound), while experimental group received additional neurodynamics on alternate days for 4 weeks. Results: Mean age of population was found to be 45.36 ± 12.36 years. CTS was found to be more prevalent in females 20 (90.9%) than in males 2 (9.1%). No significant improvement was observed in functional status scale, quick DASH and nerve conduction studies (p-value>0.05) although experimental group showed more improvement than control. In contrast, symptom severity scale showed significant improvements between the groups with p-value<0.01. Conclusion: Nerve and tendon gliding exercises provided alone as well as with neurodynamics showed effectiveness in patients of carpal tunnel syndrome. Combined neurodynamics is not superior to nerve tendon gliding exercises alone for the conservative treatment of carpal tunnel syndrome.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Obesity/Type II Diabetes Promotes Function-limiting Changes in Murine Tendons that are not reversed by Restoring Normal Metabolic Function",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003963/",
+      "publisher": "Scientific reports",
+      "year": "2018",
+      "doi": "10.1038/s41598-018-27634-4",
+      "abstract": "Type II Diabetes (T2DM) negatively alters baseline tendon function, including decreased range of motion and mechanical properties; however, the biological mechanisms that promote diabetic tendinopathy are unknown. To facilitate identification of therapeutic targets we developed a novel murine model of diabetic tendinopathy. Mice fed a High Fat Diet (HFD) developed diet induced obesity and T2DM and demonstrated progressive impairments in tendon gliding function and mechanical properties, relative to mice fed a Low Fat Diet (LFD). We then determined if restoration of normal metabolic function, by switching mice from HFD to LFD, was sufficient to halt the pathological changes in tendon due to obesity/T2DM. However, switching from a HFD to LFD resulted in greater impairments in tendon gliding function than mice maintained on a HFD. Mechanistically, IRβ signaling is decreased in obese/T2DM murine tendons, suggesting altered IRβ signaling as a driver of diabetic tendinopathy. However, knock-down of IRβ expression in S100a4-lineage cells (IRcKO S100a4 ) was not sufficient to induce diabetic tendinopathy as no impairments in tendon gliding function or mechanical properties were observed in IRcKO S100a4 , relative to WT. Collectively, these data define a murine model of diabetic tendinopathy, and demonstrate that restoring normal metabolism does not slow the progression of diabetic tendinopathy.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Delineation of the mechanisms of tendon gliding resistance within the carpal tunnel",
+      "url": "https://doi.org/10.1016/j.clinbiomech.2016.12.001",
+      "publisher": "Elsevier BV",
+      "year": "2017",
+      "doi": "10.1016/j.clinbiomech.2016.12.001",
+      "abstract": "Forceful, high-velocity, and repetitive manual hand tasks contribute to the onset of carpal tunnel syndrome. This study aimed to isolate and identify mechanisms that contribute to tendon gliding resistance in the carpal tunnel.Eight human cadaver hands (four pairs) were used. Tendon gliding resistance (force, energy, and stiffness) was measured under different conditions: with intact and with divided subsynovial connective tissue, at 2mm/s and 60mm/s tendon excursion velocity, and with and without relaxation time before tendon excursion.Subsynovial connective tissue stretching substantially contributed to increased gliding resistance force and energy during higher tendon excursion velocities, and subsynovial connective tissue stiffening was observed. Poroelastic properties of the tendon (and possibly the subsynovial connective tissue) also appear to be involved because relaxation time significantly increased gliding resistance force and energy (P<0.01), and the difference in energy and force between high- and low-velocity tendon excursions increased with relaxation time (P=0.01 and P<0.01). Lastly, without relaxation time, no difference in force and energy was observed (P=0.06 and P=0.60), suggesting contact friction.These findings are consistent with the hypothesis that the mechanics of tendon motion within the carpal tunnel are affected by the integrity of the subsynovial connective tissue. While not tested here, in carpal tunnel syndrome this tissue is known to be the fibrotic, thickened, and less-fluid-permeable. An extrapolation of our findings suggests that these changes in the subsynovial connective tissue of carpal tunnel syndrome patients could increase contact friction and carpal tunnel pressure.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Wide-Awake Primary Flexor Tendon Repair, Tenolysis, and Tendon Transfer",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4553273/",
+      "publisher": "Clinics in orthopedic surgery",
+      "year": "2015",
+      "doi": "10.4055/cios.2015.7.3.275",
+      "abstract": "Tendon surgery is unique because it should ensure tendon gliding after surgery. Tendon surgery now can be performed under local anesthesia without tourniquet, by injecting epinephrine mixed with lidocaine, to achieve vasoconstriction in the area of surgery. This method allows the tendon to move actively during surgery to test tendon function intraoperatively and to ensure the tendon is properly repaired before leaving the operating table. I applied this method to primary flexor tendon repair in zone 1 or 2, tenolysis, and tendon transfer, and found this approach makes tendon surgery easier and more reliable. This article describes the method that I have used for tendon surgery.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Multi-layer electrospun membrane mimicking tendon sheath for prevention of tendon adhesions",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4424997/",
+      "publisher": "International journal of molecular sciences",
+      "year": "2015",
+      "doi": "10.3390/ijms16046932",
+      "abstract": "Defect of the tendon sheath after tendon injury is a main reason for tendon adhesions, but it is a daunting challenge for the biomimetic substitute of the tendon sheath after injury due to its multi-layer membrane-like structure and complex biologic functions. In this study, a multi-layer membrane with celecoxib-loaded poly(l-lactic acid)-polyethylene glycol (PELA) electrospun fibrous membrane as the outer layer, hyaluronic acid (HA) gel as middle layer, and PELA electrospun fibrous membrane as the inner layer was designed. The anti-adhesion efficacy of this multi-layer membrane was compared with a single-layer use in rabbit flexor digitorum profundus tendon model. The surface morphology showed that both PELA fibers and celecoxib-loaded PELA fibers in multi-layer membrane were uniform in size, randomly arrayed, very porous, and smooth without beads. Multi-layer membrane group had fewer peritendinous adhesions and better gliding than the PELA membrane group and control group in gross and histological observation. The similar mechanical characteristic and collagen expression of tendon repair site in the three groups indicated that the multi-layer membrane did not impair tendon healing. Taken together, our results demonstrated that such a biomimetic multi-layer sheath could be used as a potential strategy in clinics for promoting tendon gliding and preventing adhesion without poor tendon healing.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The effect of lubricin on the gliding resistance of mouse intrasynovial tendon",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3862798/",
+      "publisher": "PloS one",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0083836",
+      "abstract": "The purpose of this study was to investigate the role of lubricin on the gliding resistance of intrasynovial tendons by comparing lubricin knockout, heterozygous, and wild type mice. A total of thirty-six deep digital flexor (DDF) tendons in the third digits of each hind paw from eighteen adult mice were used, including six lubricin knockout mice (Prg4 -/-), six heterozygous mice (Prg4 +/-), and six wild type mice (Prg4 +/+). The tendon gliding resistance was measured using a custom-made device. Tendon structural changes were evaluated by scanning electron and light microscopy. The gliding resistance of intrasynovial tendons from lubricin knockout mice was significantly higher than the gliding resistance of either wild type or heterozygous mice. The surface of the lubricin knockout tendons appeared to be rougher, compared to the wild type and heterozygous tendons. Synovial hyperplasia was found in the lubricin knockout mice. Cartilage-like tissue was found in the tendon and pulley of the lubricin knockout mice. Our findings confirm the importance of lubricin in intrasynovial tendon lubrication. This knockout model may be useful in determining the effect of lubricin on tendon healing and the response to injury.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.12,
+      "providers": [
+        "europepmc",
+        "openaire",
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effects of Kinesio Taping in Carpal Tunnel Syndrome Treatment: A Randomized Controlled Trial",
+      "url": "https://www.hasekidergisi.com/articles/effects-of-kinesio-taping-in-carpal-tunnel-syndrome-treatment-a-randomized-controlled-trial/doi/haseki.galenos.2025.69885",
+      "publisher": "Haseki Tıp Bülteni",
+      "year": "2025",
+      "doi": "10.4274/haseki.galenos.2025.69885",
+      "abstract": "Aim: The effectiveness of kinesio taping (KT) on carpal tunnel syndrome (CTS) remains controversial. Therefore, we aimed to investigate the clinical effectiveness of KT compared to sham taping and exercises in patients with CTS. Methods: The study was conducted between July 2020 and February 2022. Patients were randomly divided into three groups: group 1 (KT plus tendon and nerve gliding exercises), group 2 (sham-taping plus exercises), and group 3 (exercises alone). Kinesio taping was applied three times with 5-day intervals, with the “neural technique” for median and ulnar nerves and the “area correction technique” for carpal tunnel releasing. The primary outcome was the visual analog scale (VAS), while secondary outcomes included hand grip strength, the Boston Carpal Tunnel Syndrome Questionnaire (BCTQ), and the Short Form-12 (SF-12). Results: The study was completed with 44 patients. Significant improvement was observed in all parameters in the KT group (p<0.05). In both the sham taping and control groups, significant improvement was observed in all parameters except SF-12. The decrease in VAS and the improvement in the BCTQ score and hand grip strength were the highest in the KT group and were found to be significantly greater compared to the other groups (p<0.001, p=0.046, and p=0.004, respectively). Conclusion: Kinesio taping in addition to exercises is more effective in improving pain, symptom severity, and hand grip strength in patients with CTS.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Study Protocol for a Randomized Trial Comparing Tendon and Nerve Glide in Carpal Tunnel Syndrome Rehabilitation",
+      "url": "http://ptj.uswr.ac.ir/article-1-642-en.pdf",
+      "publisher": "Physical Treatments",
+      "year": "2025",
+      "doi": "",
+      "abstract": "Purpose: Carpal tunnel syndrome (CTS) is one of the most common neuropathies. Among the treatment modalities, exercise therapy, in addition to its therapeutic effects, does not require continuous clinic visits or a therapist’s constant presence, saving the patient time and money. Accordingly, this study compares two models of therapeutic exercises, including nerve glide and tendon glide. Methods: The participants were divided into two random groups (n=25 in each group). The first group received ultrasound and nerve gliding exercises; the second group received ultrasound and tendon gliding exercises. The treatment lasted 8 weeks (2 times weekly) and the participants conducted the exercises at home under supervision. Before and after the intervention, a visual analog scale (VAS), Boston questionnaire, dynamometer measures, and electro-diagnostic tests were done in both groups. Results: Regarding the effects of the neural and tendon gliding techniques, there are contradictory findings in the studies, often due to the lack of standardized study protocols and the absence of gold-standard outcome measures. Conclusion: With the establishment of standardized protocols and the use of reliable and practical outcome measures in the current study, doing exercises at home and having a follow-up to assess the sustainability of treatment effects, neural gliding may be more effective in the treatment of CTS, considering the nature of the injury.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Longitudinal excursion and strain in the median nerve during novel nerve gliding exercises for carpal tunnel syndrome",
+      "url": "https://doi.org/10.1002/jor.20310",
+      "publisher": "Wiley",
+      "year": "2007",
+      "doi": "10.1002/jor.20310",
+      "abstract": "Abstract Nerve and tendon gliding exercises are advocated in the conservative and postoperative management of carpal tunnel syndrome (CTS). However, traditionally advocated exercises elongate the nerve bedding substantially, which may induce a potentially deleterious strain in the median nerve with the risk of symptom exacerbation in some patients and reduced benefits from nerve gliding. This study aimed to evaluate various nerve gliding exercises, including novel techniques that aim to slide the nerve through the carpal tunnel while minimizing strain (“sliding techniques”). With these sliding techniques, it is assumed that an increase in nerve strain due to nerve bed elongation at one joint (e.g., wrist extension) is simultaneously counterbalanced by a decrease in nerve bed length at an adjacent joint (e.g., elbow flexion). Excursion and strain in the median nerve at the wrist were measured with a digital calliper and miniature strain gauge in six human cadavers during six mobilization techniques. The sliding technique resulted in an excursion of 12.4 mm, which was 30% larger than any other technique ( p ≤ 0.0002). Strain also differed between techniques ( p ≤ 0.00001), with minimal peak values for the sliding technique. Nerve gliding associated with wrist movements can be considerably increased and nerve strain substantially reduced by simultaneously moving neighboring joints. These novel nerve sliding techniques are biologically plausible exercises for CTS that deserve further clinical evaluation. © 2007 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 25:972–980, 2007",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Lubricin surface modification improves tendon gliding after tendon repair in a canine model in vitro",
+      "url": "https://doi.org/10.1002/jor.20731",
+      "publisher": "Wiley",
+      "year": "2008",
+      "doi": "10.1002/jor.20731",
+      "abstract": "Abstract This study investigated the effects of lubricin on the gliding of repaired flexor digitorum profundus (FDP) tendons in vitro. Canine FDP tendons were completely lacerated, repaired with a modified Pennington technique, and treated with one of the following solutions: saline, carbodiimide derivatized gelatin/hyaluronic acid (cd‐HA‐gelatin), carbodiimide derivatized gelatin to which lubricin was added in a second step (cd‐gelatin + lubricin), or carbodiimide derivatized gelatin/HA + lubricin (cd‐HA‐gelatin + lubricin). After treatment, gliding resistance was measured up to 1,000 cycles of simulated flexion/extension motion. The increase in average and peak gliding resistance in cd‐HA‐gelatin, cd‐gelatin + lubricin, and cd‐HA‐gelatin + lubricin tendons was less than the control tendons after 1,000 cycles ( p < 0.05). The increase in average gliding resistance of cd‐HA‐gelatin + lubricin treated tendons was also less than that of the cd‐HA‐gelatin treated tendons ( p < 0.05). The surfaces of the repaired tendons and associated pulleys were assessed qualitatively with scanning electron microscopy and appeared smooth after 1,000 cycles of tendon motion for the cd‐HA‐gelatin, cd‐gelatin + lubricin, and cd‐HA‐gelatin + lubricin treated tendons, while that of the saline control appeared roughened. These results suggest that tendon surface modification can improve tendon gliding ability, with a trend suggesting that lubricin fixed on the repaired tendon may provide additional improvement over that provided by HA and gelatin alone. © 2008 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 27:257–263, 2009",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Effects of Orthosis and Exercise on The Median Nerve Morphology and Functional Status of Patients with Carpal Tunnel Syndrome: A Randomized Pilot Study",
+      "url": "https://www.bezmialemscience.org/articles/the-effects-of-orthosis-and-exercise-on-the-median-nerve-morphology-and-functional-status-of-patients-with-carpal-tunnel-syndrome-a-randomized-pilot-study/doi/bas.galenos.2024.38981",
+      "publisher": "Bezmiâlem Science",
+      "year": "2024",
+      "doi": "10.14235/bas.galenos.2024.38981",
+      "abstract": "Objective: This study aimed to investigate the effects of orthosis, and additional nerve and tendon gliding exercises (NTGE) on median nerve morphology and functional status in patients with mild-to-moderate carpal tunnel syndrome (CTS) and to compare the effectiveness of proposed treatments. Methods: Twenty-seven wrists of 19 patients with mild-to-moderate CTS were included in the study. They were randomized into three groups: neutral wrist orthosis alone (n=8), the combination of the orthosis with nerve gliding exercises (NGE) (n=10), and the combination of the orthosis with nerve/tendon gliding exercises (n=9). The cross-sectional area (CSA) of the median nerve (ultrasonography) and functional status (Boston carpal tunnel syndrome questionnaire and patient-specific functional scale) were evaluated at baseline and after six weeks of treatment. Results: While the functional status of all groups improved significantly (p<0.05), the CSA of the median nerve significantly decreased in the combination of the orthosis with NGE group (p<0.05). However, there were no significant differences between the treatment groups in relation to the improvement in the intraneural edema and the functional status (p<0.05). Conclusion: The 6-week orthotic treatment and additional NTGE could be effective in improving the patient’s symptoms and functional status. However, the combination of a 6-week orthotic treatment and NGE could be effective in reducing intraneural edema.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.96,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Clinical and electrophysiological efficacy of extracorporeal shock-wave therapy in carpal tunnel syndrome: a placebo-controlled, double-blind clinical trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9937620/",
+      "publisher": "Revista da Associacao Medica Brasileira (1992)",
+      "year": "2023",
+      "doi": "10.1590/1806-9282.20220943",
+      "abstract": "Objective The aim of this study was to evaluate the efficacy of radial extracorporeal shock wave therapy on pain, functionality, and electrophysiological measurements in carpal tunnel syndrome. Methods Between June 2021 and January 2022, a total of 66 wrists in 45 participants with mild-to-moderate carpal tunnel syndrome were included in this double-blind, prospective, randomized, placebo-controlled study. Patients were randomized into two groups, namely, the radial extracorporeal shock wave therapy (group 1, n=33) and the sham radial extracorporeal shock wave therapy (group 2, n=33). Night splints and tendon nerve gliding exercises were given to all participants. The participants were evaluated at baseline and the first month after treatment. Participants were evaluated using a visual analog scale, the Boston Carpal Tunnel Questionnaire, Leeds Neuropathic Symptom and Symptom Assessment, and electrophysiological examinations. Results A total of 37 participants (a total of 55 wrists, radial extracorporeal shock wave therapy n=27, and sham radial extracorporeal shock wave therapy n=28) completed the study. After the intervention, there was a significant decrease in visual analog scale values (p Conclusion This study shows that radial extracorporeal shock wave therapy has positive effects on pain, functionality, and electrophysiological measurements for mild-to-moderate carpal tunnel syndrome 1 month after application.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.92,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Physical Therapy Rehabilitation for Hand Replantation: A Case Report",
+      "url": "https://zenodo.org/records/15797082",
+      "publisher": "International Journal of Scientific Research and Technology",
+      "year": "2025",
+      "doi": "10.5281/zenodo.15797082",
+      "abstract": "Introduction Hand injuries are prevalent, accounting for 5.5% of trauma cases globally, with industrialization and motorization increasing their incidence in developing nations like India. Occupational hazards in unregulated sectors significantly contribute to hand injuries, often affecting young, economically active individuals. Traumatic upper limb amputations are rare but life-altering, necessitating advancements in surgical techniques like replantation and structured rehabilitation programs to restore functionality and improve quality of life. Method This case report examines the rehabilitation of a 21-year-old male who sustained a nearly complete distal forearm amputation from a machine injury. Following immediate hand replantation surgery and subsequent procedures for tendon repair and skin grafting, patient underwent late-stage physiotherapy interventions, including scar mobilization, joint mobilization, strengthening exercises, tendon gliding, and dynamic splinting. Evaluation measures included grip strength, range of motion (ROM), sensory assessments, and disability scores. Result Patient presented with severe stiffness, reduced grip strength (right hand: 2 kg vs. left: 30 kg), and diminished ROM. Sensory abnormalities and significant functional disabilities were noted. Following one month of intensive physiotherapy, including dynamic splinting, scar mobilization, and strengthening exercises, patient demonstrated improvements in grip strength, ROM, and overall hand function. Intervention addressed contractures and enhanced tendon mobility, facilitating functional recovery. Conclusion This case highlights the critical role of structured rehabilitation in hand replantation recovery. Early initiation of active and passive exercises, scar management, and dynamic splinting significantly improved functional outcomes, supporting evidence that modern surgical techniques combined with intensive physiotherapy yield predictable success rates .",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.9,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The effectiveness of gabapentin and exercises in the treatment of carpal tunnel syndrome: a randomized clinical trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323333/",
+      "publisher": "Journal of exercise rehabilitation",
+      "year": "2018",
+      "doi": "10.12965/jer.1836420.210",
+      "abstract": "Carpal tunnel syndrome (CTS) is one of the reasons for labor abandonment due to inability and pain. The aim of this study was to evaluate the effectiveness of gabapentin and exercise training in the treatment of CTS and compare their effects. This single-blind clinical trial was conducted on patients referred to the Imam Hossein hospital's electrodiagnostic (EDX) unit. The patients randomly assigned into four groups: using nocturnal splint as an approved treatment in the control group; taking 300-mg gabapentin per night and using nocturnal splint; nerve and tendon gliding exercises and using nocturnal splint; and taking 300-mg gabapentin per night, performing same exercise as group 3 and using nocturnal splint. At baseline, four indicators were assessed in all patients, including the Boston carpal tunnel questionnaire, visual analogue scale (VAS), pinch and grip strength of the affected hand. One month after the beginning of intervention, participants were reassessed and compared for each of the four indicators. Using nocturnal splint along with exercise and gabapentin significantly improved VAS, pinch and grip strength in moderate CTS compared to control group that only used nocturnal splint. However in mild CTS, grip strength was not significantly higher compared to control group ( P =0.048). Results of this study showed that use of splint alone in mild CTS is an appropriate and sufficient treatment; however, in moderate CTS, receiving gabapentin along with exercise and splinting showed better treatment results compared to splinting alone.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.72,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Marrying Tendon and Nerve Gliding Exercises with Hydrodissection Following Injection for Carpal Tunnel Syndrome - A New Treatment Approach?",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8046441/",
+      "publisher": "Journal of orthopaedic case reports",
+      "year": "2020",
+      "doi": "10.13107/jocr.2020.v10.i09.1896",
+      "abstract": "Introduction Hydrodissection has been used during injection procedures to liberate median nerve from surrounding adhesions. This investigation examined clinical and neurophysiologic impact of ultrasound-guided injections in patient with bilateral carpal tunnel syndrome (CTS) serving as own control. Novel to this investigation was performance of active tendon and nerve gliding exercises following median nerve hydrodissection and injection. Case report A 37-year-old male with 6-year history of bilateral CTS presented for treatment. Wrists randomly assigned to receive platelet-rich plasma (PRP) or equal volume saline injection and median nerve hydrodissection. The patient performed active tendon and nerve gliding exercises following injection procedures. Pain ratings, CTS-related disability scores, median nerve function, and median nerve cross-section area measurements for each wrist/hand collected at baseline 2, 4, 6, and 12 months following injection procedures. 6-month follow-up. The right (saline) and left (PRP) wrists showed improvements in disability and nerve function. The left wrist (PRP) also showed improvement in pain. 1-year follow-up. The right (saline followed by PRP at 6 months) and left (PRP) wrists showed improvements in pain, disability, and nerve function. Conclusion Results suggest innovative treatment approach for CTS, namely, ultrasound-guided PRP injection including median nerve hydrodissection followed by performance of active tendon and nerve gliding exercises in immediate post-injection period. The patient demonstrated improvements in pain, CTS-related disability, and median nerve function comparable to surgical release and generally better than non-surgical interventions. Findings should stimulate further investigation into marrying mechanically based treatments with PRP to produce better long-term outcomes in patients with CTS.",
+      "licence": "cc by-nc-sa",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.7,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Pulsed magnetic field versus ultrasound in the treatment of postnatal carpal tunnel syndrome: A randomized controlled trial in the women of an Egyptian population",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5144749/",
+      "publisher": "Journal of advanced research",
+      "year": "2017",
+      "doi": "10.1016/j.jare.2016.11.001",
+      "abstract": "The aim of this study was to compare the effects of pulsed electromagnetic field versus pulsed ultrasound in treating patients with postnatal carpal tunnel syndrome. The study was a randomized, double-blinded trial. Forty postnatal female patients with idiopathic carpal tunnel syndrome were divided randomly into two equal groups. One group received pulsed electromagnetic field, with nerve and tendon gliding exercises for the wrist, three times per week for four weeks. The other group received pulsed ultrasound and the same wrist exercises. Pain level, sensory and motor distal latencies and conduction velocities of the median nerve, functional status scale and hand grip strength were assessed pre- and post-treatment. There was a significant decrease ( P P P > 0.05). In conclusion, while the symptoms were alleviated in both groups, pulsed electromagnetic field was more effective than pulsed ultrasound in treating postnatal carpal tunnel syndrome.",
+      "licence": "cc by-nc-nd",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.68,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Neurodynamic and Wrist Glide Exercises: Effects on Function and Symptom Severity in Carpal Tunnel Syndrome",
+      "url": "http://ptj.uswr.ac.ir/article-1-730-en.pdf",
+      "publisher": "Physical Treatments",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Purpose: This study aimed to assess the effects of neurodynamic wrist exercises and wrist glide exercises on symptom severity, range of motion (ROM), grip strength, and hand function in adults with mild to moderate carpal tunnel syndrome (CTS). Methods: A quasi-experimental study with a pre-post intervention design was conducted in a sample of 30 adult patients with mild to moderate CTS occurring in 50 hands that fulfilled the inclusion criteria. The participants were divided into two intervention groups, and one group received neurodynamic nerve gliding exercises, and the other group received wrist glide exercises. It took place over four weeks. The visual analog scale (VAS) to measure the intensity of pain, Boston carpal tunnel questionnaire (BCTQ), symptom severity scale (SSS), and functional status scale (FSS) to assess pain and functional and symptomatic outcomes, grip strength, and wrist ROM were used to assess pain and functional and symptomatic outcomes before and after the intervention. With this design, within-group and between-group comparisons were used to determine the effectiveness of both interventions. Results: The results indicated a significant decrease in pain levels, with average visual analog scale (VAS) scores dropping from 7.20 to 2.64 after the intervention. The average grip strength increased significantly, rising from 227.2 Newtons to a level exceeding 310 Newtons. The SSS and FSS scores showed significant enhancement, with the SSS decreasing from 3.11 to 1.98 and the FSS decreasing from 3.1 to 1.96. The ROM for wrist movements also demonstrated significant improvements. Flexion increased from 71.24 to 76.84 degrees, while extension increased from 72.68 to 77.62 degrees. Significant improvements were observed in ulnar and radial deviations, as well as thumb flexion and abduction. Conclusion: Neurodynamic wrist and gliding exercises markedly alleviated symptoms in individuals with mild to moderate CTS, diminishing pain, augmenting grip strength, and enhancing ROM, particularly in the thumb.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "What is the current evidence supporting non-operative treatment of carpal tunnel syndrome with neural or nerve gliding exercises?",
+      "url": "https://zenodo.org/records/21222174",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.21222174",
+      "abstract": "Evidence shows that neural or nerve gliding exercises are beneficial as part of a conservative treatment regimen for mild to moderate carpal tunnel syndrome, improving symptoms and function when combined with other treatments.",
+      "licence": "cc-by-nc-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Ultrasound-guided hydrorelease/hydrodissection reduces gliding resistance in a rat sciatic nerve adhesion model : a preclinical experimental study",
+      "url": "https://doi.org/10.1186/s13018-026-06816-1",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2026",
+      "doi": "10.1186/s13018-026-06816-1",
+      "abstract": "Abstract Background Ultrasound-guided nerve hydrodissection (HD), often referred to as hydrorelease (HR) in Asia, is increasingly used for peripheral nerve entrapment. Although HD/HR is clinically applied to separate nerves from surrounding tissues and potentially improve symptoms, its mechanical effects on nerve mobility under perineural adhesions remain incompletely understood. This study aimed to establish a mild rat sciatic nerve adhesion model and to evaluate whether ultrasound-guided HR/HD improves nerve gliding without impairing nerve function. Methods A rat sciatic nerve adhesion model was created in the right thigh by exposing the sciatic nerve, coagulating the nerve bed, and fixing both ends of the nerve to the bed with 8 − 0 nylon sutures; the contralateral side served as control. Adhesion severity was assessed macroscopically at 1, 3, and 6 weeks (stage 0–2) by two examiners, and tensile strength required to detach the nerve from the bed was measured using a digital force gauge. Nerve function at 6 weeks was evaluated by nerve conduction studies (CMAP and motor nerve conduction velocity). Based on model characterization, ultrasound-guided HR/HD was performed at 6 weeks using 2 mL saline to circumferentially dissect the paraneural sheath, and gross adhesion and tensile strength were reassessed one day after injection. Statistical analyses included one-way ANOVA, Tukey’s test, and Kendall’s coefficient of concordance. Results Adhesions progressed over time, with most nerves showing stage 2 adhesions at 6 weeks; inter-observer agreement was high (Kendall’s coefficient 0.92). Tensile strength increased with time (0.91 ± 0.11 N in controls; 1.12 ± 0.29 N at 1 week; 1.72 ± 0.58 N at 3 weeks; 3.10 ± 0.18 N at 6 weeks), with significantly higher values at 3 and 6 weeks compared with earlier time points (P < 0.05). Motor nerve conduction parameters at 6 weeks did not differ significantly between adhesion and control sides. Ultrasound-guided HR/HD significantly reduced tensile strength in the adhesion model (2.05 ± 0.16 N; P < 0.05 vs. untreated adhesions), although values remained higher than controls. Conclusions In a rat sciatic nerve adhesion model with preserved nerve conduction, ultrasound-guided HR/HD reduced tensile strength required to detach the nerve from the bed, indicating improved mechanical mobility/gliding under adhesions. These findings support HR/HD as a minimally invasive approach to enhance nerve gliding in mild perineural adhesion conditions and warrant further studies on long-term outcomes and imaging–pathology correlations.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Elite Tennis Players with a Weak Rotator Cuff: The Paradox of Infraspinatus Atrophy - A Clinical Commentary and Practical Approach",
+      "url": "https://doi.org/10.26603/001c.142211",
+      "publisher": "International Journal of Sports Physical Therapy",
+      "year": "2025",
+      "doi": "10.26603/001c.142211",
+      "abstract": "Infraspinatus atrophy (IA) is a prevalent but often overlooked condition in elite tennis players, resulting from suprascapular nerve (SN) dysfunction due to repetitive traction or compression. While many athletes maintain normal biomechanics through compensatory mechanisms, these adaptations can lead to kinetic chain imbalances, increasing the risk of secondary injuries. Early detection is crucial to preventing long-term structural changes. Diagnosis involves visual inspection, palpation, and functional tests, though ultrasound imaging offers a more objective assessment of infraspinatus muscle thickness. Conservative treatment aims to restore mobility, strength, and neuromuscular control. Athletes should initially avoid aggravating movements before gradually reintroducing overhead activity. Preventing posterior capsule stiffness through targeted stretching reduces SN compression risk, while nerve gliding exercises enhance mobility. Strengthening programs should prioritize controlled eccentric loading of the infraspinatus and scapular control exercises to improve stability and reduce compensatory strain on surrounding muscles. Preventive strategies are similar to rehabilitation approaches and should be incorporated into training routines, particularly for young athletes. Structured progression in strength training and workload management is essential to prepare the shoulder for high-impact movements like serving. Further research is needed to investigate the relationship between IA and athletic performance, including serve speed and injury risk. This clinical commentary presents a practical approach to the diagnosis and management of IA in elite tennis players. # Level of Evidence 5",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Clinical Outcomes and Safety Profile of a Novel Hyaluronic Acid/Alginate Hydrogel in Hand and Microsurgical Procedures",
+      "url": "http://journals.lww.com/prsgo/fulltext/10.1097/GOX.0000000000007306",
+      "publisher": "Plastic and Reconstructive Surgery, Global Open",
+      "year": "2025",
+      "doi": "10.1097/GOX.0000000000007306",
+      "abstract": "Background:. Soft tissue adhesions following hand and microsurgical procedures are frequent and debilitating complications, limiting tendon gliding, entrapping nerves, and impairing outcomes. A fully resorbable hyaluronic acid/alginate hydrogel, available in sheet and gel formulations, was introduced to mitigate adhesion formation. This study aimed to (1) assess hydrogel application across varied tissue environments, (2) evaluate perioperative complication rates, and (3) compare outcomes between the 2 forms. Methods:. A retrospective review of 83 complex hand and microsurgery cases at a single institution was conducted. Hydrogel was applied intraoperatively to tendon, nerve, vessel, and bone exposures. Primary outcomes included complications (infection, rupture, revision), and secondary outcomes were adhesions noted during second-look procedures. Complication rates were compared between gel and sheet forms using a χ2 test. Results:. Hydrogel was most commonly applied to tendon (98%), nerve (60%), and vessel (35%) exposures. The overall complication rate was 4.8%, with no cases of thrombosis, tendon repair failure, or nonunion. One (1.2%) patient developed cellulitis, treated with oral antibiotics. Nine revision procedures occurred (6 planned, 3 unplanned), none related to hydrogel use. No adhesions were observed in unplanned revisions, and 3 of 6 planned revisions showed adhesions. No significant difference in complication rates was found between gel and sheet applications (P = 0.76). Conclusions:. The hyaluronic acid/alginate hydrogel demonstrated low complication rates and versatile application across tissue types. These findings support its safety and potential as an effective adjunct in complex hand and microsurgical procedures.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Comprehensive Approach to Chronic Trigger Finger: A1 Pulley Stretching and Dry Needling",
+      "url": "https://hal.science/hal-05214138v1",
+      "publisher": "HAL open archive",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Trigger finger (TF) is a frequent condition that is more common in women in their fifth decade of life. It is caused by the trapping of the flexor digitorum superficial and flexor digitorum profundus tendons as they travel through fibro-osseous tunnels of the wrist, palm, and hand digits. This results in discomfort and stiffness, limiting daily activities. Corticosteroid injections are the first line of conservative treatment before surgery is performed. Physiotherapy has proven to be extremely effective in the treatment of trigger fingers. We described a 75-year-old woman who had persistent trigger finger pain and stiffness. Ultrasound, tendon gliding exercises, mobilization together with A1 pulley stretching, and dry needling were applied over a two-week period. Pre- and post-test scores of pains and activity limitation were obtained. The findings showed that Pain scores decreased from 6 to 0 on the Nottingham Pain Rating Scale (NPRS) scale, and activity limitation decreased from 67.5 to 10.5% on the patient-rated wrist evaluation (PRWE) scale. Two innovative techniques that is the A1 pulley and dry needling along with ultrasound, tendon glide exercise, and mobilization are found to be effective in managing chronic trigger finger.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Median nerve versus flexor tendons: visualization of median nerve level changes in the proximal carpal tunnel during wrist movement with dynamic high-resolution ultrasound",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10508267/",
+      "publisher": "Journal of ultrasonography",
+      "year": "2023",
+      "doi": "10.15557/jou.2023.0020",
+      "abstract": "Aim The purpose of this prospective ultrasound study was to document dorso-palmar (vertical) displacement of the median nerve in relation to the superficial flexor tendons at the level of the carpal tunnel. Furthermore, the gliding patterns of the median nerve were characterized. The presence of vertical gliding was intended to serve as an additional bio-kinematic parameter of median nerve movement, and will be referred to as a 'level change'. Material and methods In this study, a total of 32 healthy young individuals underwent dynamic high-resolution ultrasound examinations of both wrists. The neutral position, and maximum flexion and extension of the wrist had to be reached in active and passive movement. The gliding patterns were determined in relation to the superficial flexor tendons. When no vertical nerve gliding was observed, it was characterized as 'no level change'. Results The presence of a level change prevailed in the healthy young cohort and was observed in 84% (27/32) of individuals during wrist flexion. The following gliding pattern was distinctively the most common: gliding of the entire nerve in between the flexor tendons in active but not in passive movement of the right and left wrists (13/27; 48%). The extent of vertical displacement was found to be associated with the gliding pattern (Kruskal-Wallis test). Conclusions Movement in the carpal tunnel allows the median nerve to adapt to biomechanical stress. Dynamic ultrasound can demonstrate median nerve level changes in response to wrist movements. Furthermore, a typical gliding pattern was characterized. The presence of level change and gliding patterns were proposed as additional movement parameters during wrist flexion in healthy individuals.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The second clinical study investigating the surgical method for the kineticomyographic control implementation of the bionic hand",
+      "url": "https://doi.org/10.1038/s41598-023-45578-2",
+      "publisher": "Scientific Reports",
+      "year": "2023",
+      "doi": "10.1038/s41598-023-45578-2",
+      "abstract": "Abstract In 2018, during our first clinical study on the kineticomyographic (KMG)-controlled bionic hand, we implanted three magnetic tags inside the musculotendinous junction of three paired extensor-flexor transferred tendons. However, the post-operative tissue adhesions affected the independent movements of the implanted tags and consequently the distinct patterns of the obtained signals. To overcome this issue, we modified our surgical procedure from a one-stage tendon transfer to a two-stage. During the first surgery, we created three tunnels using silicon rods for the smooth tendon gliding. In the second stage, we transferred the same three pairs of the forearm agonist–antagonist tendons through the tunnels and implanted the magnetic tags inside the musculotendinous junction. Compared to our prior clinical investigation, fluoroscopy and ultrasound evaluations revealed that the surgical modification in the current study yielded more pronounced independent movements in two specific magnetic tags associated with fingers (maximum 5.7 mm in the first trial vs. 28 mm in the recent trial with grasp and release) and thumb (maximum 3.2 mm in the first trial vs. 9 mm in the current trial with thumb flexion–extension). Furthermore, we observed that utilizing the flexor digitorum superficialis (FDS) tendons for the flexor component in finger and thumb tendon transfer resulted in more independent movements of the implanted tags, compared with the flexor digitorum profundus (FDP) in the prior research. This study can help us plan for our future five-channel bionic limb design by identifying the gestures with the most significant independent tag displacement.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Reliability and efficacy of the new massage technique on the treatment in the patients with carpal tunnel syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3456919/",
+      "publisher": "Rheumatology international",
+      "year": "2012",
+      "doi": "10.1007/s00296-011-2149-7",
+      "abstract": "We aimed to bring a more understandable and applicable technique to the literature instead of \"massage therapy\" in CTS. We compared our new technique with the splint wear, of which the efficacy in CTS has been proven with many studies. Eighty-four patients between 31 and 65 years of age were included in the study. The patients were divided into two equal groups. In the first group, splint and \"Madenci\" hand massage technique were applied, and in the second group only splint was applied. A splint was provided for all patients with tendon and nerve gliding exercises, and also when needed analgesic drugs were given. When the pretreatment and posttreatment parameters were compared via repetitive measurement analysis, it was found that PGA and MDPGA were significantly decreased in both groups (P = 0.001), whereas grip strength was significantly increased (P = 0.001). While no statistically significant difference was found between the groups regarding pretreatment values (P > 0.05), the posttreatment PGA, MDPGA, and grip strength scores were significantly improved in Group I compared to Group II (P < 0.05). To the best our knowledge, the present study is the first and largest study in the literature conducted on the massage technique that will contribute to the treatment of CTS. As this new massage technique is easy for self-application, cheap, and practical, every patient with CTS can apply the massage to him/herself easily.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Efficacy of Some Combined Conservative Methods in the Treatment of Carpal Tunnel Syndrome: A Randomized Controlled Clinical and Electrophysiological Trial",
+      "url": "http://avestema.com.dedi9374.your-server.de/index.php/pub/article/view/465",
+      "publisher": "The Turkish Journal of Gastroenterology",
+      "year": "2012",
+      "doi": "",
+      "abstract": "Objectives: In this study, we aimed to compare the efficacy of some conservative methods in combination with dexamethasone iontophoresis, ultrasound therapy or placebo iontophoresis (without dexamethasone) in the treatment of mild carpal tunnel syndrome (CTS). Patients and methods: Fifty-eight patients diagnosed with mild CTS confirmed by electromyography were included in the study. The subjects were divided randomly into three groups: (i) iontophoresis group-treated with dexamethasone iontophoresis (n=20); (ii) ultrasound group-treated with ultrasound (n=20), and (iii) placebo group-treated with placebo iontophoresis (n=18). All patients received one of these treatments in 15 sessions for three months in combination with physiotherapeutic procedures, such as tendon/nerve gliding exercises, night splinting and activity modifications. Wrist range of motion, muscle test, the Visual Analog Scale (VAS), handgrip test, pinch meter measurement, sensory testing with monofilaments, two-point discrimination test, Phalen's, reverse Phalen's, Tinnel's and carpal compression test, the Health Assessment Questionnaire (HAQ), the Boston Questionnaire (BQ) and electrophysiological assessment were performed at baseline, at the end of therapies and at threemonths during follow-up. Statistical analysis was performed using SPSS software (version 10.0 for Windows). Results: Statistically significant improvements in the clinical status of all groups were observed at the end of the study (p≤0.05). Compared to ultrasound group and placebo group, more successful outcomes were seen in the iontophoresis group, resulting in statistically significant improvements in the pinch meter measurements, monofilament and two-point discrimination tests, and in BQ scores at three months during follow-up (p≤0.05). A statistically significant improvement was also recorded in the electrophysiological measurements in the iontophoresis group and ultrasound group (p≤0.05). Conclusion: Our study results suggest that dexamethasone iontophoresis administration combined with tendon gliding exercises, splint and activity modification is reliable and effective in the treatment of patients with mild CTS. However, further large-scale studies are required to confirm these findings.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Enhanced tendon healing by a tough hydrogel with an adhesive side and high drug-loading capacity",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9250555/",
+      "publisher": "Nature biomedical engineering",
+      "year": "2022",
+      "doi": "10.1038/s41551-021-00810-0",
+      "abstract": "Hydrogels that provide mechanical support and sustainably release therapeutics have been used to treat tendon injuries. However, most hydrogels are insufficiently tough, release drugs in bursts, and require cell infiltration or suturing to integrate with surrounding tissue. Here we report that a hydrogel serving as a high-capacity drug depot and combining a dissipative tough matrix on one side and a chitosan adhesive surface on the other side supports tendon gliding and strong adhesion (larger than 1,000 J m -2 ) to tendon on opposite surfaces of the hydrogel, as we show with porcine and human tendon preparations during cyclic-friction loadings. The hydrogel is biocompatible, strongly adheres to patellar, supraspinatus and Achilles tendons of live rats, boosted healing and reduced scar formation in a rat model of Achilles-tendon rupture, and sustainably released the corticosteroid triamcinolone acetonide in a rat model of patellar tendon injury, reducing inflammation, modulating chemokine secretion, recruiting tendon stem and progenitor cells, and promoting macrophage polarization to the M2 phenotype. Hydrogels with 'Janus' surfaces and sustained-drug-release functionality could be designed for a range of biomedical applications.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Transosseous Multiple Finger Flexor Tendon Pulley Reconstruction",
+      "url": "https://doi.org/10.1177/26350254221079624",
+      "publisher": "Video Journal of Sports Medicine",
+      "year": "2022",
+      "doi": "10.1177/26350254221079624",
+      "abstract": "Background: Closed finger flexor tendon pulley injuries occur most frequently in rock climbing but also during other heavy finger strength work or exercises. While single pulley injuries receive a conservative therapy, multiple pulley injuries often require a surgical repair, as otherwise they will lead to contracture and loss of range of motion and functionality. While established surgical techniques, which use bone encircling tendon graft techniques, were found to produce osteonecrosis of the phalanx, our new transosseous technique avoids this problem. Indications: All triple pulley injuries (A2,3,4) (grade-4b injuries) and double pulley injuries (A2,3 or A3,4) (grade-4a injuries) are indicated, if the injury is older than 10 days at the point of therapy start or the flexor tendons bowstringing is either not redressable in the ultrasound or extended. Also, grade-4a injuries are indicated, if a secondary contracture starts to build. Technique Description: Standard palmar-sided incision, followed by debridement of the tendon sheath, pulley flap, and, if applicable, scare tissue in between the flexor tendons and the bone is performed. Wire-guided 3.0-mm drill holes at the base phalanx at the level of the former distal portion of the A2 pulley are completed. Passing of the palmaris longus tendon through the drill hole and interlacing it as a “loop and a half” follows. Distal continuation through lacing the transplant through the remaining rims of the former pulleys and the flexor tendon sheath is then performed. Securing the repair after tendon gliding control to itself is completed. Postsurgically, the splint is immobilized for 2 weeks, followed by the use of a thermoplastic pulley support ring for 4 weeks with active mobilization. Results: No complications occurred during or after the surgery. In few cases, a restricted range of motion in the proximal interphalangeal (PIP) joint of the respective finger of up to 3 to 5 grade occurred. One patient, who had a presurgical PIP extension deficit of 30°, which was released during the surgery, developed over time again a 20° extension deficit. The functional outcome score ranged between good and excellent, with one case being only satisfactory. The sport-specific outcome score was either good or excellent for all patients, with one patient with contracture where it was satisfactory. No osteonecrosis of the phalanx was recorded. Discussion: For multiple pulley ruptures, various surgical techniques are described. We favored a modified “loop and a half” technique with a distal continuation to the A3 pulley. This combines the advantages of the “loop and a half” technique, as the strongest, and the Weilby repair, as the most functional repair. We recently noticed some cases with osseous necrosis of the phalanx following this repair, likely due to the high pressure of the circulation of the tendon graft onto the bone and its blood vessels. Therefore, we have modified our procedure into a transosseous repair, which is presented in this article. This approach was first evaluated in a cadaver study to exclude a potential risk of osseous failure (fracture) during stress caused by the drill hole. After ruling out this risk, the transosseous technique became our standard approach, as it combines the advantages of the “loop and a half” technique with those of the Weilby repair and decreases the pressure onto the dorsal cortex of the fingers base phalanx and thus the risk of osteonecrosis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "An Improvised Approach to Relative Motion Extension Splinting in the Emergency Room",
+      "url": "http://journals.lww.com/prsgo/fulltext/10.1097/GOX.0000000000004211",
+      "publisher": "Plastic and Reconstructive Surgery, Global Open",
+      "year": "2022",
+      "doi": "10.1097/GOX.0000000000004211",
+      "abstract": "Summary:. Lacerations to the dorsum of the hand are frequently complicated by involvement of extensor tendons. Bedside repair of these injuries in the emergency room decreases time to treatment and avoids operating room expenses and anesthetic associated risks. Optimal outcomes require prompt follow-up and initiation of hand therapy to promote tendon gliding and prevent tethering of scar tissue. Here, we present our improvised relative motion extension splint utilized in treatment of zone five and six extensor tendon lacerations. This orthosis is preferred in isolated extensor tendon injuries that are amenable to primary repair at the bedside in the appropriately compliant and motivated patient. Our design is comprised of readily available supplies in the emergency room setting. Our improvised relative motion extension splint is lighter weight versus a traditional plaster orthosis and frees the patient to engage in activities of daily living with the injured hand on day four following tendon repair. With repeated application we have become facile with this design, which also permits flexibility such as placement of a wrist extension splint component if needed. Relative motion extension splinting is an established method of treatment following extensor tendon repair. Here, we present a straightforward method of fabricating such a device in the emergency room without the availability of thermoplastic materials. Future study will be needed to establish the efficacy of this device versus its thermoplastic counterpart.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effects of wrist extension on median nerve and flexor tendon excursions in patients with carpal tunnel syndrome: a case control study",
+      "url": "https://doi.org/10.1186/s12891-021-04349-8",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2021",
+      "doi": "10.1186/s12891-021-04349-8",
+      "abstract": "Abstract Background Reduced gliding ability of the median nerve in the carpal tunnel has been observed in patients with carpal tunnel syndrome (CTS). The purpose of this study was to evaluate the gliding abilities of the median nerve and flexor tendon in patients with CTS and healthy participants in the neutral and 30° extended positions of the wrist and to compare the gliding between the finger flexion and extension phases. Methods Patients with CTS and healthy participants were consecutively recruited in a community hospital. All the subjects received the Boston CTS questionnaire, physical examinations, nerve conduction study (NCS), and ultrasonography of the upper extremities. Duplex Doppler ultrasonography was performed to evaluate the gliding abilities of the median nerve and flexor tendon when the subjects continuously moved their index finger in the neutral and 30° extension positions of the wrist. Results Forty-nine patients with CTS and 48 healthy volunteers were consecutively recruited. Significant differences in the Boston CTS questionnaire, physical examination and NCS results and the cross-sectional area of the median nerve were found between the patients and the healthy controls. The degree of median nerve gliding and the ratio of median nerve excursion to flexor tendon excursion in the CTS group were significantly lower than those in the healthy control group in both the neutral and 30° wrist extension positions. Significantly increased excursion of both the median nerve and flexor tendon from the neutral to the extended positions were found in the CTS group. The ratio of median nerve excursion to flexor tendon excursion was significantly higher in the finger flexion phase than in the extended phase in both groups, and this ratio had mild to moderate correlations with answers on the Boston CTS Questionnaire and with the NCS results. Conclusions Reduced excursion of the median nerve was found in the patients with CTS. The ratio of median nerve excursion to flexor tendon excursion was significantly lower in the patients with CTS than in the healthy volunteers. The median nerve excursion was increased while the wrist joint was extended to 30° in the patients with CTS. Wrist extension may be applied as part of the gliding exercise regimen for patients with CTS to improve median nerve mobilization.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Sonoelastic response of median nerve to rehabilitation in carpal tunnel syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7409547/",
+      "publisher": "Journal of ultrasonography",
+      "year": "2020",
+      "doi": "10.15557/jou.2020.0014",
+      "abstract": "Aim of the study: To evaluate the sonoelastic response of the median nerve in patients with carpal tunnel syndrome following conservative rehabilitation with splint plus exercise regimens. Materials and methods: A total of thirty-five patients diagnosed with mild carpal tunnel syndrome and treated with splint plus exercise therapy; hand resting splint all day for 3 weeks and then only at nights along with nerve gliding exercises in 10 repetitions 3 times a day. The median nerve was evaluated clinically prior to the treatment and at week 6 of therapy using physical examination, electrodiagnostic neurophysiology tests and radiological imaging; Boston Scores, electromyogram, ultrasonography and sonoelastography. Results: Following the 6-week treatment protocol on 35 subjects with mild carpal tunnel syndrome, sonoelastography showed significantly softer median nerve, while the traditional parameters based on Boston Scores and cross-sectional area based on ultrasonography remained nearly unresponsive. Such early indication of biomechanical changes in the nerve may be of clinical importance if it can offer a prognostic value of the applied treatment, while tissue softening suggests the alleviation of nerve compression. Conclusions: Sonoelasticity of the median nerve can serve as a reliable marker for assessing therapeutic changes in median nerve stiffness and potentially the outcome early on in mild carpal tunnel syndrome. Aim of the study: To evaluate the sonoelastic response of the median nerve in patients with carpal tunnel syndrome following conservative rehabilitation with splint plus exercise regimens. Materials and methods: A total of thirty-five patients diagnosed with mild carpal tunnel syndrome and treated with splint plus exercise therapy; hand resting splint all day for 3 weeks and then only at nights along with nerve gliding exercises in 10 repetitions 3 times a day. The median nerve was evaluated clinically prior to the treatment and at week 6 of therapy using physical examination, electrodiagnostic neurophysiology tests and radiological imaging; Boston Scores, electromyogram, ultrasonography and sonoelastography. Results: Following the 6-week treatment protocol on 35 subjects with mild carpal tunnel syndrome, sonoelastography showed significantly softer median nerve, while the traditional parameters based on Boston Scores and cross-sectional area based on ultrasonography remained nearly unresponsive. Such early indication of biomechanical changes in the nerve may be of clinical importance if it can offer a prognostic value of the applied treatment, while tissue softening suggests the alleviation of nerve compression. Conclusions: Sonoelasticity of the median nerve can serve as a reliable marker for assessing therapeutic changes in median nerve stiffness and potentially the outcome early on in mild carpal tunnel syndrome.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Evaluation and characterization of waterborne biodegradable polyurethane films for the prevention of tendon postoperative adhesion",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6149831/",
+      "publisher": "International journal of nanomedicine",
+      "year": "2018",
+      "doi": "10.2147/ijn.s169825",
+      "abstract": "Background Tendon adhesion is a serious problem and it affects tendon gliding and joint motion. Although recent studies have yielded promising results in developing anti-adhesion materials, there are still many problems. Polycaprolactone (PCL)-based polyurethane (PU) has good mechanical properties and biocompatibility, and it has a potential in anti-adhesion applications. Materials and methods In this study, a series of waterborne biodegradable polyurethane (WBPU) films with different ratios of ionic groups were synthesized. In order to select an effective anti-adhesion film, the WBPU films were cast and characterized for physicochemical properties and biocompatibility. Results All WBPU films were non-cytotoxic in the cell viability test and had suitable physicochemical and mechanical properties based on the measurement of zeta potential, water contact angle, mechanical properties, water absorption, thickness change, and gelatin test. To evaluate the anti-adhesion effect, severely injured tendons of rabbits were sutured with the modified Kessler core suture technique and WBPU films were then wrapped around the tendon. Implantation in rabbits showed that the WBPU film had better anti-adhesion effect than PCL films and the untreated control, and demonstrated no significant difference in the anti-adhesion performance from the commercial product Seprafilm based on gross evaluation, histological analysis, and biomechanical assessment. Conclusion Compared to Seprafilm and PCL applied in the tendon anti-adhesion, WBPU had better mechanical properties, low inflammatory reaction, and a proper degradation interval.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Assessment of the Gliding of Extensor Tendons in Post-Traumatic Hand Defects Reconstructed Using Muscle Flaps Versus Fascio-Cutaneous Flaps",
+      "url": "https://ejprs.journals.ekb.eg/article_79712_c9c50e994b1cc14aaad239497c572e18.pdf",
+      "publisher": "Egyptian Journal of Plastic and Reconstructive Surgery",
+      "year": "2018",
+      "doi": "10.21608/ejprs.2018.79712",
+      "abstract": "Background: Use of fascio-cutaneous or fascial flaps arewell known methods of reconstruction of dorsal hand defectsto preserve the gliding movement of the extensor tendons.Whilst reconstruction of large hand defects extending to thewrist or the distal forearm entails use of larger flaps withlarge donor sites, so muscle flaps may have an advantage overthe fascial or fascio-cutaneous flaps in coverage of these largedefects. The aim of this study is to compare the gliding of theextensor tendons underneath fascio-cutaneous and muscleflaps on the dorsum of the hand.Patients and Methods: The study included 20 patientswith dorsal hand trauma with exposed extensor tendons, tendefects were reconstructed by free muscles flap and splitthickness skin graft and the other ten were reconstructed withfascio-cutaneous flaps. Early rehabilitation in all cases wasdone by a single dedicated physiotherapist. Tendon glidingwas assessed by measurement of active flexion and extensionat the metacarpo-phalangeal joint using goniometer aftercomplete flap healing four months following flap inset.Results: There was no statistically significant differencein gliding for extensor tendons in patients with hand defectsreconstructed by free muscle flaps and skin graft versus fasciocutaneousflaps.Conclusion: Both fascio-cutaneous and free muscle flapshad comparable results concerning the extensor tendons glidingunderneath.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Split-tendon Flexor Pulley Reconstruction with Application of Tendon Rod",
+      "url": "https://asjs.journals.ekb.eg/article_178890_98e4256ac26eb6bab9652542bbe84399.pdf",
+      "publisher": "Ain-Shams Journal of Surgery",
+      "year": "2016",
+      "doi": "10.21608/asjs.2016.178890",
+      "abstract": "Purpose: Flexor pulley reconstruction is a challenging surgery. Regardless of the reconstructive technique used, the surgeon should make every effort to imitate the length, tension and glide of the normal pulley. We describe in the present study a new method for pulley reconstruction in using a split tendon graft. Patients and methods: Twelve adult patients had A2 and/or A4 pulley reconstruction using split-tendon during application of tendon rod as a first stage tendon reconstruction. This was followed by application of an autogenous tendon graft in a second stage 12 weeks from the first stage. Patients were followed for 6 months after the second stage. Results: All patients recovered a satisfactory range of motion with an average finger to palm distance of 16 mm. Conclusion: The described technique is versatile and provides an autogenous thin graft that is free of donor site morbidity with excellent tendon gliding.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Gliding Resistance and Modifications of Gliding Surface of Tendon",
+      "url": "https://doi.org/10.1016/j.hcl.2013.02.001",
+      "publisher": "Elsevier BV",
+      "year": "2013",
+      "doi": "10.1016/j.hcl.2013.02.001",
+      "abstract": "The smooth gliding of the normal human digital flexor is maintained by synovial fluid lubrication and lubricants bound to the tendon surface. This system can be disrupted by degenerative conditions such as trigger finger, or by trauma. The resistance to tendon gliding after surgical repair of the lacerated digital flexor tendon relates to location of suture knots, exposure of suture materials, and type of surgical repair and materials. Restoration of a functioning gliding surface after injury can be helped by using low-friction, high-strength suture designs, therapy that enables gliding, and the addition of lubricants to the tendon surface.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Maintenance of the gliding surface of tendon autografts in dogs",
+      "url": "https://doi.org/10.3109/17453679409000912",
+      "publisher": "MJS Publishing, Medical Journals Sweden AB",
+      "year": "1994",
+      "doi": "10.3109/17453679409000912",
+      "abstract": "To determine whether there are differences in the extent to which the superficial cellular layers remain viable and contribute to the healing process, extra- and intrasynovial hindlimb donor tendons of 12 dogs (24 tendons) were labeled with 3H-thymidine in vitro and transferred to the medial and lateral toes of the forepaw. After transplantation, the distribution and amounts of remaining labeled cells within the healing tendon grafts were determined at 1 and 3 weeks after surgery by scintillation countings and autoradiographic examinations. The two types of tendon grafts showed different turnover rates for the elimination of labeled DNA. At 1 week, 25 percent of labeled DNA remained in the extrasynovial grafts and 65 percent in the intrasynovial grafts. The two types of tendon grafts also showed different healing responses histologically. Autradiographic examinations showed that the majority of labeled cells were located in the periphery of the control tendons and that the numbers of labeled cells within the newly proliferated superficial areas of both types of tendon grafts decreased over time. These findings indicate that intrasynovial flexor tendons may possess improved prerequisites for superficial cellular survival and tendon gliding following autogenous tendon grafting.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Postoperative Rehabilitation and Functional Outcomes in Reverse Bennett Fracture: A Case Report",
+      "url": "https://europepmc.org/article/PPR/PPR1143519",
+      "publisher": "Research Square",
+      "year": "2026",
+      "doi": "10.21203/rs.3.rs-8562410/v1",
+      "abstract": "Abstract Background: One of the commonest fractures involving the upper limb is metacarpal fractures; these frequently involve the fifth metacarpal bone. Intra-articular fractures and dislocation involving the base of the fifth metacarpal are often termed reverse or \"baby\" Bennett's fractures and are considered unstable due to muscle traction and the mobility of the carpometacarpal joint. Though implant fixation helps stabilize the fracture, rehabilitation is important post-operatively for functional improvement. Case Presentation: An 18-year-old right-hand-dominate patient suffered a reverse Bennett fracture of the right fifth metacarpal due to a fall onto an outstretched hand. The patient received open reduction and internal fixation with a plate-screw fixator. Four weeks later, he returned to the out-patient department with pain, stiffness, muscle wasting, and marked disability of the wrist and hand. Clinical assessment revealed severe restriction of joint motion of the fifth metacarpophalangeal joint, restricted motion of the wrist and forearm, along with a DASH score of 48.3, representing moderate disability. Intervention: A physiotherapy program was started, including early mobilization, Maitland joint mobilization methods, and progressive tendon gliding exercises. Initially, the treatment plan concentrated on pain control and joint mobilization techniques, progressing through advanced mobilization, flexor tendon gliding, and strengthening exercises. Outcomes: After completing 20 days of supervised physiotherapy, the patient gained complete pain-free range of motion in the wrist and fingers, along with complete recovery in the motion of the little finger. Functional assessment revealed a marked improvement in the DASH score, which reduced to 6.7, indicating minimal disability. The patient was very satisfied with the results and was able to use his hands functionally. Conclusion: The important role of early structured physiotherapy in managing reverse Bennett fractures that are surgically fixed is made evident in this case. Fixation that enables early mobilization of the hand will contribute significantly to functional restoration while preventing postoperative complications such as stiffness. Further studies must be conducted to provide structured evidence-based management for such a complex condition.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.94,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "term": "Rotator Cuff Tear",
+  "collected": "2026-11-14",
+  "count": 51,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Effect of low-intensity pulsed ultrasound on postoperative rehabilitation of rotator cuff tears: Protocol for a systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0308354",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0308354",
+      "abstract": "Background: Rotator cuff tears are a common shoulder injury that significantly impacts patients’ daily lives and work abilities. Although surgical treatment methods for rotator cuff tears have been continuously improved with advances in medical technology, postoperative rehabilitation remains challenging. Therefore, finding effective rehabilitation treatments is crucial for improving patient prognosis and enhancing quality of life. This study will aim to systematically evaluate the impact of low-intensity pulsed ultrasound (LIPUS) on postoperative rehabilitation of rotator cuff tears, comprehensively assessing the efficacy and safety of LIPUS in postoperative recovery. Methods: This protocol will search multiple databases including PubMed/MEDLINE, Embase, Cochrane Library, CNKI, Scopus, and Web of Science to identify randomized controlled trials related to LIPUS for postoperative rehabilitation of rotator cuff tears. The search will encompass literature published from the inception of the databases up to April 2024. Methodological quality assessment and data extraction will be conducted using the Cochrane Handbook for Systematic Reviews of Interventions and PRISMA guidelines. Meta-analysis will be performed on appropriate studies using either random-effects or fixed-effects models, and subgroup analyses will be conducted to explore potential heterogeneity. Studies meeting the inclusion criteria will be included in the analysis. All analyses will be performed using Stata version 16.0. Results: The incidence of rotator cuff tear rates will be assessed by imaging techniques such as MRI or ultrasound. Pain intensity will be scored using standardized pain assessment scales, such as the Visual Analog Scale (VAS). Improved range of motion (ROM) in shoulder flexion, abduction, and rotation. Functional outcomes will be evaluated using effective measures such as Constant-Murley scores (CMS) and shoulder joint scores by American Shoulder and Elbow Surgeons (ASES). Adverse events associated with LIPUS therapy, including skin irritation, increased pain, or any other complications. Subgroup analysis will also be carried out if possible. Discussion and conclusion: Following the meta-analysis, we will assess the overall effect of LIPUS on postoperative rehabilitation of rotator cuff tears, and further explore its impact on aspects such as pain relief, functional improvement, and postoperative complications. It is anticipated that this study will provide comprehensive evidence regarding the role of LIPUS in postoperative rehabilitation of rotator cuff tears, guiding clinical practice and future research. The resultant manuscript will be submitted for publication in a peer-reviewed journal. Protocol registration number: CRD42024530798.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.06,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Single-Row or Double-Row Fixation Technique for Full-Thickness Rotator Cuff Tears: A Meta-Analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0068515",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0068515",
+      "abstract": "Background: The single-row and double-row fixation techniques have been widely used for rotator cuff tears. However, whether the double-row technique produces superior clinical or anatomic outcomes is still considered controversial. This study aims to use meta-analysis to compare the clinical and anatomical outcomes between the two techniques. Methods: The Pubmed, Embase, and Cochrane library databases were searched for relevant studies published before November 1, 2012. Studies clearly reporting a comparison of the single-row and double-row techniques were selected. The Constant, ASES, and UCLA scale systems and the rotator cuff integrity rate were evaluated. The weighted mean differences and relative risks were calculated using a fixed-effects or random-effects model. Results: Eight studies were included in this meta-analysis. The weighted mean differences of the ASES (−0.84; P = 0.04; I2 = 0%) and UCLA (−0.75; P = 0.007; I2 = 0%) scales were significantly low in the single-row group for full-thickness rotator cuff tears. For tear sizes smaller than 3 cm, no significant difference was found between the groups no matter in Constant (P = 0.95; I2 = 0%), ASES (P = 0.77; I2 = 0%), or UCLA (P = 0.24; I2 = 13%) scales. For tear sizes larger than 3 cm, the ASES (−1.95; P = 0.001; I2 = 49%) and UCLA (−1.17; P = 0.006; I2 = 0%) scales were markedly lower in the single-row group. The integrity of the rotator cuff (0.81; P = 0.0004; I2 = 10%) was greater and the partial thickness retear rate (1.93; P = 0.007; I2 = 10%) was less in the double-row group. Full-thickness retears showed no difference between the groups (P = 0.15; I2 = 0%). Conclusion: The meta-analysis suggests that the double-row fixation technique increases post-operative rotator cuff integrity and improves the clinical outcomes, especially for full-thickness rotator cuff tears larger than 3 cm. For tear sizes smaller than 3 cm, there was no difference in the clinical outcomes between the two techniques. Level of Evidence: Level I.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.62,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Are Platelet-Rich Products Necessary during the Arthroscopic Repair of Full-Thickness Rotator Cuff Tears: A Meta-Analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0069731",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0069731",
+      "abstract": "Background: Platelet-rich products (PRP) are widely used for rotator cuff tears. However, whether platelet-rich products produce superior clinical or radiological outcomes is controversial. This study aims to use meta-analysis to compare clinical and radiological outcomes between groups with or without platelet-rich products. Methods: The Pubmed, Embase, and Cochrane library databases were searched for relevant studies published before April 20, 2013. Studies were selected that clearly reported a comparison between the use or not of platelet-rich products. The Constant, ASES, UCLA, and SST scale systems and the rotator cuff retear rate were evaluated. The weighted mean differences and relative risks were calculated using a fixed-effects model. Results: Seven studies were enrolled in this meta-analysis. No significant differences were found for the Constant scale (0.73, 95% CI, −1.82 to 3.27, P = 0.58), ASES scale (−2.89, 95% CI, −6.31 to 0.53, P = 0.1), UCLA scale (−0.79, 95% CI, −2.20 to 0.63, P = 0.28), SST scale (0.34, 95% CI, −0.01 to 0.69, P = 0.05), and the overall rotator cuff retear rate (0.71, 95% CI, 0.48 to 1.05, P = 0.08). Subgroup analysis according to the initial tear size showed a lower retear rate in small- and medium-sized tears (0.33, 95% CI, 0.12 to 0.91, P = 0.03) after platelet-rich product application but no difference for large- and massive-sized tears (0.86, 95% CI, 0.60 to 1.23, P = 0.42). Conclusion: In conclusion, the meta-analysis suggests that the platelet-rich products have no benefits on the overall clinical outcomes and retear rate for the arthroscopic repair of full-thickness rotator cuff tears. However, a decrease occurred in the rate of retears among patients treated with PRP for small- and medium-sized rotator cuff tears but not for large- and massive-sized tears. Level of Evidence: Level II",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.62,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Clinical Guidelines in the Management of Frozen Shoulder: An Update!",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8046676/",
+      "publisher": "Indian journal of orthopaedics",
+      "year": "2021",
+      "doi": "10.1007/s43465-021-00351-3",
+      "abstract": "Among all the prevalent painful conditions of the shoulder, frozen shoulder remains one of the most debated and ill-understood conditions. It is a condition often associated with diabetes and thyroid dysfunction, and which should always be investigated in patients with a primary stiff shoulder. Though the duration of 'traditional clinicopathological staging' of frozen shoulder is not constant and varies with the intervention(s), the classification certainly helps the clinician in planning the treatment of frozen shoulder at various stages. Most patients respond very well to combination of conservative treatment resulting in gradual resolution of symptoms in 12-18 months. However, the most effective treatment in isolation is uncertain. Currently, resistant cases that do not respond to conservative treatment for 6-9 months could be offered surgical treatment as either arthroscopic capsular release or manipulation under anaesthesia. Though both invasive options are not clinically superior to another, but manipulation could result in unwarranted complications like fractures of humerus or rotator cuff tear.",
+      "licence": "cc by",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Arthroscopic surgery versus mini-open repair of the full thickness rotator cuff tear, which intervention has the best outcome? Review of the latest evidence",
+      "url": "https://zenodo.org/records/5558835",
+      "publisher": "Zenodo",
+      "year": "2021",
+      "doi": "10.5281/zenodo.5558835",
+      "abstract": "The evolution of arthroscopic surgery led to depending arthroscopic repair of rotator cuff tears. There is some controversy in the literature about the clinical outcomes. However, would the use of arthroscopic rotator cuff repairs provide better clinical outcomes? The general themes in this review will be Postoperative Pain and Functional outcome, Re-tear rate, adhesive capsulitis, Operative time and The Cost of arthroscopic versus mini-open rotator cuff repair. The search strategy included the evidence based reports relevant to the surgical management (Open and Arthroscopic) of the Rotator cuff tears. The Inclusion criteria were the available evidence from randomised controlled trial, systematic reviews and meta-analyses. Most of the available evidences demonstrated no significant difference between the arthroscopic and mini-open repair in the primary outcomes. There was a lack of high evidence regarding the re-tear rate of the postoperative rotator cuff repair, the risk of adhesive capsulitis in both interventions and the cost.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Rotator Cuff Injuries",
+      "url": "https://medlineplus.gov/rotatorcuffinjuries.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "What is a rotator cuff ? Your rotator cuff is part of your shoulder joint. It's a group of muscles and tendons that holds the top part of your upper arm bone firmly in your shoulder socket. The rotator cuff keeps your shoulder stable when you move your arm in any direction. What are rotator cuff injuries? Rotator cuff injuries are common. Most of them are wear-and- tear injuries from doing the same arm movements over and over - especially reaching over your head. With time, the tissues in the rotator cuff break down, leading to these injuries: Tendinitis. The tendons in the rotator cuff connect your muscles to your shoulder bones. In tendinitis, the tendons become irritated and swollen from being pinched during shoulder movements. Bursitis. The bursa is a small, fluid-filled sac that pads the space between the rotator cuff and the bones of your shoulder. Bursitis happens when the muscle and bone rub the bursa too much. It swells with extra fluid, which causes pain Rotator cuff tears. Tears in a rotator cuff tendon can happen over time or suddenly from an injury, such as falling on an outstretched arm or lifting something heavy. A tear may go part way through a tendon (partial tear ) or all the way through (full tear ). Who is more likely to develop a rotator cuff injury? Anyone can develop a rotator cuff injury. But certain people are more likely to have one: People over age 40. Most rotator cuff injuries are from the wear and tear of aging. By age 80, most adults have tears . Athletes. Playing sports with repeated shoulder movements increases the risk of a rotator cuff injury, for example, tennis, swimming, and baseball - especially pitching. People in jobs that require a lot of reaching overhead or heavy lifting. Carpenters, construction workers, and painters are examples of workers who may be more likely to have rotator cuff problems. What are the symptoms of rotator cuff injuries? Rotator cuff injuries don't always cause pain. But when they do, the pain is often in the top part of your arm or shoulder. You may feel more pain when you: Lie down, especially on the injured shoulder Lift your arm or lower it to the front or side Reach behind your back Other symptoms from a torn rotator cuff may include: Loss of strength in the arm Clicking or popping sounds when you move your arm How are rotator cuff injuries diagnosed? To find out if you have a rotator cuff injury, your health care provider: Will examine your shoulder. This includes checking the range of motion and where the pain is. Will test your arm and shoulder strength. May order imaging tests, such as x-rays, an ultrasound, or an MRI scan. What are the treatments for rotator cuff injuries? The best treatment for you depends on your age, how much your injury bothers you, and whether your injury was sudden or happened from wear and tear . Treatments for rotator cuff injuries often include: Rest Putting ice or a cold pack on the sore area Pain relievers to lessen pain and swelling, such as ibuprofen or aspirin Physical therapy exercises to strengthen your shoulder and improve movement A corticosteroid shot into your shoulder joint if other treatments don't help with the pain Treatments for rotator cuff tendinitis and bursitis may also include ultrasound therapy. Surgery may be an option if your shoulder doesn't feel better in 6 to 12 months. Treatments for a torn rotator cuff may also include heat to the sore area or electrical stimulation of the nerves and muscles (transcutaneous electrical nerve stimulation, TENS). You provider may suggest surgery if your tear is large or is from a recent injury, or symptoms last for 6 to 12 months. When should I see a health care provider for shoulder pain? If certain activities bother your shoulder, it's best to stop doing them and check with your provider. That's because early treatment can prevent mild rotator cuff injuries from becoming more serious later on. If you your arm feels weak right after a sudden injury to your shoulder, see your provider as soon as possible.",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Shoulder Injuries and Disorders",
+      "url": "https://medlineplus.gov/shoulderinjuriesanddisorders.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Your shoulder joint is composed of three bones: the clavicle (collarbone), the scapula (shoulder blade), and the humerus (upper arm bone). Your shoulders are the most movable joints in your body. They can also be unstable because the ball of the upper arm is larger than the shoulder socket that holds it. To remain in a stable or normal position, the shoulder must be anchored by muscles, tendons, and ligaments. Because your shoulder can be unstable, it can be easily injured. Common problems include: Sprains and strains Dislocations Separations Tendinitis Bursitis Torn rotator cuffs Frozen shoulder Fractures (broken bones) Arthritis Health care providers diagnose shoulder problems by using your medical history, a physical exam, and imaging tests. Often, the first treatment for shoulder problems is RICE. This stands for Rest, Ice, Compression, and Elevation. Other treatments include exercise and medicines to reduce pain and swelling. If those don't work, you may need surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "I.S.Mu.L.T - Rotator Cuff Tears Guidelines",
+      "url": "https://doi.org/10.32098/mltj.04.2015.01",
+      "publisher": "Edra SpA",
+      "year": "2015",
+      "doi": "10.32098/mltj.04.2015.01",
+      "abstract": "Despite the high level achieved in the field of shoulder surgery, a global consensus on rotator cuff tears management is lacking. This work is divided into two main sessions: in the first, we set questions about hot topics involved in the rotator cuff tears, from the etiopathogenesis to the surgical treatment. In the second, we answered these questions by mentioning Evidence Based Medicine. The aim of the present work is to provide easily accessible guidelines: they could be considered as recommendations for a good clinical practice developed through a process of systematic review of the literature and expert opinion, in order to improve the quality of care and rationalize the use of resources.",
+      "licence": "Open Access",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Association of rotator cuff injuries with night pain and sleep quality. A systematic review",
+      "url": "https://zenodo.org/records/10652622",
+      "publisher": "Zenodo",
+      "year": "2024",
+      "doi": "10.5281/zenodo.10652622",
+      "abstract": "Background Introduction: Growing evidence suggests that shoulder injuries involving the rotator cuff structures cause severe pain and impaired quality of life and sleep, with no systematic reviews to date. Objective: To present the results of a systematic review on the association of rotator cuff injuries with night pain and sleep quality before and after treatment. Methodology: A search was carried out in PubMed limited to humans, without limits on language, age and time period with the following terms: [rotator cuff tear and (nocturnal pain OR sleep)]. PRISMA criteria for systematic reviews were used. Information was extracted on the frequency of night pain and sleep quality in patients with rotator cuff injuries. Results: Of 123 records found, 10 studies were included because they met criteria, which included 1516 patients. Night pain affected 91-93% of patients; Its average intensity was 5.5 VAS points. 100% of the studies reported alterations in sleep quality in patients with rotator cuff injury. After surgical repair, all studies reported a decrease in pain to scores within 2 points and an improvement in sleep quality. Alterations in sleep quality were not only associated with pain but also with abnormalities in shoulder functionality. Conclusions : Rotator cuff injuries cause night pain and alterations in sleep quality that improve with treatment. Alterations in sleep quality are due not only to pain but also to alterations in shoulder functionality. Keywords. Injuries, rotator cuff, night pain, sleep quality.",
+      "licence": "cc-by-4.0",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.06,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Repair of rotator cuff tears in patients aged 75 years and older: Does it make sense? A systematic review",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2022.1060700/full",
+      "publisher": "Frontiers in Public Health",
+      "year": "2023",
+      "doi": "10.3389/fpubh.2022.1060700",
+      "abstract": "BackgroundRotator cuff injuries are common, and morbidity increases with age. The asymptomatic full-thickness tear rate is 40% in the over 75-year-old population.PurposeThis study aimed to systematically review the literature on the outcomes of rotator cuff repair among >75 years old patients.Study designSystematic review.MethodsA systematic review of the literature was performed following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. A literature search was performed in the electronic databases of PubMed, Medline, Embase, and The Cochrane Library. Studies in English evaluating repair of full-thickness rotator cuff tears in patients aged >75 years were included.ResultsSix studies were reviewed, including 311 patients (313 shoulders) treated with arthroscopic and/or open rotator cuff repair. Sixty-one patients were lost to follow-up, leaving 252 shoulders with outcome data. Patients in this age group demonstrated a significant improvement in the clinical and functional scores after rotator cuff repair, with a high satisfaction rate. The mean American Shoulder and Elbow Surgeons scores improved from 43.8 (range, 42.0–45.5) preoperatively to 85.3 (range, 84.0 to 86.5) postoperatively, and the mean Constant scores improved from 45.4 (range, 34.7–55.5) to 78.6 (range, 67.0–91.6). Pain, evaluated in all studies by the visual analog scale for pain, showed a significant improvement at the last follow-up compared with the mean preoperative score. Furthermore, range of motion and return to daily activities and sports gained marked improvements.ConclusionRotator cuff repair in patients aged >75 years could achieve high clinical success rates with good outcomes and pain relief. Although patients in this age group are at a high risk of retear, rotator cuff repair may offer a good option with significant functional and clinical improvement.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.02,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Comparison of the Separate and Combined Effects of Physiotherapy Treatment and Corticosteroid Injection on the Range of Motion and Pain in Nontraumatic Rotator Cuff Tear: A Randomized Controlled Trial",
+      "url": "https://zenodo.org/records/6048821",
+      "publisher": "Advances in Orthopedics",
+      "year": "2021",
+      "doi": "10.1155/2021/6789453",
+      "abstract": "Background. Surgical treatment and conservative treatment is the options to improve pain, function, and range of motion following rotator cuff tear. In this study, we aimed to compare the effects of physiotherapy and corticosteroid injections on the function, pain, and range of motion in patients with full-thickness rotator cuff tearing separately and simultaneously. Methods. A total of 96 patients were randomly assigned to the study and divided into 3 groups of 32 patients. DASH questionnaire and VAS criterion were completed by all three groups, and the range of motions of all groups was measured by a goniometer. Then, the first group underwent 12 sessions of physiotherapy twice a week for 6 weeks; the second group received 80 mg of methylprednisolone and 1 ml of lidocaine 2% in two stages, 21 days apart; and the third group received 80 mg of methylprednisolone and 1 ml of lidocaine 2%, and after 2 days, 6 sessions of physiotherapy twice a week for 3 weeks were prescribed. In the end, the questionnaire was filled out by the patient, and the range of emotions was assessed with a goniometer. Results. More than 80% of patients in each group were female. There was no significant difference between the gender and age distribution of the groups. The mean age in physiotherapy, steroid, and physiotherapy + steroid groups was 51.78 ± 7.37, 52.37 ± 6.61, and 50.87 ± 5.65, respectively. The combination of physiotherapy + steroid intervention was more effective in reducing VAS and DASH scores than physiotherapy or steroid injection alone. Goniometric findings showed that treatments that included the steroid injection approach …",
+      "licence": "cc-by-4.0",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.84,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Physical examination tests of the shoulder: a systematic review and meta-analysis of diagnostic test performance",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5267375/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2017",
+      "doi": "10.1186/s12891-017-1400-0",
+      "abstract": "Background Physical examination tests of the shoulder (PETS) are clinical examination maneuvers designed to aid the assessment of shoulder complaints. Despite more than 180 PETS described in the literature, evidence of their validity and usefulness in diagnosing the shoulder is questioned. Methods This meta-analysis aims to use diagnostic odds ratio (DOR) to evaluate how much PETS shift overall probability and to rank the test performance of single PETS in order to aid the clinician's choice of which tests to use. This study adheres to the principles outlined in the Cochrane guidelines and the PRISMA statement. A fixed effect model was used to assess the overall diagnostic validity of PETS by pooling DOR for different PETS with similar biomechanical rationale when possible. Single PETS were assessed and ranked by DOR. Clinical performance was assessed by sensitivity, specificity, accuracy and likelihood ratio. Results Six thousand nine-hundred abstracts and 202 full-text articles were assessed for eligibility; 20 articles were eligible and data from 11 articles could be included in the meta-analysis. All PETS for SLAP (superior labral anterior posterior) lesions pooled gave a DOR of 1.38 [1.13, 1.69]. The Supraspinatus test for any full thickness rotator cuff tear obtained the highest DOR of 9.24 (sensitivity was 0.74, specificity 0.77). Compression-Rotation test obtained the highest DOR (6.36) among single PETS for SLAP lesions (sensitivity 0.43, specificity 0.89) and Hawkins test obtained the highest DOR (2.86) for impingement syndrome (sensitivity 0.58, specificity 0.67). No single PETS showed superior clinical test performance. Conclusions The clinical performance of single PETS is limited. However, when the different PETS for SLAP lesions were pooled, we found a statistical significant change in post-test probability indicating an overall statistical validity. We suggest that clinicians choose their PETS among those with the highest pooled DOR and to assess validity to their own specific clinical settings, review the inclusion criteria of the included primary studies. We further propose that future studies on the validity of PETS use randomized research designs rather than the accuracy design relying less on well-established gold standard reference tests and efficient treatment options.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.78,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effects of resistance exercises on rotator cuff muscle mechanical characteristics in shoulders with and without rotator cuff tears",
+      "url": "https://doi.org/10.1371/journal.pone.0347233",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0347233",
+      "abstract": "Background: Rotator cuff tears are the primary cause of shoulder pain, often managed with resistive exercise. Understanding how rotator cuff muscles respond to low-intensity rehabilitation-based exercise is critical for optimizing rehabilitation strategies, yet these responses remain poorly characterized. Methods: This study investigated changes in shear wave speed, cross-sectional area, and strength of the supraspinatus and infraspinatus muscles following a 30-repetition isometric contraction protocol at 20% of isometric volitional contraction in shoulders with and without rotator cuff tears. Three-way mixed ANOVAs with repeated measures were performed to evaluate the main effects of tear status, baseline vs post-exercise, passive and active conditions on supraspinatus and infraspinatus as well as the interaction between main effect and cross-sectional area and shear wave speed. Results: Twenty participants were assessed using ultrasound imaging pre- and post-exercise. The findings revealed that participants with rotator cuff tears experienced a significant reduction in passive supraspinatus shear wave speed (p = 0.0021), indicative of increased muscle compliance, while asymptomatic participants exhibited no significant change. Cross-sectional area increased significantly post-exercise in both groups under active conditions (asymptomatic group: p = 0.0046 and symptomatic group: p = 0.0020), though no change was observed in rotator cuff tear participants during passive testing (p = 0.8900). Strength assessments showed marked declines in both groups following exercise (p-values <0.005), reflecting peripheral weakness. Conclusion: These findings suggest that rotator cuff tears are associated with maladaptive reductions in supraspinatus muscle stiffness during acute exercise, potentially impairing functional capacity and necessitating longer recovery periods. In contrast, asymptomatic participants maintain supraspinatus stiffness despite weakness, underscoring differential adaptation to low-intensity exercise.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Compensatory mechanisms to maintain glenohumeral joint stability in rotator cuff tears of differing severity during activities of daily living: A musculoskeletal model simulation study",
+      "url": "https://doi.org/10.1371/journal.pone.0335647",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0335647",
+      "abstract": "Rotator cuff tears decrease glenohumeral joint stability; however, surrounding uninjured muscles could compensate for the reduced function of injured muscles to maintain joint stability. This study set out to analyze compensatory mechanisms that could maintain glenohumeral joint stability following rotator cuff tears of varying severity during normal daily life, using a musculoskeletal model simulation of rotator cuff tears. Fifteen healthy males performed 6 activities including shoulder flexion and abduction, contralateral shoulder reaching, head reaching, and lifting a 1 kg object placed on low and high shelves. Glenohumeral joint stability and scapulohumeral muscle forces were estimated using an intact model and 7 models with complex injuries to the supraspinatus, infraspinatus, and subscapularis muscles. Joint stability was quantified using the positional relationship between joint reaction force and the glenoid. Relationships between changes in glenohumeral joint stability and scapulohumeral muscle forces, in the different models, were analyzed. Glenohumeral joint stability decreased in all activities according to rotator cuff tear severity. Decreased glenohumeral joint stability was more pronounced with lower arm elevation angles and greater severity of rotator cuff tear. At this moment, increase in teres minor and long head of the biceps were observed in the rotator cuff tear models compared with the Intact model. Teres minor force increased in the isolated supraspinatus model during all activities, and long head of biceps forces increased in Flexion, Abduction, and Head reaching activities. These increases in muscle forces were significantly correlated with joint instability, indicating their contribution to stabilization of the glenohumeral joint. In conclusion, in rotator cuff tear models of differing severity, increased uninjured muscle forces compensated for decreased glenohumeral joint movement. Compensatory mechanisms differed according to the pattern and severity of rotator cuff tears, as well as activity type.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Clinical and Patient Reported Outcomes after Treatment of Rotator Cuff Tears: A Retrospective, Observational Study.",
+      "url": "https://zenodo.org/records/11399469",
+      "publisher": "MAR Orthopedics & Trauma",
+      "year": "2024",
+      "doi": "10.5281/zenodo.11399469",
+      "abstract": "ABSTRACT Background: The study aimed to collect actual postoperative data from rotator cuff tear repairs performed with and without Sironix knotted and knotless suture anchors, as the postoperative results of arthroscopic Rotator Cuff Tear surgery in India are not well documented. Methods : This study aimed to collect retrospective data from arthroscopic RCT surgery participants between April 2018 and June 2022, focusing on repair failure rate. Data was collected from medical records, demographics, and baseline features. Secondary goals included evaluating patient-reported outcomes using the PENN Shoulder Score, DASH, and SANSE questionnaires. Adverse device effects and occurrences related to surgery were also gathered. All participants provided their consent. Results: A study involved 54 participants aged 58.7 years and 13.5 months with an average follow-up period of 4.3 months. 63% received right shoulder acromioplasty and arthroscopic cuff repair, with no failures. The overall PENN shoulder score was 94.6, and the Quick-DASH total score was 11.6. The SANE questionnaire score was 95 for patients with and without shoulder injuries, and no negative device impacts were known. Conclusion: Current research devices show functional improvement and post-operative recovery without repair failures, making them a safe and practical strategy in RCT procedures, requiring further assessment through larger cohort prospective studies. Keywords: Suture anchor, Rotator cuff tear, Arthroscopy, Outcomes",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Can deep learning reduce the time and effort required for manual segmentation in 3D reconstruction of MRI in rotator cuff tears?",
+      "url": "https://doi.org/10.1371/journal.pone.0274075",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0274075",
+      "abstract": "Background/Purpose: The use of MRI as a diagnostic tool has gained popularity in the field of orthopedics. Although 3-dimensional (3D) MRI offers more intuitive visualization and can better facilitate treatment planning than 2-dimensional (2D) MRI, manual segmentation for 3D visualization is time-consuming and lacks reproducibility. Recent advancements in deep learning may provide a solution to this problem through the process of automatic segmentation. The purpose of this study was to develop automated semantic segmentation on 2D MRI images of rotator cuff tears by using a convolutional neural network to visualize 3D models of related anatomic structures. Methods: MRI scans from 56 patients with rotator cuff tears (T2 Linear Coronal MRI; 3.0T, 512 mm × 512 mm, and 2.5-mm slice thickness) were collected. Segmentation masks for the cuff tendon, muscle, bone, and cartilage were obtained by four orthopedic shoulder surgeons, and these data were revised by a shoulder surgeon with more than 20 years’ experience. We performed 2D and 3D segmentation using nnU-Net with secondary labels for reducing false positives. Final validation was performed in an external T2 MRI dataset (10 cases) acquired from other institutions. The Dice Similarity Coefficient (DSC) was used to validate segmentation quality. Results: The use of 3D nnU-Net with secondary labels to reduce false positives achieved satisfactory results, even with a limited amount of data. The DSCs (mean ± SD) of the cuff tendon, muscle, bone, and cartilage in the internal test set were 80.7% ± 9.7%, 85.8% ± 8.6%, 97.8% ± 0.6%, and 80.8% ± 15.1%, respectively. In external validation, the DSC of the tendon segmentation was 82.74±5.2%. Conclusion: Automated segmentation using 3D U-Net produced acceptable accuracy and reproducibility. This method could provide rapid, intuitive visualization that can significantly facilitate the diagnosis and treatment planning in patients with rotator cuff tears.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "What can the radiological parameters of superior migration of the humeral head tell us about the reparability of massive rotator cuff tears?",
+      "url": "https://doi.org/10.1371/journal.pone.0231843",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0231843",
+      "abstract": "Objective: The interrelation and clinical utility of the parameters for superior migration of the humeral head, such as the acromiohumeral interval (AHI), inferior glenohumeral distance (IGHD), and upward migration index (UMI), in the management of massive rotator cuff tears are not clear. The objectives of this study were to identify the relation between AHI, IGHD, and UMI when measured with radiography and MRI and to determine whether superior migration can predict the irreparability of massive rotator cuff tears. Methods: We retrospectively reviewed the files of 64 consecutive patients who underwent arthroscopic partial or complete repair for massive rotator cuff tears at our institution between August 2015 and August 2018. We recorded both radiography and MRI measurements of AHI, IGHD, and UMI, and further the tangent sign, fatty infiltration of the rotator cuff muscles, and the Patte grade. We performed correlation assessments and multiple logistic regression analysis to identify potential predictors of the reparability of massive rotator cuff tears. Results: Thirty-five patients had partially reparable and 29 had completely reparable tears. Parameters measured with either radiography or MRI were highly correlated with each other. The radiographic measurements showed a moderate or low correlation with the MRI measurements. All parameters of superior migration of the humeral head on radiography and MRI, the tangent sign, fatty infiltration of the infraspinatus muscle, and the Patte grade showed significant differences between patients with partially and completely repaired tears. Among these, the independent predictors for irreparability was Patte grade = 3. Conclusion: The AHI, IGHD, and UMI were highly correlated when measured with either radiography or MRI, but not when comparing their radiographic with their MRI values. Furthermore, they were not independent indicators of reparability in massive rotator cuff tears.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Vascularization and biocompatibility of poly(ε-caprolactone) fiber mats for rotator cuff tear repair",
+      "url": "https://doi.org/10.1371/journal.pone.0227563",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0227563",
+      "abstract": "Rotator cuff tear is the most frequent tendon injury in the adult population. Despite current improvements in surgical techniques and the development of grafts, failure rates following tendon reconstruction remain high. New therapies, which aim to restore the topology and functionality of the interface between muscle, tendon and bone, are essentially required. One of the key factors for a successful incorporation of tissue engineered constructs is a rapid ingrowth of cells and tissues, which is dependent on a fast vascularization. The dorsal skinfold chamber model in female BALB/cJZtm mice allows the observation of microhemodynamic parameters in repeated measurements in vivo and therefore the description of the vascularization of different implant materials. In order to promote vascularization of implant material, we compared a porous polymer patch (a commercially available porous polyurethane based scaffold from Biomerix™) with electrospun polycaprolactone (PCL) fiber mats and chitosan-graft-PCL coated electrospun PCL (CS-g-PCL) fiber mats in vivo. Using intravital fluorescence microscopy microcirculatory parameters were analyzed repetitively over 14 days. Vascularization was significantly increased in CS-g-PCL fiber mats at day 14 compared to the porous polymer patch and uncoated PCL fiber mats. Furthermore CS-g-PCL fiber mats showed also a reduced activation of immune cells. Clinically, these are important findings as they indicate that the CS-g-PCL improves the formation of vascularized tissue and the ingrowth of cells into electrospun PCL scaffolds. Especially the combination of enhanced vascularization and the reduction in immune cell activation at the later time points of our study points to an improved clinical outcome after rotator cuff tear repair.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Epigenetic regulation of metalloproteinases and their inhibitors in rotator cuff tears",
+      "url": "https://doi.org/10.1371/journal.pone.0184141",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0184141",
+      "abstract": "Rotator cuff tear is a common orthopedic condition. Metalloproteinases (MMP) and their inhibitors (TIMP) seem to play a role in the development of joint injuries and in the failure of tissue healing. However, the mechanisms of regulation of gene expression in tendons are still unknown. Epigenetic mechanisms, such as DNA methylation and microRNAs regulation, are involved in the dynamic control of gene expression. Here, the mRNA expression and DNA methylation status of MMPs (MMP1, MMP2, MMP3, MMP9, MMP13, and MMP14) and TIMPs (TIMP1-3) and the expression of miR-29 family members in ruptured supraspinatus tendons were compared with non-injured tendons of individuals without this lesion. Additionally, the gene expression and methylation status at the edge of the ruptured tendon were compared with macroscopically non-injured rotator cuff tendon samples from the anterior and posterior regions of patients with tendon tears. Moreover, the possible associations between the molecular alterations and the clinical and histologic characteristics were investigated. Dysregulated expression and DNA methylation of MMP and TIMP genes were found across the rotator cuff tendon samples of patients with supraspinatus tears. These alterations were influenced at least in part by age at surgery, sex, smoking habit, tear size, and duration of symptoms. Alterations in the studied MMP and TIMP genes may contribute to the presence of microcysts, fissures, necrosis, and neovascularization in tendons and may thus be involved in the tendon healing process. In conclusion, MMPs and their inhibitors are regulated by epigenetic modifications and may play a role in rotator cuff tears.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Predicting Rotator Cuff Tears Using Data Mining and Bayesian Likelihood Ratios",
+      "url": "https://doi.org/10.1371/journal.pone.0094917",
+      "publisher": "PLoS ONE",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0094917",
+      "abstract": "Objectives: Rotator cuff tear is a common cause of shoulder diseases. Correct diagnosis of rotator cuff tears can save patients from further invasive, costly and painful tests. This study used predictive data mining and Bayesian theory to improve the accuracy of diagnosing rotator cuff tears by clinical examination alone. Methods: In this retrospective study, 169 patients who had a preliminary diagnosis of rotator cuff tear on the basis of clinical evaluation followed by confirmatory MRI between 2007 and 2011 were identified. MRI was used as a reference standard to classify rotator cuff tears. The predictor variable was the clinical assessment results, which consisted of 16 attributes. This study employed 2 data mining methods (ANN and the decision tree) and a statistical method (logistic regression) to classify the rotator cuff diagnosis into “tear” and “no tear” groups. Likelihood ratio and Bayesian theory were applied to estimate the probability of rotator cuff tears based on the results of the prediction models. Results: Our proposed data mining procedures outperformed the classic statistical method. The correction rate, sensitivity, specificity and area under the ROC curve of predicting a rotator cuff tear were statistical better in the ANN and decision tree models compared to logistic regression. Based on likelihood ratios derived from our prediction models, Fagan's nomogram could be constructed to assess the probability of a patient who has a rotator cuff tear using a pretest probability and a prediction result (tear or no tear). Conclusions: Our predictive data mining models, combined with likelihood ratios and Bayesian theory, appear to be good tools to classify rotator cuff tears as well as determine the probability of the presence of the disease to enhance diagnostic decision making for rotator cuff tears.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.16,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effectiveness of Immersive Virtual Reality on Orthopedic Surgical Skills and Knowledge Acquisition Among Senior Surgical Residents: A Randomized Clinical Trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7770558/",
+      "publisher": "JAMA network open",
+      "year": "2020",
+      "doi": "10.1001/jamanetworkopen.2020.31217",
+      "abstract": "Importance Video learning prior to surgery is common practice for trainees and surgeons, and immersive virtual reality (IVR) simulators are of increasing interest for surgical training. The training effectiveness of IVR compared with video training in complex skill acquisition should be studied. Objectives To evaluate whether IVR improves learning effectiveness for surgical trainees and to validate a VR rating scale through correlation to real-world performance. Design, setting, and participants This block randomized, intervention-controlled clinical trial included senior (ie, postgraduate year 4 and 5) orthopedic surgery residents from multiple institutions in Canada during a single training course. An intention-to-treat analysis was performed. Data were collected from January 30 to February 1, 2020. Intervention An IVR training platform providing a case-based module for reverse shoulder arthroplasty (RSA) for advanced rotator cuff tear arthropathy. Participants were permitted to repeat the module indefinitely. Main outcomes and measures The primary outcome measure was a validated performance metric for both the intervention and control groups (Objective Structured Assessment of Technical Skills [OSATS]). Secondary measures included transfer of training (ToT), transfer effectiveness ratio (TER), and cost-effectiveness (CER) ratios of IVR training compared with control. Additional secondary measures included IVR performance metrics measured on a novel rating scale compared with real-world performance. Results A total of 18 senior surgical residents participated; 9 (50%) were randomized to the IVR group and 9 (50%) to the control group. Participant demographic characteristics were not different for age (mean [SD] age: IVR group, 31.1 [2.8] years; control group, 31.0 [2.7] years), gender (IVR group, 8 [89%] men; control group, 6 [67%] men), surgical experience (mean [SD] experience with RSA: IVR group, 3.3 [0.9]; control group, 3.2 [0.4]), or prior simulator use (had experience: IVR group 6 [67%]; control group, 4 [44%]). The IVR group completed training 387% faster considering a single repetition (mean [SD] time for IVR group: 4.1 [2.5] minutes; mean [SD] time for control group: 16.1 [2.6] minutes; difference, 12.0 minutes; 95% CI, 8.8-14.0 minutes; P Conclusions and relevance In this study, surgical training with IVR demonstrated superior learning efficiency, knowledge, and skill transfer. The TER of 0.79 substituted for 47.4 minutes of operating room time when IVR was used for 60 minutes. Trial registration ClinicalTrials.gov Identifier: NCT04404010.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.8,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Allogenic Achilles-tendon–bone grafts enable more complete restoration of the native direct enthesis structure in the repair of chronic massive rotator cuff tears",
+      "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2025.1684811/full",
+      "publisher": "Frontiers in Bioengineering and Biotechnology",
+      "year": "2025",
+      "doi": "10.3389/fbioe.2025.1684811",
+      "abstract": "Massive irreparable rotator cuff tears are difficult to restore when the tendon quality is poor, and the tendon retraction prevents complete repair. In such cases, tendon allograft bridging can restore continuity but cannot replicate the native tendon–bone interface. In this study, we evaluated an Achilles-tendon–bone block allograft (BTA) for anatomic tendon–bone interface reconstruction in a rabbit model of chronic massive rotator cuff tear. Thirty-six rabbits underwent bilateral infraspinatus tendon detachment, followed by repair after 3 weeks using direct suture (DS), tendon allograft without bone block (TA), or BTA. At 8 and 16 weeks, we assessed the magnetic-resonance-imaging-based tendon maturation (signal-to-noise quotient (SNQ)), micro-computed-tomography-based bone volume fraction (BV/TV) and histology, immunohistochemistry (COL I, II, X), and biomechanical-testing-based healing. The BTA group showed superior tendon continuity, significantly lower SNQ, and higher BV/TV than the DS and TA groups (p < 0.05) at both timepoints. The histological examination demonstrated denser collagen fibers, greater fibrocartilage formation, and complete bone–bone fusion in BTA. The immunohistochemical assessment revealed higher COL II and COL X expression, indicating advanced fibrocartilage maturation and mineralization. At 16 weeks, the BTA group achieved the highest ultimate load to failure (113.45 ± 14.45 N) and stiffness (19.65 ± 3.41 N/mm) values, exceeding those of the TA and DS groups (p < 0.05). These results indicate that the Achilles-tendon–bone block allograft bridge effectively reconstructs the layered tendon–bone interface, promotes osteointegration and fibrocartilage regeneration, and enhances biomechanical strength, all of which support its potential as a translational option for functional enthesis reconstruction in massive rotator cuff tear repair.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Correlation between MRI and Ultrasound Findings in Rotator Cuff Tear of Shoulder Joint for Accuracy Assessment of Diagnostic Tests",
+      "url": "https://hal.science/hal-05049282v1",
+      "publisher": "HAL open archive",
+      "year": "2025",
+      "doi": "10.9734/bpi/msraa/v2/5001",
+      "abstract": "Background: Magnetic resonance imaging (MRI) is a fine modality in diagnosing rotator cuff tears (RCT). With the speedy development and advancement of technology of ultrasound, rotator cuff tears have ameliorated significantly and reached levels comparable to (MRI). Aim: The aim of the study is to assess the accuracy of ultrasound for the diagnosis of rotator cuff tears with respect to magnetic resonance imaging, to identify partial thickness rotator cuff tears, full thickness rotator cuff tears and tendinopathic changes; and to evaluate the sensitivity and specificity of US in diagnosing them with respect to magnetic resonance imaging. Methods: It is a prospective study conducted at the Department of Radiodiagnosis in Narayana Medical College and Hospital, Nellore. A total of 30 patients who were suspected of having rotator cuff tear or tendinosis and planning to undergo an MRI of the shoulder were included in this study. Shoulder ultrasound was performed either before or after the MRI scan on the same day. The findings of ultrasound were compared and correlated with the findings of MRI. Results: The study included 23 male and 7 female patients. The highest number of cases was found in the age group of 18-30 years, with a total number of 12 cases accounting for 40 %. The majority of the cases (19 cases) presented with the duration of symptoms between one to six months constituting about 63.3% of all cases. The Sensitivity (SN), specificity (SP), positive predictive value (PPV), negative predictive value (NPV), and accuracy for diagnosis of rotator cuff tear were 93%, 73%, 77%, 91%, and 83%, respectively. Conclusion: Sensitivity (SN) for diagnosis of rotator cuff tear was good and had a higher negative predictive value (NPV). Consequently, the operator of ultrasound even though having a short tenure of experience in performing an ultrasound of the shoulder had good sensitivity in diagnosing tears; and was able to eliminate them with sureness. The study was limited by the involvement of a single ultrasound operator. Further research is recommended to assess the diagnostic accuracy of multiple ultrasonography operators with varying levels of expertise in detecting rotator cuff tears.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Rotator cuff tear patterns: MRI appearance and its surgical relevance",
+      "url": "https://doi.org/10.1186/s13244-024-01607-w",
+      "publisher": "Insights into Imaging",
+      "year": "2024",
+      "doi": "10.1186/s13244-024-01607-w",
+      "abstract": "Abstract A new perspective on rotator cuff anatomy has allowed a better understanding of the patterns of the different rotator cuff tears. It is essential for radiologists to be aware of these different patterns of tears and to understand how they might influence treatment and surgical approach. Our objective is to review the arthroscopy correlated magnetic resonance imaging appearance of the different types of rotator cuff tears based on current anatomical concepts. Critical relevance statement Knowledge of the characteristics of rotator cuff tears improves our communication with the surgeon and can also make it easier for the radiologist to prepare a report that guides therapeutic conduct and serves as a prognosis for the patient. Key points • There is no universally accepted classification for RC tears. • New patterns such as delamination or myotendinous junction tears have been defined. • The most difficult feature to assess in full thickness tears on MRI is the pattern. • Fatty infiltration of the RC tendons is crucial in the prognosis and outcome. • The radiological report is an effective way of communication with the surgeon. Graphical Abstract",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Evaluation and Symptoms Related Diagnosis of Posterior Capsule Tightness on Various Shoulder Issues",
+      "url": "https://zenodo.org/records/13982152",
+      "publisher": "Annals of Medicine Research and Public Health",
+      "year": "2024",
+      "doi": "10.5281/zenodo.13982152",
+      "abstract": "Background: Evidence based study shown that posterior capsule flexibility is a precursor to shoulder problems. However, no study thus far has shown the influence of the flexibility of posterior capsule in different shoulder pathologies. The objective of the study to compare the role of posterior capsule tightness in different shoulder problems. Methodology which is used one-hundred-seventeen patients diagnosed with shoulder subacromial impingement syndrome (n=39), partial rotator cuff tear (n=26) or frozen shoulder (n=31) and 21 asymptomatic peers participated in the study. Horizontal adduction was assessed in side-lying position for posterior capsule tightness. Pain was measured via the visual analogue scale and shoulder range of motion and active total elevation was assessed with goniometer. Active internal rotation was determined by measuring the distance between T5 and the thumb. Results: It was found that the affected side of the posterior capsules of the patients with subacromial impingement syndrome (p<0.001), partial rotator cuff tear (p<0.001) and frozen shoulder (p<0.001) was stiffer than their healthy side. There were significant differences among groups in the level of tightness in the posterior capsule between the affected and the healthy sides (p<0.001). This present study which emphasized that the posterior capsule’s susceptibility to tightness is most evident in frozen shoulder among various shoulder issues.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The effectiveness of diagnostic tests for the assessment of shoulder pain due to soft tissue disorders: a systematic review",
+      "url": "https://europepmc.org/article/MED/14567906",
+      "publisher": "Health technology assessment (Winchester, England)",
+      "year": "2003",
+      "doi": "10.3310/hta7290",
+      "abstract": "Objectives To evaluate the evidence for the effectiveness and cost-effectiveness of the newer diagnostic imaging tests as an addition to clinical examination and patient history for the diagnosis of soft tissue shoulder disorders. Data sources Literature was identified from several sources including general medical databases. Review methods Studies were identified that evaluated clinical examination, ultrasound, magnetic resonance imaging (MRI), or magnetic resonance arthrography (MRA) in patients suspected of having soft tissue shoulder disorders. Outcomes assessed were clinical impingement syndrome or rotator cuff tear (full, partial or any). Only cohort studies were included. The methodological quality of included test accuracy studies was assessed using a formal quality assessment tool for diagnostic studies and the extraction of study findings was conducted in duplicate using a pre-designed and piloted data extraction form to avoid any errors. For each test, sensitivity, specificity and positive and negative likelihood ratios with 95% confidence intervals were calculated for each study. Where possible pooled estimates of sensitivity, specificity and likelihood ratios were calculated using random effects methods. Potential sources of heterogeneity were investigated by conducting subgroup analyses. Results In the included studies, the prevalence of rotator cuff disorders was generally high, partial verification of patients was common and in many cases patients who were selected retrospectively because they had undergone the reference test. Sample sizes were generally very small. Reference tests were often inappropriate with many studies using arthrography alone, despite problems with its sensitivity. For clinical assessment, 10 cohort studies were found that examined either the accuracy of individual tests or clinical examination as a whole: individual tests were either good at ruling out rotator cuff tears when negative (high sensitivity) or at ruling in such disorders when positive (high specificity), but small sample sizes meant that there was no conclusive evidence. Ultrasound was investigated in 38 cohort studies and found to be most accurate when used for the detection of full-thickness tears; sensitivity was lower for detection of partial-thickness tears. For MRI, 29 cohort studies were included. For full-thickness tears, overall pooled sensitivities and specificities were fairly high and the studies were not statistically heterogeneous; however for the detection of partial-thickness rotator cuff tears, the pooled sensitivity estimate was much lower. The results from six MRA studies suggested that it may be very accurate for detection of full-thickness rotator cuff tears, although its performance for the detection of partial-thickness tears was less consistent. Direct evidence for the performance of one test compared with another is very limited. Conclusions The results suggest that clinical examination by specialists can rule out the presence of a rotator cuff tear, and that either MRI or ultrasound could equally be used for detection of full-thickness rotator cuff tears, although ultrasound may be better at picking up partial tears. Ultrasound also may be more cost-effective in a specialist hospital setting for identification of full-thickness tears. Further research suggestions include the need for large, well-designed, prospective studies of the diagnosis of shoulder pain, in particular a follow-up study of patients with shoulder pain in primary care and a prospective cohort study of clinical examination, ultrasound and MRI, alone and/or in combination.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.5,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Deep Learning based Fully Automatic Quantification of Rotator Cuff Tears from MRI",
+      "url": "https://zenodo.org/records/6397738",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6397738",
+      "abstract": "Rotator cuff tears are the most common source of shoulder pain. Many factors can be considered to choose the right surgical treatment procedure. The most important factors are tear thickness (partial vs. full), tear size, tear shape, and muscle quality. The aim of this work was the fully automated quantification and classification of a full-thickness posterosuperior rotator cuff tear from MR images using a deep learning based approach. A complete new approach to automatically quantify and classify a rotator cuff tear, based on the segmentation of the tear from MR images, was developed and validated. A neural network was trained to segment the rotator cuff tear from an MR image and automatic methods for calculating tear width and retraction and for classifying the tear according to pattern, extension and retraction were implemented. The accuracy of the automatic segmentation and the automated tear analysis were evaluated relative to the ground truth of manual segmentations by a clinical expert, and analyzed based on the ground truth segmentations. Variance in the manual segmentations was assessed in a interrater variability study of two clinical experts. The error of the automatic segmentation to one of the two clinical experts are meant to be in the same region. To make quantification accessible the whole pipeline was implemented in an existing webapp. The results were also evaluated clinically by intraoperative measurements of the rotator cuff tear performed on a separate dataset of six patients. The accuracy of the tear retraction calculation based on the developed automatic tear segmentation was 6.56 mm ± 6.48 mm in comparison to the interrater variability of tear retraction calculation based on manual segmentations of 3.77 mm ± 3.58 mm. These results show that an automatic quantification of a rotator cuff tear is possible. The achieved accuracies of the quantification pipeline for rotator cuff tears need to be improved to make them clinically useable. The large interrater variability of manual segmentation based measurements, highlights the difficulty of the tear segmentations task in general. To improve the accuracy of an automated segmentation, a larger dataset for training may be required or a semi-automatic approach could be used.",
+      "licence": "other-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Long Term Functional and Clinical Outcome of Mini-Open Rotator Cuff Repair: A Study in Retrospect",
+      "url": "https://zenodo.org/records/13838148",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2022",
+      "doi": "10.5281/zenodo.13838148",
+      "abstract": "Introduction : Rotator cuff tear is one of the common aliment encountered in orthopedics leading shoulder pain and dysfunction. In recent times arthroscopic repair has taken precedence over mini open repair however many surgeons still prefer mini open technique over arthroscopy due to lack of infrastructure, skill or by choice. Mini open technique still seems to give satisfactory functional results. The purpose of this study was to evaluate the results of mini open rotator cuff repair. Material and methods :- This was a retrospective observational single center multi surgeon operated study done at Shree Krishna hospital Karamsad. On the basis of the clinical records obtained from MRD (medical records department) patients who were treated surgically with mini-open technique, from February 2018 through August 2021 were called upon in the OPD and were assessed according to VAS(visual analog score) and Quick DASH(disability arm shoulder and hand) score and results were evaluated. Inclusion criteria : All patients operated with mini open rotator cuff repair technique before 6 months. Exclusion criteria : Patients above 70 yrs of age, patients with shoulder lesions other than rotator cuff tear and revision rotator cuff repair. Results: The mean Quick DASH score was and VAS score was at average follow of. Discussion: There is a significant improvement in VAS and Quick DASH score after surgery with mini open rotator cuff repair.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Synergistic enhancement of tendon-to-bone healing via anti-inflammatory and pro-differentiation effects caused by sustained release of Mg 2+ /curcumin from injectable self-healing hydrogels",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8058719/",
+      "publisher": "Theranostics",
+      "year": "2021",
+      "doi": "10.7150/thno.56266",
+      "abstract": "Poor healing response after rotator cuff reconstruction is multifactorial, with the inflammatory microenvironment and deficiency of stem cell differentiation factors at the lesion site being most relevant. However, there is a lack of effective tissue engineering strategies that can simultaneously exert anti-inflammatory and pro-differentiation effects to promote rotator cuff healing. Methods: In this study, we synthesized and characterized a novel active drug delivery vector that successfully overcame the challenge of simultaneous high-efficiency loading and controlled release of Mg 2+ and curcumin. The anti-inflammatory and pro-differentiation effects of the composite hydrogel were evaluated in vitro and in vivo . Moreover, healing of the rotator cuff tendon-to-bone interface was studied by histology, immunofluorescence, and biomechanical tests. Results: The composite hydrogel exhibited excellent biocompatibility and injectability, good adhesiveness, and rapid self-healing. The released curcumin showed obvious anti-inflammatory and antioxidation effects, which protected stem cells and tendon matrix. Furthermore, released Mg 2+ promoted stem cell aggregation and chondrogenesis. Moreover, biomechanical tests and histological results of a rat rotator cuff tear model at 8 weeks after surgery indicated that the composite hydrogel significantly enhanced tendon-to-bone healing. Conclusions: The composite hydrogel mediated sustained in situ release of curcumin and Mg 2+ to effectively promote rotator cuff tendon-to-bone healing via anti-inflammatory and pro-differentiation effects. Therefore, this composite hydrogel offers significant promise for rotator cuff repair.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Supraspinatus and deltoid muscle fiber composition in rotator cuff tear conditions",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2666638320300682",
+      "publisher": "JSES International",
+      "year": "2020",
+      "doi": "10.1016/j.jseint.2020.04.016",
+      "abstract": "Background: Rotator cuff (RC) tears are associated with RC muscle atrophy and changes in composition that are crucial to the prognosis of RC repair. The aim of this study was to characterize muscle fiber composition in the supraspinatus (SS) muscle under tear conditions. Methods: Muscle biopsies were obtained from 21 patients undergoing surgery for an RC tendon tear. Biopsies were obtained from the musculotendinous junction of the SS muscle, and control biopsies were harvested from the deltoid muscle (DT). Biopsies were immunohistochemically processed for detection of type 1 (slow type) and type 2 (fast type) fibers and analyzed using unbiased, stereological principles. We counted the total numbers of type 1 and 2 muscle fibers/mm2, and fiber diameter was used to estimate muscle fiber atrophy and hypertrophy. Results: We found significantly more type 2 cells/mm2 in the SS compared with the DT (P < .01). In addition, we found a significantly higher fraction of type 1 fibers than type 2 fibers in the DT (P < .01), whereas both fiber types were equally present in the SS. The diameters of SS cells were generally smaller than those of DT cells. Atrophy of especially SS type 2 fibers was also demonstrated. Fiber atrophy was more pronounced in men than women. Conclusion: The changes in the composition of SS muscle cell types suggest a shift from type 1 to type 2 muscle fibers and atrophy of both type 1 and 2 fibers. This composition indicates loss of endurance and rapid fatigue of the SS muscle under RC tear conditions.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Morphologic and radiologic parameters correlating to shoulder function at diagnosis for patients with rotator cuff tear",
+      "url": "https://hal.science/hal-03255712v1",
+      "publisher": "Journal of Shoulder and Elbow Surgery",
+      "year": "2020",
+      "doi": "10.1016/j.jse.2020.03.027",
+      "abstract": "Background: The magnetic resonance imaging (MRI) parameters used to diagnose rotator cuff tears are weakly correlated to shoulder function. Our hypothesis was that adding 3-dimensional morphologic parameters resulting from biplanar radiographs (3DXR parameters) to the MRI parameters would improve this correlation. Methods: We assessed 52 patients with rotator cuff tears with an EOS Imaging radiographic examination, MRI study, and clinical evaluation of the shoulder, as well as the Constant score. The bones of the 52 shoulders were reconstructed 3-dimensionally, and eleven 3DXR parameters were automatically extracted. First, the trueness and reliability of these parameters were evaluated. Then, bivariate correlations between each parameter and the Constant score were made. A linear regression model was subsequently built to correlate the 11 parameters and 5 MRI findings with shoulder function at diagnosis, as assessed by the Constant score. Results: The parameters showed good trueness and reliability of most 3DXR parameters. Supraspinatus tear extension, muscle atrophy, and the distance between the greater and deltoid tuberosities were the only parameters with a statistically significant correlation to a lower Constant score (P < .05) in the bivariate study. These correlations were either weak or negligible. A regression model was successfully built with one MRI parameter and four 3DXR parameters. Correlation to function increased from 16.7% to 43.3% with this model. Conclusion: For patients with rotator cuff tears, the combination of MRI and 3DXR parameters of the shoulder in a linear regression model improves the correlation with the Constant score (shoulder function) at diagnosis.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Asymptomatic Rotator Cuff Tears",
+      "url": "https://doi.org/10.2106/jbjs.rvw.18.00149",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2019",
+      "doi": "10.2106/jbjs.rvw.18.00149",
+      "abstract": "» Asymptomatic rotator cuff tears (RCTs) are prevalent in the general population; they are positively associated with age and are common in the contralateral shoulder of individuals who are being treated for shoulder pain or a symptomatic RCT. » Asymptomatic RCTs are likely to become symptomatic over time, corresponding with decreased patient-reported function, strength, and range of motion. » Previous studies have largely reported inconsistent findings regarding patient-reported outcomes, strength, range of motion, and kinematics in individuals with asymptomatic RCTs. » Future research would benefit from characterizing any functional alteration that is associated with asymptomatic rotator cuff pathology, including determining whether such alterations are detrimental or compensatory and understanding the mechanism by which an asymptomatic RCT becomes symptomatic.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Surgery for rotator cuff tears",
+      "url": "https://doi.org/10.1002/14651858.cd013502",
+      "publisher": "Wiley",
+      "year": "2019",
+      "doi": "10.1002/14651858.cd013502",
+      "abstract": "This review is one in a series of Cochrane Reviews of interventions for shoulder disorders.To synthesise the available evidence regarding the benefits and harms of rotator cuff repair with or without subacromial decompression in the treatment of rotator cuff tears of the shoulder.We searched the CENTRAL, MEDLINE, Embase, Clinicaltrials.gov and WHO ICRTP registry unrestricted by date or language until 8 January 2019.Randomised controlled trials (RCTs) including adults with full-thickness rotator cuff tears and assessing the effect of rotator cuff repair compared to placebo, no treatment, or any other treatment were included. As there were no trials comparing surgery with placebo, the primary comparison was rotator cuff repair with or without subacromial decompression versus non-operative treatment (exercises with or without glucocorticoid injection). Other comparisons were rotator cuff repair and acromioplasty versus rotator cuff repair alone, and rotator cuff repair and subacromial decompression versus subacromial decompression alone. Major outcomes were mean pain, shoulder function, quality of life, participant-rated global assessment of treatment success, adverse events and serious adverse events. The primary endpoint for this review was one year.We used standard methodologic procedures expected by Cochrane.We included nine trials with 1007 participants. Three trials compared rotator cuff repair with subacromial decompression followed by exercises with exercise alone. These trials included 339 participants with full-thickness rotator cuff tears diagnosed with magnetic resonance imaging (MRI) or ultrasound examination. One of the three trials also provided up to three glucocorticoid injections in the exercise group. All surgery groups received tendon repair with subacromial decompression and the postoperative exercises were similar to the exercises provided for the non-operative groups. Five trials (526 participants) compared repair with acromioplasty versus repair alone; and one trial (142 participants) compared repair with subacromial decompression versus subacromial decompression alone. The mean age of trial participants ranged between 56 and 68 years, and females comprised 29% to 56% of the participants. Symptom duration varied from a mean of 10 months up to 28 months. Two trials excluded tears with traumatic onset of symptoms. One trial defined a minimum duration of symptoms of six months and required a trial of conservative therapy before inclusion. The trials included mainly repairable full-thickness supraspinatus tears, six trials specifically excluded tears involving the subscapularis tendon. All trials were at risk of bias for several criteria, most notably due to lack of participant and personnel blinding, but also for other reasons such as unclearly reported methods of random sequence generation or allocation concealment (six trials), incomplete outcome data (three trials), selective reporting (six trials), and other biases (six trials). Our main comparison was subacromial decompression versus non-operative treatment and results are reported for the 12 month follow up. At one year, moderate-certainty evidence (downgraded for bias) from 3 trials with 258 participants indicates that surgery probably provides little or no improvement in pain; mean pain (range 0 to 10, higher scores indicate more pain) was 1.6 points with non-operative treatment and 0.87 points better (0.43 better to 1.30 better) with surgery.. Mean function (zero to 100, higher score indicating better outcome) was 72 points with non-operative treatment and 6 points better (2.43 better to 9.54 better) with surgery (3 trials; 269 participants), low-certainty evidence (downgraded for bias and imprecision). Participant-rated global success rate was 873/1000 after non-operative treatment and 943/1000 after surgery corresponding to (risk ratio (RR) 1.08, 95% confidence interval (CI) 0.96 to 1.22; low-certainty evidence (downgraded for bias and imprecision). Health-related quality of life was 57.5 points (SF-36 mental component score, 0 to 100, higher score indicating better quality of life) with non-operative treatment and 1.3 points worse (4.5 worse to 1.9 better) with surgery (1 trial; 103 participants), low-certainty evidence (downgraded for bias and imprecision). We were unable to estimate the risk of adverse events and serious adverse events as only one event was reported across the trials (very low-certainty evidence; downgraded once due to bias and twice due to very serious imprecision).At the moment, we are uncertain whether rotator cuff repair surgery provides clinically meaningful benefits to people with symptomatic tears; it may provide little or no clinically important benefits with respect to pain, function, overall quality of life or participant-rated global assessment of treatment success when compared with non-operative treatment. Surgery may not improve shoulder pain or function compared with exercises, with or without glucocorticoid injections. The trials included have methodology concerns and none included a placebo control. They included participants with mostly small degenerative tears involving the supraspinatus tendon and the conclusions of this review may not be applicable to traumatic tears, large tears involving the subscapularis tendon or young people. Furthermore, the trials did not assess if surgery could prevent arthritic changes in long-term follow-up. Further well-designed trials in this area that include a placebo-surgery control group and long follow-up are needed to further increase certainty about the effects of surgery for rotator cuff tears.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Interleukin-15 facilitates muscle regeneration through modulation of fibro/adipogenic progenitors",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6053744/",
+      "publisher": "Cell communication and signaling : CCS",
+      "year": "2018",
+      "doi": "10.1186/s12964-018-0251-0",
+      "abstract": "Background Chronic muscle injury is characteristics of fatty infiltration and fibrosis. Recently, fibro/adipogenic progenitors (FAPs) were found to be indispensable for muscular regeneration while were also responsible for fibrosis and fatty infiltration in muscle injury. Many myokines have been proven to regulate the adipose or cell proliferation. Because the fate of FAPs is largely dependent on microenvironment and the regulation of myokines on FAPs is still unclear. We screened the potential myokines and found Interleukin-15 (IL-15) may regulate the fatty infiltration in muscle injury. In this study, we investigated how IL-15 regulated FAPs in muscle injury and the effect on muscle regeneration. Methods Cell proliferation assay, western blots, qRT-PCR, immunohistochemistry, flow cytometric analysis were performed to investigate the effect of IL-15 on proliferation and adipogensis of FAPs. Acute muscle injury was induced by injection of glycerol or cardiotoxin to analyze how IL-15 effected on FAPs in vivo and its function on fatty infiltration or muscle regeneration. Results We identified that the expression of IL-15 in injured muscle was negatively associated with fatty infiltration. IL-15 can stimulate the proliferation of FAPs and prevent the adipogenesis of FAPs in vitro and in vivo. The growth of FAPs caused by IL-15 was mediated through JAK-STAT pathway. In addition, desert hedgehog pathway may participate in IL-15 inhibiting adipogenesis of FAPs. Our study showed IL-15 can cause the fibrosis after muscle damage and promote the myofiber regeneration. Finally, the expression of IL-15 was positively associated with severity of fibrosis and number of FAPs in patients with chronic rotator cuff tear. Conclusions These findings supported the potential role of IL-15 as a modulator on fate of FAPs in injured muscle and as a novel therapy for chronic muscle injury.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Clinical and MRI outcomes 10 years after repair of massive posterosuperior rotator cuff tears",
+      "url": "https://hal.science/hal-02135075v1",
+      "publisher": "Journal of Bone and Joint Surgery, American Volume",
+      "year": "2018",
+      "doi": "10.2106/JBJS.17.01190",
+      "abstract": "BACKGROUND: Massive rotator cuff tears are challenging to treat, with few or no studies on long-term outcomes of repair. The purpose of this study was to report 10-year outcomes following repair of massive posterosuperior rotator cuff tears, with and without extension into the subscapularis, and to determine prognostic factors that could influence clinical scores and retear rates. METHODS: The records of 234 patients who underwent repair of a massive posterosuperior rotator cuff tear at a total of 15 centers were retrieved. Patients were asked to return for evaluation at 10 years; 78 patients could not be contacted, 7 had died, and 19 had undergone a reoperation. A total of 130 patients (68% men) with a mean age (and standard deviation) of 56.1 ± 7.7 years (range, 26 to 79 years) were evaluated clinically, and 102 of them were also evaluated using magnetic resonance imaging (MRI). The tear was confined to the supraspinatus and infraspinatus tendons in 94 shoulders and also involved the superior portion of the subscapularis in 36 shoulders. Univariable and multivariable regressions were performed to determine whether 10-year total Constant-Murley scores and repair integrity were associated with patient characteristics, tear patterns, or repair techniques. RESULTS: In the study cohort, complications were noted in 14 shoulders (11%) (stiffness in 10 and infection in 4). For the 130 shoulders evaluated clinically, the mean total Constant-Murley score improved from 53.1 ± 15.9 (range, 14 to 83) preoperatively to 78.5 ± 11.3 (range, 36 to 98) at 10 years. Of the 102 shoulders evaluated using MRI, 32 had a retear (Sugaya type IV or V). Of the 19 shoulders that underwent a reoperation (excluded from the study cohort), 9 had a retear. The overall prevalence of retears was 34%. Multivariable regression analysis revealed a significant association between the 10-year Constant-Murley score and preoperative retraction of the infraspinatus tendon, but no association between retears and any of the variables. Involvement of the subscapularis had no significant effect on preoperative or postoperative Constant-Murley scores or retear rates. CONCLUSIONS: Patients who had repair of a massive posterosuperior rotator cuff tear maintained considerable improvements in clinical and radiographic outcomes at 10 years. Partial concomitant tears of the subscapularis did not affect the total postoperative Constant-Murley scores or retear rates.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Acute rotator cuff tears",
+      "url": "https://doi.org/10.1136/bmj.j5366",
+      "publisher": "BMJ",
+      "year": "2017",
+      "doi": "10.1136/bmj.j5366",
+      "abstract": "### What you need to know A 45 year old woman falls on ice and injures her shoulder. Assessment at her local hospital reveals bruising only and no bony injury on plain radiographs. Despite ongoing reassurance and participation in a physiotherapy programme for three months, she continues to complain of pain, weakness, and inability to raise her arm. Eventually she is referred to a specialist shoulder clinic, where an ultrasound scan confirms she has suffered an acute full thickness tear of her supraspinatus tendon. Failing to identify an acute full thickness rotator cuff tear is a common problem, and this article is aimed at raising awareness of the condition and its correct management. The article is directed to all clinicians, but especially emergency department clinicians, trauma clinic clinicians, and general practitioners, who tend to see such cases. The rotator cuff comprises four important muscles (supraspinatus, infraspinatus, teres minor, and subscapularis) which attach close to the humeral head via tendons and are critically involved in stability and function of the shoulder. A rotator cuff tear is when one or more of these tendons tears or detaches from the humerus (fig 1). These tears can vary in size and be acute or chronic. Chronic full and partial thickness tears are due to tendon degeneration and attrition, and these patients …",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Clinical and anatomic results of surgical repair of chronic rotator cuff tears at ten-year minimum follow-up",
+      "url": "https://hal.science/hal-02135141v1",
+      "publisher": "International Orthopaedics",
+      "year": "2017",
+      "doi": "10.1007/s00264-017-3456-8",
+      "abstract": "PURPOSE: The purpose of this study was to evaluate long-term clinical and anatomic results after open rotator cuff repair. MATERIALS AND METHOD: Fifty-three patients were included in this study. Rotator cuff tears were limited to one tendon in 34, and two tendons or more in 19. The supraspinatus tendon was involved alone in 30 cases, and the subscapularis in four. Clinical, radiographic and MRI evaluations were performed for all patients at ten-year minimum follow-up. RESULTS: At 11.4-years average follow-up, satisfactory results were obtained with improvement on pain level, in range of motion with a gain in active anterior elevation and in external rotation as well as in strength in abduction. Absolute Constant score reached 74.7 points and adjusted Constant score 99.6%. SSV was 82.5% with a SST score of 10 points. Osteoarthritis changes increased with follow-up with osteoarthritis lesion in 69% of the cases. MRI evaluation found a re-tear of the repair in 42% of the cases: 30% when only the supraspinatus tendon was initially involved, and 63% when two or more tendons were repaired. Tear size and quality of the repair were the most important prognosis factors for re-tear of the repair. No correlation was found between the occurrence of a new tear and the clinical outcome. CONCLUSION: Surgical repair of chronic rotator cuff tendon tear can produce consistent and lasting pain relief and improvement in range of motion. Re-tear of the repair was not correlated with degradation of clinical results. Best results were obtained for isolated supraspinatus tear with a complete surgical repair.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "TGF-β Small Molecule Inhibitor SB431542 Reduces Rotator Cuff Muscle Fibrosis and Fatty Infiltration By Promoting Fibro/Adipogenic Progenitor Apoptosis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4871364/",
+      "publisher": "PloS one",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0155486",
+      "abstract": "Rotator cuff tears represent a large burden of muscle-tendon injuries in our aging population. While small tears can be repaired surgically with good outcomes, critical size tears are marked by muscle atrophy, fibrosis, and fatty infiltration, which can lead to failed repair, frequent re-injury, and chronic disability. Previous animal studies have indicated that Transforming Growth Factor-β (TGF-β) signaling may play an important role in the development of these muscle pathologies after injury. Here, we demonstrated that inhibition of TGF-β1 signaling with the small molecule inhibitor SB431542 in a mouse model of massive rotator cuff tear results in decreased fibrosis, fatty infiltration, and muscle weight loss. These observed phenotypic changes were accompanied by decreased fibrotic, adipogenic, and atrophy-related gene expression in the injured muscle of mice treated with SB431542. We further demonstrated that treatment with SB431542 reduces the number of fibro/adipogenic progenitor (FAP) cells-an important cellular origin of rotator cuff muscle fibrosis and fatty infiltration, in injured muscle by promoting apoptosis of FAPs. Together, these data indicate that the TGF-β pathway is a critical regulator of the degenerative muscle changes seen after massive rotator cuff tears. TGF-β promotes rotator cuff muscle fibrosis and fatty infiltration by preventing FAP apoptosis. TGF-β regulated FAP apoptosis may serve as an important target pathway in the future development of novel therapeutics to improve muscle outcomes following rotator cuff tear.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Open side-to-side repair for non-repairable tendon-to-bone rotator cuff tear. Clinical and anatomic outcome at a mean 5 years' follow-up",
+      "url": "https://hal.science/hal-02025613v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2015",
+      "doi": "10.1016/j.otsr.2015.07.018",
+      "abstract": "Introduction: Anatomical tendon-to-bone repair of retracted rotator cuff tear is a difficult challenge given the high rate of recurrence. Hypothesis: The study hypothesis was that side-to-side repair of U-shaped retracted tear allows tendon healing with satisfactory medium-term clinical results. Materials and methods: Between 1999 and 2007,35 patients (mean age 53.5 years) were operated on with this open technique. On the De Orio and Cofield classification, tendon lesions were medium in 5 cases, large in 25 and massive in 5. Subacromial space was in all cases greater than 7 mm. Fatty infiltration grade was less than or equal to 2 on Goutallier's classification in all cases except for 1 grade 3 (supraspinatus only). At last follow-up, patients were assessed clinically (Constant score) and radiographically. Tendon healing was assessed by ultrasound (31 cases) or CT-arthrography (4 cases). Results: Mean follow-up was 60 months. Constant score improved significantly, from 64.7 +/- 10 preoperatively to 77.1 +/- 14 postoperatively (P<0.05). Recurrence rate was 17.1%. Subacromial space was <6 mm postoperatively in 2 cases. Discussion: Side-to-side repair, bringing the posterior cuff onto the anterior edge of the tear, allowed tension-free repair of retracted tear if the preoperative reparability criteria are met: subacromial space equal to or greater than 7 mm, and absence of fatty infiltration significantly greater than grade 2 on the Goutallier classification. Under these conditions, clinical and anatomical results were satisfactory at a mean 5 years' follow-up",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Family Predisposition for Rotator Cuff Tear and Other Tendinopathies – A Case-Control Study",
+      "url": "http://www.scielo.br/pdf/rbort/v55n4/1982-4378-rbort-55-04-0470.pdf",
+      "publisher": "Revista Brasileira de Ortopedia",
+      "year": "",
+      "doi": "10.1055/s-0039-3402456",
+      "abstract": "Abstract Objective To evaluate the prevalence of family history of rotator cuff tear and the presence of tendinopathy in other joints in patients with rotator cuff tears and to compare them with paired controls. To estimate the odds ratio for rotator cuff tear for these two risk factors. Methods We performed a case-control study comparing patients submitted to treatment for rotator cuff tear with asymptomatic controls. All cases and controls were evaluated by imaging exams and matched by age (±2 years) and gender. We conducted an interview using a standardized questionnaire, and collected data on various risk factors. Results We evaluated 144 patients, 72 per group. Patients with rotator cuff tears reported a higher number of consanguineous relatives who underwent treatment for the same disease and tendon injuries in other joints compared to the controls (p= 0.005 and p= 0.045 respectively). Individuals with a family history of treatment for rotator cuff tear or with tendinopathies in other joints were more likely to present a rotator cuff tear, with odds ratios of 3.3 (95% confidence interval [95%CI] = 1.4–7.7) and 2.7 (95%CI = 1.1–6.9) respectively. Conclusions Patients with rotator cuff tear have a higher prevalence of family members with the same disease and tendinopathies or tendon injuries in other joints. The presence of consanguineous relatives with treatment for rotator cuff and tendinopathies in other joints are risk factors for the presence of rotator cuff tears.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Clinical effectiveness and cost-effectiveness of open and arthroscopic rotator cuff repair [the UK Rotator Cuff Surgery (UKUFF) randomised trial]",
+      "url": "https://europepmc.org/article/MED/26463717",
+      "publisher": "Health technology assessment (Winchester, England)",
+      "year": "2015",
+      "doi": "10.3310/hta19800",
+      "abstract": "Background Uncertainty exists regarding the best management of patients with degenerative tears of the rotator cuff. Objective To evaluate the clinical effectiveness and cost-effectiveness of arthroscopic and open rotator cuff repair in patients aged ≥ 50 years with degenerative rotator cuff tendon tears. Design Two parallel-group randomised controlled trial. Setting Nineteen teaching and district general hospitals in the UK. Participants Patients (n = 273) aged ≥ 50 years with degenerative rotator cuff tendon tears. Interventions Arthroscopic surgery and open rotator cuff repair, with surgeons using their usual and preferred method of arthroscopic or open repair. Follow-up was by telephone questionnaire at 2 and 8 weeks after surgery and by postal questionnaire at 8, 12 and 24 months after randomisation. Main outcome measures The Oxford Shoulder Score (OSS) at 24 months was the primary outcome measure. Magnetic resonance imaging evaluation of the shoulder was made at 12 months after surgery to assess the integrity of the repair. Results The mean OSS improved from 26.3 [standard deviation (SD) 8.2] at baseline to 41.7 (SD 7.9) at 24 months for arthroscopic surgery and from 25.0 (SD 8.0) at baseline to 41.5 (SD 7.9) at 24 months for open surgery. When effect sizes are shown for the intervention, a negative sign indicates that an open procedure is favoured. For the intention-to-treat analysis, there was no statistical difference between the groups, the difference in OSS score at 24 months was -0.76 [95% confidence interval (CI) -2.75 to 1.22; p = 0.452] and the CI excluded the predetermined clinically important difference in the OSS of 3 points. There was also no statistical difference when the groups were compared per protocol (difference in OSS score -0.46, 95% CI -5.30 to 4.39; p = 0.854). The questionnaire response rate was > 86%. At 8 months, 77% of participants reported that shoulder problems were much or slightly better, and at 24 months this increased to 85%. There were no significant differences in mean cost between the arthroscopic group and the open repair group for any of the component resource-use categories, nor for the total follow-up costs at 24 months. The overall treatment cost at 2 years was £2567 (SD £176) for arthroscopic surgery and £2699 (SD £149) for open surgery, according to intention-to-treat analysis. For the per-protocol analysis there was a significant difference in total initial procedure-related costs between the arthroscopic group and the open repair group, with arthroscopic repair being more costly by £371 (95% CI £135 to £607). Total quality-adjusted life-years accrued at 24 months averaged 1.34 (SD 0.05) in the arthroscopic repair group and 1.35 (SD 0.05) in the open repair group, a non-significant difference of 0.01 (95% CI -0.11 to 0.10). The rate of re-tear was not significantly different across the randomised groups (46.4% and 38.6% for arthroscopic and open surgery, respectively). The participants with tears that were impossible to repair had the lowest OSSs, the participants with re-tears had slightly higher OSSs and the participants with healed repairs had the most improved OSSs. These findings were the same when analysed per protocol. Conclusion In patients aged > 50 years with a degenerative rotator cuff tear there is no difference in clinical effectiveness or cost-effectiveness between open repair and arthroscopic repair at 2 years for the primary outcome (OSS) and all other prespecified secondary outcomes. Future work should explore new methods to improve tendon healing and reduce the high rate of re-tears observed in this trial. Trial registration Current Controlled Trials ISRCTN97804283. Funding This project was funded by the National Institute for Health Research Health Technology Assessment programme and will be published in full in Health Technology Assessment; Vol. 19, No. 80. See the NIHR Journals Library website for further project information.",
+      "licence": "",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Deep learning based segmentation of the rotator cuff from MRI with accuracy prediction",
+      "url": "https://zenodo.org/records/8155083",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.5281/zenodo.8155083",
+      "abstract": "Purpose Rotator cuff tears (RCT) are associated with pain and decreased shoulder function, effecting almost 10% of the general adult population. Automatic semantic segmentation of the shoulder from magnetic resonance imaging (MRI) is required for three-dimensional (3D) rotator cuff repair prognosis analysis, however, no method or tool for 3D shoulder modeling has been reported so far. Methods A network for fully automatic semantic segmentation of the humerus, scapula and the rotator cuff muscles was trained and tested on N=111 diagnostic T1- weighted MRI of 37 rotator cuff tear patients. For automatic identification of inaccurate segmentations during the inference procedure, where no ground truth segmentation is available, the nnU-Net framework was adapted to allow the estimation of the label-specific network uncertainty. The performance of different metrics at identifying segmentations requiring segmentation verification was evaluated. Results The shoulder anatomy was segmented by the 3D network with an average dice score of 0.977. Integrated directly into the nn-Unet framework, calculation of the average dice coefficient of results from auxiliary networks, demonstrated the best performance in detection of structures requiring segmentation verification with an average sensitivity of 1.0 and a specificity of 0.83 respectively. Conclusions In this work, the first fully automatic method for rotator cuff anatomy segmentation from MRI is presented. The deep learning network demonstrated accuracy and robustness across multi-directional and multi-center data. The presented automatic methods for precise detection of failed segmentations eliminates the need for time consuming manual verification, facilitating the use of automatic segmentation methods for 3D diagnosis in clinical routine.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Gradient bimetallic ion-based hydrogels for tissue microstructure reconstruction of tendon-to-bone insertion",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8221628/",
+      "publisher": "Science advances",
+      "year": "2021",
+      "doi": "10.1126/sciadv.abg3816",
+      "abstract": "Although gradients play an essential role in guiding the function of tissues, achieving synchronous regeneration of gradient tissue injuries remains a challenge. Here, a gradient bimetallic (Cu and Zn) ion-based hydrogel was first constructed via the one-step coordinative crosslinking of sulfhydryl groups with copper and zinc ions for the microstructure reconstruction of the tendon-to-bone insertion. In this bimetallic hydrogel system, zinc and copper ions could not only act as crosslinkers but also provide strong antibacterial effects and induce regenerative capacity in vitro. The capability of hydrogels in simultaneously promoting tenogenesis and osteogenesis was further verified in a rat rotator cuff tear model. It was found that the Cu/Zn gradient layer could induce considerable collagen and fibrocartilage arrangement and ingrowth at the tendon-to-bone interface. Overall, the gradient bimetallic ion-based hydrogel ensures accessibility and provides opportunities to regenerate inhomogeneous tissue with physiological complexity or interface tissue.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Modified Mason–Allen Knot for Arthroscopic Complex Bankart Lesion Repair in Recurrent Anterior Shoulder Instability",
+      "url": "https://hal.sorbonne-universite.fr/hal-03345378v1",
+      "publisher": "Arthroscopy Techniques",
+      "year": "2021",
+      "doi": "10.1016/j.eats.2021.04.018",
+      "abstract": "The arthroscopic Bankart repair is a safe and reliable procedure for the treatment of recurrent shoulder instability for the well-indicated patient. Many repair techniques have been described to restore both labral height and width and recreate a dynamic concavityecompression effect. The modified MasoneAllen knot was first described for rotator cuff tear repair and consists of a horizontal mattress knot with a simple vertical stitch on the same anchor. The purpose of this work is to present the use of the modified MaseneAllen knot for the repair of the capsular labral complex during an arthroscopic Bankart procedure.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Correlation between the Findings of Magnetic Resonance Imaging Shoulder and Shoulder Arthroscopy",
+      "url": "https://jcdr.net/articles/PDF/14048/44557_CE[Ra1]_F(SHU)_PF1(AG_KM)_PFA(KM)_PB(AG_KM)_PN(SL).pdf",
+      "publisher": "Journal of Clinical and Diagnostic Research",
+      "year": "2020",
+      "doi": "10.7860/JCDR/2020/44557.14048",
+      "abstract": "Introduction: Shoulder pain is a significant cause of decreased functional activity of an individual. The overall prevalence of shoulder pain is 16-26%, which makes it the third most common cause among musculoskeletal complaints. The cause of pain in the shoulder is often difficult to evaluate, and diagnosis is usually ambiguous because physical findings are poorly reproducible. The diagnosis therefore, requires multiple imaging modalities. Therapeutic arthroscopy is “the current gold standard” for diagnosing shoulder pathologies, however the procedure is invasive, needs hospitalisation and anaesthesia. Aim: To correlate the findings of Magnetic Resonance Imaging (MRI) shoulder with the findings of shoulder arthroscopy and subsequently determine sensitivity, specificity and accuracy of MRI in diagnosing shoulder pathologies. Materials and Methods: Forty two patients suffering from chronic shoulder pain for a period of more than six weeks, having symptoms of instability, clinical signs of tear or impingement, or functional limitation of the affected shoulder were included in this study. The patients included were in the age group of 18-80 years. Subsequently, MRI followed by arthroscopy of the shoulder was done and the findings of MRI were compared to that of arthroscopy using kappa statistics. Results: In this study along with rotator cuff tear (26 patients), subacromial bursitis (26 patients), was the other most common shoulder pathology. The sensitivity of MRI in detecting shoulder pathologies varied from poor (0.28) for Superior Labrum Anterior Posterior (SLAP) lesion to very good (0.88) for Bankart’s tear and (0.8) for synovial chondromatosis to excellent for rotator cuff tears (0.92). Although sensitivity of MRI was variable for different shoulder pathologies, specificity was comparatively high in detecting all of the above shoulder pathologies. The accuracy of MRI was highest (0.95) in diagnosing synovial chondromatosis, followed by bankart’s lesion (0.92), and rotator cuff tear (0.88). Conclusion: MRI is a very useful and effective tool in diagnosing various shoulder pathologies with exception of SLAP tears where its sensitivity diminishes significantly.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Glenoid exposure in total shoulder arthroplasty",
+      "url": "https://hal.science/hal-04723809v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2018",
+      "doi": "10.1016/j.otsr.2017.10.008",
+      "abstract": "Glenoid exposure is agreed to be a difficult step, but is also a key step in total shoulder arthroplasty, both anatomic and reverse. It conditions unhindered use of the ancillary instrumentation and thus correct glenoid component positioning. The main stages comprise arthrotomy, by opening the rotator cuff, humeral head cut, and inferior glenohumeral release, enabling shifting of the humerus and good exposure of the glenoid cavity. The two main approaches are deltopectoral and anterosuperior transdeltoid. Using the deltopectoral approach, arthrotomy is performed through the subscapularis muscle, by various techniques. This approach enables extensive inferior glenohumeral release and thus an approach to the inferior apex of the glenoid cavity, which is a key area for glenoid implant positioning. The main drawbacks are postoperative shoulder instability and limited access to the posterior part of the glenoid in case of significant retroversion. Moreover, subscapularis healing is uncertain, which can impair the clinical outcomes, with risk of glenoid component loosening. Advantages, on the other hand, include the fact that it can be implemented in all cases, even the most difficult ones, and that the deltoid muscle is respected. The transdeltoid approach has the advantage of being simple, providing direct exposure of the glenoid cavity through a rotator cuff tear after passing through the deltoid. It is therefore especially indicated for reverse prosthesis in case of rotator cuff tear, and in traumatology. However, the approach to the inferior part of the glenoid cavity can be restricted, with insufficient exposure and a risk of glenoid component malpositioning (superior tilt). The preoperative assessment is essential, to detect at-risk situations such as severe stiffness and anticipate difficulties in glenoid exposure.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Morphological classification of acromial spur: correlation between Rockwood tilt view and arthroscopic finding",
+      "url": "http://dx.doi.org/10.1051/sicotj/2016039",
+      "publisher": "SICOT-J",
+      "year": "2017",
+      "doi": "10.1051/sicotj/2016039",
+      "abstract": "Purpose and hypothesis: Acromion spur is the extrinsic factor for impingement syndrome and rotator cuff tear. The Rockwood tilt view can be used to evaluate prominence of the anterior acromion, however no study has shown the correlation of findings between the Rockwood tilt view and the arthroscopic finding. Methods: We developed the arthroscopic classification of acromion spur as type 1 flat spur, type 2 bump spur, type 3 heel spur, type 4 keel spur, and type 5 irregular spur. Patients with rotator cuff syndrome who underwent arthroscopic surgery were recruited. Two observers were asked to classify the type of spur from arthroscopic findings and Rockwood tilt views separately in random pattern. The prevalence of supraspinatus tendon tear was also recorded as no tear, partial-thickness tear, and full-thickness tear. Results: The keel spur (33.9%) was the most common finding followed by the heel spur (27.8%). The correlation was high especially for the heel, the keel, and the irregular spur (75.47%, 74.03%, and 72.73%, respectively.) These three types of spurs have a high prevalence of full thickness of supraspinatus tendon tear. Conclusion: The Rockwood tilt view can be used to evaluate the morphology of an acromion spur, especially the at-risk spur that correlates highly with the full-thickness supraspinatus tendon tear. The arthroscopic classification will also be a useful tool to improve communication between the surgeon and the guide for appropriate treatment in a rotator cuff tear patient when encountering the heel, keel, and irregular spur.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "3D scapular orientation on healthy and pathologic subjects using stereoradiographs during arm elevation.",
+      "url": "https://hal.science/hal-02472850v1",
+      "publisher": "Journal of Shoulder and Elbow Surgery Board of Trustees",
+      "year": "2015",
+      "doi": "10.1016/j.jse.2015.04.007",
+      "abstract": "Background : Alterations of the scapular kinematics in different pathologic conditions have been widely studied. However, results have shown considerable discrepancies concerning the direction and the amplitude of scapular movement. The lack of consistency in the literature probably has several explanations. The purpose of this study was to analyze scapular orientation with the arm at rest and with 90° lateral elevation in healthy and pathologic subjects by use of stereoradiographs. Materials and methods : All participants (n = 65) underwent a clinical examination and magnetic resonance imaging of the shoulder to assess rotator cuff status. Participants were separated into 3 groups: healthy, rotator cuff tear (RCT), and RCT and subacromial impingement syndrome (RCT+ SIS). A 3-dimensional model of the scapula was fitted to each low-dose stereoradiograph acquired with the arm at rest and 90° arm elevation. Results : Orientation of the scapula with the arm at rest was not significantly different between groups. During lateral elevation, scapular orientation was not significantly different between the healthy group and the RCT group. However, upward rotation was significantly reduced in the RCT + SIS group. Conclusion : Alterations of scapular kinematics in symptomatic subjects are multifactorial. We observed a link between clinically assessed subacromial impingement and scapular orientation during lateral elevation of the arm.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Biological augmentation of rotator cuff repair using bFGF-loaded electrospun poly(lactide-co-glycolide) fibrous membranes",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4027937/",
+      "publisher": "International journal of nanomedicine",
+      "year": "2014",
+      "doi": "10.2147/ijn.s59536",
+      "abstract": "Clinically, rotator cuff tear (RCT) is among the most common shoulder pathologies. Despite significant advances in surgical techniques, the re-tear rate after rotator cuff (RC) repair remains high. Insufficient healing capacity is likely the main factor for reconstruction failure. This study reports on a basic fibroblast growth factor (bFGF)-loaded electrospun poly(lactide-co-glycolide) (PLGA) fibrous membrane for repairing RCT. Implantable biodegradable bFGF-PLGA fibrous membranes were successfully fabricated using emulsion electrospinning technology and then characterized and evaluated with in vitro and in vivo cell proliferation assays and repairs of rat chronic RCTs. Emulsion electrospinning fabricated ultrafine fibers with a core-sheath structure which secured the bioactivity of bFGF in a sustained manner for 3 weeks. Histological observations showed that electrospun fibrous membranes have excellent biocompatibility and biodegradability. At 2, 4, and 8 weeks after in vivo RCT repair surgery, electrospun fibrous membranes significantly increased the area of glycosaminoglycan staining at the tendon-bone interface compared with the control group, and bFGF-PLGA significantly improved collagen organization, as measured by birefringence under polarized light at the healing enthesis compared with the control and PLGA groups. Biomechanical testing showed that the electrospun fibrous membrane groups had a greater ultimate load-to-failure and stiffness than the control group at 4 and 8 weeks. The bFGF-PLGA membranes had the highest ultimate load-to-failure, stiffness, and stress of the healing enthesis, and their superiority compared to PLGA alone was significant. These results demonstrated that electrospun fibrous membranes aid in cell attachment and proliferation, as well as accelerating tendon-bone remodeling, and bFGF-loaded PLGA fibrous membranes have a more pronounced effect on tendon-bone healing. Therefore, augmentation using bFGF-PLGA electrospun fibrous membranes is a promising treatment for RCT.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.16,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "UNSUSPECTED SONOGRAPHIC FINDINGS IN PATIENTS WITH POST-TRAUMATIC SHOULDER COMPLAINTS",
+      "url": "https://hal.science/hal-00576987v1",
+      "publisher": "Journal of Clinical Ultrasound",
+      "year": "2010",
+      "doi": "10.1002/jcu.20745",
+      "abstract": "PURPOSE. To prospectively assess the frequency of abnormal sonographic findings in patients with posttraumatic shoulder pain and/or disability in whom ultrasound (US) was not considered and to assess the effect of sonographic findings on working diagnosis and therapeutic strategy, in order to analyse the possible role of US in the diagnostic work-up of these patients. METHODS. A survey was performed under general practitioners and orthopaedic surgeons. They were requested to refer patients with persistent posttraumatic complaints for an US examination of the shoulder and to fill in a questionnaire concerning working diagnosis and therapy. In fifty patients examinations were performed by two radiologists separately. Findings were confirmed with additional radiographs and/or MRI and/or surgery. Shortly after US a survey was repeated. RESULTS. Sonography showed relevant pathology in 45 (90%) of 50 patients, a proximal humerus fracture in 25 (50%) patients, and a rotator cuff tear in 43 (86%) patients. Twenty-three (92%) fractures were accompanied by a rotator cuff tear, and 23 (54%) rotator cuff tears were accompanied by a fracture. Ten fractures were initially missed radiographically. Sonographic findings changed the working diagnosis and therapeutic strategy in 37 (74%) and 26 (52%) patients, respectively. CONCLUSION. In patients with posttraumatic shoulder complaints US showed a high rate (90%) of relevant pathology. This changed the initial working diagnosis in 74% of the patients and the therapeutic strategy in more than half of the patients. Active referral for sonographic examination may identify these abnormalities in an earlier phase and improve clinical outcome.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Os Acromiale-unusual Manifestation as Superior Spur and Bursitis-A Case Report",
+      "url": "https://hal.science/hal-05334995v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2019",
+      "doi": "",
+      "abstract": "An Os acromiale is a condition that results from the failure of fusion of the anterior acromial apophysis. It can be asymptomatic. It can also result in subacromial impingement and rotator cuff tear. In this case report of a 39 year-old lady we would like to present the management of the painful bursitis and spur formation on the superior surface of a meso-type of os acromiale. Conservative management in the form of rest, anti-inflammatory drugs and physiotherapy did not provide symptomatic relief. Patient then underwent surgical excision of the superior spur. Open reduction and internal fixation was not carried out. Patient had resolution of pain and no recurrence of symptoms or features of impingement at 6 months follow up. To the best of our knowledge there are limited reports in English literature about this rare subset of patients with symptomatic os acromiale with superior spur formation and with no features of impingement or cuff pathology.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.66,
+      "providers": [
+        "hal"
+      ]
+    }
+  ]
+}

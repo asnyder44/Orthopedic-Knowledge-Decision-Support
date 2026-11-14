@@ -1,0 +1,818 @@
+{
+  "term": "Spinal Fusion",
+  "collected": "2026-11-14",
+  "count": 45,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Risk factors affecting spinal fusion: A meta-analysis of 39 cohort studies",
+      "url": "https://doi.org/10.1371/journal.pone.0304473",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0304473",
+      "abstract": "Purpose: We performed a meta-analysis to identify risk factors affecting spinal fusion. Methods: We systematically searched PubMed, Embase, and the Cochrane Library from inception to January 6, 2023, for articles that report risk factors affecting spinal fusion. The pooled odds ratios (ORs) and 95% confidence intervals (CIs) were estimated using fixed-effects models for each factor for which the interstudy heterogeneity I2 was < 50%, while random-effects models were used when the interstudy heterogeneity I2 was ≥ 50%. Using sample size, Egger’s P value, and heterogeneity across studies as criteria, we categorized the quality of evidence from observational studies as high-quality (Class I), moderate-quality (Class II or III), or low-quality (Class IV). Furthermore, the trim-and-fill procedure and leave-one-out protocol were conducted to investigate potential sources of heterogeneity and verify result stability. Results: Of the 1,257 citations screened, 39 unique cohort studies comprising 7,145 patients were included in the data synthesis. High-quality (Class I) evidence showed that patients with a smoking habit (OR, 1.57; 95% CI, 1.11 to 2.21) and without the use of bone morphogenetic protein-2 (BMP-2) (OR, 4.42; 95% CI, 3.33 to 5.86) were at higher risk for fusion failure. Moderate-quality (Class II or III) evidence showed that fusion failure was significantly associated with vitamin D deficiency (OR, 2.46; 95% CI, 1.24 to 4.90), diabetes (OR, 3.42; 95% CI, 1.59 to 7.36), allograft (OR, 1.82; 95% CI, 1.11 to 2.96), conventional pedicle screw (CPS) fixation (OR, 4.77; 95% CI, 2.23 to 10.20) and posterolateral fusion (OR, 3.63; 95% CI, 1.25 to 10.49). Conclusions: Conspicuous risk factors affecting spinal fusion include three patient-related risk factors (smoking, vitamin D deficiency, and diabetes) and four surgery-related risk factors (without the use of BMP-2, allograft, CPS fixation, and posterolateral fusion). These findings may help clinicians strengthen awareness for early intervention in patients at high risk of developing fusion failure.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.06,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The effect of platelet-rich plasma on the fusion rate and clinical outcome of spinal fusion surgery: A systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0243204",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0243204",
+      "abstract": "Background: Platelet-rich plasma (PRP) is widely used in many orthopedic surgeries and spinal disease treatments; however, the effect of PRP on spinal fusion remains controversial. Questions/Purposes: To assess the fusion rate and clinical results of PRP compared with non-PRP administration in the treatment of spinal fusion with regard to decreasing pain and improving healing and function. Patients and methods: Studies comparing PRP to non-PRP treatment with respect to the fusion rate and clinical outcome in patients who underwent spinal fusion surgery were included. Result: Three randomized controlled trials (RCTs) and 7 prospective cohort studies were identified. The spinal fusion rate was not significantly different between the groups in all RCTs or cohort studies at the final follow-up. In comparison, PRP significantly reduced pain after surgery as evaluated in the RCT analysis and the complication rate did not differ significantly between the two groups. Conclusion: According to the available studies, PRP does not contribute to the union rate, relieve pain or increase the complication rate in spinal fusion surgery. As clinical heterogeneity exists in these studies, further large, well-designed RCTs that focus on the standard assessment of PRP are needed.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.9,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effects of teriparatide and bisphosphonate on spinal fusion procedure: A systematic review and network meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0237566",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0237566",
+      "abstract": "Background: Giving patients anti-osteoporotic agents peri-operatively is a well-accepted strategy to increase fusion rate and prevent complications. The purpose of this study was to investigate effectiveness of teriparatide and bisphosphonate on fusion surgery of thoracic and lumbar spine. Methods: We searched EMBASE and PubMed for randomized clinical trials (RCTs) and prospective comparative studies using teriparatide or bisphosphonate in peri-operative spinal fusion surgery. Our synthesized data of fusion rate, Oswestry disability index (ODI), and adverse event in contrast-based network meta-analysis. Pooled results were presented in risk ratio (RR) or mean difference (MD) with 95% confidence interval (CI). Results: Our search hit eight RCTs and three prospective studies with 676 patients receiving spinal surgery. Pooled result showed that teriparatide+Denosumab leads to significantly higher fusion rate than placebo (RR, 2.84; 95% CI: 1.22 to 6.60) and bisphosphonate (RR, 2.59; 95% CI: 1.13 to 5.96). We did not observe significant finding among placebo, teriparatide, and bisphosphonate in the two network models. Conclusion: This is the first network meta-analysis providing an overview of the use of teriparatide and bisphosphonate for spinal fusion surgery. Teriparatide treatments are worth to be consider for spinal fusion surgery.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.9,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Murine models of posterolateral spinal fusion: A systematic review",
+      "url": "https://inserm.hal.science/inserm-05028810v1",
+      "publisher": "Neurochirurgie",
+      "year": "2023",
+      "doi": "10.1016/j.neuchi.2023.101428",
+      "abstract": "Background: Rodent models are commonly used experimentally to assess treatment effectiveness in spinal fusion. Certain factors are associated with better fusion rates. The objectives of the present study were to report the protocols most frequently used, to evaluate factors known to positively influence fusion rate, and to identify new factors. Method: A systematic literature search of PubMed and Web of Science found 139 experimental studies of posterolateral lumbar spinal fusion in rodent models. Data for level and location of fusion, animal strain, sex, weight and age, graft, decortication, fusion assessment and fusion and mortality rates were collected and analyzed. Results: The standard murine model for spinal fusion was male Sprague Dawley rats of 295g weight and 13 weeks' age, using decortication, with L4-L5 as fusion level. The last two criteria were associated with significantly better fusion rates. On manual palpation, the overall mean fusion rate in rats was 58% and the autograft mean fusion rate was 61%. Most studies evaluated fusion as a binary on manual palpation, and only a few used CT and histology. Average mortality was 3.03% in rats and 1.56% in mice. Conclusions: These results suggest using a rat model, younger than 10 weeks and weighing more than 300 grams on the day of surgery, to optimize fusion rates, with decortication before grafting and fusing the L4-L5 level.",
+      "licence": "https://hal.science/licences/copyright/",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.02,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Impact of spinal fusion on severity health status in scoliotic adolescents with polyhandicap",
+      "url": "https://doi.org/10.1371/journal.pone.0300065",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0300065",
+      "abstract": "Background: Scoliosis constitutes a prevalent comorbidity in adolescents with polyhandicap and frequently leads to other severe impairments, impacting abilities and requiring complex caregiving strategies. Therefore, spinal fusion surgeries are commonly performed to alleviate pain and provide more comfort. However, spine stabilization has not previously been proven to improve the severity health status of adolescents with polyhandicap according to specific clinical scales. Objective: This study describes and compares the severity health status of adolescents with polyhandicap before and after they underwent spinal fusion. Methods: A monocentric retrospective observational study was conducted in the university hospital centre of Saint-Etienne, France. We included between 2009 to 2020, 30 scoliotic adolescents with polyhandicap who underwent spinal fusion performed with the same surgical technique and the same surgeon. The main outcome was the variation in the Polyhandicap Severity Scale (PSS) score after surgery. Secondary outcomes were variations in PSS subscores, quality of life scores, fronto-sagittal X-ray parameters, and measures of surgical complication rates and lengths of stay. Results: Among 30 adolescents, 27 PSS analyses were performed. We found a significant improvement between pre- and postoperative PSS scores, mainly for pain and respiratory, digestive, and skin disabilities. These improvements were accompanied by significant reductions in pelvic obliquity, in frontal and sagittal curves. The mean hospital length of stay was 45 days. During postoperative period, patients received a personalized postoperative rehabilitation procedure with spasticity and pain treatments, physiotherapy, and verticalization (wheelchair sitting and positioning devices such as contoured seat intended to increase postural stability). The mortality rate was estimated at 7%. At least 1 complication per patient occurred. Conclusions: We show that spinal fusion surgeries confer a significant improvement in the severity health status in scoliotic adolescents with polyhandicap.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Hospital-level variation in hospitalization costs for spinal fusion in the United States",
+      "url": "https://doi.org/10.1371/journal.pone.0298135",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0298135",
+      "abstract": "Background: With a growing emphasis on value of care, understanding factors associated with rising healthcare costs is increasingly important. In this national study, we evaluated the degree of center-level variation in the cost of spinal fusion. Methods: All adults undergoing elective spinal fusion were identified in the 2016 to 2020 National Inpatient Sample. Multilevel mixed-effect models were used to rank hospitals based on risk-adjusted costs. The interclass coefficient (ICC) was utilized to tabulate the amount of variation attributable to hospital-level characteristics. The association of high cost-hospital (HCH) status with in-hospital mortality, perioperative complications, and overall resource utilization was analyzed. Predictors of increased costs were secondarily explored. Results: An estimated 1,541,740 patients underwent spinal fusion, and HCH performed an average of 9.5% of annual cases. HCH were more likely to be small (36.8 vs 30.5%, p<0.001), rural (10.1 vs 8.8%, p<0.001), and located in the Western geographic region (49.9 vs 16.7%, p<0.001). The ICC demonstrated 32% of variation in cost was attributable to the hospital, independent of patient-level characteristics. Patients who received a spinal fusion at a HCH faced similar odds of mortality (0.74 [0.48–1.15], p = 0.18) and perioperative complications (1.04 [0.93–1.16], p = 0.52), but increased odds of non-home discharge (1.30 [1.17–1.45], p<0.001) and prolonged length of stay (β 0.34 [0.26–0.42] days, p = 0.18). Patient factors such as gender, race, and income quartile significantly impacted costs. Conclusion: The present analysis identified 32% of the observed variation to be attributable to hospital-level characteristics. HCH status was not associated with increased mortality or perioperative complications.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Clinical effectiveness and cost-effectiveness of bone morphogenetic proteins in the non-healing of fractures and spinal fusion: a systematic review",
+      "url": "https://europepmc.org/article/MED/17669279",
+      "publisher": "Health technology assessment (Winchester, England)",
+      "year": "2007",
+      "doi": "10.3310/hta11300",
+      "abstract": "Objectives To assess the clinical effectiveness and cost-effectiveness of bone morphogenetic protein (BMP) for the treatment of spinal fusions and the healing of fractures compared with the current standards of care. Data sources Electronic databases, related journals and references from identified studies were searched in January 2006, with an updated search only for randomised controlled trials (RCTs) in November 2006. Review methods A systematic review of available data was conducted. The data from selected studies were then analysed and graded according to quality and processed to give a value to the efficacy of BMP. Existing models were modified or updated to evaluate the cost-effectiveness of BMP for open tibial fractures and spinal fusion. Results All selected trials were found to have several methodological weaknesses. Insufficient sample size in most trials, meant that patient baseline comparability between trial arms was not achieved and the statistical power to detect a moderate effect was low. Data did indicate that BMP increased fracture union among patients with acute tibial fractures and found that high-dose BMP is more effective than a lower dose for open tibial fractures. The healing rate in the BMP group was not found to be statistically significantly different from that in the autogenous bone grafting group for patients with tibial non-union fractures, but BMP reduced the number of secondary interventions in patients with acute tibial fractures compared with controls. There was very limited evidence that BMP in scaphoid non-union was safe and may help to accelerate non-union healing when used in conjunction with either autograft or allograft. There was evidence that BMP-2 is more effective than autogenous bone graft for radiographic fusion in patients with single-level degenerative disc disease. No significant difference was found when BMP-7 was compared with autograft for degenerative spondylolisthesis with spinal stenosis and spondylolysis. The use of BMP was associated with a reduced operating time, improvement in clinical outcomes and a shorter hospital stay as compared with autograft. The proportion of secondary interventions tended to be lower in the BMP group than the control, but not of statistical significance. Trial data on time to return to work postoperatively were sometimes difficult to interpret because of unclear or inappropriate data analysis methods. The incremental cost of BMP for open tibial fractures was estimated to be about 3.5 million pounds per year in the UK. The estimated incremental cost per quality-adjusted life-year (QALY) gained is 32,603 pounds. The probability that cost per QALY gained is less than 30,000 pounds for open tibial fracture is 35.5%. The cost-effectiveness ratio is sensitive to the price of BMP and the severity of open tibial fractures. The use of recombinant human bone morphogenetic protein for spinal fusion surgery may increase the cost to the UK NHS by about 1.3 million pounds per year. The estimated incremental cost per QALY gained was about 120,390 pounds. The probability that BMP is cost-effective (i.e. cost/QALY less than 30,000 pounds) was only 6.4%. From the societal perspective, the estimated total cost of using BMP for spinal fusion is about 4.2 million pounds per year in the UK. Conclusions Additional BMP treatment plus conventional intervention is more effective than conventional intervention alone for union of acute open tibial fractures. The cost-effectiveness of additional BMP may be improved if the price of BMP is reduced or if BMP is mainly used in severe cases. BMP may eliminate the need for autogenous bone grafting so that costs and complications related to harvesting autograft can be avoided. In non-unions, there is no evidence that BMP is more or less effective than bone graft; however, it is currently used when bone graft and other treatments have failed. The use of BMP-2 in spinal fusion surgery seems to be more effective than autogenous bone graft in terms of radiographic spinal fusion among patients with single-level degenerative disc disease. There is a lack of evidence about the effectiveness of BMP for other spinal disorders including spondylolisthesis and spinal stenosis. There was limited evidence showing that BMP is associated with greater improvement in clinical outcomes. According to the results of economic evaluation, the use of BMP for spinal fusion is unlikely to be cost-effective. The following areas would benefit from further research: clinical trials of BMP that include formal economic evaluation, a multicentre RCT of fracture non-union and of interbody and/or posterolateral spinal fusion, trials of non-tibial acute long bone fractures, and RCTs comparing BMP-2, BMP-7 and controls.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.5,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Rate of complications in scoliosis surgery - a systematic review of the Pub Med literature",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2525632/",
+      "publisher": "Scoliosis",
+      "year": "2008",
+      "doi": "10.1186/1748-7161-3-9",
+      "abstract": "Background Spinal fusion surgery is currently recommended when curve magnitude exceeds 40-45 degrees. Early attempts at spinal fusion surgery which were aimed to leave the patients with a mild residual deformity, failed to meet such expectations. These aims have since been revised to the more modest goals of preventing progression, restoring 'acceptability' of the clinical deformity and reducing curvature.In view of the fact that there is no evidence that health related signs and symptoms of scoliosis can be altered by spinal fusion in the long-term, a clear medical indication for this treatment cannot be derived. Knowledge concerning the rate of complications of scoliosis surgery may enable us to establish a cost/benefit relation of this intervention and to improve the standard of the information and advice given to patients. It is also hoped that this study will help to answer questions in relation to the limiting choice between the risks of surgery and the \"wait and see - observation only until surgery might be recommended\", strategy widely used. The purpose of this review is to present the actual data available on the rate of complications in scoliosis surgery. Materials and methods Search strategy for identification of studies; Pub Med and the SOSORT scoliosis library, limited to English language and bibliographies of all reviewed articles. The search strategy included the terms; 'scoliosis'; 'rate of complications'; 'spine surgery'; 'scoliosis surgery'; 'spondylodesis'; 'spinal instrumentation' and 'spine fusion'. Results The electronic search carried out on the 1st February 2008 with the key words \"scoliosis\", \"surgery\", \"complications\" revealed 2590 titles, which not necessarily attributed to our quest for the term \"rate of complications\". 287 titles were found when the term \"rate of complications\" was used as a key word. Rates of complication varied between 0 and 89% depending on the aetiology of the entity investigated. Long-term rates of complications have not yet been reported upon. Conclusion Scoliosis surgery has a varying but high rate of complications. A medical indication for this treatment cannot be established in view of the lack of evidence. The rate of complications may even be higher than reported. Long-term risks of scoliosis surgery have not yet been reported upon in research. Mandatory reporting for all spinal implants in a standardized way using a spreadsheet list of all recognised complications to reveal a 2-year, 5-year, 10-year and 20-year rate of complications should be established. Trials with untreated control groups in the field of scoliosis raise ethical issues, as the control group could be exposed to the risks of undergoing such surgery.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.5,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Drug eruptions in posterior spinal fusion for adolescent idiopathic scoliosis",
+      "url": "https://zenodo.org/records/5875899",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.5281/zenodo.5875899",
+      "abstract": "Background : An important issue in adolescent idiopathic scoliosis (AIS) correction surgery is postoperative pain management due to the procedure’s relatively high invasiveness. Although celecoxib is widely used as an analgesic for post-surgical pain, there have been several reports of drug eruptions. Such side effects may similarly occur in AIS patients following posterior spinal fusion (PSF). However, no studies have specifically addressed perioperative rash from analgesics in scoliosis surgery. We investigated the incidence of drug eruptions in PSF for AIS and their patient-related risk factors. Methods: We retrospectively reviewed the medical records of 134 consecutive patients who underwent PSF for AIS. Sixty-six patients had received celecoxib and 68 had taken NSAIDs, acetaminophen, or other painkillers after surgery. We investigated the incidence of drug eruptions between patients who took celecoxib (celecoxib group) or other painkillers (others group) and searched for factors associated with rash after surgery by means of a logistic regression model. Results: The overall incidence of drug eruptions after PSF for AIS was 11.9%. The incidence of eruptions in the celecoxib group (18.2%) was significantly higher than in the others group (5.9%) (p=0.034). The patient-related factors of celecoxib intake and allergic history had significant associations with drug eruptions in multivariate analysis, with odds ratios of 3.88 and 3.53, respectively. Conclusions: In PSF surgery for AIS, patients who receive celecoxib and/or have a history of allergies are significantly more likely to exhibit a rash and should be observed closely for drug eruptions.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Small molecule-based treatment approaches for intervertebral disc degeneration: Current options and future directions",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7681102/",
+      "publisher": "Theranostics",
+      "year": "2021",
+      "doi": "10.7150/thno.48987",
+      "abstract": "Low back pain (LBP) is a major reason for disability, and symptomatic intervertebral disc (IVD) degeneration (IDD) contributes to roughly 40% of all LBP cases. Current treatment modalities for IDD include conservative and surgical strategies. Unfortunately, there is a significant number of patients in which conventional therapies fail with the result that these patients remain suffering from chronic pain and disability. Furthermore, none of the current therapies successfully address the underlying biological problem - the symptomatic degenerated disc. Both spinal fusion as well as total disc replacement devices reduce spinal motion and are associated with adjacent segment disease. Thus, there is an unmet need for novel and stage-adjusted therapies to combat IDD. Several new treatment options aiming to regenerate the IVD are currently under investigation. The most common approaches include tissue engineering, growth factor therapy, gene therapy, and cell-based treatments according to the stage of degeneration. Recently, the regenerative activity of small molecules (low molecular weight organic compounds with less than 900 daltons) on IDD was demonstrated. However, small molecule-based therapy in IDD is still in its infancy due to limited knowledge about the mechanisms that control different cell signaling pathways of IVD homeostasis. Small molecules can act as anti-inflammatory, anti-apoptotic, anti-oxidative, and anabolic agents, which can prevent further degeneration of disc cells and enhance their regeneration. This review pursues to give a comprehensive overview of small molecules, focusing on low molecular weight organic compounds, and their potential utilization in patients with IDD based on recent in vitro , in vivo, and pre-clinical studies.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Hydrogels in the clinic",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7237140/",
+      "publisher": "Bioengineering & translational medicine",
+      "year": "2020",
+      "doi": "10.1002/btm2.10158",
+      "abstract": "Injectable hydrogels are one of the most widely investigated and versatile technologies for drug delivery and tissue engineering applications. Hydrogels' versatility arises from their tunable structure, which has been enabled by considerable advances in fields such as materials engineering, polymer science, and chemistry. Advances in these fields continue to lead to invention of new polymers, new approaches to crosslink polymers, new strategies to fabricate hydrogels, and new applications arising from hydrogels for improving healthcare. Various hydrogel technologies have received regulatory approval for healthcare applications ranging from cancer treatment to aesthetic corrections to spinal fusion. Beyond these applications, hydrogels are being studied in clinical settings for tissue regeneration, incontinence, and other applications. Here, we analyze the current clinical landscape of injectable hydrogel technologies, including hydrogels that have been clinically approved or are currently being investigated in clinical settings. We summarize our analysis to highlight key clinical areas that hydrogels have found sustained success in and further discuss challenges that may limit their future clinical translation.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Bone Morphogenetic Protein-2 in Development and Bone Homeostasis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557435/",
+      "publisher": "Journal of developmental biology",
+      "year": "2020",
+      "doi": "10.3390/jdb8030019",
+      "abstract": "Bone morphogenetic proteins (BMPs) are multi-functional growth factors belonging to the Transforming Growth Factor-Beta (TGF-β) superfamily. These proteins are essential to many developmental processes, including cardiogenesis, neurogenesis, and osteogenesis. Specifically, within the BMP family, Bone Morphogenetic Protein-2 (BMP-2) was the first BMP to be characterized and has been well-studied. BMP-2 has important roles during embryonic development, as well as bone remodeling and homeostasis in adulthood. Some of its specific functions include digit formation and activating osteogenic genes, such as Runt-Related Transcription Factor 2 ( RUNX2 ). Because of its diverse functions and osteogenic potential, the Food and Drug Administration (FDA) approved usage of recombinant human BMP-2 (rhBMP-2) during spinal fusion surgery, tibial shaft repair, and maxillary sinus reconstructive surgery. However, shortly after initial injections of rhBMP-2, several adverse complications were reported, and alternative therapeutics have been developed to limit these side-effects. As the clinical application of BMP-2 is largely implicated in bone, we focus primarily on its role in bone. However, we also describe briefly the role of BMP-2 in development. We then focus on the structure of BMP-2, its activation and regulation signaling pathways, BMP-2 clinical applications, and limitations of using BMP-2 as a therapeutic. Further, this review explores other potential treatments that may be useful in treating bone disorders.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Role of oxidative metabolism in osseointegration during spinal fusion",
+      "url": "https://doi.org/10.1371/journal.pone.0241998",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0241998",
+      "abstract": "Spinal fusion is a commonly performed orthopedic surgery. Autologous bone graft obtained from the iliac crest is frequently employed to perform spinal fusion. Osteogenic bone marrow stromal (a.k.a. mesenchymal stem) cells (BMSCs) are believed to be responsible for new bone formation and development of the bridging bone during spinal fusion, as these cells are located in both the graft and at the site of fusion. Our previous work revealed the importance of mitochondrial oxidative metabolism in osteogenic differentiation of BMSCs. Our objective here was to determine the impact of BMSC oxidative metabolism on osseointegration of the graft during spinal fusion. The first part of the study was focused on correlating oxidative metabolism in bone graft BMSCs to radiographic outcomes of spinal fusion in human patients. The second part of the study was focused on mechanistically proving the role of BMSC oxidative metabolism in osseointegration during spinal fusion using a genetic mouse model. Patients’ iliac crest-derived graft BMSCs were identified by surface markers. Mitochondrial oxidative function was detected in BMSCs with the potentiometric probe, CMXRos. Spinal fusion radiographic outcomes, determined by the Lenke grade, were correlated to CMXRos signal in BMSCs. A genetic model of high oxidative metabolism, cyclophilin D knockout (CypD KO), was used to perform spinal fusion in mice. Graft osseointegration in mice was assessed with micro-computed tomography. Our study revealed that higher CMXRos signal in patients’ BMSCs correlated with a higher Lenke grade. Mice with higher oxidative metabolism (CypD KO) had greater mineralization of the spinal fusion bridge, as compared to the control mice. We therefore conclude that higher oxidative metabolism in BMSCs correlates with better spinal fusion outcomes in both human patients and in a mouse model. Altogether, our study suggests that promoting oxidative metabolism in osteogenic cells could improve spinal fusion outcomes for patients.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Long-term pulmonary function after posterior spinal fusion in main thoracic adolescent idiopathic scoliosis",
+      "url": "https://doi.org/10.1371/journal.pone.0235123",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0235123",
+      "abstract": "Background: Adolescent idiopathic scoliosis (AIS) patients typically undergo surgical treatment as teenagers, follow-ups of >5 years are necessary to evaluate effects on peak pulmonary reserves. However, limited data is available regarding the long-term (>10 years) effects of surgical intervention on pulmonary function (PF) in patients with thoracic AIS. Objective: To provide long-term (>10 years) information on the PF after posterior spinal fusion for treating main thoracic AIS. We especially investigated whether surgical correction for AIS led to impairment of the PF. Methods: A total of 35 patients with main thoracic AIS treated with posterior spinal fusion were included. Radiographs and PF tests, which included measurements of absolute and percent-predicted values of forced vital capacity (FVC) and forced expiratory volume in 1 second (FEV1), were evaluated. Results: Mean age at surgery was 14.9 years (12–19 years). Mean follow-up period was 15.1 years (10–24 years). Although the final postoperative FVC and FEV1 absolute values were higher than the preoperative values, the differences were not statistically significant (p = 0.22 and p = 0.08, respectively). Percent-predicted FVC and FEV1 values between preoperative and final postoperative measurements were not statistically different (p = 0.63 and p = 0.29, respectively). However, for the patients who presented with pulmonary impairment preoperatively, both the FVC and FEV1 significantly increased at the final follow-up (p = 0.01 and p = 0.01, respectively). Conclusions: Long-term results of AIS patients who underwent posterior spinal fusion in main thoracic curves demonstrated absolute and percent-predicted PF test values similar to preoperative measurements; thus, indicating that posterior spinal fusion did not decrease PF 15 years after the initial surgery. Instead, patients with severe preoperative pulmonary impairment might show some degree of improvement after surgery.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Lung microstructure in adolescent idiopathic scoliosis before and after posterior spinal fusion",
+      "url": "https://doi.org/10.1371/journal.pone.0240265",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0240265",
+      "abstract": "Adolescent idiopathic scoliosis (AIS) is associated with decreased respiratory quality of life and impaired diaphragm function. Recent hyperpolarized helium (HHe) MRI studies show alveolarization continues throughout adolescence, and mechanical forces are known to impact alveolarization. We therefore hypothesized that patients with AIS would have alterations in alveolar size, alveolar number, or alveolar septal dimensions compared to adolescents without AIS, and that posterior spinal fusion (PSF) might reverse these differences. We conducted a prospective observational trial using HHe MRI to test for changes in alveolar microstructure in control and AIS subjects at baseline and one year. After obtaining written informed consent from subjects’ legal guardians and assent from the subjects, we performed HHe and proton MRI in 14 AIS and 16 control subjects aged 8–21 years. The mean age of control subjects (12.9 years) was significantly less than AIS (14.9 years, p = 0.003). At baseline, there were no significant differences in alveolar size, number, or alveolar duct morphometry between AIS and control subjects or between the concave (compressed) and convex (expanded) lungs of AIS subjects. At one year after PSF AIS subjects had an increase in alveolar density in the formerly convex lung (p = 0.05), likely reflecting a change in thoracic anatomy, but there were no other significant changes in lung microstructure. Modeling of alveolar size over time demonstrated similar rates of alveolar growth in control and AIS subjects in both right and left lungs pre- and post-PSF. Although this study suffered from poor age-matching, we found no evidence that AIS or PSF impacts lung microstructure. Trial registration: Clinical trial registration number NCT03539770.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison of patient-specific computational models vs. clinical follow-up, for adjacent segment disc degeneration and bone remodelling after spinal fusion",
+      "url": "https://doi.org/10.1371/journal.pone.0200899",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0200899",
+      "abstract": "Spinal fusion is a standard surgical treatment for patients suffering from low back pain attributed to disc degeneration. However, results are somewhat variable and unpredictable. With fusion the kinematic behaviour of the spine is altered. Fusion and/or stabilizing implants carrying considerable load and prevent rotation of the fused segments. Associated with these changes, a risk for accelerated disc degeneration at the adjacent levels to fusion has been demonstrated. However, there is yet no method to predict the effect of fusion surgery on the adjacent tissue levels, i.e. bone and disc. The aim of this study was to develop a coupled and patient-specific mechanoregulated model to predict disc generation and changes in bone density after spinal fusion and to validate the results relative to patient follow-up data. To do so, a multiscale disc mechanoregulation adaptation framework was developed and coupled with a previously developed bone remodelling algorithm. This made it possible to determine extra cellular matrix changes in the intervertebral disc and bone density changes simultaneously based on changes in loading due to fusion surgery. It was shown that for 10 cases the predicted change in bone density and degeneration grade conforms reasonable well to clinical follow-up data. This approach helps us to understand the effect of surgical intervention on the adjacent tissue remodelling. Thereby, providing the first insight for a spine surgeon as to which patient could potentially be treated successfully by spinal fusion and in which patient has a high risk for adjacent tissue changes.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "hal",
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Infection Related Never Events in Pediatric Patients Undergoing Spinal Fusion Procedures in United States: Prevalence and Predictors",
+      "url": "https://doi.org/10.1371/journal.pone.0077540",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0077540",
+      "abstract": "Objective: To examine the prevalence and predictors of infection related never events (NE) associated with spinal fusion procedures (SFP) in children (age < = 18 years) in the United States. Methods: We performed a retrospective analysis of the Nationwide Inpatient Sample for the years 2004 to 2008. All pediatric hospitalizations that underwent SFP were selected for analysis. The main outcomes measures include occurrence of certain NE’s. The association between the occurrence of a NE and factors (patient & hospital related) were examined using multivariable logistic regression analysis. Results: Of 56,465 hospitalizations, 61.7% occurred among females. The average age was 13.7 y and two-thirds were whites. The major insurance payer was private insurance (67.4%). About 82% of all hospitalizations occurred on an elective basis. Teaching hospitals accounted for a majority of hospitalizations (87.9%). Two-thirds were posterior fusion techniques, 52.3% had underlying musculoskeletal deformities, and the most frequently present co-morbid conditions (CMC) included paralysis (10.9%), chronic pulmonary disease (9.7%), and fluid/electrolyte disorders (7.6%). Overall rate of occurrence of a NE was 4.8%. Post-operative pneumonia was the most frequently occurring NE (2.9%). Female gender (OR = 0.78) and elective admissions (OR = 0.66) were associated with lower risk of NE occurrence. Medicaid coverage (OR = 1.46), primary diagnosis of other acquired deformities (OR = 1.82), spinal cord injury (OR = 6.94), other nervous system disorders (OR = 2.84) were associated with higher risk of NE occurrence. Among CMC, those with chronic blood loss anemia (OR = 2.57), coagulopathy (OR = 1.97), depression (OR = 2), drug abuse (OR = 3.71), fluid/electrolyte disorders (OR = 2.62), neurological disorders (OR = 1.72), paralysis (OR = 1.75), renal failure (OR = 5.45), and weight loss (OR = 4.61) were risk factors for higher odds of a NE occurrence. Hospital teaching status, region, hospital size, and patient race did not influence the occurrence of NE. Conclusion: The never events examined in the current study occurred in 4.8% of children hospitalized with SFP. Certain predictors of NE are identified in this study.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.12,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Association of Preoperative Cognitive Impairment with Poor Outcomes following Transforaminal Lumbar Spinal Fusion Surgery",
+      "url": "https://journals.lww.com/10.4103/fjmd.FJMD-D-24-00049",
+      "publisher": "Formosan Journal of Musculoskeletal Disorders",
+      "year": "2025",
+      "doi": "10.4103/fjmd.FJMD-D-24-00049",
+      "abstract": "Background: Preoperative cognitive function (PCF) is gaining attention as a predictor of surgical outcomes due to its association with muscle function and recovery. Its role in postoperative recovery following transforaminal lumbar interbody fusion (TLIF), however, remains unclear. Objectives: This study aimed to evaluate the impact of PCF on functional and quality-of-life outcomes after TLIF surgery. Materials and Methods: A prospective study of 89 patients undergoing TLIF assessed PCF preoperatively using the Short Portable Mental Status Questionnaire. Outcomes, including Japanese Orthopaedic Association (JOA) and EuroQol 5-Dimensions 3-Level (EQ-5D-3L) scores, were measured at baseline, 3, 6, and 12 months postsurgery. Generalized estimating equations analyzed the associations between PCF and recovery. Results: JOA and EQ-5D-3L scores improved significantly at all postoperative time points, reflecting enhanced functional and quality-of-life outcomes after TLIF. PCF showed a weak-to-moderate negative correlation with JOA and EQ-5D-3L scores across all time points. Greater PCF impairment was associated with lower postoperative JOA (β = −1.432, P = 0.036) and EQ-5D-3L (β = −0.065, P = 0.016) scores. Conclusions: PCF significantly affects postoperative outcomes following TLIF, particularly in early recovery. Assessing and addressing PCF preoperatively could enhance recovery trajectories.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Comparative Study of Posterior Lumbar Interbody Fusion and Transforaminal Lumbar Interbody Fusion Treatment in Adult Degenerative Spondylolisthesis",
+      "url": "https://zenodo.org/records/11078936",
+      "publisher": "International Journal of Toxicological and Pharmacological Research",
+      "year": "2023",
+      "doi": "10.5281/zenodo.11078936",
+      "abstract": "Background: In order to treat adult degenerative spondylolisthesis, this study will compare the therapeutic outcomes of transforaminal lumbar interbody fusion (TLIF) and posterior lumbar interbody fusion (PLIF) with pedicle screw fixation. Two frequent surgical methods for degenerative spondylosis and disc degeneration are posterior lumbar interbody fusion (PLIF) and transforaminal lumbar interbody fusion (TLIF). For the treatment of lumbar spondylolisthesis, a number of surgical methods have been suggested; nevertheless, there is still debate over the best surgical method. In each of these procedures, the indications and contraindications for TLIF and PLIF are identical. The benefits of PLIF include a 360-degree fusion with only one incision, superior anatomical structure visualization via the posterior approach, and neural decompression with preservation of posterior support structures. The drawbacks include a higher risk of nerve root and dural injury. Aim: This study is to compare the therapeutic effect of posterior lumbar interbody fusion (PLIF) and transforaminal lumbar interbody fusion (TLIF) with pedicle screw fixation on treatment in adult degenerative spondylolisthesis. Material and Method: The present study was a retrospective study. All the patients presenting to the OPD department of Orthopedics with a history of recurrent shoulder dislocation were included as the study population. A retrospective study on patients with L5–S1 or L4–L5 adult degenerative spondylolisthesis (grades I–II) had PLIF or TILF. 60 patients initially fulfilled the study criteria, and 10 patients were lost to follow-up. Thirty-five of the 50 patients that were left for analysis received PLIF with two cages. The institute’s Ethical Committee gave the study its blessing. Written informed consent was obtained from the participants before the selected subjects were visited and the questionnaire was delivered. Based on each patient’s unique clinical demands, the surgeon’s preferences, and the patients’ requests in accordance with informed consent and an explanation of the various surgical methods, a customized lumbar fusion approach was chosen. Results: T There was no discernible difference in the rate of spondylolisthesis and decrease between the first postoperative follow-up and the last postoperative follow-up. The two groups exhibited comparable rates of spondylolisthesis, reduction, and loss of reduction. There were no changes between the two groups, and the disk height and intervertebral foramen height were both better than the preoperational. In both groups, there was a comparable reduction of intervertebral foramen and intervertebral space. Conclusion: In papillary cancer and chronic thyroiditis, anti-TPO is markedly elevated. When treating adult degenerative spondylolisthesis, the Bethesda Interbody fusion using either a PLIF or a TLIF approach yields good results. Just as safe and effective as the PLIF approach, but simpler, is the TLIF operation. The results of this study indicate that the TLIF technique is a valuable substitute for the more conventional PLIF procedure.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "INVESTIGATION OF THE EFFECT OF SPINAL STABILIZATION AND FUSION ON INTERVERTEBRAL DISC STRUCTURES USING DENSITY",
+      "url": "https://zenodo.org/records/7195789",
+      "publisher": "Chronicles of Precision Medical Researchers",
+      "year": "2022",
+      "doi": "10.5281/zenodo.7195789",
+      "abstract": "Introduction: The effects of stabilization and fusion on the intervertebral discs in the fusion region of the spine and adjacent segments have been rarely studied in the literature. In the literature, few animal experiments and biomechanical studies have shown that the disc structure undergoes some metabolic changes and degeneration develops after posterior fusion. The response of cells in the intervertebral discs to inmobilization or overmobilization was thought to occur mostly due to the effect of mechanical forces on disc nutrition. The aim of our study; To determine the density (IVDD) changes in the intervertebral discs in the early and late postoperative period in patients who underwent posterior spinal fusion and to contribute to the few studies in the literature. Material and Method: The records of patients who were diagnosed with lumbar spondylosis and narrow canal in our clinic between 2015-2021 were reviewed retrospectively. Postoperative early (day 1) and postoperative late (4-6 months) lumbar computed tomography (CT) scans of patients who underwent L2-3-4-5 transpedicular screw and L2-3-4 lumbar laminectomy were examined. Density measurements were made in the fusion region and adjacent segment. The results were evaluated statistically. Results: The difference between early and late IVDD values performed at the same disc level in all disc levels was statistically significant (p<0.001). In repeated measurements, postoperative early postoperative IVDD values of disc levels were statistically insignificant (p>0.05), while late-term IVDD values were significant (p<0.001). Conclusion: In patients who underwent rigid fusion of the lumbar with the posterior instrumentation technique, significant density differences develop in the disc segments in the fusion region and less frequently in the adjacent disc segments in the fusion region within a period of 4-6 months. This may support that the rigid fusion technique causes a degenerative process in disc structures.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Allografts and Spinal Fusion",
+      "url": "https://doi.org/10.14444/8056",
+      "publisher": "International Journal of Spine Surgery",
+      "year": "2021",
+      "doi": "10.14444/8056",
+      "abstract": "Back pain is a common chief complaint within the United States and is caused by a multitude of etiologies. There are many different treatment modalities for back pain, with a frequent option being spinal fusion procedures. The success of spinal fusion greatly depends on instrumentation, construct design, and bone grafts used in surgery. Bone allografts are important for both structural integrity and providing a scaffold for bone fusion to occur.Searches were performed using terms \"allografts\" and \"bone\" as well as product names in peer reviewed literature Pubmed, Google Scholar, FDA-510k approvals, and clinicaltrials.gov.This study is a review of allografts and focuses on currently available products and their success in both animal and clinical studies.Bone grafts used in surgery are generally categorized into 3 main types: autogenous (from patient's own body), allograft (from cadaveric or living donor), and synthetic. This paper focuses on allografts and provides an overview on the different subtypes with an emphasis on recent product development and uses in spinal fusion surgery.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Analysis of in Situ Posterior Spinal Fusion with Pedicle Screws and Rods in Grade I and Grade Ii Isthmic",
+      "url": "https://hal.science/hal-05284961v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Spondylolysis has never been found in a newborn. Repetitive cyclic loading ultimately results in a stress fracture. Impingement between the inferior articular process of the cephalad verbetra and the superior articular process of the caudal vertebra creates pending moment that must be resisted by the pars. The hard cortical bone of the pars predisposes it to fatigue fracture, as well as nonunion, decreasing the likelihood of spontaneous healing. If healing occurs, the pars often heal in an elongated position. Either non-union or healing with elongation permits vertebral subluxation. This fundamental change in bony anatomy exposes the disc to increased shear load, even though the axial load remains unchanged. When the stiffness of the cortical bone is reduced by an underlying condition (congenital dysplasia), smaller amounts of tensile forces are required to produce a fatigue fracture. Another possible mechanism is an extension torque which is developed by the erector spinae acting through its attachment to the spinous process, resulting in a stress concentration at the pars. The aim of the study is to analyze the post-operative outcomes in, in-situ posterior spinal fusion with pedicle screws and rods in Grade I and Grade II isthmic and degenerative spondylolisthesis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Outcomes and Quality of Life Improvement After Multilevel Spinal Fusion in Elderly Patients",
+      "url": "https://doi.org/10.1177/2192568219849393",
+      "publisher": "Global Spine Journal",
+      "year": "2020",
+      "doi": "10.1177/2192568219849393",
+      "abstract": "Study Design: Retrospective case series. Objectives: Both the rate and complexity of spine surgeries in elderly patients has increased. This study reports the outcomes of multilevel spine fusion in elderly patients and provides evidence on the appropriateness of complex surgery in elderly patients. Methods: We identified 101 patients older than70 years who had ≥5 levels of fusion. Demographic, medical, and surgical data, and change between preoperative and >500 days postoperative health survey scores were collected. Health surveys were visual analogue scale (VAS), EuroQoL 5 Dimensions (EQ-5D), Oswestry Disability Index (ODI), Scoliosis Research Society questionnaire (SRS-30), and Short Form health survey (SF-12) (physical composite score [PCS] and mental composite score [MCS]). Minimal clinically important differences (MCIDs) were defined for each survey. Results: Complications included dural tears (19%), intensive care unit admission (48%), revision surgery within 2 to 5 years (24%), and death within 2 to 5 years (16%). The percentage of patients who reported an improvement in health-related quality of life (HRQOL) of at least an MCID was: VAS Back 69%; EQ-5D 41%; ODI 58%; SRS-30 45%; SF-12 PCS 44%; and SF-12 MCS 48%. Improvement after a primary surgery, as compared with a revision, was on average 13 points higher in ODI ( P = .007). Patients who developed a surgical complication averaged an improvement 11 points lower on ODI ( P = .042). Patients were more likely to find improvement in their health if they had a lower American Society of Anesthesiologists or Charlson Comorbidity Index score or a higher metabolic equivalent score. Conclusions: In multilevel surgery in patients older than 70 years, complications are common, and on average 77% of patients attain some improvement, with 51% reaching an MCID. Physiological status is a stronger predictor of outcomes than chronological age.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Awake spinal fusion",
+      "url": "https://doi.org/10.1016/j.jcot.2020.06.003",
+      "publisher": "Elsevier BV",
+      "year": "2020",
+      "doi": "10.1016/j.jcot.2020.06.003",
+      "abstract": "'Awake spinal fusion' is a novel approach to spine surgery that combines modern anaesthetic and surgical technique resulting in improved patient satisfaction and overall outcomes. Along with techniques of regional anaesthesia, minimally invasive or endoscopic surgical techniques are used to minimize surgical dissection and blood loss. Although, it is a relatively new concept with limited supporting evidence till date, it may prove to be highly effective in reducing post-operative hospital stays, in-hospital complications and cost of surgery while at the same time expediting recovery and rehabilitation. The current review focuses on techniques, advantages, limitations and the available evidence on awake spinal fusion.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Design Evaluation and Development of Lumbar Cage",
+      "url": "https://zenodo.org/records/3855051",
+      "publisher": "International Journal of Trend in Scientific Research and Development",
+      "year": "2020",
+      "doi": "10.5281/zenodo.3855051",
+      "abstract": "Lumbar spinal fusion is advance method of surgery to permanently join or fuse two or more vertebrae in the human spine in order to eliminate the relative motion between them. It is currently considered as the most successful surgery in the patients with spinal deformity and degenerative spondylolisthesis. Its success critically depends on the geometric design of the interbody cages and the material properties of the material used. The main objective of this work is to design analyse and develop a 3D model of the intervertebrae disc for human lumbar spine based on anatomical reverse engineering techniques ARE techniques such as magnetic resonance imaging MRI scan. For this purpose, the sizes of L4 L5 which are the largest vertebrae of the human spine, were observed and modeled accordingly by using CREO with standard dimensions. The prototype was made with PLA plastic using an FDM 3D printer. The analytical tests were carried on ANSYS by applying various complex motions on the intervertebrae disc surface and the stress distributions were compared for the optimization of lumbar cage design. The compression force was applied on the prototype and observed till failure. Results obtained were compared for static position of the lumbar cage, of both analytical and physical outcomes. T. Venkataramana | E. Srinath Reddy | E. Pavan Kumar | B. Chenna Keshavulu \"Design Evaluation and Development of Lumbar Cage\" Published in International Journal of Trend in Scientific Research and Development (ijtsrd), ISSN: 2456-6470, Volume-4 | Issue-2 , February 2020, URL: https://www.ijtsrd.com/papers/ijtsrd30136.pdf",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Robotic-Assisted Spine Surgery: History, Efficacy, Cost, And Future Trends",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6844237/",
+      "publisher": "Robotic surgery (Auckland)",
+      "year": "2019",
+      "doi": "10.2147/rsrr.s190720",
+      "abstract": "Robot-assisted spine surgery has recently emerged as a viable tool to enable less invasive and higher precision surgery. The first-ever spine robot, the SpineAssist (Mazor Robotics Ltd., Caesarea, Israel), gained FDA approval in 2004. With its ability to provide real-time intraoperative navigation and rigid stereotaxy, robotic-assisted surgery has the potential to increase accuracy while decreasing radiation exposure, complication rates, operative time, and recovery time. Currently, robotic assistance is mainly restricted to spinal fusion and instrumentation procedures, but recent studies have demonstrated its use in increasingly complex procedures such as spinal tumor resections and ablations, vertebroplasties, and deformity correction. However, robots do require high initial costs and training, and thus, require justification for their incorporation into common practice. In this review, we discuss the history of spinal robots along as well as currently available systems. We then examine the literature to evaluate accuracy, operative time, complications, radiation exposure, and costs - comparing robotic-assisted to traditional fluoroscopy-assisted freehand approaches. Finally, we consider future applications for robots in spine surgery.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Comparison of the Effects between Acetaminophen and Flurbiprofen after Lumbar Spinal Fusion Surgery",
+      "url": "https://hal.science/hal-05354810v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2019",
+      "doi": "",
+      "abstract": "Aims: Introduction: Spinal fusion surgery is often associated with severe postoperative pain. This study aimed to determine whether intravenous acetaminophen produces equivalent analgesic effects to flurbiprofen under fentanyl patient-controlled analgesia (PCA) after one-level lumbar spinal fusion surgery. Study Design: Rondomized controlled trial. Place and Duration of Study: Department of Anesthesia, Nagasaki Rosai Hospital, Sasebo Japan, between October 2015 to March 2017. Methodology: We studied 75 patients who underwent one-level lumbar spinal fusion surgery. Patients were randomly allocated to 1 of 3 groups: Group A (n = 25), which received 15 mg/kg acetaminophen intravenously every 6 hr. Group F (n = 25), which received 1 mg/kg flurbiprofen intravenously every 8 hr; and Group C (n = 25), which received saline every 6 hr as the control. Each drug was started from prior to skin closure to 24 hr after surgery. All patients received fentanyl at a fixed dose of 0.33 μg/kg/hr continuously after a bolus administration of 250 μg fentanyl. A bolus of 0.33 μg/kg of fentanyl was administered on demand by PCA (lockout interval 15 min). Postoperative pain was evaluated using a numerical rating scale (NRS) at 1, 2, 6, 12, 24 hr postoperatively and fentanyl consumption was recorded for 6 and 24 hr after surgery. The frequency of bolus fentanyl administration were also recorded. Results: There were no significant differences in NRS scores among the 3 groups. Acetaminophen and flurbiprofen did not show opioid sparing-effects under fentanyl PCA. However, the frequency of fentanyl boluses were significantly less in group A than in group C. Conclusions: Acetaminophen may produce equivalent analgesic effects to flurbiprofen after one-level lumbar spinal fusion surgery.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Bony ingrowth potential of 3D-printed porous titanium alloy: a direct comparison of interbody cage materials in an in vivo ovine lumbar fusion model",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6388616/",
+      "publisher": "The spine journal : official journal of the North American Spine Society",
+      "year": "2018",
+      "doi": "10.1016/j.spinee.2018.02.018",
+      "abstract": "Background context There is significant variability in the materials commonly used for interbody cages in spine surgery. It is theorized that three-dimensional (3D)-printed interbody cages using porous titanium material can provide more consistent bone ingrowth and biological fixation. Purpose The purpose of this study was to provide an evidence-based approach to decision-making regarding interbody materials for spinal fusion. Study design A comparative animal study was performed. Methods A skeletally mature ovine lumbar fusion model was used for this study. Interbody fusions were performed at L2-L3 and L4-L5 in 27 mature sheep using three different interbody cages (ie, polyetheretherketone [PEEK], plasma sprayed porous titanium-coated PEEK [PSP], and 3D-printed porous titanium alloy cage [PTA]). Non-destructive kinematic testing was performed in the three primary directions of motion. The specimens were then analyzed using micro-computed tomography (µ-CT); quantitative measures of the bony fusion were performed. Histomorphometric analyses were also performed in the sagittal plane through the interbody device. Outcome parameters were compared between cage designs and time points. Results Flexion-extension range of motion (ROM) was statistically reduced for the PTA group compared with the PEEK cages at 16 weeks (p-value=.02). Only the PTA cages demonstrated a statistically significant decrease in ROM and increase in stiffness across all three loading directions between the 8-week and 16-week sacrifice time points (p-value≤.01). Micro-CT data demonstrated significantly greater total bone volume within the graft window for the PTA cages at both 8 weeks and 16 weeks compared with the PEEK cages (p-value Conclusions A direct comparison of interbody implants demonstrates significant and measurable differences in biomechanical, µ-CT, and histologic performance in an ovine model. The 3D-printed porous titanium interbody cage resulted in statistically significant reductions in ROM, increases in the bone ingrowth profile, as well as average construct stiffness compared with PEEK and PSP.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Incidence of Osteoporosis-Related Complications Following Posterior Lumbar Fusion",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125926/",
+      "publisher": "Global spine journal",
+      "year": "2018",
+      "doi": "10.1177/2192568217743727",
+      "abstract": "Study design Retrospective review. Objectives This study investigates the prevalence of adverse postsurgical events, or osteoporosis-related complications (ORCs), following spinal fusion. Methods Patients undergoing primary posterior thoracolumbar or lumbar fusion by 1 of 2 surgeons practicing at a single institution were analyzed from 2007 to 2014. ORCs were defined in one of the following categories: revision surgery, compression fracture, proximal junctional kyphosis, pseudarthrosis, or failure of instrumentation. Patients with a bone mineral density of the hips and/or spine performed within 1 year of the index procedure were included. Patients were stratified into normal bone density, osteopenia, and osteoporosis using WHO guidelines. Patients were excluded if they were younger than 18 years at the time of surgery, with infection, malignancy, skeletal dysplasia, neuromuscular disorders, concomitant or staged anterior-posterior procedure, or fusion performed because of trauma. Results Out of 140 patients included, the prevalence of normal bone density was 31.4% (44/140), osteopenia 58.6% (82/140), and osteoporosis 10.0% (14/140). There were no differences between groups for gender, age, body mass index, and interbody device rate. The overall prevalence of ORCs was 32.1% (45/140). By group, there was a prevalence of 22.7% (10/44), 32.9% (27/82), and 50.0% (7/14) for normal bone density, osteopenia, and osteoporosis, respectively. These differences were significantly higher for both the osteopenia and osteoporosis groups. Conclusions Patients with T scores below -1.0 undergoing posterior lumbar fusion have an increased prevalence of ORCs. Consideration of bone density plays a crucial role in patient selection, medical management, and counseling patient expectations.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Bone grafts and biomaterials substitutes for bone defect repair: A review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5935655/",
+      "publisher": "Bioactive materials",
+      "year": "2017",
+      "doi": "10.1016/j.bioactmat.2017.05.007",
+      "abstract": "Bone grafts have been predominated used to treat bone defects, delayed union or non-union, and spinal fusion in orthopaedic clinically for a period of time, despite the emergency of synthetic bone graft substitutes. Nevertheless, the integration of allogeneic grafts and synthetic substitutes with host bone was found jeopardized in long-term follow-up studies. Hence, the enhancement of osteointegration of these grafts and substitutes with host bone is considerably important. To address this problem, addition of various growth factors, such as bone morphogenetic proteins (BMPs), parathyroid hormone (PTH) and platelet rich plasma (PRP), into structural allografts and synthetic substitutes have been considered. Although clinical applications of these factors have exhibited good bone formation, their further application was limited due to high cost and potential adverse side effects. Alternatively, bioinorganic ions such as magnesium, strontium and zinc are considered as alternative of osteogenic biological factors. Hence, this paper aims to review the currently available bone grafts and bone substitutes as well as the biological and bio-inorganic factors for the treatments of bone defect.",
+      "licence": "cc by-nc-nd",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Cervical sagittal alignment variations and proximal junctional kyphosis after posterior fusion of AIS",
+      "url": "https://zenodo.org/records/49461",
+      "publisher": "International Journal of Anesthesiology & Research",
+      "year": "2014",
+      "doi": "10.19070/2332-2780-1400014",
+      "abstract": "Purpose: To determine the changes in cervical sagittal alignment(CSA), measure the incidence of proximal junctional kyphosis(PJK) and identify the correlation between these two parameters following segmental posterior spinal instrumentation and fusion. Materials and methods: From May 2008 to September 2011, 35 patients after posterior instrumentation and fusion to the upper thoracic vertebra due to adolescent idiopathic scoliosis in our department were eligible for this study. Pre and post operative and the last follow-up anteroposterior and lateral radiographs of the entire spine were reviewed. The following radiographic parameters were measured: cervical sagittal alignment, proximal junctional measurement(PJM) of the cobb angle, thoracic kyphosis and lumbar lordosis. In this study, positive values were used to denote kyphosis, while the negative values were used to indicate lordosis. The correlations between cervical sagittal alignment and proximal junctional measurement were also identified. Results: Preoperatively, the average CSA was +2.84 (range,-30.2-+35.6), and 48.6% was kyphosis (17/35); after surgery, the average CSA was +1.78 , and 51.4% was kyphosis(18/35) ; at the last follow up, the average CSA was +1.86, and 54.3% was kyphosis(19/35). Preoperatively, the average PJM was +3.87°; while postoperatively, the average PJM was +8.01°, and the incidence rate of proximal junctional kyphosis was 17.1% (6/35); at the last follow up, the average PJM was +9.70°, and 28.6% was PJK (10/35). significant correlation between the CSA and PJK was found postoperatively(r=-0.302), and at the last follow up (r=-0.564). Conclusion: Cervical kyphosis is frequent in AIS, and the change after posterior spinal fusion surgery is limited. The incidence rate of proximal junctional kyphosis is high, meanwhile there is a significant correlation between cervical sagittal alignment and proximal junctional kyphosis.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.16,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Hypomagnesemia after spinal fusion",
+      "url": "https://doi.org/10.2223/jped.2181",
+      "publisher": "Jornal de Pediatria",
+      "year": "2012",
+      "doi": "10.2223/jped.2181",
+      "abstract": "To determine the frequency of hypomagnesemia in pediatric patients after spinal fusion, to verify whether postoperative magnesium levels were lower than preoperative levels and, if so, to identify possible causes and assess the clinical repercussions for patients.This was a retrospective descriptive study of pediatric patients admitted to a pediatric intensive care unit (ICU) after spine fusion surgery, between March 1 and August 31, 2011. Preoperative magnesium, phosphorus and total and ionized calcium concentrations were compared with the results of tests conducted during the first 24 hours after admission to the ICU.A total of 45 patients were enrolled on the study. Median age was 13.1 years. Preoperative mean serum magnesium was 1.8 ± 0.2 mg/dL and postoperative serum magnesium was 1.4 ± 0.2 mg/dL, which was a significant reduction between the two periods (p < 0.001). The frequency of hypomagnesemia rose from 1 patient (2%) in the preoperative period to 31 patients (68%) during the postoperative period. There were also significant reductions in concentrations of phosphorus (p < 0.001) and total calcium (p < 0.001). There was a significant correlation between magnesium reductions and the volume of fluids administered during the surgery (p = 0.03), transfused blood volume (p < 0.001) and number of vertebrae fused (p < 0.05). Seven of the 31 patients with hypomagnesemia exhibited symptoms (22%).There was an elevated frequency of hypomagnesemia in patients who underwent spinal fusion. Serum magnesium should be assayed when patients are admitted to the pediatric ICU, so that appropriate supplementation can be initiated immediately, minimizing the risk of complications.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Radiologic Assessment of Spinal Fusion",
+      "url": "https://doi.org/10.5435/00124635-201211000-00003",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2012",
+      "doi": "10.5435/00124635-201211000-00003",
+      "abstract": "Since surgical fusion of the spine was first described in 1911, multiple methods have been used to assess it. Although open surgical exploration remains the standard of care for determination of fusion, it is impractical in most clinical situations. Static radiographs have long been used as a practical method of fusion assessment, but they tend to significantly overestimate the presence of a solid fusion. Dynamic radiographs improve accuracy but limitations include measurement reliability, disagreement on allowable motion, and the two-dimensional nature of radiographs. Ultimately, lack of movement at a fused segment does not confirm fusion. Radiostereometric analysis further improves accuracy; however, methodological demands make it largely impractical for routine use. CT is now widely accepted as the standard for noninvasive assessment of spinal fusion. Fine-cut imaging, multiplanar reconstruction, and metal artifact reduction have increased the ability to assess fusion on CT. However, significant concerns remain regarding the effects of high radiation exposure. Although MRI is appealing, its utility in assessing fusion remains unproven. Understanding the limitations of each technique allows judicious use of radiology in the assessment of spinal fusion.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "COMPLICATIONS IN SPINAL FUSION",
+      "url": "https://doi.org/10.1016/s0030-5898(05)70041-9",
+      "publisher": "Elsevier BV",
+      "year": "1998",
+      "doi": "10.1016/s0030-5898(05)70041-9",
+      "abstract": "Complications in spinal fusion can lead to less than desirable results. The complications of spinal fusion in the cervical and lumbar spine are discussed. Methods of avoiding and correcting complications also are reviewed. Through a better understanding, it is hoped that complications can be prevented.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "ALTERNATIVES TO SPINAL FUSION",
+      "url": "https://doi.org/10.1016/s0030-5898(05)70042-0",
+      "publisher": "Elsevier BV",
+      "year": "1998",
+      "doi": "10.1016/s0030-5898(05)70042-0",
+      "abstract": "Techniques have changed significantly with the advent of less invasive surgical techniques for disc excision and spinal fusion; these include the development of rigid internal fixation devices using multiple points of fixation and the better knowledge of the biology of spinal fusion. Despite these improvements in technology, room exists for alternative forms of surgical treatment because of significant failures particularly related to spinal fusions.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Bone healing and spinal fusion",
+      "url": "https://doi.org/10.3171/foc.2002.13.6.2",
+      "publisher": "Journal of Neurosurgery Publishing Group (JNSPG)",
+      "year": "2002",
+      "doi": "10.3171/foc.2002.13.6.2",
+      "abstract": "Bone is a tissue that constantly undergoes deposition, resorption of stromal matrix, and remodeling. These processes may be altered by a variety of chemical, mechanical, cellular, and pathological mechanisms. Understanding the physiology of bone healing and the mechanisms affecting this process is important not only when evaluating normal skeletal development but also when initiating fracture repair. Because the ultimate success of spinal fusions involves creation of an osseous union, we focus this review on the anatomy and physiology of bone under physiological conditions, normal bone healing and mechanisms that alter it, and available adjuvant therapies that may enhance healing potential in a clinical setting.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Macroporous calcium phosphate ceramic: A prospective study of 106 cases in lumbar spinal fusion",
+      "url": "https://hal.science/hal-02140664v1",
+      "publisher": "Journal of Long-Term Effects of Medical Implants",
+      "year": "1999",
+      "doi": "",
+      "abstract": "Macroporous biphasic calcium phosphate (MBCP, Triosite(TM)) is well known for its safety absence of allergenicity, and excellent bone-bonding capacity, and it has been widely used as a bone graft substitute in orthopaedic, ENT, and dental surgery. This study investigates the clinical performance of this synthetic porous ceramic in a series of 106 patients, mainly with degenerative spine aetiologies (95/106) and with a minimum follow-up of 2 years. AU patients were treated with posterior correction involving the semi-rigid New Orleans(TM) instrumentation. Spinal fusion was always performed using MBCP granules mixed with autogenous bone chips and bone marrow obtained from the local spine. Fusion of the spine was confirmed for 100 patients, and 6 non-unions were observed (3 resulting from primary spondylolisthesis). This study shows that MBCP provides suitable results in spinal fusion involving a semi-rigid instrumentation. Because the indication of degenerative spine is not very favorable to fusion, this technique appears to be a good alternative to autografts and could decrease patient morbidity resulting from iliac bone grafting.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "LUMBAR SPINAL STENOSIS FUSION SURGERY IN PARKINSON'S DISEASE: A CASE REPORT",
+      "url": "https://zenodo.org/records/7477618",
+      "publisher": "INTERNATIONAL JOURNAL OF HEALTH SCIENCES OF NORTHERN LIGHTS",
+      "year": "2022",
+      "doi": "10.5281/zenodo.7477618",
+      "abstract": "Parkinson's disease is a nervous system disorder that progressively affects and impairs movement. Spinal stenosis is more common in these patients due to spinal deformities and motor movement disorders. In addition, osteoporosis is more common in Parkinson's disease than in the general population. Lumbar decompression and fusion surgery is a frequently used surgical technique in lumbar degenerative spine diseases. In this case, it is aimed to present early spinal instability due to osteoporosis and posture after spinal fusion surgery in Parkinson's disease.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.78,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Enhanced recovery pathway in adult patients with spinal deformity undergoing open thoracolumbar surgery",
+      "url": "https://doi.org/10.1186/s13018-024-05399-z",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2025",
+      "doi": "10.1186/s13018-024-05399-z",
+      "abstract": "Abstract Purpose The poor prognosis of adult patients with spinal deformity following long-segment spinal fusion surgery remains a major concern. Our study aims to investigate the impact of an Enhanced Recovery After Surgery (ERAS) protocol on the prognosis of adult patients with spinal deformity. Methods This study focused on a retrospective review of a database of previous adult spinal deformity. Adult patients with spinal deformity who underwent long-segment fusion surgery from July 2016 to July 2022 were evaluated, from July 2016 to July 2019 for the pre-ERAS patient group and from July 2019 to July 2022 for the ERAS group. Demographic data, radiological sagittal parameters, and intraoperative data were collected from all patients. The length of hospital stay, postoperative complications, and 90-day readmission rates were compared between the two groups. Additionally, multivariate regression models were used to analyze the predictors of postoperative length of stay, postoperative complications, and 90-day readmission rates. Results A total of 215 patients were included in this study, 102 patients in the pre-ERAS group and 113 patients in the ERAS group. Postoperative outcomes in the ERAS group included significantly lower postoperative length of stay (LOS) (13.09 ± 4.57 vs. 11.13 ± 4.16, P = 0.001); significantly lower rate of postoperative complications (52.0% vs. 29.2%, P < 0.001) and significantly lower 90-day readmission rates (14.7% vs. 6.19%, P = 0.040). Multivariate linear regression showed that fewer ERAS (P = 0.022), later drain placement (P = 0.027), and more complications (P = 0.002) were significantly associated with longer postoperative LOS. Multivariate logistic regression showed that fewer ERAS (P = 0.015) and later drain removal (P = 0.041) were significantly associated with more complications, and more ERAS (P = 0.009), earlier postoperative LOS (P = 0.020), and earlier urinary catheter removal (P = 0.034) were significantly associated with the 90-day readmission rates. Conclusions According to the results of our study, it is necessary to implement an ERAS protocol for adult patients with spinal deformity undergoing long-segment fusion surgery. The ERAS protocol is effective in reducing postoperative hospital length of stay, incidence of surgical complications, and 90-day readmission rates.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Failed Primary Surgery in Congenital Scoliosis Caused by a Single Hemivertebra: Reasons and Revision Strategies",
+      "url": "https://doi.org/10.1111/os.13198",
+      "publisher": "Orthopaedic Surgery",
+      "year": "2022",
+      "doi": "10.1111/os.13198",
+      "abstract": "Objective To analyze the factors causing failure of primary surgery in congenital scoliosis (CS) patients with single hemivertebra (SHV) undergoing posterior spinal fusion, and to elucidate the revision strategies. Methods In this retrospective study, a total of 32 CS patients secondary to SHV undergoing revision surgery from April 2010 to December 2017 due to failed primary surgery with more than 2 years follow‐up were reviewed. The reasons for failure of primary surgery and revision strategies were analyzed for each patient. The radiographic parameters including coronal Cobb angle, segmental kyphosis (SK), coronal balance (CB), and sagittal vertical axis (SVA) were compared between pre‐ and post‐revision. The complications during revision and follow‐up were recorded. Results The mean age at revision surgery of the 32 CS patients was 15.8 ± 9.7 years and the average duration between primary and revision surgery was 31.0 ± 35.4 months. The reasons for failed primary surgery were severe post‐operative curve progression of focal scoliosis in 14 cases (43.8%), implant failure in 17 (53.1%) and trunk imbalance in 12 (37.5%). The candidate revision strategies included thorough resection of residual hemivertebra and adjacent discs, extending fusion levels, complete pseudarthrosis resection, massive bone graft, replacement of broken rods, satellite rod fixation, horizontalization of upper/lower instrumented vertebrae and rigid fusion of structural compensatory curves were performed individually. After revision surgery, the coronal Cobb angle, SK, CB and SVA showed significant improvement (P 0.05). The intra‐operative complications included alarming changes of neurologic monitoring in three (9.4%) patients and dual tear in two, while rod fracture re‐occurred was detected in one patient at 18 months after revision. Conclusions The common reasons for failed primary surgery in CS patients with SHV undergoing posterior spinal fusion were severe post‐operative curve progression of focal scoliosis, implant failure and trunk imbalance. The revision strategies including thorough resection of residual hemivertebra and adjacent discs, extended fusion levels to structural curvature, complete pseudarthrosis resection, massive bone graft, replacement of broken internal fixation and horizontalization of upper/lower instrumented vertebrae should be individualized based on the causes of failed primary surgery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "PRECLINICAL STUDIES ON PLEIOTROPIC FUNCTIONS OF ERYTHROPOIETIN ON BONE HEALING",
+      "url": "https://doi.org/10.15547/bjvm.2020-0017",
+      "publisher": "Bulgarian Journal of Veterinary Medicine",
+      "year": "2021",
+      "doi": "10.15547/bjvm.2020-0017",
+      "abstract": "Erythropoietin (ЕPО) is a glycoprotein hormone, mainly known for its haemopoietic function. For orthopaedics, its pleiotropic effects – osteogenic and angiogenic potential, are of primary interest. The exact mechanism of EPO action is still unclear. The effects of EPO on bone healing were investigated through experiments with rats, mice, rabbits and pigs. Each of used models for experimental bone defects (calvarial models, long bone segmental defects, posterolateral spinal fusion and corticosteroid-induced femoral head osteonecrosis) has specific advantages and flaws. Obtaining specific and correct results is largely dependent on the used model. The brief evaluation of models could serve for standardisation of preclinical studies on bone regeneration.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Long-Term Complications and Risks of Surgery for Adolescent Idiopathic Scoliosis",
+      "url": "https://hal.science/hal-05147636v1",
+      "publisher": "HAL open archive",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Background: Recently, a paper was published containing the long-term results of the first ‘modern’ double rod instrumentation, the Cotrel-Debousset (CD) instrumentation. Results showed an unexpected high rate of reoperation of nearly 50% due to late infections or chronic back pain occurring after surgery. Further research into the long-term complications of spinal fusion surgery in Adolescent Idiopathic Scoliosis ‘AIS’ patients is necessary with special attention to more recent instrumentations. Materials and Methods: The previous systematic review on long-term complications, as they might develop over a lifetime, was published in 2008. The first author conducted a Pub Med search to locate additional studies related to long term outcomes of AIS surgical complications published after August 2008. Target publications were (1) prospective or retrospective papers on complications in spinal fusion surgery for AIS with a minimum follow-up of 10 years and (2) prospective or retrospective papers on reoperation rates in spinal fusion surgery for AIS with a minimum follow-up of 10 years. Results: No paper with the topic on complications and a long-term follow-up of at least 10 years was found. Two papers were found with the topic of reoperation rates and a long-term follow-up of at least 10 years. Reoperation rates were reported between 12.9% and 47.5%. Discussion: Since there is no evidence indicating surgical correction in patients with AIS and post-surgical complications are estimated around 50% over a lifetime, claims for a medical indication of AIS surgery should not be made except in very extreme curvatures. In the relatively benign population of AIS patients, according to the findings within this review, it may be concluded that the long-term outcome of surgery for AIS is worse than the long-term consequences of the condition itself. Conclusions: A medical indication for AIS spinal fusion surgery does not exist, except in extreme cases. The rate of complications of spinal fusion surgery appears to increase with time. The risk/reward relationship of spinal fusion surgery is unfavorable for the AIS patient, except in rare cases. There is no evidence that spinal fusion surgery improves quality of life for AIS patients vs. natural history. The risks and long-term costs, in terms of pain and suffering, after spinal fusion surgery exceeds what is reasonable for AIS patients, putting the common practice of surgery in question, except in extreme cases.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Early dynamic changes within the spine following posterior fusion using hybrid instrumentation in adolescents with idiopathic scoliosis: a gait analysis study",
+      "url": "https://amu.hal.science/hal-04029152v1",
+      "publisher": "Archives of Orthopaedic and Trauma Surgery",
+      "year": "2021",
+      "doi": "10.1007/s00402-021-03956-3",
+      "abstract": "Introduction In adolescent idiopathic scoliosis (AIS) patients, mechanical consequences of posterior spinal fusion within the spine remain unclear. Through dynamic assessment, gait analysis could help elucidating this particular point. The aim of this study was to describe early changes within the spine following fusion with hybrid instrumentation in adolescents with idiopathic scoliosis, using gait analysis Materials and methods We conducted a single-centre prospective study including AIS patients scheduled for posterior spinal fusion (PSF) using hybrid instrumentation with sublaminar bands. Patients underwent radiographic and gait analyses preoperatively and during early postoperative period. Among gait parameters, motion of cervicothoracic, thoracolumbar and lumbosacral junctions was measured in the three planes. Results We included 55 patients (mean age 15 years, 84% girls). Fusion was performed on 12 levels and mean follow-up was 8 months. There was a moderately strong correlation between thoracolumbar sagittal motion and lumbosacral junction pre-and postoperatively (R = − 0.6413 and R = − 0.7040, respectively, all p < 0.001), meaning that the more thoracolumbar junction was in extension, the more lumbosacral extension movements decreased. There was a trend to significance between postoperative SVA change and thoracolumbar sagittal motion change (R = − 0.2550, p = 0.059). Discussion This is the first series reporting dynamic changes within the spine following PSF using hybrid instrumentation in AIS patients. PSF led to symmetrization of gait pattern. In the sagittal plane, we found that thoracolumbar extension within the fused area led to decreased extension at cervicothoracic and lumbosacral junctions. Even though consequences of such phenomenon are unclear, attention must be paid not to give a too posterior alignment when performing PSF for AIS patients.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Pancreatic fracture: a rare complication following scoliosis surgery",
+      "url": "https://hal.science/hal-02135812v1",
+      "publisher": "European Spine Journal",
+      "year": "2018",
+      "doi": "10.1007/s00586-017-5318-x",
+      "abstract": "STUDY DESIGN: Grand Round case report. OBJECTIVE: We report a pancreatic fracture associated with Wirsung duct disruption, following a scoliosis surgery in a cerebral palsy adolescent. Spinal fusion surgery is the standard treatment for severe neuromuscular scoliosis. Many complications such as digestive ones account for its complexity. Postoperative acute pancreatitis is well described, although its pathophysiology remains unclear. To our knowledge, pancreatic fracture following scoliosis correction has never been described to date. Clinical presentation is not specific, and management is not consensual. CASE REPORT: A 14-year-old adolescent had posterior spinal fusion for neuromuscular scoliosis due to cerebral palsy. During the postoperative course, she developed progressive nonspecific abdominal symptoms. The abdominal CT scan demonstrated a pancreatic fracture and a surgical exploration was decided as perforations of the bowel were highly suspected. Drains were placed around the pancreatic area as the retrogastric region was out of reach due to local inflammation. Conservative management led to the occurrence of a pseudocyst in the following weeks as the pancreatic leakage progressively dropped. DISCUSSION: Two hypotheses have been proposed: direct iatrogenic trauma from lumbar pedicle screws and pancreatic rupture related to the correction of the spinal deformity. As the latter seems the most likely, spinal surgeons should be aware of this occurrence following severe scoliosis correction. CONCLUSION: Spinal fusion for severe neuromuscular scoliosis is a difficult procedure, with a high rate of complications. Among them, pancreatic fracture should be considered when abdominal pain persists in the postoperative period. Conservative management is advocated especially in case of a poor general condition.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Fine versus Sclerotic Trabecular Bone Remodeling/Restructure: A Refined Radiographic Predictor for Long-Term Segment Stability After Posterior Lumbar Interbody Fusion",
+      "url": "https://doi.org/10.1177/21925682251385533",
+      "publisher": "Global Spine Journal",
+      "year": "2026 2026",
+      "doi": "10.1177/21925682251385533",
+      "abstract": "Study Design Retrospective cohort study. Objectives Successful bone fusion is crucial for favorable posterior lumbar interbody fusion (PLIF) outcomes. While trabecular bone remodeling (TBR) indicates osseointegration, its interpretation remains uncertain. This study aimed to clarify the clinical significance of distinct TBR types—fine TBR (fTBR) and sclerotic TBR (sTBR)—as seen on computed tomography (CT) scans and to evaluate their predictive value for segment stabilization and complete bone fusion and their relationship with interbody cage materials. Methods Seventy-one patients who underwent one-level PLIF with follow-up exceeding 5 years were included. Interbody cages were made of carbon fiber-reinforced polymer (CFRP; 37 segments) or titanium-coated polyether-ether-ketone (TiPEEK; 34 segments). CT images were obtained at 3 months, 1 year, and incidentally at 5 years or later. TBR was classified morphologically as fTBR or sTBR. Results At 1-year postoperatively, the fTBR positivity rate was significantly higher in the TiPEEK group than in the CFRP group (48.6% vs 73.5%, P = .032). The 33 fTBR-positive segments at 3 months had a significantly higher complete fusion rate than 38 fTBR-negative segments (97.0% vs 57.9%, P < .001). There was no significant difference in fusion rates between 27 sTBR-positive segments at 3 months and 44 sTBR-negative segments (66.7% vs 81.8%, P = .15). Conclusions fTBR may serve as a positive indicator for predicting future segment stabilization and bone fusion post-PLIF. sTBR, however, is not associated with future segment stability. This refined TBR classification could enhance postoperative assessment and broaden our understanding of implant-bone integration in spinal fusion.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

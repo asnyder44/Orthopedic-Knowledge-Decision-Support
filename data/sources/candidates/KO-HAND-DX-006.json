@@ -1,0 +1,224 @@
+{
+  "term": "Durkan's Test",
+  "collected": "2026-11-14",
+  "count": 12,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Use of palmitoylethanolamide in carpal tunnel syndrome: a prospective randomized study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685977/",
+      "publisher": "Journal of orthopaedics and traumatology : official journal of the Italian Society of Orthopaedics and Traumatology",
+      "year": "2017",
+      "doi": "10.1007/s10195-017-0453-z",
+      "abstract": "Background Palmitoylethanolamide (PEA) is an endogenous fatty acid amide that has shown anti-inflammatory activity and neuroprotection and has been used for the treatment of compressive syndromes. The aim of this study is to investigate the clinical and electrophysiological effects of conservative treatment with PEA in low to moderate carpal tunnel syndrome (CTS). Materials and methods A prospective double-blinded randomized study was performed on 61 patients with a clinical and electrophysiologically confirmed diagnosis of low and moderate CTS. The patients were randomly assigned to two groups. Group N was given 300 mg of PEA twice a day over 60 days and Group P received a placebo with exactly the same appearance every 12 h for the same period. CTS was evaluated before and after treatment through clinical findings, Boston Carpal Tunnel Questionnaire, visual analog scale (VAS) and electrophysiological data. The results were evaluated with Student's t test and chi-squared test. Results No differences were observed in either group compared to the initial status regarding Durkan's test, Phalen's test, VAS and electrophysiological data after treatment. The Boston Questionnaire showed better results in both groups, with an improvement in only the symptom severity scale (SSS; p = 0.002809) for group P and improvement in the functional status scale (FSS; p = 0.03334) and SSS (p = 0.005) for group N. Conclusions The results of this study suggest that treatment of CTS with PEA at a dose of 600 mg/day is not associated with an improvement of any clinical and electrophysiological parameters. However, we observed an improvement in the FSS in the Boston Questionnaire after treatment with PEA. Together with the results of other studies, we conclude that further studies of PEA in CTS at higher doses are necessary. Level of evidence Level I of evidence according to 'The Oxford 2011 Level of Evidence'.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.68,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Burden of carpal tunnel syndrome and its associated factors among construction industry workers in Gondar town, Ethiopia",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11218597/",
+      "publisher": "Frontiers in public health",
+      "year": "2024",
+      "doi": "10.3389/fpubh.2024.1365124",
+      "abstract": "Background Carpal tunnel syndrome is characterized by symptoms such as pain, numbness, or tingling on the anterior surface of the index, middle, or radial half of the ring finger, which is frequently associated with weakness of hand grip, and nocturnal pain and/or numbness resulting from compression of the median nerve at the carpal tunnel between the carpal bones and the transverse ligament. The construction industry involves many activities aside from the building process, such as landscaping, painting, electrical supply, plastering, paving, and telecommunications. Performing such tasks involves repetition of wrist flexion and extension, forceful grip with the hand, and/or vibrations of the hand and arm. This study aimed to assess the prevalence of carpal tunnel syndrome and its associated risk factors among construction workers. Method An institutional-based cross-sectional study design was conducted among six construction sectors in Gondar from April to July 2021. An interviewer-administered questionnaire was prepared from the literature with a Katz hand diagram, and a physical examination and a special test (carpal compression test, Phalen's, and Tinel's test) were carried out for those participants who reported pain during the interview. Binary logistic regression was conducted with SPSS 25 to identify the associated risk factors for carpal tunnel syndrome. The strength of the association was detected by the adjusted odds ratio. Result A total of 333 study participants aged 18-70 years were included in this study. Among the participants, 11.7% (AOR: 95%CI: 8.1-15.3) had carpal tunnel syndrome. Age, cigarette smoking, work experience, and working with finger-pressing tools were risk factors significantly associated with carpal tunnel syndrome among construction workers with a p -value of Conclusion The magnitude of carpal tunnel syndrome was 11.7% among construction workers. Being of older age, having more experience, cigarette smoking, and working with finger-pressing tools were risk factors significantly associated with carpal tunnel syndrome among construction workers. Employers should implement work safety education programs that raise awareness about the risks of cigarette smoking and encourage employers and supervisors to seek early medical intervention and treatment for carpal tunnel syndrome before it becomes a chronic problem.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Durkan Gauge and Carpal Compression Test: Accuracy and Diagnostic Test Properties",
+      "url": "https://doi.org/10.2519/jospt.2000.30.11.676",
+      "publisher": "Journal of Orthopaedic & Sports Physical Therapy (JOSPT)",
+      "year": "2000",
+      "doi": "10.2519/jospt.2000.30.11.676",
+      "abstract": "A prospective, criterion-based validity study.To assess the diagnostic properties of the carpal compression test (CCT) when performed with the Durkan carpal tunnel syndrome (CTS) gauge, and to determine the measurement validity of the gauge.The CCT has been reported to be highly sensitive (.87-.89) and specific (.93-1.0) in the diagnosis of CTS when it is done with thumb pressure. The accuracy of measurements with the Durkan CTS gauge, however, has not been established and the diagnostic sensitivity and specificity of the CCT when the gauge is used has not been independently confirmed.The study sample included 33 women and 19 men, aged 18 to 85 years (45.7 +/- 13.5 years). The accuracy of the gauge was determined with a force dynamometer and holding frame. Standard nerve conduction studies (NCS) and the CCT were performed on the symptomatic extremity of all subjects. A compatible history and the NCS results were used to confirm CTS.The Durkan gauge registered pressures of 11.94 psi and 15.25 psi at the 12 and 15 psi gauge marks, respectively. Test sensitivity and specificity were .36 (95% CI = .17-.54) and .57 (95% CI = .39-.74), respectively.Pressure measurements obtained with the Durkan CTS gauge were accurate. The CCT when performed with the Durkan gauge, however, was neither sensitive or specific for the diagnosis of CTS.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A pilot clinical trial comparing efficacy and safety of tramadol versus prednisone along with therapeutic ultrasound as adjuvant therapy in Chinese patients with carpal tunnel syndrome diagnosed by ultrasonography",
+      "url": "https://pjps.pk/single-article?id=cmrvx0ts004s5o08eikhhaats",
+      "publisher": "Pakistan Journal of Pharmaceutical Sciences",
+      "year": "2020",
+      "doi": "10.36721/PJPS.2020.33.3.SP.1397-1402.1",
+      "abstract": "The primary objective of the present clinical trial was to evaluate efficacy and safety of tramadol versus prednisone in Chinese patients with carpal tunnel syndrome (CTS) diagnosed by ultrasonography. A total of 60 patients’ diagnosed with moderate CTS based on a clinical and electrophysiological parameters were enrolled in this clinical trial. The patients were randomly assigned to one of two groups in allocation ratio of 1:1. Test group was given controlled release Tramadol (100 mg every 12 hours) and Reference Group received Prednisone 20 mg once daily for 2 weeks (14 days). Ultrasound therapy (UT) was given as adjuvant therapy in both the group. CTS were evaluated before and after treatment through clinical findings, Boston Carpal Tunnel Questionnaire, visual analog scale (VAS) and electrophysiological data. The results were evaluated with Student’s t test and chi-squared. A statistically significant difference was observed between both the treatment group regarding Durkan's test, Phalen's test, VAS and electrophysiological data after treatment. Improvement in patients treated with tramadol was significantly higher compared to prednisone group in all clinical and electrophysiological parameters. The Boston Questionnaire showed better results in tramadol groups, with a significant improvement in the symptom severity scale (SSS; p<0.005) and functional status scale (FSS; p<0.005). The results of this clinical trial suggest that treatment of CTS with tramadol along with UT as adjuvant therapy was associated with a significant improvement of clinical and electrophysiological parameters compared to Prednisone.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.8,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "VALIDITY OF SPHYGMOMANOMETER TEST COMPARED TO DURKAN AND PHALEN TESTS IN DIAGNOSIS OF CARPAL TUNNEL SYNDROME WITH NERVE CONDUCTION STUDY CORRELATION. A PROSPECTIVE CROSS SECTIONAL ANALYTICAL STUDY",
+      "url": "https://doi.org/10.5281/zenodo.19330148",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.19330148",
+      "abstract": "Background: Carpal Tunnel Syndrome (CTS) is primarily diagnosed through clinical history and provocative physical examination, with confirmation by nerve conduction studies (NCS). Among bedside tests, Phalen’s wrist-flexion maneuver and Durkan’s carpal compression test are most frequently used. The sphygmomanometer (arm cuff) test has been proposed as a standardized, pressure-controlled alternative that utilizes readily available clinical equipment. Aim: To evaluate the diagnostic performance of a standardized sphygmomanometer test in CTS and to determine its sensitivity, specificity, and clinical validity compared with established provocative tests, assessing its potential role as an adjunct in routine evaluation. Methods: This prospective cross-sectional analytical study included 50 female patients (73 symptomatic hands) with clinically suspected CTS. All participants underwent three provocative tests: sphygmomanometer test, Durkan’s carpal compression test, and Phalen’s wrist-flexion test. Nerve conduction studies were subsequently performed as the reference standard. Diagnostic parameters including sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were calculated for each clinical test. Results: The sphygmomanometer test demonstrated a sensitivity of 86.2% and specificity of 75.0%. The positive predictive value was 96.6%, while the negative predictive value was 40.0%. Overall, its diagnostic performance was comparable to that of Durkan’s and Phalen’s tests. Conclusion: The sphygmomanometer test provides diagnostic accuracy similar to established provocative maneuvers. It is simple, inexpensive, standardized, and easily applicable in outpatient settings, making it a useful adjunctive tool, particularly in resource-limited environments where immediate access to NCS is unavailable.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comparison of the Short-Term Effectiveness of Short-Wave Diathermy Treatment in Patients With Carpal Tunnel Syndrome: A Randomized Controlled Trial",
+      "url": "http://avestema.com.dedi9374.your-server.de/index.php/pub/article/view/693",
+      "publisher": "The Turkish Journal of Gastroenterology",
+      "year": "2014",
+      "doi": "",
+      "abstract": "Objectives: This study aims to compare the effects of pulsed and continuous short wave diathermy (SWD) treatment in carpal tunnel syndrome. Patients and methods: This double-blind, randomized controlled trial included 30 patients (55 wrists) diagnosed with mild or moderate carpal tunnel syndrome. Patients were randomized into three groups and administered splinting and one of the following treatments: group 1: continuous SWD, group 2: pulsed SWD, and group 3: placebo SWD. The treatment was applied five days a week for 15 sessions. Patients were evaluated by the Tinel's test, Phalen's and reverse Phalen's maneuvers, carpal compression test, the Boston Carpal Tunnel Questionnaire (BCTQ: includes 2 parts, namely the symptom severity scale and functional status scale), and a visual analog scale. Median motor distal latency, median sensory distal latency, and nerve conduction velocity were measured. Electrophysiological findings, clinical tests, and scales were evaluated at the beginning and end of the therapy. Results: A significant difference was observed in Phalen’s maneuver positivity in the pulsed SWD group (p",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The agreement of clinical evaluation and electrodiagnostic studies in a modified surgical technique in carpal tunnel syndrome management.",
+      "url": "https://ejprs.journals.ekb.eg/article_274748.html",
+      "publisher": "Egyptian Journal of Plastic and Reconstructive Surgery",
+      "year": "2022",
+      "doi": "10.21608/ejprs.2022.178090.1228",
+      "abstract": "Background: Electrodiagnostic studies had become a routine workup in the evaluation of carpal tunnel syndrome (CTS). The presence of a relatively considerable group of patients with positive clinical findings and negative electrodiagnostic studies constitutes a problem that faces plastic surgeons. In these group of patients, the question remains whether to do to surgery or not?. Release of median nerve is the primary objective of surgical treatment. open approach is still one of the most preferred methods of release. This includes transverse carpal ligament release as well as antebrachial fascia. This observational prospective study includes a group of patients that undergone surgery for treatment of CTS with improved technique of release resulting in symptoms relief after 1 year following surgery. The results were analyzed to correlate the agreement of electrodiagnostic studies and clinical findings in CTS as well as the benefit of the improved technique in management of carpal tunnel syndrome. Aim of work: A- refining a surgical method for carpal tunnel treatment and testing its effect on surgical outcome B-checking the agreement between electrodiagnostic studies and clinical evaluation in diagnosis of CTS. Patients and methods: 26 adult patients (22females,4males) were included in this prospective study from July 2016 to July 2020. All patients had awakening night pain with numbness in fingers suggestive of CTS. Durkan carpal compression test and electrodiagnostic studies were done. All patients underwent surgery in the form of transverse carpal ligament and antebrachial fascia release where the distance of release was measured. Results: All patients didn’t experience awakening night pain or numbness in fingers after one year postoperatively which constitutes 100% cure rate. The mean distance of antebrachial fascia release was (1.92±0.27) cm. There were no tender scars, hyperesthesia at wrist region or limitation of movements in fingers. Durkan compression test sensitivity is 80.8%, the electrodiagnostic studies sensitivity is 38.5%, the agreement between the Durkan compression test and electrodiagnostic studies as regard diagnosis was 42%. Conclusion: Antebrachial fascia release for (1.92±.27) cm resulted in complete symptom relief with no complications. The electrodiagnostic studies alone showed least sensitivity in diagnosis of CTS and poor agreement with clinical evaluation.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Efficacy of Some Combined Conservative Methods in the Treatment of Carpal Tunnel Syndrome: A Randomized Controlled Clinical and Electrophysiological Trial",
+      "url": "http://avestema.com.dedi9374.your-server.de/index.php/pub/article/view/465",
+      "publisher": "The Turkish Journal of Gastroenterology",
+      "year": "2012",
+      "doi": "",
+      "abstract": "Objectives: In this study, we aimed to compare the efficacy of some conservative methods in combination with dexamethasone iontophoresis, ultrasound therapy or placebo iontophoresis (without dexamethasone) in the treatment of mild carpal tunnel syndrome (CTS). Patients and methods: Fifty-eight patients diagnosed with mild CTS confirmed by electromyography were included in the study. The subjects were divided randomly into three groups: (i) iontophoresis group-treated with dexamethasone iontophoresis (n=20); (ii) ultrasound group-treated with ultrasound (n=20), and (iii) placebo group-treated with placebo iontophoresis (n=18). All patients received one of these treatments in 15 sessions for three months in combination with physiotherapeutic procedures, such as tendon/nerve gliding exercises, night splinting and activity modifications. Wrist range of motion, muscle test, the Visual Analog Scale (VAS), handgrip test, pinch meter measurement, sensory testing with monofilaments, two-point discrimination test, Phalen's, reverse Phalen's, Tinnel's and carpal compression test, the Health Assessment Questionnaire (HAQ), the Boston Questionnaire (BQ) and electrophysiological assessment were performed at baseline, at the end of therapies and at threemonths during follow-up. Statistical analysis was performed using SPSS software (version 10.0 for Windows). Results: Statistically significant improvements in the clinical status of all groups were observed at the end of the study (p≤0.05). Compared to ultrasound group and placebo group, more successful outcomes were seen in the iontophoresis group, resulting in statistically significant improvements in the pinch meter measurements, monofilament and two-point discrimination tests, and in BQ scores at three months during follow-up (p≤0.05). A statistically significant improvement was also recorded in the electrophysiological measurements in the iontophoresis group and ultrasound group (p≤0.05). Conclusion: Our study results suggest that dexamethasone iontophoresis administration combined with tendon gliding exercises, splint and activity modification is reliable and effective in the treatment of patients with mild CTS. However, further large-scale studies are required to confirm these findings.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Accuracy of Provocative Tests for Carpal Tunnel Syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8991863/",
+      "publisher": "Journal of hand surgery global online",
+      "year": "2020",
+      "doi": "10.1016/j.jhsg.2020.03.002",
+      "abstract": "Purpose Prior literature on the diagnostic accuracy of commonly used provocative tests for suspected carpal tunnel syndrome (CTS) is affected by research biases. The objectives of our study were to measure and compare the diagnostic accuracy of 4 commonly used provocative tests for CTS using electrodiagnostic study as the reference standard. Methods We prospectively evaluated 85 hands in 55 patients with suspected CTS. Tinel sign, Phalen's test, Durkan's test, and Phdurkan test (a combination of wrist flexion and carpal compression) and subsequent electrodiagnostic testing were performed on all patients. Sensitivity and specificity were calculated using electrodiagnostic findings as the reference standard. McNemar test was used to compare differences in paired outcomes between provocative tests. Results Tinel sign had a sensitivity of 0.47 and specificity of 0.56. Phalen's test had a sensitivity of 0.50 and specificity of 0.33. Durkan's test had a sensitivity of 0.71 and specificity of 0.22. Phdurkan test had a sensitivity of 0.84 and specificity of 0.11. Median time to a positive Phdurkan test result was 3 seconds. McNemar tests showed significant differences ( P Conclusions Commonly performed provocative tests for suspected CTS differ in sensitivity and specificity. As the examination maneuver becomes more provocative, the test becomes more sensitive and less specific for CTS. Type of study/level of evidence Diagnostic III.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "PROFILE OF PATIENTS WITH CARPAL TUNNEL SYNDROME TREATED AT A REFERRAL SERVICE",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269141/",
+      "publisher": "Acta ortopedica brasileira",
+      "year": "2020",
+      "doi": "10.1590/1413-785220202803227138",
+      "abstract": "Objective To describe the clinical and epidemiological characteristics of people diagnosed with carpal tunnel syndrome (CTS) treated at a hand surgery outpatient clinic of a regional referral service. Methods Interview and specific medical examination of 150 people diagnosed with CTS underwent, and statistical analysis of the results obtained. Results Women smokers, in the fifth decade of life, married, overweight and educated until the elementary level prevailed in our study. Arterial hypertension and diabetes were the most reported comorbidities, and Durkan's test was the most prevalent. Conclusion CTS is prevalent in women in their fifth decade of life, with bilateral involvement and high school. The hypertension and diabetes are the most common diseases in people with CTS. Level of evidence IV, Case series.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Prevalence and Related Characteristics of Carpal Tunnel Syndrome Among Orchardists in the Gyeongsangnam-do Region",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5108718/",
+      "publisher": "Annals of rehabilitation medicine",
+      "year": "2016",
+      "doi": "10.5535/arm.2016.40.5.902",
+      "abstract": "Objective To determine the prevalence and related characteristics of carpal tunnel syndrome (CTS) in orchardists and to investigate the association between electrodiagnostic severity and physical examinations. Methods Between July 2013 and September 2014, 377 subjects (174 men and 203 women) visited the Gyeongsang National University Hospital's Center for Farmer's Safety and Health. All the subjects underwent electrodiagnostic tests and physical examination, including Phalen's test, Tinel's sign, and Durkan's carpal compression test (CCT). The subjects were classified into 2 groups, the normal group and the CTS group, according to electrodiagnostic test results. To determine the related characteristics of CTS, potential variables, including age, sex, drinking, smoking, body mass index, waist circumference, and total work time, were compared between the 2 groups. The association between electrodiagnostic severity and physical examinations was analyzed. Results CTS was diagnosed in 194 subjects based only on electrodiagnostic test results, corresponding to a prevalence of 51.5%. Among the variables, mean age (p=0.001) and total work time (p=0.007) were significantly correlated with CTS. With respect to the physical examinations, low specificities were observed for Tinel's sign, Phalen's test, and Durkan's CCT (38.4%, 36.1%, and 40.9%, respectively) in the subjects aged ≥65 years. In addition, Phalen's test (p=0.003) and Tinel's sign (p=0.032) in men and Durkan's CCT (p=0.047) in women showed statistically significant differences with increasing CTS severity. The odds ratio was 2.066 for Durkan's CCT in women according to the multivariate logistic regression analysis. Conclusion CTS prevalence among orchardists was high, and Durkan's CCT result was significantly quantitatively correlated with the electrodiagnostic test results. Therefore, Durkan's CCT is another reliable examination method for CTS.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The diagnostic assessment of hand elevation test in carpal tunnel syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3539082/",
+      "publisher": "Journal of Korean Neurosurgical Society",
+      "year": "2012",
+      "doi": "10.3340/jkns.2012.52.5.472",
+      "abstract": "Objective The aim of this study is to establish the value of hand elevation test as a reproducible provocative test for the diagnosis of carpal tunnel syndrome (CTS). Methods We had a prospective study of 45 hands of 38 patients diagnosed with CTS between April 2005 and February 2009. The diagnosis of CTS was based on the American Academy of Neurology clinical diagnostic criteria. Experimental and control group patients underwent Tinel's test, Phalen's test, carpal compression test and hand elevation test as provocative tests for CTS. Results We used chi-square analysis to compare Tinel's test and Phalen's test, carpal compression test with hand elevation test. The sensitivity and specificity of the hand elevation test is 86.7% and 88.9% each. Tinel's test had 82.2% sensitivity and 88.9% specificity. Phalen's test had 84.4% sensitivity and 86.7% specificity. Carpal compression test had 84.4% sensitivity 82.2% specificity. Comparisons of sensitivity and specificity between hand elevation test and Tinel's test, Phalen's test, and carpal compression test had no statistically significant differences. To compare the diagnostic accuracies of four tests, the area under the non-parametric receiver operating character curve was applied. Conclusion The hand elevation test has higher sensitivity and specificity than Tinel's test, Phalen's test, and carpal compression test. Chi-square statistical analysis confirms the hand elevation test is not ineffective campared with Tinel's test, Phalen's test, and carpal compression test.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.08,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

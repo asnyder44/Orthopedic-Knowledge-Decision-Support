@@ -1,0 +1,385 @@
+{
+  "term": "Tinel's Sign",
+  "collected": "2026-11-14",
+  "count": 21,
+  "candidates": [
+    {
+      "provider": "zenodo",
+      "title": "Tinel's sign – significance, mechanism, and diagnostic application: A Literature Review",
+      "url": "https://zenodo.org/records/17129324",
+      "publisher": "Zenodo",
+      "year": "2025",
+      "doi": "10.5281/zenodo.17129324",
+      "abstract": "Abstract The Hoffmann-Tinel sign, commonly referred to as Tinel’s sign, is a time-honored, non-invasive clinical test used to assess the function of peripheral nerves. First described in 1915, it remains widely employed in neurology, neurosurgery, and orthopedics for diagnosing compressive neuropathies and monitoring nerve regeneration. The sign is elicited by mechanical stimulation of a damaged or regenerating nerve, which evokes ectopic impulses perceived as tingling or electric shock-like sensations in and along the nerve’s sensory distribution. This review explores the physiological basis, technique, and diagnostic applications of Tinel’s sign in conditions such as carpal tunnel syndrome, cubital tunnel syndrome, thoracic outlet syndrome, and post- traumatic nerve injuries. Although limited by variability in sensitivity and specificity, subjective interpretation, and the absence of standardized protocols, Tinel’s sign remains a cost-effective and clinically valuable component of neurological assessment. When interpreted alongside electrodiagnostic studies and imaging, it contributes to early diagnosis, localization of pathology, and tracking of nerve recovery. Future research should focus on standardizing evaluation methods and assessing the potential integration of Tinel’s sign into AI-supported diagnostic systems.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "A Systematic Review on Carpal Tunnel Syndrome",
+      "url": "https://zenodo.org/records/14631965",
+      "publisher": "International Journal of Pharmaceutical Sciences",
+      "year": "2025",
+      "doi": "10.5281/zenodo.14631965",
+      "abstract": "Carpal tunnel syndrome is a painful ailment caused by the compression of a major nerve where it crosses the carpal bones through a tunnel at the front of the wrist. It could be brought on by fluid retention or by repetitive motions that are done repeatedly. In clinical practice, Tinel's sign and Phalen's maneuver are commonly used to identify CTS. Tinel's sign is to create a feeling of tingling or \"pins and needles\" throughout the nerve's distribution, it is done by lightly tapping (percussion) over the nerve. Typically, percussion is done by advancing from distal to proximal.Phalen's maneuver, on the other hand, is a test that increases the pressure on the median nerve usually performed by flexing the wrist for 30-60 seconds. First-line treatments include corticosteroid injections, therapeutic ultrasound, and splinting .",
+      "licence": "cc-by-4.0",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.1,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Nerve entrapment syndromes of the lower limb: a pictorial review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10545616/",
+      "publisher": "Insights into imaging",
+      "year": "2023",
+      "doi": "10.1186/s13244-023-01514-6",
+      "abstract": "Peripheral nerves of the lower limb may become entrapped at various points during their anatomical course. While clinical assessment and nerve conduction studies are the mainstay of diagnosis, there are multiple imaging options, specifically ultrasound and magnetic resonance imaging (MRI), which offer important information about the potential cause and location of nerve entrapment that can help guide management. This article overviews the anatomical course of various lower limb nerves, including the sciatic nerve, tibial nerve, medial plantar nerve, lateral plantar nerve, digital nerves, common peroneal nerve, deep peroneal nerve, superficial peroneal nerve, sural nerve, obturator nerve, lateral femoral cutaneous nerve and femoral nerve. The common locations and causes of entrapments for each of the nerves are explained. Common ultrasound and MRI findings of nerve entrapments, direct and indirect, are described, and various examples of the more commonly observed cases of lower limb nerve entrapments are provided.Critical relevance statement This article describes the common sites of lower limb nerve entrapments and their imaging features. It equips radiologists with the knowledge needed to approach the assessment of entrapment neuropathies, which are a critically important cause of pain and functional impairment.Key points• Ultrasound and MRI are commonly used to investigate nerve entrapment syndromes.• Ultrasound findings include nerve hypo-echogenicity, calibre changes and the sonographic Tinel's sign.• MRI findings include increased nerve T2 signal, muscle atrophy and denervation oedema.• Imaging can reveal causative lesions, including scarring, masses and anatomical variants.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Clinical and biometrical 12-month follow-up in patients after reconstruction of the sural nerve biopsy defect by the collagen-based nerve guide Neuromaix",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610476/",
+      "publisher": "European journal of medical research",
+      "year": "2017",
+      "doi": "10.1186/s40001-017-0279-4",
+      "abstract": "Many new strategies for the reconstruction of peripheral nerve injuries have been explored for their effectiveness in supporting nerve regeneration. However only a few of these materials were actually clinically evaluated and approved for human use. This open, mono-center, non-randomized clinical study summarizes the 12-month follow-up of patients receiving reconstruction of the sural nerve biopsy defect by the collagen-based nerve guide Neuromaix. Neuromaix was implanted as a micro-structured, two-component scaffold bridging 20-40 mm nerve defects after sural nerve biopsy in twenty patients (eighteen evaluated, two lost in follow-up). Safety of the material was evaluated by clinical examination of wound healing. Performance was assessed by sensory testing of modalities, pain assessment, and palpation for the Hoffmann-Tinel's sign as well as demarcating the asensitive area at each follow-up visit. Every patient demonstrated uneventful wound healing during the complete 12-month time course of the study. Two patients reported complete return of sensation, whereas eleven out of eighteen patients reported a positive Hoffmann-Tinel's sign at the lower leg with simultaneous reduction of the asensitive area by 12 months. Our data show that Neuromaix can be implanted safely in humans to bridge sural nerve gaps. No procedure-related, adverse events, or severe adverse events were reported. These first clinical data on Neuromaix provide promising perspectives for the bridging of larger nerve gaps in combined nerves, which should be investigated more through extensive, multi-center clinical trials in the near future.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.68,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Etiological study of superficial radial nerve neuropathy: series of 34 patients",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10159053/",
+      "publisher": "Frontiers in neurology",
+      "year": "2023",
+      "doi": "10.3389/fneur.2023.1175612",
+      "abstract": "Objectives Superficial radial nerve (SRN) neuropathy is a rare focal neuropathy leading to pain and paresthesia of the dorsolateral aspect of the hand. Reported causes include trauma, extrinsic compression, or it may be idiopathic. We describe the clinical and electrodiagnostic (EDX) features of 34 patients with SRN neuropathy of varied etiology. Methods This is a retrospective study of patients with upper limb neuropathy referred for EDX studies who were found to have SRN neuropathy based on clinical and EDX findings. Twelve patients also had ultrasound (US) evaluations. Results Decreased pinprick sensation was noted in the distribution of the SRN in 31 (91%) patients, and a positive Tinel's sign was observed in 9 (26%). Sensory nerve action potentials (SNAPs) were not recordable in 11 (32%) patients. Of the patients who had a recordable SNAP, the latency was delayed, and the amplitude was decreased in all cases. Of the 12 patients who underwent US studies, 6 (50%) had an increased cross-sectional area of the SRN at or immediately proximal to the site of injury/compression. A cyst was located adjacent to the SRN in 2 patients. The most common cause of SRN neuropathy was trauma in 19 (56%) patients, of which 15 were iatrogenic. A compressive etiology was identified in 6 patients (18%). No specific etiology was detected in 10 patients (29%). Conclusion This study is aimed at raising the awareness among surgeons about the clinical features and varied causes of SRN neuropathy; such knowledge may potentially lessen iatrogenic causes of injury.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Tarsal tunnel syndrome: current rationale, indications and results",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8693231/",
+      "publisher": "EFORT open reviews",
+      "year": "2021",
+      "doi": "10.1302/2058-5241.6.210031",
+      "abstract": "Tarsal tunnel syndrome (TTS) is a neuropathy due to compression of the posterior tibial nerve and its branches. It is usually underdiagnosed and its aetiology is very diverse. In 20% of cases it is idiopathic. There is no test that diagnoses it with certainty. The diagnosis is usually made by correlating clinical history, imaging tests, nerve conduction studies (NCSs) and electromyography (EMG). A differential diagnosis should be made with plantar fasciitis, lumbosacral radiculopathy (especially S1 radiculopathy), rheumatologic diseases, metatarsal stress fractures and Morton's neuroma. Conservative management usually gives good results. It includes activity modification, administration of pain relief drugs, physical and rehabilitation medicine, and corticosteroid injections into the tarsal tunnel (to reduce oedema). Abnormally slow nerve conduction through the posterior tibial nerve usually predicts failure of conservative treatment. Indications for surgical treatment are failure of conservative treatment and clear identification of the cause of the entrapment. In these circumstances, the results are usually satisfactory. Surgical success rates vary from 44% to 96%. Surgical treatment involves releasing the flexor retinaculum from its proximal attachment near the medial malleolus down to the sustentaculum tali. Ultrasound-guided tarsal tunnel release is possible. A positive Tinel's sign before surgery is a strong predictor of surgical relief after decompression. Surgical treatment achieves the best results in young patients, those with a clear aetiology, a positive Tinel's sign prior to surgery, a short history of symptoms, an early diagnosis and no previous ankle pathology.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Cauda Canis: Variation of a Tinel's Sign for a Sciatic Nerve Tumor",
+      "url": "https://www.semanticscholar.org/paper/d4ce45af438fb41877233aa9cd275b5479e387b4",
+      "publisher": "Case Reports in Neurological Medicine",
+      "year": "2020",
+      "doi": "10.1155/2020/8822866",
+      "abstract": "A patient with a prior history of intradural schwannoma and disc herniation presented with radicular pain after being hit in the thigh by a dog's tail. She was worked up and found to have a tumor of her right sciatic nerve. The tumor was resected and histology was consistent with schwannoma. The dog's tail acted as a Tinel's sign maneuver and led to timely identification of her peripheral nerve tumor. Peripheral nerve schwannomas can present in unusual forms, and Tinel's maneuver may be a useful tool in diagnosis.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.404,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Benign peripheral nerve sheath tumor of digit versus major-nerve: Comparison of MRI findings",
+      "url": "https://doi.org/10.1371/journal.pone.0230816",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0230816",
+      "abstract": "Objective: To compare the symptoms and magnetic resonance imaging (MRI) findings between digital peripheral nerve sheath tumor (PNST) and major-nerve PNST. Methods: A total 36 cases with benign PNSTs (16 digital, 20 major-nerve) were enrolled. Chief complaint and Tinel sign were reviewed. Five classic MRI features of PNST, the signal intensity (SI), the enhancement, and the shape of tumor were evaluated on MRI. Results: Half of each group showed tenderness. Tinel sign was less frequent in digital PNST (12.5%) than major-nerve PNST (95.0%, P < 0.001). Split fat sign, entering and exiting nerve, target sign, and thin hyperintense rim were only observed in major-nerve PNST (P = <0.001, <0.001, 0.492, and 0.002, respectively). Fascicular sign was found in digital PNSTs (31.3%), but more frequent in major-nerve PNST (P < 0.001). In digital PNSTs, mild hyperintense SIs (56.2%) on T1-weighted images (T1-WI) was noted, but none in major-nerve PNST (P < 0.001). Both groups showed hyperintense SIs on T2-WI (P = 0.371). Homogeneity on T2-WI was noted in 43.8% of digital PNSTs, but none in major-nerve PNSTs (P = 0.004). Both groups showed heterogeneous enhancement (P = 0.066), but four (25%) digital PNSTs showed homogeneous enhancement. Lobulated shape was noted in 50% of digital PNSTs but none of major-nerve PNSTs (P = 0.001). Digital nerve was involved at 81.3% of digital PNSTs. Three foot cases showed unusual manifestations: bone destruction, skin thickening, and subungual location. Conclusion: In digital PNSTs, Tinel sign is not commonly found and classic MRI findings is insufficient. In addition, some digital PNSTs show different SI and enhancement from major-nerve PNSTs. However, digital soft tissue tumor involving digital neurovascular bundle and especially representing a fascicular sign should be considered the possibility of a digital PNST.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Tinel's sign and the carpal tunnel syndrome.",
+      "url": "https://doi.org/10.1136/bmj.294.6573.680",
+      "publisher": "BMJ",
+      "year": "1987",
+      "doi": "10.1136/bmj.294.6573.680",
+      "abstract": "Chez 38 malades presentant des symptomes du «syndrome du canal carpien», on recherche le signe de Tinel et des verifications electromyographiques. Les resultats montrent que des details techniques sont essentiels pour que le signe de Tinel soit obtenu et valable: bonne extension du poignet, emploi du manteau adequat, point de frappe exact",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effects of exosomes from mesenchymal stem cells on functional recovery of a patient with total radial nerve injury: A pilot study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10824039/",
+      "publisher": "World journal of stem cells",
+      "year": "2024",
+      "doi": "10.4252/wjsc.v16.i1.19",
+      "abstract": "Background Peripheral nerve injury can result in significant clinical complications that have uncertain prognoses. Currently, there is a lack of effective pharmacological interventions for nerve damage, despite the existence of several small compounds, peptides, hormones, and growth factors that have been suggested as potential enhancers of neuron regeneration. Despite the objective of achieving full functional restoration by surgical intervention, the persistent challenge of inadequate functional recovery remains a significant concern in the context of peripheral nerve injuries. Aim To examine the impact of exosomes on the process of functional recovery following a complete radial nerve damage. Methods A male individual, aged 24, who is right-hand dominant and an immigrant, arrived with an injury caused by a knife assault. The cut is located on the left arm, specifically below the elbow. The neurological examination and electrodiagnostic testing reveal evidence of left radial nerve damage. The sural autograft was utilized for repair, followed by the application of 1 mL of mesenchymal stem cell-derived exosome, comprising 5 billion microvesicles. This exosome was split into four equal volumes of 0.25 mL each and delivered microsurgically to both the proximal and distal stumps using the subepineural pathway. The patient was subjected to a period of 180 d during which they had neurological examination and electrodiagnostic testing. Results The duration of the patient's follow-up period was 180 d. An increasing Tinel's sign and sensory-motor recovery were detected even at the 10 th wk following nerve grafting. Upon the conclusion of the 6-mo post-treatment period, an evaluation was conducted to measure the extent of improvement in motor and sensory functions of the nerve. This assessment was based on the British Medical Research Council scale and the Mackinnon-Dellon scale. The results indicated that the level of improvement in motor function was classified as M5, denoting an excellent outcome. Additionally, the level of improvement in sensory function was classified as S3+, indicating a good outcome. It is noteworthy that these assessments were conducted in the absence of physical therapy. At the 10 th wk post-injury, despite the persistence of substantial axonal damage, the nerve exhibited indications of nerve re-innervation as evidenced by control electromyography (EMG). In contrast to the preceding. EMG analysis revealed a significant electrophysiological enhancement in the EMG conducted at the 6 th -mo follow-up, indicating ongoing regeneration. Conclusion Enhanced comprehension of the neurobiological ramifications associated with peripheral nerve damage, as well as the experimental and therapy approaches delineated in this investigation, holds the potential to catalyze future clinical progress.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.96,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A case report: Pain in the hand and tingling of the upper limb may be a symptom of a schwannoma in the supraclavicular region",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10460944/",
+      "publisher": "International journal of surgery case reports",
+      "year": "2023",
+      "doi": "10.1016/j.ijscr.2023.108664",
+      "abstract": "Introduction Schwannomas, or neurilemmomas, are rare benign nerve sheath tumors primarily originating from peripheral nerves. Brachial plexus schwannomas, constituting approximately 5 % of cases, present a diagnostic and surgical challenge due to their rarity and the complex anatomy of the brachial plexus. Case presentation We present the case of a 51-year-old man who visited our physiotherapy clinic with a two-year history of intermittent pain and tingling in the fourth and fifth metacarpals of his non-dominant hand (Numeric Pain Rating Scale 2/10). The pain was nocturnal and resistant to various treatments. Physical examination did not reveal \"red flag\" symptoms. Considering the persistent and atypical nature of the symptoms, further diagnostic investigations, including an ultrasound of the supraclavicular region, were recommended. Clinical discussion Our case report emphasizes the importance of considering brachial plexus schwannomas in patients with prolonged and unconventional symptoms in the fourth and fifth digits, accompanied by supraclavicular swelling and a positive Tinel's sign. Comprehensive diagnostic evaluation is crucial to confirm or rule out a schwannoma in the supraclavicular area. The rarity of such tumors and the intricate brachial plexus anatomy require meticulous diagnostic and surgical approaches. Conclusions This case adds to the growing understanding of brachial plexus schwannomas and their diagnostic complexities. Our report underscores the significance of recognizing these tumors in patients with distinct symptomatology and highlights the need for detailed diagnostic assessments and surgical planning.",
+      "licence": "cc by",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.82,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Clinical, Radiological, and Surgical Insights into Sciatic Schwannoma: A Rare Peripheral Nerve Tumour",
+      "url": "https://hal.science/hal-05703891v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2026",
+      "doi": "",
+      "abstract": "This case report describes the clinical presentation, radiological findings, surgical management, and postoperative outcomes of a patient with sciatic schwannoma, emphasising the importance of early diagnosis and nerve-preserving surgical excision for optimal functional recovery. A 44-year-old man presented with a one-year history of progressive dull, aching pain in the posterior right thigh, radiating to the leg and foot, associated with numbness and aggravated by prolonged sitting. Neurological examination revealed a positive Tinel's sign, and the pain score was 7 on the Visual Analogue Scale (VAS). Contrast-enhanced MRI revealed a 49 × 43 × 34 mm encapsulated sciatic nerve tumour suggestive of a schwannoma. Following routine preoperative evaluation, microsurgical intracapsular excision was performed with preservation of the nerve fascicles. Histopathological examination confirmed a benign schwannoma. The patient experienced complete symptomatic relief without neurological deficit; the VAS score improved to 3, and no recurrence was observed during the one-year follow-up. This case highlights the value of considering sciatic schwannoma in persistent atypical sciatica and illustrates the roles of magnetic resonance imaging and nerve-preserving microsurgical excision in its diagnosis and management.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Screening For Peroneal Neuropathy In Carpal Tunnel Syndrome Using Markerless 3D Gait Analysis: A Clinical Feasibility Study",
+      "url": "https://zenodo.org/records/20087555",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20087555",
+      "abstract": "PURPOSE : A recent review of health insurance claims in the US illustrated a 25% increased risk of falls with a diagnosis of carpal tunnel syndrome (CTS) (Lakhlani et al. 2025). This feasibility study sought to develop screening for peroneal neuropathy and characterize gait patterns among individuals with carpal tunnel syndrome and a history of falls or tripping, not related in a known neurologic condition. METHODS : Sequential patients with moderate to severe CTS were screened for a history of falls, toe catching or sensory changes in their feet; individuals with documented diagnoses of lower extremity neurologic conditions were excluded. Clinical examination was performed on consented patients for signs and symptoms of peroneal neuropathy. Kinematic gait analysis was performed for 2 minutes along a 10 m hallway using a markerless 3D video-based system (ten Sony RXO II cameras, Netgear synchronization switch) and processed using an AI algorithm software [Theia3D, Kingston ON]. Angular kinematic variables for the hip, knee, and ankle were compared to a population of healthy controls and healthy controls with CTS. Stride characteristics were compared to healthy controls with CTS using T-tests. RESULTS : 65 sequential patients were approached for participation; 56 were screened for study inclusion. 14 individuals had a history of falls or tripping and met inclusion criteria (25%); 12 underwent 3D kinematic gait analysis. An additional 6 individuals screened negative and consented for kinematic gait analysis as healthy controls. Of the 12 participants, 66.7% had fallen within the last year, 58.3% reported feeling unsteady, and 41.7% reported a history of toe dragging or foot slapping when walking. Physical examination screening was positive in only 33.3% for a Tinel's sign at the common peroneal nerve, 41.6% for tenderness over the peroneal nerve and tibialis anterior, and 3 participants (33.3%) had clinical weakness in both ankle dorsiflexion and extensor hallucis longus (EHL). All 12 participants with a history of falls demonstrated consistent, predictable kinematic patterns with reduced ankle dorsiflexion and plantarflexion before and after toe-off respectively, suggesting patients were guarding against catching their toes when entering swing phase (Figure 1). Subtle changes in knee and hip angle were present but did not appear to compensate for the ankle changes. Walking speed was significantly slower in participants with a history of falls (1.14 ± 0.18 vs. 1.36 ± 0.10, p=0.005); stride length and width were not significantly different when corrected for leg length. CONCLUSIONS : This clinical feasibility study illustrates a 25% incidence of falls or associated risk factors in a CTS population not otherwise explained by pre-existing diagnoses. Consistent, predictable kinematic gait patterns are illustrated including slower gait and reduced ankle excursion at toe off suggestive of weakness in peroneal nerve muscles (subclinical peroneal neuropathy) despite few positive findings on clinical examination. Further research may contribute to a predictive tool for peroneal neuropathy screening.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Surgical treatment outcome of painful traumatic neuroma of the infrapatellar branch of the saphenous nerve during total knee arthroplasty",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8696598/",
+      "publisher": "World journal of orthopedics",
+      "year": "2021",
+      "doi": "10.5312/wjo.v12.i12.1008",
+      "abstract": "Background Development of infrapatellar saphenous neuroma (ISN) is a well-recognized reason for knee pain following total knee arthroplasty (TKA). So far, very few studies have addressed the development of painful ISN after TKA and its impact on functional outcome and patient satisfaction. Aim To present the results of surgical treatment for ISN after primary TKA, the level of pain relief, and the improvement of knee motion and function. Methods Fifteen patients (13 women, 2 men) with persistent medial pain for more than six months after primary TKA, due to osteoarthritis, underwent surgical excision of ISN. ISN diagnosis was confirmed with the presence of Tinel's sign along the course of the infrapatellar branch of the saphenous nerve and with pain relief after selective nerve block using local anesthetic. Component loosening, malalignment, instability and infection were excluded systematically in all patients as a source of pain. Pain relief in terms of visual analog scale (VAS), active knee range of motion (ROM), and the Knee Society Score (KSS) for pain and function were evaluated preoperatively and at least six months postoperatively. Results The mean patients' age was 71.3 ± 5.4 years old. The mean interval between TKA and neuroma excision was 10 mo (range, 6 to 14 mo), while the mean follow-up was 8 mo (range: 6 to 11 mo). All 15 patients experienced almost complete immediate pain relief and resolution of allodynia and hyperesthesia after surgery. Pain on the VAS scale improved from 8.6 ± 1.3 preoperatively to 0.8 ± 0.9 at the final follow-up ( P = 0.001). KSS pain and function scores were improved from 49.3 ± 5.9 and 62.7 ± 12.8 before surgery to 91.8 ± 4.2 and 75.3 ± 11.3 after surgery, respectively ( P = 0.001 and P = 0.015). Active knee ROM was also increased postoperatively from 96 ± 4 to 105 ± 6 degrees ( P = 0.001). There were no complications and no further operations required. Conclusion ISN should be considered a potential cause of persistent pain following TKA. Neuroma excision not only provides immediate pain relief and resolution of symptoms but may also improve the knee range of motion.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A giant plexiform schwannoma of the brachial plexus: case report",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221616/",
+      "publisher": "Journal of brachial plexus and peripheral nerve injury",
+      "year": "2011",
+      "doi": "10.1186/1749-7221-6-9",
+      "abstract": "We report the case of a patient who noticed muscle weakness in his left arm 5 years earlier. On examination, a biloculate mass was observed in the left supraclavicular area, and Tinel's sign caused paresthesia in his left arm. Magnetic resonance imaging showed a continuous, multinodular, plexiform tumor from the left C5 to C7 nerve root along the course of the brachial plexus to the left brachia. Tumor excision was attempted. The median and musculocutaneous nerves were extremely enlarged by the tumor, which was approximately 40 cm in length, and showed no response to electric stimulation. We resected a part of the musculocutaneous nerve for biopsy and performed latissimus dorsi muscle transposition in order to repair elbow flexion. Morphologically, the tumor consisted of typical Antoni A areas, and immunohistochemistry revealed a Schwann cell origin of the tumor cells moreover, there was no sign of axon differentiation in the tumor. Therefore, the final diagnosis of plexiform Schwannoma was confirmed.",
+      "licence": "cc by",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.34,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ultrasonographic and Clinical Characteristics of Schwannoma of the Hand",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5334033/",
+      "publisher": "Clinics in orthopedic surgery",
+      "year": "2017",
+      "doi": "10.4055/cios.2017.9.1.91",
+      "abstract": "Background The purpose of this study was to report the ultrasonographic findings and clinical features of schwannoma of the hand. Methods We enrolled 8 patients who were initially diagnosed with ganglion by ultrasonography but finally with schwannoma by a tissue biopsy. We retrospectively analyzed the ultrasonographic findings of eight patients including echogenicity, internal homogeneity, posterior enhancement, internal vascularity, and clinical manifestations such as the occurrence site, tenderness, Tinel's sign, and paresthesia before the surgery. Results The occurrence sites were as follows: two cases on the thenar area, one case on the second web space, three cases on the third web space, one case on the radiovolar aspect of the proximal phalanx of the index finger, and one case on the radiovolar aspect of the proximal phalanx of the middle finger. Four patients suffered from tenderness and pain on presentation, and all patients had pain around the mass before presentation. Tinel's sign was present without paresthesia in one case. Ultrasonography revealed cystic lesions showing clear margins in all cases, and two of them had acoustic enhancement without internal flow. Conclusions It may not be easy to diagnosis schwannoma of the hand with ultrasonography alone when the lesion is small because of the similarity to the ultrasonographic findings of ganglion. Therefore, it is necessary to consider the possibility of schwannoma if a mass near the digital nerve or cutaneous nerve branch is accompanied by dull pain and tenderness.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "PROVOCATIVE TEST'S VERSUS ELECTROPHYSIOLOGICAL STUDIES AS A MEASURE OF SEVERITY GRADES OF CARPAL TUNNEL SYNDROME",
+      "url": "https://www.iraqijms.net/index.php/jms/article/view/147",
+      "publisher": "The Iraqi Journal of Medical Sciences",
+      "year": "2016",
+      "doi": "",
+      "abstract": "Background:Carpal tunnel syndrome (CTS) is the most common nerve entrapment, electrodiagnostic studies are a valid and reliable means of confirming the diagnosis. Objectives:The study aims to find a correlation between the presence of Tinel's sign and Phalen's maneuver and the degree of severity of the CTS and to compare it with severity of nerve conduction study of median nerve. Methods:The study involves 133 patients (102 females and 31 males) with CTS, all were examined for Phalen's maneuver and Tinel's sign and median and ulnar nerves electro physiological study in Al-Yarmouk Teaching Hospital and the Neurosciences Hospital in Baghdad between January 2010 and January 2011. Their ages ranged between (19-87) years. The patients were grouped into mild, moderate and severe CTS according to modified Padua scale of CTS severity. Statistical correlation was done using one way Anova test. Results:Positive Tinel's sign was seen in 25% and positive Phalen's maneuver in 28%, coexistent Tinel's sign and Phalen's maneuver positive at the same time were seen in 47%. Total Tinel's sign was72% and total patients who had positive Phalen's sign was 75%. Mild, moderate and severe CTS were seen in 38%, 41% and 21% out of the total number of the studied patients. Conclusion:The study didn't find association between severity grading and provocative test, added to negative provocative tests in high percentage of patients. These results mandate the use of electrophysiological examination for the diagnosis of carpal tunnel syndrome and assessment of severity. Keywords:Carpal tunnel syndrome, Tinel's sign, Phalen's maneuver",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "A CASE OF AN AXILLARY SCHWANNOMA DIAGNOSED BY CHARACTERISTIC TINEL'S SIGN",
+      "url": "https://www.semanticscholar.org/paper/85084f419c0867107b5f7fa1f1733a875b7fa6d6",
+      "publisher": "Semantic Scholar",
+      "year": "2011",
+      "doi": "10.3919/JJSA.72.1721",
+      "abstract": "症例は53歳，女性．乳癌検診で異常を指摘され当科受診した．エコーにて左乳腺に5mm大の低エコー腫瘤影と左腋窩に14mm大の腫瘤を認め，乳癌による腋窩転移を疑った．腋窩腫瘍のエコー下穿刺吸引細胞診時に左手に放散する痛み（Tinel徴候）が出現し，細胞診で紡錘形の細胞を認め神経原性腫瘍を疑った．全身麻酔下に肋間上腕神経と思われる神経を温存し腫瘍核出術を施行した．病理で神経鞘腫と診断された．術後経過は良好であった．",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.04,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Clinical evaluation of a hyaluronan‐based gel following microsurgical reconstruction of peripheral nerves of the hand",
+      "url": "https://zenodo.org/records/14381960",
+      "publisher": "Zenodo",
+      "year": "2007",
+      "doi": "10.1002/micr.20299",
+      "abstract": "AbstractA controlled clinical trial was performed to investigate the safety and efficacy of the hyaluronate‐based gel polymer Hyaloglide® after microsurgical reconstruction of peripheral nerves of the hand. Thirty patients were randomized to receive either no postsurgical treatment (n = 16) or Hyaloglide® (n = 14) and were clinically evaluated at various intervals for 1 year. The application of Hyaloglide® posed no safety concerns. Efficacy was assessed by the recovery of sensitivity, measurement of pain, and progression of Tinel's sign. The Hyaloglide®‐treated group showed better improvement in recovery from pain, approaching statistical significance during the first 3 months postsurgery. Likewise, recovery of sensitivity was also higher in the Hyaloglide®‐treated group throughout the entire follow‐up period, and the distance of Tinel's sign was longer in the Hyaloglide®‐treated group (P < 0.05 at day 30). The application of Hyaloglide® may improve recovery of sensitivity and decrease pain following microsurgical repair of the peripheral nerves of the hand. © 2007 Wiley‐Liss, Inc. Microsurgery 27, 2007.",
+      "licence": "other-open",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Accessory soleus muscle causing tarsal tunnel syndrome: A case report",
+      "url": "http://www.sciencedirect.com/science/article/pii/S266739672500014X",
+      "publisher": "Foot & Ankle Surgery: Techniques, Reports & Cases",
+      "year": "2025",
+      "doi": "10.1016/j.fastrc.2025.100479",
+      "abstract": "The accessory soleus muscle is a rare anatomical variant which can cause significant clinical symptoms such as tarsal tunnel syndrome (TTS) due to extrinsic compression of the posterior tibial nerve. This case report describes a 40-year-old male with a persistent left ankle mass, presenting with exercise-induced pain and discomfort. Despite conservative treatments including physical therapy and anti-inflammatory medications, his symptoms persisted. Physical examination revealed a non-mobile mass at the medial aspect of the left ankle and a positive Tinel's sign over the posterior tibial nerve. MRI confirmed the presence of an accessory soleus muscle. Surgical excision of the hypertrophic muscle resulted in complete resolution of symptoms. Postoperative follow-up over three years demonstrated a well-healed surgical site, intact motor function, and no recurrence of the mass. This case underscores the clinical significance of considering this anatomical variant in the differential diagnosis of persistent ankle masses and the efficacy of surgical intervention in symptomatic cases.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.9,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Persistent median artery thrombosis: A rare cause of carpal tunnel syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024968/",
+      "publisher": "Australasian journal of ultrasound in medicine",
+      "year": "2015",
+      "doi": "10.1002/j.2205-0140.2015.tb00047.x",
+      "abstract": "Background : Carpal tunnel syndrome (CTS) is a sporadic event with compression of the median nerve (MN). Persistent median artery (PMA) thrombosis is an exceptionally rare cause of CTS. Case report : 38-year-old male presented with acute on subacute right wrist pain with positive Tinel's sign. An ultrasound and computed angiography study confirmed a PMA with thrombosis. The patient was treated with intravenous heparin then discharged home on enoxaparin and warfarin crossover. Discussion : PMA can lead to CTS by compression from the adjacent median nerve. Thrombosis of the PMA can also lead to CTS. Surgical intervention is needed in cases of severe CTS. Carpal tunnel release is usually successful. Excision of the PMA can risk vascular compromise of the digits. Ultrasound is excellent for detecting rare causes of CTS. Conclusion : Ultrasound examination for CTS should include search for PMA and associated anatomical variations.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.5,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

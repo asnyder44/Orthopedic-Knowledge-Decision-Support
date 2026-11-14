@@ -1,0 +1,390 @@
+{
+  "term": "Elbow Splinting",
+  "collected": "2026-11-14",
+  "count": 21,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Assessing Biomechanical and Clinical Outcomes of an Elbow Orthosis Intervention in Youth Baseball: Preliminary Results",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10819216/",
+      "publisher": "Sports (Basel, Switzerland)",
+      "year": "2024",
+      "doi": "10.3390/sports12010024",
+      "abstract": "Proper orthosis design may help youth baseball players develop safer pitching mechanics to prevent elbow injuries. This study evaluated the impact of a custom elbow orthosis on pitching biomechanics and adverse events. Ten 11-12-year-old players (mean age 11.5 years) from a regional league team were recruited. The inclusion criteria were at least two years of baseball experience. Six players were randomly assigned to the orthosis group, with four in the control group. Anthropometric data and baseline characteristics were recorded. A video analysis assessed elbow flexion angle during pitching at baseline and at 2 months. The frequency of orthosis wear was also tracked. Adverse events during twice-weekly practices were documented. Post-study surveys evaluated orthosis comfort, stability, and safety perceptions. In the orthosis group (n = 6), four participants showed improved elbow flexion angle, and two of the six participants showed almost no change. The overall median difference was 23.5°. In the control group (n = 4), three participants showed improvement, with a median improvement of 5.5°. Twelve adverse events, including pain, were reported by players not wearing orthoses, whereas no events occurred with orthosis use. Individual players in the control group or who did not wear the orthosis correctly experienced multiple episodes of pain from pitching over the study period. This preliminary study indicates a custom elbow orthosis can optimize pitching biomechanics and prevent adverse events in youth baseball players over the course of two months.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Interposition Arthroplasty in Untreated Chronic Dislocation of the Elbow",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9088233/",
+      "publisher": "Journal of the American Academy of Orthopaedic Surgeons. Global research & reviews",
+      "year": "2022",
+      "doi": "10.5435/jaaosglobal-d-21-00034",
+      "abstract": "Objective To describe the clinical outcomes of interposition arthroplasty with transposition of the medial epicondyle to the coronoid process and articulated external fixation in patients with untreated chronic dislocation of the elbow. Methods Fourteen consecutive patients diagnosed with untreated chronic elbow dislocation performed a complete radiological and physical examination. The same surgeon treated all patients with a same technique. Passive mobilization started immediately in addition to the vigorous care of the surgical wound and surrounding skin. Results A total of 14 patients were treated, with a mean age of 31 years, with the nondominant side being the most affected (65%). In the immediate postoperative period, the initial Mayo Elbow Performance Score was 60 pts. In all cases, the distraction from the articulated fixator was removed, and there was an average of 16 pts improvement at the time of removal. A hinged elbow orthosis was placed for 4 weeks starting strengthening and obtained radiographic integration of the neocoronoids; ranges of motion of flexion 122°, extension -6°, and pronosupination 70°, without data of any direction instability. Conclusion Considering that this is one of the longest series with a follow-up of more than 60 months of evolution in our patients, the result is completely satisfactory, achieving the objective of a minimum range of motion of 100° in addition to elbow stability.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Voluntary-Driven Elbow Orthosis with Speed-Controlled Tremor Suppression",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4814799/",
+      "publisher": "Frontiers in bioengineering and biotechnology",
+      "year": "2016",
+      "doi": "10.3389/fbioe.2016.00029",
+      "abstract": "Robotic technology is gradually becoming commonplace in the medical sector and in the service of patients. Medical conditions that have benefited from significant technological development include stroke, for which rehabilitation with robotic devices is administered, and surgery assisted by robots. Robotic devices have also been proposed for assistance of movement disorders. Pathological tremor, among the most common movement disorders, is one such example. In practice, the dissemination and availability of tremor suppression robotic systems has been limited. Devices in the marketplace tend to either be non-ambulatory or to target specific functions, such as eating and drinking. We have developed a one degree-of-freedom (DOF) elbow orthosis that could be worn by an individual with tremor. A speed-controlled, voluntary-driven suppression approach is implemented with the orthosis. Typically tremor suppression methods estimate the tremor component of the signal and produce a canceling counterpart signal. The suggested approach instead estimates the voluntary component of the motion. A controller then actuates the orthosis based on the voluntary signal, while simultaneously rejecting the tremorous motion. In this work, we tested the suppressive orthosis using a one DOF robotic system that simulates the human arm. The suggested suppression approach does not require a model of the human arm. Moreover, the human input along with the orthosis forearm gravitational forces, of non-linear nature, are considered as part of the disturbance to the suppression system. Therefore, the suppression system can be modeled linearly. Nevertheless, the orthosis forearm gravitational forces can be compensated by the suppression system. The electromechanical design of the orthosis is presented, and data from an essential tremor patient is used as the human input. Velocity tracking results demonstrate an RMS error of 0.31 rad/s, and a power spectral density shows a reduction of the tremor signal by 99.8%, while the intentional component power was reduced by <1%.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Diamond McConnells' Taping Technique versus Counterforce Elbow Orthosis in the Treatment of Lateral Epicondylitis: a Randomized Controlled Trial",
+      "url": "http://rehmed.pl/gicid/01.3001.0015.0222",
+      "publisher": "Rehabilitacja Medyczna",
+      "year": "2021",
+      "doi": "10.5604/01.3001.0015.0222",
+      "abstract": "Introduction: Lateral epicondylitis, commonly referred to as tennis elbow, is one of the most common lesions of the arm. There are many treatment options available for tennis elbow; taping techniques and splints are commonly used. Purpose: The objective of this research is to compare the impact of the diamond taping technique and counterforce elbow bands on pain and handgrip strength in patients with lateral epicondylitis. Materials and methods: Forty male patients with lateral epicondylitis (tennis elbow), aged between 30 and 40 years, took part in this study. They were randomly assigned to one of two equivalent groups. Group A received the diamond taping intervention in addition to physical therapy, while group B was treated using an elbow band orthosis along with physical therapy. The JAMAR dynamometer and Visual Analog Scale (VAS) were used to assess handgrip strength and pain intensity respectively, before and following 4 weeks (12 sessions) of treatment. Results: Group A demonstrated significant improvement of both handgrip strength and pain intensity, while group B showed significant improvement of pain only. Conclusion: Diamond taping demonstrated a strong impact upon pain and handgrip strength in individuals with lateral epicondylitis. It is suggested that the diamond taping technique can be valuable in the treatment of lateral epicondylitis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.84,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Prospective randomized controlled trial in the treatment of lateral epicondylitis with a new dynamic wrist orthosis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6138897/",
+      "publisher": "European journal of medical research",
+      "year": "2018",
+      "doi": "10.1186/s40001-018-0342-9",
+      "abstract": "Background In the treatment of lateral epicondylitis (LE), the role of a new dynamic wrist orthosis is unclear. Patients and methods Patients suffering from a LE longer than 3 months were multicentrically and prospectively randomized into a physiotherapeutic group (PT group) and in a physiotherapy group plus wrist orthosis (PT + O group). Physiotherapy consisted of daily eccentric strengthening exercises under initial professional supervision. Inclusion criteria were a Placzek score greater than 4. Exclusion criteria were previous surgery, rheumatic arthritis, elbow instability, radicular symptoms, higher-grade extensor tendon rupture, or cervical osteoarthritis. The clinical evaluation was performed after 12 weeks and 12 months. The Patient-Rated Tennis Elbow Evaluation (PRTEE) scale, Placzek Score, the pain rating (VAS), range of motion and the Subjective Elbow Score were evaluated. Results Of the initially 61 patients, 31 were followed up after 12 weeks and 22 after 12 months. Twenty-nine patients (43%) were male, the mean age was 46, and 44 patients (66%) had the right elbow involved. At 12 weeks, there was a pain reduction on the VAS in both groups (PT + O: 6.5-3.7 [p = .001]; PT: 4.7-4.1 [p = .468]), albeit it was only significant for the PT + O group. At 12 months, reduction was significant in both groups (PT + O: 1.1 [p = .000]; PT: 1.3 [p = .000]). The painless maximum hand strength in kg improved in both groups significant after 3 and 12 months. The Placzek score was reduced from 8.25 to 3.5 [p = .001] after 12 weeks for the PT + O group and from 8.1 to 3.8 [p = .000] in the PT group, as well as after 12 months in the PT + O group to 0 [p = .000] and in the PT group to 2.0 [p = .000]. The PRTEE improved in both groups after 12 weeks (PT + O: 52.8--31.3 [p = .002]; PT: 48.6-37.6 [p = .185]) and 12 months (PT + O: 16.15 [p = .000]; PT: 16.6 [p = .000]), although the reduction at 12 weeks was not significant for the PT group. Conclusion The elbow orthosis appears to accelerate the healing process with respect to the PRTEE and pain on the VAS (12 weeks follow-up), although there is an adjustment after 12 months in both groups and a significant improvement of symptoms is achieved in all endpoints.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.72,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Safety-Governed Development of a Pediatric Robotic Elbow Orthosis for Arthrogryposis Multiplex Congenita: A Multi-Standard Case Study in an Academic Resource-Constrained Setting",
+      "url": "https://www.mdpi.com/2218-6581/15/7/133",
+      "publisher": "Robotics",
+      "year": "2026",
+      "doi": "10.3390/robotics15070133",
+      "abstract": "Robotic systems for pediatric rehabilitation must provide precise mechanical assistance while ensuring clinically appropriate risk control for vulnerable populations. In low- and middle-income countries (LMICs), academic medical robotics projects frequently fail to progress beyond intermediate Technology Readiness Levels (TRLs 3–5) due to limited translational planning. This study proposes and evaluates an integrated governance framework for academic pediatric rehabilitation robotics in LMIC settings, applied through the development of the AMCOR robotic orthosis for pediatric arthrogryposis multiplex congenita (AMC). The framework combines multiple national and international medical devices development standards and a dual regulatory pathway separating academic development from future translational stages. The framework is structured around four principles—auditability, TRL-proportional documentation, binding decision criteria, and regulatory separation—and is operationalized through a six-gate process. Across the first two gates (G0–G1), 38 traced requirements and 12 failure modes were documented. Five internal audits confirmed operational implementation of the quality management structure. The framework application also shaped core engineering decisions. The low amplitude and poor signal-to-noise ratio of sEMG signals observed in pediatric AMC patients rendered the original single-layer control strategy inadequate, prompting a framework-governed redesign toward a three-layer adaptive architecture based on signal quality thresholds and fallback safety logic. These findings demonstrate that a prospective, multi-standard governance model can improve early-stage academic medical robotics in resource-constrained settings. Generalizability beyond the single-center, two-gate application reported here requires further validation; however, the framework provides a replicable foundation for adoption in comparable LMIC contexts.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Evaluating the efficacy of hinged elbow braces in reducing passive valgus forces after ulnar collateral ligament injury-A biomechanical study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11696245/",
+      "publisher": "Journal of experimental orthopaedics",
+      "year": "2025",
+      "doi": "10.1002/jeo2.70094",
+      "abstract": "Purpose This biomechanical study aimed to investigate the effectiveness of a hinged elbow orthosis in reducing passive valgus forces following medial ulnar collateral ligament (UCL) injuries of the elbow joint. The hypothesis tested was that a hinged elbow orthosis reduces these passive valgus forces. Methods Eight fresh frozen cadaveric elbow specimens were prepared and tested under three scenarios: intact ligaments, simulated UCL rupture and application of a hinged elbow brace after simulated UCL rupture. Valgus instability was assessed using a custom testing set-up and the Optotrak motion capture system. Statistical analysis was conducted to compare the results across scenarios. Results Intraclass correlation (ICC) calculation showed that the testing set-up was reliable in investigating valgus deflection across all levels of applied force. The hinged elbow brace reduced passive valgus forces after UCL rupture. The reduction in valgus instability was consistent with close approximation to the native state, although not reaching its level. Conclusion The hypothesis-that a hinged elbow orthosis significantly reduces passive valgus forces in the elbow following UCL injuries-is not supported by the data and therefore has to be rejected. Nevertheless, the study demonstrates a tendency that a hinged elbow brace could mitigate these forces, at least in an experimental cadaveric model with static study conditions. Level of evidence The level of evidence of this study is level IV.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Design and Development of a Powered Myoelectric Elbow Orthosis for Neuromuscular Injuries",
+      "url": "https://doi.org/10.1093/milmed/usae196",
+      "publisher": "Oxford University Press (OUP)",
+      "year": "2024",
+      "doi": "10.1093/milmed/usae196",
+      "abstract": "ABSTRACT Introduction Recovering from neuromuscular injuries or conditions can be a challenging journey that involves complex surgeries and extensive physical rehabilitation. During this process, individuals often rely on orthotic devices to support and enable movement of the affected limb. However, users have criticized current commercially available powered orthotic devices for their bulky and heavy design. To address these limitations, we developed a novel powered myoelectric elbow orthosis. Materials and Methods The orthosis incorporates 3 mechanisms: a solenoid brake, a Bowden cable-powered constant torque elbow mechanism, and an extension limiter. The device controller and battery are in a backpack to reduce the weight on the affected arm. We performed extensive calculations and testing to ensure that the orthosis could withstand at least 15 Nm of elbow torque. We developed a custom software effectively control the orthosis, enhancing its usability and functionality. A certified orthotist fitted a subject who had undergone a gracilis free functioning muscle transfer surgery with the device. We studied the subject under Mayo clinic IRB no. 20-006849 and obtained objective measurements to assess the orthosis’s impact on upper extremity functionality during daily activities. Results The results are promising since the orthosis significantly improved elbow flexion range of motion by 40° and reduced compensatory movements at the shoulder (humerothoracic joint) by 50°. Additionally, the subject was able to perform tasks which were not possible before, such as carrying a basket with weights, highlighting the enhanced functionality provided by the orthosis. Conclusion In brief, by addressing the limitations of existing devices, this novel powered myoelectric elbow orthosis offers individuals with neuromuscular injuries/conditions improved quality of life. Further research will expand the patient population and control mechanisms.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "REVIEW OF ARTICULATED ELBOW ORTHOTICS FOR JOINT STIFFNESS REHABILITATION",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9670792/",
+      "publisher": "Acta ortopedica brasileira",
+      "year": "2022",
+      "doi": "10.1590/1413-785220223005e254358",
+      "abstract": "Joint stiffness is the most common complication in elbow injuries, presenting several etiologies and pathophysiological mechanisms that hinder treatment and prognosis. Prevention and treatment of joint contracture depend on the cause of stiffness, and early intervention should modify its outcomes. The methods used may be conservative or surgical, alone or in combination, according to each individual situation. Objective Review articles on articulated elbow orthosis for joint stiffness rehabilitation. Methods A literature review was conducted in journals available at the PubMed, Medline and LILACS databases, using the following Health Science Descriptors (DeCS): orthotic devices; braces; elbow; elbow joint; contracture; joint disorders. It sought to retrieve and analyze studies with the highest level of evidence that have already been conducted on articulated elbow orthosis for joint stiffness rehabilitation. Results After applying the inclusion and exclusion criteria, four articles were included from PubMed and none from Medline or LILACS. Of the four PubMed articles, two were systematic reviews and two were randomized clinical trials. Conclusion Articulated elbow orthoses can benefit joint stiffness treatment, improving range of motion and pain, showing superior effect compared to non-articulated plaster orthotics. Level of Evidence III, Systematic Review of Level III Studies.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Experimental Testing of a Prototype of an Active Elbow Orthosis Based on in vivo Investigation of Elbow Flexion/Extension of Healthy Subjects",
+      "url": "http://www.biomed.bas.bg/bioautomation/2022/vol_26.2/files/26.2_04.pdf",
+      "publisher": "International Journal Bioautomation",
+      "year": "2022",
+      "doi": "10.7546/ijba.2022.26.2.000865",
+      "abstract": "Many people have problems with elbow joint driving because of different diseases, sport trauma, road traffic injuries, etc. A good way for restoring elbow motions is a self-rehabilitation using an active orthosis. It has to be light, convenient for daily use, active, easy to control by patients, and safe. The paper presents a prototype of an active elbow orthosis. The plastic details were designed using a CAD system and were 3D printed. The joint was driven by a Dynamixel actuator. To increase the joint moment, a reduction gear-belt drive was constructed and applied. Experiments with six healthy subjects were performed using a Noraxon measuring system, aiming to investigate elbow joint angles in natural movements with four different velocities of elbow flexion and extension without and with a load of 0.5 kg in the hand. The four velocities (from very slow to very fast) were controlled by a specialized PC application. In order to achieve similar motions of the orthosis, the angle profiles were approximated so that the motion was between 10° and 120° because of electro/mechanical and software safety stoppers. Experiments were performed with the orthosis following the given angle profile without load and with a load of 0.5 kg. The results show that the orthosis’ forearm performs the given angle and angular speed profiles with enough precision.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Solution of the contact task of the elbow orthosis prototype",
+      "url": "https://doi.org/10.46299/j.isjea.20220105.10",
+      "publisher": "International Science Group",
+      "year": "2022",
+      "doi": "10.46299/j.isjea.20220105.10",
+      "abstract": "Over the past two decades, upper limb exoskeletons used for service delivery and rehabilitation have attracted attention from the biomedical and engineering sectors. Technology is becoming one of the key solutions for physically weak or disabled people. Mechanical devices were developed to improve the performance and strength of the user. Devices that help the patient during postoperative or post-traumatic rehabilitation after joint damage of various types are orthoses. There are different types of orthoses, such as mechanical, active with EMG functions, exoskeletons, and others. In this work, an overview of various types of orthoses is given, problems of fixing orthoses elements are considered. In the review of the literature related to these studies, the advantages and disadvantages of bolted connections are given. Two contact problems of the orthosis were also considered and the stress-strain state of the bolted joint of the structural elements of the elbow orthosis prototype under study was determined using the FEMAP with NASTRAN software package. Based on the necessary operating conditions, a prototype model of the orthosis was presented.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Surface EMG signals in very late-stage of Duchenne muscular dystrophy: a case study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5576133/",
+      "publisher": "Journal of neuroengineering and rehabilitation",
+      "year": "2017",
+      "doi": "10.1186/s12984-017-0292-4",
+      "abstract": "Abstract Background Robotic arm supports aim at improving the quality of life for adults with Duchenne muscular dystrophy (DMD) by augmenting their residual functional abilities. A critical component of robotic arm supports is the control interface, as is it responsible for the human-machine interaction. Our previous studies showed the feasibility of using surface electromyography (sEMG) as a control interface to operate robotic arm supports in adults with DMD (22-24 years-old). However, in the biomedical engineering community there is an often raised skepticism on whether adults with DMD at the last stage of their disease have sEMG signals that can be measured and used for control. Findings In this study sEMG signals from Biceps and Triceps Brachii muscles were measured for the first time in a 37 year-old man with DMD (Brooke 6) that lost his arm function 15 years ago. The sEMG signals were measured during maximal and sub-maximal voluntary isometric contractions and evaluated in terms of signal-to-noise ratio and co-activation ratio. Beyond the profound deterioration of the muscles, we found that sEMG signals from both Biceps and Triceps muscles were measurable in this individual, although with a maximum signal amplitude 100 times lower compared to sEMG from healthy subjects. The participant was able to voluntarily modulate the required level of muscle activation during the sub-maximal voluntary isometric contractions. Despite the low sEMG amplitude and a considerable level of muscle co-activation, simulations of an elbow orthosis using the measured sEMG as driving signal indicated that the sEMG signals of the participant had the potential to provide control of elbow movements. Conclusions To the best of our knowledge this is the first time that sEMG signals from a man with DMD at the last-stage of the disease were measured, analyzed and reported. These findings offer promising perspectives to the use of sEMG as an intuitive and natural control interface for robotic arm supports in adults with DMD until the last stage of the disease.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Newly Designed Tennis Elbow Orthosis With a Traditional Tennis Elbow Strap in Patients With Lateral Epicondylitis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278760/",
+      "publisher": "Trauma monthly",
+      "year": "2016",
+      "doi": "10.5812/traumamon.35993",
+      "abstract": "Background Lateral epicondylitis is a common cause of pain and upper limb dysfunction. The use of counterforce straps for treatment of lateral epicondylitis is widespread. This kind of orthosis can be modified to have a greater effect on relieving pain by reducing tension on the origin of the extensor pronator muscles. Objectives To determine the immediate effects of a newly designed orthosis on pain and grip strength in patients with lateral epicondylitis. Materials and methods Twelve participants (six men and six women) were recruited (mean age = 41 ± 6.7 years) and evaluated for pain and grip strength in three sessions. A 48-hour break was taken between each session. The first session was without any orthosis, the second session was with the new modified tennis elbow orthosis, and the third session was with a conventional tennis elbow strap. Results Both counterforce straps were effective. However, significantly more improvement was observed in pain and grip strength after using the newly modified orthosis (P Conclusions The newly designed strap reduces pain more effectively and improves grip strength by causing greater localized pressure on two regions with different force applications (two component vectors versus one).",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "MANUFACTURING AND NUMERICAL ANALYSIS OF ELBOW ORTHOSIS MADE OF POLYPROPYLENE – CARBON FIBER – POLYPROPYLENE",
+      "url": "https://jeasd.uomustansiriyah.edu.iq/index.php/jeasd/article/view/590",
+      "publisher": "Journal of Engineering and Sustainable Development",
+      "year": "2016",
+      "doi": "",
+      "abstract": "In this work, elbow orthosis which represents one of the upper extremity orthosis is manufactured from two layers of polypropylene reinforced by a sheet of carbon fiber between them to construct a new composite material called \"PCP\" material. More flexibility is gained by minimization of the modulus of elasticity of polypropylene-carbon fiber- polypropylene to about 3.5 against old material. Average pressure is measured between the patient's arm and bicep part of elbow using a portable pressure device (has mat of sensors) which reach to about 217kPa. ANSYS PACKAGE version 11 is used for numerical analysis the bicep part of elbow by using the estimated internal pressure to investigate deformation and to determine the Von – Misses stress. The investigated numerical results showed that the new material maximizes the deformation to about 280% (still in elastic region) and make the design more safe by increasing the factor of safety more than 4 % against polypropylene material. Mechanical properties are measured also in present work by carrying out the tensile test for the two materials under study to conclude finally that, the sheet of carbon fiber which is added has increased the mechanical properties to about 8.25 % and 248 % for yield and ultimate stresses, respectively.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A COMPARATIVE STUDY TO FIND OUT IMMEDIATE EFFECTIVENESS OF MOVEMENT WITH MOBILIZATION VERSUS ELBOW ORTHOSIS ON PAIN AND GRIP STRENGTH IN LATERAL EPICONDYLITIS IN HOUSEWIVES",
+      "url": "https://www.ijphy.org/index.php/journal/article/view/199",
+      "publisher": "International Journal of Physiotherapy",
+      "year": "2015",
+      "doi": "10.15621/ijphy/2015/v2i6/80772",
+      "abstract": "Background: There are various studies using Mulligan’s MWM with or without combining with electrotherapy modalities and proved the efficacy of the technique in immediately decreasing pain and improving grip strength in patients with lateral epicondylitis. Orthotic as a treatment is also proved to be beneficial in decreasing pain and improving grip strength. There is evidence that housewives are prone to develop lateral epicondylitis due to their routine household work. But there is lack of evidence which compare initial effects of MWM and orthosis in housewives bringing up better outcome measures. The purpose of this study is to compare the initial effectiveness of Mulligan’s MWM and elbow orthosis on pain and grip strength in housewives with lateral epicondylitis. The aim of the study is to evaluate the effectiveness of Mulligan’s MWM technique versus counterforce elbow orthosis in immediately reducing pain and improving grip strength in lateral epicondylitis in housewives. Methodos: All subjects underwent a pre-treatment examination to assess pain and pain free hand grip strength with the help of outcome measures. Subjects were randomly assigned into two groups, A and B respectively; having 25 subjects in each group. Group A was treated with one session of Mulligan’s MWM technique. Group B was treated with Counterforce elbow strap orthosis. Data was assessed pre-treatment and immediately after treatment. Visual Analogue Scale (VAS) and hand grip on Hand Grip Dynamometer (HGD) were used as outcome measures. Results: Independent t-test was performed to see the effectiveness between Mulligan’s MWM and elbow orthosis. For VAS, t = - 2.243 which is significant at 5% level of significance. It has been inferred that VAS decreases more when Mulligan’s MWM was applied. For HGD, t = 0.878 which is not significant implying that increase in HGD do not differ remarkably for the two treatments. Conclusion: It has been recorded from the study that both Mulligan’s MWM technique and counter force elbow orthosis produces significant decrease in pain and improvement in grip strength immediately after treatment. It has been seen that Mulligan’s MWM is better than counter force elbow orthosis in relieving pain (p=0.03). Increase in hand grip strength does not differ remarkably in both treatment groups.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Active Elbow Orthosis",
+      "url": "https://doi.org/10.5772/58874",
+      "publisher": "SAGE Publications",
+      "year": "2014",
+      "doi": "10.5772/58874",
+      "abstract": "This paper presents a novel approach to the design of a motorized rehabilitation device – active elbow orthosis (AEO) – inspired by the principles of robotic exoskeletons. The device is currently designed for the elbow joint, but can be easily modified for other joints as well. AEO determines the motion activity of the patient using a strain gauge and utilizes this measurement to control the actuator that drives the forearm part of the orthosis. Patient activity level is related to a free arm measurement obtained via a calibration procedure prior to the exercise. A high-level control module offers several types of exercises mimicking the physiotherapist. The device was successfully verified by tests on a number of patients, resulting in extended range of elbow-joint motion.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Let them move: Early range of motion and rehabilitation after fixation of medial epicondyle fractures in adolescent athletes",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12920156/",
+      "publisher": "Journal of children's orthopaedics",
+      "year": "2026",
+      "doi": "10.1177/18632521261423069",
+      "abstract": "Background: Medial epicondyle fractures account for 11%–20% of pediatric elbow fractures. While nonoperative treatment is effective, surgery is often recommended for overhead athletes to enhance union rates, valgus stability, and expedited return to sporting activities. Postoperative recovery protocols vary, with traditionally up to 2 weeks of strict immobilization and rehabilitation lasting 6–12 months. This study evaluates the early range of motion (ROM) and accelerated rehabilitation in high-performing youth athletes undergoing surgical fixation. Methods: A retrospective review included patients aged 12–17 who underwent medial epicondyle fracture fixation (2015–2023). Those with concomitant injuries were excluded. Recovery was assessed by unrestricted Return to Sports (RTS). Results: 18 patients (mean age 14) were included. Postoperatively, all wore a hinged elbow orthosis locked at 90° flexion. At 1 week, extension was allowed to −30°, with flexion as tolerated. Physical therapy was initiated, focusing on gentle stretching to full ROM out of the brace. Patients remained in a hinged elbow brace for an average of 4.47 weeks before transitioning to a hinged sleeve or discontinuing brace use. After 4–6 weeks, physical therapy increased with emphasis on strengthening and terminal extension. For the 16 baseball players included, progressive return to throw and hit programs began at an average of 8.6 weeks. All patients returned to sports without restriction at an average of 13.4 weeks. Conclusion: Early mobilization and accelerated rehabilitation following medial epicondyle fracture fixation facilitate a faster RTS in high-demand youth athletes. Levels of Evidence IV: Case series.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Design of an Elbow Magnetorheological Rehabilitation Orthosis for Patients with Spasticity",
+      "url": "https://www.mdpi.com/2076-0825/15/3/158",
+      "publisher": "Actuators",
+      "year": "2026",
+      "doi": "10.3390/act15030158",
+      "abstract": "Stroke survivors with spasticity, an involuntary increase in muscle tone, often struggle to access specialized equipment and medical support for their rehabilitation. Rehabilitation exercises are daily routines requiring patients to perform repetitive movements of their spastic joints. To reduce patient mobilization within hospitals, offering orthoses suitable for use in home settings, outside of clinical environments, is required to limit the involvement of healthcare personnel in the treatment of hemiparesis for patients. Such orthoses must be designed to be portable and be able to tolerate the erratic motions of spasms without breaking or injuring patients. This paper presents the use of magnetorheological actuators to design an elbow orthosis, improving weight, reactivity, and transparence necessary for effective rehabilitation of spastic patients. A prototype is designed, built, and characterized experimentally. Results suggest that the technology is lightweight and highly transparent to erratic motion, and thus well-suited for spastic patients.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Enabling automated and personalized motor assessment in neurorehabilitation: generating patient-specific benchmark movements with Virtual Humanoid Twin",
+      "url": "https://hal.science/hal-05547996v2",
+      "publisher": "HAL open archive",
+      "year": "2026",
+      "doi": "10.1109/ICRA57385.2026.11695944",
+      "abstract": "Recovering upper-limb motor functions impaired by trauma or neurological disease is a long and challenging process. To monitor a patient's progress through the various stages of rehabilitation and guide therapy, regular movement assessment is essential. However, such evaluations are rarely conducted in clinical practice due to time constraints and the need for cumbersome equipment. A key limitation is the access to reference (benchmark) motion data, typically derived from averaged movements of unimpaired individuals, which requires new data collection for each task and lacks personalization (e.g., accounting for individual morphology or motor abilities). We present a novel method to generate patient-specific reference motions directly from the patient's hand pose using a personalized model of the patient, the Virtual Humanoid Twin (VHT). By solving an ergonomic-based optimal control problem, our approach produces tailored reference motions without prior task-specific data. We validated this method on two motor tasks (reaching and pouring) using data from seven unimpaired participants, with and without an elbow orthosis restricting motion. Analysis of joint trajectories, range of motion, and normalized multi-dimensional Dynamic Time Warping confirmed that VHT-generated motions were more ergonomic than those with the orthosis and closely matched natural movements. The method's rapid generation time can also enable real-time reference motion estimation, parallel to the patient's movements. This innovation simplifies access to reference motions while providing personalization. It creates opportunities for automated motor assessment in neurorehabilitation, enhancing patient recovery tracking through regular evaluations.",
+      "licence": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Estimation of the muscle force by perineural intramuscular electrical stimulation in healthy volunteers",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11479414/",
+      "publisher": "Medicine",
+      "year": "2024",
+      "doi": "10.1097/md.0000000000040043",
+      "abstract": "The present study aimed to evaluate the elbow flexor force induced by perineural intramuscular stimulation compared with surface electrical stimulation (ES) and maximal voluntary contraction. Thirty nondominant arms of healthy volunteers were evaluated. Isometric elbow flexion force was evaluated using a surface electrode stimulation at the biceps brachii muscle, a perineural intramuscular stimulation around the musculocutaneous nerve, and maximum voluntary contraction. The elbow flexion force was measured at the wrist volar area in a 90° elbow flexion posture, fixed with a rigid elbow orthosis. Pain and discomfort associated with ES were evaluated using a numeric rating scale. The mean maximum elbow flexion force was 16.6 ± 4.1 kgf via voluntary contraction. The mean elbow flexion force by ES was 2.9 ± 2.0 kgf, stimulation intensity was 24.8 ± 5.5 mA, and the numeric rating scale was 5.0 ± 2.5 via surface electrode stimulation and 3.1 ± 2.0 kgf, 5.0 mA, and 3.8 ± 1.9 via perineural stimulation, respectively. ES provides 16% to 18% of the maximal voluntary contraction force in elbow flexion, which corresponds to a fair grade of muscle force. Perineural intramuscular stimulation can generate an equivocal contraction force with less discomfort in elbow flexion than surface electrode stimulation.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Cubital tunnel syndrome: current principles of diagnosis and treatment",
+      "url": "https://nnp.ima-press.net/nnp/article/view/1126",
+      "publisher": "Неврология, нейропсихиатрия, психосоматика",
+      "year": "2019",
+      "doi": "10.14412/2074-2711-2019-2S-89-97",
+      "abstract": "Cubital tunnel syndrome (CTS) is manifested as hand sensory and motor impairments due to ulnar nerve compression in the cubital tunnel. The diagnosis is based on clinical data and is confirmed by electroneuromyography and ultrasonography. Conservative treatment methods (avoiding certain postures and movements; elbow splinting or orthosis use; and special exercises) is indicated for early-stage and mild CTS. Surgical treatment is indicated when conservative treatment is ineffective and when a patient has objective hand muscle weakness and atrophy. The paper considers the etiology, pathogenesis, and risk factors of CTS, and principles of its clinical and instrumental diagnosis and treatment in patients with this condition.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

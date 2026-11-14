@@ -1,11 +1,54 @@
 ko_id,preferred_term,alternate_terms,ko_type,specialty,mesh_id,icd10cm,status
+KO-FOOT-COND-001,Ankle Sprain,sprained ankle; lateral ankle sprain,Condition,FOOT,,,planned
+KO-FOOT-COND-002,Plantar Fasciitis,plantar heel pain,Condition,FOOT,,,planned
+KO-FOOT-COND-003,Achilles Tendon Rupture,ruptured Achilles tendon,Condition,FOOT,,,planned
+KO-FOOT-COND-004,Achilles Tendinopathy,Achilles tendinitis,Condition,FOOT,,,planned
+KO-FOOT-COND-005,Hallux Valgus,bunion,Condition,FOOT,,,planned
 KO-HAND-ANAT-001,Median Nerve,,AnatomicalStructure,HAND,,,drafted
 KO-HAND-ANAT-002,Carpal Tunnel,,AnatomicalStructure,HAND,,,drafted
+KO-HAND-ANAT-003,Ulnar Nerve,,AnatomicalStructure,HAND,,,planned
+KO-HAND-ANAT-004,Cubital Tunnel,,AnatomicalStructure,HAND,,,planned
+KO-HAND-ANAT-005,Transverse Carpal Ligament,flexor retinaculum,AnatomicalStructure,HAND,,,planned
+KO-HAND-CONC-001,Hand Numbness and Tingling,paresthesia; hand paresthesia; pins and needles,Concept,HAND,,,planned
 KO-HAND-COND-001,Carpal Tunnel Syndrome,CTS; median nerve compression at the wrist,Condition,HAND,,G56.0-,drafted
 KO-HAND-COND-002,Cubital Tunnel Syndrome,ulnar nerve entrapment at the elbow,Condition,HAND,,,drafted
-KO-HAND-COND-003,Trigger Finger,stenosing tenosynovities,Condition,HAND,,,planned
+KO-HAND-COND-003,Trigger Finger,stenosing tenosynovitis; stenosing flexor tenosynovitis,Condition,HAND,,,planned
+KO-HAND-COND-004,De Quervain Tenosynovitis,de Quervain's tenosynovitis; de Quervain syndrome,Condition,HAND,,,planned
+KO-HAND-COND-005,Dupuytren Contracture,Dupuytren's contracture; Dupuytren disease,Condition,HAND,,,planned
+KO-HAND-DEV-001,Wrist Orthosis,wrist orthotic device,Device,HAND,,,planned
 KO-HAND-DX-001,Nerve Conduction Study,NCS; electrodiagnostic testing,DiagnosticTest,HAND,,,drafted
 KO-HAND-DX-002,Phalen's Test,wrist flexion test,DiagnosticTest,HAND,,,drafted
+KO-HAND-DX-003,Electromyography,EMG; needle electromyography,DiagnosticTest,HAND,,,planned
+KO-HAND-DX-004,Tinel's Sign,Tinel sign; Tinel's test,DiagnosticTest,HAND,,,planned
+KO-HAND-DX-005,Nerve Ultrasound,peripheral nerve ultrasound; wrist ultrasound,DiagnosticTest,HAND,,,planned
+KO-HAND-DX-006,Durkan's Test,carpal compression test,DiagnosticTest,HAND,,,planned
+KO-HAND-OUT-001,Boston Carpal Tunnel Questionnaire,BCTQ; Levine questionnaire,OutcomeMeasure,HAND,,,planned
 KO-HAND-PROC-001,Carpal Tunnel Release,CTR; open release; endoscopic release,Procedure,HAND,,,drafted
+KO-HAND-PROC-002,Trigger Finger Release,A1 pulley release; percutaneous trigger finger release,Procedure,HAND,,,planned
+KO-HAND-PROC-003,Cubital Tunnel Release,in situ decompression of the ulnar nerve,Procedure,HAND,,,planned
+KO-HAND-PROC-004,Ulnar Nerve Transposition,anterior transposition of the ulnar nerve,Procedure,HAND,,,planned
+KO-HAND-REHAB-001,Recovery After Carpal Tunnel Release,carpal tunnel release rehabilitation,RehabProtocol,HAND,,,planned
 KO-HAND-TRT-001,Wrist Splinting,wrist brace; night splint,Treatment,HAND,,,drafted
 KO-HAND-TRT-002,Corticosteroid Injection,steroid shot,Treatment,HAND,,,drafted
+KO-HAND-TRT-003,Hand Therapy Exercises,nerve gliding exercises; tendon gliding exercises; nerve gliding; tendon gliding,Treatment,HAND,,,planned
+KO-HAND-TRT-004,Elbow Splinting,night elbow brace; elbow extension splint; cubital tunnel splint; elbow orthosis,Treatment,HAND,,,planned
+KO-JOINT-COND-001,Knee Osteoarthritis,knee arthritis; osteoarthritis of the knee,Condition,JOINT,,,planned
+KO-JOINT-COND-002,Hip Osteoarthritis,hip arthritis; osteoarthritis of the hip,Condition,JOINT,,,planned
+KO-JOINT-PROC-001,Total Knee Arthroplasty,total knee replacement; TKA,Procedure,JOINT,,,planned
+KO-JOINT-PROC-002,Total Hip Arthroplasty,total hip replacement; THA,Procedure,JOINT,,,planned
+KO-JOINT-TRT-001,Exercise Therapy for Knee Osteoarthritis,physical therapy for knee arthritis,Treatment,JOINT,,,planned
+KO-SPINE-COND-001,Lumbar Spinal Stenosis,spinal stenosis; neurogenic claudication,Condition,SPINE,,,planned
+KO-SPINE-COND-002,Lumbar Disc Herniation,herniated disc; slipped disc; sciatica from a disc,Condition,SPINE,,,planned
+KO-SPINE-COND-003,Adolescent Idiopathic Scoliosis,scoliosis,Condition,SPINE,,,planned
+KO-SPINE-PROC-001,Spinal Fusion,lumbar fusion; spinal arthrodesis,Procedure,SPINE,,,planned
+KO-SPINE-TRT-001,Physical Therapy for Low Back Pain,exercise therapy for low back pain,Treatment,SPINE,,,planned
+KO-SPORT-COND-001,Anterior Cruciate Ligament Tear,ACL tear; ACL injury; ACL rupture,Condition,SPORT,,,planned
+KO-SPORT-COND-002,Meniscus Tear,meniscal tear; torn meniscus,Condition,SPORT,,,planned
+KO-SPORT-COND-003,Rotator Cuff Tear,torn rotator cuff; rotator cuff injury,Condition,SPORT,,,planned
+KO-SPORT-COND-004,Lateral Epicondylitis,tennis elbow; lateral elbow tendinopathy,Condition,SPORT,,,planned
+KO-SPORT-PROC-001,ACL Reconstruction,anterior cruciate ligament reconstruction,Procedure,SPORT,,,planned
+KO-TRAUMA-COND-001,Hip Fracture,femoral neck fracture; broken hip,Condition,TRAUMA,,,planned
+KO-TRAUMA-COND-002,Distal Radius Fracture,broken wrist; Colles fracture,Condition,TRAUMA,,,planned
+KO-TRAUMA-COND-003,Osteoporotic Fracture,fragility fracture,Condition,TRAUMA,,,planned
+KO-TRAUMA-PROC-001,Open Reduction and Internal Fixation,ORIF,Procedure,TRAUMA,,,planned
+KO-TRAUMA-TRT-001,Cast Immobilization,casting; plaster cast,Treatment,TRAUMA,,,planned

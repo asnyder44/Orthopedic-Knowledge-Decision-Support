@@ -16,6 +16,8 @@ dependencies = [
     "jsonschema>=4.20",
     "python-dotenv>=1.0",
     "certifi>=2024.2.2",
+    # Use the operating system's certificate store for outgoing requests (campus/corporate networks).
+    "truststore>=0.9",
     "anthropic>=2.0,<3",
     "openai>=1.40",
 ]

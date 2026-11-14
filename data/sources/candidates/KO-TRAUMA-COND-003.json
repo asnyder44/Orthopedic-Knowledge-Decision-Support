@@ -1,0 +1,855 @@
+{
+  "term": "Osteoporotic Fracture",
+  "collected": "2026-11-14",
+  "count": 47,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Clinical efficacy and safety of drug interventions for primary and secondary prevention of osteoporotic fractures in postmenopausal women: Network meta-analysis followed by factor and cluster analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0234123",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0234123",
+      "abstract": "We aimed to evaluate the comparative efficacy and safety of drugs respectively for primary prevention and secondary prevention of osteoporotic fractures in postmenopausal women (PMW), and to further identify the optimal intervention(s) respectively for the two groups when efficacy and safety both considered. We searched three databases. Bayesian network meta-analyses were conducted for two efficacy outcomes (vertebral fractures and nonvertebral fractures) and two safety outcomes (tolerability and acceptability) respectively in primary prevention group and secondary prevention group. We synthesized hazard ratios (HRs) and 95% confidence intervals (CIs) for nonvertebral fractures, and risk ratios (RRs) for three others. Factor and cluster analyses on surface under the cumulative ranking curve (SUCRA) values were conducted to identify the best intervention(s) with efficacy and safety both considered. The study protocol has been registered in PROSPERO. We included 57 randomized trials involving fifteen anti-osteoporotic interventions and 106320 PMW. For primary prevention, only zoledronate (once per 18 months) reduced both vertebral (RR 0.46, 95% CI 0.28–0.74) and nonvertebral (HR 0.66, 95% CI 0.51–0.85) fractures. For secondary prevention, abaloparatide, alendronate, denosumab, lasofoxifene, risedronate, romosozumab, teriparatide, and zoledronate (once per 12 months) reduced both vertebral (RRs: from 0.17 to 0.62) and nonvertebral (HRs: from 0.54 to 0.81) fractures. PTH (1–84) and abaloparatide increased withdrawal risk. Romosozumab, teriparatide, denosumab and risedronate, with the greatest composite scores, constituted the optimal cluster having both superior efficacy and superior safety. Zoledronate used at 5 mg per 18 months, with the similar safety as placebo, is the only drug intervention which has been shown to significantly reduce both vertebral and nonvertebral fractures for primary prevention of osteoporotic fractures in PMW; while romosozumab, teriparatide, denosumab, and risedronate are the optimal treatments for secondary prevention when efficacy and safety both considered. A limitation is that safety outcomes failed to consider the severity of adverse effects.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.9,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Biomechanical Characteristics of Osteoporotic Fracture Healing in Ovariectomized Rats: A Systematic Review",
+      "url": "https://doi.org/10.1371/journal.pone.0153120",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0153120",
+      "abstract": "Biomechanical tests are widely used in animal studies on osteoporotic fracture healing. However, the biomechanical recovery process is still unknown, leading to difficulty in choosing time points for biomechanical tests and in correctly assessing osteoporotic fracture healing. To determine the biomechanical recovery process during osteoporotic fracture healing, studies on osteoporotic femur fracture healing with biomechanical tests in ovariectomized rat (OVX) models were collected from PUBMED, EMBASE, and Chinese databases. Quadratic curves of fracture healing time and maximum load were fitted with data from the analyzed studies. In the fitted curve for normal fractures, the predicted maximum load was 145.56 N, and the fracture healing time was 88.0 d. In the fitted curve for osteoporotic fractures, the predicted maximum load was 122.30 N, and the fracture healing time was 95.2 d. The maximum load of fractured femurs in OVX rats was also lower than that in sham rats at day 84 post-fracture (D84 PF). The fracture healing time was prolonged and maximum load at D84 PF decreased in OVX rats with closed fractures. The maximum load of Wister rats was higher than that of Sprague-Dawley (SD) rats, but the fracture healing time of SD and Wister rats was similar. Osteoporotic fracture healing was delayed in rats that were 12 weeks old at ovariectomy. There was no significant difference in maximum load at D84 PF between rats with an osteoporosis modeling time = 12 weeks. In conclusion, fracture healing was delayed and biomechanical property decreased by osteoporosis. Time points around D95.2 PF should be considered for biomechanical tests of osteoporotic femur fracture healing in OVX rat models. Osteoporotic fracture healing in OVX rats was affected by the fracture type but not by the strain of the rat.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.74,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "WNT16 influences bone mineral density, cortical bone thickness, bone strength, and osteoporotic fracture risk",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3390364/",
+      "publisher": "PLoS genetics",
+      "year": "2012",
+      "doi": "10.1371/journal.pgen.1002745",
+      "abstract": "We aimed to identify genetic variants associated with cortical bone thickness (CBT) and bone mineral density (BMD) by performing two separate genome-wide association study (GWAS) meta-analyses for CBT in 3 cohorts comprising 5,878 European subjects and for BMD in 5 cohorts comprising 5,672 individuals. We then assessed selected single-nucleotide polymorphisms (SNPs) for osteoporotic fracture in 2,023 cases and 3,740 controls. Association with CBT and forearm BMD was tested for ∼2.5 million SNPs in each cohort separately, and results were meta-analyzed using fixed effect meta-analysis. We identified a missense SNP (Thr>Ile; rs2707466) located in the WNT16 gene (7q31), associated with CBT (effect size of −0.11 standard deviations [SD] per C allele, P = 6.2×10−9). This SNP, as well as another nonsynonymous SNP rs2908004 (Gly>Arg), also had genome-wide significant association with forearm BMD (−0.14 SD per C allele, P = 2.3×10−12, and −0.16 SD per G allele, P = 1.2×10−15, respectively). Four genome-wide significant SNPs arising from BMD meta-analysis were tested for association with forearm fracture. SNP rs7776725 in FAM3C, a gene adjacent to WNT16, was associated with a genome-wide significant increased risk of forearm fracture (OR = 1.33, P = 7.3×10−9), with genome-wide suggestive signals from the two missense variants in WNT16 (rs2908004: OR = 1.22, P = 4.9×10−6 and rs2707466: OR = 1.22, P = 7.2×10−6). We next generated a homozygous mouse with targeted disruption of Wnt16. Female Wnt16−/− mice had 27% (P<0.001) thinner cortical bones at the femur midshaft, and bone strength measures were reduced between 43%–61% (6.5×10−13<P<5.9×10−4) at both femur and tibia, compared with their wild-type littermates. Natural variation in humans and targeted disruption in mice demonstrate that WNT16 is an important determinant of CBT, BMD, bone strength, and risk of fracture. Author Summary: Bone traits are highly dependent on genetic factors. To date, numerous genetic loci for bone mineral density (BMD) and only one locus for osteoporotic fracture have been previously identified to be genome-wide significant. Cortical bone has been reported to be an important determinant of bone strength; so far, no genome-wide association studies (GWAS) have been performed for cortical bone thickness (CBT) of the tibial and radial diaphysis or BMD at forearm, a skeletal site rich in cortical bone. Therefore, we performed two separated meta-analyses of GWAS for cortical thickness of the tibia in 3 independent cohorts of 5,878 men and women, and for forearm BMD in 5 cohorts of 5,672 individuals. We identified the 7q31 locus, which contains WNT16, to be associated with CBT and BMD. Four SNPs from this locus were then tested in 2,023 osteoporotic fracture cases and 3,740 controls. One of these SNPs was genome-wide significant, and two were genome-wide suggestive, for forearm fracture. Generating a mouse with targeted disruption of Wnt16, we also demonstrated that mice lacking this protein had substantially thinner bone cortices and reduced bone strength than their wild-type littermates. These findings highlight WNT16 as a clinically relevant member of the Wnt signaling pathway and increase our understanding of the etiology of osteoporosis-related phenotypes and fracture.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.58,
+      "providers": [
+        "europepmc",
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Clinical Value of Prognostic Instruments to Identify Patients with an Increased Risk for Osteoporotic Fractures: Systematic Review",
+      "url": "https://doi.org/10.1371/journal.pone.0019994",
+      "publisher": "PLoS ONE",
+      "year": "2011",
+      "doi": "10.1371/journal.pone.0019994",
+      "abstract": "Background: With the broad availability of effective medications, identifying individuals bearing a higher risk for osteoporotic fractures has become an issue of major concern in modern medicine. In recent years various prognostic instruments have become available showing conflicting results regarding estimated risks for individual patients. Objective: To provide an overview of current evidence and of opportunities for further research. Methodology/Principal Findings: Systematic Review: We identified studies describing the development of instruments and all subsequent validations in electronic databases and reference lists of included studies. We screened for inclusion, read full papers and extracted data on salient clinical features, performance characteristics and quality in duplicate. Searches retrieved 5,275 records of which full texts of 167 papers were obtained after screening titles and abstract. We included 35 studies enrolling a total of 609,969 patients (median 2546) reporting on 31 derivations and 12 validations after assessing full texts. Median follow-up time was 4.1 years (IQR 3 to 7.7). Only four studies validated an instrument that was developed by another group. None of the existing instruments was validated more than once. The five most frequent included variables in the final model were age, body mass index, bone mass index, past history of falls, and maternal history of fractures. The methodological quality of the studies was moderate. Conclusion: There is a plethora of evidence available studying the association of risk profiles and the development of osteoporotic fractures. The small number of out-of-sample validations, the large variety of study characteristics, outcomes and follow-up periods impedes from deriving robust summaries and from conclusions regarding the clinical performance of many tools. First and foremost, future activity in this field should aim at reaching a consensus among clinical experts in respect to the existing instruments. Then we call for careful validations and expedient adaptations for local circumstances of the most promising candidates.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.54,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Nonlinear relationship between circulating homocysteine and parathyroid hormone among patients with osteoporotic fractures: A cross-sectional study based on a hospital cohort",
+      "url": "https://doi.org/10.1371/journal.pone.0349418",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0349418",
+      "abstract": "Osteoporotic fractures are frequent among older adults and are often accompanied by disturbances in endocrine and metabolic regulation. Parathyroid hormone (PTH) serves as a key regulator of bone remodeling, while elevated plasma homocysteine—an established marker of vascular injury and skeletal fragility—has been implicated in osteoporosis. Yet, the interaction between these two biochemical factors remains insufficiently characterized. This study investigated the link between circulating homocysteine and serum PTH concentrations among 2,190 hospitalized patients with osteoporotic fractures, emphasizing nonlinear associations and modifying influences. Fasting blood samples obtained at admission were used to measure plasma homocysteine and intact PTH levels. Multiple regression and spline-based modeling techniques were employed to estimate independent relationships and potential threshold effects, with subgroup analyses considering hypertension, renal function, and magnesium status. Homocysteine demonstrated an independent, positive correlation with PTH (P < 0.001). A nonlinear dose–response relationship was observed, wherein PTH increased progressively with homocysteine up to about 18 μmol/L, followed by a sharper rise beyond this point, suggesting a statistically significant threshold. The relationship was more evident among patients with hypertension, impaired renal function, or low magnesium levels, indicating that vascular strain, renal stress, and mineral imbalance may heighten PTH activity. Elevated homocysteine levels may be associated with higher PTH concentrations in individuals with osteoporosis. However, the clinical relevance of homocysteine in metabolic assessment and risk stratification requires further validation.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "A REVIEW ARTICLE ON OSTEOPOROSIS",
+      "url": "https://zenodo.org/records/10796288",
+      "publisher": "Zenodo",
+      "year": "2024",
+      "doi": "10.5281/zenodo.10796288",
+      "abstract": "Osteoporosis is defined as low bone mineral density caused by altered bone microstructure ultimately predisposing patient to low impact, fragility fractures. Osteoporotic fractures leads to a significant decrease in quality of life with an increased morbidity, mortality, and disability. Osteoporosis- related fractures can increase pain, disability nursing home placements, total health care costs. Approximately 10 million men and women in the US have osteoporosis. Over 50% postmenopausal Caucasian women will have an osteoporotic related fracture. Only 30% of senior women who have a hip fracture will be able to return to independence. In Caucasian men, the risk of an osteoporotic fracture is 20%. But the one year mortality in men who have a hip fracture is twice that of women. Black males and females have less osteoporosis than their Caucasian counterparts, but those diagnosed with osteoporosis have similar fracture risk. The aging of the American population expected to triple the number of osteoporotic fractures. Osteoporosis-related to various factors including menopause and aging is the most common chronic metabolic bone disease. It is seen in all age groups, genders and races but it is more common in Caucasians [white race], older peoples and women Osteoporosis is increasingly becoming a global epidemic. Currently it has been estimated that more than 200 million peoples are suffering from osteoporosis. According to recent statistics from the international osteoporosis foundation, worldwide 1 in 3 women and 1 in 5 men will experience osteoporotic fractures in their life time. The diagnosis of osteoporosis is determined by measuring bone mineral density [BMD] using noninvasive dual-energy X-ray absorptiometry. Osteoporosis medication include bisphosphonates, receptor activator of nuclear factor kappa-B ligand inhibitor, estrogen agonist /antagonist, parathyroid hormone analogues and calcitonin. Key words: Bone mineral density fracture risk, Osteoporosis management, menopause, bone density, bone fracture, osteopenia.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Study the Role of Zolendronic Acid (IV Bisphosphonate) Therapy in Providing Good Pain Relief in Fragility Fractures",
+      "url": "https://zenodo.org/records/12741118",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.12741118",
+      "abstract": "Background: Osteoporosis is decrease in the overall amount of bone. It is not at all the same as bone decalcification. It is not only prevalent among postmenopausal women but also occurs in men and women with underlying conditions or major risk factors associated with bone demineralization. Objective: To study the role of Zolendronic acid (IV Bisphosphonate)therapy in providing good pain relief in osteoporotic fragility fractures. Methods: This Prospective single arm, Observational Cohort Study was conducted among 50 Patients above the age of 40 years of either sex presenting with osteoporotic fracture to Department of Orthopedics St. Martha’s Hospital, Nrupathunga road, Bengaluru. Duration of study was December 2015 to December 2017. Results: In the initial six months, ZA provided significant improvement in back pain as depicted by VAS in patients with VCF. ZA being an IV yearly dose regimen is well accepted and tolerated by the patients compared to other oral bisphosphonates. Febrile reactions, myalgia, minor maculopopular rashes were the adverse effects noted in 2 patients who were symptomatically addressed. No other significant adverse effects noted during the study period in any of the patients. All the patients found excellent clinical improvement in terms of pain in the initial 6 months post infusion. At the end of one year, all the patients were willing for a second dose. This study noted ZA therapy had significant decrease in pain intensity. Conclusions: ZA being an annual IV dosing regimen has better compliance than other oral bisphosphonates. ZA provides significant improvement in patients backpain in the initial 6 months and also prevents the incidence of new VCF in patients having Osteoporotic VCF.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Association of gamma-glutamyl transferase variability with risk of osteoporotic fractures: A nationwide cohort study",
+      "url": "https://doi.org/10.1371/journal.pone.0277452",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0277452",
+      "abstract": "Objectives: Gamma-glutamyl transferase (GGT) is related to inflammation, osteoporosis, and vascular diseases. Recently, changes in metabolic parameters have been proposed as osteoporosis biomarkers. We aimed to assess longitudinally the association of GGT variability with osteoporotic fractures. Methods: From the National Health Insurance Service-Health Screening Cohort database, participants who underwent three or more health examinations between 2003 and 2008 were included (n = 1,072,432). Variability indexes were as follows: (1) coefficient of variation (CV), (2) standard deviation (SD), and (3) variability independent of the mean (VIM). The primary outcome was occurrence of osteoporotic fracture, defined as identification of one of the following international classification of diseases-10 codes: vertebral fractures (S22.0, S22.1, S32.0, S32.7, T08, M48.4, M48.5, M49.5), hip fractures (S72.0, S72.1), distal radius fractures (S52.5, S52.6), or humerus fractures (S42.2, S42.3). Results: During a median of 12.3 years (interquartile range 12.1–12.6), osteoporotic fractures occurred in 49,677 (4.6%) participants. In multivariable analysis, GGT variability based on CV positively correlated with the occurrence of osteoporotic fracture (adjusted hazard ratio [HR] of the highest quartile compared with the lowest quartile 1.15, 95% confidence interval [CI] 1.12–1.18, P < 0.001). These results were consistent even when GGT variability was defined by SD (adjusted HR 1.22, 95% CI 1.19–1.25, P < 0.001) and VIM (adjusted HR 1.12, 95% CI 1.09–1.15, P < 0.001). Conclusions: Increased GGT variability is associated with an increased risk of osteoporotic fractures in the Korean population. Maintaining constant and stable GGT level may help reduce the risk of osteoporotic fractures.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Orthogeriatric co-management for older patients with a major osteoporotic fracture: Protocol of an observational pre-post study",
+      "url": "https://doi.org/10.1371/journal.pone.0283552",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0283552",
+      "abstract": "Background: Osteoporotic fractures are associated with postoperative complications, increased mortality, reduced quality of life, and excessive costs. The care for older patients with a fracture is often complex due to multimorbidity, polypharmacy, and presence of geriatric syndromes requiring a holistic multidisciplinary approach based on a comprehensive geriatric assessment. Nurse-led geriatric co-management has proven to prevent functional decline and complications, and improve quality of life. The aim of this study is to prove that nurse-led orthogeriatric co-management in patients with a major osteoporotic fracture is more effective than inpatient geriatric consultation to prevent in-hospital complications and several secondary outcomes in at least a cost-neutral manner. Methods: An observational pre-post study will be performed on the traumatology ward of the University Hospitals Leuven in Belgium including 108 patients aged 75 years and older hospitalized with a major osteoporotic fracture in each cohort. A feasibility study was conducted after the usual care cohort and prior to the intervention cohort to measure fidelity to the intervention components. The intervention includes proactive geriatric care based on automated protocols for the prevention of common geriatric syndromes, a comprehensive geriatric evaluation followed by multidisciplinary interventions, and systematic follow-up. The primary outcome is the proportion of patients having one or more in-hospital complications. Secondary outcomes include functional status, instrumental activities of daily living status, mobility status, nutritional status, in-hospital cognitive decline, quality of life, return to pre-fracture living situation, unplanned hospital readmissions, incidence of new falls, and mortality. A process evaluation and cost-benefit analysis will also be conducted. Discussion: This study wants to prove the beneficial impact of orthogeriatric co-management in improving patient outcomes and costs in a heterogenous population in daily clinical practice with the ambition of long-term sustainability of the intervention. Trial registration: International Standard Randomised Controlled Trial Number (ISRCTN) Registry: ISRCTN20491828. Registered on October 11, 2021, https://www.isrctn.com/ISRCTN20491828.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Selected serum microRNA, abdominal aortic calcification and risk of osteoporotic fracture",
+      "url": "https://doi.org/10.1371/journal.pone.0216947",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0216947",
+      "abstract": "Context: MicroRNA (miRNA) regulate post-transcriptionally the expression of osteogenesis and angiogenesis associated genes and emerge as potential non-invasive biomarkers in vascular and bone diseases. Severe abdominal aortic calcification (AAC) is associated with higher risk of cardiovascular event and of fragility fracture. Objective: To identify miRNA linked to the aggravation of AAC and to incident osteoporotic fracture. Design: Postmenopausal women (>50 years) with available serum at inclusion and data for each outcome (Kauppila score and incident fracture) were selected from the OFELY prospective cohort. We conducted a case-control study in 434 age-matched women, 50% with incident osteoporotic fracture over 20 years of follow-up and a second study in 183 women to explore AAC over 17 years. Methods: Serum expression of three miRNA involved in vascular calcification and bone turnover regulation (miRs-26a-5p,-34a-5p, and -223-5p) was quantified at baseline by TaqMan Advanced miRNA technology and expressed by relative quantification. Outcomes were the association of miRNA levels with (1) incident osteoporotic fractures during 20 years, (2) AAC aggravation during 17 years. Results: MiRNA level was not associated with incident fractures (miR-26a-5p: 1.06 vs 0.99, p = 0.07; miR-34a-5p: 1.15 vs 1.26, p = 0.35; miR-223a-5p: 1.01 vs 1.05, p = 0.32). 93 women had an increase in Kauppila score over 17 years while 90 did not. None of the miRNAs was associated with an aggravation in AAC (miR-26a-5p: 1.09 vs 1.10, p = 0.95; miR-34a-5p: 0.78 vs 0.73, p = 0.90; miR-223-5p: 0.97 vs 0.78, p = 0.11). Conclusions: Circulating miR-26a-5p, -34a-5p and -223-5p are not significantly associated with incident fracture and AAC aggravation.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "hal",
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Development of a Korean Fracture Risk Score (KFRS) for Predicting Osteoporotic Fracture Risk: Analysis of Data from the Korean National Health Insurance Service",
+      "url": "https://doi.org/10.1371/journal.pone.0158918",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0158918",
+      "abstract": "Background: Asian-specific prediction models for estimating individual risk of osteoporotic fractures are rare. We developed a Korean fracture risk prediction model using clinical risk factors and assessed validity of the final model. Methods: A total of 718,306 Korean men and women aged 50–90 years were followed for 7 years in a national system-based cohort study. In total, 50% of the subjects were assigned randomly to the development dataset and 50% were assigned to the validation dataset. Clinical risk factors for osteoporotic fracture were assessed at the biennial health check. Data on osteoporotic fractures during the follow-up period were identified by ICD-10 codes and the nationwide database of the National Health Insurance Service (NHIS). Results: During the follow-up period, 19,840 osteoporotic fractures were reported (4,889 in men and 14,951 in women) in the development dataset. The assessment tool called the Korean Fracture Risk Score (KFRS) is comprised of a set of nine variables, including age, body mass index, recent fragility fracture, current smoking, high alcohol intake, lack of regular exercise, recent use of oral glucocorticoid, rheumatoid arthritis, and other causes of secondary osteoporosis. The KFRS predicted osteoporotic fractures over the 7 years. This score was validated using an independent dataset. A close relationship with overall fracture rate was observed when we compared the mean predicted scores after applying the KFRS with the observed risks after 7 years within each 10th of predicted risk. Conclusion: We developed a Korean specific prediction model for osteoporotic fractures. The KFRS was able to predict risk of fracture in the primary population without bone mineral density testing and is therefore suitable for use in both clinical setting and self-assessment. The website is available at http://www.nhis.or.kr.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Inhibition of Midkine Augments Osteoporotic Fracture Healing",
+      "url": "https://doi.org/10.1371/journal.pone.0159278",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0159278",
+      "abstract": "The heparin-binding growth and differentiation factor midkine (Mdk) is proposed to negatively regulate osteoblast activity and bone formation in the adult skeleton. As Mdk-deficient mice were protected from ovariectomy (OVX)-induced bone loss, this factor may also play a role in the pathogenesis of postmenopausal osteoporosis. We have previously demonstrated that Mdk negatively influences bone regeneration during fracture healing. Here, we investigated whether the inhibition of Mdk using an Mdk-antibody (Mdk-Ab) improves compromised bone healing in osteoporotic OVX-mice. Using a standardized femur osteotomy model, we demonstrated that Mdk serum levels were significantly enhanced after fracture in both non-OVX and OVX-mice, however, the increase was considerably greater in osteoporotic mice. Systemic treatment with the Mdk-Ab significantly improved bone healing in osteoporotic mice by increasing bone formation in the fracture callus. On the molecular level, we demonstrated that the OVX-induced reduction of the osteoanabolic beta-catenin signaling in the bony callus was abolished by Mdk-Ab treatment. Furthermore, the injection of the Mdk-Ab increased trabecular bone mass in the skeleton of the osteoporotic mice. These results implicate that antagonizing Mdk may be useful for the therapy of osteoporosis and osteoporotic fracture-healing complications.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Hypertension and fracture risk: impact of antihypertensive medications on bone health",
+      "url": "https://zenodo.org/records/15148033",
+      "publisher": "Revista Latinoamericana de Hipertension (Latin American Journal of Hypertension)",
+      "year": "2025",
+      "doi": "10.5281/zenodo.15148033",
+      "abstract": "ABSTRACT Hypertension and osteoporosis are recognized as highly prevalent chronic conditions within the adult population, both of which have been associated with important public health concerns due to their impact on morbidity rates and healthcare expenditures. An intricate relationship between these disorders has been suggested by emerging evidence, indicating that adverse effects on bone health may be exerted by hypertension through multiple pathophysiological pathways. Furthermore, the modulation of bone metabolism by certain antihypertensive medications has been reported, leading to potential alterations in bone mineral density and modifications in the risk profile for osteoporotic fractures. The objective of this review was to analyze the available evidence on the relationship between hypertension and osteoporosis, focusing on the shared pathophysiological mechanisms and the impact of antihypertensive treatments on bone health. Through the synthesis of existing findings, a deeper understanding of the extent to which bone mineral density and fracture risk are affected by hypertension is sought. Additionally, evidence-based considerations regarding the selection of antihypertensive therapies in individuals at an increased risk for osteoporosis are provided, with the objective of optimizing treatment strategies and mitigating the potential adverse skeletal effects of long-term antihypertensive therapy.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A systematic review of hip fracture incidence and probability of fracture worldwide",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3421108/",
+      "publisher": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+      "year": "2012",
+      "doi": "10.1007/s00198-012-1964-3",
+      "abstract": "Unlabelled The country-specific risk of hip fracture and the 10-year probability of a major osteoporotic fracture were determined on a worldwide basis from a systematic review of literature. There was a greater than 10-fold variation in hip fracture risk and fracture probability between countries. Introduction The present study aimed to update the available information base available on the heterogeneity in the risk of hip fracture on a worldwide basis. An additional aim was to document variations in major fracture probability as determined from the available FRAX models. Methods Studies on hip fracture risk were identified from 1950 to November 2011 by a Medline OVID search. Evaluable studies in each country were reviewed for quality and representativeness and a study (studies) chosen to represent that country. Age-specific incidence rates were age-standardised to the world population in 2010 in men, women and both sexes combined. The 10-year probability of a major osteoporotic fracture for a specific clinical scenario was computed in those countries for which a FRAX model was available. Results Following quality evaluation, age-standardised rates of hip fracture were available for 63 countries and 45 FRAX models available in 40 countries to determine fracture probability. There was a greater than 10-fold variation in hip fracture risk and fracture probability between countries. Conclusions Worldwide, there are marked variations in hip fracture rates and in the 10-year probability of major osteoporotic fractures. The variation is sufficiently large that these cannot be explained by the often multiple sources of error in the ascertainment of cases or the catchment population. Understanding the reasons for this heterogeneity may lead to global strategies for the prevention of fractures.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.58,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effect of competing mortality risks on predictive performance of the QFracture-2012 risk prediction tool for major osteoporotic fracture and hip fracture: external validation cohort study in a UK primary care population",
+      "url": "https://bmjmedicine.bmj.com/content/1/1/e000316.full",
+      "publisher": "BMJ Medicine",
+      "year": "2022",
+      "doi": "10.1136/bmjmed-2022-000316",
+      "abstract": "Objective To externally evaluate the QFracture-2012 risk prediction tool for predicting the risk of major osteoporotic fracture and hip fracture.Design External validation cohort study.Setting UK primary care population. Linked general practice (Clinical Practice Research Datalink (CPRD) Gold), mortality registration (Office of National Statistics), and hospital inpatient (Hospital Episode Statistics) data, from 1 January 2004 to 31 March 2016.Participants 2 747 409 women and 2 684 730 men, aged 30-99 years, with up-to-standard linked data that had passed CPRD checks for at least one year.Main outcome measures Two outcomes were modelled based on those predicted by QFracture: major osteoporotic fracture and hip fracture. Major osteoporotic fracture was defined as any hip, distal forearm, proximal humerus, or vertebral crush fracture, from general practice, hospital discharge, and mortality data. The QFracture-2012 10 year predicted risk of major osteoporotic fracture and hip fracture was calculated, and performance evaluated versus observed 10 year risk of fracture in the whole population, and in subgroups based on age and comorbidity. QFracture-2012 calibration was examined accounting for, and not accounting for, competing risk of mortality from causes other than the major osteoporotic fracture.Results 2 747 409 women with 95 598 major osteoporotic fractures and 36 400 hip fractures, and 2 684 730 men with 34 321 major osteoporotic fractures and 13 379 hip fractures were included in the analysis. The incidence of all fractures was higher than in the QFracture-2012 internal derivation. Competing risk of mortality was more common than fracture from middle age onwards. QFracture-2012 discrimination in the whole population was excellent or good for major osteoporotic fracture and hip fracture (Harrell’s C statistic in women 0.813 and 0.918, and 0.738 and 0.888 in men, respectively), but was poor to moderate in age subgroups (eg, Harrell’s C statistic in women and men aged 85-99 years was 0.576 and 0.624 for major osteoporotic fractures, and 0.601 and 0.637 for hip fractures, respectively). Without accounting for competing risks, QFracture-2012 systematically under-predicted the risk of fracture in all models, and more so for major osteoporotic fracture than for hip fracture, and more so in older people. Accounting for competing risks, QFracture-2012 still under-predicted the risk of fracture in the whole population, but over-prediction was considerable in older age groups and in people with high comorbidities at high risk of fracture.Conclusions The QFracture-2012 risk prediction tool systematically under-predicted the risk of fracture (because of incomplete determination of fracture rates) and over-predicted the risk in older people and in those with more comorbidities (because of competing mortality). The current version of QFracture-2016 that is used by the UK's health service needs to be externally validated, particularly in people at high risk of death from other causes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Relationship between sleep pattern and bone mineral density in patients with osteoporotic fracture",
+      "url": "https://doi.org/10.1177/20420188221106884",
+      "publisher": "Therapeutic Advances in Endocrinology and Metabolism",
+      "year": "2022",
+      "doi": "10.1177/20420188221106884",
+      "abstract": "Background: Evidence investigating sleep pattern in relation to bone health in elderly participants with osteoporosis remains sparse. We aimed to assess the relationship between sleep pattern incorporating five sleep characteristics (snoring, midnight waking up, insomnia, sleep duration, and daytime napping) and bone mineral density (BMD) in elderly participants with osteoporotic fracture. Methods: A cross-sectional study was conducted to include eligible elderly patients from the Department of Orthopedics who were admitted to hospital due to an osteoporotic fracture. Sleep pattern was constructed based on total sleep scores and categorized into healthy, intermediate, and poor pattern groups. Multivariable logistic regression model was used to assess sleep pattern in relation to risk of low BMD. Results: A total of 169 elderly patients with osteoporotic fracture were included in this study (mean age: 71.91 years; 87.57% females). There were 36 (21.30%), 107 (63.31%), and 26 (15.38%) patients with healthy, intermediate, and poor sleep pattern, respectively. Compared with healthy sleep pattern, no significant relationship between intermediate sleep pattern and BMD was detected [odds ratio (OR) = 1.72, 95% confidence interval (CI): 0.74, 3.97, p = 0.21), while poor pattern was significantly associated with decreased BMD (OR = 3.50, 95% CI: 1.10, 11.14, p = 0.034). Conclusion: The majority of elderly patients with osteoporotic fracture had unhealthy sleep pattern; poor sleep pattern was significantly related to reduced BMD when compared with healthy pattern. Further high-quality evidence is needed to assess and validate the relationship between sleep pattern and risk of low BMD in the elderly.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Nutritional intake of milk, and dairy products consumed by students of the University IBN Tofail, Morocco",
+      "url": "https://zenodo.org/records/7350272",
+      "publisher": "Biolife",
+      "year": "2022",
+      "doi": "10.5281/zenodo.7350272",
+      "abstract": "ABSTRACT Dairy consumption plays a key role as a food source for human health. This work aims to segment the dairy consumption and assess nutrient intakes of milk among students of the University Ibn Tofail, Kenitra and to estimate the nutritional values of the amount consumed milk. The results showed that the city of student's residence is the main factor of the segregation of students in groups and the students which are resident in the city of Kenitra are those who consume more milk. In contrast, residents in the cities of Sidi Slimane / Sidi Kacem / Sidi Yahia consume less milk and some residents do not consume milk. Pasteurized milk is the preferred milk. Also, for all surveyed students intake calories, protein, lipid and carbohydrate are lower than the need quantities for the ensuring nutritional balance in the consumer.Also, the consumption of cheese, yogurt and butter remains insufficient in quantity and frequency. However, we noted some quantitative differences in consumption between and within the student residence groups. The profession of the father or head of household is an important factor. Key words : Dairy products, nutritional value, Students, Kenitra, Morocco REERENCES Andersson I., Oste R., (1995). Nutritional quality of heat processed liquid milk. Heat-induced changes in milk IDF. 1995, 279-307. Anonymous 1. (2013). Annuaire statistique régional, 2013 Annuaire statistique du Maroc. Anonymous 2, 2013. Monographie régionale de la région du Gharb.Chrarda.Beni Hssen, Haut-Comissariat au Plan. Royaume du Maroc). Anonymous 3. (2009). Rapport de Centre Régional de l’Investissement, Rapport de Gharb Agribussiness. 49p. Disponible sur in Website : http://www.kenitrainvesti.ma/Documents/GHARB%20AGRI%20BUSINESS.pdf consulté le 19/08/2016 Anonymous 4, (2006). Apports nutritionnels de référence, Institute of Medicine (IOM), National Academies Press, Washington D.C. Baudot, J.Y. (2014). Analyse des Correspondances Multiple, 2014. Available: http://www.jybaudot.fr/Analdonnees/acm.html 7.Benkerroum, N., Mekkaoui M., Bennani, Kamal Hidane N., (2004). Antimicrobial activity of camel's milk against pathogenic strains of Escherichia coli and Listeria monocytogenes; Intern. J. of Dairy Techn. 57: 39–43. Black, M. M. (2003). Micronutrient deficiencies and cognitive functioning, J. of Nutrition. 133 (1): 11. Christelle, M., (2015). Le Maroc dope sa filière laitière. Article Jeune afrique. Article issu du dossier\" «Agro-industrie : l'Afrique vers l'autosuffisance ?». Delgado, C.L. (2003). Rising consumption of meat and milk in developing countries has created a new food revolution. J. of Nutrition. 133. Porika Raju and Estari Mamidala (2015). Anti-diabetic activity of compound isolated from Physalis angulata fruit extracts in alloxan induced diabetic rats. The Ame J Sci & Med Res, 2015,1(1); Pages 1 -6. doi:10.17812/ajsmr2015.11.1. Faye B. & Alary V., (2001). Les enjeux des productions animales dans les pays du Sud. INRA Productions Animales.14 :3-13. Feskanich, D. Willett, W.C., Colditz, G.A. (2003). Calcium, vitamin D, milk consumption, and hip fractures: a prospective study among postmenopausal women . Am J Clin Nutr. 77: 504-511. Flynn, A. (2003). The role of dietary calcium in bone health . Proc Nutr Soc. 62: 851-858. Groupe Economie du Bétail GEB. (2014). l'année économique laitière. Perspectives 2015 (Dossier Economie n° 454) – pdf Hamama, A., Marrakchi, A,. and Othmani, F. (1992). Occurrence of Yersinia enterocolitica in milk and dairy products in Morocco. Int. J. Food Microbiol. 16 (1): 69-77. Ireland, J. Favier, J.C. Feinberg, M. (2002). Répertoire général des aliments Tome 2 : produits laitiers (2° Ed.) . Klompmaker, T.R. (2005). Lifetime high calcium intake increases osteoporotic fracture risk in old age . Med Hypotheses. 65: 552-558. Krauss R.M. Kritchevsky D. (2000). Dairy foods and cardiovascular health. Dans: Miller GD, Jarvis JK, McBean LD, editors. Handbook of dairy foods and nutrition. États-Unis, CRC Press, 2000: 65-115. Lanou A.J., Berkow SE, Barnard N.D., (2005). Calcium, dairy products and bone health in children and young adults: a reevaluation of the evidence . Pediatrics. 2005, 115 736-743. Musaiger A.O., 1993. Socio-cultural and economic factors affecting food consumption patterns in the Arab countries. J. of the Royal Society of the Promotion of Health. 113: 68-74. Musaiger, A.O. (1993). The state of food and nutrition in Bahrain Saudia Arabia, UNICEF. Gulf area office. 1 st edition, Bahrain public libray. Organisation Mondiale de la Santé (OMS), (2002). Rapport sur la santé dans le monde, Réduire les risques et promouvoir une vie saine. Genève. Santé Canada. (2005). Fichier canadien sur les éléments nutritifs. Fichier Canadien sur les Elements Nutritifs ; Données canadiennes de composition des aliments. Soustre Y. (2008). Histoire, sociologie et image du lait., site du Centre National Interprofessionnel de l'Economie Laitière (CNIEL), Septembre 2008, Hors-série n°2. Speedy A.W., (2003). Global production and consumption of animal source foods. Journal of Nutrition. 133. Sraïri, M.T., & Karbab A. (2010). Consommation de lait et de produits laitiers dans la ville de Rabat (Maroc): effets des facteurs socio-économiques. J. Tropicultura.28 (4): 211-216. Zahrou , F.Z, Azlaf M., El Menchawy I., El Mzibri M., El Kari K., El Hamdouchi A., Mouzouni F.Z, Barkat A., Aguenaou A.. (2015). Efficacy study of iodine fortification of milk on iodine status markers: a longitudinal interventional, controlled study among schoolchildren in Morocco",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Screening and management of osteoporosis: a survey of knowledge, attitude and practice among primary care physicians in Malaysia",
+      "url": "https://zenodo.org/records/6496218",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.1007/s11657-022-01111-y",
+      "abstract": "Summary We surveyed primary care physicians in Malaysia for their knowledge, attitude and practice in screening and managing osteoporosis. We found a low level of screening and active management of osteoporosis in the primary care setting despite positive attitudes towards them. We advocate for the active management of osteoporosis at the primary care level. Introduction Prevention of osteoporotic fracture is important in primary healthcare for healthy ageing. Little is known about the knowledge, attitude, practice and barriers in the screening and managing osteoporosis among primary care doctors. Methods A cross-sectional study, using an online pre-tested questionnaire after face and content validation, was conducted for primary care doctors from 1 June to 30 July 2021 across Malaysia. Pearson’s chi-square test and logistic regression were employed. Results A total of 350 primary care doctors in Malaysia, consisting of 113 (32.3%) family medicine specialists (FMS) and 237 (67.7%) medical officers, participated in this study. The mean ± SD score of osteoporosis knowledge was 50.46 ± 15.09 with minimum and maximum values of 0 and 83.64%, respectively. One hundred and ten (31.4%) respondents achieved a satisfactory overall knowledge score of ≥ 60%, 156 (44.6%) were confident in advising patients for initiation of anti-osteoporotic medication, and 243 (69.4%) perceived that bisphosphonate should be made available in health clinics. Only 97 (27.7%) practised osteoporosis screening. Inaccessibility of bone mineral densitometry (BMD) (90.6%), inadequate knowledge (87.7%) and inaccessibility of pharmacotherapy (87.1%) are perceived modifiable barriers to osteoporosis screening and management. Factors associated with a satisfactory knowledge of osteoporosis are designation as a family medicine specialist (AOR 3.034, p =&thinsp;0.002), attendance at an osteoporosis management update course (AOR 2.095, p =&thinsp;0.034) and the practice of osteoporosis screening for the elderly (AOR 2.767, p =&thinsp;0.001). Conclusion Given the insufficient knowledge and low level of osteoporosis screening, there is a need for a national structured health programme to address the knowledge gap, increase screening practices and enhance accessibility to BMD and anti-osteoporosis medication in primary care.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "SCOPE 2021: a new scorecard for osteoporosis in Europe",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8172408/",
+      "publisher": "Archives of osteoporosis",
+      "year": "2021",
+      "doi": "10.1007/s11657-020-00871-9",
+      "abstract": "This scorecard summarises key indicators of the burden of osteoporosis and its management in the 27 member states of the European Union, as well as the UK and Switzerland. The resulting scorecard elements, assembled on a single sheet, provide a unique overview of osteoporosis in Europe. Introduction The scorecard for osteoporosis in Europe (SCOPE) is a project of the International Osteoporosis Foundation (IOF) that seeks to raise awareness of osteoporosis care in Europe. The aim of this project was to develop a scorecard and background documents to draw attention to gaps and inequalities in the provision of primary and secondary prevention of fractures due to osteoporosis. Methods The SCOPE panel reviewed the information available on osteoporosis and the resulting fractures for each of the 27 countries of the European Union plus the UK and Switzerland (termed EU27+2). The information obtained covered four domains: background information (e.g. the burden of osteoporosis and fractures), policy framework, service provision and service uptake, e.g. the proportion of men and women at high risk that do not receive treatment (the treatment gap). Results There was a marked difference in fracture risk among the EU27+2 countries. Of concern was the marked heterogeneity in the policy framework, service provision and service uptake for osteoporotic fracture that bore little relation to the fracture burden. For example, despite the wide availability of treatments to prevent fractures, in the majority of the EU27+2, only a minority of patients at high risk receive treatment even after their first fracture. The elements of each domain in each country were scored and coded using a traffic light system (red, orange, green) and used to synthesise a scorecard. The resulting scorecard elements, assembled on a single sheet, provide a unique overview of osteoporosis in Europe. Conclusions The scorecard enables healthcare professionals and policy makers to assess their country's general approach to the disease and provide indicators to inform the future provision of healthcare.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Osteoporotic Fractures",
+      "url": "https://doi.org/10.26481/dis.20211028sa",
+      "publisher": "University of Maastricht",
+      "year": "2021",
+      "doi": "10.26481/dis.20211028sa",
+      "abstract": "This dissertation research studied osteoporotic fractures both in the general population and among the patients with rheumatoid arthritis. The thesis shows that there was a recent declining trend in osteoporotic fractures in Denmark. Based on these findings, oral bisphosphonates have no beneficial effect on reducing the number of deaths in patients with an osteoporotic fracture. The research also studied various exposure patterns of oral glucocorticoids in the general population and found out that a threshold of 1 g prednisolone equivalent, as hallmark of long-term glucocorticoid therapy, heralds an increased risk of hip and vertebral fractures among those taking high daily doses of glucocorticoids. Given the widespread use of proton pump inhibitors (antacid medications), especially among elderly, he evaluated concomitant use of oral glucocorticoids and proton pump inhibitors in patients with rheumatoid arthritis and reported an increased risk of osteoporotic fractures with it. According to this dissertation, low-dose oral glucocorticoid therapy incurs a 59% increased risk of vertebral fracture in patients with rheumatoid arthritis, but no increased risk with nonvertebral osteoporotic fractures. And lastly, this research showed that use of biological disease-modifying antirheumatic drugs, as cornerstone of rheumatoid arthritis pharmacotherapy, has no independent beneficial effect on reducing osteoporotic fractures in patients with rheumatoid arthritis.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Osteoporotic fracture rates in chronic hemodialysis and effect of heparin exposure: a retrospective cohort study",
+      "url": "http://link.springer.com/article/10.1186/s12882-020-01916-4",
+      "publisher": "BMC Nephrology",
+      "year": "2020",
+      "doi": "10.1186/s12882-020-01916-4",
+      "abstract": "Abstract Background Patients receiving chronic hemodialysis treatments are at a higher risk of fracture compared to the general population. While the use of heparin during dialysis is crucial to avoid thrombosis of the extracorporeal circuit, the association of unfractionated heparin (UFH) and the risk of osteoporotic fracture has been shown for many years. However, this association was not as clear for low-molecular-weight heparin (LMWH) and the few collected data originated from studies among pregnant women. Our aim was to measure osteoporotic fracture rate among hemodialysis patients and to evaluate the association of LMWH compared to UFH in hemodialysis. Methods A retrospective cohort study was conducted on data extracted from the RAMQ and Med-Echo databases from January 2007 to March 2013 with patients chronically hemodialyzed in 21 participating centers. Incidence rates for each fracture sites were measured per 1000 patient-year (p-y) and their 95% confidence intervals (CI). Osteoporotic fracture risk for a first event with LMWH compared to UFH was estimated using a cox proportional hazard model using demographics, comorbidities and drug use as covariates. Results 4796 patients undergoing chronic hemodialysis were identified. The incidence rate for all fracture sites was 22.7 /1000 p-y (95% CI: 19.6–26.1) and 12.8 /1000 p-y (95% CI: 10.5–15.4) for hip and femur fractures. We found a similar risk of osteoporotic fracture for LMWH compared to UFH (adjusted HR = 1.01; 95%CI: 0.72–1.42). Age and malignancy increased the risk of fracture while cerebrovascular disease decreased the risk of fracture. Conclusions Compared to UFH, LMWH did not change the risk of osteoporotic fracture when used for the extracorporeal circuit anticoagulation in chronic hemodialysis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Gastric Bypass But Not Sleeve Gastrectomy Increases Risk of Major Osteoporotic Fracture: French Population-Based Cohort Study",
+      "url": "https://ulco.hal.science/hal-04572285v1",
+      "publisher": "Journal of Bone and Mineral Research",
+      "year": "2020",
+      "doi": "10.1002/jbmr.4012",
+      "abstract": "ABSTRACT The objective of this work was to investigate the risk of major osteoporotic fracture (MOF; hip, proximal humerus, wrist and distal forearm, and clinical spine) in bariatric surgery patients versus matched controls. Bariatric surgery is associated with an increase in fracture risk. However, it remains unclear whether the same degree of fracture risk is associated with sleeve gastrectomy, which has recently surpassed gastric bypass. Records from the French National Inpatient database were used from 2008 to 2018. Bariatric surgery patients, aged 40 to 65 years, with BMI ≥40 kg/m2, hospitalized between January 1, 2010 and December 31, 2014, were matched to one control (1:1) by age, sex, Charlson comorbidity index, year of inclusion, and class of obesity (40 to 49.9 kg/m2 versus ≥50 kg/m2). We performed a Cox regression analysis to assess the association between the risk of any MOF and, respectively, (i) bariatric surgery (yes/no) and (ii) type of surgical procedure (gastric bypass, gastric banding, vertical banded gastroplasty, and sleeve gastrectomy) versus no surgery. A total of 81,984 patients were included in the study (40,992 in the bariatric surgery group, and 40,992 matched controls). There were 585 MOFs in the surgical group (2.30 cases per 1000 patient-year [PY]) and 416 MOFs in the matched controls (1.93 cases per 1000 PY). The risk of MOF was significantly higher in the surgical group (hazard ratio [HR] 1.22; 95% CI, 1.08–1.39). We observed an increase in risk of MOF for gastric bypass only (HR 1.70; 95% CI, 1.46–1.98) compared with the matched controls. In patients aged 40 to 65 years, gastric bypass but not sleeve gastrectomy or the other procedures increased risk of major osteoporotic fractures. © 2020 American Society for Bone and Mineral Research.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Fracture Risk Assessment Tool (FRAX)®",
+      "url": "https://zenodo.org/records/2574320",
+      "publisher": "Zenodo",
+      "year": "2019",
+      "doi": "10.5281/zenodo.2574320",
+      "abstract": "Sieklucka Ewa, Ogurkowski Karol, Stocka Barbara, Hagner-Derengowska Magdalena. Fracture Risk Assessment Tool (FRAX)® . Journal of Education, Health and Sport. 2019;9(2): 317 -324. eISNN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.2574320 http :// ojs . ukw . edu . pl / index . php / johs / article / view /6 616 https://pbn.nauka.gov.pl/sedno-webapp/works/905079 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part b item 1223 (26/01/2017). 1223 Journal of Education, Health and Sport e issn 2391-8306 7 © The Authors 2019; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author (s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non commercial license Share alike. (http://creativecommons.org/licenses/by-nc-sa/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 30.01.2019. Revised: 30.01.2019. Accepted: 21.02.2019. Fracture Risk Assessment Tool (FRAX)® 1 Sieklucka Ewa; SSM im. M. Kopernika Toruń, Oddział Urazowo-Ortopedyczny 2 Ogurkowski Karol; Katedra i Klinika Rehabilitacji CM w Bydgoszczy UMK w Toruniu 3 Stocka Barbara; Katedra i Klinika Rehabilitacji CM w Bydgoszczy UMK w Toruniu 4 Hagner-Derengowska Magdalena; Bydgoska Szkoła Wyższa Afiliacja Kliniki Rehabilitacji Szpitala Uniwersyteckiego im. dr A. Jurasza w Bydgoszczy Abstract For many years, there were no models for Polish population. Prospective studies showed that the use of British data model is reliable for the Polish patients, as supported by Przedlacki21,26,27 and others. Lately, a new version of the FRAX® method, including Polish data was introduced28,29. This triggered writing of the current paper, to continue farther studies of this population. Use of the described method to monitor treatment or to evaluate patients already treated, is pointless. Still, the method should be popularized, since only 10% of patients after an osteoporotic fracture are treated for the underlying condition3. The goal should be prevention of future fractures, return of independence in the activities of daily living and mobility. Key words: frax; osteoporosis",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Osteoporosis: Current Concepts",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059859/",
+      "publisher": "Joints",
+      "year": "2018",
+      "doi": "10.1055/s-0038-1660790",
+      "abstract": "Osteoporosis is a worldwide disease characterized by reduction of bone mass and alteration of bone architecture resulting in increased bone fragility and increased fracture risk. Causes of osteoporosis include increasing age, female sex, postmenopausal status, hypogonadism or premature ovarian failure, low body mass index, ethnic background, rheumatoid arthritis, low bone mineral density (BMD), vitamin D deficiency, low calcium intake, hyperkyphosis, current smoking, alcohol abuse, immobilization, and long-term use of certain medications. The diagnosis of osteoporosis is established by measurement of BMD of the hip and spine using dual energy X-ray absorptiometry. According to the World Health Organization criteria, osteoporosis is defined as a BMD that lies 2.5 standard deviation or more below the average value for young healthy women. Bone turnover biomarker detection may be useful in monitoring osteoporosis treatment and assessing fracture risk but not for diagnosis of osteoporosis. Management of osteoporosis consists of nonpharmacological interventions, which are recommended for all subjects, and pharmacological therapy in all postmenopausal women who have had an osteoporotic fracture or have BMD values consistent with osteoporosis.",
+      "licence": "cc by-nc-nd",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Low prevalence of osteoporosis treatment in patients with recurrent major osteoporotic fracture",
+      "url": "https://univ-rennes.hal.science/hal-01508431v1",
+      "publisher": "Archives of Osteoporosis",
+      "year": "2017",
+      "doi": "10.1007/s11657-017-0317-4",
+      "abstract": "The majority of patients do not receive anti-osteoporotic treatment following a major osteoporotic fracture, despite the guidelines and the availability of effective anti-osteoporotic treatments. The fight against factors limiting the diagnosis and treatment of osteoporosis should become a priority to improve secondary prevention after an initial osteoporotic fracture. PURPOSE: Despite the availability of effective anti-osteoporotic treatments, osteoporosis management is currently insufficient. The main objective of this study was to assess the prevalence of anti-osteoporotic treatments introduced after an initial prior major osteoporotic fracture during hospitalization for recurring fractures. METHODS: We conducted an observational, cross-sectional, bicentric study that included all patients aged over 50 years who were hospitalized or seen in consultation for major osteoporotic fracture. RESULTS: One hundred twenty-eight out of two hundred four (62.7%) patients had a past history of major osteoporotic fracture and therefore had an indication of treatment based on guidelines. Among these patients, only 43/128 (33.5%) had received anti-osteoporotic treatment as secondary prevention after the initial fracture. The main causes of non-prescription identified were the attending physicians' ignorance of the indication of treatment (n = 30; 35.3%), ignorance of the fracture (n = 17; 20%), and comorbidities (n = 12; 14.1%). The failure to introduce treatment was associated with the presence of comorbidities with a Charlson Comorbidity Index ≥6 (OR = 0.34 [0.16-0.73], p < 0.05), dementia (OR = 0.23 [0.08-0.72], p < 0.05), and past history of proximal femur fracture (OR = 0.20 [0.04-0.91], p < 0.05). CONCLUSIONS: Two thirds of patients with a past history of major osteoporotic fracture presenting with a new fracture were not treated. The main reason for lack of treatment seems to stem from the incorrect assessment of the patient's fracture risk. Although major osteoporotic fracture leads to an increased risk of mortality and requires treatment, the significance of patient comorbidities was an independent risk factor leading to non-treatment.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "FRACTURE RISK ASSESSMENT IN GERIATRIC HOMES IN EGYPT",
+      "url": "https://zenodo.org/records/159668",
+      "publisher": "Indian Journal of Medical Research and Pharmaceutical Sciences",
+      "year": "2016",
+      "doi": "10.5281/zenodo.159668",
+      "abstract": "Fractures in elderly are an important public health issue, especially as incidence increases with age, and the population of elderly people is growing. Function and quality of life may deteriorate drastically after a fracture. Detecting the most prevalent risk factors of fractures may help preventing further fractures and decrease their functional and economic burden. Objectives: To assess fracture risk among elderly living in geriatric homes and detect the most prevalent risk factors of fractures Methods: This Cross sectional study was performed among 100 elderly (≥ 60 years) subjects including both males and females living in four geriatric homes in Cairo, Egypt, in the time period between June 2014 and September 2015. Comprehensive geriatric assessment was obtained, then fracture risk calculators to estimate the absolute risk of fractures were applied for each participant including; Fracture Risk Assessment Tool (FRAX) (without bone mineral density measurement), Q fracture, and Garvan tool. Results: The prevalence of fractures in the included geriatric homes was 21%. The most prevalent risk factor of fractures is recurrent falls (49%) and the least prevalent risk factor is chronic kidney disease (2 %). There was a statistically significant difference between subjects with history of fractures and subjects without regarding history of recurrent falls in the last year, prolonged Timed up and go test and functional impairment (P<0.05). The cutoff of significant 10 year major osteoporotic fracture risk according to FRAX, Q fracture and Garvan is 7.1%; 17.5%and 19% respectively. The cutoff of significant 10 year hip fracture risk according to FRAX, Q fracture and Garvan is 3%; 5.7% and 2 % respectively. Conclusion: According to the current study Garvan tool has the highest sensitivity and FRAX tool has the highest specificity to calculate the estimated 10 year risk of hip and major osteoporotic fracture",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Role of Platelets Rich Plasma in Management of Osteoporotic Fractures",
+      "url": "https://hal.science/hal-05518496v1",
+      "publisher": "Annual Research & Review in Biology",
+      "year": "2014",
+      "doi": "",
+      "abstract": "Management of osteoporotic fracture is challenging. In most clinical settings, skeletal regenerations are biologically optimized, but still many patients continue to experience delayed or impaired healing. Methods to enhance these healing processes, are needed to decrease patient’s agony, so that they can return to their work and regain their socioeconomic status in the community. Till this time, autologous bone grafting remain the standard procedure against which all new technologies are compared and analyzed.The success rate of union even after these grafts varies between 80-85% which further becomes decreased in case of repeated bone graft surgeries with donor site morbidities. Considering the concept that the healing of fracture started as soon as the formation of fracture clot, several investigators have suggested that degranulation of platelets at fracture clot elaborates the bioactive component, that aided the healing process. Because autologous platelet rich plasma products are safe and easy to prepare and administer, in this review, we reviewed the role of bioactive component released by activated platelet rich plasma in the fracture healing process and hypothesized that by combining the advantages of autologous bone grafts with autologous platelets concentrate, better and prompt results in orthopedic trauma managements can be obtained. We also observe that the use of these bioactive factors to enhance skeletal repair/healing represents the future of skeletal trauma management.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Bone mineral density, osteoporosis, and osteoporotic fractures: a genome-wide association study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2679414/",
+      "publisher": "Lancet (London, England)",
+      "year": "2008",
+      "doi": "10.1016/s0140-6736(08)60599-1",
+      "abstract": "Background Osteoporosis is diagnosed by the measurement of bone mineral density, which is a highly heritable and multifactorial trait. We aimed to identify genetic loci that are associated with bone mineral density. Methods In this genome-wide association study, we identified the most promising of 314 075 single nucleotide polymorphisms (SNPs) in 2094 women in a UK study. We then tested these SNPs for replication in 6463 people from three other cohorts in western Europe. We also investigated allelic expression in lymphoblast cell lines. We tested the association between the replicated SNPs and osteoporotic fractures with data from two studies. Findings We identified genome-wide evidence for an association between bone mineral density and two SNPs (p Interpretation Two gene variants of key biological proteins increase the risk of osteoporosis and osteoporotic fracture. The combined effect of these risk alleles on fractures is similar to that of most well-replicated environmental risk factors, and they are present in more than one in five white people, suggesting a potential role in screening.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Predicting risk of osteoporotic fracture in men and women in England and Wales: prospective derivation and validation of QFractureScores",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2779855/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2009",
+      "doi": "10.1136/bmj.b4229",
+      "abstract": "Objective To develop and validate two new fracture risk algorithms (QFractureScores) for estimating the individual risk of osteoporotic fracture or hip fracture over 10 years. Design Prospective open cohort study with routinely collected data from 357 general practices to develop the scores and from 178 practices to validate the scores. Setting General practices in England and Wales. Participants 1 183 663 women and 1 174 232 men aged 30-85 in the derivation cohort, who contributed 7 898 208 and 8 049 306 person years of observation, respectively. There were 24 350 incident diagnoses of osteoporotic fracture in women and 7934 in men, and 9302 incident diagnoses of hip fracture in women and 5424 in men. Main outcome measures First (incident) diagnosis of osteoporotic fracture (vertebral, distal radius, or hip) and incident hip fracture recorded in general practice records. Results Use of hormone replacement therapy (HRT), age, body mass index (BMI), smoking status, recorded alcohol use, parental history of osteoporosis, rheumatoid arthritis, cardiovascular disease, type 2 diabetes, asthma, tricyclic antidepressants, corticosteroids, history of falls, menopausal symptoms, chronic liver disease, gastrointestinal malabsorption, and other endocrine disorders were significantly and independently associated with risk of osteoporotic fracture in women. Some variables were significantly associated with risk of osteoporotic fracture but not with risk of hip fracture. The predictors for men for osteoporotic and hip fracture were age, BMI, smoking status, recorded alcohol use, rheumatoid arthritis, cardiovascular disease, type 2 diabetes, asthma, tricyclic antidepressants, corticosteroids, history of falls, and liver disease. The hip fracture algorithm had the best performance among men and women. It explained 63.94% of the variation in women and 63.19% of the variation in men. The D statistic values for discrimination were highest for hip fracture in women (2.73) and men (2.68) and were over twice the magnitude of the corresponding values for osteoporotic fracture. The ROC statistics for hip fracture were also high: 0.89 in women and 0.86 for men versus 0.79 and 0.69, respectively, for the osteoporotic fracture outcome. The algorithms were well calibrated with predicted risks closely matching observed risks. The QFractureScore for hip fracture also had good performance for discrimination and calibration compared with the FRAX (fracture risk assessment) algorithm. Conclusions These new algorithms can predict risk of fracture in primary care populations in the UK without laboratory measurements and are therefore suitable for use in both clinical settings and for self assessment (www.qfracture.org). QFractureScores could be used to identify patients at high risk of fracture who might benefit from interventions to reduce their risk.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Insulin-like growth factor 2 (IGF-2) potentiates BMP-9-induced osteogenic differentiation and bone formation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3179288/",
+      "publisher": "Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research",
+      "year": "2010",
+      "doi": "10.1002/jbmr.133",
+      "abstract": "Efficient osteogenic differentiation and bone formation from mesenchymal stem cells (MSCs) should have clinical applications in treating nonunion fracture healing. MSCs are adherent bone marrow stromal cells that can self-renew and differentiate into osteogenic, chondrogenic, adipogenic, and myogenic lineages. We have identified bone morphogenetic protein 9 (BMP-9) as one of the most osteogenic BMPs. Here we investigate the effect of insulin-like growth factor 2 (IGF-2) on BMP-9-induced bone formation. We have found that endogenous IGF-2 expression is low in MSCs. Expression of IGF-2 can potentiate BMP-9-induced early osteogenic marker alkaline phosphatase (ALP) activity and the expression of later markers. IGF-2 has been shown to augment BMP-9-induced ectopic bone formation in the stem cell implantation assay. In perinatal limb explant culture assay, IGF-2 enhances BMP-9-induced endochondral ossification, whereas IGF-2 itself can promote the expansion of the hypertropic chondrocyte zone of the cultured limb explants. Expression of the IGF antagonists IGFBP3 and IGFBP4 leads to inhibition of the IGF-2 effect on BMP-9-induced ALP activity and matrix mineralization. Mechanistically, IGF-2 is further shown to enhance the BMP-9-induced BMPR-Smad reporter activity and Smad1/5/8 nuclear translocation. PI3-kinase (PI3K) inhibitor LY294002 abolishes the IGF-2 potentiation effect on BMP-9-mediated osteogenic signaling and can directly inhibit BMP-9 activity. These results demonstrate that BMP-9 crosstalks with IGF-2 through PI3K/AKT signaling pathway during osteogenic differentiation of MSCs. Taken together, our findings suggest that a combination of BMP-9 and IGF-2 may be explored as an effective bone-regeneration agent to treat large segmental bony defects, nonunion fracture, and/or osteoporotic fracture.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Osteoporotic Fractures in the Elderly",
+      "url": "https://doi.org/10.2478/v10004-007-0007-5",
+      "publisher": "Walter de Gruyter GmbH",
+      "year": "2007",
+      "doi": "10.2478/v10004-007-0007-5",
+      "abstract": "The epidemiology of injuries is a significant factor in the structure of mortality and causes of hospitalization of elderly people. Epidemiologically, consequences of injury, i.e. their complications, from reduced mobility, sores, contractures, infections, all over to mortality from hypostatic pneumonia, are strongly emphasized in the elderly. In 2005, more than 17.0% of Croatian population were older than 65 years of age, and 27.0% of the population were over 60. Osteoporotic bone fractures are frequent among the elderly; 5,489 hip fracture cases were registered in Croatia during 2005, and 382 of them died from fracture complications. In total, 97.38% of the dead patients were over 65 years of age. Besides hip fractures, other typical osteoporotic fractures are fractures of vertebral bodies, distal part of the radius, humerus, pelvic bones, etc. Regardless of conservative or surgical treatment for osteoporotic fracture, it is essential to stress out that after the care of fractured bone has been provided, appropriate diagnostic examinations and pharmacological treatment of osteoporosis should also be done. Orthopedic and traumatic surgeons all over the world have to understand that conservative or surgical treatment of osteoporotic fracture of any localization is just one link in this complex chain of managing the disease - osteoporotic treatment.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Epidemiology of Osteoporotic Fractures",
+      "url": "https://doi.org/10.1007/978-0-85729-402-9_5",
+      "publisher": "Springer London",
+      "year": "2000",
+      "doi": "10.1007/978-0-85729-402-9_5",
+      "abstract": "Osteoporosis constitutes a major public health problem through its association with age-related fractures. These fractures typically occur at the hip, spine and distal forearm. It has been estimated that the lifetime risk of a hip fracture in white women is 17.5%, with a comparable risk in men of 6%. Hip fractures lead to an overall reduction in survival of about 15% (relative or observed/expected survival at 5 years of 0.83), and the majority of excess deaths occur within the first 6 months following the fracture. Such fractures are also associated with considerable morbidity. Although all vertebral deformities do not come to clinical attention, the lifetime risk of clinically diagnosed vertebral fractures is about 15% in white women. Vertebral fractures tend to be associated with back pain and kyphosis, and also with an impairment of survival, though this is likely to be due to clustering of comorbidity. About one-quarter of clinically diagnosed vertebral deformities result in hospitalization.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Evaluation of Composites Comprising Spherical, Porous, Sintered β-Tricalcium Phosphate Particles and Cyanoacrylate as Bone Cement",
+      "url": "https://www.mdpi.com/2079-4983/16/12/458",
+      "publisher": "Journal of Functional Biomaterials",
+      "year": "2025",
+      "doi": "10.3390/jfb16120458",
+      "abstract": "Bone cements based on polymethyl methacrylate (PMMA) remain the clinical standard for joint replacement and vertebral augmentation but suffer from several major challenges. These include excessive stiffness compared with cancellous bone, lack of resorption and osteoconductivity, and thermal necrosis during curing. Calcium phosphate cements (CPCs) are bioactive and resorbable but tend to exhibit low mechanical strength, poor injectability and brittle fracture. The work reported herein developed an injectable composite bone cement by combining spherical, porous, sintered β-tricalcium phosphate (β-TCP) particles with a cyanoacrylate adhesive. The β-TCP granules provided bioactivity and a favorable microarchitecture while the cyanoacrylate ensured strong adhesion and rapid setting. Ion substitution with Mg, Na and Si was found to modify the surface acidity of the material while also inhibiting cyanoacrylate polymerization, thereby extending the setting time and lowering the exotherm temperature. This composite exhibited high chemical stability, smooth injectability and early surface reactivity indicative of osteoconductivity. The compressive strength of the material stabilized at approximately 40 MPa and so exceeded that of cancellous bone. This new material also showed ductility, energy absorption and superior impact resistance, although its tensile and fatigue resistance remained limited. Importantly, the composite provided strength comparable to that of PMMA in cemented models during fixation tests and significantly outperformed CPCs in cementless tibial tray fixation experiments. These findings demonstrate that the present β-TCP/cyanoacrylate cement bridges the gap between PMMA and CPCs by combining injectability and mechanical reliability with bioactivity. This cement is therefore a promising next-generation option for minimally invasive osteoporotic fracture treatment and revision arthroplasty.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The proportion of Thai postmenopausal women who would be eligible for anti-osteoporosis therapy.",
+      "url": "https://doi.org/10.1371/journal.pone.0279829",
+      "publisher": "PLoS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0279829",
+      "abstract": "Purpose To determine the proportion of postmenopausal Thai women who would be classified as having high risk of fracture and eligible for anti-osteoporosis therapy according to the National Osteoporosis Foundation (NOF) criteria. Methods Postmenopausal Thai women aged 40-90 years who had been screened for osteoporosis during 2014-2019 were recruited. Demographic data and osteoporosis risk factors were collected based on the Fracture Risk Assessment Tool (FRAX) questionnaire. Bone mineral density (BMD) at the femoral neck and lumbar spine measured using dual energy X-ray absorptiometry. Ten-year probabilities of hip and major osteoporotic fracture (MOF) were calculated based on the Thai FRAX model with BMD. The study's protocol was approved by the Institutional Ethical Committee (HE581241). Results A total of 3,280 postmenopausal women were included. The mean ± SD age was 63.6 ± 10.1 years. A total of 170 (5.2%) participants had a history of hip and/or vertebral fracture. After excluding these participants with fracture history, 699 (21.3%) had osteoporosis, 355 (10.8%) had osteopenia with high risk of fracture (FRAX 10-year probability of hip fracture ≥ 3% and/or MOF ≥ 20%), 1192 (36.3%) had osteopenia with low risk of fracture (FRAX 10-year probability of hip fracture Conclusion The prevalence of Thai postmenopausal women who would be eligible for anti-osteoporosis therapy was 37.3%.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A Novel Osteoporosis Screening Protocol to Identify Orthopedic Surgery Patients for Preoperative Bone Health Optimization",
+      "url": "https://doi.org/10.1177/21514593221116413",
+      "publisher": "Geriatric Orthopaedic Surgery & Rehabilitation",
+      "year": "2022",
+      "doi": "10.1177/21514593221116413",
+      "abstract": "Introduction Osteoporosis is highly prevalent in elective orthopedic surgery. While preoperative bone health optimization decreases osteoporosis-related complications, there is an unmet need to establish who may benefit from preoperative dual-energy x-ray absorptiometry (DXA). This study assesses a novel, simple screening protocol to identify orthopedic surgical patients for preoperative DXA. Materials/Methods This retrospective cohort study included 628 patients undergoing total knee, hip, or shoulder arthroplasty or thoracolumbar spine fusion. Inclusion criteria were ≥40 years undergoing primary elective surgery. Screening criteria defining who should obtain DXA due to high osteoporosis risk included: female ≥65, male ≥70, fracture history when ≥50 years, or FRAX major osteoporotic fracture risk (without bone mineral density [BMD]-adjustments) ≥8.4%. Osteoporosis was defined by World Health Organization criteria [T-score ≤ −2.5], clinical National Osteoporosis Foundation (NOF) criteria [T-score ≤ −2.5, elevated BMD-adjusted FRAX risk, or prior hip/spine fracture], and modified clinical criteria [NOF criteria simplified to include any non-traumatic prior fracture and FRAX without BMD]. Results The study included 100 TKAs, 100 THAs, 251 TSAs, and 177 spine fusions, average age 65.6 ± 9.8. DXA was available for 209 patients. Screening criteria recommending DXA was met by 362 patients. For those with DXA, screening sensitivity was .96 (CI: .78 to .99) and specificity was .19 (CI: .14 to .25) for identifying T-score osteoporosis. Similar sensitivity of .99 (CI: .91 to .99) and specificity of .61 (CI: .56 to .66) were found for modified clinical osteoporosis. For modified clinical osteoporosis, 192 patients with osteoporosis met criteria (true pos.), 1 patient with osteoporosis did not meet criteria (false neg.), 170 patients without osteoporosis met criteria (false pos.), and 265 patients without osteoporosis did not meet criteria (true neg.). Discussion/Conclusion A simple screening protocol identifies orthopedic surgical candidates at risk of T-score or clinical osteoporosis for preoperative DXA with high sensitivity.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Joint Associations of Prevalent Radiographic Vertebral Fracture and Abdominal Aortic Calcification With Incident Hip, Major Osteoporotic, and Clinical Vertebral Fractures",
+      "url": "https://inserm.hal.science/inserm-05021205v1",
+      "publisher": "Journal of Bone and Mineral Research",
+      "year": "2020",
+      "doi": "10.1002/jbmr.4257",
+      "abstract": "ABSTRACT Prevalent vertebral fractures (PVFx) and abdominal aortic calcification (AAC) are both associated with incident fractures and can be ascertained on the same lateral spine images, but their joint association with incident fractures is unclear. Our objective was to estimate the individual and joint associations of PVFx and AAC with incident major osteoporotic, hip, and clinical vertebral fractures in 5365 older men enrolled in the Osteoporotic Fractures in Men (MrOS) Study, using Cox proportional hazards and Fine and Gray subdistribution hazards models to account for competing mortality. PVFx (Genant SQ grade 2 or 3) and 24-point AAC score were ascertained on baseline lateral spine radiographs. Self-reports of incident fractures were solicited every 4 months and confirmed by review of clinical radiographic reports. Compared with men without PVFx and AAC-24 score 0 or 1, the subdistribution hazard ratio (SHR) for incident major osteoporotic fracture was 1.38 (95% confidence interval [CI] 1.13–1.69) among men with AAC-24 score ≥2 alone, 1.71 (95% CI 1.37–2.14) for men with PVFx alone, and 2.35 (95% CI 1.75–3.16) for men with both risk factors, after accounting for conventional risk factors and competing mortality. Wald statistics showed improved prediction model performance by including both risk factors compared with including only AAC (chi-square = 17.3, p < .001) or including only PVFx (chi-square = 8.5, p = .036). Older men with both PVFx and a high level of AAC are at higher risk of incident major osteoporotic fracture than men with either risk factor alone. Assessing prevalent radiographic vertebral fracture and AAC on the same lateral spine images may improve prediction of older men who will have an incident major osteoporotic fracture, even after accounting for traditional fracture risk factors and competing mortality. © 2021 American Society for Bone and Mineral Research (ASBMR).",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Hip Structural Changes and Fracture Risk in Osteopenia and Osteoporosis",
+      "url": "https://eajm.org/index.php/pub/article/view/2415",
+      "publisher": "Eurasian Journal of Medicine",
+      "year": "2019",
+      "doi": "10.5152/eajm.2011.17",
+      "abstract": "Abstract Objective: Although bone mineral density (BMD) is an important predictor of hip fracture, there is a large overlap of BMD values between those who fracture their hips and those who do not. The aim of this study was to evaluate differences in the structural parameters of the hip in patients with osteopenia and osteoporosis in the hip region and to assess their relationship with osteoporotic fracture risk, age and gender. Materials and Methods: In this observational retrospective study, 150 patients with osteopenia (100 postmenopausal women and 50 men ≥ 50 years of age) and 125 patients with osteoporosis in the hip (100 postmenopaussal women and 25 men ≥ 50 years of age) were included. In addition to densitometry measurements by DEXA (Dual Energy X-ray Absorbimetry), structural variables were determined using the Hip Strength Analysis program (HSA). Results: In logistic regression analyses, the femoral neck BMD (odds ratio (OR), 2.6; 95% Confidence Interval (CI) 1.8-3.8), age (OR per 10 years 1.4; 95% CI, 1.1-1.9), femoral neck shaft angle (NSA) (OR 1.5; 95% CI, 1.2-2.1), Femur Strength Index (FSI) (OR 1.6; 95% CI 1.3-2.2), and Cross sectional area (CSA) (OR 1.6; 95% CI 1.2-2.1) were all associated with osteoporotic fractures in women and men. Osteopenic patients had smaller femoral neck-shaft angles (NSA) compared to osteoporotic patients (p<0.05). This angle was larger in women (p<0.05); and women had decreased (FSI) (p<0.001) and CSA (p<0.05), which cause increased fracture risk. Conclusion: Spatial distribution of bone tissue is a useful determinant of fracture risk.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Adverse outcomes from initiation of systemic corticosteroids for asthma: long-term observational study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121746/",
+      "publisher": "Journal of asthma and allergy",
+      "year": "2018",
+      "doi": "10.2147/jaa.s176026",
+      "abstract": "Purpose Prior work suggests a threshold of four courses/year of systemic corticosteroid (SCS) therapy is associated with adverse consequences. The objective of this study was to investigate the onset of adverse outcomes beginning at SCS initiation in a broad asthma population. Patients and methods This historical matched cohort study utilized anonymized, longitudinal medical record data (1984-2017) of patients (≥18 years) with active asthma. Matched patients with first SCS prescription (SCS arm) and no SCS exposure (non-SCS arm) were followed until first outcome event. Associations between time-varying exposure measures and onset of 17 SCS-associated adverse outcomes were estimated using Cox proportional hazard regression, adjusting for confounders, in separate models. Results We matched 24,117 pairs of patients with median record availability before SCS initiation of 9.9 and 8.7 years and median follow-up 7.4 and 6.4 years in SCS and non-SCS arms, respectively. Compared with patients in the non-SCS arm, patients prescribed SCS had significantly increased risk of osteoporosis/osteoporotic fracture (adjusted hazard ratio 3.11; 95% CI 1.87-5.19), pneumonia (2.68; 2.30-3.11), cardio-/cerebrovascular diseases (1.53; 1.36-1.72), cataract (1.50; 1.31-1.73), sleep apnea (1.40; 1.04-1.86), renal impairment (1.36; 1.26-1.47), depression/anxiety (1.31; 1.21-1.41), type 2 diabetes (1.26; 1.15-1.37), and weight gain (1.14; 1.10-1.18). A dose-response relationship for cumulative SCS exposure with most adverse outcomes began at cumulative exposures of 1.0- 0- Conclusion Our findings suggest urgent need for reappraisal of when patients need specialist care and consideration of nonsteroid therapy.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "ARE TRAUMATOLOGISTS TREATING OSTEOPOROSIS TO PREVENT NEW FRACTURES IN BRAZIL?",
+      "url": "http://www.scielo.br/pdf/aob/v26n6/1809-4406-aob-26-06-0384.pdf",
+      "publisher": "Acta Ortopédica Brasileira",
+      "year": "2018",
+      "doi": "10.1590/1413-785220182606202125",
+      "abstract": "ABSTRACT Objectives: To determine the proportion of traumatologists who investigate osteoporosis in elderly patients with fractures and recommend secondary prevention of osteoporotic fractures. Methods: We distributed questionnaires to 244 physicians attending the 2015 Brazilian Congress of Orthopedic Trauma. We determined the respondents’ profiles and assessed how they investigated and treated osteoporosis in elderly patients with fractures. Results: Overall, 32% of the respondents reported that their knowledge level regarding osteoporosis ranged from 0-5 (out of 0-10). In total, 42% of the participants reported that they usually requested DXA for elderly patients with fractures and less than 30% reported prescribing supplemental calcium and/or vitamin D. We considered physicians conducting a complete treatment for the patient as those who in addition to requesting DXA prescribed supplemental calcium, vitamin D, and specific medications for their elderly patients, and recommended non-pharmacological measures. Only 0.8% of the participants fulfilled all these criteria. In addition, 47% of the traumatologists reported that they did not treat osteoporosis directly but instead, referred osteoporotic patients to a qualified physician. Conclusion: Less than 50% of the surveyed traumatologists investigated and performed secondary prevention against osteoporotic fractures after treating an elderly patient with a fracture. Level of evidence III, Economic and Decision Analyses - Developing an Economic or Decisions Model.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Osteoporotic Pelvic Fractures",
+      "url": "https://doi.org/10.3238/arztebl.2018.0070",
+      "publisher": "Deutscher Arzte-Verlag GmbH",
+      "year": "2018",
+      "doi": "10.3238/arztebl.2018.0070",
+      "abstract": "The estimated incidence of osteoporotic pelvic fractures among persons over age 60 in Germany is 224 per 100 000 persons per year, and rising. A number of surgical treatment options are available, but clinical long-term data are lacking.This review is based on pertinent publications and guidelines retrieved by a selective literature search, and on the authors' clinical experience.Patients often report one or more relatively trivial traumatic incidents leading up to the fracture. They complain of pain in the hip, groin, or lower lumbar region, or of low back pain and sciatica. A new classification scheme entitled Fragility Fractures of the Pelvis (FFP) takes the morphology of the fracture into account and can be used as an aid to therapeutic decision-making (evidence level IV). The goal of treatment is early mobilization with adequate pain relief. Isolated anterior pelvic ring fractures (FFP I) and nondisplaced posterior pelvic ring fractures (FFP II) are usually stable and can be treated conservatively. Type III and IV injuries are unstable and should generally be treated surgically.Retrospective analyses have shown that osteoporotic pelvic fractures are associated with decreased mobility and independence and with a one-year mortality ranging from 9.5% to 27%. Prospective therapeutic trials are urgently needed.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Osteoporosis and ischemic cardiovascular disease Osteoporosis and ischemic cardiovascular disease.",
+      "url": "https://hal.umontpellier.fr/hal-01802164v1",
+      "publisher": "Joint Bone Spine",
+      "year": "2017",
+      "doi": "10.1016/j.jbspin.2016.09.022",
+      "abstract": "Osteoporosis and cardiovascular disease were long viewed as independent of each other. However, numerous epidemiological studies, which are discussed in the first part of this review, have provided incontrovertible evidence of a link. Thus, the risk of coronary artery disease and stroke is higher in patients with a history of osteoporotic fracture or low bone mineral density than in non-osteoporotic patients. In the other direction, patients with cardiovascular disease are at higher risk for bone loss and osteoporotic fracture. The link between osteoporosis and cardiovascular disease is due in part to shared conventional risk factors such as estrogen deprivation in women, smoking, low physical activity, and diabetes. In addition, atheroma plaque calcification involves cytokines and growth factors that also play a role in bone turnover, including proinflammatory cytokines (IL-6 and TNFα), osteoprotegerin, sclerostin, matrix GLA protein, and FGF-23. Several recent studies have provided support for these pathophysiological hypotheses. Thus, elevation of osteoprotegerin, sclerostin, or FGF-23 levels may explain and predict the occurrence of both osteoporotic fractures and cardiovascular events. The association between osteoporosis and cardiovascular disease found in most epidemiological and pathophysiological studies suggests a need for evaluating potential benefits from routine bone absorptiometry and osteoporotic fracture detection in patients with cardiovascular disease and from exercise testing and arterial Doppler imaging in patients with osteoporosis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Risk factors of mortality during the first year after low energy osteoporosis fracture: A retrospective case-control study",
+      "url": "https://univ-rennes.hal.science/hal-01398434v1",
+      "publisher": "Clinical Cases in Mineral and Bone Metabolism",
+      "year": "2016",
+      "doi": "10.11138/ccmbm/2016.13.2.123",
+      "abstract": "Introduction. Osteoporotic fractures are a major public health problem because of the morbidity and mortality of fracture complications. The objective of this study was to examine predictive factors of mortality during the first year after an osteoporotic fracture. Methods. It is a retrospective case-control study using data of a group of 1081 patients aged over 50 years with severe osteoporotic fractures by the Rennes university hospital emergency department from August 2007 to September 2008. Patients (cases) who died during the year following the fracture were compared with others who had survived (controls) one year after the fracture, matched on age, sex and type of fracture. Pre-fracture comorbidities and complications after the fractures were studied. Results. Forty-two cases and 126 controls were analyzed without significant differences in age, sex or type of fracture. On univariate analysis, previous neoplasia, neurodegenerative disease, walking aids, thromboembolic complication, post fracture infection, post fracture heart failure, post fracture acute respiratory failure were associated with more mortality after osteoporotic fracture. After multivariate analysis, only previous neoplasia (OR = 4.63 [1.79 - 11.95]; p = 0.02) and acute respiratory failure after fracture (OR = 28.15 [5.75 - 137.9]; p<0.001) were retained as predictive factors during the year following the fracture. Conclusion. Patients died more often from their co-morbidities than direct complications of their fractures. Osteoporotic fracture seems to be a marker of poor health status and a factor which may hasten the death. © Copyright 2016 CIC Edizioni Internazionali Unauthorized reproduction of this article is prohibited.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Improvement of the precision of Quantitative Ultrasound (QUS) measurements at the calcaneus by tilting of the beam incidence angle",
+      "url": "https://hal.science/hal-00811297v1",
+      "publisher": "HAL open archive",
+      "year": "2012",
+      "doi": "",
+      "abstract": "QUS measurements at the calcaneus can be used for the estimation of osteoporotic fracture risk, but the use for therapy monitoring is unclear yet. One reason might be the limited precision of commercial devices. Our intent was to investigate the impact of the beam incidence angle at the calcaneus on the precision of the speed of sound (SOS). We developed a device with an array (120 elements) as receiver (d=100mm) and one single element emitter of the same size. Both are placed on opposite sides of the foot and mounted on a c-arm which can be rotated and tilted. SOS of 6 volunteers was measured three times with repositioning with our device (angles from 0° to 14°, step size 3.5°) and with the commercial device Achilles Insight. The pair of angles used by the Achilles and those yielding the highest amplitude of the first oscillation was analyzed. The precision of the Achilles was 9.4 m/s, the precision of our device at the Achilles angles was 2.9 m/s and 2.0 m/s at the individually defined angles. We achieved a better precision with our device than with the Achilles Insight, which can even be improved by measuring under the optimal tilting angles.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.08,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "FRAX and the assessment of fracture probability in men and women from the UK",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2267485/",
+      "publisher": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+      "year": "2008",
+      "doi": "10.1007/s00198-007-0543-5",
+      "abstract": "Unlabelled A fracture risk assessment tool (FRAX) is developed based on the use of clinical risk factors with or without bone mineral density tests applied to the UK. Introduction The aim of this study was to apply an assessment tool for the prediction of fracture in men and women with the use of clinical risk factors (CRFs) for fracture with and without the use of femoral neck bone mineral density (BMD). The clinical risk factors, identified from previous meta-analyses, comprised body mass index (BMI, as a continuous variable), a prior history of fracture, a parental history of hip fracture, use of oral glucocorticoids, rheumatoid arthritis and other secondary causes of osteoporosis, current smoking, and alcohol intake 3 or more units daily. Methods Four models were constructed to compute fracture probabilities based on the epidemiology of fracture in the UK. The models comprised the ten-year probability of hip fracture, with and without femoral neck BMD, and the ten-year probability of a major osteoporotic fracture, with and without BMD. For each model fracture and death hazards were computed as continuous functions. Results Each clinical risk factor contributed to fracture probability. In the absence of BMD, hip fracture probability in women with a fixed BMI (25 kg/m(2)) ranged from 0.2% at the age of 50 years for women without CRF's to 22% at the age of 80 years with a parental history of hip fracture (approximately 100-fold range). In men, the probabilities were lower, as was the range (0.1 to 11% in the examples above). For a major osteoporotic fracture the probabilities ranged from 3.5% to 31% in women, and from 2.8% to 15% in men in the example above. The presence of one or more risk factors increased probabilities in an incremental manner. The differences in probabilities between men and women were comparable at any given T-score and age, except in the elderly where probabilities were higher in women than in men due to the higher mortality of the latter. Conclusion The models provide a framework which enhances the assessment of fracture risk in both men and women by the integration of clinical risk factors alone and/or in combination with BMD.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Unintended effects of statins in men and women in England and Wales: population based cohort study using the QResearch database",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2874131/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2010",
+      "doi": "10.1136/bmj.c2197",
+      "abstract": "Objective To quantify the unintended effects of statins according to type, dose, and duration of use. Design Prospective open cohort study using routinely collected data. Setting 368 general practices in England and Wales supplying data to the QResearch database. Participants 2 004 692 patients aged 30-84 years of whom 225 922 (10.7%) were new users of statins: 159 790 (70.7%) were prescribed simvastatin, 50 328 (22.3%) atorvastatin, 8103 (3.6%) pravastatin, 4497 (1.9%) rosuvastatin, and 3204 (1.4%) fluvastatin. Methods Cox proportional hazards models were used to estimate effects of statin type, dose, and duration of use. The number needed to treat (NNT) or number needed to harm (NNH) was calculated and numbers of additional or fewer cases estimated for 10 000 treated patients. Main outcome measure First recorded occurrence of cardiovascular disease, moderate or serious myopathic events, moderate or serious liver dysfunction, acute renal failure, venous thromboembolism, Parkinson's disease, dementia, rheumatoid arthritis, cataract, osteoporotic fracture, gastric cancer, oesophageal cancer, colon cancer, lung cancer, melanoma, renal cancer, breast cancer, or prostate cancer. Results Individual statins were not significantly associated with risk of Parkinson's disease, rheumatoid arthritis, venous thromboembolism, dementia, osteoporotic fracture, gastric cancer, colon cancer, lung cancer, melanoma, renal cancer, breast cancer, or prostate cancer. Statin use was associated with decreased risks of oesophageal cancer but increased risks of moderate or serious liver dysfunction, acute renal failure, moderate or serious myopathy, and cataract. Adverse effects were similar across statin types for each outcome except liver dysfunction where risks were highest for fluvastatin. A dose-response effect was apparent for acute renal failure and liver dysfunction. All increased risks persisted during treatment and were highest in the first year. After stopping treatment the risk of cataract returned to normal within a year in men and women. Risk of oesophageal cancer returned to normal within a year in women and within 1-3 years in men. Risk of acute renal failure returned to normal within 1-3 years in men and women, and liver dysfunction within 1-3 years in women and from three years in men. Based on the 20% threshold for cardiovascular risk, for women the NNT with any statin to prevent one case of cardiovascular disease over five years was 37 (95% confidence interval 27 to 64) and for oesophageal cancer was 1266 (850 to 3460) and for men the respective values were 33 (24 to 57) and 1082 (711 to 2807). In women the NNH for an additional case of acute renal failure over five years was 434 (284 to 783), of moderate or severe myopathy was 259 (186 to 375), of moderate or severe liver dysfunction was 136 (109 to 175), and of cataract was 33 (28 to 38). Overall, the NNHs and NNTs for men were similar to those for women, except for myopathy where the NNH was 91 (74 to 112). Conclusions Claims of unintended benefits of statins, except for oesophageal cancer, remain unsubstantiated, although potential adverse effects at population level were confirmed and quantified. Further studies are needed to develop utilities to individualise the risks so that patients at highest risk of adverse events can be monitored closely.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Case Report on Teriparatide Treatment in Non-Uniting Fracture",
+      "url": "https://hal.science/hal-05078377v1",
+      "publisher": "HAL open archive",
+      "year": "2022",
+      "doi": "10.9734/bpi/nhmmr/v1/1861B",
+      "abstract": "The purpose of this case report is to elucidate the Indian experience of 5 cases of use of Teriparatide for fracture healing - delayed unions and non-unions and in the setting of osteoporotic fracture. Impaired healing of fractures delays the rehabilitation process, which in turn impacts quality of life. The associated costs cause an economic burden to both the society and the patients. Till date, no systemic treatment is approved for fracture healing. Teriparatide is a synthetic polypeptide hormone consisting of the 1–34 fragment of human parathyroid hormone. Apart from its recognized indication of osteoporosis, there is a growing body of evidence suggesting its ability to accelerate fracture healing and heal non-unions. The primary observation of our case report depicts that teriparatide is a viable therapy not only to treat osteoporosis but also to accelerate fracture healing. Teriparatide therapy accelerates healing, which allows patients to return to normal life and work faster, optimizes medical resource utilization, reduces chances for future second surgery, requirement of bone graft and overall chronic morbidity associated with long-term treatment. Teriparatide therapy has several advantages: it can be recommended for any type of fracture, including those that will be treated non-surgically; it can be started at any time; and it can be used throughout the healing process. Our findings are consistent with those of earlier research that have looked at the impact of Teriparatide on delayed and non-unions in humans.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.78,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Cronkhite-Canada syndrome associated with rib fractures: a case report",
+      "url": "http://www.biomedcentral.com/1471-230X/10/121",
+      "publisher": "BMC Gastroenterology",
+      "year": "2010",
+      "doi": "10.1186/1471-230X-10-121",
+      "abstract": "Abstract Background Cronkhite-Canada syndrome (CCS) is a rare multiple gastrointestinal polyposis. Up till now, many complications of CCS have been reported in the literature, but rib fracture is not included. Case Presentation We report a case of a 58-year-old man who was admitted to our hospital with a 6-month history of frequent diarrhea, intermittent hematochezia and a weight loss of 13 kg. On admission, physical examination revealed alopecia of the scalp, hyperpigmentation of the hands and soles, and dystrophy of the fingernails. Laboratory data revealed hypocalcaemia and hypoproteinemia. Esophagogastroduodenoscopy, video capsule endoscopy and colonoscopy revealed various sizes of generalized gastrointestinal polyps. Histological examination of the biopsy specimens obtained from the stomach and the colon showed adenomatous polyp and inflammatory polyp respectively. Thus, a diagnosis of CCS was made. After treatment with corticosteroids for 24 days and nutritional support for two months, his clinical condition improved. Two months later, he was admitted to our hospital for the second time with frequent diarrhea and weight loss. The chest radiography revealed fractures of the left sixth and seventh ribs. Examinations, including emission computed tomography, bone densitometry test, and other serum parameters, were performed, but could not identify the definite etiology of the rib fractures. One month later, the patient suffered from aggravating multiple rib fractures due to the ineffective treatment, persistent hypocalcaemia and malnutrition. Conclusions This is the first case of a CCS patient with multiple rib fractures. Although the association between CCS and multiple rib fractures in this case remains uncertain, we presume that persistent hypocalcaemia and malnutrition contribute to this situation, or at least aggravate this rare complication. Besides, since prolonged corticosteroid therapy will result in an increased risk of osteoporotic fracture, CCS patients who accept corticosteroid therapy could be potential victims of rib fracture.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.3,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

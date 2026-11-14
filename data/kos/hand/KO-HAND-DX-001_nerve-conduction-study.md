@@ -46,15 +46,19 @@ relationships:
   source_ids:
   - S2
   - S3
-proposed_concepts:
-- term: Electromyography (EMG)
-  suggested_type: DiagnosticTest
-  predicate: CONTRASTS_WITH
-  reason: Muscle test usually done at the same visit as an NCS; often confused with it [S1][S3].
-- term: Nerve Ultrasound
-  suggested_type: DiagnosticTest
-  predicate: CONTRASTS_WITH
-  reason: Painless imaging test used with or instead of nerve tests in some cases [S2][S3].
+- predicate: CONTRASTS_WITH
+  target_id: KO-HAND-DX-003
+  target_label: Electromyography
+  source_ids:
+  - S1
+  - S3
+- predicate: CONTRASTS_WITH
+  target_id: KO-HAND-DX-005
+  target_label: Nerve Ultrasound
+  source_ids:
+  - S2
+  - S3
+proposed_concepts: []
 sources:
 - id: S1
   title: Electromyography (EMG) and Nerve Conduction Studies
@@ -118,9 +122,9 @@ review:
 safety:
   not_medical_advice: true
   scope_note: General education only. Not a diagnosis or treatment plan.
-version: 0.1.0
+version: 0.1.1
 created: '2026-11-01'
-last_updated: '2026-11-01'
+last_updated: '2026-11-14'
 update_triggers:
 - MedlinePlus updates its EMG and nerve conduction studies test page.
 - AAOS updates its carpal tunnel syndrome guideline advice on whether nerve testing is needed.
@@ -131,6 +135,11 @@ change_log:
   date: '2026-11-01'
   by: OKDS agent (Claude)
   change: Initial AI draft written by the agent from source pack SP-KO-HAND-DX-001 (claude-opus-5-5, okds-gen-1.0).
+- version: 0.1.1
+  date: '2026-11-14'
+  by: KO Collector + Claude (Claude Code session)
+  change: 'Proposed concepts that now have KOs became relationships (same sources): contrasts with → Electromyography
+    (KO-HAND-DX-003); contrasts with → Nerve Ultrasound (KO-HAND-DX-005)'
 ---
 
 ## Summary
@@ -205,6 +214,8 @@ For carpal tunnel syndrome, comparing the median nerve with a nearby nerve that 
 - Read next: Carpal Tunnel Release (KO-HAND-PROC-001)
 - Used to diagnose: Carpal Tunnel Syndrome (KO-HAND-COND-001) and Cubital Tunnel Syndrome (KO-HAND-COND-002)
 - Proposed topics (not in the registry yet): Electromyography (EMG); Nerve Ultrasound
+- contrasts with → Electromyography (KO-HAND-DX-003)
+- contrasts with → Nerve Ultrasound (KO-HAND-DX-005)
 
 ## References
 1. [S1] MedlinePlus Medical Tests (National Library of Medicine). *Electromyography (EMG) and Nerve Conduction Studies.* https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/ (retrieved 2026-11-01)

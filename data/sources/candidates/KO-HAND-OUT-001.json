@@ -1,0 +1,747 @@
+{
+  "term": "Boston Carpal Tunnel Questionnaire",
+  "collected": "2026-11-14",
+  "count": 41,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "A systematic review of the psychometric properties of the Boston Carpal Tunnel Questionnaire",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1624826/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2006",
+      "doi": "10.1186/1471-2474-7-78",
+      "abstract": "Abstract Background The Boston Carpal Tunnel Questionnaire (BCTQ) is a disease-specific measure of self-reported symptom severity and functional status. It is frequently used in the reporting of outcomes from trials into interventions for carpal tunnel syndrome. We conducted a systematic review of published studies on the psychometric properties of the BCTQ to determine the level of evidence on the instrument's validity, reliability and responsiveness to date. Methods A search of the databases Medline, CINAHL, AMED and PsychInfo was conducted to retrieve studies which investigated one or more of the psychometric properties of the BCTQ. Data abstraction was undertaken by the first two authors. Results Ten studies were retrieved which met the inclusion criteria. One study evaluated face and content validity (43 patients) eight studies assessed construct validity (932 patients), four studies tested reliability (126 patients) and nine studies assessed responsiveness (986 patients). Interpretability was evaluated in one study and acceptability in eight studies (978 patients). Conclusion The BCTQ is a standardised, patient-based outcome measure of symptom severity and functional status in patients with carpal tunnel syndrome. The evidence base of the psychometric properties indicates that the BCTQ is a valid, reliable, responsive and acceptable instrument and should be included as a primary outcome measures in future CTS trials.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.5,
+      "providers": [
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Open versus endoscopic carpal tunnel release: a systematic review and meta-analysis of randomized controlled trials",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187537/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2020",
+      "doi": "10.1186/s12891-020-03306-1",
+      "abstract": "Background Endoscopic carpal tunnel release (ECTR) and open carpal tunnel release (OCTR) both have advantages and disadvantages for the treatment of carpal tunnel syndrome (CTS). We compared the effectiveness and safety of ECTR and OCTR based on evidence from a high-level randomized controlled trial. Methods We comprehensively searched PubMed, EMBASE, Cochrane Library, Web of Science, and Medline to identify relevant articles published until August 2019. Data regarding operative time, grip strength, Boston Carpal Tunnel Questionnaire scores, digital sensation, patient satisfaction, key pinch strength, return to work time, and complications were extracted and compared. All mean differences (MD) and odds ratios (OR) were expressed as ECTR relative to OCTR. Results Our meta-analysis contained twenty-eight studies. ECTR was associated with significantly higher satisfaction rates (MD, 3.13; 95% confidence interval [CI], 1.43 to 4.82; P = 0.0003), greater key pinch strengths (MD, 0.79 kg; 95% CI, 0.27 to 1.32; P = 0.003), earlier return to work times (MD, - 7.25 days; 95% CI, - 14.31 to - 0.19; P = 0.04), higher transient nerve injury rates (OR, 4.87; 95% CI, 1.37 to 17.25; P = 0.01), and a lower incidence of scar-related complications (OR, 0.20; 95% CI, 0.07 to 0.59; P = 0.004). The permanent nerve injury showed no significant differences between the two methods (OR, 1.93; 95% CI, 0.58 to 6.40; P = 0.28). Conclusions Overall, evidence from randomized controlled trials indicates that ECTR results in better recovery of daily life functions compared to OCTR, as revealed by higher satisfaction rates, greater key pinch strengths, earlier return to work times, and fewer scar-related complications. Our findings suggest that patients with CTS can be effectively managed with ECTR.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.9,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Carpal tunnel release with versus without flexor retinaculum reconstruction for carpal tunnel syndrome at short- and long-term follow up—A meta-analysis of randomized controlled trials",
+      "url": "https://doi.org/10.1371/journal.pone.0211369",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0211369",
+      "abstract": "Background: Carpal tunnel syndrome is a common neuropathy disorder for which surgical treatment consists of release and reconstruction of the flexor retinaculum. Reports of postoperative clinical outcomes after carpal tunnel release with or without flexor retinaculum reconstruction in several studies are controversial. This meta-analysis aimed to compare the efficacy and safety of carpal tunnel release with or without flexor retinaculum reconstruction. Methods: The PubMed, EMBASE, Web of Science, Ovid, Cochrane Library and Clinical Tri Org databases were searched for randomized controlled trials that compared carpal release with and without transverse carpal ligament reconstruction for carpal tunnel syndrome. Outcomes included postoperative Boston Carpal Tunnel Questionnaire Symptom Severity Scale (SSS), Functional Status Scale (FSS), grip strength and complications. The follow-up time was categorized into short-term (0-3mon) and long-term(>3mon). Results: A total of 7 studies with 613 patients met the inclusion criteria and were analyzed in detail. Statistical analysis showed no significant difference between two groups on postoperative long-term grip strength (MD 5.85, 95% CI -1.05 to 12.76) long-term SSS (MD -0.31, 95% CI -0.75 to 0.13) and occurrence of complications (RR 1.14, 95% CI 0.84 to 1.54), whereas statistically significant difference was found between groups regarding short-term grip strength (MD 1.51, 95% CI 0.86 to 2.17) and long-term FSS (MD -0.34, 95% CI -0.47 to -0.21). Conclusion: Carpal tunnel release with flexor retinaculum reconstruction for carpal tunnel syndrome may result in improved long-term functional status while there’s no advantage regarding grip strength, symptom severity and safety over individual carpal tunnel release in short- and long-term outcomes.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.86,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Structural validity of the Boston Carpal Tunnel Questionnaire and its short version, the 6-Item CTS symptoms scale: a Rasch analysis one year after surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7488577/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2020",
+      "doi": "10.1186/s12891-020-03626-2",
+      "abstract": "Abstract Background The Boston Carpal Tunnel Questionnaire (BCTQ) and its shorter version, the Six-Item Carpal Tunnel Symptoms Scale (CTS-6), are widely used for assessing function and/or symptoms in patients with carpal tunnel syndrome. This study examined the structural validity of the BCTQ and CTS-6 among patients who had undergone surgery for treatment of carpal tunnel syndrome. Methods The data for this cross-sectional analysis were obtained from 217 adult patients who had undergone carpal tunnel release surgery 1 year earlier. All patients completed the CTS-6, Symptom Severity Scale (SSS) and Functional Status Scale (FSS) of the BCTQ at 12 months after surgery. The Rasch Measurement Theory (RMT) was applied to investigate the unidimensionality, residual correlation, differential item functioning, scale coverage/targeting, and person separation of the CTS-6, SSS and FSS of the BCTQ. Results The FSS showed unidimensionality and good scale and item fit. All items showed ordered response category thresholds. Eight of the FSS items displayed differential item functioning favoring age or gender. The multidimensional structure of the CTS-6 was absorbed by creating a testlet for frequency of symptoms or testlets for pain and numbness. The testlets supported unidimensionality in the BCTQ SSS. One item in the CTS-6 and two items in the BCTQ SSS showed differential item functioning favoring age or gender. Four items in the BCTQ SSS and two items in the CTS-6 exhibited disordered response category thresholds. Merging of the relevant response categories led to ordered response category thresholds. The person separation indices were 0.73, 0.86 and 0.77 for the CTS-6, BCTQ SSS and FSS, respectively. Conclusions Based on the RMT analysis, the CTS-6 has superior psychometric properties compared to the BCTQ SSS in surgically treated patients. The CTS-6 might be more accurate when separated into item sets measuring pain or numbness. The FSS of the BCTQ has acceptable construct validity, although gender differences at some ages were observed in responses.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Efficacy and Safety of Carpal Tunnel Release in Patients Aged 70 Years and Older: A Systematic Review and Meta-Analysis",
+      "url": "https://www.mdpi.com/2076-3271/14/2/264",
+      "publisher": "Medical Sciences",
+      "year": "2026",
+      "doi": "10.3390/medsci14020264",
+      "abstract": "Background: Carpal tunnel syndrome (CTS) is the most prevalent peripheral nerve entrapment neuropathy, with rising incidence in aging populations. Uncertainty persists regarding the efficacy and safety of carpal tunnel release (CTR) in patients aged ≥ 70 years. Objectives: To systematically evaluate the indications, clinical outcomes, and utility of CTR in elderly patients (≥70 years), with comparison to younger cohorts. Methods : Following PRISMA 2020 guidelines, PubMed/MEDLINE, Scopus, CENTRAL, Embase, Web of Science, and grey literature sources were searched from inception through September 2025. Two independent reviewers extracted data; inter-rater agreement was strong (κ = 0.81–0.86). The primary outcome was the Boston Carpal Tunnel Questionnaire (BCTQ). Weighted mean differences (WMDs) with 95% confidence intervals (CIs) were calculated using DerSimonian–Laird random-effects models. Certainty of evidence was assessed using the GRADE framework. Results: A total of 20 studies encompassing 3841 operated hands, including 1139 hands in elderly patients and 2702 hands in younger comparators across comparative studies, were analyzed. Mean SS-BCTQ improvement was 1.8 points (95%CI: 1.6–2.0; exceeding the established MCID of 1.04–1.05 points). FS-BCTQ improvement was 1.1 points (95%CI: 0.9–1.3; marginally below the pooled MCID of 1.13 points). Elderly patients demonstrated SS-BCTQ improvement of 1.7 points and satisfaction rates of 72–94%, comparable to younger cohorts (75–95%; p = 0.38). Grip strength improved 15–25% in younger patients but remained unchanged in elderly patients ( p p p = 0.52). GRADE certainty was as follows: low for symptom and functional improvement; very low for surgery versus conservative management. Conclusions: CTR is associated with significant symptomatic benefit in elderly patients when conservative treatment fails, with complication rates comparable to younger populations. Age alone should not constitute a surgical contraindication. Preoperative counseling must establish realistic expectations regarding grip strength and functional recovery. High-quality randomized trials in elderly populations remain an urgent research priority.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.14,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The clinical and cost-effectiveness of corticosteroid injection versus night splints for carpal tunnel syndrome (INSTINCTS trial): an open-label, parallel group, randomised controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6196880/",
+      "publisher": "Lancet (London, England)",
+      "year": "2018",
+      "doi": "10.1016/s0140-6736(18)31572-1",
+      "abstract": "Background To our knowledge, the comparative effectiveness of commonly used conservative treatments for carpal tunnel syndrome has not been evaluated previously in primary care. We aimed to compare the clinical and cost-effectiveness of night splints with a corticosteroid injection with regards to reducing symptoms and improving hand function in patients with mild or moderate carpal tunnel syndrome. Methods We did this randomised, open-label, pragmatic trial in adults (≥18 years) with mild or moderate carpal tunnel syndrome recruited from 25 primary and community musculoskeletal clinics and services. Patients with a new episode of idiopathic mild or moderate carpal tunnel syndrome of at least 6 weeks' duration were eligible. We randomly assigned (1:1) patients (permutated blocks of two and four by site) with an online web or third party telephone service to receive either a single injection of 20 mg methylprednisolone acetate (from 40 mg/mL) or a night-resting splint to be worn for 6 weeks. Patients and clinicians could not be masked to the intervention. The primary outcome was the overall score of the Boston Carpal Tunnel Questionnaire (BCTQ) at 6 weeks. We used intention-to-treat analysis, with multiple imputation for missing data, which was concealed to treatment group allocation. The trial is registered with the European Clinical Trials Database, number 2013-001435-48, and ClinicalTrial.gov, number NCT02038452. Findings Between April 17, 2014, and Dec 31, 2016, 234 participants were randomly assigned (118 to the night splint group and 116 to the corticosteroid injection group), of whom 212 (91%) completed the BCTQ at 6 weeks. The BCTQ score was significantly better at 6 weeks in the corticosteroid injection group (mean 2·02 [SD 0·81]) than the night splint group (2·29 [0·75]; adjusted mean difference -0·32; 95% CI -0·48 to -0·16; p=0·0001). No adverse events were reported. Interpretation A single corticosteroid injection shows superior clinical effectiveness at 6 weeks compared with night-resting splints, making it the treatment of choice for rapid symptom response in mild or moderate carpal tunnel syndrome presenting in primary care. Funding Arthritis Research UK.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.72,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The Val158Met polymorphism of the catechol-O-methyltransference gene is not associated with long-term treatment outcomes in carpal tunnel syndrome: A randomized clinical trial",
+      "url": "https://doi.org/10.1371/journal.pone.0205516",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0205516",
+      "abstract": "Design: Randomized clinical trial. Objective: To investigate the association of the Val158Met polymorphism with pain and function outcomes in women with carpal tunnel syndrome (CTS) who received surgery or manual therapy including desensitization manoeuvres of the central nervous system. Methods: A pre-planned secondary analysis of a randomized controlled trial investigating the efficacy of manual therapy including desensitization manoeuvres of the central nervous system vs. surgery in 120 women with CTS was conducted. Women were randomized to receive 3 sessions of manual therapy (n = 60) or decompression of the carpal tunnel (n = 60). The primary outcome was intensity of pain (mean pain and the worst pain), and secondary outcomes included function and symptoms severity subscales of the Boston Carpal Tunnel Questionnaire. Outcomes were assessed at baseline, and 1, 3, 6, and 12 months after the intervention. Rs4680 genotypes were determined after amplifying the Val158Met polymorphism by polymerase chain reactions. We classified subjects according to their Val158Met polymorphism: Val/Val, Val/Met, or Met/Met. The primary aim (treatment group*Val158Met*time) was examined with repeated measures ANCOVA with intention-to-treat analysis. Results: At 12 months, 111 (92%) women completed the follow-up. No interaction was observed between the Val158Met genotype and any outcome: mean pain intensity (F = 0.60; P = 0.69), worst pain intensity (F = 0.49; P = 0.61), function (F = 0.12; P = 0.88) or symptom severity (F = 0.01; P = 0.98). Conclusion: The current clinical trial did not show an association between the Val158Met polymorphism and changes in pain and function outcomes after either surgery or physical therapy in women with CTS.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.72,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Clinical construct validity and subgroup stability of the Romanian version of the Boston Carpal Tunnel Questionnaire in nerve-conduction-confirmed carpal tunnel syndrome – a cross-sectional study",
+      "url": "https://doi.org/10.2478/rjim-2026-0012",
+      "publisher": "Romanian Journal of Internal Medicine",
+      "year": "2026",
+      "doi": "10.2478/rjim-2026-0012",
+      "abstract": "The Romanian Boston Carpal Tunnel Questionnaire (BCTQ) has been linguistically and internally validated, but data on clinical construct validity and subgroup stability in routine practice are limited. This study evaluated its performance in a consecutive outpatient sample of patients with idiopathic, electrophysiology-confirmed carpal tunnel syndrome (CTS) after exclusion of major secondary causes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Outcomes after Carpal Tunnel Release in 100 Patients: A Prospective Observational Study",
+      "url": "https://zenodo.org/records/23228413",
+      "publisher": "International Journal of Medical Science in Clinical Research & Review",
+      "year": "2026",
+      "doi": "10.5281/zenodo.23228413",
+      "abstract": "Abstract Background: Carpal tunnel syndrome (CTS) is the commonest entrapment neuropathy of the upper limb. Open carpal tunnel release (CTR) remains a standard surgical option for patients with persistent or moderate-to-severe disease. Objectives: To evaluate clinical and functional outcomes after open CTR in 100 patients using Boston Carpal Tunnel Questionnaire scores, pain scores, grip strength, complication profile, and patient satisfaction. Methods: This prospective observational study included 100 patients undergoing open CTR between January 2025 and June 2026 at a tertiary care centre. Patients were evaluated preoperatively and at 1, 3, and 6 months postoperatively. Outcome measures included Boston Symptom Severity Scale (SSS), Functional Status Scale (FSS), Visual Analog Scale (VAS) for pain, grip strength, complications, and satisfaction. Statistical analysis was performed using descriptive statistics and paired t-test. A p value <0.05 was considered statistically significant. Results: Mean SSS improved from 3.78 ± 0.54 preoperatively to 1.34 ± 0.39 at 6 months (p<0.001). Mean FSS improved from 3.41 ± 0.49 to 1.46 ± 0.42 (p<0.001). Mean VAS pain score decreased from 6.7 ± 1.2 to 1.6 ± 0.9 (p<0.001). Grip strength improved from 18.9 ± 5.1 kg preoperatively to 24.5 ± 5.0 kg at 6 months (p<0.001), despite an early decline at 1 month. Good to excellent satisfaction was noted in 88% of patients. Complications were infrequent and minor. Conclusion: Open CTR is a safe and effective procedure with statistically significant improvement in symptoms, function, and pain in the majority of patients. Keywords: carpal tunnel syndrome; carpal tunnel release; Boston Carpal Tunnel Questionnaire; median nerve; outcome analysis",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "SMARTPHONE OVERUSE AS A RISK FACTOR FOR CARPEL TUNNEL SYNDROME AND HAND DYSFUNCTION AMONG YOUNG ADULTS: A CROSS-SECTIONAL STUDY SMARTPHONE OVERUSE AND CTS",
+      "url": "https://zenodo.org/records/19912090",
+      "publisher": "European Journal of Biomedical AND Pharmaceutical sciences",
+      "year": "2026",
+      "doi": "10.5281/zenodo.19912090",
+      "abstract": "Background: In the modern digital era, smartphone integration into daily life is nearly universal, yet the ergonomic consequences remain under-investigated in younger populations. Objective: This study aims to determine the prevalence of Carpal Tunnel Syndrome (CTS) and general hand dysfunction in young adults (aged 18–30) specifically in relation to daily usage time and the presence of systemic comorbidities. Methods: A cross-sectional study was conducted using a sample of young adults. Clinical assessment tools included the Boston Carpal Tunnel Questionnaire (BCTQ), the Wrist Ratio Index, and goniometry to measure Range of Motion (ROM). Results: Smartphone usage showed a strong positive correlation with BCTQ symptom severity (r = 0.822, p < 0.001) and functional status (r = 0.831, p < 0.001). A moderate positive correlation was observed between smartphone use and Wrist Ratio Index (r = 0.429, p = 0.001 o). Significant negative correlations were found between smartphone usage and wrist ROM, including flexion (r = −0.860, p < 0.001), extension (r = −0.649, p < 0.001), ulnar deviation (r = −0.656, p < 0.001), and radial deviation (r = −0.656, p < 0.001). Increased smartphone use was also associated with reduced sensory discrimination. Conclusion: Excessive smartphone use is a primary modifiable risk factor for CTS. Targeted ergonomic interventions and behavioral modifications are necessary to prevent long-term musculoskeletal damage in young adults.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Modified musculofascial lengthening technique for submuscular ulnar nerve transposition in cubital tunnel syndrome",
+      "url": "https://doi.org/10.1371/journal.pone.0318303",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0318303",
+      "abstract": "Objective: Cubital tunnel syndrome is a common peripheral neuropathy of the upper extremity. Anterior transposition of the ulnar nerve is an established surgical treatment option for this condition. This study aimed to introduce a novel musculofascial lengthening technique that uses only a portion of the flexor-pronator muscle mass for submuscular anterior transposition of the ulnar nerve and investigate its clinical outcomes. Methods: We evaluated 28 patients (29 cases; 1 patient had bilateral involvement) diagnosed with cubital tunnel syndrome who were treated with surgical decompression and submuscular anterior transposition of the ulnar nerve using our novel technique. Mean follow-up was 19.1 months (range, 12–31). Patient-reported outcomes were assessed using the Boston Carpal Tunnel Questionnaire (BCTQ), Disabilities of the Arm, Shoulder, and Hand (DASH) Questionnaire, and numeric rating scale (NRS) for pain. Objective outcomes including light touch perception, static two-point discrimination, and grip strength were also assessed. Modified Bishop score and postoperative complications were also evaluated. Results: BCTQ symptom severity and functional status scores, DASH score, and NRS for pain score showed significant improvement after surgery. Light touch perception, static two-point discrimination, and grip strength also significantly improved after surgery. All patients showed excellent or good results according to the modified Bishop scoring system. No recurrence or complications occurred. Conclusion: Our novel musculofascial lengthening technique that uses only a portion of the flexor-pronator muscle mass for submuscular anterior transposition of the ulnar nerve reliably achieves good results with minimal complications in patients with cubital tunnel syndrome.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effect of Linum usitatissimum L. (linseed) oil on mild and moderate carpal tunnel syndrome: a randomized, double-blind, placebo-controlled clinical trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4045922/",
+      "publisher": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+      "year": "2014",
+      "doi": "10.1186/2008-2231-22-43",
+      "abstract": "Background Carpal tunnel syndrome is known as the most common entrapment neuropathy. Conservative treatments cannot reduce the symptomatic severity satisfactorily; therefore, effectiveness of Linum usitatissimum L. (linseed) oil on carpal tunnel syndrome, as a complementary treatment, was evaluated in the current study. Linseed oil is a well-known preparation in Iranian traditional medicine and its analgesic, anti-inflammatory and anti-oxidative effects have been shown in previous studies. Methods A randomized, double-blind, placebo-controlled clinical trial was conducted. One hundred patients (155 hands) with idiopathic mild to moderate carpal tunnel syndrome aged between 18 and 65 years old were randomized in two parallel groups. These two groups were treated during 4 weeks with topical placebo and linseed oil. In addition, a night wrist splint was prescribed for both groups. Symptomatic severity and functional status were measured using Boston Carpal Tunnel Questionnaire. In addition, median sensory nerve conduction velocity, motor distal latency, sensory distal latency and compound latency as electrodiagnostic parameters were measured at baseline and after the intervention period. Results After the intervention, significant improvement was observed regarding Boston Carpal Tunnel Questionnaire symptomatic severity and functional status mean differences (p Conclusions It seems that linseed oil could be effective in the management of mild and moderate carpal tunnel syndrome, especially in improving the severity of symptoms and functional status. In addition, its effect on electerodiagnostic parameters, especially on the nerve conduction velocity, can be considered as a valuable point.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Risk Prediction associated with Carpal Tunnel Syndrome in picking hand among Guitarist",
+      "url": "https://zenodo.org/records/10103306",
+      "publisher": "International Journal of Scientific Development and Research",
+      "year": "2023",
+      "doi": "10.5281/zenodo.10103306",
+      "abstract": "Introduction: Awkward postures of guitarist such as working with the joints near their end range of motion; uneven loading and static muscle activity increase the biomechanics stress on the muscles and the surrounding joint. Carpal tunnel syndrome often results from physical job activities that involve using tools and hand-held vibrating equipment's. This study aimed to predict risk associated with symptoms of carpal tunnel syndrome in picking hand of guitarist. Materials and Method: 100 participants of both gender with age range of 15-35 years from various music academy with experience of more than one year in playing guitar were assessed using the Boston Carpal Tunnel Questionnaire. Results: Mild to moderate risk predicted in picking hand among guitarists on basis of symptom severity and functional status. Conclusion: Proper warm up and cool down exercise, stretches and ergonomic advice must be tackled among the risk population to prevent carpal tunnel syndrome among guitarists in picking hand",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Validity of IMPACT-S for Assessing Activities and Participation in patients with Carpal Tunnel Syndrome",
+      "url": "https://zenodo.org/records/6397647",
+      "publisher": "International Multispeciality Journal of Health",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6397647",
+      "abstract": "Abstract — Objective of the study: The study aims to establish whether IMPACT-S is an apt measure for assessing activities and participation in Carpal Tunnel Syndromepatients. Significance of the study: Carpal Tunnel Syndrome is one of the commonest entrapment neuropathies leading to marked activity and participation limitations. IMPACT-S is based on the ICF framework for assessing the functional involvement of the subject in terms of activities and participation. The current study focuses on establishing its validity of measuring activities and participation in patients with Carpal Tunnel Syndrome which will help clinicians and researchers use IMPACT-S for CTS patients. Hypothesis: Null Hypothesis: There is no validity of IMPACT-S for functional evaluation of Carpal Tunnel Syndrome patients. Alternate Hypothesis: IMPACT-S is a valid tool for functional evaluation in Carpal Tunnel Syndrome patients. Operational Definitions: Validity: The psychometric property of a tool to measure what it is intended to (Singh et al, 2014). ICF: WHO recommends the International Classification of Functioning (ICF) as a comprehensive measure for assessing and rehabilitating patients (2007). IMPACT-S: ICF Measure of Participation and Activities – Screener (IMPACT-S) is a self- measure tool for assessing functioning and disability in pateients (Post et.al, 2008). BCTQ: The Boston Carpal Tunnel Questionnaire is a standardised a scale for assessment of CTS severity and functional ability (Fischer et.al 2014).",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Measurement properties of the Danish version of the Boston Carpal Tunnel Questionnaire",
+      "url": "https://doi.org/10.1016/j.jpra.2021.03.007",
+      "publisher": "Elsevier BV",
+      "year": "2021",
+      "doi": "10.1016/j.jpra.2021.03.007",
+      "abstract": "Patient reported outcome measures are often used in medical research to evaluate symptoms and functional status in patients. The Boston Carpal Tunnel Questionnaire is specifically designed to evaluate functional status and symptom severity in patients with Carpal Tunnel Syndrome. The aim of this study was to validate and examine the measurement properties of the Functional Status Scale and Symptom Severity Scale from the Danish translated Boston Carpal Tunnel Questionnaire.We analyzed 88 prospectively enrolled patients in the validity and responsiveness group and 31 prospectively enrolled patients in the reliability group. Patients in the validity and responsiveness group answered the Quick Disabilities of the Arm, Shoulder and Hand Questionnaire and the Danish translated Boston Carpal Tunnel Questionnaire preoperatively and after surgery. Patients in the responsiveness group answered the same questionnaire two times prior to surgery.Responsiveness of the two subscales were high (Effect Size 0.99/1.76; Standardized Response Mean 0.86/1.50). Correlation to the Danish validated QuickDASH was high (rho 0.75/0.89). Test-retest reliability was high (ICC 0.94/0.90) and the internal consistency was high (Cronbach's alpha 0.93/0.92).Our study shows satisfactory results of both subscales of the Danish translated Boston Carpal Tunnel Questionnaire. This makes it highly useful when conducting research on patients with Carpal Tunnel Syndrome.The Danish Data Protection Agency: jr. nr. 2007-58-0010.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Randomised controlled trial of local corticosteroid injections for carpal tunnel syndrome in general practice",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921105/",
+      "publisher": "BMC family practice",
+      "year": "2010",
+      "doi": "10.1186/1471-2296-11-54",
+      "abstract": "Background Carpal tunnel syndrome is caused by entrapment of the median nerve and results in pain, tingling and numbness in the wrist and hand. It is a common condition in general practice. Effectiveness of treatment by intracarpal corticosteroid injection has never been investigated in general practice. The objective of this study was to determine if corticosteroid injections for carpal tunnel syndrome provided by general practitioners are effective. Methods In this study 69 participants with a clinical diagnosis of carpal tunnel syndrome were recruited from 20 general practices. Short-term outcomes were assessed in a randomised, placebo-controlled trial. Long-term results were assessed in a prospective cohort-study of steroid responders. Participants were randomised to intracarpal injections of 1 ml triamcinolonacetonide 10 mg/ml (TCA) or 1 ml NaCl (placebo). Non-responders to NaCl were treated with additional TCA injections. Main outcomes were immediate treatment success, mean score of the Symptom Severity Scale (SSS) and Functional Status Scale (FSS) of the Boston carpal tunnel questionnaire, subjective improvement and proportion of participants with recurrences during follow-up. Duration of follow-up was twelve months. Results The TCA-group (36 participants) had better outcomes than the NaCl-group (33 participants) during short-term assessment for outcome measures treatment response, mean improvement of SSS-score (the mean difference in change score was 0.637 {95% CI: 0.320, 0.960; p Conclusions Corticosteroid injections for CTS provided by general practitioners are effective regarding short-term outcomes when compared to placebo injections. The short-term beneficial treatment effects of steroid injections deteriorated during the follow-up period of twelve months and half of the cohort of steroid-responders had recurrences. Trial registration Current Controlled Trials ISRCTN53171398.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Molecular and cellular correlates of human nerve regeneration: ADCYAP1/PACAP enhance nerve outgrowth",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462094/",
+      "publisher": "Brain : a journal of neurology",
+      "year": "2020",
+      "doi": "10.1093/brain/awaa163",
+      "abstract": "We only have a rudimentary understanding of the molecular and cellular determinants of nerve regeneration and neuropathic pain in humans. This cohort study uses the most common entrapment neuropathy (carpal tunnel syndrome) as a human model system to prospectively evaluate the cellular and molecular correlates of neural regeneration and its relationship with clinical recovery. In 60 patients undergoing carpal tunnel surgery [36 female, mean age 62.5 (standard deviation 12.2) years], we used quantitative sensory testing and nerve conduction studies to evaluate the function of large and small fibres before and 6 months after surgery. Clinical recovery was assessed with the global rating of change scale and Boston Carpal Tunnel Questionnaire. Twenty healthy participants provided normative data [14 female, mean age 58.0 (standard deviation 12.9) years]. At 6 months post-surgery, we noted significant recovery of median nerve neurophysiological parameters (P < 0.0001) and improvements in quantitative sensory testing measures of both small and large nerve fibre function (P < 0.002). Serial biopsies revealed a partial recovery of intraepidermal nerve fibre density [fibres/mm epidermis pre: 4.20 (2.83), post: 5.35 (3.34), P = 0.001], whose extent correlated with symptom improvement (r = 0.389, P = 0.001). In myelinated afferents, nodal length increased postoperatively [pre: 2.03 (0.82), post: 3.03 (1.23), P < 0.0001] suggesting that this is an adaptive phenomenon. Transcriptional profiling of the skin revealed 31 differentially expressed genes following decompression, with ADCYAP1 (encoding pituitary adenylate cyclase activating peptide, PACAP) being the most strongly upregulated (log2 fold-change 1.87, P = 0.0001) and its expression was associated with recovery of intraepidermal nerve fibres. We found that human induced pluripotent stem cell-derived sensory neurons expressed the receptor for PACAP and that this peptide could significantly enhance axon outgrowth in a dose-dependent manner in vitro [neurite length PACAP 1065.0 µm (285.5), vehicle 570.9 μm (181.8), P = 0.003]. In conclusion, carpal tunnel release is associated with significant cutaneous reinnervation, which correlates with the degree of functional improvement and is associated with a transcriptional programme relating to morphogenesis and inflammatory processes. The most highly dysregulated gene ADCYAP1 (encoding PACAP) was associated with reinnervation and, given that this peptide signals through G-protein coupled receptors, this signalling pathway provides an interesting therapeutic target for human sensory nerve regeneration.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Translation and Validation of the Bulgarian Version of the Boston Carpal Tunnel Questionnaire",
+      "url": "https://doi.org/10.7759/cureus.10901",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "2020",
+      "doi": "10.7759/cureus.10901",
+      "abstract": "Background and Objective: Carpal tunnel syndrome (CTS) is the most common mononeuropathy in humans. Despite the continuous improvement of diagnostic and treatment methods, difficulties remain in the evaluation and quantification of such symptoms as pain, paresthesias, hypesthesia, and hyperesthesia. Numerous tests and questionnaires have been developed for patients with upper limb disease, but the most specific for CTS and the most commonly used is the Boston Carpal Tunnel Questionnaire (BCTQ). BCTQ has been translated and validated for use in many languages, but there is no valid version in Bulgarian yet. The purpose of this work is to create and validate a Bulgarian version of BCTQ, with a recommendation for its use in Bulgarian patients.The process was divided into two parts. The first part included a translation and a cultural-linguistic adaptation of the Bulgarian version of BCTQ. In the second part, verification of the psychometric properties of the Bulgarian BCTQ, we investigated the reliability, validity and responsiveness of the Bulgarian version of BCTQ. We evaluated BCTQ's construct validity by comparing its results with the score of the Disabilities of the Arm, Shoulder and Hand (DASH) questionnaire. The study was performed on a group of 64 patients with a confirmed diagnosis of CTS. All patients were evaluated using the BCTQ and DASH questionnaires. A subgroup of 26 patients underwent open surgical decompression of the carpal canal using a mini-incision technique. The subgroup was evaluated through BCTQ and DASH questionnaires preoperatively and through BCTQ postoperatively at the third month after the intervention.In the first part of the study, the final version of the questionnaire was presented. Cronbach's alpha coefficient was 0.88 for the Symptom Severity Scale (SSS) and 0.87 for the Functional Status Scale (FSS). The reproducibility of scores showed an extremely high degree of correlation between the two consecutive BCTQ scores at one-week interval (SSS r=0.99, p<0.0001; FSS r=1, p<0.0001). The criterion validity of the Bulgarian version of BCTQ revealed a strong correlation between the results of the BCTQ and the DASH questionnaires. (SSS r(62)=0.569, p<0.00001; FSS r(62)=0.605, p<0.00001). There was a statistically significant decrease in BCTQ results after surgery for both the SSS (t=-9.43, p<0.00001) and the FSS (t=-9.82, p<0.00001).Our study created a translated and culturally adapted version of BCTQ. The Bulgarian version of BCTQ is reliable, valid, and responsive for measuring symptoms and functional deficits in patients with CTS.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Analysis of the Boston Carpal Tunnel Questionnaire for End Stage- and Recurrent Carpal Tunnel Syndrome",
+      "url": "https://doi.org/10.3205/19ifssh1487",
+      "publisher": "German Medical Science GMS Publishing House; Düsseldorf",
+      "year": "2020",
+      "doi": "10.3205/19ifssh1487",
+      "abstract": "14th Triennial Congress of the International Federation of Societies for Surgery of the Hand (IFSSH), 11th Triennial Congress of the International Federation of Societies for Hand Therapy (IFSHT), 11th Triennial Congress of the International Federation of Societies for Hand Therapy (IFSHT) Objective: In contrast to other articles where only the end scores are given, this study analyses the pre- operative outcome details of the Boston Carpal Tunnel Questionnaire (BCTQ) for patients diagnosed with \"End Stage\" and \"Recurrent\" carpal tunnel syndrome (CTS). Materials[for full text, please go to the a.m. URL]",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Validation of the Dutch Version of the Boston Carpal Tunnel Questionnaire",
+      "url": "https://doi.org/10.3389/fneur.2019.01154",
+      "publisher": "Frontiers Media SA",
+      "year": "2019",
+      "doi": "10.3389/fneur.2019.01154",
+      "abstract": "The Boston Carpal Tunnel Questionnaire (BCTQ) is a scale that has been developed specifically for carpal tunnel syndrome (CTS). It consists of the Functional Status Scale (FSS) and the Symptom Severity Scale (SSS). It is the most widely used patient reported outcome measure in CTS and has been validated in many languages. Although already widely used, psychometric properties of the Dutch version of the BCTQ are yet unknown. The aim of this study was to assess the validity, reliability, responsiveness, and acceptability of the Dutch version. Moreover, this paper focuses the longitudinal validity (the use after an intervention) of the BCTQ, which has not been investigated before. A total of 180 patients completed the BCTQ in addition to a six-point Likert scale for perceived improvement, before and about 6-8 months after carpal tunnel release (CTR). Principal factor analysis revealed that the FSS is unidimensional, consisting of a single latent factor (\"functionality\") and has a high internal consistency (Cronbach's α = 0.825). However, the SSS has three dimensions, which are all highly internally consistent: \"daytime symptoms\" (Cronbach's α = 0.805), \"nighttime symptoms\" (Cronbach's α = 0.835), and \"operational capacity\" (Cronbach's α = 0.723). Post-treatment, the FSS still consisted of one factor, but the SSS changed in dimensionality, as it had only two factors left post-treatment. The ΔFSS and ΔSSS had good correlation with the six-point Likert scale for perceived improvement (r = 0.524; p < 0.01 and r = 0.574; p < 0.01, respectively), a moderate correlation between FSS and pinch grip (r = 0.259; p < 0.01) was found, and a weak correlation between SSS and pinch grip (r = 0.231; p < 0.01) was found. Standard Response Mean for FSS and SSS was 0.76 and 1.49, respectively. Effect size was 0.92 and 1.96, respectively, both indicating a good responsiveness. Response rate was high (82-84%). We concluded that the Dutch version of the BCTQ has a proper reliability, validity, responsiveness, and acceptability to assess the symptom severity and functional disabilities of CTS patients. Because of multidimensionality, we would recommend to create sum scores of the four different dimensions instead of two. Caution is required when interpreting the results postoperatively, due to the insufficient longitudinal validity of the SSS.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Assessment of functional disorders of the upper limb in individuals with carpal tunnel syndrome",
+      "url": "https://zenodo.org/records/3540394",
+      "publisher": "Slobozhanskyi Herald of Science and Sport",
+      "year": "2019",
+      "doi": "10.5281/zenodo.3540394",
+      "abstract": "Carpal tunnel syndrome is the most common form of compression-ischemic neuropathy, found in clinical practice. Purpose: to evaluate functional disorders of the upper limb in individuals with carpal tunnel syndrome using the Boston questionnaire (Boston Carpal Tunnel Questionnaire, BCTQ). Material & Methods : analysis and synthesis of data from scientific and methodological literature and the Internet information network were used; survey, medical history, mathematical methods. To assess the functional state of the affected upper limb during the initial examination, we used the Boston Carpal Tunnel Questionnaire (BCTQ), which consists of two scales: the Symptom Severity Scale (SSS) and the Function Status Scale (FSS), which was filled by the patient on his own. The study was conducted on the basis of the Kiev City Clinical Hospital No. 4 in the period from 2017 to 2018. The study involved 37 patients with CTS, of which 21 – women (56,8%) people, 16 – men (43,2%) people. Results : analyzed pain and sensory disorders on the scale of symptom severity (Symptom Severity Scale, SSS) and functional disorders on the scale (Function Status Scale, FSS) of the Boston questionnaire. During the initial examination of patients with CTS, we found that mainly moderate (24,3%) and severe pain (37,8%) in the affected upper limb prevailed in patients, which over the past 2 weeks led patients to wake up at night: 1 time – 32,4% of patients, 2–3 times – 29,7% of people. During the day, 29,7% of patients complained of moderate pain in the arm and 43,3% of people were worried about severe pain. Most patients (48,7%) indicated that pain lasts from 10 minutes to 60 minutes. For functional disorders, the greatest difficulties for patients occurred when fastening buttons on clothes – 83,8%, opening a bottle – 86,5% and doing homework – 79,9% of people. Conclusion : an initial examination of patients with carpal tunnel syndrome indicated pain in the affected limb, numbness, decreased sensitivity, muscle weakness on the severity scale of the symptoms of the Boston questionnaire were observed. On the scale of functional impairment, we found difficulties that arose in patients performing everyday activities and self-care.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Validation of the Boston Carpal Tunnel Questionnaire in Russia",
+      "url": "https://doi.org/10.17650/2222-8721-2018-8-1-38-45",
+      "publisher": "Publishing House ABV Press",
+      "year": "2018",
+      "doi": "10.17650/2222-8721-2018-8-1-38-45",
+      "abstract": "International scales and questionnaires have become widespread in Russian neurology. Validation is a procedure of top priority necessary before applying this kind of diagnostic instrument in Russian-speaking population. In this article, validation of the Boston Carpal Tunnel Questionnaire (BCTQ) intended for patients with this disease is described. Use of validated Russian version would allow to objectively evaluate severity of clinical manifestations of carpal tunnel syndrome and follow patient dynamics. We present the official BCTQ version recommended for use in Russia, as well as data that showed high sensitivity and reliability of this instrument for clinical evaluation of carpal tunnel syndrome.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Selection of key criteria for assessment tools for patients with rheumatoid arthritis",
+      "url": "https://zenodo.org/records/10205998",
+      "publisher": "Zenodo",
+      "year": "2018",
+      "doi": "10.12775/JEHS.2018.08.02.042",
+      "abstract": "Nogas, Anzhela and Grygus, Igor. Selection of key criteria for assessment tools for patients with rheumatoid arthritis. Journal of Education, Health and Sport. 2018;8(2):455-469. eISNN 2391-8306. https://dx.doi.org/10.12775/JEHS.2018.08.02.042 https://apcz.umk.pl/JEHS/article/view/47047 https://zenodo.org/records/10205998 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26/01/2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Authors 2018; This article is published with open access at License Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms oft the Creative Commons Attribution Non commercial License which permits any non commercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is a no pen access article licensed under the terms of the Creative Commons Attribution Non commercial license Share alike. (http://creativecommons.org/licenses/by-nc-sa/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.01.2018. Revised: 21.02.2018. Accepted: 28.02.2018. SELECTION OF KEY CRITERIA FOR ASSESSMENT TOOLS FOR PATIENTS WITH RHEUMATOID ARTHRITIS Nogas A., Grygus I. Institute of Health Care, National University of Water and Environmental Engineering, Rivne, Ukraine Annotation. The article discusses the main criteria for assessment tools for patients with rheumatoid arthritis, analyses the methods and questionnaires most commonly used in medical and rehabilitation practice, in particular, taking into account the International Functioning Qualification (IFQ) and the recommendations of the Ukrainian Association of Rheumatologists on the treatment of the disease. The purpose of the paper is to analyse and identify the main criteria for assessment tools for patients with rheumatoid arthritis. Materials and methods: analysis and synthesis of scientific data in the modern scientific and methodological literature and selection of the main assessment tools for patients with rheumatoid arthritis. Results. The examination of a patient with rheumatoid arthritis is based on determining the objective condition of all organs and systems, the condition of the affected joints, which is the key to establishing a diagnosis, planning and predicting a physical therapy programme. In the course of the study, we found that researchers use different criteria and methodological approaches to the rehabilitation examination of patients with rheumatoid arthritis. Usually, examination of a patient with rheumatoid arthritis is based on generally accepted methods, which include: finding out the patient's complaints; careful collection of anamnesis (history) of the disease; objective assessment of vital body systems; objective examination, palpation of affected joints; use of additional research methods (joint radiography, laboratory, instrumental research methods, etc.). Most researchers studying the problem of rheumatoid arthritis use visual analogue scale (VAS), manual muscle testing (MMT), goniometry and dynamometry to determine the severity of pain, and mostly use the SF-36 questionnaire to assess quality of life. Conclusion. As a result of the analysis of scientific achievements in the modern scientific and methodological literature, we have identified the following main criteria for the assessment of patients with rheumatoid arthritis: determination of motor and functional disorders, use of visual analogue scale (VAS) to determine the severity of pain syndrome, determination of body mass index (Ketle index), manual muscle testing (MMT), goniometry, dynamometry, Boston Carpal Tunnel Questionnaire (BCTQ), Sollerman hand function test, DASH (Disability of the Arm, Shoulder and Hand Outcome Measure), use of the Hospital Anxiety and Depression Scale (HADS), Stanford Health Assessment Questionnaire, and the EuroQol-5D-5L questionnaire to assess the quality of life. Key words: rheumatoid arthritis, basic criteria, patient assessment tools, questionnaires, questionnaires. ВИБІР ОСНОВНИХ КРИТЕРІЇВ ЩОДО ІНСТРУМЕНТІВ ОЦІНЮВАННЯ ПАЦІЄНТІВ З РЕВМАТОЇДНИМ АРТРИТОМ Ногас А.О., Григус І.М. Інститут охорони здоров'я, Національний університет водного господарства та природокористування, м. Рівне, Україна Анотація. У статті розглядаються основні критерії інструментів оцінювання пацієнтів з ревматоїдним артритом, аналізуються методики та опитувальники, які найчастіше застосовуються у медичній та реабілітаційній практиці, зокрема з урахуванням Міжнародної кваліфікації функціонування (МКФ) та рекомендацій Асоціації ревматологів України щодо лікування захворювання. Мета дослідження – проаналізувати та виділити основні критерії інструментів оцінювання пацієнтів з ревматоїдним артритом. Методи дослідження: аналіз та узагальнення даних наукових доробок у сучасній науково-методичній літературі та підбір основних інструментів оцінювання пацієнтів з ревматоїдним артритом. Результати дослідження. Обстеження пацієнта на ревматоїдний артрит ґрунтується на визначенні об'єктивного стану всіх органів та систем, стану уражених суглобів, що є провідним для встановлення діагнозу, планування та прогнозування програми фізичної терапії. Під час проведення дослідження ми виявили, що науковці у своїх роботах використовують різні критерії та методичні підходи щодо реабілітаційного обстеження пацієнтів з ревматоїдним артритом. Зазвичай обстеження пацієнта з ревматоїдним артритом базується на загальновизнаних методах, які включають: з'ясування скарг хворого; ретельний збір анамнезу (історії) захворювання; об'єктивна оцінка життєво важливих систем організму; об'єктивне обстеження, пальпація уражених суглобів; використання додаткових методів дослідження (рентгенографія суглобів, лабораторні, інструментальні методи дослідження, тощо). Більшість дослідників, які вивчають проблему ревматоїдного артриту, для виявлення ступеня виразності больового синдрому використовують візуально-аналогову шкалу (ВАШ), мануально м'язове тестування (ММТ), використовують гоніометрію та динамометрію, для оцінки якості життя використовують здебільшого опитувальник SF-36 . Висновки. В результаті аналізу наукових доробок у сучасній науково-методичній літературі нами були виділені такі основні критерії інструментів оцінювання пацієнтів з ревматоїдним артритом: визначення рухових та функціональних порушень, для виявлення ступеня виразності больового синдрому використання візуально-аналогової шкали (ВАШ), визначення індексу маси тіла (індекс Кетле), метод мануального м'язового тестування (ММТ), гоніометрія, динамометрія, Бостонський опитувальник (Boston Carpal Tunnel Questionnaire, BCTQ), тест Соллермана (Sollerman hand function test), опитувальник DASH (Disability of the Arm, Shoulder and Hand Outcome Measure), використання Госпітальної шкали тривоги і депресії HADS, Стенфордської анкети оцінки здоров'я (Health Assessment Questionnaire), для оцінки якості життя використання опитувальника EuroQol-5D-5L. Ключові слова: ревматоїдний артрит, основні критерії, інструменти оцінювання пацієнта, опитувальники, анкети.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Percutaneous Ultrasound-Guided Carpal Tunnel Release: Study Upon Clinical Efficacy and Safety",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5336536/",
+      "publisher": "Cardiovascular and interventional radiology",
+      "year": "2017",
+      "doi": "10.1007/s00270-016-1545-5",
+      "abstract": "Objectives To evaluate the feasibility and 6 months clinical result of sectioning of the transverse carpal ligament (TCL) and median nerve decompression after ultra-minimally invasive, ultrasound-guided percutaneous carpal tunnel release (PCTR) surgery. Methods Consecutive patients with carpal tunnel syndrome were enrolled in this descriptive, open-label study. The procedure was performed in the interventional radiology room. Magnetic resonance imaging was performed at baseline and 1 month. The Boston Carpal Tunnel Questionnaire was administered at baseline, 1, and 6 months. Results 129 patients were enrolled. Significant decreases in mean symptom severity scores (3.3 ± 0.7 at baseline, 1.7 ± 0.4 at Month 1, 1.3 ± 0.3 at Month 6) and mean functional status scores (2.6 ± 1.1 at baseline, 1.6 ± 0.4 at Month 1, 1.3 ± 0.5 at Month 6) were noted. Magnetic resonance imaging showed a complete section of all TCL and nerve decompression in 100% of patients. No complications were identified. Conclusions Ultrasound-guided PCTR was used successfully to section the TCL, decompress the median nerve, and reduce self-reported symptoms.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Reliability and Validation of the Greek Version of the Boston Carpal Tunnel Questionnaire",
+      "url": "https://doi.org/10.1177/1558944717725379",
+      "publisher": "SAGE Publications",
+      "year": "2017",
+      "doi": "10.1177/1558944717725379",
+      "abstract": "Background: The Boston Carpal Tunnel Questionnaire (BCTQ) is an easy, brief, self-administered questionnaire developed by Levine et al for the assessment of severity of symptoms and functional status of patients with carpal tunnel syndrome. The aim of our study was to develop and validate the Greek version of BCTQ. Methods: We conducted a cross-sectional study of 90 patients with idiopathic carpal tunnel syndrome. The original English version of BCTQ was adapted into Greek using forward and backward translation. Reliability was assessed by internal consistency (Cronbach α and item-total correlation) and reproducibility. Validity was examined by correlating the Boston Questionnaire scores to Canterbury severity scale for electrodiagnostic severity grading. Results: The Greek version showed high reliability (Cronbach α 0.89 for Symptom Severity Scale and 0.93 for Functional Status Scale) and construct validity (Pearson correlation coefficient 0.53 for Symptom Severity Scale and 0.68 for Functional Status Scale). Test-retest were 0.75 for Symptom Severity Scale and 0.79 for Functional Status Scale ( P < .05). Receiver operating characteristic curve analysis showed that the optimal cutoff of Symptom Severity Scale for the discrimination of subjects with low electrodiagnostic severity grading than subjects with high electrodiagnostic severity grading was 1.95 with sensitivity equal to 75.5% and specificity equal to 68.3%. Conclusions: The Greek version of the BCTQ is a valid, reliable screening tool for assessment in daily practice of symptoms and functional status in patients with carpal tunnel syndrome.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Comparison of the Michigan Hand Outcomes Questionnaire, Boston Carpal Tunnel Questionnaire, and PROMIS Instruments in Carpal Tunnel Syndrome",
+      "url": "https://doi.org/10.1016/j.jhsa.2018.10.031",
+      "publisher": "Elsevier BV",
+      "year": "2017",
+      "doi": "10.1016/j.jhsa.2018.10.031",
+      "abstract": "Patient-reported outcomes are important to assess improvement after surgery. Common instruments for carpal tunnel syndrome include the Michigan Hand Outcomes Questionnaire (MHQ) and Boston Carpal Tunnel Questionnaire (CTQ). The Patient-Reported Outcomes Measurement Information System (PROMIS) are newer measures. We evaluated how the PROMIS Pain Interference (PI) and Upper Extremity (UE) scores change after carpal tunnel release.All adult patients with carpal tunnel syndrome treated surgically were asked to participate in this prospective study. PROMIS instruments, MHQ, and CTQ were completed by 101 patients. Estimated means and standard errors were calculated, and piecewise linear fixed effects regression models were applied to the data. Standardized response means were calculated for each outcome measure.The MHQ Total Score did not show a considerable change from the preoperative to 1-week postoperative visit but improved from the 1-week to 3-month postoperative visit (55 to 80). The CTQ Functional Status Score (FSS) worsened from 2.3 preoperatively to 2.6 at the 1-week postoperative visit before improving through the 3-month postoperative visit (1.6). PROMIS UE showed responsiveness similar to the CTQ FSS with a decline at the 1-week visit, 38 to 33, followed by improvement (45 at 3 mo). However, the standardized response mean values were greater for the CTQ FSS compared with PROMIS UE. The average administration time was shortest for PROMIS UE. The CTQ Symptom Severity Scale and MHQ Pain Scores showed improvements as early as the 1-week visit. The CTQ Symptom Severity Scale improved from 3.1 to 2.3, and MHQ Pain Scores improved from 55 to 46. PROMIS PI did not change at the 1-week visit but improved at 6 weeks and 3 months, from 56 to 52 and 49. The standardized response means for PROMIS PI achieved a large effect size only at 3 months.The CTQ FSS is more responsive than PROMIS UE and the MHQ, with the CTQ FSS showing the largest effect sizes. PROMIS PI does not show the responsiveness seen in the CTQ Symptom Severity Scale and MHQ Pain Score. PROMIS instruments require less time to complete.This study demonstrates the change in PROMIS scores after carpal tunnel release and how they compare with legacy outcome instruments.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Volume Matters in Ultrasound-Guided Perineural Dextrose Injection for Carpal Tunnel Syndrome: A Randomized, Double-Blinded, Three-Arm Trial",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphar.2020.625830/full",
+      "publisher": "Frontiers in Pharmacology",
+      "year": "2020",
+      "doi": "10.3389/fphar.2020.625830",
+      "abstract": "Ultrasound-guided perineural dextrose injection (PDI) has been reported effective for carpal tunnel syndrome (CTS). Higher volume of injectate may reduce adhesion of median nerve from other tissues, but volume-dependent effects of PDI in CTS remain unknown. We aimed to investigate whether PDI with different injectate volumes had different effects for CTS participants. In this randomized, double-blinded, three-arm trial, 63 wrists diagnosed with CTS were randomized into three groups that received ultrasound-guided PDI with either 1, 2 or 4 ml of 5% dextrose water. All participants finished this study. Primary outcome as visual analog scale (VAS) and secondary outcomes including Boston Carpal Tunnel Questionnaire (BCTQ), Disability of the Arm, Shoulder and Hand score (QuickDASH), electrophysiological studies and cross-sectional area (CSA) of the median nerve at carpal tunnel inlet were assessed before and after PDI at the 1st, 4th, 12th and 24th weeks. For within-group analysis, all three groups (21 participants, each) revealed significant improvement from baseline in VAS, BCTQ and QuickDASH at the 1st, 4th, 12th and 24th weeks. For between-group analysis, 4 ml-group yielded better VAS reduction at the 4th and 12th weeks as well as improvement of BCTQ and QuickDASH at the 1st, 4th, and 12th weeks, compared to other groups. No significant between-group differences were observed in electrophysiological studies or median nerve CSA at any follow-up time points. There were no severe complications in this trial, and transient minor adverse effects occurred equally in the three groups. In conclusion, ultrasound-guided PDI with 4 ml of 5% dextrose provided better efficacy than with 1 and 2 ml based on symptom relief and functional improvement for CTS at the 1st, 4th, and 12th week post-injection, with no reports of severe adverse effects. There was no significant difference between the three groups at the 24th-week post-injection follow-up.Clinical Trial Registration:www.ClinicalTrials.gov, identifier NCT03598322.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.8,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Different doses of steroid injection in elderly patients with carpal tunnel syndrome: a triple-blind, randomized, controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5779277/",
+      "publisher": "Clinical interventions in aging",
+      "year": "2018",
+      "doi": "10.2147/cia.s151290",
+      "abstract": "Background Carpal tunnel syndrome (CTS) is commonly seen in elderly populations, in part due to increased presence of predisposing comorbidities as well as physiological changes. We aimed at comparing the effectiveness of different doses of steroid using the ultrasound-guided hydrodissection method in elderly patients with CTS. Methods We conducted a prospective, triple-blind, randomized, controlled trial in elderly patients with CTS. Patients were allocated to one of three groups by simplified randomization. Groups I-III received 80 mg triamcinolone (2 mL) and 1 mL of 2% lidocaine; 40 mg triamcinolone (1 mL), 1 mL of 2% lidocaine, and 1 mL normal saline; and 1 mL of 2% lidocaine and 2 mL normal saline, respectively to make up to 3 mL volume. A wrist splint was then applied for support. Outcome measures included the visual analog scale (VAS) and the Boston Carpal Tunnel Questionnaire, and median motor and sensory nerve conduction and its sonographic inlet cross-sectional area were used as objective measures. All data were recorded at baseline and 2, 12, and 24 weeks after injection. The investigators, patients, and statistician were blinded to the treatment assignment. Results In total, 161 patients were recruited without statistically significant demographic differences between the three groups. There were no statistically significant differences between groups in any outcome, with the exception of the median distal motor latency, which was greater in Group II at all three follow-up visits, and significant baseline VAS difference between Groups I and III. Conclusion Hydrodissection with lidocaine and normal saline is as effective as hydrodissection with low- and high-dose steroid medication in elderly patients with CTS in this study, but further studies with matched baseline measures and also a sham group are suggested for definitive recommendation.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.72,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Neurodynamic and Wrist Glide Exercises: Effects on Function and Symptom Severity in Carpal Tunnel Syndrome",
+      "url": "http://ptj.uswr.ac.ir/article-1-730-en.pdf",
+      "publisher": "Physical Treatments",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Purpose: This study aimed to assess the effects of neurodynamic wrist exercises and wrist glide exercises on symptom severity, range of motion (ROM), grip strength, and hand function in adults with mild to moderate carpal tunnel syndrome (CTS). Methods: A quasi-experimental study with a pre-post intervention design was conducted in a sample of 30 adult patients with mild to moderate CTS occurring in 50 hands that fulfilled the inclusion criteria. The participants were divided into two intervention groups, and one group received neurodynamic nerve gliding exercises, and the other group received wrist glide exercises. It took place over four weeks. The visual analog scale (VAS) to measure the intensity of pain, Boston carpal tunnel questionnaire (BCTQ), symptom severity scale (SSS), and functional status scale (FSS) to assess pain and functional and symptomatic outcomes, grip strength, and wrist ROM were used to assess pain and functional and symptomatic outcomes before and after the intervention. With this design, within-group and between-group comparisons were used to determine the effectiveness of both interventions. Results: The results indicated a significant decrease in pain levels, with average visual analog scale (VAS) scores dropping from 7.20 to 2.64 after the intervention. The average grip strength increased significantly, rising from 227.2 Newtons to a level exceeding 310 Newtons. The SSS and FSS scores showed significant enhancement, with the SSS decreasing from 3.11 to 1.98 and the FSS decreasing from 3.1 to 1.96. The ROM for wrist movements also demonstrated significant improvements. Flexion increased from 71.24 to 76.84 degrees, while extension increased from 72.68 to 77.62 degrees. Significant improvements were observed in ulnar and radial deviations, as well as thumb flexion and abduction. Conclusion: Neurodynamic wrist and gliding exercises markedly alleviated symptoms in individuals with mild to moderate CTS, diminishing pain, augmenting grip strength, and enhancing ROM, particularly in the thumb.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Occupational Prevalence of Carpal Tunnel Syndrome in Textile Industry Workers",
+      "url": "https://hal.science/hal-05253625v1",
+      "publisher": "Journal of Complementary and Alternative Medical Research",
+      "year": "2025",
+      "doi": "",
+      "abstract": "Background: Carpal Tunnel Syndrome (CTS) is a common neuropathy caused by median nerve compression in the wrist, often linked to repetitive hand and wrist movements. Textile workers are especially at risk due to prolonged manual tasks and faulty postures. CTS can cause pain, numbness, and functional impairment, impacting productivity and quality of life. Purpose: This study aims to determine the prevalence of CTS among textile workers in and investigate how it relates to gender, work experience, hand dominance, and job functions. Methods and Materials: The study was conducted among the textile workers in Jaipur, Rajasthan. The Boston Carpal Tunnel Questionnaire (BCTQ) was used to evaluate CTS symptoms in a study of 370 employees. Participants were considered CTS-positive if their Symptom Severity Score (SSS) was 3.0 or higher. Descriptive statistics summarized the data, and chi-square tests analysed associations between CTS status and demographic variables, with significance at p < 0.05. A 95% confidence interval was used to express prevalence estimates. Results: The findings indicated that 25.4% of workers had CTS, highlighting a significant burden in the workforce. More common in males, those with 31–40 years of experience, and specific roles like trimmers and fabric inspectors, none of these correlations were statistically significant. Chi-square tests showed that gender, experience, hand dominance, and occupational role did not independently predict CTS. Conclusions: Repetitive hand actions remain a concern, even without statistically significant data. These findings emphasize the importance of early screening, workplace ergonomics, and health education to prevent and manage CTS among textile workers, enhancing their well-being and productivity.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "How does the Boston Carpal Tunnel Questionnaire (BCTQ) compare to other diagnostic tools or questionnaires in evaluating the severity of carpal tunnel syndrome symptoms?",
+      "url": "https://zenodo.org/records/17873116",
+      "publisher": "Zenodo",
+      "year": "2025",
+      "doi": "10.5281/zenodo.17873116",
+      "abstract": "The Boston Carpal Tunnel Questionnaire is widely used for evaluating symptom severity and functional status in CTS, particularly for treatment assessment, but lacks comparative data with other diagnostic tools in initial diagnosis stages.",
+      "licence": "cc-by-nc-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effectiveness of ultrasound-guided carpal tunnel injection using in-plane ulnar approach: a prospective, randomized, single-blinded study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4602597/",
+      "publisher": "Medicine",
+      "year": "2014",
+      "doi": "10.1097/md.0000000000000350",
+      "abstract": "The objective of this study is to evaluate the degree of symptom improvement and the change of electrophysiological and ultrasonographic findings after sonographically guided local steroid injection using an in-plane ulnar approach in carpal tunnel syndrome (CTS). Seventy-five cases of 44 patients diagnosed with CTS were included and evaluated at baseline and at 4 and 12 weeks after injection. All patients received injection with 40 mg of triamcinolone mixed with 1 mL of 1% lidocaine into the carpal tunnel using an in-plane Ultrasound (US)-guided ulnar approach, out-plane US-guided approach, and blind injection. For clinical evaluation, we used the Boston Carpal Tunnel Questionnaire (BCTQ) and electrophysiological tests. The ultrasonographic findings were also evaluated with regard to cross-sectional area and the flattening ratio of the median nerve. Subjective symptoms measured by BCTQ and median nerve conduction parameters showed significant improvement at 4 weeks in the in-plane ulnar approach group compared with the out-plane ulnar approach and blind injection. This improvement was still observed at 12 weeks. The flattening ratio and cross-sectional area of the median nerve showed a more significant decrease with the in-plane ulnar approach than with the out-plane ulnar approach and blind injection (P < 0.05). US-guided local steroid injection using an in-plane ulnar approach in the CTS may be more effective than out-plane or blind injection.",
+      "licence": "cc by-nc-sa",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Exploring the Non-Invasive Approaches to Carpal Tunnel Syndrome in Routine Clinical Practice: A Focus on the Role of Acetylcholinesterase Inhibitors",
+      "url": "https://www.mdpi.com/1648-9144/60/8/1219",
+      "publisher": "Medicina",
+      "year": "2024",
+      "doi": "10.3390/medicina60081219",
+      "abstract": "The prevalence of N. medianus compression neuropathies remains high in clinical practice. The objective was to evaluate modalities of conservative treatments for carpal tunnel syndrome (CTS) focusing on the role of acetylcholinesterase inhibitors. This observational study involved 51 adult outpatients diagnosed with CTS. Patients were observed during routine clinical protocols and we compared two groups of 25 and 26 individuals, with the first group receiving basic therapy for CTS and 20 mg of ipidacrine (Neiromidin ® ) two or three times a day per os, while the second group received only basic therapy. The condition of all patients was assessed twice, with at least a one-month interval. The parameters evaluated included the Boston Carpal Tunnel Questionnaire (BCTQ); the Disabilities of the Arm, Shoulder, and Hand scale (DASH); and pain intensity on the Numeric Rating Scale (NRS). The mean reduction in DASH score was 12.3 (SD 7.7) in Group 1 and 7.1 (SD 6.3) in Group 2 ( p p < 0.01). Moreover, these findings correlated positively with the global improvement (CGI-I) between the groups. The addition of ipidacrine to basic therapy led to improved recovery in patients with CTSs of varying severity.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Boston carpal tunnel syndrome questionnaire clinical function assessment outcomes of carpal tunnel injection for carpal tunnel syndrome",
+      "url": "https://doi.org/10.18203/2349-2902.isj20240959",
+      "publisher": "Medip Academy",
+      "year": "2024",
+      "doi": "10.18203/2349-2902.isj20240959",
+      "abstract": "Carpal tunnel syndrome is the most common compressive neuropathy. Risk factors include hereditary, obesity, pregnancy, hypothyroidism, rheumatoid arthritis, and work related. With treatment ranging from simple lifestyle changes, up until surgery. Studies have shown that local steroid injection improve symptoms by at least one month and up to one year after injection, which allows for the delay of surgical treatment. In this study, BCTQ was chosen as a measuring tool because it can objectively assess functional improvement in functional status and disease severity. An analytical study design with a quasi-experimental pretest post-test one group only design approach was used in this study. Primary data and secondary data were used to measure the symptom severity scale and functional status based on the BCTQ. The research subjects were taken from populations that fulfilled the inclusion and exclusion criteria. Based on the Friedman test analysis of differences in the severity scale of symptoms of clinical function assessment outcome data and functional status on the BCTQ from the action of carpal tunnel injection on carpal tunnel syndrome, the results of the BCTQ value show that there is a significant difference before and after injection at one month and three months assessment post injection with a P-value of 0.00 (p<0.05) on both. Carpal tunnel injection with Triamcinolone acetonide 20 mg can provide good clinical outcomes in cases of carpal tunnel syndrome and can reduce the severity of symptoms and provide a good functional status scale of the hand.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Effects of Surgical Timing on Treatment Outcomes in Carpal Tunnel Syndrome",
+      "url": "\nhttp://bezmialemscience.org/archives/archive-detail/article-preview/the-effects-of-surgical-timing-on-treatment-outcom/53267\n",
+      "publisher": "Bezmiâlem Science",
+      "year": "2022",
+      "doi": "10.14235/bas.galenos.2021.6714",
+      "abstract": "Objective:The purpose of this study is to assess and compare outcomes of two different timing surgery for moderately carpal tunnel syndrome (CTS).Methods:Eighty-eight patients who underwent early and late due to CTS were evaluated retrospectively. Patients with early surgery and late surgery were divided into two groups. Preoperative and postoperative visual analog scale (VAS) score and postoperative Boston Carpal Tunnel Questionnaire (BCTQ) scores of both groups were compared.Results:Preoperative and postoperative VAS scores were compared, there was a significant decrease in both groups. When BCTQ results of both groups were compared, the results of patients who underwent early surgery were statistically better.Conclusion:In conclusion, we think that early surgery is better clinically in patients with moderately CTS.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Value of Boston Questionnaire in Carpal Tunnel Syndrome",
+      "url": "https://doi.org/10.4103/nsn.nsn_82_21",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2021",
+      "doi": "10.4103/nsn.nsn_82_21",
+      "abstract": "Objectives: The Boston Carpal Tunnel Questionnaire (BCTQ) is a patient-based outcome measure that has been developed for patients with Carpal tunnel syndrome (CTS). The purpose of this study was to investigate the association between BCTQ scores and electrophysiological findings in patients with CTS. Subjects and Methods: This study included 174 individuals (control group [ n = 68] and patient group [ n = 106]) admitted to Erciyes University Hospital Department of Neurology between August 2019 and November 2019 with complaints of pain, numbness, and paresthesia in the unilateral or bilateral median nerve trace and diagnosed with idiopathic CTS or normal after electrophysiological testing. The Turkish version of the BCTQ was applied to these patients. Results: The mean age of the participants was 46.6 (standard deviation ± 11.9). One hundred and fifty-seven (90.2%) of all the participants were female. Among patients, 29.9% ( n = 52) had mild, 21.8% ( n = 38) had moderate, and 9.2% ( n = 16) had severe CTS. Both the Symptom Severity Scale (SSS) and functional status scale (FSS) scores were evaluated between the groups, and there was a significant difference between the groups ( P < 0.001 and P = 0.001, respectively). Although there was a significant difference between the groups, the huge overlap in the distribution of the scores indicated that discrimination of an individual according to FSS/SSS scores is unrealistic in the clinical setting. Conclusion: The BCTQ will not be sufficient and objective in the diagnosis and management of CTS. Today, electrophysiological tests are still the gold standard for the diagnosis of CTS, and referring the patient to the electromyography EMG laboratory is necessary for early diagnosis and determining the effective treatment method.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Ozone Therapy in Idiopathic Carpal Tunnel Syndrome. Biochemical, Neurophysiological and Clinical Aspects [abstract]",
+      "url": "https://zenodo.org/records/14349692",
+      "publisher": "Zenodo",
+      "year": "2020",
+      "doi": "10.7203/jo3t.3.4.2019.15530",
+      "abstract": "PURPOSE: Idiopathic Carpal Tunnel Syndrome (CTS) is the most common entrapment neuropathy. The aim of the paper was to design a prospective study to evaluate clinical and neurophysiological outcome following Ozone Therapy . We also focusing the attention on the evidences concerning the role of Subsynovial Connective Tissue (SSCT )in the pathogenesis of CTS and the ozone pre-conditioning effects linked to pain pathways and to fibrosis induced by Ischemia-Reperfusion Injury. MATERIALS and METHODS: Thirty-one patients, aged between 36 and 86 23 women and 8 men), were stratified clinically by Boston Carpal Tunnel Questionnaire (B.C.T.Q.) and Neurophysiologically by Padua's Gravity Scale classifying patients into five Electro-myographic categories (Minimal, Slight, Moderate, Severe and Extreme) . The mean symptom duration was also recorded. The patients included in the B.C.T.Q. underwent diagnostic neurophysiological tests, strictly standardized in stimulation parameters, electrodes distances and skin temperature, before and after treatment. The Ozone Therapy was performed by injecting 4 ml of O3-O2 mixture at 10 mcrg/mL concentration under the transverse carpal ligament twice a week for eight sessions. RESULTS: We compared the B.C.T.Q. scores and the neurophysiological parameters obtained before and after O2-O3 treatment: the improvement of symptoms was significantly greater than the improvement of motor and sensory nerve conduction. The highest clinical improvement degree was found in patients classified in Slight and Moderate Groups. DISCUSSION: Chemical mediators, neo-angiogenesis and Ischemia-Reperfusion Injury lead to oxidative stress and non-inflammatory fibrosis that play a central role at various stages in CTS pathogenesis that can be recognized by clinical and neuro-physiological tests. Further studies have to be carried out to better understand these relationships and optimize timing of Ozone Therapy.",
+      "licence": "other-open",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Efficacy of neural mobilization and mid-carpal mobilization in the treatment of carpal tunnel syndrome = Skuteczność neuromobilizacji oraz mobilizacji stawu śródnadgarstkowego w leczeniu zespołu kanału nadgarstka",
+      "url": "https://zenodo.org/records/54547",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.54547",
+      "abstract": "Kocjan Janusz. Efficacy of neural mobilization and mid-carpal mobilization in the treatment of carpal tunnel syndrome = Skuteczność neuromobilizacji oraz mobilizacji stawu śródnadgarstkowego w leczeniu zespołu kanału nadgarstka. Journal of Education, Health and Sport. 2016;6(6):31-38. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.54547 http://ojs.ukw.edu.pl/index.php/johs/article/view/3537 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.05.2016. Revised 25.05.2016. Accepted: 25.05.2016. EFFICACY OF NEURAL MOBILIZATION AND MID-CARPAL MOBILIZATION IN THE TREATMENT OF CARPAL TUNNEL SYNDROME SKUTECZNOŚĆ NEUROMOBILIZACJI ORAZ MOBILIZACJI STAWU ŚRÓDNADGARSTKOWEGO W LECZENIU ZESPOŁU KANAŁU NADGARSTKA Janusz Kocjan Medical University of Silesia, Doctoral Studium of School of Medicine, Katowice, Poland Śląski Uniwersytet Medyczny, Studium Doktoranckie Wydziału Lekarskiego w Katowicach SUMMARY Introduction: Carpal Tunnel Syndrome (CTS) is a cause of functional impairment and chronic wrist pain of the hand. It results from compression of the median nerve as it passes through the carpal tunnel. Purpose: The purpose of this study was to determine the effect of a manual therapy techniques (median nerve neural mobilization and wrist traction) on measures of pain and hand function in individuals with carpal tunnel syndrome. Material and methods: 36 patients of ages between 35-50 years with clinical and electrodiagnostic evidence of carpal tunnel syndrome, as well as positive Phalen test participated in this study. Subjects were randomly assigned to one of the two physiotherapy intervention groups: Group I - only median nerve neuromobilization was applicated. Group II - median nerve neuromobilization technique with additionally performed mid-carpal distraction using manual therapy technique. Psychometric measures, Boston Carpal Tunnel Questionnaire (BCTQ), The Disabilities of the Arm , Shoulder and Hand (DASH) and Visual Analogue Scale (VAS) were used. Results: Both methods were very effective in the treatment of CTS. The results of the study demonstrated that a combination of neuromobilisation and mid-carpal distraction brought slightly greater gains in outcome measures: symptom severity, hand functional status and pain intensity, than neural mobilization single performed. although in some cases the differences were not statistically significant. Conclusions: It is concluded that the combination of these two techniques may be effective in the treatment of CTS, especially in second degree of CTS where patients have persistent numbness in the area supplied by the median nerve. However, further clinical studies are needed. Key words: carpal tunnel syndrome, neural mobilization, mid-carpal distraction.",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comparison between Efficacy of Manu Splint and Cock-up Splint in Carpal Tunnel Syndrome Treatment",
+      "url": "http://jbums.org/article-1-3718-en.html",
+      "publisher": "Majallah-i Dānishgāh-i ̒Ulūm-i Pizishkī-i Bābul",
+      "year": "2011",
+      "doi": "",
+      "abstract": "BACKGROUND AND OBJECTIVE: Carpal tunnel syndrome (CTS) or compression neuropathy of median nerve in carpal tunnel is the main cause of pain, numbness and tingling in the upper limb. The most common conservative interventions in mild to moderate CTS are wrist splints. The purpose of this study was to compare the effect of the Manu splint to wrist cock-up splint on the symptoms and functional status in CTS. METHODS: In this clinical trial study, we randomized 20 hands (12 female patients) with CTS into a group wearing the splint that keep 3rd and 4th fingers in extension (Manu splint) and into another one wearing the short cock-up splint with natural wrist angle, at night for 4 weeks. The patients were evaluated and compared after 2nd and 4th weeks by Boston Carpal Tunnel Questionnaire (BCTQ) and Pain Visual Analog Scale. The questionnaire comprised two parts: symptoms severity and functional statues that maximum scores were 55 and 40 for symptom severity and functional statues, respectively. Maximum score was 100 for PVAS.FINDINGS: The average symptom scores of BCTQ and pain scores significantly reduced in both groups after 4 weeks. Functional statues score was diminished significantly only in Manu splint group after 2 weeks (p=0.004). In comparison between 2 groups, after 4 weeks, the mean symptom severity score in Manu splint group was -31.15±15.37 and in cock-up splint group was -51.38±15.21 (p=0.008), the mean pain severity score in Manu splint group was -61.72±34.86 and in cock-up splint group was -98.59±2.96 (p=0.004). After 4 weeks no significant differences exited between 2 groups in term of functional status.CONCLUSION: The results of this study show that a 4 week treatment with either the hand brace or the wrist splint induced symptomatic benefit in patients with CTS. In the orthotic treatment of CTS, wrist posture is more important than finger posture.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.04,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Immediate Postoperative Evaluation of Bilateral Carpal Tunnel Syndrome Release Augmented with Human Amniotic Membrane and Secretome: A Case Report",
+      "url": "https://hal.science/hal-05682844v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Carpal tunnel release is an established surgical treatment for carpal tunnel syndrome; however, postoperative pain, scar formation and perineural adhesion may affect functional recovery in some patients. This case report describes the early clinical and functional outcome of simultaneous bilateral open carpal tunnel release augmented with human amniotic membrane, with additional secretome application on one side. A 50-year-old woman with bilateral carpal tunnel syndrome underwent bilateral open carpal tunnel release under general anaesthesia. Both median nerves were decompressed by division of the transverse carpal ligament. Human amniotic membrane was applied bilaterally. Secretome was additionally applied around the right median nerve, whereas the left median nerve received human amniotic membrane with 0.9% saline; therefore, the left hand should not be interpreted as an untreated or standard-care-only control. Clinical and functional outcomes were assessed using the Visual Analogue Scale, Boston Carpal Tunnel Questionnaire Symptom Severity Scale, Boston Carpal Tunnel Questionnaire Functional Status Scale, QuickDASH score and grip strength before surgery and at 3 months postoperatively. Preoperatively, both hands showed comparable impairment, including a Visual Analogue Scale score of 5, Symptom Severity Scale score of 4.0, Functional Status Scale score of 3.5, QuickDASH score of 54.5 and grip strength of 10.5 kg. At 3 months, both hands showed clinical and functional improvement. The right hand showed a Visual Analogue Scale score of 0, Symptom Severity Scale score of 1.0, Functional Status Scale score of 1.0, QuickDASH score of 2.3 and grip strength of 27.5 kg. The left hand showed a Visual Analogue Scale score of 3, Symptom Severity Scale score of 2.5, Functional Status Scale score of 2.0, QuickDASH score of 22.7 and grip strength of 23.5 kg. The observed difference between hands is an associative finding from a single, non-randomised bilateral case and cannot establish the superiority or efficacy of secretome augmentation. This case is hypothesis-generating and supports the need for larger prospective studies with standardised biologic material characterisation and longer follow-up.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.94,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "3D printing technology in the management of carpal tunnel syndrome: A case report",
+      "url": "https://banglajol.info/index.php/BSMMUJ/article/view/71690",
+      "publisher": "Bangabandhu Sheikh Mujib Medical University Journal",
+      "year": "2024",
+      "doi": "10.3329/bsmmuj.v17i1.71690",
+      "abstract": "A 35-year-old individual with carpal tunnel syndrome presented with tingling and numbness in the left thumb, index, and middle finger. A 3D printed CTS splint was crafted to immobilize the affected wrist joint, aiding pharmacotherapy. At six weeks, evaluations included the Boston Carpal Tunnel Questionnaire (BCTQ), Visual Analogue Scale (VAS) for pain, and Evaluation of Satisfaction with assistive Technology (QUEST) version 2.0.9. Substantial improvements were observed in Bangla-BCTQ scores (symptom severity scale: 3.68 vs. 1.27; functional status scale: 2.74 vs. 1.31), VAS (70 vs. 30), and QUEST scores. 3D printing technology may contribute to better personalized musculoskeletal care enhancing quality of life.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.86,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

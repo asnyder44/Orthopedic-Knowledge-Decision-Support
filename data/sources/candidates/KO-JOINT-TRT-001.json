@@ -1,0 +1,178 @@
+{
+  "term": "Exercise Therapy for Knee Osteoarthritis",
+  "collected": "2026-11-14",
+  "count": 9,
+  "candidates": [
+    {
+      "provider": "zenodo",
+      "title": "Exercise Therapy for Knee Osteoarthritis to Reduce the Pain: A Systematic Review",
+      "url": "https://zenodo.org/records/13284749",
+      "publisher": "INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY RESEARCH AND ANALYSIS",
+      "year": "2024",
+      "doi": "10.5281/zenodo.13284749",
+      "abstract": "The purpose of this study was to assess the value of different models exercise therapy emphasizing exercise for the management of knee osteoarthritis. This analysis included data from four trials with a total of 1,317 individuals. The exercise therapy models included were exercise therapy, elastic band therapy, traditional wuqinx therapy, and tai chi. The trials included in this meta-analysis suggest that people with knee osteoarthritis may benefit greatly from exercise-based therapy in terms of pain reduction, improved function, and improved quality of life. These findings suggest that exercise-based therapy offers a nonpharmacological, low-risk, and cost-effective treatment option for knee osteoarthritis. Exercise-based therapy should be considered as a primary treatment option for patients with knee osteoarthritis by all health care practitioners. Future research should explore the potential benefits of combining exercise-based interventions with other treatment options and determine the optimal exercise program for different stages of knee osteoarthritis.",
+      "licence": "cc-by-4.0",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.06,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Exercise Therapy for Knee Osteoarthritis: A Systematic Review and Network Meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280533/",
+      "publisher": "Orthopaedic journal of sports medicine",
+      "year": "2023",
+      "doi": "10.1177/23259671231172773",
+      "abstract": "Background: Exercise is an effective nonpharmaceutical therapy for knee osteoarthritis (KOA). Purpose: To identify the most effective type of exercise therapy for KOA with regard to pain, stiffness, joint function, and quality of life. Study Design: Systematic review; Level of evidence, 3. Methods: The PubMed, Web of Science, Embase, and Cochrane Library databases were searched, from inception to April 4, 2022. Included were randomized controlled trials that assessed the efficacy on KOA among 5 different exercise therapy groups (aquatic exercise [AE], stationary cycling [CY], resistance training [RT], traditional exercise [TC], and yoga [YG]) and compared with the control group. Outcomes among the groups were assessed with the Western Ontario and McMaster University Osteoarthritis Index (WOMAC), 6-minute walk test (6-MWT), visual analog scale (VAS) for pain, and Knee injury and Osteoarthritis Outcome Score (KOOS); weighted mean differences (WMDs) and 95% confidence intervals were calculated. Network meta-analyses comparing outcomes between all groups and with controls were performed, and group rankings were calculated using the surface under the cumulative ranking curve (SUCRA). Results: A total of 39 studies (N = 2646 participants) were included. Most of the studies failed to blind participants and researchers, resulting in a high risk of performance bias. Significantly worse WOMAC-Pain scores were seen in controls compared with all exercise interventions except AE (WMD [95% CI]: CY, –4.45 [–5.69 to –3.20]; RT, –4.28 [–5.48 to –3.07]; TC, –4.20 [–5.37 to –3.04]; and YG, –0.57 [–1.04 to –1.04]), and worse scores were seen in controls compared with YG regarding WOMAC-Stiffness (WMD, –1.40 [95% CI, –2.45 to –0.34]) and WOMAC-Function (WMD, –0.49 [95% CI, –0.95 to –0.02]). According to the SUCRA, CY was the most effective for improving WOMAC-Pain (80.8%) and 6-MWT (76.1%); YG was most effective for improving WOMAC-Stiffness (90.6%), WOMAC-Function (77.4%), KOOS–Activities of Daily Living (72.0%), and KOOS–Quality of Life (79.1%); AE was the most effective regarding VAS pain (77.2%) and KOOS-Pain (64.0%); and RT was the most effective regarding KOOS-Symptoms (84.5%). Conclusion: All 5 types of exercise were able to ameliorate KOA. AE (for pain relief) and YG (for joint stiffness, limited knee function, and quality of life) were the most effective approaches, followed by RT, CY, and TC.",
+      "licence": "cc by-nc-nd",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.02,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Benefits and Mechanisms of Exercise Training for Knee Osteoarthritis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8716769/",
+      "publisher": "Frontiers in physiology",
+      "year": "2021",
+      "doi": "10.3389/fphys.2021.794062",
+      "abstract": "Knee osteoarthritis is a chronic degenerative disease. Cartilage and subchondral bone degeneration, as well as synovitis, are the main pathological changes associated with knee osteoarthritis. Mechanical overload, inflammation, metabolic factors, hormonal changes, and aging play a vital role in aggravating the progression of knee osteoarthritis. The main treatments for knee osteoarthritis include pharmacotherapy, physiotherapy, and surgery. However, pharmacotherapy has many side effects, and surgery is only suitable for patients with end-stage knee osteoarthritis. Exercise training, as a complementary and adjunctive physiotherapy, can prevent cartilage degeneration, inhibit inflammation, and prevent loss of the subchondral bone and metaphyseal bone trabeculae. Increasing evidence indicates that exercise training can improve pain, stiffness, joint dysfunction, and muscle weakness in patients with knee osteoarthritis. There are several exercise trainings options for the treatment of knee osteoarthritis, including aerobic exercise, strength training, neuromuscular exercise, balance training, proprioception training, aquatic exercise, and traditional exercise. For Knee osteoarthritis (KOA) experimental animals, those exercise trainings can reduce inflammation, delay cartilage and bone degeneration, change tendon, and muscle structure. In this review, we summarize the main symptoms of knee osteoarthritis, the mechanisms of exercise training, and the therapeutic effects of different exercise training methods on patients with knee osteoarthritis. We hope this review will allow patients in different situations to receive appropriate exercise therapy for knee osteoarthritis, and provide a reference for further research and clinical application of exercise training for knee osteoarthritis.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.94,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Lifetime Cost-Effectiveness of Structured Education and Exercise Therapy for Knee Osteoarthritis in Australia",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11445685/",
+      "publisher": "JAMA network open",
+      "year": "2024",
+      "doi": "10.1001/jamanetworkopen.2024.36715",
+      "abstract": "Importance Structured education and exercise therapy programs have been proposed to reduce reliance on total knee replacement (TKR) surgery and improve health care sustainability. The long-term cost-effectiveness of these programs is unclear. Objectives To estimate the lifetime cost-effectiveness of implementing a national structured education and exercise therapy program for individuals with knee osteoarthritis with the option for future TKR compared with usual care (TKR for all). Design, setting, and participants This economic evaluation used a life table model in combination with a Markov model to compare costs and health outcomes of a national education and exercise therapy program vs usual care in the Australian health care system. Subgroup, deterministic, and probabilistic sensitivity analyses were completed. A hypothetical cohort of adults aged 45 to 84 years who would undergo TKR was created. Exposure Structured education and exercise therapy intervention provided by physiotherapists. The comparator was usual care where all people undergo TKR without accessing the program in the first year. Main outcomes and measures Incremental net monetary benefit (INMB), with an incremental cost-effectiveness ratio threshold of 28 033 Australian dollars (A$) per quality-adjusted life-year (QALY) gained, was calculated from a health care perspective. Transition probabilities, costs, and utilities were estimated from national registries and a randomized clinical trial. Results The hypothetical cohort included 61 394 individuals (53.9% female; 93.6% aged ≥55 years). Implementation of an education and exercise therapy program resulted in a lifetime cost savings of A$498 307 942 (US $339 922 227), or A$7970 (US $5537) per individual, and resulted in fewer QALYs (0.43 per individual) compared with usual care. At a population level, education and exercise therapy was not cost-effective at the lifetime horizon (INMB, -A$4090 [-US $2841]). Subgroup analysis revealed that the intervention was cost-effective only for the first 9 years and over a lifetime only in individuals with no or mild pain at baseline (INMB, A$11 [US $8]). Results were robust to uncertainty around model inputs. Conclusions and relevance In this economic evaluation of structured education and exercise therapy compared with usual care, the intervention was not cost-effective over the lifetime for all patients but was for the first 9 years and for those with minimal pain. These findings point to opportunities to invest early cost savings in additional care or prevention, including targeted implementation to specific subgroups.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effectiveness of exercise therapy in patients with knee osteoarthritis: an overview of systematic reviews",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12273085/",
+      "publisher": "BMJ open",
+      "year": "2025",
+      "doi": "10.1136/bmjopen-2024-093163",
+      "abstract": "Objective This study aimed to assess the methodological quality of published systematic reviews of exercise therapy in knee osteoarthritis and summarise their reported effectiveness on quality of life, knee joint function, or adverse events. Design Overview of systematic reviews. Data sources PubMed, Embase, CINAHL, Web of Science and CENTRAL (searched on 14 April 2025), plus grey literature (PROSPERO, Epistemonikos, OpenGrey). Eligibility criteria for selecting studies We included systematic reviews of randomised controlled trials in patients diagnosed with knee osteoarthritis by imaging or clinical criteria and treated conservatively with exercise therapy; we excluded reviews that enrolled patients scheduled for surgery, with acute inflammation or osteoarthritis of other joints (hand, hip, ankle), for which relevant author data could not be obtained after one contact attempt, or that did not report at least one primary outcome (quality of life, knee joint function or adverse events). Data extraction and synthesis Two reviewers independently extracted data on study characteristics, interventions and outcomes, and assessed methodological quality using the AMSTAR 2 (A MeaSurement Tool to Assess systematic Reviews 2) tool. Due to heterogeneity in outcome measures across systematic reviews, meta-analysis was not conducted. Effectiveness was defined as any reported beneficial outcome of exercise therapy on predefined outcomes, including quality of life, physical function, pain or adverse events. Results 58 systematic reviews were selected. Muscle-strengthening (74.1%) and aerobic (48.2%) exercises were the most commonly prescribed exercise-based interventions. SF-36 (36-Item Short Form Health Survey) and the WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index) were the most popular outcome-evaluation tools. Furthermore, 63.7% of the systematic reviews revealed that exercise therapy improved all outcomes. The number of intervention-related adverse events was small. Notably, almost all systematic reviews (87.4%) had a critically low quality. Conclusions Current evidence on exercise therapy for knee osteoarthritis is inadequate. Nevertheless, exercise therapy can be considered for conservative treatment of knee osteoarthritis. Future studies should use network meta-analyses to compare the effects of different exercise therapies and determine their superiority over other conservative therapies.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.1,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "BodyBalance as an exercise therapy for knee osteoarthritis in older women: a study protocol for a randomized controlled trial",
+      "url": "https://www.semanticscholar.org/paper/75a89cbbb5b2c85af29407eec2ab3041b32e1bcc",
+      "publisher": "Trials",
+      "year": "2025",
+      "doi": "10.1186/s13063-025-09036-w",
+      "abstract": "Abstract Background Knee osteoarthritis (OA) is a prevalent degenerative condition among older women, frequently causing pain, decreased mobility, and reduced quality of life. As the global population ages, effective and accessible non-pharmacological interventions are urgently needed. This randomized controlled trial aims to evaluate the clinical and statistical effects of a 12-week BodyBalance exercise program on symptoms and complications associated with OA in older women. Methods A total of 40 older women aged 60–80 years with clinically diagnosed knee OA will be randomly assigned to either the intervention group or the control group. The intervention group will participate in a supervised BodyBalance training program, while the control group will maintain their usual activities without any structured exercise. Outcomes include evaluations of knee pain, balance, postural control, lower limb muscle strength, proprioception (knee and ankle), fear of falling, and overall quality of life. Discussion The study is expected to demonstrate that BodyBalance significantly improves balance, reduces pain, and enhances functional mobility in older women with OA compared to no intervention. These findings may support the clinical adoption of mind–body exercise as a cost-effective strategy for improving independence and well-being in the aging population. Trial registration https://irct.behdasht.gov.ir/trial/68467 . Registered on 15 April 2023. Retrospectively registered.",
+      "licence": "CCBYNCND",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.0,
+      "providers": [
+        "doaj",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Exercise therapy for knee osteoarthritis pain: how does it work? A study protocol for a randomised controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10806725/",
+      "publisher": "BMJ open",
+      "year": "2024",
+      "doi": "10.1136/bmjopen-2023-074258",
+      "abstract": "Introduction Muscle strengthening training (MST) and behavioural graded activity (BGA) show comparable effects on knee osteoarthritic (KOA) pain, but the mechanisms of action remain unclear. Both exercise-induced anti-inflammation and central sensitisation are promising pathways for pain relief in response to exercise therapy in patients with KOA: MST has the potential to decrease inflammation and BGA has the potential to decrease central sensitisation. Hence, this study aims to examine inflammation and central sensitisation as mediators for the effect of MST and/or BGA on pain in patients with KOA. Methods and analysis The Knee OsteoArthritis PAIN trial started on 10 January 2020 (anticipated end: April 2024). The three-arm clinical trial aims to recruit 90 KOA patients who will be randomly allocated to 12 weeks of (1) MST, (2) BGA or (3) care as usual. Assessments will be performed at baseline, 13 and 52 weeks after finishing the intervention. Outcomes, including pain (Knee injury and Osteoarthritis Outcome Score), were chosen in line with the OARSI recommendations for clinical trials of rehabilitation interventions for OA and the IMMPACT/OMERACT recommendations for the assessment of physical function in chronic pain clinical trials. Inflammation as well as features of central sensitisation (including conditioned pain modulation, offset analgesia, temporal summation of pain and event-related potentials following electrical stimulation), will be considered as treatment mediators. A multiple mediators model will be estimated with a path-analysis using structural equation models. In July 2023, all 90 KOA patients have been included and 42 participants already finished the study. Ethics and dissemination This study obtained ethics approval (B.U.N. 143201941843). Unravelling the mechanisms of action of exercise therapy in KOA will not only be extremely valuable for researchers, but also for exercise immunology and pain scientists and clinicians. Trial registration number NCT04362618.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.96,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Blood Flow Restriction Exercise as a Novel Conservative Standard in Patients with Knee Osteoarthritis—A Narrative Review",
+      "url": "https://www.mdpi.com/2076-3417/14/14/6150",
+      "publisher": "Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app14146150",
+      "abstract": "Knee osteoarthritis is a prevalent joint disease affecting millions of individuals globally. While total knee arthroplasty is an effective treatment for advanced stages of KOA, it may not be suitable for earlier stages or younger patients. Supervised exercise therapy has proven to be the first-line treatment of preference in tackling pain and disability caused by KOA. However, the high intensities required to induce positive muscle adaptations are not indicated in this population, as this is often accompanied by pain, discomfort, and frustration, leaving low-load resistance training as the only feasible method of treatment. Recently, the use of blood flow restriction training has begun to emerge as a substitute for high-load resistance training. With BFRT, a cuff is applied around the proximal aspect of the affected limb, causing partial arterial and full venous occlusion, thereby inducing localized hypoxia and the accumulation of metabolites, mimicking the effects of high-load resistance training, albeit with low loads. Consequently, BFRT might offer a suitable and more effective alternative for KOA patients who are not (yet) eligible for TKA compared to traditional exercise therapy. This review aims to summarize the current evidence as regards the application of Blood Flow Restriction in exercise therapy for knee osteoarthritis patients, with particular consideration of the underlying mechanisms and its safety, as well as general guidelines for practical implementation in clinical practice. In doing so, this narrative review aims to create a framework for translating from theory into practice.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The Risk Factor and Exercise Therapy for Knee Osteoarthritis",
+      "url": "https://doi.org/10.54097/0bmerf49",
+      "publisher": "Darcy & Roy Press Co. Ltd.",
+      "year": "2023",
+      "doi": "10.54097/0bmerf49",
+      "abstract": "Knee osteoarthritis (KOA) is one of the most common osteoarthritis. It is a chronic degenerative joint disease, within a year, incident KOA patients frequently move abruptly to advanced-stage radiographic disease. The main treatment program of KOA consist of physical therapy, pharmacotherapy and reconstruction surgery. Currently, there are more and more evident show that exercise therapy can be used a better treatment to help improve the symptom of KOA, release the pain. To evaluate the optimal exercise trial for patients with different degrees, this review mainly summarized the risk factors of KOA, as well as the characteristics of aerobic exercise and resistance training and therapeutic efficacy in different type of exercise for patients with different symptom and degree.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "openaire"
+      ]
+    }
+  ]
+}

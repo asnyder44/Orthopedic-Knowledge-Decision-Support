@@ -19,12 +19,14 @@
   // ---------------------------------------------------------------- layout (deterministic force simulation)
   let seed = 7; const rand = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
   const P = new Map();
+  // Lay out the written KOs on their own when proposed topics start hidden, so they spread over the frame.
+  const layoutAll = NET.nodes.filter(n => n.kind === "proposed").length <= 60;
   NET.nodes.forEach(n => {
     const a = ((n.cluster || 7) / 7) * Math.PI * 2 + rand() * 0.9, r = n.kind === "ko" ? 120 : 230;
     P.set(n.id, { x: W / 2 + Math.cos(a) * r * (0.6 + rand() * 0.5), y: H / 2 + Math.sin(a) * r * 0.75 * (0.6 + rand() * 0.5), vx: 0, vy: 0, fixed: false });
   });
-  function simulate(ticks) {
-    const ids = [...P.keys()];
+  function simulate(ticks, ids = [...P.keys()], frozen = new Set()) {
+    const inSet = new Set(ids), simEdges = edges.filter(e => inSet.has(e.source) && inSet.has(e.target));
     for (let t = 0; t < ticks; t++) {
       const alpha = 1 - t / ticks;
       for (let i = 0; i < ids.length; i++) for (let j = i + 1; j < ids.length; j++) {
@@ -33,29 +35,41 @@
         const f = 2600 / d2, d = Math.sqrt(d2); dx /= d; dy /= d;
         a.vx += dx * f; a.vy += dy * f; b.vx -= dx * f; b.vy -= dy * f;
       }
-      edges.forEach(e => {
+      simEdges.forEach(e => {
         const a = P.get(e.source), b = P.get(e.target), dx = b.x - a.x, dy = b.y - a.y, d = Math.hypot(dx, dy) || 1;
         const k = (d - (e.proposed ? 90 : 130)) * 0.06;
         a.vx += dx / d * k; a.vy += dy / d * k; b.vx -= dx / d * k; b.vy -= dy / d * k;
       });
-      P.forEach(p => {
+      ids.forEach(id => {
+        const p = P.get(id);
         p.vx += (W / 2 - p.x) * 0.002; p.vy += (H / 2 - p.y) * 0.004;
-        if (!p.fixed) { p.x += Math.max(-12, Math.min(12, p.vx * alpha)); p.y += Math.max(-12, Math.min(12, p.vy * alpha)); }
+        if (!p.fixed && !frozen.has(id)) { p.x += Math.max(-12, Math.min(12, p.vx * alpha)); p.y += Math.max(-12, Math.min(12, p.vy * alpha)); }
         p.vx *= 0.5; p.vy *= 0.5;
         p.x = Math.max(30, Math.min(W - 30, p.x)); p.y = Math.max(24, Math.min(H - 30, p.y));
       });
     }
   }
-  simulate(420);
-  (function stretch() {  // use the whole wide frame: map the layout's bounds onto it
-    const ps = [...P.values()], xs = ps.map(p => p.x), ys = ps.map(p => p.y);
+  function stretch(ids) {  // use the whole wide frame: map these topics' bounds onto it
+    const ps = ids.map(id => P.get(id)), xs = ps.map(p => p.x), ys = ps.map(p => p.y);
     const [x0, x1, y0, y1] = [Math.min(...xs), Math.max(...xs), Math.min(...ys), Math.max(...ys)];
     ps.forEach(p => { p.x = 70 + (p.x - x0) / ((x1 - x0) || 1) * (W - 140); p.y = 40 + (p.y - y0) / ((y1 - y0) || 1) * (H - 90); });
-  })();
+  }
+  const core = NET.nodes.filter(n => layoutAll || n.kind !== "proposed").map(n => n.id);
+  simulate(420, core);
+  stretch(core);
+  if (!layoutAll) {  // then hang each proposed topic next to the KO that proposed it, and let them settle
+    NET.nodes.filter(n => n.kind === "proposed").forEach(n => {
+      const host = P.get(n.proposed_by[0]) || { x: W / 2, y: H / 2 }, a = rand() * Math.PI * 2;
+      Object.assign(P.get(n.id), { x: host.x + Math.cos(a) * 60, y: host.y + Math.sin(a) * 45 });
+    });
+    simulate(120, [...P.keys()], new Set(core));
+  }
 
   // ---------------------------------------------------------------- state and filters
   const preds = [...new Set(edges.map(e => e.predicate))].sort();
-  const S = { selected: null, depth: 0, proposed: true, preds: new Set(preds) };
+  // With many proposed topics the full view is too busy: start with written KOs only (the checkbox adds the rest).
+  const S = { selected: null, depth: 0, proposed: NET.nodes.filter(n => n.kind === "proposed").length <= 60, preds: new Set(preds) };
+  $("#net-proposed").checked = S.proposed;
   const predBox = $("#net-preds");
   preds.forEach(p => {
     const l = el("label"), c = el("input"); c.type = "checkbox"; c.checked = true;

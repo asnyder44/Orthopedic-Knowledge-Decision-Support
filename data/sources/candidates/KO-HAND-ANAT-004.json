@@ -1,0 +1,857 @@
+{
+  "term": "Cubital Tunnel",
+  "collected": "2026-11-14",
+  "count": 47,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Safety and Outcomes of Different Surgical Techniques for Cubital Tunnel Decompression: A Systematic Review and Network Meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7686867/",
+      "publisher": "JAMA network open",
+      "year": "2020",
+      "doi": "10.1001/jamanetworkopen.2020.24352",
+      "abstract": "Importance Cubital tunnel syndrome is the second most common compressive neuropathy, affecting 6% of the population. Numerous different operations are performed globally to treat it; however, prior conventional (pairwise) meta-analyses have been unable to determine which procedure is associated with the best outcomes and fewest complications. Objective To evaluate which operation for cubital tunnel syndrome is associated with the greatest likelihood of symptomatic cure. Data sources PubMed, EMBASE, and CENTRAL were searched from database inception to March 2, 2019, with no restrictions on the setting or design of studies. Study selection Experimental and observational studies directly comparing the outcomes of at least 2 surgical treatments for adults with primary cubital tunnel syndrome were included. Case reports were excluded, and when comparative studies had subgroups with 1 participant, the single-participant subgroup was excluded. The treatments had to be in situ decompression with or without medial epicondylectomy or an anterior subcutaneous, subfascial, intramuscular, or submuscular transposition. The access could be open, minimally invasive, or endoscopic. The comparator could be sham surgery or any operation mentioned earlier. Data extraction and synthesis Data were extracted by 2 independent reviewers, following the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) reporting guideline and the PRISMA Network Meta-analysis extension statement. Network meta-analysis was used to estimate the relative efficacy and safety associated with interventions using relative risks. Surgical techniques were ranked by their probability of being the best (P score) and interpreted in terms of their clinical impact. Main outcomes and measures The primary outcome was response to treatment (ie, symptomatic improvement). The secondary outcomes were perioperative complications, reoperation, and recurrence. Results A total of 30 studies of 2894 limbs undergoing 8 different operations were included. Across the studies, 56% of participants were men, the mean (SD) age was 48 (8) years, and patients had symptoms for a mean (SD) of 15 (7) months. Overall, 87% (95% CI, 92%-91%) of patients improved with surgery; all forms of in situ decompression were more effective than any type of transposition procedure; for example, open in situ decompression with epicondylectomy was associated with higher success rates than subcutaneous transposition (relative risk, 1.13; 95% CI, 1.01-1.25). Postoperatively, 3% (95% CI, 2%-4%) of patients developed complications, and in situ decompressions were ranked as the least risky, although there was considerable uncertainty in this outcome. Overall, 2% (95% CI, 1%-3%) of patients required reoperation; open in situ decompression was associated with the fewest reoperations; in comparison, submuscular transposition was associated with 5 times the risk of reoperation (relative risk, 5.08; 95% CI, 2.06-12.52). During surveillance, 3% (95% CI, 1%-4%) of patients developed recurrence, and open in situ decompression with epicondylectomy was ranked as the safest operation, although there was uncertainty in the estimates. Conclusions and relevance In this network meta-analysis, open in situ decompression (with or without medial epicondylectomy) appeared to be the safest operation and also was associated with the best outcomes for patients with primary cubital tunnel syndrome. Future research should focus on better defining this disorder and developing core outcome measures.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.9,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Anterior Subcutaneous versus Submuscular Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0130843",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0130843",
+      "abstract": "Objective: To pool reliable evidences for the optimum anterior transposition technique in the treatment of cubital tunnel syndrome by comparing the clinical efficacy of subcutaneous and submuscular anterior ulnar nerve transposition. Methods: A comprehensive search was conducted in PubMed MEDLINE, Cochrane Library, EMBASE, Web of Science, OVID AMED, EBSCO and potentially relevant surgical archives. Risk of bias of each included studies was evaluated according to Cochrane Handbook for Systematic Reviews of Interventions. The risk ratio (RR) and 95% confidence intervals (CI) were calculated for the clinical improvement in function compared to baseline. Heterogeneity was assessed across studies, and subgroup analysis was also performed based on the study type and follow-up duration. Results: Three studies with a total of 352 participants were identified, and the clinically relevant improvement was used as the primary outcomes. Our meta-analysis revealed that no significant difference was observed between two comparison groups in terms of postoperative clinical improvement in those studies (RR 1.04, 95% CI 0.86 to 1.25, P = 0.72). Meanwhile, subgroup analyses by study type and follow-up duration revealed the consistent results with the overall estimate. Additionally, the pre- and postoperative motor nerve conduction velocities were reported in two studies with a total of 326 patients, but we could not perform a meta-analysis because of the lack of concrete numerical value in one study. The quality of evidence for clinical improvement was ‘low’ or ‘moderate’ on the basis of GRADE approach. Conclusions: Based on small numbers of studies with relatively poor methodological quality, the limited evidence is insufficient to identify the optimum anterior transposition technique in the treatment of cubital tunnel syndrome. The results of the present study suggest that anterior subcutaneous and submuscular transposition might be equally effective in patients with ulnar neuropathy at the elbow. Therefore, more high-quality randomized controlled trials with standardized clinical improvement metrics are required to further clarify this topic and to provide reproducible pre- and postoperative objective outcomes.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.7,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Comparison Of Endoscopic and Open Decompression of The Ulnar Nerve in Cubital Tunnel Syndrome: A Systematic Review with Meta-Analysis",
+      "url": "https://www.semanticscholar.org/paper/371c5d8e4016c23e81abf231f24a5a2598e0ba57",
+      "publisher": "The American Journal of Medical Sciences and Pharmaceutical Research",
+      "year": "2025",
+      "doi": "10.37547/tajmspr/volume07issue09-06",
+      "abstract": "Cubital tunnel syndrome (CTS) is the second most common compressive neuropathy of the upper limb, associated with symptoms of pain, paresthesia and hand weakness, with a significant impact on patients' quality of life.1 The primary surgical treatment is decompression of the ulnar nerve using the open in situ technique, with good scientific evidence and a low complication rate. 2 Minimally invasive techniques, such as endoscopic in situ decompression (EISD), have emerged as an alternative, promising smaller scars, less postoperative pain and faster functional return. Doubts remain about the safety, efficacy and complication profile of these techniques when compared to open in situ decompression (OISD).2 Randomized clinical trials, such as those by Elwenspoek et al. in 2014-2017 with 45 patients, showed equivalence in clinical outcomes (Bishop's excellent/optimal score between 90-96%), but with less chronic scar pain and better aesthetic satisfaction in the endoscopic group, albeit with a longer operative time. Another randomized double-blind study (2008-2011, 56 cases) corroborated the similarity of functional results, observing a higher incidence of hematomas in the endoscopic group. 2,3 Two contemporary meta-analyses consolidate this perception: The meta-analysis of 686 cases revealed endoscopic decompression with longer surgical duration, increased risk of hematoma and acute pain, but less postoperative paresthesia and better grip strength. And a previous meta-analysis comparing eight studies (582 patients) confirmed equivalent efficacy, highlighting less painful scar sensitivity in the endoscopic group .3 To this end, despite equivalence in functional and clinical outcomes, EISD offers advantages in terms of scar, chronic pain and grip strength, at the cost of longer surgical time and risk of hematoma, more robust and standardized studies are needed. This systematic review with meta-analysis aims to rigorously compare efficacy, safety and technical quality between endoscopic and open decompression of the ulnar nerve in CTS, with a focus on clinical impact and decision-making guidelines for orthopaedic practice.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.102,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Gender representation and reimbursement trends in cubital tunnel surgery: a retrospective review of Medicare data from 2013 to 2022",
+      "url": "https://www.semanticscholar.org/paper/e37471e44e177cde772edbbcab2d057e9ba6a880",
+      "publisher": "JSES Reviews, Reports, and Techniques",
+      "year": "2025",
+      "doi": "10.1016/j.xrrt.2025.04.010",
+      "abstract": "Background Cubital tunnel syndrome is the second most common upper extremity neuropathy and is frequently managed with surgical decompression. While gender disparities have been shown to extend into Medicare reimbursement rates, this has not yet been evaluated among surgeons performing cubital tunnel surgery. This study examines trends among surgeon gender and geographical regions in cubital tunnel surgery volume, reimbursement rates, and patient demographics from 2013 to 2022. Methods The “Medicare Physician & Other Practitioners-by Provider and Service” dataset was queried for billings of cubital tunnel surgery from 2013 to 2022. Reimbursement rates, surgery volume, patient demographics, and surgeon characteristics were extracted for analysis. The Welch t-test was used to assess for differences based on surgeon gender. Results From 2013 to 2022, female surgeons performed 8.5% of the 60,029 cubital tunnel surgeries billed to Medicare Part B, with the overall proportion of female surgeons increasing from 4.6% to 9.9%. The largest growth occurred in the Midwest, while there were declines in the Northeast and West. Female surgeons saw a 282.5% increase in surgeries compared to 53.3% for males, and the number of surgeries per female surgeon rose by 30.9%. Patient demographics did not significantly differ over the study period. Reimbursement decreased for all surgeons, with males seeing a 17.7% decrease and females 20.3%, averaging $435 for males and $435.35 for females (P = .97). Female surgeons treated 26.64% more Medicare beneficiaries, while males treated 3.5% fewer beneficiaries; however, differences in beneficiaries and surgeries per surgeon seen in 2013 had equalized by 2022 (2013, P = .02; 2022, P = .278). Conclusion Female surgeon representation in cubital tunnel surgeries increased from 2013 to 2022 but remains under 10%. Though reimbursement does not differ by gender, disparities in procedural volume and regional representation highlight the need to understand systemic and institutional factors to promote equity.",
+      "licence": "other-oa",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.6,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Modified musculofascial lengthening technique for submuscular ulnar nerve transposition in cubital tunnel syndrome",
+      "url": "https://doi.org/10.1371/journal.pone.0318303",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0318303",
+      "abstract": "Objective: Cubital tunnel syndrome is a common peripheral neuropathy of the upper extremity. Anterior transposition of the ulnar nerve is an established surgical treatment option for this condition. This study aimed to introduce a novel musculofascial lengthening technique that uses only a portion of the flexor-pronator muscle mass for submuscular anterior transposition of the ulnar nerve and investigate its clinical outcomes. Methods: We evaluated 28 patients (29 cases; 1 patient had bilateral involvement) diagnosed with cubital tunnel syndrome who were treated with surgical decompression and submuscular anterior transposition of the ulnar nerve using our novel technique. Mean follow-up was 19.1 months (range, 12–31). Patient-reported outcomes were assessed using the Boston Carpal Tunnel Questionnaire (BCTQ), Disabilities of the Arm, Shoulder, and Hand (DASH) Questionnaire, and numeric rating scale (NRS) for pain. Objective outcomes including light touch perception, static two-point discrimination, and grip strength were also assessed. Modified Bishop score and postoperative complications were also evaluated. Results: BCTQ symptom severity and functional status scores, DASH score, and NRS for pain score showed significant improvement after surgery. Light touch perception, static two-point discrimination, and grip strength also significantly improved after surgery. All patients showed excellent or good results according to the modified Bishop scoring system. No recurrence or complications occurred. Conclusion: Our novel musculofascial lengthening technique that uses only a portion of the flexor-pronator muscle mass for submuscular anterior transposition of the ulnar nerve reliably achieves good results with minimal complications in patients with cubital tunnel syndrome.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Radial nerve compression: anatomical perspective and clinical consequences",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9925568/",
+      "publisher": "Neurosurgical review",
+      "year": "2023",
+      "doi": "10.1007/s10143-023-01944-2",
+      "abstract": "The radial nerve is the biggest branch of the posterior cord of the brachial plexus and one of its five terminal branches. Entrapment of the radial nerve at the elbow is the third most common compressive neuropathy of the upper limb after carpal tunnel and cubital tunnel syndromes. Because the incidence is relatively low and many agents can compress it along its whole course, entrapment of the radial nerve or its branches can pose a considerable clinical challenge. Several of these agents are related to normal or variant anatomy. The most common of the compressive neuropathies related to the radial nerve is the posterior interosseus nerve syndrome. Appropriate treatment requires familiarity with the anatomical traits influencing the presenting symptoms and the related prognoses. The aim of this study is to describe the compressive neuropathies of the radial nerve, emphasizing the anatomical perspective and highlighting the traps awaiting physicians evaluating these entrapments.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ulnar Neuropathy at the Elbow: From Ultrasound Scanning to Treatment",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8160369/",
+      "publisher": "Frontiers in neurology",
+      "year": "2021",
+      "doi": "10.3389/fneur.2021.661441",
+      "abstract": "Ulnar neuropathy at the elbow (UNE) is commonly encountered in clinical practice. It results from either static or dynamic compression of the ulnar nerve. While the retroepicondylar groove and its surrounding structures are quite superficial, the use of ultrasound (US) imaging is associated with the following advantages: (1) an excellent spatial resolution allows a detailed morphological assessment of the ulnar nerve and adjacent structures, (2) dynamic imaging represents the gold standard for assessing the ulnar nerve stability in the retroepicondylar groove during flexion/extension, and (3) US guidance bears the capability of increasing the accuracy and safety of injections. This review aims to illustrate the ulnar nerve's detailed anatomy at the elbow using cadaveric images to understand better both static and dynamic imaging of the ulnar nerve around the elbow. Pathologies covering ulnar nerve instability, idiopathic cubital tunnel syndrome, space-occupying lesions (e.g., ganglion, heterotopic ossification, aberrant veins, and anconeus epitrochlearis muscle) are presented. Additionally, the authors also exemplify the scientific evidence from the literature supporting the proposition that US guidance is beneficial in injection therapy of UNE. The non-surgical management description covers activity modifications, splinting, neuromobilization/gliding exercise, and physical agents. In the operative treatment description, an emphasis is put on two commonly used approaches- in situ decompression and anterior transpositions.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Musicians' medicine – potential health problems among violinists and violists caused by playing the string instrument – the review of the literature",
+      "url": "https://zenodo.org/records/5799671",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2021",
+      "doi": "10.12775/JEHS.2021.11.12.020",
+      "abstract": "Ręka Gabriela, Machowiec Piotr, Maksymowicz Marcela, Piecewicz-Szczęsna Halina. Musicians’ medicine – potential health problems among violinists and violists caused by playing the string instrument – the review of the literature . Journal of Education, Health and Sport. 2021;11(12):273-279. eISSN 2391-8306. DOI http://dx.doi.org/10.12775/JEHS.2021.11.12.020 https://apcz.umk.pl/JEHS/article/view/JEHS.2021.11.12.020 https://zenodo.org/record/5799671 The journal has had 40 points in Ministry of Education and Science of Poland parametric evaluation. Annex to the announcement of the Minister of Education and Science of December 1, 2021. No. 32343. Has a Journal's Unique Identifier: 201159. Scientific disciplines assigned: Physical Culture Sciences (Field of Medical sciences and health sciences); Health Sciences (Field of Medical Sciences and Health Sciences). Punkty Ministerialne z 2019 - aktualny rok 40 punktów. Załącznik do komunikatu Ministra Edukacji i Nauki z dnia 1 grudnia 2021 r. Lp. 32343. Posiada Unikatowy Identyfikator Czasopisma: 201159. Przypisane dyscypliny naukowe:Nauki o kulturze fizycznej (Dziedzina nauk medycznych i nauk o zdrowiu); Nauki o zdrowiu (Dziedzina nauk medycznych i nauk o zdrowiu). © The Authors 2021; This article is published with open access at Licensee Open Journal Systems of Nicolaus Copernicus University in Torun, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author (s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non commercial license Share alike. (http://creativecommons.org/licenses/by-nc-sa/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.12.2021. Revised: 22.12.2021. Accepted: 22.12.2021. Musicians’ medicine – potential health problems among violinists and violists caused by playing the string instrument – the review of the literature Gabriela Ręka, Piotr Machowiec, Marcela Maksymowicz, Halina Piecewicz-Szczęsna Gabriela Ręka 1 gabrysia.reka@gmail.com, ORCID: 0000-0001-9728-5281 Piotr Machowiec 1 piotr.machowiec1997@gmail.com, ORCID: 0000-0002-5418-0110 Marcela Maksymowicz 1 marcela.maksymowicz@gmail.com, ORCID: 0000-0003-2611-1609 Halina Piecewicz-Szczęsna 2 halpiec@gmail.com, ORCID: 0000-0002-0573-7226 1 Students’ Scientific Association of Chair and Department of Epidemiology and Clinical Research Methodology, Medical University of Lublin, Radziwiłłowska 11, 20-080 Lublin 2 Chair and Department of Epidemiology and Clinical Research Methodology, Medical University of Lublin, Radziwiłłowska 11, 20-080 Lublin Abstract Introduction and purpose Musicians' medicine has received increasing attention recently. It is known that listening to music or playing an instrument has beneficial effects on cognitive and neural functions. Playing the string instrument demands repetitive precise movements of fingers and arms in a non-ergonomic posture that might give rise to health problems. The study aims to present the current state of knowledge regarding different potential health problems among violinists and violists. The article reviews the 24 newest scientific publications available on PubMed and Google Scholar. A brief description of the state of knowledge The literature review indicated several potential health consequences of excessive playing the violin or viola, as follows: Fiddler's neck and skin allergy, Garrod’s pads, temporomandibular disorders, carpal tunnel syndrome, cubital tunnel syndrome, tennis elbow, compression of the right ulnar nerve in the ulnar (Guyon's) canal, rotator cuff tendonitis, tenosynovitis, bursitis, focal dystonia, thoracic outlet syndrome, bone asymmetry, pain in the neck, cheeks, fingers, wrist, forearm, shoulder, waist, and the back. Conclusions Musicians should be aware of potential health problems that occur during prolonged playing the violin or the viola. An important issue is maintaining the accurate proportions between the amount of time spent playing the instrument and resting. The first signs of neurological or musculoskeletal changes should prompt the musician to seek professional medical help to prevent the disorder's progression. Key words: health; overuse injury; nerve entrapments; muscle pain; string instrument",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Imaging in the diagnosis of ulnar nerve pathologies-a neoteric approach",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426899/",
+      "publisher": "Insights into imaging",
+      "year": "2019",
+      "doi": "10.1186/s13244-019-0714-x",
+      "abstract": "The ulnar nerve is a branch of the C8 and T1 nerve roots and arises from the medial cord of the brachial plexus. It supplies the intrinsic muscles of the hand and assists the median nerve in functioning of the flexors. Also known as the musician's nerve, it is the second most common nerve involved in compressive neuropathy following the median nerve. Common sites of entrapment include cubital tunnel at the elbow, the ulnar groove in the humerus and the Guyon's canal at the wrist. Patients present with altered sensation in the ulnar fourth and the fifth digit and the medial side of arm with loss of function of intrinsic muscles of the hand, the flexor carpi ulnaris and ulnar fibres of flexor digitorum superficialis in more severe cases. Diagnosis relies on clinical examination, electrodiagnostic studies and imaging findings. Plain radiographs are used to identify fracture sites, callus, or tumours as cause of compression. Technological advances in ultrasonography have allowed direct visualisation of the involved nerve with assessment of exact site, extent and type of injury. It yields unmatched information about anatomical details of the nerve. MR imaging adds to soft tissue details and helps in characterising the lesion. This pictorial review aims to illustrate a wide spectrum of causes of ulnar neuropathies as seen on ultrasound and MRI and emphasises upon the importance of imaging modalities in the diagnosis of neuropathies.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Efficacy of Manual Therapy and Electrophysical Modalities for Treatment of Cubital Tunnel Syndrome: A Randomized Interventional Trial",
+      "url": "https://www.semanticscholar.org/paper/65c3947aff8c26605dbedfe58254031db1c427c9",
+      "publisher": "Life",
+      "year": "2025",
+      "doi": "10.3390/life15071059",
+      "abstract": "The aim of this study was to evaluate the efficacy of manual therapy based on neurodynamic techniques and electrophysical modalities in the conservative treatment of cubital tunnel syndrome (CuTS). A total of 128 upper limbs affected by CuTS were initially enrolled in this study, with 82 completing the full treatment protocol. The participants were divided into the following two intervention arms: the first arm (MT) (42 arms) received therapy based on sliding and tensioning neurodynamic techniques, while the second arm (EM) (40 arms) underwent physiotherapy based on electrophysical modalities, specifically low-level laser therapy (LLLT) and ultrasound therapy (US). Chi2 and Student’s t-test were used to compare the intervention arms, and no statistically significant differences were found. The evaluated outcomes included nerve conduction testing, ultrasound assessments (measuring cross-sectional area and shear modulus), pain levels, two-point discrimination, thresholds for cutaneous sensory perception, symptom severity, functional ability in specific tasks, and overall post-treatment improvement. Baseline comparisons indicated no statistically significant differences in any measured variables between the intervention groups (p > 0.05). Following treatment, each group exhibited significant improvements in their respective parameters (p < 0.01). Comparisons between groups post-intervention revealed statistically significant differences in nerve conduction results, ultrasound measurements (cross-sectional area and shear modulus), two-point discrimination, and sensory perception thresholds. These parameters improved more in the MT intervention arm. The use of neurodynamic techniques, ultrasound, and low-level laser therapy in the conservative treatment of mild to moderate forms of CuTS has a beneficial therapeutic effect.",
+      "licence": "CCBY",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.006,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Endoscopic cubital tunnel release: a modified surgery and clinical application",
+      "url": "https://medicaljournalssweden.se/JPHS/article/view/45986",
+      "publisher": "Journal of Plastic Surgery and Hand Surgery",
+      "year": "2026",
+      "doi": "10.2340/jphs.v61.45986",
+      "abstract": "Background: Varied surgical alternatives for treating cubital tunnel syndromes have been used. A trend of endoscopic ulnar nerve release is emerging. The purpose of this study is to introduce a modified technique of endoscopic ulnar nerve decompression in association with anterior transposition of the ulnar nerve and to assess the feasibility and efficacy of the surgery. Materials and Methods: We introduced a modified method of endoscopic release and subfascial anterior transposition of the ulnar nerve. The technique was applied to six patients who presented signs, symptoms, and abnormal neurophysiological studies of cubital tunnel syndrome. The patients were classified according to the Dellon classification preoperatively. The Bishop rating system was used to evaluate the postoperative outcomes. Trial registration number for the study is MR-31-25-090620. Results: Preoperatively, all six patients were classified as severe according to the Dellon classification. The endoscopic cubital tunnel release and subfascial anterior ulnar nerve transposition surgeries were performed with no difficulty in all patients. All the patients had improvement in symptoms and scored excellent or good according to the modified Bishop Rating System postoperatively. Conclusions: The modified endoscopic cubital tunnel release and subfascial anterior ulnar nerve transposition technique is technically feasible with satisfactory outcomes in six patients in this study.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Paradoxical Increase In Cubital Tunnel Syndrome Risk Among Glp-1 Agonist Users Despite Obesity As An Independent Risk Factor",
+      "url": "https://zenodo.org/records/20087473",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20087473",
+      "abstract": "PURPOSE: Obesity and diabetes may independently confer increased risk of nerve compression syndromes like Cubital tunnel syndrome (CuTS). Originally used for diabetes management, the use of glucagon-like peptide-1 receptor agonist (GLP-1 RA) for weight loss in both diabetic and non-diabetic patients has skyrocketed, yet the impact of these therapies on nerve compression has received little attention. This study characterized population-level CuTS prevalence across metabolic strata and evaluated the relationship between GLP-1 RA use and CuTS incidence. METHODS: Adults ≥18 years (2005-2025) in de-identified multicenter EHRs were analyzed retrospectively. CuTS (ICD-10 G56.2x) risk was stratified by body-mass index, diabetes status/type, and GLP-1 RA use. Odds ratios (OR) with 95% confidence intervals (CI) quantified risk across strata. RESULTS: Among 248,454,027 adults, 331,299 (0.13 %) had CuTS. Prevalence increased progressively with BMI (underweight: 0.30 % - Class II Obesity: 0.54 %). Diabetic patients had approximately two- to three-fold higher CuTS rates than non-diabetics (non-obese: 0.64 % vs 0.28 %; Obese: 0.69 % vs 0.31 %). Unexpectedly, GLP-1 RA use was associated with increased CuTS incidence across all metabolic groups (OR 1.3-1.8; p 0.0001). CONCLUSION: Obesity confers substantial, diabetes-independent risk for CuTS, supporting a multifactorial contribution to compressive neuropathy. Paradoxically, GLP-1 RA therapy, despite its weight-reducing benefits, was associated with higher CuTS incidence. As GLP-1 use expands rapidly, there is a pressing need to identify previously unknown adverse consequences of their use. These findings highlight the need for mechanistic investigation and surveillance for upper-extremity compression neuropathies in this growing patient population. *Source: https://ps-rc.org/meeting/Program/2026/AS22.cgi*",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Clinical outcomes of ulnar nerve gliding exercise in the nonoperative treatment of cubital tunnel syndrome",
+      "url": "https://www.semanticscholar.org/paper/b163dfb9a9b1d19d9f9d9588ea674553ad3d768a",
+      "publisher": "JSES International",
+      "year": "2025",
+      "doi": "10.1016/j.jseint.2025.02.001",
+      "abstract": "Background In cubital tunnel syndrome, inflammation and edema around the ulnar nerve inhibit physiologic nerve gliding, causing pain, paresthesia, and muscle weakness. The objective of this study was to investigate the clinical outcomes of our developed ulnar nerve gliding exercise for cubital tunnel syndrome. Methods Seventeen patients with cubital tunnel syndrome underwent ulnar nerve gliding exercise. All patients had numbness and paresthesia of the ulnar aspect of the forearm and hand and tenderness over the cubital tunnel. Before treatment, 15 patients had McGowan grade 2 (moderate) abnormality, and 2 patients had grade 3 (severe). For our nonsurgical ulnar nerve release, an occupational therapist applied repetitive passive wrist movement at maximal elbow flexion position to improve ulnar nerve gliding twice weekly for 20 minutes each session (average treatment period: 5.8 months). Data regarding the visual analog scale of paresthesia, rate of positive elbow flexion tests, Semmes–Weinstein monofilament test, grip strength, pulp pinch strength, and motor and sensory nerve conduction velocities (6 accepted patients) before ulnar nerve gliding exercise were compared with the values at the final follow-up (average follow-up period: 64 months). Results Ulnar nerve gliding exercise significantly decreased the severity of paresthesia overall (P < .0001). In addition, the elbow flexion test (P = .0002) and Semmes–Weinstein monofilament test (P < .0001) improved and grip strength (P < .0001) and pulp pinch strength (P < .0001) increased comparable to those on the contralateral side. Motor and sensory nerve conduction velocities after ulnar nerve gliding exercise improved in 5 of 6 patients (83%) and 4 of 6 patients (67%), respectively. One patient with McGowan grade 3 abnormality failed ulnar nerve gliding exercise and underwent anterior subcutaneous transposition of the ulnar nerve. Conclusion The ulnar nerve gliding exercise by using repetitive passive wrist movement at the maximal elbow flexion can be a useful option for moderate cubital tunnel syndrome.",
+      "licence": "CCBYNCND",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.608,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Biomechanical analysis of ulnar nerve gliding and elongation: implications for nonsurgical ulnar nerve release in cubital tunnel syndrome",
+      "url": "https://www.semanticscholar.org/paper/f388f8aa738f0bf43102ff18323b986f30ab4a04",
+      "publisher": "Clinics in Shoulder and Elbow",
+      "year": "2025",
+      "doi": "10.5397/cise.2024.00934",
+      "abstract": "Background Nonsurgical ulnar nerve release was developed for conservative treatment of cubital tunnel syndrome. Our objective in this study was to investigate the amount of ulnar nerve gliding and elongation during passive wrist, forearm, or elbow movements to determine the most effective nonsurgical ulnar nerve release technique. Methods Seven fresh-frozen cadaveric upper limbs were tested in an elbow-testing system. Ulnar nerve gliding (mobility) and elongation (stretching) were measured around the elbow joint using a three-dimensional digitizing system. Data were compared between arm positions (elbow extension vs. 90° flexion, wrist extension vs. flexion, or forearm pronation vs. supination). Results Passive wrist movement from flexion to extension caused the ulnar nerve to glide. The largest amount of glide during passive wrist movement was found at 90° elbow flexion and maximum forearm supination position (5.4±1.1 mm). Ulnar nerve gliding during passive forearm movement was subtle. The ulnar nerve tightened with elbow flexion. Maximum elongation of the ulnar nerve was 5.6±0.6 mm from extension to 90° flexion in the elbow. Conclusions Ulnar nerve gliding was most severe during passive wrist movement in elbow flexion and forearm supination. This result suggests that passive wrist movement from flexion to extension with the elbow flexed and forearm supinated may be the most effective nonsurgical ulnar nerve release position to treat cubital tunnel syndrome. Attention should be paid to the elbow flexion angle during nonsurgical ulnar nerve release to not exacerbate cubital tunnel symptoms. Level of evidence III.",
+      "licence": "CCBYNC",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.606,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Simple decompression vs. subcutaneous anterior transposition of the ulnar nerve: the 2025 update on the optimal treatment for cubital tunnel syndrome",
+      "url": "https://www.semanticscholar.org/paper/e98b80abf532cd03ac65ae26a8d58ef8c601c3b4",
+      "publisher": "JSES Reviews, Reports, and Techniques",
+      "year": "2025",
+      "doi": "10.1016/j.xrrt.2025.100630",
+      "abstract": "This 2024 update aims to compare the clinical outcomes, recurrence, and revision rates between simple decompression (SD) and subcutaneous anterior transposition (SAT) of the ulnar nerve for treating cubital tunnel syndrome (CuTS). A systematic review of articles from PubMed, Scopus, and Google Scholar was performed in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. We selected all English-language comparative studies published from January 2000 to June 2024, comparing SD and SAT concerning postoperative outcomes of surgical treatment for CuTS. Ten articles met the inclusion criteria. We found no statistical difference in the clinical outcomes of SD and SAT. Two studies indicated SD was superior to SAT. Four studies concluded that both techniques were equally effective for CuTS treatment. Three studies were inconclusive, and one study reported in situ decompression as inferior to SAT, with a high recurrence rate. As of 2025, the surgical approach to CuTS remains consistent with current practice. Both SD and SAT of the ulnar nerve continue to demonstrate good clinical outcomes. Although SD may be associated with higher rates of recurrences and revision surgeries, no clear superiority of one technique over the other has been established.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.604,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Litigation in Cubital Tunnel Surgery",
+      "url": "https://www.semanticscholar.org/paper/53a5d6c349306a640bfbf6df5997e41171063f01",
+      "publisher": "HAND",
+      "year": "2025",
+      "doi": "10.1177/15589447251369033",
+      "abstract": "Background: Medical malpractice is common, costly, and poorly understood within the U.S. health care system. Cubital tunnel release (CuTR) is the second most common nerve surgery and is prone to complication. Malpractice claims associated with carpal tunnel surgery, distal radius fractures, replantation, and the field as a whole have previously been studied. To date, there has been no study of litigation related to CuTR independently; the aim of this paper is to do so. Methods: The Lexis+ (LexisNexis, New York, NY) legal database was queried for all cases relating to CuTR. Thirty-five cases were identified that were directly related to CuTR; these were amended with publicly available data on defendant specialty and training and statistically examined. Results: Around 51% of cases favored the defendant, 37% favored the plaintiff, and 11% were resolved with a settlement. Median, maximum, and minimum award amounts were $415 484, $11 464 991, and $180 000, respectively. Awards significantly differed by claim type, with large awards for incorrect surgery ($1 007 500), negligent surgery ($389 969), and poor post-op care ($11 464 991). There were no significant differences in outcomes or award amounts by specialty type, hand surgery training, years of experience, or simultaneous surgeries; however, surgeons with hand training had lower median awards ($400 854 vs $430 114), and there were lower awards for simultaneous surgeries ($372 997 vs $445 047). Conclusions: Cubital tunnel release appears to carry a higher liability than other procedures within hand surgery such as carpal tunnel release.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.602,
+      "providers": [
+        "openaire",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Overall Health Status of Patients with Mild-to-Moderate Cubital Tunnel Syndrome: A Case–Control Study",
+      "url": "https://www.semanticscholar.org/paper/9e8b38087816cd1c2d4de861246961937ea95fa7",
+      "publisher": "Healthcare",
+      "year": "2025",
+      "doi": "10.3390/healthcare13212764",
+      "abstract": "Objectives: This cross-sectional case–control study, conducted at the Department of Physiotherapy, Academy of Physical Education, in Katowice, between July 2022 and April 2023, aimed to assess the overall health status (OHS) of patients with mild-to-moderate cubital tunnel syndrome (CuTS) compared with a healthy control population. Methods: The SF-36 questionnaire was used to evaluate the following domains: physical functioning (PF), role limitations due to physical health problems (RP), bodily pain (BP), general health (GH), vitality (VT), social functioning (SF), role limitations due to emotional problems (RE), and mental health (MH). Results: A total of 152 participants were enrolled in the study. The CuTS and control groups consisted of 82 and 70 individuals, respectively. The CuTS group had significantly lower scores in most domains when compared with the control group; however, no significant difference was observed in the BP domain. Notably, the VT domain showed a statistically significant difference in favor of the CuTS group, indicating slightly higher perceived vitality despite functional limitations. Conclusions: Mild and moderate forms of CuTS are associated with significant deterioration in general health, encompassing both physical and psychological components, as assessed by the SF-36 questionnaire; however, no significant difference was observed in the BP domain, suggesting that the burden of CuTS may manifest more strongly in functional, psychosocial, and mental health aspects rather than in generalized pain perception. These findings highlight the importance of a comprehensive evaluation and management strategy that addresses both physical and psychosocial dimensions of patient care.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.602,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Prevalence of Cubital Tunnel Syndrome Among Freight Handlers",
+      "url": "https://www.semanticscholar.org/paper/5bde4dd4a44e21c65e5df064a50ce880bd8c59e1",
+      "publisher": "Journal of Health, Wellness and Community Research",
+      "year": "2025",
+      "doi": "10.61919/0hpv6d65",
+      "abstract": "Background: Cubital tunnel syndrome (CuTS) is the second most common peripheral nerve entrapment after carpal tunnel syndrome, caused by ulnar nerve compression at the elbow. Freight handlers are at high risk due to repetitive elbow flexion, heavy lifting, and prolonged pressure on the elbow, yet little is known about the prevalence and functional burden of CuTS in this group. Objective: To determine the prevalence of CuTS among freight handlers in Faisalabad, Pakistan, and to evaluate its impact on upper-limb function. Methods: A cross-sectional study was conducted from February to May 2023 at three freight-handling sites. A total of 132 handlers aged 29–39 years were screened using the Elbow Flexion Test to diagnose CuTS and assessed with the QuickDASH questionnaire for functional disability. Demographic variables and occupational exposure duration were recorded. Prevalence estimates were reported with 95% confidence intervals, and group comparisons were analyzed using t tests, chi-square tests, and logistic regression. Results: Fifty-two participants (39.4%, 95% CI: 31.2–48.1) tested positive for CuTS. CuTS-positive workers had significantly higher mean QuickDASH scores (58.3 ± 11.4) compared to unaffected workers (12.6 ± 7.2, p<0.001), with severe impairments in grip, work-related tasks, pain, and sleep. Occupational tenure ≥3 years was associated with increased odds of CuTS (OR 2.42, 95% CI: 1.11–5.29, p=0.026). Conclusion: CuTS is highly prevalent among freight handlers and is associated with severe functional disability. Ergonomic interventions, early screening, and workplace health policies are urgently needed to mitigate risk.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.602,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Characteristics and outcomes of cubital tunnel decompression in diabetic patients receiving glucagon-like peptide-1 receptor agonists",
+      "url": "https://www.semanticscholar.org/paper/a1344f0dbdb9272edd0a1e4a0e48b684825e6231",
+      "publisher": "Clinics in Shoulder and Elbow",
+      "year": "2025",
+      "doi": "10.5397/cise.2025.00801",
+      "abstract": "Background Cubital tunnel release (CuTR) relieves ulnar nerve compression; however, about 35% of patients who undergo this procedure develop persistent neuropathy and about 7% require revision. Type 2 diabetes mellitus (T2DM) worsens ulnar neuropathy, whereas glucagon-like peptide-1 receptor agonists (GLP-1RAs) may be neuroprotective. We compared short- (90-day) and mid-term (2-year) CuTR outcomes in diabetic patients who did or did not receive perioperative GLP-1RA treatment. Methods TriNetX identified adults (≥18 years) with T2DM who underwent primary CuTR during the period 2015–2023, and who underwent at least 2 years of follow-up. The experimental cohort had received an active GLP-1RA prescription at surgery, while the controls had not. Exclusion criteria were T1DM, pancreatitis, multiple endocrine neoplasia 2, systemic steroids, end-stage renal disease, or prior major CuTR. Propensity-score matching (1:1) balanced demographics, body mass index, glycated hemoglobin (HbA1c), creatinine, and comorbidities. Outcomes were captured using International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) and Current Procedural Terminology (CPT) codes. Results After matching, 1,766 pairs of patients (mean age, 58 years; 46% female) were analyzed. At 90 days, fewer GLP-1RA users had emergency-department visits than non-users (8.9% vs. 10.7%, P=0.048). Despite higher HbA1c at each timepoint, GLP-1RA users showed a larger decline. At 2 years, GLP-1RA exposure was associated with fewer reoperations (5.2% vs. 6.9%, P=0.028), less frequent neuropathy (23.4% vs. 30.4%, P<0.001), and fewer inpatient admissions (14.6% vs. 17.2%, P=0.030). Major medical complications did not differ in occurrence between the groups. Conclusions Perioperative GLP-1RA therapy in diabetic patients undergoing CuTR correlated with fewer 90-day emergency visits and lower 2-year risks of revisional surgery and ICD-coded ulnar neuropathy (all-cause, non-adjudicated). These findings support a potential protective role of GLP-1RAs in this surgical population. Level of evidence III.",
+      "licence": "CCBYNC",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.602,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Optimal nerve release range and transposition distance in anterior ulnar nerve transposition for cubital tunnel syndrome: an anatomical study",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2666638325002415",
+      "publisher": "JSES International",
+      "year": "2025",
+      "doi": "10.1016/j.jseint.2025.07.003",
+      "abstract": "Background: Cubital tunnel syndrome, the second most common entrapment neuropathy, results from ulnar nerve compression at the medial epicondyle (ME). Conservative treatment often fails, requiring surgery. Transposition is an effective but invasive procedure, necessitating precise anatomical guidelines. We aimed to investigate the optimal anatomical measurements for ulnar nerve transposition to facilitate standardization of the technique. Methods: We examined 12 upper limbs from 6 fresh-frozen cadavers with elbows flexed at 60° and forearms supinated. The optimal transposition distance was defined as the distance from the ME to where the ulnar and median nerves run parallel. We measured this distance; pivot points A and B (where the ulnar nerve's course changes after transposition); crossing points over the medial intermuscular septum and flexors (A′, B′); and ulnar nerve branch positions from the inferior border of the ME. Results: After excluding 3 outliers using the interquartile range method, 10 limbs were analyzed. The transposition distance was 16.6 ± 3.3 mm. Pivot points A and B were 53.8 ± 6.5 mm and 50.2 ± 9.1 mm from the ME. Crossing points A′ and B′ were 39.6 ± 7.9 mm and 40.2 ± 6.7 mm. Nerve branches were 21.1 ± 6.0 mm, 32.4 ± 14.8 mm, and 50.9 ± 24.6 mm from the inferior border of the ME. Conclusion: Anterior transposition shifts the ulnar nerve 17 mm anterior to the ME. To prevent kinking, dissection should extend 54 mm proximally and 50 mm distally, totaling approximately 105 mm. These measurements can guide intraoperative planning and emphasize the need for direct visualization to ensure safe and effective anterior transposition.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "TUNNEL NEUROPATHIES OF THE UPPER EXTREMITIES: IMPROVING TREATMENT EFFICACY THROUGH ULTRASOUND THERAPY INTEGRATION",
+      "url": "https://zenodo.org/records/16527789",
+      "publisher": "ACADEMIC RESEARCH IN MODERN SCIENCE",
+      "year": "2025",
+      "doi": "10.5281/zenodo.16527789",
+      "abstract": "Tunnel syndromes of the upper extremities represent a group of compression-ischemic neuropathies caused by compression of peripheral nerves in anatomically narrow spaces. This pathology occupies a leading position in the structure of occupational diseases of the nervous system, comprising up to 35-40% of all cases of peripheral nerve damage in working-age individuals. Epidemiological studies in recent years indicate a steady increase in the incidence of tunnel syndromes, which is associated with changes in the nature of work activity, an increase in the proportion of work requiring prolonged static tension of the muscles of the hand and forearm, as well as the widespread introduction of computer technologies in professional activities. The most common forms are carpal tunnel syndrome (median nerve compression), cubital tunnel syndrome (ulnar nerve compression), and Guyon's canal syndrome. According to international statistical data, the incidence of carpal tunnel syndrome is 1-3 cases per 1000 population per year, with women suffering 3-5 times more often than men.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Anatomical Factors Affecting Ulnar Neuropathy",
+      "url": "https://zenodo.org/records/13244629",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.13244629",
+      "abstract": "Objective: To review the anatomical features of conventional sites of compression of ulnar nerve & discuss the probable influence on ulnar neuropathy. Methods: Total of 67 embalmed cadaveric upper limbs were studied in Dr. B.R. Ambedkar Medical College, Bengaluru, for the course of ulnar nerve in upper limb. special attentions were given to its course in arm underneath struthers arcade, at elbow in cubital tunnel& at hand in guyons canal. Results: Struthers arcade showed a 100% incidence, among which 86.7% is thickened form of intermuscular septum,19.2% was ligamentous at its distal end (internal brachial ligament). Osborne’s ligament continued from medial epicondyle to olecranon process to also connecting between FCU heads (62%), between FCU & FDP (22%), between FCU &PT (16%). The cubital tunnel roof was also reinforced by anconeus epitrochlear is in (17%) specimen. Conclusion: The different anatomical variants of these conventional sites of compression should be kept in mind which would help in the diagnostic & prognostic recovery of ulnar neuropathy.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Cubital Tunnel Syndrome Temporally after COVID-19 Vaccination",
+      "url": "https://www.mdpi.com/2414-6366/7/4/62",
+      "publisher": "Tropical Medicine and Infectious Disease",
+      "year": "2022",
+      "doi": "10.3390/tropicalmed7040062",
+      "abstract": "Coronavirus disease 2019 (COVID-19) is the most dramatic pandemic of the new millennium. To counter it, specific vaccines have been launched in record time under emergency use authorization or conditional marketing authorization and have been subjected to additional monitoring. The European Medicines Agency recommend reporting any suspected adverse reactions during this additional monitoring phase. For the first time in the available medical literature, we report a left cubital tunnel syndrome in a 28-year-old right-handed healthy male after seven days from the first dose of Spikevax ® (formerly Moderna COVID-19 Vaccine). Histochemistry for Alcian Blue performed on the tissue harvested from the cubital site reveals myxoid degeneration of the small nerve collaterals, a clear sign of nerve injury. It still remains unclear why the syndrome occurs in a localized and not generalized form to all osteofibrous tunnels. Today, modified messenger ribonucleic acid vaccines as Spikevax ® represent an avantgarde technological platform with a lot of potential, but one which needs careful monitoring in order to identify in advance those patients who may experience adverse events after their administration.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The ultrasonographic assessment of the morphologic changes in the ulnar nerve at the cubital tunnel in Japanese volunteers: relationship between dynamic ulnar nerve instability and clinical symptoms",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2666638321001547",
+      "publisher": "JSES International",
+      "year": "2021",
+      "doi": "10.1016/j.jseint.2021.05.005",
+      "abstract": "Background: We investigated the differences in the prevalence of ulnar nerve instability (UNI) by hand dominance and evaluated the relationship between UNI and morphologic changes in the ulnar nerve and the clinical findings and upper limb function. Methods: This study examined 153 healthy participants (n = 306 elbows; 44 men, 112 women; mean age 65.4 years) who underwent ultrasonography to assess the ulnar nerve cross-sectional area (UNCSA) at three points of the bilateral cubital tunnel at 30° of elbow flexion. Participants were divided into three groups based on the ultrasonography findings of UNI: no instability (type N), subluxation (type S), and dislocation (type D). For the dominant and nondominant sides, we assessed the relationship between the UNCSA and clinical factors, including the age, gender, height, weight, body mass index, fat mass, grip strength, key pinch strength, UNCSA, and Patient-Rated Elbow Evaluation score. Results: We identified 75 cases without instability in both elbows and 78 cases with some instability. The prevalence of UNI was 51%. No significant difference was found between hand dominance and the prevalence of UNI. The UNCSA at 1 cm proximal to the medial epicondyle on the bilateral sides in type S was the most increased among three types. Conclusion: UNI was identified in almost half of the participants, with no marked difference found in the hand dominance. The UNCSA at 1 cm proximal to the medial epicondyle was significantly increased the most in type S. UNI does not appear to be associated with elbow symptoms in the general population.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Signs and symptoms of acromegaly at diagnosis: the physician's and the patient's perspectives in the ACRO-POLIS study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329724/",
+      "publisher": "Endocrine",
+      "year": "2019",
+      "doi": "10.1007/s12020-018-1764-4",
+      "abstract": "Acromegaly is characterized by a broad range of manifestations. Early diagnosis is key to treatment success, but is often delayed as symptomatology overlaps with common disorders. We investigated sign-and-symptom associations, demographics, and clinical characteristics at acromegaly diagnosis.MethodsObservational, cross-sectional, multicenter non-interventional study conducted at 25 hospital departments in France that treat acromegaly (ClinicalTrials.gov: NCT02012127). Adults diagnosed with acromegaly<5 years were enrolled. Demographic and clinical data were obtained from medical reports and patient questionnaires. Sign-and-symptom associations were assessed by multiple correspondence analysis (MCA).ResultsOverall, 472 patients were included in the analyses. MCA was unsuccessful in identifying sign-and-symptom associations at diagnosis. Endocrinologists (29.5% patients) and other clinical specialists (37.2% patients) were commonly first to suspect acromegaly. Morphologic manifestations (83.7-87.9% patients), snoring syndrome (81.4% patients), and asthenia (79.2% patients) were frequently present at diagnosis; differences were found between sexes for specific manifestations. Rates of discrepancy between patient- and physician-reported manifestations were highest for functional signs. Earliest manifestations prior to diagnosis, according to how they were detected, were enlarged hands and feet (6.46.8 and 6.2 +/- 6.9 years, functional signs), hypertension (6.6 +/- 7.5 years, complementary examination) and carpal/cubital tunnel syndrome (5.7 +/- 6.7 years, functional signs with complementary examination).Conclusions Results confirm the broad range of manifestations at diagnosis and delay in recognizing the disease. We identified early manifestations and sex differences that may aid physicians in diagnosing acromegaly. Discrepancy rates suggest physicians should obtain the patient's perspective and seek functional signs during diagnosis.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "europepmc",
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Shear-wave elastography: a new potential method to diagnose ulnar neuropathy at the elbow",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223854/",
+      "publisher": "European radiology",
+      "year": "2018",
+      "doi": "10.1007/s00330-018-5517-9",
+      "abstract": "Objectives The primary aim of this study was to verify if shear-wave elastography (SWE) can be used to diagnose ulnar neuropathy at the elbow (UNE). The secondary objective was to compare the cross-sectional areas (CSA) of the ulnar nerve in the cubital tunnel and to determine a cut-off value for this parameter accurately identifying persons with UNE. Methods The study included 34 patients with UNE (mean age, 59.35 years) and 38 healthy controls (mean age, 57.42 years). Each participant was subjected to SWE of the ulnar nerve at three levels: in the cubital tunnel (CT) and at the distal arm (DA) and mid-arm (MA). The CSA of the ulnar nerve in the cubital tunnel was estimated by means of ultrasonographic imaging. Results Patients with UNE presented with significantly greater ulnar nerve stiffness in the cubital tunnel than the controls (mean, 96.38 kPa vs. 33.08 kPa, p Conclusions SWE seems to be a promising, reliable and simple quantitative adjunct test to support the diagnosis of UNE. Key points • SWE enables reliable detection of cubital tunnel syndrome • Significant increase of entrapped ulnar nerve stiffness is observed in UNE • SWE is a perspective screening tool for early detection of compressive neuropathies.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Evaluation of surgical methods for treatment of cubital tunnel syndrome - statistical perspectives",
+      "url": "https://hal.science/hal-01580757v1",
+      "publisher": "Clinical Trials in Orthopedic Disorders",
+      "year": "2017",
+      "doi": "10.4103/2542-4157.213690",
+      "abstract": "This commentary addresses strengths and weaknesses of the clinical trial study protocol designed by Liu et al., in particular with regard of the methodology, taking into consideration the commentary article \"Assessing surgical methods for treatment of cubital tunnel syndrome - which is the best?\" Our commentary emphasizes the importance of adjustment for known prognostic covariates, such as duration of symptoms and advanced age that have been negatively correlated with outcomes in previous studies. Subgroup analysis for the treatment groups of interest, namely moderate and severe cubital tunnel syndrome, which have previously shown conflicting differences in efficacy of surgical options is highly recommended. Intention-to-treat analysis is a preferable approach for the evaluation of primary outcome measures to lessen the bias. Use of well-validated composite outcome measure is strongly encouraged.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal",
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The feasibility of using high-resolution ultrasonography to assess ulnar nerve in patients with diabetes mellitus",
+      "url": "https://zenodo.org/records/1118505",
+      "publisher": "Journal of Ultrasonography",
+      "year": "2017",
+      "doi": "10.15557/JoU.2017.0024",
+      "abstract": "Objective: The aim of this study was to investigate the usefulness of high-resolution ultra­sonography for the diagnosis of polyneuropathy in diabetes mellitus patients by the exami­nation of the ulnar nerves. Method: We recruited 100 healthy age-matched volunteers (50 women and 50 men) with 200 arms without diabetes or cubital tunnel syndrome as the control group. We assessed the upper limbs of 100 diabetes mellitus patients (45 women and 55 men), 40 of whom had electrophysiologically confirmed diabetic peripheral neu­ropathy and 60 had no diabetic peripheral neuropathy in the upper limbs. Age, sex, height and weight were recorded and the cross-sectional area of the ulnar nerve was measured at every predetermined site. Results: The cross-sectional area of the ulnar nerve was measured at six sites (mid-humerus, inlet of the cubital tunnel, outlet of the cubital tunnel, upon the medial epicondyle, 6 cm upon the wrist crease and Guyon tunnel). The ulnar nerve in two measuring sites (mid-humerus, upon the medial epicondyle) in the control group showed a statistical difference between men and women (p < 0.05). There was no statistical difference in the cross-sectional area in the control group when dominant and non-dominant arms were compared. The cross-sectional area was larger in the diabetic peripheral neuropathy group in three sites (inlet of the cubital tunnel, outlet of the cubital tunnel, Guyon tunnel) compared with those in the control group. Conclusion: High-resolution ultrasonography may be helpful in the early diagnosis of peripheral neuropathy in diabetic patients.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Zespół rowka nerwu łokciowego – ocena efektów leczenia operacyjnego = Cubital tunnel syndrome - evaluation of the effects of surgical treatment",
+      "url": "https://zenodo.org/records/61845",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.61845",
+      "abstract": "Woźniak Kamila, Ratuszek-Sadowska Dorota, Śniegocki Maciej. Zespół rowka nerwu łokciowego – ocena efektów leczenia operacyjnego = Cubital tunnel syndrome - evaluation of the effects of surgical treatment. Journal of Education, Health and Sport. 2016;6(9):315-322. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.61845 http://ojs.ukw.edu.pl/index.php/johs/article/view/3804 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.08.2016. Revised 25.08.2016. Accepted: 06.09.2016. Zespół rowka nerwu łokciowego – ocena efektów leczenia operacyjnego Cubital tunnel syndrome - evaluation of the effects of surgical treatment Kamila Woźniak 1 , Dorota Ratuszek-Sadowska 2 , Maciej Śniegocki 1 Klinika Neurochirurgii, Neurotraumatologii i Neurochirurgii Dziecięcej, Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy, Uniwersytet Mikołaja Kopernika w Toruniu Katedra i Klinika Rehabilitacji, Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy, Uniwersytet Mikołaja Kopernika w Toruniu Streszczenie Wstęp Zespół rowka nerwu łokciowego jest to zespół chorobowy wywołany uciskiem na nerw łokciowy. Choroba najczęściej jest konsekwencją zwężenia kanału łokciowego (struktura anatomiczna utworzona przez nadkłykieć przyśrodkowy kości ramiennej, więzadło ramienno-łokciowe i rozcięgno położone pomiędzy głowami zginacza łokciowego nadgarstka). Przyczynami zwężenia są urazy, stany zapalne lub zmiany zwyrodnieniowe stawów. Cel pracy Celem niniejszej pracy była ocena efektów leczenia operacyjnego u pacjentów z zespołem rowka nerwu łokciowego bezpośrednio po zabiegu operacyjnym oraz w okresie 14 dni po zabiegu operacyjnym. Materiał i metody W okresie od stycznia 2012 roku do czerwca 2016 roku w Klinice Neurochirurgii, Neurotraumatologii i Neurochirurgii Dziecięcej Szpitala Uniwersyteckiego nr 1 w Bydgoszczy do zabiegu operacyjnego zakwalifikowano 20 chorych, u których stwierdzono jednostronny zespół rowka nerwu łokciowego o różnym stopniu nasilenia. Badanie skuteczności metody operacyjnej obejmowało ocenę obiektywnych i subiektywnych objawów klinicznych w okresie po zabiegu operacyjnym – w 1 i 14 dobie. Wyniki Analiza dotychczasowych wyników leczenia wykazała, że po zastosowanej metodzie u większości pacjentów następuje zmniejszenie bądź ustąpienie dolegliwości bólowych i zaburzeń wegetatywnych w obszarze zaopatrywanym przez nerw łokciowy oraz poprawa funkcji chorej ręki. Wnioski Zastosowane leczenie operacyjne jest skutecznym postępowaniem u chorych, u których zostały wyczerpane możliwości leczenia farmakologicznego oraz fizjoterapeutycznego. Ocena zależności efektów terapii wymaga dalszych badań na większej liczbie pacjentów. Słowa kluczowe: zespół rowka nerwu łokciowego, nerw łokciowy, leczenie operacyjne Abstract Introduction Cubital tunnel syndrome is a syndrome caused by compression of the ulnar nerve. The disease is most often the consequence of stenosis of the elbow (anatomic structure created by the medial epicondyle of the humerus, elbow-ligament brachiocephalic and aponeurosis situated between the heads of the flexor carpi ulnaris). The causes of stenosis are injuries, inflammation or degenerative arthritis. Aim of study The aim of this study was to evaluate the effects of surgical treatment of patients with cubital tunnel syndrome directly after surgery and during the 14 days after surgery. Materials and methods From January 2012 to June 2016 in the Department of Neurosurgery, Neurotraumatology and Pediatric Neurosurgery, Dr Antoni Jurasz University Hospital No.1 in Bydgoszcz 20 patients diagnosed with unilateral cubital tunel syndrome with varying degrees of severity were qualified to the surgery. Study the effectiveness of surgical method included an evaluation of objective and subjective clinical symptoms in the period after surgery – on 1 and 14 day. Results The analysis of the treatment results showed that the method used the majority of patients following a decrease or disappearance of pain and disorders vegetative in the area supplied by the ulnar nerve and improve the function of diseased hand. Conclusions The applied surgical treatment is an effective procedure for patients who have exhausted the possibility of pharmacological treatment and physiotherapy. The rating is based on the effects of the therapy needs further study on a larger number of patients. Key words : cubital tunnel syndrome, ulnar nerve, surgical treatment",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Linear regression analysis of Hospital Episode Statistics predicts a large increase in demand for elective hand surgery in England",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315884/",
+      "publisher": "Journal of plastic, reconstructive & aesthetic surgery : JPRAS",
+      "year": "2015",
+      "doi": "10.1016/j.bjps.2014.10.011",
+      "abstract": "Introduction We integrated two factors, demographic population shifts and changes in prevalence of disease, to predict future trends in demand for hand surgery in England, to facilitate workforce planning. Methods We analysed Hospital Episode Statistics data for Dupuytren's disease, carpal tunnel syndrome, cubital tunnel syndrome, and trigger finger from 1998 to 2011. Using linear regression, we estimated trends in both diagnosis and surgery until 2030. We integrated this regression with age specific population data from the Office for National Statistics in order to estimate how this will contribute to a change in workload over time. Results There has been a significant increase in both absolute numbers of diagnoses and surgery for all four conditions. Combined with future population data, we calculate that the total operative burden for these four conditions will increase from 87,582 in 2011 to 170,166 (95% confidence interval 144,517-195,353) in 2030. Discussion The prevalence of these diseases in the ageing population, and increasing prevalence of predisposing factors such as obesity and diabetes, may account for the predicted increase in workload. The most cost effective treatments must be sought, which requires high quality clinical trials. Our methodology can be applied to other sub-specialties to help anticipate the need for future service provision.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Asymmetric Nerve Enlargement: A Characteristic of Leprosy Neuropathy Demonstrated by Ultrasonography",
+      "url": "https://doi.org/10.1371/journal.pntd.0004276",
+      "publisher": "PLOS Neglected Tropical Diseases",
+      "year": "2015",
+      "doi": "10.1371/journal.pntd.0004276",
+      "abstract": "Background: Neurological involvement occurs throughout the leprosy clinical spectrum and is responsible for the most feared consequences of the disease. Ultrasonography (US) provides objective measurements of nerve thickening and asymmetry. We examined leprosy patients before beginning multi-drug therapy aiming to describe differences in US measurements between classification groups and between patients with and without reactions. Methodology/Principal Findings: Eleven paucibacillary (PB) and 85 multibacillary (MB) patients underwent nerve US. Twenty-seven patients had leprosy reactions (type 1, type 2 and/or acute neuritis) prior to US. The ulnar (at the cubital tunnel–Ut–and proximal to the tunnel–Upt), median (M) and common fibular (CF) nerves were scanned to measure cross-sectional areas (CSAs) in mm2 and to calculate the asymmetry indexes ΔCSA (absolute difference between right and left CSAs) and ΔUtpt (absolute difference between Upt and Ut CSAs). MB patients showed greater (p<0.05) CSAs than PB at Ut (13.88±11.4/9.53±6.14) and M (10.41±5.4/6.36±0.84). ΔCSAs and ΔUtpt were similar between PB and MB. The CSAs, ΔCSAs and ΔUtpt were similar between PB patients with reactions compared to PB patients without reactions. MB patients with reactions showed significantly greater CSAs (Upt, Ut and M), ΔCSAs (Upt and Ut) and ΔUtpt compared to MB patients without reactions. PB and MB showed similar frequencies of abnormal US measurements. Patients with reactions had higher frequency of nerve thickening and similar frequency of asymmetry to those without reactions. Conclusions/Significance: This is the first study to investigate differences in nerve involvement among leprosy classification groups using US before treatment. The magnitude of thickening was greater in MB and in patients with reactions. Asymmetry indexes were greater in patients with reactions and did not significantly differ between PB and MB, demonstrating that asymmetry is a characteristic of leprosy neuropathy regardless of its classification. Author Summary: Leprosy is an infectious disease that affects the peripheral nerves, leading to nerve thickening, asymmetry and dysfunction; therefore, early detection of leprosy neuropathy is important for preventing deformities and disabilities. We examined peripheral nerve involvement using ultrasonography (US) in 96 leprosy patients prior to treatment, aiming to better understand differences in neuropathy patterns between leprosy classification groups and between patients with and without leprosy reactions. Patients underwent bilateral US of the ulnar (at the cubital tunnel and proximal to the tunnel), median and common fibular nerves to measure thickening and asymmetry. We found that nerve thickening was more severe in patients with a high bacillary load (multibacillary) and in those with previous reactions. Nerve asymmetry measurements were greater in the patients with previous reactions. Asymmetry did not differ significantly between the paucibacillary and multibacillary patients, demonstrating that asymmetry is a characteristic of leprosy neuropathy regardless of its classification.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Compressive neuropathy in the upper limb",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3193641/",
+      "publisher": "Indian journal of plastic surgery : official publication of the Association of Plastic Surgeons of India",
+      "year": "2011",
+      "doi": "10.4103/0970-0358.85350",
+      "abstract": "Entrampment neuropathy or compression neuropathy is a fairly common problem in the upper limb. Carpal tunnel syndrome is the commonest, followed by Cubital tunnel compression or Ulnar Neuropathy at Elbow. There are rarer entities like supinator syndrome and pronator syndrome affecting the Radial and Median nerves respectively. This article seeks to review comprehensively the pathophysiology, Anatomy and treatment of these conditions in a way that is intended for the practicing Hand Surgeon as well as postgraduates in training. It is generally a rewarding exercise to treat these conditions because they generally do well after corrective surgery. Diagnostic guidelines, treatment protocols and surgical technique has been discussed.",
+      "licence": "cc by-nc-sa",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.04,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Cubital tunnel syndrome",
+      "url": "https://doi.org/10.1136/pgmj.2006.047456",
+      "publisher": "Oxford University Press (OUP)",
+      "year": "2007",
+      "doi": "10.1136/pgmj.2006.047456",
+      "abstract": "Abstract Cubital tunnel syndrome (CuTS) is the second most common compression neuropathy of the upper limb, presenting with disturbance of ulnar nerve sensory and motor function. The ulnar nerve may be dynamically compressed during movement, statically compressed due to reduction in tunnel volume or compliance, and tension forces may cause ischaemia or render the nerve susceptible to subluxation, further causing local swelling, compression inflammation and fibrosis. Superiority of one surgical technique for the management of CuTS has not been demonstrated. Different techniques are selected for different clinical situations with simple decompression being the most common procedure due to its efficacy and low complication rate. Adjunctive distal nerve transfer for denervated muscles using an expendable motor nerve to restore the axon population in the distal nerve is in its infancy but may provide a solution for severe intrinsic weakness or paralysis. Cite this article: EFORT Open Rev 2021;6:743-750. DOI: 10.1302/2058-5241.6.200129",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The cubital tunnel and ulnar neuropathy",
+      "url": "https://doi.org/10.1302/0301-620x.73b4.2071645",
+      "publisher": "British Editorial Society of Bone & Joint Surgery",
+      "year": "1991",
+      "doi": "10.1302/0301-620x.73b4.2071645",
+      "abstract": "The anatomy of the cubital tunnel and its relationship to ulnar nerve compression is not well documented. In 27 cadaver elbows the proximal edge of the roof of the cubital tunnel was formed by a fibrous band that we call the cubital tunnel retinaculum (CTR). The band is about 4 mm wide, extending from the medial epicondyle to the olecranon, and perpendicular to the flexor carpi ulnaris aponeurosis. Variations in the CTR were classified into four types. In type 0 (n = 1) the CTR was absent. In type Ia (n = 17), the retinaculum was lax in extension and taut in full flexion. In type Ib (n = 6) it was tight in positions short of full flexion (90 degrees to 120 degrees). In type II (n = 3) it was replaced by a muscle, the anconeus epitrochlearis. The CTR appears to be a remnant of the anconeus epitrochlearis muscle and its function is to hold the ulnar nerve in position. Variations in the anatomy of the CTR may explain certain types of ulnar neuropathy. Its absence (type 0 CTR) permits ulnar nerve displacement. Type Ia is normal and does not cause ulnar neuropathy. Type Ib can cause dynamic nerve compression with elbow flexion. Type II may be associated with static compression due to the bulk of the anconeus epitrochlearis muscle.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Natural History and Conservative Management of Cubital Tunnel Syndrome",
+      "url": "https://hal.science/hal-01631011v1",
+      "publisher": "Hand Clinics",
+      "year": "2007",
+      "doi": "10.1016/j.hcl.2007.05.002",
+      "abstract": "Cubital tunnel syndrome is the second most common nerve compression syndrome, second to carpal tunnel syndrome. It is, however, the most common site for ulnar nerve compression ). Accuracy in diagnosis is key in identifying the cubital tunnel as the site of compression, and, depending on the severity of the symptoms, nonoperative and operative treatment options have been proposed. In this chapter, we discuss the course of ulnar neuropathy caused by compression at the cubital tunnel and the conservative management of this syndrome. Although a consensus regarding duration of treatment, type of splinting, and degree of splinting is lacking, overall, a consistency in the support of the effectiveness of this modality in the spectrum of treatment options for cubital tunnel syndrome exists.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "hal",
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Management of Cubital Tunnel Syndrome in Split-Hand/Split-Foot Malformation: A Case Report and Review of Ulnar Nerve Dependence in Cleft Hand Prehension",
+      "url": "https://jocr.co.in/wp/2026/08/management-of-cubital-tunnel-syndrome-in-split-hand-split-foot-malformation-a-case-report-and-review-of-ulnar-nerve-dependence-in-cleft-hand-prehension/",
+      "publisher": "Journal of Orthopaedic Case Reports",
+      "year": "2026",
+      "doi": "10.13107/jocr.2026.v16.i08.7870",
+      "abstract": "Introduction: Split-hand/split-foot malformation (SHFM) is a congenital limb defect characterized by central ray deficiency, resulting in deep median clefts of the hands and/or feet. Due to the nature of the malformation, the outer digits – those predominantly innervated by the ulnar nerve – are typically spared. In patients who rely on central cleft adduction and abduction as a substitute for thumb-index opposition, the ulnar nerve may assume a disproportionately critical role in hand function. Case Report: We report a case of bilateral cubital tunnel syndrome (CubTS) in a 23-year-old patient with familial SHFM. We review the variable phenotypes of SHFM, the Manske and Halikis classification system, the clinical presentation and management of CubTS, and the functional anatomy of cleft closure. Conclusion: We argue that the prioritization of neuropathy treatment in patients with congenital hand malformations should be advanced, given their overreliance on different nerve–distributed musculature for essential hand function.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.94,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Ulnar Nerve Decompression: A Case Report",
+      "url": "https://zenodo.org/records/14101499",
+      "publisher": "International Journal of Medical Science and Clinical Research Studies",
+      "year": "2024",
+      "doi": "10.5281/zenodo.14101499",
+      "abstract": "Cubital tunnel syndrome is a condition characterized by ulnar nerve dysfunction at the elbow due to a combination of compression, traction and friction. It is the second most common condition of the ulnar nerve, behind carpal syndrome. The incidence rate is 21 cases per 100,000 people per year. Although electromyographic abnormalities are present in 33% of carpal syndrome cases, individuals with cubital tunnel syndrome are four times more likely to experience severe symptoms, such as muscle atrophy and reduced sensation. If left untreated, the syndrome can lead to irreversible loss of sensation, muscle weakness, and posterior joint contractures. A 54-year-old male with clinical manifestations presented for ulnar decompression. The procedure included medial and posterior ulnar nerve dissection, techno-epitrochlear olecranial dissection, ulnar nerve dissection, complete ulnar nerve dissection, and deformity in the arena region. Research has shown that simple decompression can have comparable results to more extensive surgeries. In a prospective, nonrandomized study, 51% of men and 70% of women who received surgical treatment for ulnar tibial syndrome were referred for a simple procedure. However, the cause of continued pain after a basic procedure remains unclear. Transposition has been used to treat inseparable ulnar nerves in some series, but its efficacy in other cases remains uncertain.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.86,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Occurrence of Cubital Tunnel Syndrome Due to a Synovial Cyst: A Case Report",
+      "url": "https://hal.science/hal-05346540v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2019",
+      "doi": "",
+      "abstract": "The cubital tunnel syndrome is a compressive neuropathy of the ulnar nerve around the elbow. It is the most common neurocompression syndrome in the upper limb after carpal tunnel syndrome. Ulnar nerve entrapment is usually located under the thickening of the proximal fascia between two heads of the ulnar flexor of the carpus, or in the arcade of Osborne at the distal part of the epicondylar curve. However, it can also be caused by occupying masses along the course of the nerve. This report shows a case of cubital tunnel syndrome caused by ulnar entrapment by a medial synovial cyst. Epidemiology, pathogenesis and diagnosis were discussed and literature was reviewed.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.66,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Supercharge end-to-side anterior interosseous to motor ulnar nerve transfer under robotic exoscopic visualization: Proof-of-concept illustrative case",
+      "url": "http://www.sciencedirect.com/science/article/pii/S221475192600006X",
+      "publisher": "Interdisciplinary Neurosurgery",
+      "year": "2026",
+      "doi": "10.1016/j.inat.2026.102199",
+      "abstract": "Herein, we report the first case of a supercharge end-to-side anterior interosseous to motor ulnar nerve transfer performed under exoscopic visualization, providing new insights that may help better define the role of high-definition robotic exoscopes in nerve transfer. The rationale for this procedure was based on the poor outcomes associated with nerve decompression at the elbow in cases of severe cubital tunnel syndrome. The end-to-side anterior interosseous to motor ulnar nerve transfer can promote reinnervation of the intrinsic muscles of the hand through both direct donor axon reinnervation and regeneration of native axons. In presenting this illustrative case, we observed specific benefits that the exoscope (Modus X, Synaptive, Canada) offers for this nerve transfer procedure: it facilitates identification and neurolysis of the motor fascicle bundle of the ulnar nerve; it allows rapid switching between micro and macro visualization and during microsuturing, it eliminates the need for frequent zoom and focus adjustments required by the microscope. Further studies are needed to clarify the benefits of the exoscope compared to established visualization tools and to determine the surgical settings in which it is best indicated.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Percutaneous ultrasound-guided ulnar nerve release technique compared to open technique: A cadaveric study",
+      "url": "https://hal.science/hal-03788677v1",
+      "publisher": "SICOT-J",
+      "year": "2022",
+      "doi": "10.1051/sicotj/2022041",
+      "abstract": "Objectives: To evaluate the outcomes of a novel percutaneous ultrasound-guided technique for release of ulnar nerve entrapment at the elbow when compared to standard open release Methods: One single surgeon performed an ultrasound-guided percutaneous release of the cubital tunnel on a group of five cadaveric elbows and open release on five others. All procedures were timed, and incision lengths were recorded. Meticulous anatomic dissection was then performed to assess the complete release of the carpal tunnel and iatrogenic injuries. Results: No significant difference was found between the two groups in terms of complete release and iatrogenic injury, whereas Operative time was significantly shorter for the US-guided technique. Incomplete releases of the nerve were found only during the first two trials in each group, while the third, fourth, and fifth trials showed a complete ulnar nerve release in both series, highlighting a fast learning curve for both techniques. All of this through a significantly smaller incision in the US-guided technique. Conclusions: This study highlights the similar effects of these two techniques in terms of complete release of the ulnar nerve, with no clear superiority of one over the other in terms of morbidity rate. Both have a fast learning curve for an ultrasound-trained surgeon, with the US-guided technique being a less traumatic and quicker alternative procedure.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Evaluation of the ulnar nerve with shear-wave elastography: a potential sonographic method for the diagnosis of ulnar neuropathy",
+      "url": "http://www.e-ultrasonography.org/upload/usg-20101.pdf",
+      "publisher": "Ultrasonography",
+      "year": "2021",
+      "doi": "10.14366/usg.20101",
+      "abstract": "Purpose This study was designed to verify whether shear-wave elastography (SWE) can be used to differentiate ulnar neuropathy at the cubital tunnel from asymptomatic ulnar nerve or medial epicondylitis. An additional aim was to determine a cut-off value to identify patients with ulnar neuropathy. Methods This study included 10 patients with ulnar neuropathy at the cubital tunnel as confirmed with electromyography (three women and seven men; mean age, 51.9 years), 10 patients with medial epicondylitis (nine women and one man; mean age, 56.1 years), and 37 patients with asymptomatic ulnar nerve and lateral epicondylitis (21 women and 16 men; mean age, 54.0 years). Each patient underwent SWE of the ulnar nerve at the cubital tunnel, distal upper arm, and proximal forearm. Results Patients with ulnar neuropathy at the cubital tunnel exhibited significantly greater mean ulnar nerve stiffness at the cubital tunnel (66.8 kPa) than controls with medial epicondylitis (21.2 kPa, P=0.015) or lateral epicondylitis (33.9 kPa, P=0.040). No significant differences were observed between patients and controls with regard to ulnar nerve stiffness at the distal upper arm or the proximal forearm. A stiffness of 31.0 kPa provided 100% specificity, 80.0% sensitivity, 100% positive predictive value, and 83.3% negative predictive value for the differentiation between ulnar neuropathy and medial epicondylitis. Conclusion Cubital tunnel syndrome is associated with a stiffer ulnar nerve than lateral or medial epicondylitis. SWE seems to be a new, reliable, and simple quantitative diagnostic technique to aid in the precise diagnosis of ulnar neuropathy at the cubital tunnel.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Open cubital and carpal tunnel release using wide-awake technique: reduction of postoperative pain",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6754514/",
+      "publisher": "Journal of pain research",
+      "year": "2019",
+      "doi": "10.2147/jpr.s210366",
+      "abstract": "Purpose This study aimed to compare the efficacy of and patient satisfaction with the wide-awake local anesthesia with no tourniquet (WALANT) technique in open cubital and carpal tunnel release surgery. Methods From January 2016 to February 2017, 20 cubital tunnel syndrome (CuTS) patients were in a wide-awake (WA) group and 22 in a general (GA) anesthesia group in . Also, 20 carpal tunnel syndrome (CTS) patients were in a WA group, 22 in a local anesthesia (LA) group, and 20 in a GA group. Injection pain, perioperative pain, and postoperative pain were assessed using a 10-point pain VAS. In CuTS, functional outcome on the \"quick\" Disabilities of the Arm, Shoulder, and Hand questionnaire were evaluated. In CTS, subjective outcomes were assessed using the Korean version of the Michigan Hand Outcomes Questionnaire. Results Both CuTS and CTS showed significant postoperative pain reduction in group WA. In CuTS, group WA had less pain than group GA up to 48 hours after surgery ( P P Conclusion Cubital and carpal tunnel surgery using the WALANT technique was comparable in function to other anesthesia methods and superior for pain. Immediate postoperative pain was much lower than other groups, which could reduce the use of opioids during hospitalization.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effective Conservative Treatment of Medial Epicondylitis with Physical Therapy–A Case Study",
+      "url": "https://hal.science/hal-05496459v1",
+      "publisher": "British Journal of Medicine and Medical Research",
+      "year": "2016",
+      "doi": "",
+      "abstract": "Background and Purpose: Like other common tendinopathies, there is debate as to whether medial epicondylitis and tendinitis treatment should focus on inflammation or degeneration management. This case study demonstrates the effectiveness of physical therapy when both are addressed. Case Description: A patient with bilateral medial epicondylitis and tendinitis recovered with physical therapy directed at both inflammatory and degenerative elements. Soft tissue manipulation, phonophoresis, and electrical stimulation were utilized at areas detected by microcurrent injury detection. Therapeutic exercise in the clinic and home were also utilized. Outcomes: In 11 treatments, strength increased from 4/5 to 5/5 or 5-/5. Pain decreased from 8/10 to 0/10 on Verbal Numerical Rating Scale (VNRS). Patient experienced full return to ADLs, no pain or restrictions. Discussion: Three aspects were unique to this case. First, soft tissue manipulation was used to palpate and remodel degenerative tissues. Second, microcurrent injury detection mapped out specific areas of injured tissues. Finally, modalities were applied to these specific areas, which changed from the flexor tendon and muscle to the proximal cubital tunnel. Used together, the patient experienced full recovery in a timely manner. This case suggests that tendinitis may be a combination of degenerative and inflammatory elements which should both be addressed in a treatment plan.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Diagnostic cutoff value for ultrasonography in the ulnar neuropathy at the elbow",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4414962/",
+      "publisher": "Annals of rehabilitation medicine",
+      "year": "2015",
+      "doi": "10.5535/arm.2015.39.2.170",
+      "abstract": "Objective To determine the diagnostic cutoff values of ultrasonographic measurements in ulnar neuropathy at the elbow (UNE). Methods Twenty-five elbows of 23 patients (9 females, 16 males) diagnosed with UNE and 30 elbows of 30 healthy controls (15 females, 15 males) were included in our study. The ulnar nerve cross-sectional area (CSA) was measured at the Guyon canal, midforearm, and maximal swelling point (MS) around the elbow (the cubital tunnel inlet in healthy controls). CSA measurements of the ulnar nerve at each point, the Guyon canal-to-MS ulnar nerve area ratio (MS/G), and the midforearm-to-MS ulnar nerve ratio (MS/F) were calculated. Results Among the variables, only CSA at MS, MS/G, and MS/F displayed significant differences between the control and patient groups. The cutoff value for diagnosing UNE was 8.95 mm(2) for the CSA at MS (sensitivity 93.8%, specificity 88.3%), 1.99 for the MS/G (sensitivity 75.0%, specificity 73.3%), and 1.48 for the MS/F (sensitivity 93.8%, specificity 95.0%). Conclusion These findings may be helpful to diagnose UNE.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Development of a self-administered questionnaire to screen patients for cervical myelopathy",
+      "url": "http://www.biomedcentral.com/1471-2474/11/268",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2010",
+      "doi": "10.1186/1471-2474-11-268",
+      "abstract": "Abstract Background In primary care, it is often difficult to diagnose cervical myelopathy. However, a delay in treatment could cause irreversible aftereffects. With a brief and effective self-administered questionnaire for cervical myelopathy, cervical myelopathy may be screened more easily and oversight may be avoided. As there is presently no screening tool for cervical myelopathy, the aim of this study was to develop a self-administered questionnaire for the screening of cervical myelopathy. Methods A case-control study was performed with the following two groups at our university hospital from February 2006 to September 2008. Sixty-two patients (48 men, 14 women) with cervical myelopathy who underwent operative treatment were included in the myelopathy group. In the control group, 49 patients (20 men, 29 women) with symptoms that could be distinguished from those of cervical myelopathy, such as numbness, pain in the upper extremities, and manual clumsiness, were included. The underlying conditions were diagnosed as carpal tunnel syndrome, cubital tunnel syndrome, thoracic outlet syndrome, tarsal tunnel syndrome, diabetes mellitus neuropathy, cervical radiculopathy, and neuralgic amyotrophy. Twenty items for a questionnaire in this study were chosen from the Japanese Orthopaedic Association Cervical Myelopathy Evaluation Questionnaire, which is a new self-administered questionnaire, as an outcome measure for patients with cervical myelopathy. Data were analyzed by univariate analysis using the chi-square test and by multiple logistic regression analysis. According to the resulting odds ratio, β-coefficients, and p value, items were chosen and assigned a score. Results Eight items were chosen by univariate and multiple logistic regression analyses and assigned a score. The Hosmer-Lemeshow statistic showed p = 0.805. The area under the receiver operation characteristic curve was 0.86. The developed questionnaire had a sensitivity of 93.5% and a specificity of 67.3%. Conclusions We successfully developed a simple self-administered questionnaire to screen for cervical myelopathy.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Ulnar Tunnel Syndrome Caused by Neurofibroma in the Elbow: A Case Report",
+      "url": "https://hal.science/hal-05134347v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2024",
+      "doi": "",
+      "abstract": "Purpose: compression of the ulnar nerve at the elbow is the second nerve entrapment syndrome of the upper limb, often idiopathic, neurofibroma of the ulnar nerve is an exceptional cause of this syndrome. Case Report: A 55-year-old man presented with progressive numbness and weakness of the right ring finger and the right little finger for one year. A provisional diagnosis of cubital tunnel syndrome was made according to physical examination and electrophysiological studies. The magnetic resonance imaging showed a nodular lesions over ulnar aspect of the right elbow, which was demonstrated to be a neurofibroma by histopathology. The patient had moderate improvement after surgical decompression of the right cubital tunnel. Conclusion: This case illustrates the heterogeneous group of pathologies causing peripheral neuropathy. The diagnosis of ulnar nerve neurofibroma with ulnar tunnel syndrome was made carefully according to clinical manifestations as well as a series of electrophysiological, imaging, and pathological studies.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.86,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Features of Management in Elderly Patients with Compression-Ischemic Neuropathy of the Ulnar Nerve",
+      "url": "https://www.geriatr-news.com/jour/article/view/561",
+      "publisher": "Российский журнал гериатрической медицины",
+      "year": "2025",
+      "doi": "10.37586/2686-8636-2-2025-292-293",
+      "abstract": "BACKGROUND. In compressive-ischemic neuropathy of the ulnar nerve at the level of the cubital tunnel (cubital tunnel syndrome, CTS), surgical decompression is most effective. However, long-term surgical outcomes for CTS in elderly patients remain insufficiently studied.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.6,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

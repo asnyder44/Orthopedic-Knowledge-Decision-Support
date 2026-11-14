@@ -1,0 +1,926 @@
+{
+  "term": "Open Reduction and Internal Fixation",
+  "collected": "2026-11-14",
+  "count": 51,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Comparison of complications of early and delayed open reduction and internal fixation for treating pilon fracture: A protocol of systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0258962",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0258962",
+      "abstract": "Background: Tibial Pilon fractures are severe fractures accompanied by soft tissue injury. Although open reduction and internal fixation (ORIF) are effective in treating Pilon fractures, there is a controversy over time to surgery due to reported postoperative complications. However, there is no systematic review evaluating the difference of postoperative complications between early and delayed ORIF for treating pilon fractures. Methods: Relevant literature written in English will be searched through PubMed, Cochrane Library, Embase, MEDLINE, and Web of Science. The study aims to compare the effects and complications of early and delayed ORIF for treating fresh pilon fractures in adult patients. The primary outcome will be infection rate, fracture union time, nonunion and malunion rate. And the secondary outcome will be metalwork removal, amputation, and ankle function grade. Two reviewers will independently assess the eligibility of the studies according to the pre-defined inclusion and exclusion criteria. A meta-analysis for the available data will be conducted using Revman 5.3. To measure effect size, odds ratios (ORs) and mean difference will be used for dichotomous and continuous data, respectively. Statistical heterogeneity will be explored. And a random-effects model or a fixed-effects will be used in pooled data on the basis of the existence or absence of heterogeneity. Subgroup analysis will be conducted to identify sources of heterogeneity and sensitivity analysis to test the results’ robustness. We will assess the risk of bias by four different quality assessment tools according to the study design. Publication bias will be evaluated by funnel plot. The study data will be stored in the Open Science Framework website. PROSPERO registration number: CRD42020207465",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.94,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Syndesmotic fixation in Weber B ankle fractures: A systematic review",
+      "url": "https://doi.org/10.1371/journal.pone.0304148",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0304148",
+      "abstract": "Weber Type B fractures often arise from external rotation with the foot supinated or pronated. Altered tibiofibular joint kinematics in Weber B fractures are responsible for syndesmotic damage seen in Weber B fractures. Weber B fractures are managed using open reduction and internal fixation if displaced. The syndesmosis is injured in up to 40% of cases resulting in an unstable injury with a syndesmotic diastasis. This systematic review aimed to evaluate the current literature on syndesmotic fixation in Weber B fractures, assess the outcomes and complications of syndesmotic fixation and assess the necessity of syndesmotic fixation in Weber B fractures. A search was carried out on the EMBASE, PubMed and CINAHL databases and eight studies assessing the outcomes of syndesmotic fixations versus no syndesmotic fixation with 292 Weber B ankle fractures were included in this systematic review. Results showed significant heterogeneity so a narrative review was conducted. Results of these studies showed that functional, radiological, and quality-of-life outcomes and incidences of post-traumatic osteoarthritis in patients with syndesmotic screws were similar to those of patients not managed with syndesmotic screws. Only one favoured syndesmotic fixation in all cases of diastasis. As such, syndesmotic fixation with screws may not be necessary in the management of Weber B fractures. Screws are also associated with breakage, loosening, local irritation and infections. Suture button devices and antiglide fixation techniques appear to be valid alternatives to syndesmotic screws. It was found that there was no need for routine hardware removal unless the hardware was causing significant side effects for the patient.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.06,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison between open reduction with internal fixation to circular external fixation for tibial plateau fractures: A systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0232911",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0232911",
+      "abstract": "Peer-reviewed published studies on tibial plateau fractures treated with either open reduction with internal fixation (ORIF) or circular external fixation were reviewed to compare functional, radiological outcomes, postoperative complications, and reoperation rates between the two methods. A systematic search of various databases including Medline, Cochrane Controlled Register of Trials (CENTRAL), ScienceDirect, and Google Scholar from inception until June 2019 was performed. 17 studies with 1168 participants were included in the review. Most of the studies (76%) were retrospective in nature and had low or unclear bias risks. Incidence of total infection (Odds ratio [OR], 2.58; 95% CI, 1.33–5.02) and malunions (OR, 2.56; 95% CI, 1.12–5.84) were higher and length of hospital stay was shorter in patients treated with circular external fixator (Mean difference [MD], -6.1; 95% CI, -11.1–-1.19). There were no differences in the incidence of secondary osteoarthritis (OR, 1.49; 95% CI, 0.92–2.42), range of motion (MD, 2.28; 95% CI, -11.27–15.82) non-union (OR, 1.44; 95% CI, 0.14–14.27) and reoperation rates (OR, 1.84; 95% CI, 0.90–3.78) between the two groups. Results from this investigation suggest that circular fixation may offer some advantages over ORIF such as a shortened length of hospital stay and early return to preinjury activities. Definitive clinical recommendations cannot be made as it also presents higher rates of postoperative complications than ORIF.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.9,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effectiveness and Safety of Interventions for Treating Adults with Displaced Proximal Humeral Fracture: A Network Meta-Analysis and Systematic Review",
+      "url": "https://doi.org/10.1371/journal.pone.0166801",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0166801",
+      "abstract": "Purpose: Network meta-analysis (NMA) is a comparatively new evidence-based technique in medical disciplines which compares the relative benefits associated with multiple interventions and obtains hierarchies of these interventions for various treatment options. We evaluated the effectiveness and safety of open reduction and internal fixation (ORIF), hemiarthroplasty (HA), reverse shoulder arthroplasty (RSA), intramedullary nailing (IN) and non-operative treatment (NOT) of displaced proximal humeral fractures in adults using Bayesian NMA of data from clinical trials. Method: PUBMED, EMBASE and CENTRAL in July 2016 were searched and clinical trials that evaluated interventions for treating adults with displaced proximal humeral fractures were identified. Methodological qualities of studies were assessed by the Newcastle—Ottawa Scale and risk of bias using the Cochrane Collaboration tool. Result: Thirty-four trials involving 2165 participants were included in the study. RSA had significantly the highest Constant score and lower total incidence of complications than ORIF, HA and IN. Moreover, RSA resulted in a lower incidence of additional surgery than ORIF and IN. The rank of treatments in terms high Constant score was: RSA, ORIF, IN, NOT and HA. The rank for reduction in total incidence of complications was: RSA, NOT, HA, IN and ORIF. For lowering the risk of additional surgery, the rank was: RSA, NOT, HA, IN and ORIF. Conclusion: RSA had the highest probability for improving functional outcome and reduction in the total incidence of complications and requiring additional surgery among the five interventions for treating adults with displaced proximal humeral fracture.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.74,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Weight-bearing and mobilization in the postoperative care of ankle fractures: a systematic review and meta-analysis of randomized controlled trials and cohort studies",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4335061/",
+      "publisher": "PloS one",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0118320",
+      "abstract": "Purpose: To determine the effectiveness and safety of interventions used for rehabilitation after open reduction and internal fixation of ankle fractures. Methods: A systematic review and meta-analysis was performed using both randomized trials and cohort studies. The effect of mobilization, weight-bearing, and unprotected weight-bearing as tolerated on postoperative recovery was compared using the Olerud Molander score, return to work/daily activities, and the rate of complications. Results: A total of 25 articles were included. Ankle exercises resulted in earlier return to work and/or daily activities compared to immobilization (mean difference (MD) -20.76 days; 95% confidence interval (CI) -40.02 to -1.50). There was no difference in the rate of complications between exercises and immobilization (risk ratio (RR) 1.22; 95% CI 0.60 to 2.45) or between early and late weight-bearing (RR 1.26; 95%CI 0.56 to 2.85). Interpretation: Results of this meta-analysis show that following ankle surgery, 1) active exercises accelerate return to work and daily activities compared to immobilization, 2) early weight-bearing tends to accelerate return to work and daily activities compared to late weight-bearing. Active exercises in combination with immediate weight-bearing may be a safe option.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.7,
+      "providers": [
+        "europepmc",
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Internal Fixation Versus Nonoperative Treatment for Displaced 3-Part or 4-Part Proximal Humeral Fractures in Elderly Patients: A Meta-Analysis of Randomized Controlled Trials",
+      "url": "https://doi.org/10.1371/journal.pone.0075464",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0075464",
+      "abstract": "Background: A few studies focused on open reduction and internal fixation (ORIF) or nonoperative treatment of displaced 3-part or 4-part proximal humeral fractures in elderly patients have been published, all of whom had a low number of patients. In this meta-analysis of randomized controlled trials (RCTs), we aimed to assess the effect of ORIF or nonoperative treatment of displaced 3-part or 4-part proximal humeral fractures in elderly patients on the clinical outcomes and re-evaluate of the potential benefits of conservative treatment. Methods: We searched PubMed and the Cochrane Central Register of Controlled Trials databases for randomized controlled trials comparing ORIF and nonoperative treatment of displaced 3-part or 4-part proximal humeral fractures in elderly patients. Our outcome measures were the Constant scores. Conclusions: Although our meta-analysis did not support the treatment of open reduction and internal fixation to improve the functional outcome when compared with nonoperative treatment for treating elderly patients with displaced 3-part or 4-part proximal humeral fractures, this result must be considered in the context of variable patient demographics. Only a limited recommendation can be made based on current data. Considering the limitations of included studies, a large, well designed trial that incorporates the evaluation of clinically relevant outcomes in participants with different underlying risks of shoulder function is required to more adequately assess the role for ORIF or nonoperative treatment.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.62,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Le Fort I-II Fracture Management: Case Based Literature Review",
+      "url": "https://zenodo.org/records/14466359",
+      "publisher": "International Journal of Medical Science and Clinical Research Studies",
+      "year": "2024",
+      "doi": "10.5281/zenodo.14466359",
+      "abstract": "Introduction: Midfacial fractures are among the most severe injuries encountered in emergency settings due to the risk of functional impairment and facial deformities. The Le Fort classification remains the most commonly used system for categorizing these fractures. Treating Le Fort II fractures is particularly complex due to the involvement of the orbital and nasal bones, along with the critical need to restore proper occlusion. Achieving pre-trauma occlusion is often the most difficult aspect of treating facial fractures. Case Presentation: This study reported a 28-year-old Asian male was brought to the Emergency Room of Bali Mandara General Hospital by a bystander following a motorcycle accident in which he struck a pedestrian. He was diagnosed with Le Fort I-II and a right orbital floor fracture. The patient underwent surgery, including open reduction and internal fixation using miniplates and screws. The procedure successfully restored the patient’s occlusion, and no reported postoperative complications. Discussion: The diagnosis of Le Fort fractures is based on patient history, physical examination, and imaging studies. Identifying a pterygoid fracture is essential for diagnosing all types of Le Fort fractures. Prompt definitive treatment is critical to prevent long-term facial deformities. Conclusion: Achieving proper occlusion is a marker of accurate alignment in managing facial fractures. Emphasizing functional restoration and deformity prevention significantly improves patient recovery and results.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Skeletal Traction Followed by Plaster of Paris vs Open Reduction and Internal Fixation – Comparison of the Functional and Radiological Outcome of the Two Treatment Modalities in Schatzker Type V and VI Tibial Fractures",
+      "url": "https://zenodo.org/records/8401473",
+      "publisher": "Zenodo",
+      "year": "2023",
+      "doi": "10.5281/zenodo.8401473",
+      "abstract": "Abstract Background: The management of Schatzker type V and VI tibial plateau fractures is controversial and challenging with no specific and proven treatment protocol developed so far. Objective: To compare the functional and radiological outcomes of Schatzker type V and VI tibial fractures for the two currently employed treatment modalities. Methods: It was a quasi-experimental study conducted at Orthopedics department. Patients were admitted through ER and OPD of Mayo hospital Lahore over a period of 1 year. Total 84 patients were included in the study. Patients were divided into two groups. Patients in Group A were managed with skeletal traction for 2 weeks followed by plaster of Paris back splint applied for next 2 weeks followed by plaster of Paris casting for stabilization of the fracture for another next 4 weeks. Patients in Group B were managed with ORIF by wires, screws or plates. Functional and Radiographic evaluations were performed to assess pain, range of motion weight bearing and fracture union in each follow-up visit Results: In this study functional outcome of patients was significantly better and higher in patients who were treated with ORIF technique Conclusion: ORIF is more effective for treating Schatzker type V and VI tibial fracture in terms of functional and radiological outcome as that skeletal traction followed by plaster of Paris casting.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Open reduction and internal fixation of displaced proximal humeral fractures. Does the surgeon‘s experience have an impact on outcomes?",
+      "url": "https://doi.org/10.1371/journal.pone.0207044",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0207044",
+      "abstract": "Introduction: To evaluate outcomes following open reduction and internal fixation of displaced proximal humeral fractures with regards to the surgeon’s experience. Material and methods: Patients were included undergoing ORIF by use of locking plates for displaced two-part surgical neck type proximal humeral fractures. Reduction and functional outcomes were compared between procedures that were conducted by trauma surgeons [TS], senior (>2 years after board certified) trauma surgeons [STS] and trauma surgeons performing ≥50 shoulder surgeries per year [SS]. Quality of reduction was measured on postoperative x-rays. Functional outcomes were assessed by gender- and age-related Constant Score (nCS). Secondary outcome measures were complication and revision rates. Results: Between 2002–2014 (12.5 years) n = 278 two-part surgical neck type humeral fractures (AO 11-A2, 11-A3) were included. Open reduction and internal fixation was performed with the following educational levels: [TS](n = 68, 25.7%), [STS](n = 110, 41.5%) and [SS](n = 77, 29.1%). Functional outcome (nCS) increased with each higher level of experience and was significantly superior in [SS] (93.3) vs. [TS] (79.6; p = 0.01) vs. [STS] (83.0; p = 0.05). [SS] (7.8%) had significantly less complications compared with [TS] (11.3%; p = 0.003) and [STS](11.7%; p = 0.01) moreover significantly less revision rates (3.9%) vs. [TS](8.2%) and [STS](7.4%) (p<0.001). Primary revision was necessary in 13 cases (4.7%) due to malreduction of the fracture. Conclusion: Quality of reduction and functional outcomes following open reduction and internal fixation of displaced two-part surgical neck fractures are related to the surgeon’s experience. In addition, complications and revision rates are less frequent if surgery is conducted by a trauma surgeon performing ≥50 shoulder surgeries per year.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Fragility fractures of the sacrum: how to identify and when to treat surgically?",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4523697/",
+      "publisher": "European journal of trauma and emergency surgery : official publication of the European Trauma Society",
+      "year": "2015",
+      "doi": "10.1007/s00068-015-0530-z",
+      "abstract": "The increasing prevalence of fragility fractures of the sacrum (FFS) occurring predominantly in osteoporotic individuals poses a diagnostic and therapeutic challenge. The clinical presentation varies from longstanding low back pain without the patient remembering a traumatic event to immobilized patients after suffering a low-energy trauma. FFS are often combined with a fracture of the anterior pelvic ring; hence they are classified as a part of fragility fractures of the pelvis (FFP). If not displaced, the patients are treated with weight bearing as tolerated and analgesics; however, we advocate to treat displaced fractures surgically according to the fracture personality and the patient's comorbidities. Surgical options include minimal invasive sacro-iliac screws, trans-sacral bar osteosynthesis, open reduction and internal fixation, or spinopelvic stabilization. In the light of the high complication rate associated with immobilized patients, an operative approach often is indicated to accelerate the patient's mobility.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Intramedullary nail fixation for tibial plateau fractures: a systematic review of techniques and outcomes",
+      "url": "http://journals.lww.com/10.1097/OI9.0000000000000494",
+      "publisher": "OTA International",
+      "year": "2026",
+      "doi": "10.1097/OI9.0000000000000494",
+      "abstract": "Abstract. Objectives:. To evaluate the surgical techniques, outcomes, and complications of intramedullary nail (IMN) fixation for tibial plateau fractures (TPFs). Methods:. Data Sources:. The MEDLINE, Embase, Google Scholar, and Cochrane databases were systematically searched up to January 2025, following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Study Selection:. Studies reporting outcomes of IMN fixation in adult TPF patients were included. Biomechanical analyses, animal studies, and non-English articles were excluded. Data Extraction:. Study quality was assessed using the Methodological Index for Nonrandomized Studies (MINORS) criteria. Data on surgical technique, radiographic outcomes, functional outcomes, and complications were extracted. Studies were categorized by whether they used supplemental plate fixation. Data Synthesis:. Descriptive statistics summarized outcomes. Results:. Ten studies met inclusion criteria, including 2 comparative studies, 7 case series, and one case report. Fifty-two TPFs were treated with IMN with or without percutaneous screws (group 1), 45 with IMN with supplemental plate fixation (group 2), 30 with IMN plus condylar bolt support (group 3), and 78 with open reduction and internal fixation alone (group 4). Groups 1 and 3 had a combined infection rate of 2.4%, a mean bony union time of ≤4 months, and good-to-excellent knee scores. Three cases of malalignment and knee pain in 11% were reported. Group 2 had a 2.2% infection rate, no malalignment, and knee pain in 15.6%. No cases of nonunion or malunion were observed in TPFs treated with a IMN construct. Conclusions:. In the TPF patterns represented in the available literature, predominantly bicondylar Schatzker V/VI (OTA/AO 41-C) fractures, IMN with or without supplemental plating or condylar bolt fixation demonstrated clinical and radiographic outcomes comparable to open reduction and internal fixation. These findings should not be extrapolated to isolated unicondylar TPFs or to fractures with relative contraindications to IMN, such as severe articular impaction requiring bone grafting, medial plateau fracture-dislocations, or tibial tubercle involvement. Additional controlled trials are required to further define the role of IMN in TPFs. Level of Evidence:. Therapeutic Level IV.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.14,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Management of femoral neck fractures in young adults",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759588/",
+      "publisher": "Indian journal of orthopaedics",
+      "year": "2008",
+      "doi": "10.4103/0019-5413.38574",
+      "abstract": "Femoral neck fractures in young adults are uncommon and often the result of high-energy trauma. They are associated with higher incidences of femoral head osteonecrosis and nonunion. Multiple factors can play a significant role in preventing these devastating complications and contribute to a good outcome. While achieving an anatomic reduction and stable internal fixation are imperative, other treatment variables, such as time to surgery, the role of capsulotomy and the fixation methods remain debatable. Open reduction and internal fixation through a Watson-Jones exposure is the recommended approach. Definitive fixation can be accomplished with three cannulated or noncannulated cancellous screws. Capsulotomy in femoral neck fractures remains a controversial issue and the practice varies by trauma program, region and country. Until there is conclusive data (i.e. prospective and controlled) we recommend performing a capsulotomy. The data available is inconclusive on whether this fracture should be operated emergently, urgently or can wait until the next day. Until there is conclusive data available, we recommend that surgery should be done on an urgent basis. The key factors in treating femoral neck fractures should include early diagnosis, early surgery, anatomic reduction, capsular decompression and stable internal fixation.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Outcome of Open Reduction and Internal Fixation versus Hemiarthroplasty in Proximal Humerus Complex Fractures",
+      "url": "https://journals.lww.com/10.4103/jodp.jodp_24_24",
+      "publisher": "Journal of Orthopaedic Diseases and Traumatology",
+      "year": "2024",
+      "doi": "10.4103/jodp.jodp_24_24",
+      "abstract": "Background: This study compares open reduction and internal fixation (ORIF) versus hemiarthroplasty (HA) in the management of complex proximal humerus fractures. MATERIALS AND METHODS: Neer three- and four-part fracture-dislocations, surgical neck fracture-dislocations with severe articular impaction, and any head-split fracture treated surgically at our institution were studied retrospectively. Constant–Murley scores, Disability of the Arm, Shoulder, and Hand (DASH), American Shoulder and Elbow Surgeons (ASES) Shoulder, and 36-item Short-Form Health Survey (SF-36) scores were obtained and compared between ORIF versus HA treatment. Results: Thirty patients were included in the analysis: 15 treated with ORIF were compared to 15 treated with HA with an average follow-up of 60 months. The mean Constant score (72 ± 15 vs. 54 ± 19; P = 0.005), DASH score (13 ± 17 vs. 29 ± 18; P = 0.006), ASES score (87 ± 13 vs. 66 ± 22; P = 0.003), and SF-36 physical composite score (PCS) (50 ± 11 vs. 40 ± 11; P = 0.02) all favored the ORIF group. Because of the potential confounding variable posed by including younger patients, we performed a subgroup analysis of patients older than 50 years. In this group, the Constant, DASH, ASES, and PCS scores remained significantly better in the ORIF group. Conclusion: Results of this retrospective study show improved patient-reported outcomes and quality of life scores in patients undergoing ORIF for complex proximal humerus fractures as compared to patients undergoing HA, despite a higher revision rate in the ORIF cohort. When considering patients older than 50 years, outcomes after ORIF were better than HA.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Surgical Management of Clavicle Fracture: Functional Outcome of Open Reduction and Internal Fixation",
+      "url": "https://hal.science/hal-05241676v1",
+      "publisher": "HAL open archive",
+      "year": "2024",
+      "doi": "",
+      "abstract": "Background: Clavicle fracture is one of common bony injury; which is more common in young active individual. It accounts for approximately 5% to 10% of all fracture and up to 44% of injuries of shoulder girdle. It has been traditionally treated with non-operative method. This present study evaluates the role of the surgical management in the fresh middle third clavicle fracture. Methods: 30 adult patients (21 male and 9 female) of the average age of 32 years presented with fresh middle third clavicle fracture treated surgically with open reduction and internal fixation with plate and screws and followed. This study was conducted between November 2011 to November 2012. Results: In 27 patients, fracture were united at end of 12 weeks, in 2 patients, fracture were united at end of 24 weeks and 1 patient went for non-union. One patient had superficial infection. None of them had deep infection. One patient had plate loosening at 4week but fracture was united at the end of 24 weeks. 2 patients had persistent pain which is controlled with occasional analgesic but not effecting ordinary work. One patient had gross restriction of shoulder movement. Functional outcome assessed according to near shoulder scoring system. 24 patients had excellent result, 4 patients had satisfactory result, 1 patient had unsatisfactory result and 1 patient had failure. The advantage of rigid internal fixation and early mobilisation of fresh displaced clavicle fracture is that it gives immediate pain relief and prevents the development of shoulder stiffness and non-union. Conclusions: The study showed rigid fixation with plate and screw for fresh middle third clavicle fracture especially displaced and comminuted give immediate pain relief and prevent the development of shoulder stiffness &non-union and give good functional outcome.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The sinus tarsi approach in displaced intra-articular calcaneal fractures: a systematic review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080500/",
+      "publisher": "International orthopaedics",
+      "year": "2011",
+      "doi": "10.1007/s00264-011-1223-9",
+      "abstract": "Purpose Although open reduction and internal fixation is currently considered the gold standard in surgical treatment of displaced intra-articular calcaneal fractures, various different approaches exist including the limited lateral approach. The aim of this systematic review was to combine the results of studies using the sinus tarsi approach, which is the most frequently applied limited lateral approach. Method A literature search in the electronic databases of the Cochrane Library and Pubmed Medline, between January 1st 2000 to December 1st 2010, was conducted to identify studies in which the sinus tarsi approach or a modified sinus tarsi approach was utilized for the treatment of displaced intra-articular calcaneal fractures. The methodological quality of the included studies was assessed using the Coleman methodology score. Results A total of eight case series reporting on 256 patients with 271 calcaneal fractures was identified. Overall good to excellent outcome was reached in three-quarters of all patients. An average complication rate of minor wound complications of 4.1% was reported and major wound complications in 0.7%. The need for a secondary subtalar arthrodesis occurred at an average rate of 4.3%. The average Coleman methodology score was 56.8 (range 39-72) points. Conclusion The results, i.e. functional outcome and complication rates, of the sinus tarsi approach compare similarly or favourably to the extended lateral approach. Therefore, in the process of tailoring the best treatment modality to the right patient and the right fracture type, the sinus tarsi approach might be a valuable asset.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.54,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Fractures of the Scapula: Results and Functional Outcomes of Operative Treatment",
+      "url": "https://zenodo.org/records/12904389",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2023",
+      "doi": "10.5281/zenodo.12904389",
+      "abstract": "Introduction: Scapula fractures are uncommon and usually caused due to high-energy trauma. Although most scapular fractures do not require surgery; highly displaced and malunited fractures of the scapula can lead to pain and poor functional outcome. Some recent studies have demonstrated that operative treatment can lead to superior functional recovery and improved outcomes. The indications for surgical treatment of scapular fractures, however, remain controversial. The aim of this study was to describe the surgical technique and report patient-based functional outcomes and complications following open reduction and internal fixation in patients with scapular fractures. Material and Methods: The study comprised of 12 patients admitted in our hospital between January 2019 to December 2021 with scapula fracture meeting the inclusion criteria. After pre-operative X-ray and CT scan of scapula with 3D reconstruction Fractures were classified according to the revised (AO/OTA) classification system, after which surgery was carried out on these patients. An extensile or modified Judet approach was used depending on fracture configuration. The fracture was fixed using various combination of 3.5 locking and non-locking plates and lag screws. Patients were followed up for minimum of 12 months. Functional outcomes were measured using UCLA shoulder rating scores. Results: Mean age of patients was 33 years (range 25-45 years). Mode of injury was road traffic accident in 8 cases, fall in 3 cases and sports injury in 1 case. All patients underwent surgery for scapula fracture. Postoperative radiographs demonstrated restoration of anatomic alignment, length, and translation. All fractures maintained fixation and reduction. No implant failures or loosening or infection was noted. All fractures united clinically and radiologically at 6 months follow-up. The mean shoulder range of motion at the time of final follow-up was 155 O (range, 90 O to 178 O ) of forward flexion, 104 O (range 80 O to 122 O ) of abduction, and 50 O (range 40 O to 70 O ) of external rotation. The outcome was measured using the UCLA Shoulder rating scale. The mean score in our group was 32 (ranging between 20-35). 9 patients have excellent outcome, 2 had good results and 1 had poor results in our study. Conclusion: We thus conclude that open reduction and internal fixation of displaced scapular fractures is a reliable, effective and safe treatment option, which leads to good to excellent functional outcomes and reliable union rate.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Outcome of Vertical Versus Horizontal Incision in Fracture Clavicle Fixation Regarding Soft Tissue Complications",
+      "url": "https://zenodo.org/records/10005619",
+      "publisher": "Academic Journal of Medical Sciences",
+      "year": "2023",
+      "doi": "10.5281/zenodo.10005619",
+      "abstract": "O utcome of Vertical Versus Horizontal Incision in Fracture Clavicle Fixation Regarding Soft Tissue Complications Zryan Hussein Ismael, Abdulkadr Muhammed Sleman Alany, Dedawan Namiq Rasul Abstract: Background: It have been demonstrated that open reduction and internal fixation of the clavicle fracture produces better results than non-operative care. Various incisions are being utilized, depending on the surgeon, to treat clavicle fractures. Objectives: The aim of this study was to compare the efficiency and results of soft tissue complication in vertical versus horizontal incision during fracture clavicle fixation is the goal. Patients and methods: our cross-sectional study analysis with a total 60 number of patients, with age more than 16 years old, underwent clavicle fracture fixation by two orthopedic surgeons. between February 2022 to February 2023 in Erbil hospitals (Erbil city). Patients were split into two groups: necklace incision groups and longitudinal incision groups. Participants answered survey questions, medical records were examined. Functional and scar score were used statistical significance was recognized. Results: Clavicle fracture more common in male than female (85% versus 15%). More common in meddle third 56.7% than in distal third which is 43.3%. Although field difficulties were more noticeable and less familiar to surgeons, we discovered that vertical incisions were more liked aesthetically and had less iatrogenic nerve damage than horizontal ones (zero to 20%). Scar length was shorter in vertical (6.63cm versus 10.2 cm) in transferase incision with p value <0.001. both cosmetic scar score was high significantly better in vertical incision in deference in horizontal incision with p value <0.001. Conclusion: Both groups' shoulder function, radiological union rate, overall major complications were the same. minor complication and patient satisfaction with the scar were comparable. Keywords : Clavicle fractures, Clavicle surgical incision, Wound complication Citations: Ismael Z.H, Alany A.M.S, Rasul D.NOutcome of Vertical Versus Horizontal Incision in Fracture Clavicle Fixation Regarding Soft Tissue Complications. AJMS 2023; 9 (4): 48-57 DOI: 10.5281/zenodo.10005619",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Comparative evaluation of bite force between healthy individuals and treated cases of isolated mandibular fractures",
+      "url": "https://zenodo.org/records/6510091",
+      "publisher": "Global Journal of Research in Dental Sciences",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6510091",
+      "abstract": "Aim and objectives: To compare the bite forces between healthy individuals and treated cases of isolated mandibular fractures. Material and method: This prospective study consisted of 10 patients with isolated mandibular fractures, requiring open reduction and internal fixation (ORIF) with miniplates for study group. Control group consisted 10 healthy individuals with. Each group consisted individual with the age ranging from 18 to 60 years. The bite force was measured by the digital gnathodynamometer, immediately after IMF removal at 2nd, 4th, 8th week’s interval and 3, 6, 9 months. Result: Bite force generated by patients treated with ORIF with miniplates remains low as compared to normal healthy individual till 4th post-operative week. From 4th week to 9 months it steadily increases. It was also noticed that the increase in the bite force values from 3 to 9 months was less compared with other individuals. Conclusion: It was observed in our study that mandibular fractures have a negative impact on maximum bite forces. Bite forces bring the body closer to normal over time, but it does not totally restore normaly.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Referral pattern of oral and maxillofacial surgery cases in Sudan: A retrospective age-and sex-specific analysis of 3,478 patients over four years",
+      "url": "https://doi.org/10.1371/journal.pone.0249140",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0249140",
+      "abstract": "Oral and maxillofacial surgery (OMFS) is a specialty widening in its scope. An objective analysis of the referral pattern can provide essential information to improve healthcare. This four-year retrospective study was implemented in Khartoum Teaching Dental Hospital. Data (age, sex, diagnosis, and type of treatment) were collected from patient records. Disease frequency, as well as the effect of sex and age, were analyzed for each group. The frequency of treatment types was also assessed. Data were collected from a total of 3,478 patients over the four-year study period. There was a male predominance with the third decade of life being the most common age group. Pathological diseases were the most common (37%) reason for referral, followed by trauma (31%). Temporomandibular joint (TMJ) disorders and dentoalveolar extraction were the least frequently observed. Open reduction and internal fixation (ORIF) was the most commonly performed procedure (28%). These data represent the epidemiology of oral and maxillofacial diseases in Sudan. Given that the third decade of life is the most represented age group, it is beneficial to learn the long-term consequences of these diseases in these young patients and to use modern surgical techniques to improve their lives.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Prospective Study on Functional Outcome of Open Reduction and Internal Fixation of Acetabular Fractures",
+      "url": "https://hal.science/hal-05330849v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2020",
+      "doi": "",
+      "abstract": "The current study is a prospective study on the functional outcome of open reduction and internal fixation of acetabular fractures. About 30 patients were analyzed for the functional outcome of acetabular fractures treated by open reduction and internal fixation over a period of one year and eight months from March 2017 to October 2018 with a minimum follow up period of 9 months at Sree Balaji Medical College & Hospital, Chromepet, Chennai. The mean age of the patient was 37.96 year ranging from 20 - 60 years. The Joel Matta score was used for calculation of radiological outcome of 30 patients. The results were excellent in 19 (66.3%), good in 8 (26.6%), fair in 3 (10%), and poor in 0 (0%) patients. Functional outcome of displaced acetabular fractures more than 2 mm displacement was found to have excellent results on open reduction and internal fixation.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Comparative Study between Minimally Invasive Percutaneous Plate Osteosynthesis and Open Reduction Internal Fixation For Management Of Proximal Humerus Fracture",
+      "url": "https://zenodo.org/records/3969778",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2020",
+      "doi": "10.5281/zenodo.3969778",
+      "abstract": "Background: Fractures of the proximal humerus comprise nearly 4% of all fractures and 26% of fracture of humerus. Surgical options ranges from open reduction internal fixation (ORIF), intramedullary device fixation, external fixation to hemi arthroplasty. We compared the clinical and radiological outcomes of minimal invasive plate osteosynthesis (MIPO) and open reduction and internal fixation (ORIF) in patients with proximal humerus fractures. Material & Methods: This prospective study included 24 patients with 2 part and 3 part proximal humerus fracture treated with ORIF or MIPO technique, with 12 patients in each group. A matched pair analysis was performed and patients were followed up for 3 months, 6 months and 12 months both radiographically and clinically using Constant and Murley score. Results: The average of patients was 47.2 years. Average blood loss and mean duration of surgery was 287.50 ml and 102.9 mins, in ORIF group and 198.33 ml and 93.75 mins in MIPO group. The mean Constant Murley Score at 12 months in the MIPO group was 77.00, while in the ORIF group it was 72.33. MIPO group experienced significantly less pain, higher satisfaction in activities of daily living, and greater range of motion. In the MIPO group, only one patient had infection whereas in ORIF group three patients, had complications with one each having infection, varus collapse and malunion Conclusion: The use of MIPO with a locking compression plate in the management of proximal humerus fractures is a safe and superior option compared to ORIF.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Treatment of Periprosthetic Femoral Fractures Vancouver Type B2: Revision Arthroplasty Versus Open Reduction and Internal Fixation With Locking Compression Plate",
+      "url": "https://doi.org/10.1177/2151459319876859",
+      "publisher": "Geriatric Orthopaedic Surgery & Rehabilitation",
+      "year": "2019",
+      "doi": "10.1177/2151459319876859",
+      "abstract": "Introduction: The Vancouver algorithm recommends revision arthroplasty (RA) for Vancouver type B2 (VTB2) fractures. However, open reduction and internal fixation (ORIF) using locking compression plates (LCP) may be a valid and less invasive alternative treatment. Materials and Methods: Between January 2007 and March 2017, we retrospectively recruited all patients treated with either ORIF with LCP or RA for VTB2 fractures in our clinic. All of the following were reviewed: the length of hospital stay, the operating time, the need for blood transfusions during and/or after surgery, implant-related and patient-related complications, need for revision surgery, and the radiological outcome. Additionally, the functional outcome was investigated. Results: Fifty-nine patients were recruited. Thirty-five (59.3%) patients underwent RA, while 24 (40.7%) patients received ORIF with LCP. The median surgical time was 137.50 minutes in the LCP group compared to 160.00 minutes in the RA group ( P = .051). Three (12.5%) patients in the LCP group and 10 (28.6%) patients in the RA group experienced an implant-associated complication ( P = .131). Patient-related complications occurred in 3 (12.5%) patients in the LCP group versus 6 (17.1%) patients in the RA group ( P = .628). The mean preoperative Parker mobility score was 9 points in both groups and decreased in both groups to a mean of 5 points in the LCP and 7 points in the RA group. Discussion: Open reduction and internal fixation with LCP seems to be a less invasive procedure for VTB2 fractures in comparison to RA. It is a bone-sparing procedure that can be advantageous for further revision operations. Moreover, some fractures can only be anatomically reduced by ORIF with LCP, whereas for proximal fractures with a radiologically unambiguously loosened stem RA might be advantageous. Conclusion: In line with previously published studies, our data suggest that ORIF using LCP is a valid treatment option for VTB2 fractures.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Limited Open Reduction and Internal Fixation of Calcaneal Fractures",
+      "url": "https://doi.org/10.1177/1071100719873273",
+      "publisher": "SAGE Publications",
+      "year": "2019",
+      "doi": "10.1177/1071100719873273",
+      "abstract": "Background: The treatment of displaced intra-articular calcaneal fractures remains a challenge and the optimal approach is still controversial. The main reason to avoid the extended lateral approach is the high complication rate due to wound healing problems. We report on 16 years of experience with a standardized limited open reduction and internal fixation technique. Methods: Between 2001 and 2017, we prospectively followed 240 consecutive patients operatively treated for a displaced intra-articular calcaneal fracture. Patients with open, multiple, bilateral, extra-articular, and Sanders IV fractures and those lost to follow-up were excluded. A lateral subtalar approach was used, with a cast for 8 weeks and full weightbearing allowed after 12 weeks. Follow-up examinations were scheduled until 24 months. Subjective and clinical assessment included gait abnormality, subtalar and ankle range of motion, and stability and alignment. The American Orthopaedic Foot & Ankle Society (AOFAS) hindfoot score was calculated. Alignment was analyzed on standard radiographs. In total, 131 patients were excluded. The remaining 109 patients were followed for a minimum of 24 months (34.4 ± 14.2 [range, 24-102] months). Results: The mean AOFAS score was 87 ± 13 (range, 32-100). “Excellent” and “good” results, as well as hindfoot motion with “normal/mild” and “moderate” restrictions, were seen in 80% of patients. Early reoperations were performed for insufficient reduction (2 patients), delayed wound healing (debridement, 3 patients), and hematoma (1 patient). Late revisions were arthrodesis (3 patients), medializing calcaneal osteotomy (1 patient), and implant removal (53 patients; 49%). Conclusion: The presented approach has remained unmodified for 16 years and resulted in consistently good functional results. The main disadvantage was the high rate of heel screw removal. Level of Evidence: Level IV, retrospective case series.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Incidence and risk factors for surgical site infection after open reduction and internal fixation of ankle fracture: A retrospective multicenter study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839807/",
+      "publisher": "Medicine",
+      "year": "2018",
+      "doi": "10.1097/md.0000000000009901",
+      "abstract": "Information on surgical site infection (SSI) after surgical treatment of ankle fracture is limited and remains controversial. The purpose of the present study was to determine the incidence and risk factors for SSI after open reduction and internal fixation (ORIF) of ankle fracture. Patients who underwent ORIF for ankle fracture at 3 centers between January 2015 and December 2016 were included. The potential risk factors for SSI included demographic variables, including age, sex, body mass index (BMI), hypertension, diabetes mellitus, heart disease, smoking, and excessive alcohol intake; blood test variables including preoperative white blood cell count, neutrophil count, red blood cell count, hemoglobin, total protein, albumin and globulin; injury- and surgery-related variables, including duration of operation (minutes), intraoperative blood loss, surgeon level, fracture site, accompanied dislocation, use of a drainage tube, and antibiotic use. Factors related with SSI occurrence were investigated by univariate analysis, and then by multivariate analysis. During hospitalization, 4.37% (66/1511) of patients developed SSI, which was deep in 1.32% (20/1510) and superficial in 3.05% (46/1510). The most common causative agent was polymicrobial (causing approximately half of all SSIs), followed by methicillin-resistant Staphylococcus aureus (MRSA). Multivariate analysis revealed that the significant risk factors for SSI occurrence were open injury, advanced age, incision cleanliness II - IV, high-energy injury, more experienced surgeon level, greater BMI, chronic heart disease, history of allergy, and preoperative neutrophil count > 75%. Preoperative preventative measures should be taken in patients with these conditions to lower the incidence of SSI after ORIF of ankle fracture. Level of evidence Level III - Retrospective Comparative Study.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Humeral shaft fractures: national trends in management",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5585093/",
+      "publisher": "Journal of orthopaedics and traumatology : official journal of the Italian Society of Orthopaedics and Traumatology",
+      "year": "2017",
+      "doi": "10.1007/s10195-017-0459-6",
+      "abstract": "Background The incidence of humeral shaft fractures has been increasing over time. This represents a growing public health concern in a climate of cost containment. The purpose of this study is to analyze national trends in surgical management of humeral shaft fractures and determine factors predictive of surgical intervention. Materials and methods Humeral shaft fractures were identified by the International Classification of Diseases, Ninth Revision, Clinical Modification codes 812.21 and 812.31 in the United States Nationwide Inpatient Sample from 2002 to 2011. Open reduction and internal fixation (ORIF) was identified by code 79.31 (ORIF, humerus). Other case codes analyzed were 79.01 (closed reduction without internal fixation), 79.11 (closed reduction with internal fixation), and 79.21 (open reduction without internal fixation). Multivariate regression analysis was utilized to determine predictive factors for utilization of ORIF. Results 27,908 humeral shaft fractures were identified. Utilization of ORIF increased from 47.2% of humeral shaft fractures in 2002 to 60.3% in 2011. Demographically, patients who underwent ORIF were younger (51.5 versus 59.7 years, p Conclusion Utilization of ORIF for humeral shaft fractures has been steadily increasing with time. Surgical intervention was more common with younger patients, female gender, private insurance, and larger hospital size. The increasing incidence of surgical management for humeral shaft fractures may represent a public health burden given the historical success of non-operative management. Level of evidence IV.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Timing of Open Reduction and Internal Fixation of Ankle Fractures",
+      "url": "https://doi.org/10.1177/2473011417s000388",
+      "publisher": "SAGE Publications",
+      "year": "2017",
+      "doi": "10.1177/2473011417s000388",
+      "abstract": "Category: Ankle, Trauma Introduction/Purpose: Unstable ankle fractures are typically treated with open reduction and internal fixation (ORIF) for stabilization in an effort to ultimately prevent post-traumatic arthritis. It is not uncommon for operative treatment to be performed as an outpatient in the ambulatory surgery setting several days to a couple weeks after the injury to facilitate things from a scheduling perspective. It is unclear what effect this delay has on functional outcome. The purpose of this study is to assess the impact of delayed operative treatment by comparing the functional outcomes for groups of patients based on the amount of time between the injury and surgery. Methods: A retrospective chart review of 122 ankle fracture patients who were surgically treated by ORIF over a three year period was performed. All ankle fracture patients older than 18 years with a minimum of 24 months of follow-up were included. A total of 61 patients were included for this study. Three patients were excluded; 2 patients had an open injury and 1 patient presented with a delayed union. Demographic data, comorbidities, injury characteristics, duration from injury to surgery, operative time, length of postoperative stay, complications and functional outcomes were recorded. Functional outcome was determined by Foot and Ankle Outcome Score (FAOS) at the latest follow-up visit. Comparison of demographic variables and the subcategory of FAOS including symptoms, pain, activities of daily living (ADL), sport activity and quality of life (QOL) was performed between patient underwent ORIF less than 14 days after injury and 14 days or greater. Results: A total of 58 patients were included in this study. Thirty-six patients (62.1%) were female. The mean age of patients was 48.14 ± 16.84 years (19-84 years). The mean follow-up time was 41.48 ± 12.25 months (24-76 months). The duration between injury and operative fixation in the two groups was 7 ± 3 days (<14 days) and 18 ± 3 days (>14 days), respectively. There was no statistically significant difference in demographic variables, comorbidities, injury characteristics, or length of operation. Each subcategory of FAOS demonstrated no statistically significant difference between these two groups. (Table 1) Additionally, further analysis for the delayed fixation more than 7 days and 10 days also revealed no significant difference of FAOS. Conclusion: Open reduction and internal fixation of ankle fracture more than 14 days does not significantly diminish functional outcome according to FAOS. Delay of ORIF for ankle fractures does not play a significant role in the long-term functional outcome.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Clinical pathways for fragility fractures of the pelvic ring: personal experience and review of the literature",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4306730/",
+      "publisher": "Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association",
+      "year": "2015",
+      "doi": "10.1007/s00776-014-0653-9",
+      "abstract": "Fragility fractures of the pelvic ring (FFP) are increasing in frequency and require challenging treatment. A new comprehensive classification considers both fracture morphology and degree of instability. The classification system also provides recommendations for type and invasiveness of treatment. In this article, a literature review of treatment alternatives is presented and compared with our own experiences. Whereas FFP Type I lesions can be treated conservatively, FFP Types III and IV require surgical treatment. For FFP Type II lessions, percutaneous fixation techniques should be considered after a trial of conservative treatment. FFP Type III lesions need open reduction and internal fixation, whereas FFP Type IV lesions require bilateral fixation. The respective advantages and limitations of dorsal (sacroiliac screw fixation, sacroplasty, bridging plate fixation, transsacral positioning bar placement, angular stable plate) and anterior (external fixation, angular stable plate fixation, retrograde transpubic screw fixation) pelvic fixations are described.",
+      "licence": "cc by-nc-nd",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Short-Term Outcomes of Hip Fractures in Patients Aged 90 Years Old and Over Receiving Surgical Intervention",
+      "url": "https://doi.org/10.1371/journal.pone.0125496",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0125496",
+      "abstract": "Background: The knowledge about short-term outcomes of nonagenarians undergoing surgery for hip fracture in Asian is limited. Methods: The patients with hip fractures who underwent hip hemiarthroplasty and open reduction with internal fixation (ORIF) for management during the period from 2008 to 2012 were identified and their medical record was retrospectively reviewed. Results: During the study period, a total of 101 patients underwent surgery for management of hip fractures, and the age of patients ranged from 90 to 96 years. The sites of hip fracture were intertrochanteric (n = 57, 56.4%) and the neck of the femur (n = 44, 43.6%). Most of the patients had American Society of Anesthesiologists scores of 3(n = 55) or 4 (in 44 patients). 80.2% (n = 81) underwent the operation within one day after admission; however, there were 13 patients (12.9%) that underwent surgery 48 or more hours later. ORIF and hemiarthroplasty were performed for 63 (62.4%) and 38 (37.6%) patients, respectively. Overall, the 30-day and 1-year mortality rates were 9.9% (10/101) and 17.3% (13/75), respectively. Multivariate analysis showed that the 30-day mortality was significantly associated only with end-stage renal disease (ESRD) (Odds ratio, 11.13, 95% confidence interval, 1.275–97.881, P = .029). Conclusions: The short-term outcome of surgical management for Asian nonagenarians with hip fractures is favorable in selected patients.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Treatment of Mandibular Condyle Fractures Using a Modified Transparotid Approach via the Parotid Mini-Incision: Experience with 31 Cases",
+      "url": "https://doi.org/10.1371/journal.pone.0083525",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0083525",
+      "abstract": "Surgery for mandibular condyle fractures must allow direct vision of the fracture, reduce surgical trauma and achieve reduction and fixation while avoiding facial nerve injury. This prospective study was conducted to introduce a new surgical approach for open reduction and internal fixation of mandibular condyle fractures using a modified transparotid approach via the parotid mini-incision, and surgical outcomes were evaluated. The modified transparotid approach via the parotid mini-incision was applied and rigid internal fixation using a small titanium plate was carried out for 36 mandibular condyle fractures in 31 cases. Postoperative follow-up of patients ranged from 3 to 26 months; in the first 3 months after surgery, outcomes for all patients were analyzed by evaluating the degree of mouth opening, occlusal relationship, facial nerve function and results of imaging studies. The occlusal relationships were excellent in all patients and none had symptoms of intraoperative ipsilateral facial nerve injury. The mean degree of mouth opening was 4.0 (maximum 4.8 cm, minimum 3.0 cm). No mandibular deviations were noted in any patient during mouth opening. CT showed complete anatomical reduction of the mandibular condyle fracture in all patients. The modified transparotid approach via the smaller, easily concealed parotid mini-incision is minimally invasive and achieves anatomical reduction and rigid internal fixation with a simplified procedure that directly exposes the fracture site. Study results showed that this procedure is safe and feasible for treating mandibular condyle fracture, and offers a short operative path, protection of the facial nerve and satisfactory aesthetic outcomes.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.12,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Incidence of Clavicular Fractures and Its Management in Northern Ghana",
+      "url": "https://zenodo.org/records/7976",
+      "publisher": "Zenodo",
+      "year": "2013",
+      "doi": "10.5281/zenodo.7976",
+      "abstract": "Background: Fractures of the clavicle are common especially among young adults who are the work force in many developing countries, including Ghana. The incidence of clavicular fracture varies and the methods of treatment which is determine by the classification, age, fracture characteristics and the patients preference also varies although clavicular fractures are traditionally treated non-operatively. In the northern part of Ghana fractures are very common yet there has not been any study on the incidence of clavicular fractures and the preferred mode of treatment. Aim: The aim of the present study is to retrospectively investigate the incidence of clavicular fracture and the preferred mode of management among fracture patients over a five year period. Study Design: Retrospective Place and Duration of Study: Tania specialist Orthopaedic Hospital, Tamale, Ghana. Methodology: Data regarding patient's age and sex, laterality involved, cause of injury and the mode of management of the fracture from January, 2007 to December, 2012 were analysed. Results: The incidence of clavicular fracture over the study period was 12.8% of all fractured cases. Majority of the subjects (71.4%) with clavicular fractures were aged 21 to 40 years. Old cases constituted 58.9% whiles only 41.1% of the cases were fresh fractures. About 70% of the old cases were people who had received management from traditional bonesetters. The fracture occurred on the clavicle of the right arm in 60.7% of the patients. Middle third fractures accounted for 78.6% with only 21.4% occurring on the distal third of the clavicle. The major cause of clavicular fractures in this study was road traffic accident constituting 83.0% followed by a fall from heights 11.6%. Conclusion: The incidence of clavicular fracture among the study subject was relatively high. Road traffic accidents were the most common cause of the injury and the preferred mode of management is the operative management using open reduction and internal fixation (ORIF).",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.12,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Floating knee injuries: Results of treatment and outcomes",
+      "url": "https://zenodo.org/records/7854326",
+      "publisher": "Zenodo",
+      "year": "2013",
+      "doi": "10.5281/zenodo.7854326",
+      "abstract": "Background: Floating knee, referred to as ipsilateral fractures of the femur and tibia, is usually associated with several complications and mortality. This study was designed to present our experience with treatment of this injury throughout; age, sex, mechanism of injury, associated injuries, method and results of treatment, and complications of floating knee are discussed. Materials and Methods: This retrospective study was performed between January 2006 and December 2011. All patients with floating knee injuries who were admitted to the referral educational hospitals were included. The information about the 238 cases of floating knee injuries were gathered through the 254,620 trauma files and after excluding 18 patients who died within 6 months, the remaining files were studied and the target information was recorded. Results: The most frequent age group was 20-29 years (44.5%). The floating knee injuries were more common in males (85.5%). Type (D) according to “the classification of Letts and Vincent” was observed in 38.9% cases. The most frequent mechanism of injury was car to motorcycles accidents (48.2%). The most common associated injury was pelvic fractures (86.8%). Open reduction and internal fixation was the common type of treatment (70%). The most common early and late complications were knee hemarthrosis in 31 cases (14%) and knee osteoarthritis in 30 cases (13.6%), respectively. Death during the 5 years follow up was due to circulatory disruption, followed by deep vein thrombosis (61%). There was a significant relation between the age and outcomes as it worsens with age (P-value < 0.05). Conclusion: This study revealed that the complication rate associated with floating knee injuries remained high, regardless of the used treatment regimen and surgeons should focus on reducing complications while treating it.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.12,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Open reduction and internal fixation of acetabular fractures",
+      "url": "https://doi.org/10.1007/s002640050275",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "1998",
+      "doi": "10.1007/s002640050275",
+      "abstract": "Between 1982 and 1995, 84 patients with displaced acetabular fractures underwent open reduction and internal fixation in our institution. The mean follow-up was 5.5 years with a minimum of 2 years. There were 33 simple and 51 complex fractures according to the classification of Judet and Letournels. Reduction after operation was anatomical in 49% of the patients, satisfactory in 24%, and unsatisfactory in 27%. Using Merle d'Aubigné's scale, the clinical results were excellent in 39% of the patients, good in 29%, fair in 8%, and poor in 24%. Factors of statistical significance associated with a poor clinical outcome were T-shaped fractures, unsatisfactory reduction (> 3 mm residual displacement), age > 40 years and development of avascular necrosis. Acetabular surgery is demanding, and a high rate of complications can be expected. Trauma centres should designate a group of surgeons who will consistently treat these fractures in order to obtain more experience and better results.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Acute Primary Total Hip Arthroplasty Combined with Open Reduction and Internal Fixation of the Posterior Acetabular Wall for Ipsilateral Femoral Neck Fracture Following a High-energy Fall: A Case Report",
+      "url": "https://hal.science/hal-05682737v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Aims: To report a rare case of combined ipsilateral femoral neck fracture and posterior acetabular wall fracture following a high-energy fall, managed acutely with simultaneous open reduction and internal fixation (ORIF) of the posterior acetabular wall and total hip arthroplasty (THA) via a Kocher-Langenbeck approach. Presentation of Case: A 49-year-old male with no significant past medical history presented after a 3-metre fall and sustained a comminuted right distal radius fracture, managed with an external fixator at admission, together with an ipsilateral femoral neck fracture and posterior acetabular wall fracture. The patient underwent acute primary uncemented THA combined with posterior acetabular wall fixation using a reconstruction plate via a Kocher-Langenbeck approach in a single surgical session. At 12-month follow-up, the patient demonstrated satisfactory functional recovery with stable implant fixation, no evidence of loosening, osteolysis or dislocation, and progressive return to daily activities, with a Harris Hip Score of 88 (compared with 42 in the immediate postoperative period) and a pain-free hip range of motion of 0–100° flexion. Discussion: This injury combination is rare and surgically challenging. Simultaneous ORIF of the acetabular wall and acute THA may avoid the risks of avascular necrosis, non-union and secondary arthroplasty procedures associated with isolated osteosynthesis of such complex fracture patterns. Conclusion: Acute primary THA combined with posterior acetabular wall fixation is a viable one-stage surgical solution in selected patients with ipsilateral femoral neck and posterior acetabular wall fractures following high-energy trauma, enabling early functional recovery and avoiding staged procedures.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.94,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Reverse Shoulder Arthroplasty Is Superior to Plate Fixation at 2 Years for Displaced Proximal Humeral Fractures in the Elderly: A Multicenter Randomized Controlled Trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7508281/",
+      "publisher": "The Journal of bone and joint surgery. American volume",
+      "year": "2020",
+      "doi": "10.2106/jbjs.19.01071",
+      "abstract": "Background Almost one-third of patients with proximal humeral fractures are treated surgically, and the number is increasing. When surgical treatment is chosen, there is sparse evidence on the optimum method. The DelPhi (Delta prosthesis-PHILOS plate) trial is a clinical trial comparing 2 surgical treatments. Our hypothesis was that reverse total shoulder arthroplasty (TSA) yields better clinical results compared with open reduction and internal fixation (ORIF) using an angular stable plate. Methods The DelPhi trial is a randomized controlled trial comparing reverse TSA with ORIF for displaced proximal humeral fractures (OTA/AO types 11-B2 and 11-C2) in elderly patients (65 to 85 years of age). The primary outcome measure was the Constant score at a 2-year follow-up. The secondary outcome measures included the Oxford Shoulder Score and radiographic evaluation. Results were reported as the mean difference with 95% confidence interval (CI). The intention-to-treat principle was applied for crossover patients. Results There were 124 patients included in the study. At 2 years, the mean Constant score was 68.0 points (95% CI, 63.7 to 72.4 points) for the reverse TSA group compared with 54.6 points (95% CI, 48.5 to 60.7 points) for the ORIF group, resulting in a significant mean difference of 13.4 points (95% CI, 6.2 to 20.6 points; p Conclusions At a 2-year follow-up, the data suggested an advantage of reverse TSA over ORIF in the treatment of displaced OTA/AO type-B2 and C2 proximal humeral fractures in elderly patients. Level of evidence Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "licence": "cc by-nc-nd",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.8,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The Ankle Injury Management (AIM) trial: a pragmatic, multicentre, equivalence randomised controlled trial and economic evaluation comparing close contact casting with open surgical reduction and internal fixation in the treatment of unstable ankle fractures in patients aged over 60 years",
+      "url": "https://europepmc.org/article/MED/27735787",
+      "publisher": "Health technology assessment (Winchester, England)",
+      "year": "2016",
+      "doi": "10.3310/hta20750",
+      "abstract": "Background Close contact casting (CCC) may offer an alternative to open reduction and internal fixation (ORIF) surgery for unstable ankle fractures in older adults. Objectives We aimed to (1) determine if CCC for unstable ankle fractures in adults aged over 60 years resulted in equivalent clinical outcome compared with ORIF, (2) estimate cost-effectiveness to the NHS and society and (3) explore participant experiences. Design A pragmatic, multicentre, equivalence randomised controlled trial incorporating health economic evaluation and qualitative study. Setting Trauma and orthopaedic departments of 24 NHS hospitals. Participants Adults aged over 60 years with unstable ankle fracture. Those with serious limb or concomitant disease or substantial cognitive impairment were excluded. Interventions CCC was conducted under anaesthetic in theatre by surgeons who attended training. ORIF was as per local practice. Participants were randomised in 1 : 1 allocation via remote telephone randomisation. Sequence generation was by random block size, with stratification by centre and fracture pattern. Main outcome measures Follow-up was conducted at 6 weeks and, by blinded outcome assessors, at 6 months after randomisation. The primary outcome was the Olerud-Molander Ankle Score (OMAS), a patient-reported assessment of ankle function, at 6 months. Secondary outcomes were quality of life (as measured by the European Quality of Life 5-Dimensions, Short Form questionnaire-12 items), pain, ankle range of motion and mobility (as measured by the timed up and go test), patient satisfaction and radiological measures. In accordance with equivalence trial US Food and Drug Administration guidance, primary analysis was per protocol. Results We recruited 620 participants, 95 from the pilot and 525 from the multicentre phase, between June 2010 and November 2013. The majority of participants, 579 out of 620 (93%), received the allocated treatment; 52 out of 275 (19%) who received CCC later converted to ORIF because of loss of fracture reduction. CCC resulted in equivalent ankle function compared with ORIF at 6 months {OMAS 64.5 points [standard deviation (SD) 22.4 points] vs. OMAS 66.0 points (SD 21.1 points); mean difference -0.65 points, 95% confidence interval (CI) -3.98 to 2.68 points; standardised effect size -0.04, 95% CI -0.23 to 0.15}. There were no differences in quality of life, ankle motion, pain, mobility and patient satisfaction. Infection and/or wound problems were more common with ORIF [29/298 (10%) vs. 4/275 (1%)], as were additional operating theatre procedures [17/298 (6%) vs. 3/275 (1%)]. Malunion was more common with CCC [38/249 (15%) vs. 8/274 (3%); p p = 0.002; medial: 3/274 (1%) vs. 18/248 (7%); p 95% from NHS perspective and 85% from societal perspective). Experiences of treatments were similar; both groups endured the impact of fracture, uncertainty regarding future function and the need for further interventions. Limitations Assessors at 6 weeks were necessarily not blinded. The learning-effect analysis was inconclusive because of limited CCC applications per surgeon. Conclusions CCC provides a clinically equivalent outcome to ORIF at reduced cost to the NHS and to society at 6 months. Future work Longer-term follow-up of trial participants is under way to address concerns over potential later complications or additional procedures and their potential to impact on ankle function. Further study of the patient factors, radiological fracture patterns and outcomes, treatment responses and prognosis would also contribute to understanding the treatment pathway. Trial registration Current Controlled Trials ISRCTN04180738. Funding The National Institute for Health Research Health Technology Assessment programme and will be published in full in Health Technology Assessment ; Vol. 20, No. 75. See the NIHR Journals Library website for further project information. This report was developed in association with the National Institute for Health Research Oxford Biomedical Research Unit funding scheme. The pilot phase was funded by the AO Research Foundation.",
+      "licence": "",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Clinical Impact of Treatment Modalities for Zygomatic Fractures on Infraorbital Nerve Sensory Recovery: A Cross-sectional Observational Study",
+      "url": "https://hal.science/hal-05139268v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2025",
+      "doi": "",
+      "abstract": "Background: Lesions of the infraorbital nerve are common sequelae of zygomatic complex fractures, significantly compromising patients' quality of life. This study aimed to identify the most effective treatment method for zygomatic fractures, minimizing sequelae such as persistent numbness, which can significantly affect patients' quality of life. To this end, conservative and surgical approaches and one- and two-point fixation techniques were compared, considering the influence of fracture location on neurosensory and functional prognosis. Materials and Methods: This retrospective, cross-sectional study evaluated the medical records of patients with zygomatic complex fractures. The sample consisted of all medical records of patients from the Federal University of the Jequitinhonha and Mucuri Valleys treated for zygomatic complex fractures between January 2016 and December 2018, evaluating sensory recovery over a 12 months follow-up. Results: 126 medical records were evaluated, with 147 facial fractures, of which zygomatic complex fractures had the highest incidence (31.29%). Most patients were male, with a mean age of 42.5 years. The primary etiology was traffic accidents. In zygomatic complex fractures, the most common signs and symptoms were altered neurosensory function of the infraorbital nerve (78.26%) and infraorbital rim step-off (54.34%). The conservative or non-surgical method was the most used (34.78%), followed by open reduction and internal fixation of the frontozygomatic process and infraorbital rim (32.6%), open reduction and internal fixation of the frontozygomatic process (19.56%), and open reduction and internal fixation of the infraorbital rim (13.04%). Complete resolution of infraorbital nerve sensory disturbances was observed in only 33.33% of patients, of whom 66.7% were treated by open reduction with internal fixation. Conclusions: Thus, open reduction with internal fixation of the infraorbital rim and frontozygomatic process has proven to be a practical approach, promoting better fracture reduction, re-establishment of the orbital contour, and superior aesthetic and functional results, in addition to increasing the chances of neurosensory recovery of the infraorbital nerve.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Operative versus non-operative treatment for closed, displaced, intra-articular fractures of the calcaneus: randomised controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4109620/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2014",
+      "doi": "10.1136/bmj.g4483",
+      "abstract": "Objective To investigate whether surgery by open reduction and internal fixation provides benefit compared with non-operative treatment for displaced, intra-articular calcaneal fractures. Design Pragmatic, multicentre, two arm, parallel group, assessor blinded randomised controlled trial (UK Heel Fracture Trial). Setting 22 tertiary referral hospitals, United Kingdom. Participants 151 patients with acute displaced intra-articular calcaneal fractures randomly allocated to operative (n=73) or non-operative (n=78) treatment. Main outcome measures The primary outcome measure was patient reported Kerr-Atkins score for pain and function (scale 0-100, 100 being the best possible score) at two years after injury. Secondary outcomes were complications; hindfoot pain and function (American Orthopaedic Foot and Ankle Society score); general health (SF-36); quality of life (EQ-5D); clinical examination; walking speed; and gait symmetry. Analysis was by intention to treat. Results 95% follow-up was achieved for the primary outcome (69 in operative group and 74 in non-operative group), and a complete set of secondary outcomes were available for 75% of participants. There was no significant difference in the primary outcome (mean Kerr-Atkins score 69.8 in operative group v 65.7 in non-operative group; adjusted 95% confidence interval of difference -7.1 to 7.0) or in any of the secondary outcomes between treatment groups. Complications and reoperations were more common in those who received operative care (estimated odds ratio 7.5, 95% confidence interval 2.0 to 41.8). Conclusions Operative treatment compared with non-operative care showed no symptomatic or functional advantage after two years in patients with typical displaced intra-articular fractures of the calcaneus, and the risk of complications was higher after surgery. Based on these findings, operative treatment by open reduction and internal fixation is not recommended for these fractures.Trial registration Current Controlled Trials ISRCTN37188541.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Functional Outcome in an Acute Acetabular Fracture & Diagnosis, Management and Prognosis Following Surgical Treatment: Current Concepts",
+      "url": "https://hal.science/hal-05193831v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2023",
+      "doi": "",
+      "abstract": "To evaluate the functional results of early surgical treatment for displaced acetabular fractures, as well as the complications involved. Methods: A study involving 23 patients aged 18–55 with acetabular fractures from 2017–2019 followed their treatment using open reduction and internal fixation using, plate, and internal screw. Patients were excluded from the study due to factors like pregnancy, infection, poor physical conditions, and previous diseases. The study used Kocher, Langenback, and ilioinguinal approaches for postoperative treatment, but no condition was cured. Results: A total of 23 patients were operated. Union was achieved in anatomical position in 20 (86.95%) patients and in malposition in 3 (13.05%%) patients. Excellent results were obtained in 12 (52.17%) patients, good results in 5 (21.73%), fair results in 3 (13.04%), and poor results in 3 (13.04%) patients. Postoperative complications included infection 0 (0%), heterotopic ossification 0, sciatic nerve injury (1) (4.34%), and avascular necrosis in 2 (8.60%) patients. Conclusion: Acetabular fractures are orthopedic injuries requiring careful attention and treatment. Earlier Acetabular Surgery were difficult due to poor anatomy and surgical procedures. Advances in CT scans and 3D reconstructions have made fracture patterns more common. Open reduction and internal fixation are the preferred treatments, aiming to reduce body size and achieve stabilization quickly. However, the study has limitations due to the small number of cases and its short duration.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Management of Neglected Medial Peritalar Dislocations: A Preliminary Report with Clinical and Radiological Analysis of 10 Cases",
+      "url": "https://www.jfasap.com/doi/JFASAP/pdf/10.5005/jp-journals-10040-1181",
+      "publisher": "Journal of Foot and Ankle Surgery (Asia Pacific)",
+      "year": "2022",
+      "doi": "10.5005/jp-journals-10040-1181",
+      "abstract": "Aim and objective: To study the functional outcome of neglected medial peritalar dislocations treated with open reduction and k -wire fixation and assess the clinical and radiological outcome of these neglected cases. Materials and methods: A prospective study was performed on 10 patients between June 2016 and July 2020. All the cases were treated with open reduction and internal fixation with k -wire fixation in the Department of Orthopedics and private setup. We graded these injuries according to the AOFAS ankle hindfoot scale. Results: In our study, all the patients had closed injury and presented to us between 4 weeks and 8 weeks after injury without taking any primary treatment. The mean age-group was 21-58 years of age with male predominance (60%). Road traffic accident (RTA) is the most common mode of injury (80%). Five (50%) of the patient had right side involvement and five (50%) left-sided. Four (40%) patients had excellent outcomes, four (40%) good, and two (20%) fair. Three patients had complications like superficial skin infection, broken k -wire, and persistent pain due to missed calcaneocuboid subluxation preoperatively. Conclusion: All chronic neglected peritalar dislocations need open reduction and K -wire fixation. Preoperative computed tomography (CT) scan, proper operative planning, if needed use of distractor for reduction is useful in some cases. Meticulous soft tissue handling is key factor for better outcome. Long-term follow-up is needed to know about the talus osteonecrosis and post-traumatic arthritis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Outcomes of Lisfranc Injuries Treated with Arthrex Internalbrace",
+      "url": "https://doi.org/10.1177/2473011421S00692",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2022",
+      "doi": "10.1177/2473011421S00692",
+      "abstract": "Category: Midfoot/Forefoot Introduction/Purpose: Surgical treatment options for Lisfranc injuries include open reduction and internal fixation (ORIF) and primary arthrodesis. To date, various options of ORIF exist, including transarticular screws, dorsal plates, and more recently, flexible fixation methods such as suture button and InternalBrace (Arthrex Inc, Naples, FL).1-4 Flexible fixation techniques attempt to minimize post-surgical joint immobilization and prevent the articular cartilage damage seen with transarticular screws.4-6 Unlike other flexible fixation techniques, the InternalBrace avoids placement of a suture button on the medial cuneiform and prevents disruption of the tibialis anterior tendon.4,7 Patient outcomes have been reported for suture button and transarticular screw fixation; however, there is a lack of clinical data reported utilizing InternalBrace in Lisfranc injuries due to its recent FDA approval in 2019.1,2,4 Methods: A retrospective chart review was performed as part of a case study investigation of 9 patients who underwent ORIF with InternalBrace fixation by a single surgeon. Patients over 18 years of age were included. Results: The average follow-up time was 6.6 months (SD = 5.1 months). The average time to weight-bearing as tolerated was 6.8 weeks (n=9), while the average time to return to work/sport as tolerated was 14.3 weeks (n=7). The only complication noted at follow-up was hypersensitivity along the foot [1 (11%)] (Table 3). No hardware complications were noted at either 6-week and 12-week post-operative x-rays. Conclusion: In this retrospective chart review, the time to return to work/sport as tolerated was comparable to that of return to sport after ORIF with screws and combined bridge-plating (19.6 weeks) and suture button (19.4 weeks).8 Future research involving a larger cohort of patients is required and is currently being performed by our institution to further evaluate outcomes after use of the InternalBrace for Lisfranc injuries.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Comparison of the Efficacy of Transconjunctival Incision with Lateral Canthotomy and Intraoral Vestibular Incision for Management of Infra-orbital Rim Fracture",
+      "url": "https://hal.science/hal-05252911v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Background: The treatment of an infraorbital rim fracture necessitates careful consideration. There several different techniques which are implicated with exposure of the infraorbital rim having its own sets of merits and demerits. Here, we intend to compare two incisions used for the management of fracture of the infraorbital rim. Objectives: The focus of this study is to compare and analyze the efficacy of transconjunctival and intraoral incisions in terms of time taken for fracture exposure, adequacy of exposure and fixation, and post-operative complications such as soft tissue injury, chemosis, infraorbital nerve paresthesia, ectropion, scleral show, lagophthalmos, and wound dehiscence. Methodology: Two groups with 10 patients requiring open reduction and internal fixation of infraorbital rim fracture in each group will be included in the study. The patients will be divided randomly into Group A consisting of patients undergoing open reduction and internal fixation using transconjunctival incision or Group B consisting of patients undergoing open reduction and internal fixation using intraoral incision. The two approaches will be compared on the basis of time taken for exposure of fracture site, adequacy of exposure and fixation and post operative complications like soft tissue injury, chemosis, infraorbital nerve paresthesia, ectropion, sclera show, lagophthalmos and wound dehiscence. Expected Results: The efficacy of intraoral incision would be better than transconjunctival incision as it would lead to lesser post operative ocular complications like chemosis, ectropion etc.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Locking plate fixation of three and fourpart proximal humeral fractures",
+      "url": "https://aott.org.tr/index.php/pub/article/view/2365",
+      "publisher": "Acta Orthopaedica et Traumatologica Turcica",
+      "year": "2020",
+      "doi": "10.3944/AOTT.2010.2275",
+      "abstract": "Abstract Objectives: We evaluated the functional results of open reduction and internal fixation with a locking plate in patients with three- or four-part fractures of the proximal humerus.\\r\\nMethods: We reviewed 32 consecutive patients (22 women, 10 men; mean age 63 years; range 29 to 82 years) who were treated with open reduction and internal fixation using the PHILOS locking plate for comminuted proximal humeral fractures. According to the Neer classification, 12 patients (mean age 56 years) had three-part fractures, 19 patients (mean age 67 years) had four-part fractures, and one patient had a four-part fracture dislocation. Ten patients were in the age group of <60 years, 22 patients were in the age group of 60?years. All the patients were evaluated with plain radiographs preoperatively; in addition, computed tomography was used in 14 patients in whom articular surface and tuberculum displacement could not be assessed adequately. The operation was performed through a standard deltopectoral approach, and minimal soft tissue dissection was used aiming not to impair vascularization of the fracture fragments. A cerclage wire was used to help reduction in 12 patients. An oblique screw was inserted to stabilize the medial colon in cases in which medial cortical contact was insufficient. Bone grafting was not used in any of the patients. Active-assisted and passive exercises of the shoulder were initiated on the second postoperative day. Active abduction to 90 degrees was allowed two weeks after surgery. During follow-up, implant failure, loss of reduction, malunion, and bone healing were assessed on plain radiographs. Bone scintigraphy was performed after 12 postoperative months for the detection of avascular necrosis. The results were assessed using the Constant shoulder score. The mean follow-up period was 25 months (range 18 to 36 months).\\r\\nResults: An anatomic or near-anatomic reduction was obtained in 29 patients (90.6%). In two patients, the fractures were fixed in a varus position, and in one patient, the greater tubercle was displaced proximally. All fractures united in a mean of three months (range 2 to 5 months). The mean Constant score of the patients was 79.5 (range 50 to 100). The results were excellent in 13 patients (40.6%), good in nine patients (28.1%), fair in eight patients (25%), and poor in two patients (6.3%). The mean Constant scores were 88.3 (range 69 to 100) and 74.2 (range 50 to 100) in three-part and four-part fractures, and 88.3 (range 71 to 100) and 75.5 (range 50 to 100) in the age groups of <60 years and ?60 years, respectively. Constant scores showed significant differences with respect to the number of comminution and age groups (p=0.03). Avascular necrosis was observed in two patients. None of the patients had reduction loss, implant failure, deep infection, or neurovascular injury, and none required implant removal.\\r\\nConclusion: Preservation of humeral head vascularity through minimal soft tissue dissection, fixation with a locking plate, and early postoperative motion were effective in decreasing potential complications following surgical treatment of three- and four-part proximal humeral fractures. The degree of fracture comminution and age of the patients affect functional results significantly. Özet Amaç: Üç ve dört parçalı proksimal humerus kırığı nedeniyle açık redüksiyonla kilitli plak tespiti uygulanan hastalarda fonksiyonel sonuçlar değerlendirildi.\\r\\nÇalışma planı: Proksimal humerus parçalı kırık nedeniyle açık redüksiyon ve PHILOS kilitli plakla tespit uygulanan 32 ardışık hasta (22 kadın, 10 erkek; ort. yaş 63; dağılım 29-82) geriye dönük olarak değerlendirildi. Neer sınıflamasına göre, 12 hastada (ort. yaş 56) üç parçalı kırık, 19 hastada (ort. yaş 67) dört parçalı kırık, bir hastada da dört parçalı kırıklı çıkık vardı. Hastaların 10’u 60 yaşın altında, 22’si 60 yaş veya üzerinde idi. Ameliyat öncesinde tüm hastalar düz grafilerle incelendi; eklem yüzeyi hakkında yeterli bilgi elde edilemeyen 14 hastada bilgisayarlı tomografiye başvuruldu. Ameliyatta standart deltopektoral insizyon kullanılarak, kırık parçaların damarlanmasının daha fazla bozulmasını önlemek için minimal yumuşak doku diseksiyonu yapıldı. On iki hastada ameliyat sırasında redüksiyona yardımcı olmak için serklaj teli kullanıldı. Medialden yeterli kortikal temasın sağlanamadığı olgularda oblik bir vida ile medial destek sağlandı. Ameliyatta kemik grefti kullanılmadı. Ameliyat sonrası ikinci günde yardımlı aktif ve pasif hareketlere başlandı. Ameliyat sonrası ikinci haftada 90 dereceye kadar aktif omuz abdüksiyonuna izin verildi. Takipler sırasında düz radyografilerde implant yetmezliği, redüksiyon kaybı, yanlış kaynama ve kırık kaynaması araştırıldı. Avasküler nekroz gelişimi, tüm hastalarda 12 aydan sonra çekilen kemik sintigrafisi ile kontrol edildi. Son kontrollerde hastalar Constant skoru ile değerlendirildi. Ortalama takip süresi 25 ay (dağılım 18-36 ay) idi.\\r\\nSonuçlar: Otuz iki hastanın 29’unda (%90.6) tam anatomik veya anatomiğe yakın redüksiyon sağlandı. İki hastada ameliyat sırasında kırıklar varus pozisyonunda tespit edildi, bir hastada ameliyat sonrası erken dönemde büyük tüberkülün proksimale yer değiştirmiş olduğu görüldü. Tüm kırıklar ortalama üç ayda (dağılım 2-5 ay) kaynadı. Ortalama Constant skoru 79.5 (dağılım 50-100) bulundu. On üç hastada (%40.6) mükemmel, dokuz hastada (%28.1) iyi, sekiz hastada (%25) orta, iki hastada (%6.3) kötü sonuç elde edildi. Ortalama Constant skoru üç ve dört parçalı kırıklarda sırasıyla 88.3 (dağılım 69-100) ve 74.2 (dağılım 50-100), 60 yaş altı ve üstündeki hastalarda sırasıyla 88.3 (dağılım 71-100) ve 75.5 (dağılım 50-100) idi. Constant skoru kırık parça sayısına ve yaş grubuna göre anlamlı farklılık gösterdi (p=0.03). Avasküler nekroz iki hastada görüldü. Hiçbir hastada redüksiyon kaybı, implant yetmezliği, derin enfeksiyon, nörovasküler yaralanma gözlenmedi, implantın çıkarılması gerekmedi.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Deep vein thrombosis in the lower extremities after femoral neck fracture: A retrospective observational study",
+      "url": "https://doi.org/10.1177/2309499019901172",
+      "publisher": "Journal of Orthopaedic Surgery",
+      "year": "2020",
+      "doi": "10.1177/2309499019901172",
+      "abstract": "Purpose: The actual incidence of deep vein thrombosis (DVT) in femoral neck fractures is underestimated. This study aimed to investigate the incidence of DVT in the lower extremities after femoral neck fracture before and after operation. Methods: The clinical data of patients with femoral neck fractures treated at Xi’an Honghui Hospital between July 1, 2016, and December 31, 2018, were collected. The patients were examined with ultrasonography before and after operation and divided into thrombosis and non-thrombosis groups according to their ultrasonographic results. The incidence of DVT was reported as a percentage. Results: The incidence rates of preoperative and postoperative DVT were 32% and 56%, respectively. DVT on the uninjured side constituted 45% of all preoperative DVT and 43% of all postoperative DVT. Peripheral DVT constituted 90% and 84% of all preoperative and postoperative DVT, respectively. Diabetes was an independent risk factor of preoperative DVT. Blood loss was an independent risk factor of postoperative DVT, and open reduction and internal fixation surgical procedure was independent protective factor of postoperative DVT as compared with hemiarthroplasty and total hip replacement. Conclusions: The incidence rates of preoperative and postoperative DVT in the patients with femoral neck fracture were high, and orthopedists should pay more attention to DVT as a complication.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Tarsometatarsal Lisfranc Injuries: A Diagnostic Challenge",
+      "url": "https://hal.science/hal-05286346v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2020",
+      "doi": "",
+      "abstract": "Introduction: Lisfranc injuries are often difficult to diagnose and treat causing long term disability without proper management. Lisfranc injuries refer to bony or ligamentous compromise of the tarsometatarsal and intercuneiform joint complex. Improper treatment of these fractures might lead to negative outcomes such as soft tissue necrosis, posttraumatic arthritis and arch abnormalities. This study aims to help in diagnosis and treatment of tarsometatarsal Lisfranc injuries. Materials and Methods: Study comprises of 10 patients diagnosed with Lisfranc injury. All of them were treated with open reduction and internal fixation. Post-operatively, all patients were assessed using AOFAS midfoot scale for outcome after the surgery and scores were recorded at each follow up and final results were evaluated after 1 year of surgery. Observation and Results: Mean AOFAS midfoot score was 82 at the end of one year. Majority of the patients had AOFAS score of more than 80. Majority of patients had B2 type of fracture according to Meyerson Classification. Conclusion: Anatomical reduction is the key for the treatment of lisfranc injuries, therefore, open reduction and internal fixation is necessary to provide good outcome.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Functional Outcome of Surgical Management of Fracture Both Bone Forearm in Adults Using Locking Compression Plate (LCP)",
+      "url": "https://hal.science/hal-05286332v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2020",
+      "doi": "",
+      "abstract": "Background: The forearm has a complex architecture consisting of 2 mobile relatively parallel bones radius and ulna, which provide a stable link between elbow and wrist joint. Anatomic reduction and internal fixation of these fractures is usually required to restore forearm rotation, elbow and wrist motion, grip strength. The objective of the study is to know the functional outcome, union time and complications of treating diaphyseal fractures both bones forearm with locking compression plates. Methods: A prospective study was done among 30 patients presenting to department of Orthopaedics in a tertiary referral centre who were diagnosed clinically and radiologically as both bone forearm fracture and those meeting the criteria of the study. The patients were treated with open reduction and internal fixation with locking compression plate and the results was evaluated on the basis of fracture union, range of motion and complications. Results: The study showed excellent elbow range of motion in 60% cases and satisfactory outcome in 40% of cases while range of motion of forearm was excellent in 83.3% of cases and satisfactory in 16.7% cases. Sixteen patients achieved union at 16 weeks, two cases united before 24 weeks and in one patient union were achieved after 24 weeks. Minimum union time was found to be 16 weeks and maximum time was 25 weeks. Mean union time was found to be 16.8 weeks. Conclusion: Open reduction and internal fixation with Locking Compression Plate provides excellent functional outcome.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Polyaxial Locking Plate in Fractures of the Distal Radius",
+      "url": "https://hal.science/hal-05285090v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2020",
+      "doi": "",
+      "abstract": "Introduction: Volar locking plate represents the gold standard method of treatment of unstable distal end radius fractures. Objectives: The Present study aimed to identify the functional and radiological outcomes of distal radius fractures treated by open reduction and internal fixation using polyaxial volar locking plate. Patients and Methods: We reviewed 25 unstable distal end radius fractures that were operated in Orthopedic Department in Tanta University Hospital with polyaxial volar locking plates June 2018 to June 2019. The mean age of the patients was 40.8±14.34 years (range 24 to 65) and the mean duration of follow-up was 8.61 ± 3.19 months (range 6 to 17). All of the patients underwent open reduction and internal fixation with polyaxial locking plate through over flexor carpi radialis approach. After three months, pain, tendon functions, ROM, hand grip as well as radial median and ulnar nerves functions were well assessed. X-rays were done to assure full fracture consolidation. At the end of follow up, clinical results were evaluated according to Quick DASH Score. Castaign radiological assessment score was used for radiological evaluation. Results: There was a significant improvement in the functional indices from twelve weeks to the final follow-up. According to Castaign radiological assessment score 10 patients (40%) had excellent results, 14 patients (56%) had good results and 1 patient (4%) had fair results, no patients had poor results at the final follow up. Compared the performance of the polyaxial locking plate to another monoaxial plate and reported an improved range of radial and ulnar deviation with the variable angle device but they use another plate system. Conclusions: The use of polyaxial locking plates in treating unstable distal end radius fractures is associated with excellent to good functional results with minimal complications.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Maximum Sacral Alar Width and Its Implications on Morphometry of Sacral Vestibule: A Plain CT Based Study in North West Indian Population",
+      "url": "https://hal.science/hal-05286355v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2020",
+      "doi": "",
+      "abstract": "Background: The present study was carried to understand and analyze the maximum sacral alar width and its implications on morphometry of sacral vestibule using plain computerized tomography in north western part of India, which will aid in pre operative planning to fix the posterior pelvic wall fractures with percutaneous screws in closed manner, thereby decreasing the dangers of open reduction and internal fixation. Methods: This study was carried in the Department of Orthopaedics and Radiology at Dr Rajendra Prasad Govt. Medical College, Kangra at Tanda in one year. All the patients of the aged 18 years and more who came to the institute for either abdominal, pelvic and spinal pathology and presented to the Department of Radiology for computerized tomography, were included in the study. Results: Alar width ranged from 25.0 to 36.0 with a mean value of 30.39±3.41. Alar width was not significantly different between age-groups. There was a weak relation between alar width and age-groups 18-30 years (r=0.069; P=0.388), 31-40 years (r=0.031; P=0.788), 41-50 years (r=-0.066; P=0.488), 51-60 years (r=-0.066; P=0.330), and >60 years (r=-0.075; P=0.816). Alar width was non-significantly (P=0.271) higher in males in comparison to females. There existed non-significant relation of Alar width (r=0.038; P=0.347) with interspinous distance. There was found non-significant relation of Alar width (r=0.072; P=0.077) with height. Conclusion: This study, is the first of its type in North Western part of India which will aid in preoperative planning to fix posterior pelvic wall fractures with percutaneous screws and thereby lessens the dangers of open reduction and internal fixation.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Surgical Repair of Acetabular Fracture Using Unidirectional Porous β-Tricalcium Phosphate",
+      "url": "http://dx.doi.org/10.1155/2019/6860591",
+      "publisher": "Case Reports in Orthopedics",
+      "year": "2019",
+      "doi": "10.1155/2019/6860591",
+      "abstract": "We report a case of an acetabular fracture treated using a unidirectional porous β-tricalcium phosphate artificial bone (Affinos®) to surgically repair bone defects. An 82-year-old man sustained an acetabular fracture on the left side and presented with shock on arrival along with impaired vital signs and systolic blood pressure. Upon stabilization, we performed an open reduction and internal fixation. However, there were significant bone defects, which were then fixed using Affinos® (both blocks and granules), an artificial β-tricalcium phosphate bone with a porosity of 57% (pore size: 25–300 μm), characterized by a novel unidirectional porous structure. By 18 months postoperatively, the patient was able to perform stair climbing and absorption and bone fusion around the artificial bone were observed. Affinos® has a frost-like structure, which endows it with good tissue-invasive properties because of the capillary effect. Moreover, it has excellent osteoconduction capability. In this case, both Affinos® blocks and granules showed good affinity, absorption, and bone substitution. Further prospective studies are required to confirm our findings.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A morphological study to note the variable patterns of cutaneous innervation on the dorsum of foot in south Indian human foetuses and its clinical implications",
+      "url": "http://www.advbiores.net/article.asp?issn=2277-9175;year=2013;volume=2;issue=1;spage=15;epage=15;aulast=Gupta",
+      "publisher": "Advanced Biomedical Research",
+      "year": "2013",
+      "doi": "10.4103/2277-9175.107980",
+      "abstract": "Background: Cutaneous nerves on the dorsum of foot are at risk for iatrogenic damage while performing arthroscopy, local anaesthetic block, surgical approach to the fibula, open reduction and internal fixation of lateral malleolar fractures, application of external fixators, elevation of a fasciocutaneous or fibular flaps for grafting, surgical decompression of neurovascular structures, or miscellaneous surgery on leg, foot and ankle. Hence the present study was undertaken to classify the different patterns of cutaneous innervation on the dorsum of foot of foetuses which will help in minimizing iatrogenic damage to the nerves. Materials and Methods: A total of 40 lower limbs from 20 foetuses were dissected and the branching patterns of nerves were noted and specimens were photographed. Results: Four distinct patterns of innervation with additional subtypes were identified and designated as Type 1 a-g; 2 a-d; 3; 4 a-c. Conclusion: Detailed knowledge about the pattern of cutaneous innervation of dorsum of foot may decrease the damage to these nerves during operative procedures near the foot and ankle.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Open Reduction Internal Fixation Poststernotomy Mediastinitis",
+      "url": "https://doi.org/10.1155/2013/571685",
+      "publisher": "Wiley",
+      "year": "2013",
+      "doi": "10.1155/2013/571685",
+      "abstract": "Introduction. Mediastinitis has been reported to complicate 5% of sternotomy surgery. We have adopted an open reduction and rigid internal fixation (ORIF) approach during the conventional rescue surgery in the treatment of mediastinitis. Methods. A retrospective review was performed to compare the outcomes of patients that had an ORIF to correct postoperative mediastinitis following median sternotomy. These were compared with the outcome of the patients that did not undergo ORIF. Results. In the 5-year study period, we reviewed 35 mediastinitis patient charts. Postoperatively, the ORIF patient group remained in the Intensive Care Unit (ICU) and on a ventilator for a mean of 1.5 and 0.75 days, respectively. Patients treated without ORIF spent significantly more days in the ICU (mean of 7.5 days, P < 0.05 ) and on a ventilator (mean of 2.15 days, P = 0.1 ). Furthermore, it was found that none of the patients (0%) who underwent ORIF complained of any postoperative sternal instability or pain. Preoperatively, however, these rates were as high as 72%. Conclusions. In the select patient, ORIF can be a safe option in the management of mediastinitis, which we have shown to significantly decrease morbidity and mortality by providing anatomic reduction as well as physiologic stabilization. We have shown that ORIF will improve the quality of life of the patient by minimizing abnormal sternal mobility and pain and will also decrease inpatient costs by decreasing days spent in the ICU and ventilator dependence.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Fracture treatment in the setting of cutaneous aspergillosis: a case report",
+      "url": "http://journals.lww.com/10.1097/OI9.0000000000000082",
+      "publisher": "OTA International",
+      "year": "2020",
+      "doi": "10.1097/OI9.0000000000000082",
+      "abstract": "Abstract. The authors present the case of a patient who developed an Aspergillosis flavus (A flavus) superficial cutaneous infection which was identified at the time of cast removal, 2 weeks after immobilization of a closed distal third humerus fracture. Clinical and microbiological findings, as well as the treatment of this patient, are reported. An otherwise healthy 27-year-old male presented to the orthopaedic surgery clinic 2 weeks after a closed distal humerus fracture, which was initially immobilized with a functional removable brace. Upon cast removal, the patient was noted to have significant brown hyperkeratotic patches and plaques, studded with pustules in an annular configuration on his left posterior and lateral arm. Fungal culture later grew A flavus. The patient was started on both oral and topical antifungals and operative management of the displaced fracture was delayed until skin lesions resolved. Once clinical examination and negative repeat bedside potassium hydroxide were confirmed, open reduction and internal fixation was performed. The fracture healed uneventfully, and the patient did not develop any signs or symptoms of postoperative infection.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.7,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

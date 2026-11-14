@@ -1,0 +1,481 @@
+{
+  "term": "Wrist Orthosis",
+  "collected": "2026-11-14",
+  "count": 26,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Prospective randomized controlled trial in the treatment of lateral epicondylitis with a new dynamic wrist orthosis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6138897/",
+      "publisher": "European journal of medical research",
+      "year": "2018",
+      "doi": "10.1186/s40001-018-0342-9",
+      "abstract": "Background In the treatment of lateral epicondylitis (LE), the role of a new dynamic wrist orthosis is unclear. Patients and methods Patients suffering from a LE longer than 3 months were multicentrically and prospectively randomized into a physiotherapeutic group (PT group) and in a physiotherapy group plus wrist orthosis (PT + O group). Physiotherapy consisted of daily eccentric strengthening exercises under initial professional supervision. Inclusion criteria were a Placzek score greater than 4. Exclusion criteria were previous surgery, rheumatic arthritis, elbow instability, radicular symptoms, higher-grade extensor tendon rupture, or cervical osteoarthritis. The clinical evaluation was performed after 12 weeks and 12 months. The Patient-Rated Tennis Elbow Evaluation (PRTEE) scale, Placzek Score, the pain rating (VAS), range of motion and the Subjective Elbow Score were evaluated. Results Of the initially 61 patients, 31 were followed up after 12 weeks and 22 after 12 months. Twenty-nine patients (43%) were male, the mean age was 46, and 44 patients (66%) had the right elbow involved. At 12 weeks, there was a pain reduction on the VAS in both groups (PT + O: 6.5-3.7 [p = .001]; PT: 4.7-4.1 [p = .468]), albeit it was only significant for the PT + O group. At 12 months, reduction was significant in both groups (PT + O: 1.1 [p = .000]; PT: 1.3 [p = .000]). The painless maximum hand strength in kg improved in both groups significant after 3 and 12 months. The Placzek score was reduced from 8.25 to 3.5 [p = .001] after 12 weeks for the PT + O group and from 8.1 to 3.8 [p = .000] in the PT group, as well as after 12 months in the PT + O group to 0 [p = .000] and in the PT group to 2.0 [p = .000]. The PRTEE improved in both groups after 12 weeks (PT + O: 52.8--31.3 [p = .002]; PT: 48.6-37.6 [p = .185]) and 12 months (PT + O: 16.15 [p = .000]; PT: 16.6 [p = .000]), although the reduction at 12 weeks was not significant for the PT group. Conclusion The elbow orthosis appears to accelerate the healing process with respect to the PRTEE and pain on the VAS (12 weeks follow-up), although there is an adjustment after 12 months in both groups and a significant improvement of symptoms is achieved in all endpoints.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.72,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "An Active Wrist Orthosis for Objective Rigidity Assessment in Parkinson's Disease: Biomechanical Correlates and Usability Evaluation",
+      "url": "https://zenodo.org/records/22232517",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.22232517",
+      "abstract": "Parkinson's disease (PD) is the second most common neurodegenerative disorder worldwide, and rigidity affects most diagnosed individuals. Although a cardinal symptom, rigidity assessment remains largely subjective, relying on the ordinal MDS-UPDRS scale and susceptible to inter-rater variability. This study presents a biomechanical and usability assessment of an active wrist orthosis designed to objectively quantify wrist rigidity. The device performed standardized passive flexion-extension movements on 30 participants (15 PD, 15 healthy controls) while recording current, force, and angular displacement. Twelve biomechanical features were correlated with MDS-UPDRS Item 3.3 rigidity scores using Spearman correlation. As an exploratory, interpretable complement, a multiple linear regression model with second-order interaction terms was fitted to relate these features to the rigidity score. Usability was evaluated with the System Usability Scale (SUS) and the Short Flow State Scale (SFSS). Flexion-phase features showed moderate, statistically significant correlations with Item 3.3, while signal-variability features showed moderate negative correlations. In this exploratory analysis, a parsimonious three-interaction-term model reached an adjusted coefficient of determination of about 0.57 and an in-sample expanded accuracy near 73 percent, within one point of the clinical score. The overall mean SUS score of about 85, classified as excellent, confirmed strong device acceptance in both groups. These findings support the use of the orthosis as an objective and user-friendly tool for PD rigidity assessment.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Long-term use of a static hand-wrist orthosis in chronic stroke patients: a pilot study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600191/",
+      "publisher": "Stroke research and treatment",
+      "year": "2013",
+      "doi": "10.1155/2013/546093",
+      "abstract": "Background. Long-term splinting, using static orthoses to prevent contractures, is widely accepted in stroke patients with paresis of the upper limb. A number of stroke patients complain about increased pain and spasticity, which leads to the nonuse of the orthosis and a risk of developing a clenched fist. Objectives. Evaluating long-term use of static hand-wrist orthoses and experienced comfort in chronic stroke patients. Methods. Eleven stroke patients who were advised to use a static orthosis for at least one year ago were included. Semistructured telephone interviews were conducted to explore the long-term use and experienced comfort with the orthosis. Data were analyzed using descriptive statistics. Results. After at least one year, seven patients still wore the orthosis for the prescribed hours per day. Two patients were unable to wear the orthosis 8 hours per day, due to poor comfort. Two patients stopped using the orthosis because of an increase in spasticity or pain. Conclusions. These pilot data suggest that a number of stroke patients cannot tolerate a static orthosis over a long-term period because of discomfort. Without appropriate treatment opportunities, these patients will remain at risk of developing a clenched fist and will experience problems with daily activities and hygiene maintenance.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.12,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Evaluation of Hand Function Using Relative Motion Extension Concept (with or Without Night Wrist Orthosis) or Dynamic Extension Orthosis for Extensor Tendon Injuries in Zones 4–6—A Randomized Controlled Trial",
+      "url": "https://www.semanticscholar.org/paper/9f298168444083aed7fcb48725db8076a05e25a5",
+      "publisher": "Life",
+      "year": "2025",
+      "doi": "10.3390/life15020249",
+      "abstract": "This study aimed to compare outcomes of early active motion (EAM) using the relative motion extension (RME) approach to outcomes of early passive motion (EPM) with a dynamic extension orthosis (DEO) and to evaluate whether the RME-only approach is equivalent to the RME-plus approach. Fifty adults were randomized into one of the three intervention groups receiving the DEO, RME only, or RME plus orthosis. The score of the Jebsen–Taylor hand function test (JTHFT) without writing and QuickDASH at T1, all measures of mobility at T1 and T2, and grip strength were better in the RME-only and RME-plus group compared to the DEO group, whereas the values of Patient Evaluation Measure (PEM) at T1 and T2, as well as QuickDASH score at T2, orthosis adherence, and the patient’s comfort while wearing the orthoses did not statistically significantly differ among the three groups. The RME concept after extensor tendon injuries in zones 4–6 is superior to the DEO protocol in terms of earlier regain of hand function. The DEO and RME protocols were equivalent regarding patients’ adherence and satisfaction with the orthosis. We found no differences in the RME-plus and RME-only protocols, indicating the safe use of the RME-only protocol in single extensor tendon injuries in zones 4–6.",
+      "licence": "CCBY",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.006,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A self-managed exercise therapy program for wrist osteoarthritis: study protocol for a randomized controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10546651/",
+      "publisher": "Trials",
+      "year": "2023",
+      "doi": "10.1186/s13063-023-07668-4",
+      "abstract": "Abstract Background Post-traumatic wrist osteoarthritis (OA) can eventually lead to pain, muscular weakness, and stiffness of the wrist, which can affect the function of the entire upper limb and reduce the quality of life. Although there is strong evidence that all patients with OA should be offered adequate education and exercises as a first-line treatment, an effective self-management program, including structured education and therapeutic exercises, has not yet been introduced for individuals with wrist OA. This trial aims to evaluate the effectiveness of an exercise therapy program with joint protective strategies to improve neuromuscular control (intervention group) compared to a training program with range of motion exercises (control group). Methods This is a single-blinded randomized controlled trial (RCT) with two treatment arms in patients with symptomatic and radiographically confirmed wrist OA. The trial will be conducted at a hand surgery department. The participants will be randomly assigned either to a neuromuscular exercise therapy program or to a training program with range of motion exercises only. Participants in both groups will receive a wrist orthosis and structured education on wrist anatomy, pathophysiology, and joint protective self-management strategies. The programs consist of home exercises that will be performed twice a day for 12 weeks. The Patient-Rated Wrist Evaluation (PRWE) is the primary outcome measure of pain and function. Wrist range of motion (ROM), grip strength, the Numeric Pain Rating scale (NPRS), Disabilities of the Arm, Shoulder, and Hand (DASH), the General Self-Efficacy Scale (GSES), Global Rating of Change (GROC), and conversion to surgery are the secondary measures of outcome. Assessments will be performed at baseline and at 3, 6, and 12 months after baseline by a blinded assessor. Discussion The upcoming results from this trial may add new knowledge about the effectiveness of a self-managed exercise therapy program on pain and function for individuals with wrist OA. If the present self-management program proves to be effective, it can redefine current treatment strategies and may be implemented in wrist OA treatment protocols. Trial registration ClinicalTrials.gov, NCT05367817. Retrospectively registered on 27 April 2022. https://clinicaltrials.gov .",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.92,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Designing Kresling Origami for Personalised Wrist Orthosis*",
+      "url": "https://www.semanticscholar.org/paper/4f594bca9d1ecf4e4445fc1f9c7f5cedba9234d2",
+      "publisher": "International Conference on Soft Robotics",
+      "year": "2025",
+      "doi": "10.1109/RoboSoft63089.2025.11020928",
+      "abstract": "The wrist plays a pivotal role in facilitating motion dexterity and hand functions. Wrist orthoses, from passive braces to active exoskeletons, provide an effective solution for the assistance and rehabilitation of motor abilities. However, the type of motions facilitated by currently available orthoses is limited, with little emphasis on personalised design. To address these gaps, this paper proposes a novel wrist orthosis design inspired by the Kresling origami. The design can be adapted to accommodate various individual shape parameters, which benefits from the topological variations and intrinsic compliance of origami. Heat-sealable fabrics are used to replicate the non-rigid nature of the Kresling origami. The orthosis is capable of six distinct motion modes with a detachable tendon-based actuation system. Experimental characterisation of the workspace has been conducted by activating tendons individually. The maximum bending angle in each direction ranges from 18.81° to 32.63°. When tendons are pulled in combination, the maximum bending angles in the dorsal, palmar, radial, and ulnar directions are 31.66°, 30.38°, 27.14°, and 14.92°, respectively. The capability to generate complex motions such as the dart-throwing motion and circumduction has also been experimentally validated. The work presents a promising foundation for the development of personalised wrist orthoses for training and rehabilitation. Accepted for publication in the 2025 IEEE/RAS International Conference on Soft Robotics",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.602,
+      "providers": [
+        "openaire",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Topology Optimization of Biomedical Wrist Orthosis Using Tough Photopolymer Resin",
+      "url": "https://www.semanticscholar.org/paper/8e670f353b16a5780c78bbabcff595413e69e06c",
+      "publisher": "E3S Web of Conferences",
+      "year": "2025",
+      "doi": "10.1051/e3sconf/202563102003",
+      "abstract": "This paper presents a study case on the structural topology optimization of biomedical wrist orthosis. The manufacturing process integrates photosensitive resign that enables production of geometries that are both impact-resistant and exhibit a smooth, refined surface finishing which is essential for biomedical applications. The 3D printing is based on Digital Light Processing (DLP). Based on extensive biomechanical studies for accurate simulation parameters, four loading cases were defined for topology optimization. Maximam stresses and displacements were considered at upper limits for the optimization problem with weigh reduction.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.602,
+      "providers": [
+        "doaj",
+        "hal",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Inverse design of stochastic, voxelated thermo-viscoelastic digital materials",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12753674/",
+      "publisher": "Nature communications",
+      "year": "2025",
+      "doi": "10.1038/s41467-025-66744-2",
+      "abstract": "Polymer material jetting enables the fabrication of voxelated, multi-material structures with material control at the microscale. However, current work often neglects viscoelastic effects and designing voxelated digital materials remains challenging due to the complexity of the vast design freedom and intractability of efficiently modeling macroscale voxel structures. We present an efficient representation of stochastically mixed, voxelated digital materials and develop a generalized viscoelastic temperature-dependent material model to design and simulate digital materials mixed from two constituent polymers. The material model is based on an extended percolation theory considering frequency and temperature. An artificial neural network is trained on the material model to directly estimate target material behavior given arbitrary non-linear, user requirements. The approach is validated using two case studies requiring tailored, non-linear material behavior: a personalized wrist orthosis and a machine damper. These show the newly unlocked possibilities for the design and fabrication of tuned, stochastic digital materials.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Treatment modalities and patient reported outcomes in isolated and combined dorsal triquetrum chip fractures",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12373524/",
+      "publisher": "European journal of trauma and emergency surgery : official publication of the European Trauma Society",
+      "year": "2025",
+      "doi": "10.1007/s00068-025-02947-y",
+      "abstract": "PURPOSE: Triquetrum fractures are the second most common carpal fracture after scaphoid fractures with dorsal triquetrum chip fracture being the most common fracture type. There is little evidence about treatment and outcome of these fractures. METHOD: In this retrospective study of 39 patients, non-operative treatment with a wrist orthosis is compared to a cast. Furthermore, the duration of immobilisation is analysed. Incidence and outcomes of isolated dorsal triquetrum chip fracture and in combination with concomitant ipsilateral upper limb injuries were studied. RESULTS: We found no difference in patient reported outcome measures, range of motion (ROM) and function for isolated dorsal triquetrum fractures in terms of type and time of immobilisation. Conservative treatment of these fractures resulted in good overall outcomes (PROMs, ROM), whereby ROM was slightly better for isolated injuries compared to combined injuries. CONCLUSION: In general, these fractures can be treated non-operatively with favourable patient-reported and clinical outcomes regardless of immobilisation modality and duration. Level of evidence III (therapeutic).",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparative effectiveness of ultrasound and paraffin therapy in patients with carpal tunnel syndrome: a randomized trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256823/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2014",
+      "doi": "10.1186/1471-2474-15-399",
+      "abstract": "Background Conclusive evidence indicating an effective treatment for carpal tunnel syndrome (CTS), a common entrapment neuropathy, is lacking. Ultrasound therapy (US therapy) has long been used as one of the combination treatments for CTS. In addition, paraffin bath therapy has been applied widely as a physical modality in treating patients with hand conditions. The purpose of this randomized trial was to compare the efficacy of combining a wrist orthosis with either US therapy or paraffin bath therapy in treating CTS patients. Methods Patients with CTS were randomized into two groups. All patients received a wrist orthosis. Twice per week, one group underwent paraffin therapy, and the other group underwent ultrasound therapy. Each patient received a questionnaire, physical examination and nerve conduction study of the upper extremities before and after treatment for eight weeks. Results Sixty patients were recruited, and 47 completed the study. Statistical analysis revealed significant improvements in symptom severity scores in both groups. After adjusting for age, gender and baseline data, the analysis of covariance revealed a significant difference in the functional status score between two groups. Conclusions The combination of ultrasound therapy with a wrist orthosis may be more effective than paraffin therapy with a wrist orthosis. Trial registration Clinicaltrial.gov: NCT02278289 Oct 28, 2014.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Design for Assembly: Wrist Orthosis Design Concepts Proposals",
+      "url": "https://journals.prz.edu.pl/tiam/article/view/1776/1332",
+      "publisher": "Technologia i Automatyzacja Montażu",
+      "year": "2024",
+      "doi": "10.7862/tiam.2024.3.4",
+      "abstract": "This study investigates the integration of modern engineering techniques, including 3D scanning and additive manufacturing, in the design and production of wrist orthoses. The research aims to enhance orthotic devices by proposing three innovative fastening methods - Velcro straps, screws, and magnets - designed for use with 3D-printed orthoses. The study outlines the entire process from patient hand scanning to the final orthosis creation, emphasizing the precision and customization affordedby these advanced technologies. The proposed designs are intended to improve the comfort, effectiveness, and usability of orthoses for patients with musculoskeletal dysfunctions. The findings demonstrate the potential for significant advancements in personalized medical devices, offering new avenues for rehabilitation and patient care.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Computational Mechanics of Form-Fitting 3D-Printed Lattice-Based Wrist-Hand Orthosis for Motor Neuron Disease",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10376028/",
+      "publisher": "Biomedicines",
+      "year": "2023",
+      "doi": "10.3390/biomedicines11071787",
+      "abstract": "Motor neuron disease (MND) patients often experience hand-wrist muscle atrophy resulting in severe social consequences and hampering their daily activities. Although hand-wrist orthosis is commonly used to assist weakened muscles, its effectiveness is limited due to the rapid progression of the disease and the need for customization to suit individual patient requirements. To address these challenges, this study investigates the application of three-dimensional (3D) printing technology to design and fabricate two lattice structures inspired by silkworm cocoons, using poly-ε-caprolactone as feedstock material. Finite element method (FEM) analysis is employed to study the mechanical behavior, enabling control over the geometric configuration incorporated into the hand-wrist orthosis. Through tensile displacement and three-point bending simulations, the stress distribution is examined for both lattice geometries. Geometry-1 demonstrates anisotropic behavior, while geometry-2 exhibits no strict directional dependence due to its symmetry and uniform node positioning. Moreover, the biocompatibility of lattices with human skin fibroblasts is investigated, confirming excellent biocompatibility. Lastly, the study involves semi-structured interviews with MND patients to gather feedback and develop prototypes of form-fitting 3D-printed lattice-based hand-wrist orthosis. By utilizing 3D printing technology, this study aims to provide customized orthosis that can effectively support weakened muscles and reposition the hand for individuals with MND.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Conceptual Design of a Smart Wrist Orthosis and Functional Performance - Project Overview",
+      "url": "https://hrcak.srce.hr/file/381293",
+      "publisher": "Tehnički Glasnik",
+      "year": "2021",
+      "doi": "",
+      "abstract": "The idea of the project was to find a conceptual design of a multi-functional smart orthosis for wrist fixation. The application of additive technologies presents the potential in designing a customised orthosis for every patient individually. By using pre-generated 3d models of various hand shapes it is possible to prepare models for several shapes and sizes of forearms and hands. The conceptual design provides a possible solution for a two-part orthosis bound around the forearm and a modular extension to stabilize the wrist without additional compression. The multi-functionality occurs with the development of a small pre-defined electronic plate located in the bottom part of the orthosis. The temperature and heart rate are constantly monitored and displayed wirelessly on a smartphone. The target group are the patients active in sports or patients with minor injuries. Moreover, the orthosis can be used for body temperature and heart function monitoring during recovery period.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Análise do esforço muscular durante a execução dos movimentos de flexão e extensão de punho em pacientes com Doença de Parkinson - Um estudo piloto",
+      "url": "https://zenodo.org/records/3459863",
+      "publisher": "Zenodo",
+      "year": "2019",
+      "doi": "10.5281/zenodo.3459863",
+      "abstract": "The aim of this study was to analyze and compare muscle electrical activity during wrist flexion and extension movements in the sagittal plane and latero-lateral axis, with the same protocol performed in the transverse plane and longitudinal axis. The results will be used to improve the collection protocol of a study that performs the ergonomic evaluation of an active wrist orthosis. Two individuals participated in this research, one male and one female, respectively, 62 and 56 years old, both diagnosed with Parkinson's disease. Data collection consisted of applying the Movement Disorders Society - Unified Parkinson's Disease Rating Scale (MDS-UPDRS), acquiring the Maximum Voluntary Contraction of the wrist flexor and extensor muscles to establish a reference value, and then acquisition of the electromyographic activity of the wrist flexor and extensor of the dominant limb during these movements. EMG signal analysis was performed in specific routines developed in Matlab environment (Mathworks®). The results show that the wrist flexion movement when performed in the transverse plane, longitudinal axis has higher percentage of muscle activation when compared to the same movement performed in the sagittal plane, latero-lateral axis.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Design and fuzzy logic control of an active wrist orthosis",
+      "url": "https://doi.org/10.1177/0954411917705408",
+      "publisher": "SAGE Publications",
+      "year": "2017",
+      "doi": "10.1177/0954411917705408",
+      "abstract": "People who perform excessive wrist movements throughout the day because of their professions have a higher risk of developing lateral and medial epicondylitis. If proper precautions are not taken against these diseases, serious consequences such as job loss and early retirement can occur. In this study, the design and control of an active wrist orthosis that is mobile, powerful and lightweight is presented as a means to avoid the occurrence and/or for the treatment of repetitive strain injuries in an effective manner. The device has an electromyography-based control strategy so that the user’s intention always comes first. In fact, the device–user interaction is mainly activated by the electromyography signals measured from the forearm muscles that are responsible for the extension and flexion wrist movements. Contractions of the muscles are detected using surface electromyography sensors, and the desired quantity of the velocity value of the wrist is extracted from a fuzzy logic controller. Then, the actuator system of the device comes into play by conveying the necessary motion support to the wrist. Experimental studies show that the presented device actually reduces the demand on the muscles involved in repetitive strain injuries while performing challenging daily life activities including extension and flexion wrist motions.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Design and control of a robotic wrist orthosis for joint rehabilitation",
+      "url": "https://doi.org/10.1109/aim.2015.7222708",
+      "publisher": "IEEE",
+      "year": "2015",
+      "doi": "10.1109/aim.2015.7222708",
+      "abstract": "Ageing society in many countries has led to an increasing number of stroke and cerebral palsy patients who require rehabilitation therapy. Affected wrist joints often show an increased spasticity and stiffness, caused by impairments of surrounding muscles and tendons. However, the medical devices for wrist joint assessment and rehabilitation are lacking. This paper proposes a robotic orthosis to assist the patient's wrist to perform rehabilitation exercise in a compliant way. A 1-DOF robotic device with parallel mechanism is designed for the wrist joint by utilising pneumatic artificial muscles (PAMs) that are compliant and lightweight. The mechanical design of the wrist orthosis and the corresponding development of pneumatic control system will be also presented. A model-based pressure close-loop control strategy is implemented for the PAMs in order to track the trajectory in high-performance. Experiments on the orthosis demonstrated that the robot could assist the hand to move along a torque-sensitive trajectory with relatively small errors and the differential forces were also kept stable.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "A modular low-clearance wrist orthosis for improving wrist motion in children with Cerebral Palsy",
+      "url": "https://doi.org/10.1109/embc.2014.6944271",
+      "publisher": "IEEE",
+      "year": "2014",
+      "doi": "10.1109/embc.2014.6944271",
+      "abstract": "Children with Cerebral Palsy (CP) often exhibit impairments in the coordination of the grip and lift phases of arm movements that directly impact their ability to perform activities of daily living (ADLs). The application of assistive robotic therapy to children with spastic hemiplegic CP has shown that augmented movement training can lead to improved functional outcomes and improved arm kinematics. Assistive robotic therapy of the wrist has been shown to help improve motor skills in stroke patients, but the devices employed are often large and obtrusive, focusing on a repeated motion rather than a task-based itinerary. Here, we propose a lightweight low clearance wrist orthosis for use in children with Cerebral Palsy that actuates pronation/supination and flexion/extension of the wrist.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "A comparison of the futuro wrist orthosis with a synthetic thermolyn orthosis: Utility and clinical effectiveness",
+      "url": "https://doi.org/10.1002/art.1790110309",
+      "publisher": "Wiley",
+      "year": "1998",
+      "doi": "10.1002/art.1790110309",
+      "abstract": "Abstract Objective. To compare the short‐term utility and clinical effectiveness of the commercial‐made Futuro wrist orthosis with a newly developed, custommade ThermoLyn wrist orthosis. Methods. Using a randomized cross‐over trial, 10 patients with rheumatoid arthritis used each of the two orthoses for two weeks. Outcome measures were patients' judgments with respect to different statements about utility and clinical assessments including pain and swelling of the wrist and finger joints, range of motion of the wrist, and grip strength. At the end of the study the patients were asked which of the two orthoses they preferred and why. Results. Patients tended to favor the Futuro wrist orthosis with respect to pain relief and to handling the orthosis. The visual analog scale score of the appearance of the ThermoLyn wrist orthosis was a little higher than that of the Futuro wrist orthosis, but the difference was not statistically significant. Clinical parameters such as pain in the wrist, swelling of the wrist and finger joints, and movements of the wrist showed that the Futuro orthosis tended to be more effective than the ThermoLyn orthosis. None of the differences reached statistical significance. At the end of the study, 5 patients preferred the Futuro and 5 patients the ThermoLyn wrist orthosis. Arguments in favor of the ThermoLyn orthosis were better hygiene, stability, and no need to remove the orthosis during dirty and wet conditions. Arguments in favor of the Futuro orthosis were greater suppleness and freedom of movement. Conclusions. The ready‐made fabric Futuro wrist orthosis appears to be as good as the more expensive individually made synthetic ThermoLyn wrist orthosis with respect to short‐term utility and clinical effectiveness. The conditions under which the orthosis will be worn will help to decide which orthosis is the best for the patient. In the event that the patient wants to use the orthosis in wet and dirty conditions, the ThermoLyn wrist orthosis is a good alternative to the Futuro wrist orthosis.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Effects of Orthosis and Exercise on The Median Nerve Morphology and Functional Status of Patients with Carpal Tunnel Syndrome: A Randomized Pilot Study",
+      "url": "https://www.bezmialemscience.org/articles/the-effects-of-orthosis-and-exercise-on-the-median-nerve-morphology-and-functional-status-of-patients-with-carpal-tunnel-syndrome-a-randomized-pilot-study/doi/bas.galenos.2024.38981",
+      "publisher": "Bezmiâlem Science",
+      "year": "2024",
+      "doi": "10.14235/bas.galenos.2024.38981",
+      "abstract": "Objective: This study aimed to investigate the effects of orthosis, and additional nerve and tendon gliding exercises (NTGE) on median nerve morphology and functional status in patients with mild-to-moderate carpal tunnel syndrome (CTS) and to compare the effectiveness of proposed treatments. Methods: Twenty-seven wrists of 19 patients with mild-to-moderate CTS were included in the study. They were randomized into three groups: neutral wrist orthosis alone (n=8), the combination of the orthosis with nerve gliding exercises (NGE) (n=10), and the combination of the orthosis with nerve/tendon gliding exercises (n=9). The cross-sectional area (CSA) of the median nerve (ultrasonography) and functional status (Boston carpal tunnel syndrome questionnaire and patient-specific functional scale) were evaluated at baseline and after six weeks of treatment. Results: While the functional status of all groups improved significantly (p<0.05), the CSA of the median nerve significantly decreased in the combination of the orthosis with NGE group (p<0.05). However, there were no significant differences between the treatment groups in relation to the improvement in the intraneural edema and the functional status (p<0.05). Conclusion: The 6-week orthotic treatment and additional NTGE could be effective in improving the patient’s symptoms and functional status. However, the combination of a 6-week orthotic treatment and NGE could be effective in reducing intraneural edema.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.96,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The functional effect of 3D-printing individualized orthosis for patients with peripheral nerve injuries: Three case reports",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7440222/",
+      "publisher": "Medicine",
+      "year": "2020",
+      "doi": "10.1097/md.0000000000019791",
+      "abstract": "Rationale In the medical field, the use of 3-dimensional (3D) printing is increasing explosively and it is especially widespread in the clinical application of fabricating orthosis. Advantages of 3D-printed orthosis compared to conventional ones include its lower cost, easier modification, and faster fabrication. The 3D-printing technique makes it possible for physicians to easily create individual-tailored products. Recently, many kinds of orthosis through 3D printing have been studied and used. The knee orthosis, ankle-foot orthosis, wrist orthosis, hand orthosis, and foot orthotics are examples used in the rehabilitation fields of orthotics. We reported 3 cases of 3D-printed orthoses in patients with peripheral nerve injuries. Patients concerns In spite of the rapid development of the clinical use of 3D printing, to our knowledge, its application to patients with peripheral nerve injuries has not yet been reported. Two patients suffered from upper limb problems and 1 patient had a foot drop associated with peripheral nerve injury. Diagnosis Three patients diagnosed with median neuropathy, ulnar neuropathy, and right lower lumbar radiculopathy, respectively, by electromyography. Interventions Herein we present 3 case reports of patients with peripheral nerve injuries whose orthotic needs were fulfilled with the application of 3D-printed wrist orthosis and ankle-foot orthosis. Outcomes For hand function evaluation, we assessed the Jebsen-Taylor hand function test. Grasp and pinch powers were assessed by a hand dynamometer before and after orthosis application. For lower limb functional evaluation, we used a 6-minute walking test and modified Emory Functional Ambulation Profile for ambulatory function. Lessons The 3D-printed orthosis could help functional improvement in patients with peripheral nerve injuries.",
+      "licence": "cc by",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.7,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Parkinson's Disease Classification Using Machine Learning and Wrist Rigidity Measurements from an Active Orthosis",
+      "url": "https://www.semanticscholar.org/paper/e668840d674ef2684d4a0a6c66a2980d7497d7b2",
+      "publisher": "J. Sens. Actuator Networks",
+      "year": "2025",
+      "doi": "10.3390/jsan15010001",
+      "abstract": "Background: Rigidity is a cardinal symptom of Parkinson’s Disease (PD), yet its clinical evaluation remains largely subjective and susceptible to errors. This study introduces an innovative method for objectively classifying individuals with PD by combining an active wrist orthosis with Machine Learning (ML) models. Methods: The orthosis, equipped with current and force sensors, recorded biomechanical signals during passive wrist flexion and extension, from which twelve quantitative features were extracted. Data were collected from 30 participants (15 with PD and 15 Healthy Controls). Nineteen supervised ML algorithms were systematically evaluated through feature selection, cross-validation, and hyperparameter tuning. Results: Using all twelve features, QDA achieved an accuracy of 0.889 and sensitivity of 1.000, followed by GPC (0.778) and LDA (0.778). After applying feature selection with the Correlation-based Feature Subset to reduce redundancy, Extra Trees reached 0.833 accuracy, while both QDA and GPC maintained accuracies of 0.778. This consistency across models, even with a reduced feature set, highlights the robustness of the extracted biomarkers. Conclusions: These findings confirm that wrist rigidity signals provide discriminative quantitative information between PD patients and HC and are able to support PD classification, combining engineering innovation with clinical practice that highlights the potential of integrating wearable devices and ML as a personalized healthcare in PD.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effect of wrist orthoses on upper limb function, activities of daily living, and stress response",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11047247/",
+      "publisher": "Journal of rehabilitation and assistive technologies engineering",
+      "year": "2024",
+      "doi": "10.1177/20556683241250307",
+      "abstract": "Introduction This study examined the effects on upper limb function, activities of daily living, and stress responses when wearing a wrist orthosis made of padded fiberglass or thermoplastic and provided essential information for selecting an orthosis. Methods Thirty-one healthy adults performed two tests while not wearing a wrist orthosis, wearing a padded fiberglass wrist orthosis, and wearing a thermoplastic wrist orthosis. The Purdue Pegboard Test examined upper limb control. In the second test, the actions indicated by the Hand20 questionnaire were performed while wearing a wrist orthosis. An electrocardiogram was obtained before and after each test to identify any changes in sympathetic nervous system activity. Results The Purdue Pegboard Test scores were significantly higher when not wearing a wrist orthosis than when wearing wrist orthosis, and the Hand20 scores for all question were significantly lower. Thermoplastic wrist orthoses had fewer restrictions for upper limb function compared to padded fiberglass wrist orthoses, however activities of daily living were more limited. The low frequency/high frequency ratio and high frequency measures showed no significant differences. Conclusions Pegboard test scores and the Hand 20 scores suggest that a wrist orthosis causes restriction of upper limb function.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A New Automatic Process Based on Generative Design for CAD Modeling and Manufacturing of Customized Orthosis",
+      "url": "https://www.mdpi.com/2076-3417/14/14/6231",
+      "publisher": "Applied Sciences",
+      "year": "2024",
+      "doi": "10.3390/app14146231",
+      "abstract": "As is widely recognized, advancements in new design and rapid prototyping techniques such as CAD modeling and 3D printing are pioneering individualized medicine, facilitating the implementation of new methodologies for creating customized orthoses. The aim of this paper is to develop a new automatic technique for producing personalized orthoses in a straightforward manner, eliminating the necessity for doctors to collaborate directly with technicians. A novel design method for creating customized wrist orthoses has been implemented, notably featuring a generative algorithm for the parametric modeling of the orthosis. To assess the efficacy of the developed algorithm, a case study was conducted involving the design and rapid prototyping of a wrist orthosis using Fused Deposition Modeling (FDM) technology. Subsequently, the developed algorithm was tested by clinicians and patients. The results obtained indicate that the implemented algorithm is user-friendly and could potentially enable non-expert users to design customized orthoses. These results introduce innovative elements of originality within the CAD modeling, offering promising solutions to the challenges associated with the design and production of customized orthoses. Future developments could consist of a better investigation regarding the parameters that influence the accuracy of the scanning and of the printing processes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Exploring Orthosis Designs for 3D Printing Applying the Finite Element Approach: Study of Different Materials and Loading Conditions",
+      "url": "https://www.scienceopen.com/hosted-document?doi=10.57197/JDR-2023-0011",
+      "publisher": "Journal of Disability Research",
+      "year": "2023",
+      "doi": "10.57197/JDR-2023-0011",
+      "abstract": "Three-dimensional (3D) printing, especially using fused deposition modeling, is becoming more and more popular in the medical sector because of its exceptional advantages. While it has been used for prototyping, 3D printing has not yet been completely explored to produce a functional product. The key causes are the abundance of 3D printing materials and the lack of a comprehensive study outlining the design process. Consequently, this paper describes a reverse engineering (RE) design approach based on data acquisition utilizing laser scanning and splint design from the acquired point cloud data. This study also focuses on the evaluation of various wrist orthosis/splint designs and materials using finite element (FE) analysis in order to improve upon the conventional approach. Sixty FE analysis simulations are undertaken in flexion–extension and radial–ulnar wrist movements to investigate the displacements and the stresses. The splint is then fabricated utilizing the material and thickness that have been specified by FE analysis. The major goals of this study are to examine the RE design methodology, explore various materials, and assess the viability of 3D printing. The polylactic acid (PLA) hand splint has proven to be the sturdiest in terms of average displacements when compared to the other materials, followed by polyethylene terephthalate glycol (PETG), acrylonitrile butadiene styrene (ABS), polypropylene, and thermoplastic polyurethanes. According to simulation data, the PLA splint has 38.6%, 38.8%, 38.5%, and 38.7% less displacement in the major loading direction in flexion, extension, radial, and ulnar, respectively, than the ABS splint. Moreover, the PLA-based hand splint has a peak stress value below the yield strength of PLA, rendering it reliable for patients to wear. Also, it turns out that PETG and ABS behave rather similarly. Furthermore, it has been shown that a balanced approach can reduce material use and building time. For instance, employing PLA and a thickness of 2 mm results in reduced material costs without compromising the effectiveness of the splint. As a result, choosing the right material and splint thickness can help the 3D-printed hand splint perform better.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "\"Idiopathic\" Shoulder Pain and Dysfunction from Carpal Tunnel Syndrome and Cubital Tunnel Syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8856120/",
+      "publisher": "Plastic and reconstructive surgery. Global open",
+      "year": "2022",
+      "doi": "10.1097/gox.0000000000004114",
+      "abstract": "Background:. As a referral center for chronic pain, we see many patients with “idiopathic” shoulder pain and limited range of motion. The combination of mild or subclinical carpal tunnel syndrome and cubital tunnel syndrome may be an underrecognized etiology of symptoms in such patients. Here, we report our treatment algorithm and results for such patients. Methods:. Of patients with a chief complaint of shoulder pain, we identified 56 consecutive patients who had pain or tingling with median nerve compression at the proximal wrist crease and positive Tinel’s around the cubital tunnel. They were first provided a night-time wrist orthosis. If still symptomatic, nerve blocks were given to median and ulnar nerves under ultrasound guidance. If symptoms recurred after nerve blocks, nerve conduction studies and surgical release of affected nerves were performed. Results:. Six patients had 60% or more pain relief with orthosis (mean 4.7 ± 0.8 (SD) to 2.2 ± 0.8). Twenty-three patients had nerve blocks and had persistent pain relief (6.0 ± 1.7 to 2.1 ± 1.9) and significant shoulder motion improvement. Twenty-seven patients only had temporal relief and required surgery but postoperatively had persistent pain relief (6.2 ± 2.0 to 1.2 ± 1.0) and improved shoulder motion. qDASH improved from 33.4 ± 20.1 preoperatively to 12.2 ± 7.4 postoperatively. Conclusions:. All patients had substantial improvement in shoulder pain and motion with compressive neuropathy treatments. Targeted physical examination can identify these patients, who can have significant improvement with appropriate diagnosis and treatment. The study sheds light on an underrecognized cause of shoulder dysfunction.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Role of anti-inflammatory drugs in the complex therapy of patients with carpal tunnel syndrome",
+      "url": "https://www.med-sovet.pro/jour/article/view/6540",
+      "publisher": "Медицинский совет",
+      "year": "2021",
+      "doi": "10.21518/2079-701X-2021-19-119-124",
+      "abstract": "Introduction. Carpal tunnel syndrome (CTS) is a neurological disease associated with tunnel mononeuropathies. There are various proven treatment regimens for patients with the use of conservative and surgical methods of treatment. Studies devoted to a comparative analysis of the effectiveness of methods of conservative therapy in patients with CTS are not enough to choose a treatment strategy.Purpose of the study. To study the therapeutic efficacy of wearing a wrist orthosis with and without the use of NSAIDs in the treatment of patients with CTS.Materials and methods. The study involved 40 patients (the average age of the participants was 32.8 ± 4.3 years) with a primary diagnosis of CTS, who were admitted to the neurological department of of the St Petersburg State Budgetary Healthcare Institution “Elizavetinskaya Hospital”, the Department of Medical Rehabilitation of St. Petersburg State Budgetary Healthcare Institution “St. Luke’s Clinical Hospital” in the period from 2017 to 2021. Patients were randomized into two comparable groups for complex conservative treatment and observation for 2 months of the dynamics of neurological symptoms, pain scale, QuickDASH questionnaire and neurophysiological parameters. The first group of patients received NSAIDs (Nimesil), 1 sachet (100 mg of nimesulide) twice a day after meals for 4 weeks, and the second group – NSAIDs with the imposition of a wrist orthosis for 4 weeks.Results. The study involved 40 patients. The average age of the participants was 32.8 ± 4.3 years (range from 20 to 48 years). Neurophysiological indicators in the studied groups at the screening stage were comparable: distal latency of the M-response (DLMO), ms; the amplitude of the negative peak of the M-response, mV; sensory latency (SL), ms and sensory impulse conduction velocity (SSPI), m / s: 5.7, 5.3, 3.5 and 31.8 in the first group and 5.4, 5.5, 3.8 and 32.4 in the second group (p > 0.05 when comparing the corresponding parameters). After the course of treatment, significant changes in the analyzed parameters were revealed (p < 0.05).Conclusions. In patients who received nimesulide and wore a wrist brace, the effectiveness of treatment was higher.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

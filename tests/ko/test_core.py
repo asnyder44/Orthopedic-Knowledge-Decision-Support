@@ -28,7 +28,7 @@ def test_registry_assigns_next_id_and_blocks_duplicates(data_dir):
         registry.add_concept(path, "test zebra finger", "Condition", "HAND")
     with pytest.raises(ValueError):
         registry.add_concept(path, "CTS", "Condition", "HAND")  # alternate term of KO-HAND-COND-001
-    assert registry.next_id(registry.load_registry(path), "JOINT", "Procedure") == "KO-JOINT-PROC-001"
+    assert registry.next_id(registry.load_registry(path), "GEN", "Device") == "KO-GEN-DEV-001"  # an empty group
 
 
 def test_example_ko_is_valid(data_dir, example_text):

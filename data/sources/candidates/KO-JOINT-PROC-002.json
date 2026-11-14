@@ -1,0 +1,1069 @@
+{
+  "term": "Total Hip Arthroplasty",
+  "collected": "2026-11-14",
+  "count": 59,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Intermittent pneumatic compression therapy as a preventive measure for venous thromboembolism after total hip arthroplasty: A systematic review",
+      "url": "https://doi.org/10.1371/journal.pone.0318954",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0318954",
+      "abstract": "Background: Venous thromboembolism (VTE) is a significant and avoidable complication that may occur after total hip arthroplasty (THA). Various mechanical and chemical prophylactic measures may mitigate this elevated risk of death and functional impairment. Consequently, early prevention of VTE is essential via the identification of related risk factors. Methods: A search was performed using the databases of PubMed, ScienceDirect, PEDro, and Cochrane Library to get papers from 2004 to 2024 in accordance with PRISMA guidelines. Only randomized controlled trials (RCTs) published in English that included at least one group undergoing intermittent pneumatic compression (IPC) treatment as a prophylactic intervention after total hip arthroplasty (THA) were included. This systematic review has been registered in PROSPERO. The quality evaluation of the included studies was conducted using the PEDro scale and the Cochrane risk of bias instrument. Result: We selected 12 studies from a total of 733 based on predetermined criteria. A total of 2,352 patients of both genders underwent total hip arthroplasty, comprising 1,294 patients in the experimental group and 1,058 patients in the control group across the included studies. The results indicate that the combination of IPC and pharmaceutical agents was the most effective treatment for reducing VTE risk in patients who underwent THA. Conclusion: IPC therapy is very effective in avoiding VTE, particularly when used in combination with pharmacological therapies after THA surgery. The best ways to lower the risk of VTE are to use both IPC and anticoagulants together. However, IPC alone may lower the risk of VTE compared to not using any prevention at all. In general, IPC is a crucial component of comprehensive VTE prevention strategies in THA.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.1,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Total hip arthroplasty versus hemiarthroplasty for displaced femoral neck fractures in the healthy elderly: a meta-analysis and systematic review of randomized trials",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3535035/",
+      "publisher": "International orthopaedics",
+      "year": "2012",
+      "doi": "10.1007/s00264-012-1569-7",
+      "abstract": "Purpose Displaced femoral neck fractures in healthy elderly patients have traditionally been managed with hemiarthroplasty (HA). Recent data suggest that total hip arthroplasty (THA) may be a better alternative. Methods A systematic review of the English literature was conducted. Randomized controlled trials comparing all forms of THA with HA were included. Three authors independently extracted articles and predefined data. Results were pooled using a random effects model. Results Eight trials totalling 986 patients were retrieved. After THA 4 % underwent revision surgery versus 7 % after HA. The one-year mortality was equal in both groups: 13 % (THA) versus 15 % (HA). Dislocation rates were 9 % after THA versus 3 % after HA. Equal rates were found for major (25 % in THA versus 24 % in HA) and minor complications (13 % THA versus 14 % HA). The weighted mean of the Harris hip score was 81 points after THA versus 77 after HA. The subdomain pain of the HHS (weighted mean score after THA was 42 versus 39 points for HA), the rate of patients reporting mild to no pain (75 % after THA versus 56 % after HA) and the score of WOMAC (94 points for THA versus 78 for HA) all favored THA. Quality of life measured with the EQ-5D favored THA (0.69 versus 0.57). Conclusions Total hip arthroplasty for displaced femoral neck fractures in the fit elderly may lead to higher patient-based outcomes but has higher dislocation rates compared with hemiarthroplasty. Further high-quality randomized clinical trails are needed to provide robust evidence and to definitively answer this clinical question.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.58,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Minimally Invasive Surgical Approaches and Traditional Total Hip Arthroplasty: A Meta-Analysis of Radiological and Complications Outcomes",
+      "url": "https://doi.org/10.1371/journal.pone.0037947",
+      "publisher": "PLoS ONE",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0037947",
+      "abstract": "Background: Minimally invasive total hip arthroplasty (MITHA) remains considerably controversial. Limited visibility and prosthesis malposition increase the risk of post-surgical complications compared to those of the traditional method. Methods: A meta-analysis was undertaken of all published databases up to May 2011. The studies were divided into four subgroups according to the surgical approach taken. The radiological outcomes and complications of minimally invasive surgery were compared to traditional total hip arthroplasty (TTHA) using risk ratio, mean difference, and standardized mean difference statistics. Results: In five studies involving the posterolateral approach, no significant differences were found between the MITHA groups and the TTHA groups in the acetabular cup abduction angle (p = 0.41), acetabular anteversion (p = 0.96), and femoral prosthesis position (p = 0.83). However, the femoral offset was significantly increased (WMD = 3.00; 95% CI, 0.40–5.60; p = 0.02). Additionally, there were no significant differences among the complications in both the groups (dislocations, nerve injury, infection, deep vein thrombosis, proximal femoral fracture) and revision rate (p>0.05). In three studies involving the posterior approach, there were no significant differences in radiological outcomes or all other complications between MITHA or TTHA groups (p>0.05). Three studies involved anterolateral approach, while 2 studies used the lateral approach. However, the information from imaging and complications was not adequate for statistical analysis. Conclusions: Posterior MITHA seems to be a safe surgical procedure, without the increased risk of post-operative complication rates and component malposition rates. The posterolateral approach THA may lead to increased femoral offset. The current data are not enough to reach a positive conclusion that lateral and anterolateral approaches will result in increased risks of adverse effects and complications at the prosthesis site.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.58,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Hip Replacement",
+      "url": "https://medlineplus.gov/hipreplacement.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Hip replacement is surgery for people with severe hip damage. The most common cause of damage is osteoarthritis. Osteoarthritis causes pain, swelling, and reduced motion in your joints. It can interfere with your daily activities. If other treatments such as physical therapy, pain medicines, and exercise haven't helped, hip replacement surgery might be an option for you. During a hip replacement operation, the surgeon removes damaged cartilage and bone from your hip joint and replaces them with new, man-made parts. A hip replacement can: Relieve pain Help your hip joint work better Improve walking and other movements The most common problem after surgery is hip dislocation. Because a man-made hip is smaller than the original joint, the ball can come out of its socket. The surgery can also cause blood clots and infections. With a hip replacement , you might need to avoid certain activities, such as jogging and high-impact sports. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Hip Injuries and Disorders",
+      "url": "https://medlineplus.gov/hipinjuriesanddisorders.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Your hip is the joint where your femur (thigh bone) meets your pelvis ( hip bone). There are two main parts: a ball at the end of the femur, which fits in a socket in the pelvis. Your hip is known as a ball-and-socket joint. This is because you have a ball at the end of your femur, and it fits into a socket in your pelvis. This makes your hips very stable and allows for a wide range of motion. When they are healthy, it takes great force to hurt them. However, playing sports, running, overuse, or falling can sometimes lead to hip injuries such as: Strains Bursitis Dislocations Fractures (broken bones) Certain diseases also lead to hip injuries or problems. Osteoarthritis can cause pain and limited motion. Osteoporosis of the hip causes weak bones that break easily. Both of these are common in older people. Another problem is hip dysplasia, where the ball at the end of the femur is loose in the hip socket. It can cause hip dislocation. Babies who have hip dysplasia are usually born with it, but sometimes they develop it later. Treatment for hip disorders may include rest, medicines, physical therapy, or surgery, including hip replacement .",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Knee Replacement",
+      "url": "https://medlineplus.gov/kneereplacement.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "What is knee replacement surgery? Knee replacement surgery is a surgery to replace parts of your knee joint with new, artificial parts. You may need a knee replacement if you have knee damage that causes severe pain and difficulty doing daily activities, such as walking and climbing stairs. It is usually done when other treatments for knee pain haven't helped enough. The goal of a knee replacement is to relieve pain and help you move better. People of all ages may have knee replacement surgery. But it is more common in older people. The decision whether to have surgery is based on your overall health and how much your knee bothers you. What conditions does knee replacement surgery treat? Knee replacement surgery treats conditions that cause the cartilage of the knee joint to wear away. These include: Knee osteoarthritis. This is the most common reason for knee replacement surgery. It usually develops over time after an injury or with aging. Knee damage from other types of arthritis. Problems from knee joints that aren't formed correctly. What happens during knee replacement surgery? During the surgery, a surgeon removes damaged cartilage and some bone from the surfaces of your knee joint. Cartilage is tissue that covers your bones where they meet. Healthy cartilage is smooth and helps the bones glide over each other when you move. When cartilage becomes rough and wears away, the bones rub against each other, causing pain. After removing the damaged knee cartilage and bone, the surgeon attaches the artificial parts to your bones. The artificial parts are made of metal and plastic. They will give your knee new, smooth surfaces. Knee replacement surgery may replace all the damaged parts of your knee ( total knee replacement) or just part of your knee (partial knee replacement). In a total knee replacement, the surgeon replaces 3 surfaces: The end of the shinbone The end of the thighbone The back of the kneecap What happens after knee replacement surgery? Some people go home the same day they have surgery. Other people will stay in the hospital a few days. To help prevent blood clots, you'll most likely take blood thinners and wear special socks or coverings on your legs for a short time after surgery. The success of your surgery depends a lot on what you do at home to help yourself recover. A physical therapist will teach you exercises to make your knee stronger and help it bend. It is important to do these exercises regularly. You may need to use a cane or walker for several weeks after the surgery. It will probably also be several weeks before you can drive. Your doctor will tell you when you can start driving again. Most people who follow their recovery instructions can get back to nearly all of their normal daily activities within 3 to 6 weeks after surgery. What is life like after a knee replacement? After recovering from surgery, most people can move better with less pain than before surgery. But having an artificial knee is not the same as having a normal, healthy knee. You need to protect your new knee by: Staying at a healthy weight. Getting regular physical activity. Not doing any high-impact activities, such as jogging, running, and jumping. Instead, you can try low-impact activities that are good for your knee, such as walking, biking, and swimming What are the risks of knee replacement surgery? The chance of having problems after knee replacement surgery is low. But there are risks after any surgery. Possible problems after knee replacement surgery include: Infection Blood clots Heart attack Stroke Nerve damage Scarring that limits how far you can bend your knee Your age, general health, and how active you are can all affect your risk of having a problem after knee replacement surgery. How long does a knee replacement last? A knee replacement doesn't last forever. After 15 to 20 years, the artificial knee parts may become loose or worn. If that happens, you may need another surgery on the same knee. If you're thinking about having knee replacement surgery, talk to your doctor about the risks and benefits. Together you can decide if a knee replacement is right for you.",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Intra-articular versus intravenous tranexamic acid in total hip arthroplasty: A systematic review and meta-analysis of randomized controlled trials",
+      "url": "https://hal.science/hal-04596960v1",
+      "publisher": "Advances in Medicine, Psychology, and Public Health",
+      "year": "2024",
+      "doi": "10.5281/zenodo.11075371",
+      "abstract": "Introduction: Given the increasing prevalence of hip dysfunction and the consequent rise in total hip arthroplasty procedures, our research aims to elucidate the optimal administration route of tranexamic acid to minimize perioperative complications and enhance patient. Methods: The BioMedCentral, PubMed, EMBASE, Scopus, and Cochrane Central Register databases were searched for pertinent studies published up until January 12, 2024. Randomized and quasi-randomized clinical trials comparing intravenous versus intra-articular tranexamic acid in adult patients under total hip arthroplasty were included. Pooled analysis was conducted using Review Manager v. 5.4 software (RevMan). The level of statistical significance was set at p < 0.05. Results: Nineteen trials were included in the meta-analysis. Hemoglobin drops after IV-TXA compared to IA-TXA showed no statistically significant differences (SMD = -0.08; 95%CI: 0.41 to 0.24; p=0.61). The situation was similar for hemoglobin drop (SMD = 0.03; 95%CI: 0.10 to 0.17; p=0.62). Total blood loss for IV-TXA was 935 ± 527 mL, compared to 962 ± 519 mL for IA-TXA (SMD = -0.07; 95%CI: -0.19 to 0.05; p=0.23; Figure 6). The need for blood transfusion was noted in 8.1% of IV-TXA-treated patients and 8.3% of IA-TXA-treated patients (OR = 0.95; 95%CI: 0.66 to 1.38; p=0.79). Discussion and Conclusions: Both the intravenous and intra-articular tranexamic acid administration showed the same level of effectiveness in limiting blood loss, lowering post operative complications, and minimizing overall adverse events in total hip arthroplasty. These approaches may be used interchangeably at the clinician's discretion without determining the superiority of any method. Moreover, it is vital to include tranexamic acid in the guidelines since it should be frequently used in any operation of this kind.",
+      "licence": "https://hal.science/licences/copyright/",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.06,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Radiographic cup position following posterior and lateral approach to total hip arthroplasty. An explorative randomized controlled trial",
+      "url": "https://doi.org/10.1371/journal.pone.0191401",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0191401",
+      "abstract": "The two most common surgical approaches to total hip arthroplasty are the posterior approach and lateral approach. The surgical approach may influence cup positioning and restoration of the offset, which may affect the biomechanical properties of the hip joint. The primary aim was to compare cup position between posterior approach and lateral approach. Secondary aims were to compare femoral offset, abductor moment arm and leg length discrepancy between the two approaches. Eighty patients with primary hip osteoarthritis were included in a randomized controlled trial and assigned to total hip arthroplasty using posterior approach or lateral approach. Postoperative radiographs from 38 patients in each group were included in this study for measurement of cup anteversion and inclination. Femoral offset, cup offset, total offset, abductor moment arm and leg length discrepancy were measured on preoperative and postoperative radiographs in 28 patients in each group. We found that mean anteversion was 5° larger in the posterior approach group (95% CI, -8.1 to -1.4; p = 0.006), while mean inclination was 5° less steep (95% CI, 2.7 to 7.2; p<0.001) compared with the lateral approach group. The posterior approach group had a larger mean femoral offset of 4.3mm (95% CI, -7.4 to -1.3, p = 0.006), mean total offset of 6.3mm (95% CI, -9.6 to -3; p<0.001) and mean abductor moment arm of 4.8mm (95% CI, -7.6 to -1.9; p = 0.001) compared with the lateral approach group. We found a larger cup anteversion but less steep cup inclination in the posterior approach group compared with the lateral approach group. Femoral offset and abductor moment arm were restored after total hip arthroplasty using lateral approach but significantly increased when using posterior approach.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.72,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Is topical or intravenous tranexamic acid preferred in total hip arthroplasty? A randomized, controlled, noninferiority clinical trial",
+      "url": "https://doi.org/10.1371/journal.pone.0204551",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0204551",
+      "abstract": "Purpose: The present study aimed to confirm the efficacy and safety of topical and intravenous tranexamic acid (TXA) compared with that of topical placebo and to assess the noninferiority between the two application methods of TXA in patients undergoing unilateral primary total hip arthroplasty. Methods: Our randomized controlled trial investigated 170 patients with 1:1:1 allocation to two doses of 10-mg/kg intravenous TXA, 3-g topical TXA, and topical placebo of 60-ml physiological saline groups. The primary outcome, total blood loss, was calculated with Nadler and Gross formula. The secondary outcomes included allogeneic blood transfusion requirement, drain blood loss, decreased hemoglobin level. Noninferiority would be established when the upper limit 95% CI is lower than 250 ml of the noninferiority margin for the mean difference of total blood loss between topical and intravenous TXA. Thromboembolic complication incidence was considered as a safety outcome. Results: The total blood loss of patients administered intravenous (mean±standard deviation, 1125±514 ml) and topical TXA (1211±425 ml) was significantly reduced compared with that of those administered topical placebo (1464±556 ml) (p = 0.0012). Drain blood loss and hemoglobin level reduction in patients administered with TXA were also significantly lower than those in patients administered topical placebo. The mean difference of total blood loss between topical and intravenous TXA is 86 ml (95% CI, −88 to 260 ml). The complications were comparable between patients managed with TXA and patients with topical placebo. Conclusion: The noninferiority of topical TXA to intravenous TXA can not be concluded. Considering no significant difference was found in all efficacy outcomes between the two administration methods. Any of the two TXA administration methods can be adopted for blood loss prevention in total hip arthroplasty.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.72,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Multi-center experience with outpatient total hip arthroplasty via a standard posterolateral approach",
+      "url": "https://doi.org/10.1371/journal.pone.0292003",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0292003",
+      "abstract": "Background: This study sought to evaluate the safety, efficacy, and resource utilization of a pilot outpatient surgery program for total hip arthroplasty compared to traditional inpatient total hip arthroplasty performed via the posterolateral approach. Methods: A cohort of 68 patients from two sites were enrolled in a regional pilot project for outpatient total hip arthroplasty (THA) and matched 1:1 against a cohort of patients undergoing routine inpatient THA. Data was extracted retrospectively from patient and hospital charts including adverse events (AE), readmission within 90 days, emergency room (ER) visits, patient calls, patient-reported outcome measures, length of stay, and multiple surgical variables. Results: The outpatient group had a mean hospital stay of 13 hours, whereas the inpatient group had a mean of 58 hours (p 0.125). Conclusion: This study demonstrates that outpatient THA using the posterolateral approach is as safe and effective as inpatient THA for overall healthy and carefully screened patients, based on the low rate of AEs observed and similar patient outcomes reported. Significantly reduced time in hospital demonstrates the reduced healthcare resources associated with outpatient THA.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "An Institutional Based Retrospective Study to Compare the Gait, Trendelenburg Test and Functional Outcome between Lateral and Posterior Approaches for Primary Total Hip Arthroplasty (THA)",
+      "url": "https://zenodo.org/records/11320028",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2023",
+      "doi": "10.5281/zenodo.11320028",
+      "abstract": "Background: When a patient’s hip joint is damaged, a Total Hip Arthroplasty (THA) is frequently required. Whether a posterior or lateral surgical approach is preferable has been discussed. This retrospective study was conducted between 1st January 2022 and 31st December 2022 to compare the lateral and posterior approaches to THA regarding postoperative gait patterns, Trendelenburg test results, and functional recovery in 200 patients. Methods: Two hundred patients were analysed, with the first group being studied using a lateral technique and the second group being studied using a posterior approach. Patients had preoperative, postoperative, and 12-month assessments of gait, Trendelenburg, and functional outcomes. There was a statistical comparison of the two procedures. Results: The mean BMI for the posterior approach group was 29,1, while the mean BMI for the lateral approach group was 28.6. After surgery and rehabilitation, gait performance analysis suggested a distinct advantage for the posterior approach. One year after surgery, the posterior group’s stride length was 97.4 centimetres, while the lateral group’s was 94.2. The reduction of stance time during the gait cycle confirms the gait efficacy of the posterior approach. Postoperatively, both groups possessed fewer positive Trendelenburg tests, indicating enhanced hip abductor function. One year after surgery, only 7% of posterior and 11% of lateral patients had positive Trendelenburg tests. The functional outcomes of the Harris Hip Score improved in both groups over time, but the posterior group consistently outperformed the anterior group. One year after surgery, posterior approach patients had a greater Hip Health Score than lateral approach patients, showing superior hip health and function. Conclusion: This study shows that compared to the lateral method, the posterior technique for THA improves gait, hip muscle function, and hip health more generally. These findings illustrate the importance of considering the patient’s outcomes and quality of life while selecting a surgical technique for THA.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Local infiltration analgesia with bupivacaine and adrenaline does not reduce perioperative blood loss in total hip arthroplasty",
+      "url": "https://doi.org/10.1371/journal.pone.0257202",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0257202",
+      "abstract": "This study evaluates the effect of local infiltration analgesia with bupivacaine and adrenaline on perioperative blood loss in total hip arthroplasty. Patients who had primary total hip arthroplasty were retrospectively assigned to two groups. One group had 100 ml of bupivacaine/adrenaline solution injected into periarticular soft tissues at the end of the procedure. There were 55 patients in the infiltrated hip group and 44 patients in the not infiltrated group. Patients’ hemoglobin level (Hb), hematocrit (HTC), red blood count (RBC), platelet count (PLT) and International Normalized Ratio (INR) as well as the need for blood transfusions were compared statistically between groups preoperatively and postoperatively. There were no significant differences between Hb, HTC or RBC levels as well as the rate and amount of blood transfusions on the 1st, 4th postoperative days or at patients’ discharge between infiltrated and not infiltrated groups. This study does not support the hypothesis that the use of local infiltration analgesia with adrenaline may reduce perioperative blood loss in total hip arthroplasty.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "3D Printed Acetabular Cups for Total Hip Arthroplasty: A Review Article",
+      "url": "https://www.mdpi.com/2075-4701/9/7/729",
+      "publisher": "Metals",
+      "year": "2019",
+      "doi": "10.3390/met9070729",
+      "abstract": "Three-dimensional (3D) printed titanium orthopaedic implants have recently revolutionized the treatment of massive bone defects in the pelvis, and we are on the verge of a change from conventional to 3D printed manufacture for the mass production of millions of off-the-shelf (non-personalized) implants. The process of 3D printing has many adjustable variables, which taken together with the possible variation in designs that can be printed, has created even more possible variables in the final product that must be understood if we are to predict the performance and safety of 3D printed implants. We critically reviewed the clinical use of 3D printing in orthopaedics, focusing on cementless acetabular components used in total hip arthroplasty. We defined the clinical and engineering rationale of 3D printed acetabular cups, summarized the key variables involved in the manufacturing process that influence the properties of the final parts, together with the main limitations of this technology, and created a classification according to end-use application to help explain the controversial and topical issues. Whilst early clinical outcomes related to 3D printed cups have been promising, in-depth robust investigations are needed, partly because regulatory approval systems have not fully adapted to the change in technology. Analysis of both pristine and retrieved cups, together with long-term clinical outcomes, will help the transition to 3D printing to be managed safely.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Influence of leg length inequalities on pelvis and spine in patients with total hip arthroplasty",
+      "url": "https://doi.org/10.1371/journal.pone.0221695",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0221695",
+      "abstract": "Background: Leg length inequalities (LLIs) are a common finding in patients with a total hip arthroplasty (THA). Therefore, we compared the effects of simulated LLIs in patients with total hip arthroplasty (THA) with a matched control group. Research question: Do LLIs lead to different effects on the musculoskeletal apparatus of patients with a THA then in a control group? Methods: In 99 patients with a THA the effects of simulated LLIs were compared to a matched control group of 101 subjects without a hip arthroplasty. First, we compared methods for LLI quantification (tape measurements, pelvic x- ray and rasterstereography). Second, the effects of simulated LLIs on the spine and pelvis were evaluated in both groups using surface topography. LLIs of 5, 10, 15, 20 and 30 mm were simulated on both sides with a simulation platform. The changes of pelvic position (pelvic obliquity & pelvic torsion) and the effects on spinal posture (surface rotation & lateral deviation) were measured and analysed using a surface topography system. Results: Mean LLI measured with a tape was 0.9 mm (SD +/- 14.8). Mean pelvic obliquity measured on x-rays was 1.2 mm (SD +/- 11.6) and with surface topography 0.9 mm (SD +/- 7.9). Simulated LLIs resulted in significant changes of pelvic position and spinal posture in the patient and control group. Interestingly, our study showed that simulated LLIs lead to greater changes in pelvic position (p<0.05) in patients with a THA. Significance: This is the first study to demonstrate that LLIs might have a greater impact on the pelvic position of THA patients than in native hips, which could indicate that LLIs do need to be compensated differently in patients with THA than in patients without a THA.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Severe Pelvic Obliquity Affects Femoral Offset in Patients with Total Hip Arthroplasty but Not Leg-Length Inequality",
+      "url": "https://doi.org/10.1371/journal.pone.0144863",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0144863",
+      "abstract": "Leg-length inequality is an extensively studied complication of total hip arthroplasty in normal patients. However, few studies have focused on the pelvic obliquity of coronal pelvic malrotation. We hypothesized that pelvic obliquity with a fixed abduction/adduction contracture deformity of the hip may intraoperatively affect the release of soft tissues, ultimately resulting in a leg-length inequality. This study also investigated whether the femoral and vertical offsets of total hip arthroplasty were correlated with pelvic obliquity. This prospective study divided 98 patients into six groups based on the inclination of pelvic obliquity before total hip arthroplasty. Leg-length inequality, variation of pelvic obliquity, offset, and vertical offset were measured after total hip arthroplasty. Leg-length inequality and vertical offset were not significantly different among groups, whereas the variation of pelvic obliquity was significantly higher in type IIC pelvic obliquity than in other groups. Type IC pelvic obliquity had a significantly shorter offset than did the other groups, which may have been an important factor leading to type IC pelvic obliquity. Pelvic obliquity exhibited no significant effect on leg-length inequality in patients with total hip arthroplasty. A shorter offset may be caused by the higher tension of the abductor in the operated hip, which may result in the formation of type IC pelvic obliquity. Releasing the abductor contracture and restoring femoral offset are important for increasing hip stability and maintaining pelvic balance following total hip arthroplasty.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Calibration Markers for Digital Templating in Total Hip Arthroplasty",
+      "url": "https://doi.org/10.1371/journal.pone.0128529",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0128529",
+      "abstract": "Digital templating with external calibration markers is the standard method for planning total hip arthroplasty. We determined the geometrical basis of the magnification effect, compared magnification with external and internal calibration markers, and examined the influence on magnification of the position of the calibration markers, patient weight, and body mass index (BMI). A formula was derived to calculate magnification with internal and external calibration markers, informed by 100 digital radiographs of the pelvis. Intraclass correlations between the measured and calculated values and the strength of relationships between magnification, position and distance of calibration markers and height, weight, and BMI were sought. There was a weak correlation between magnification of internal and external calibration markers (r = 0.297–0.361; p < 0.01). Intraclass correlations were 0.882–1.000 (p = 0.000) for all parameters. There were also weak correlations between magnification of internal and external calibration markers and weight and BMI (r = 0.420, p = 0.000; r = 0.428, p = 0.000, respectively). The correlation between external and internal calibration markers was poor, indicating the need for more accurate calibration methods. While weight and BMI weakly correlated with the magnification of markers, future studies should examine this phenomenon in more detail.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison of Patient and Surgeon Expectations of Total Hip Arthroplasty",
+      "url": "https://doi.org/10.1371/journal.pone.0030195",
+      "publisher": "PLoS ONE",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0030195",
+      "abstract": "Objectives: Analysis of discrepancies between patient and surgeon expectations before total hip arthroplasty (THA) should enable a better understanding of motives of dissatisfaction about surgery, but this question has been seldom studied. Our objectives were to compare surgeons' and patients' expectations before THA, and to study factors which affected surgeon-patient agreement. Methods: 132 adults (mean age 62.8+/−13.7 years, 52% men) on waiting list for THA in three tertiary care centres and their 16 surgeons were interviewed to assess their expectations using the Hospital for Special Surgery Total Hip Replacement Expectations Survey (range 0–100). Patients' and surgeons' answers were compared, for the total score and for the score of each item. Univariate analyses tested the effect of patients' characteristics on surgeons' and patients' expectations separately, and on surgeon-patient differences. Results: Surgeon and patient expectations' mean scores were high (respectively 90.9+/−11.1 and 90.0+/−11.6 over 100). Surgeons' and patients' expectations showed no systematic difference, but there was little agreement on Bland and Altman graph and correlation coefficient was low. Patients had higher expectations than surgeons for sports. Patients rated their expectations according to trust in physician and mental quality of life, surgeons considered disability. More disabled patients and patients from a low-income professional category were often “more optimistic” than their surgeons. Conclusion: Surgeons and patients often do not agree on what to expect from THA. More disabled patients expect better outcomes than their surgeons.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Patients’ needs and experiences of telerehabilitation after total hip and knee arthroplasty: A qualitative systematic review and meta-synthesis",
+      "url": "https://doi.org/10.1177/20552076241256756",
+      "publisher": "Digital Health",
+      "year": "2024",
+      "doi": "10.1177/20552076241256756",
+      "abstract": "Background The number of patients undergoing joint replacement procedures is continuously increasing. Tele-equipment is progressively being employed for postrehabilitation of total hip and knee replacements. Gaining a comprehensive understanding of the experiences and requirements of patients undergoing total hip and knee arthroplasty who participate in telerehabilitation can contribute to the enhancement of telerehabilitation programs and the overall rehabilitation and care provided to this specific population. Objective To explore the needs and experiences of total hip and knee arthroplasty patients with telerehabilitation. Design Systematic review and qualitative synthesis. Methods Electronic databases PubMed, Web of Science, The Cochrane Library, Embase, CINAHL, Scopus, ProQuest, CNKI, Wanfang Data, VIP, and SinoMed were systematically searched for information on the needs and experiences of telerehabilitation for patients with total hip arthroplasty and total knee arthroplasty in qualitative studies. The search period was from the creation of the database to March 2024. Literature quality was assessed using the 2016 edition of the Australian Joanna Briggs Institute Centre for Evidence-Based Health Care Quality Assessment Criteria for Qualitative Research. A pooled integration approach was used to integrate the findings inductively. Results A total of 11 studies were included and 4 themes were identified: the desire to communicate and the need to acquire knowledge; accessible, high-quality rehabilitation services; positive psychological experiences; the dilemmas of participating in telerehabilitation. Conclusions This study's findings emphasize that the practical needs and challenges of total hip and knee arthroplasty patients’ participation in telerehabilitation should be continuously focused on, and the advantages of telerehabilitation should be continuously strengthened to guarantee the continuity of patients’ postoperative rehabilitation and to promote their postoperative recovery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.06,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Uncemented and cemented primary total hip arthroplasty in the Swedish Hip Arthroplasty Register",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856202/",
+      "publisher": "Acta orthopaedica",
+      "year": "2010",
+      "doi": "10.3109/17453671003685400",
+      "abstract": "Background and purpose Since the introduction of total hip arthroplasty (THA) in Sweden, both components have most commonly been cemented. A decade ago the frequency of uncemented fixation started to increase, and this change in practice has continued. We therefore analyzed implant survival of cemented and uncemented THA, and whether the modes of failure differ between the two methods of fixation. Patients and methods All patients registered in the Swedish Hip Arthroplasty Register between 1992 and 2007 who received either totally cemented or totally uncemented THA were identified (n = 170,413). Kaplan-Meier survival analysis with revision of any component, and for any reason, as the endpoints was performed. Cox regression models were used to calculate risk ratios (RRs) for revision for various reasons, adjusted for sex, age, and primary diagnosis. Results Revision-free 10-year survival of uncemented THA was lower than that of cemented THA (85% vs. 94%, p Interpretation Survival of uncemented THA is inferior to that of cemented THA, and this appears to be mainly related to poorer performance of uncemented cups. Uncemented stems perform better than cemented stems; however, unrecognized intraoperative femoral fractures may be an important reason for early failure of uncemented stems. The risk of revision of the most common uncemented cup designs is similar to that of cemented cups, indicating that some of the problems with uncemented cup fixation may have been solved.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Enhanced recovery after surgery for hip and knee arthroplasty: a systematic review and meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5740550/",
+      "publisher": "Postgraduate medical journal",
+      "year": "2017",
+      "doi": "10.1136/postgradmedj-2017-134991",
+      "abstract": "Objectives To collect data of randomised controlled trials (RCTs) and clinical controlled trials (CCTs) for evaluating the effects of enhanced recovery after surgery on postoperative recovery of patients who received total hip arthroplasty (THA) or total knee arthroplasty (TKA). Methods Relevant, published studies were identified using the following key words: arthroplasty, joint replacement, enhanced recovery after surgery, fast track surgery, multi-mode analgesia, diet management, or steroid hormones. The following databases were used to identify the literature consisting of RCTs or CCTs with a date of search of 31 December 2016: PubMed, Cochrane, Web of knowledge, Ovid SpringerLink and EMBASE. All relevant data were collected from studies meeting the inclusion criteria. The outcome variables were postoperative length of stay (LOS), 30-day readmission rate, and total incidence of complications. RevMan5.2. software was adopted for the meta-analysis. Results A total of 10 published studies (9936 cases) met the inclusion criteria. The cumulative data included 4205 cases receiving enhanced recovery after surgery (ERAS), and 5731 cases receiving traditional recovery after surgery (non-ERAS). The meta-analysis showed that LOS was significantly lower in the ERAS group than in the control group (non-ERAS group) (p Conclusions ERAS significantly reduces LOS and incidence of complications in patients who have had THA or TKA. However, ERAS does not appear to significantly impact 30-day readmission rates.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.78,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Surgical approach does not influence instability risk in primary total hip arthroplasty with monobloc dual mobility cup",
+      "url": "https://hal.science/hal-05249613v1",
+      "publisher": "The Journal of Arthroplasty",
+      "year": "2026",
+      "doi": "10.1016/j.arth.2025.08.081",
+      "abstract": "Background: The impact of the surgical approach on the risk of dislocation in total hip arthroplasty (THA) remains controversial, particularly when monobloc dual mobility cups (DMCs) are used. This study aimed to compare dislocation and complication rates between the postero-lateral and direct anterior approaches with a DMC in primary elective THA, based on data collected from a single center. Methods: Between 2010 and 2022, 1,378 consecutive primary THAs were performed using a monobloc DMC. There were 824 performed by direct anterior approach (DAA) and 554 by postero-lateral approach (PLA). Exclusion criteria were cemented implants, patients treated for femoral neck fracture, developmental hip dysplasia, osteosynthetic complications, and follow-up of less than one year. Complications and revisions were analyzed retrospectively. The mean follow-up was 39 months (range, 12 to 157). Results: There was no statistically significant difference between the risk of dislocation with the anterior approach (n = 0; 0%) compared with the posterior approach (n = 2; 0.4%) (P = 0.16). There were more major complications, such as femoral fractures, in the PLA group in an older, more overweight, and higher ASA (American Society of Anesthesia) score population. Conclusion: In total hip arthroplasty using monobloc dual-mobility cups, the dislocation rate with the postero-lateral approach is no higher than with the direct anterior approach. The low incidence of dislocations in this large cohort supports the benefits of using monobloc DMCs.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Progressive Loosening in Metal-on-Metal Total Hip Arthroplasty after Fifteen Years of Effective Function: Two Case Reports",
+      "url": "https://jocr.co.in/wp/2025/08/01/progressive-loosening-in-metal-on-metal-total-hip-arthroplasty-after-fifteen-years-of-effective-function-two-case-reports/",
+      "publisher": "Journal of Orthopaedic Case Reports",
+      "year": "2025",
+      "doi": "10.13107/jocr.2025.v15.i08.5890",
+      "abstract": "Introduction: Metallosis is a pathological condition associated with the release of metal debris from joint implants, particularly metal-on-metal (MoM) articulations in total hip arthroplasty (THA). The metal debris triggers adverse local tissue reactions, including aseptic lymphocyte-vasculitis-associated lesions (ALVALs), pseudotumor formation, and progressive implant loosening. Case Report: Case 1 - A 64-year-old male presented with hip pain and limping 15 years after an uncemented MoM THA. Investigations revealed femoral stem loosening. Intraoperatively, dark synovial fluid, necrotic tissue, elevated cobalt, and chromium levels were consistent with metallosis were identified. Revision surgery replaced the components with alternative bearings, and the patient returned to normal activities within a year. Case 2 - A 63-year-old female with bilateral MoM THAs reported similar symptoms 15-year post-surgery. Imaging identified a pseudotumor and femoral loosening. Elevated serum metal ion levels confirmed the diagnosis. Revision surgery revealed ALVAL, and components were replaced with ceramic-on-polyethylene implants, resolving symptoms. Conclusion: Metallosis poses a significant risk in MoM THA, caused by wear and corrosion, leading to systemic and local tissue damage. Timely diagnosis through clinical evaluation, imaging, and serum metal ion levels is critical for intervention. Revision surgeries are effective in managing metallosis and restoring function. These cases highlight the importance of long-term monitoring and the consideration of alternative bearing surfaces in hip arthroplasty.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Does total hip arthroplasty benefit patients with minimal radiological osteoarthritis?",
+      "url": "https://online.boneandjoint.org.uk/doi/epdf/10.1302/2633-1462.63.BJO-2024-0103.R1",
+      "publisher": "Bone & Joint Open",
+      "year": "2025",
+      "doi": "10.1302/2633-1462.63.BJO-2024-0103.R1",
+      "abstract": "Aims: The effectiveness of total hip arthroplasty (THA) for patients with no or minimal radiological signs of osteoarthritis (OA) is unclear. In this study, we aimed to: 1) assess the outcome of such patients; 2) identify patient comorbidities and CT or MRI findings which predicted outcome; and 3) compare their outcome to the expected outcome of THA for hip OA. Methods: Adult patients undergoing THA for hip pain, with no or minimal radiological features of OA (Tönnis grading scale ≤ 1), were identified from a consecutive series of 1,925 THAs. Exclusion criteria were: inflammatory arthritis; osteonecrosis of the femoral head; prior trauma or infection; and patients without minimum one-year follow-up and patient-reported outcome measures (PROMs). The primary outcome measure was the Oxford Hip Score (OHS). Secondary outcome measures were EuroQol-visual analogue scale (EQ-VAS), University of California and Los Angeles (UCLA) scale, and patient satisfaction on a validated three-point ‘better’, ‘same’, or ‘worse’ scale. Results: A total of 107 patients with a median age of 41 years (IQR 18 to 73) were included, with mean follow-up of 6.0 years (SD 3.1). All patients underwent a diagnostic hip injection as a decision aid. Median postoperative OHS was 34 (IQR 28 to 42), with 36 patients (33%) achieving a patient-acceptable symptom state (OHS ≥ 42), lower than THA patients in international registries (40 to 43 points). Secondary outcomes were UCLA of 6 (4 to 8) and EQ-VAS of 73 (51 to 80); 91/102 patients (89%) felt ‘better’ and would ‘undergo surgery again'. Patients with chronic pain syndrome or hypermobility had lower OHS than patients without comorbidities (-6 points, p < 0.006). Overall, 84 patients had a CT and 34 patients an MRI. Patients with subchondral cysts (OHS 42 (37 to 45) vs 35 (26 to 36); p = 0.014) or joint space narrowing on CT (OHS 42 (IQR 37 to 44) vs 35 (26 to 36); p = 0.022) had higher function. Conclusion: Despite high satisfaction levels, patients undergoing THA with minimal or no radiological OA had lower postoperative function than typical THA patients. We recommend obtaining low-dose CT imaging and a diagnostic hip injection to aid decision-making. Cite this article: Bone Jt Open 2025;6(3):328–335.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comorbid frailty and sarcopenia in older patients after total hip arthroplasty: An observational study",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2949705124000161",
+      "publisher": "Journal of Joint Surgery and Research",
+      "year": "2024",
+      "doi": "10.1016/j.jjoisr.2024.06.004",
+      "abstract": "Purpose: Frailty and sarcopenia may progressively worsen physical function, and studies have noted the frequent presence of sarcopenia in patients who undergo total hip arthroplasty (THA). This study aimed to examine the prevalence of comorbid frailty and sarcopenia in older patients undergoing THA and to determine the impact of these conditions on lower limb strength and hip function. Methods: Patients aged ≥65 years who had undergone THA at least 1 year previously were divided into five groups according to the presence and severity of frailty and sarcopenia. Lower limb strength [hip abductor (HA) and knee extensor (KE)], balance, and hip function were compared. Results: Sarcopenia and frailty affected lower limb muscle strength and hip function in a staircase-like manner, with mean ​± ​standard deviation values for the five groups as follows: HA muscle strength (in Nm/body weight), robust 0.80 ​± ​0.23, pre-frail ​+ ​non-sarcopenia 0.69 ​± ​0.17, pre-frail ​+ ​sarcopenia 0.58 ​± ​0.20, frail ​+ ​non-sarcopenia 0.54 ​± ​0.16, frail ​+ ​sarcopenia 0.50 ​± ​0.16; KE muscle strength (in kgf/body weight), robust 1.17 ​± ​0.23, pre-frail ​+ ​non-sarcopenia 1.03 ​± ​0.32, pre-frail ​+ ​sarcopenia 0.90 ​± ​0.31, frail ​+ ​non-sarcopenia 0.84 ​± ​0.27, frail ​+ ​sarcopenia 0.74 ​± ​0.21; and Harris Hip Score, robust 96.8 ​± ​4.6, pre-frail ​+ ​non-sarcopenia 94.3 ​± ​7.9, pre-frail ​+ ​sarcopenia 88.6 ​± ​9.6, frail ​+ ​non-sarcopenia 87.5 ​± ​10.3, frail ​+ ​sarcopenia 83.5 ​± ​8.6. Conclusion: Progression of sarcopenia and frailty affects lower limb muscle strength and physical function in a staircase-like fashion, suggesting the need to assess the cumulative effects of the two. Among this population, rather than interventions to improve muscle strength and balance in specific areas, interventions to maintain a comprehensive level of physical fitness and muscle mass (including nutrition and lifestyle changes) may be necessary.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "How the hip–spine relationship influences total hip arthroplasty",
+      "url": "https://hal.science/hal-05070471v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2024",
+      "doi": "10.1016/j.otsr.2023.103773",
+      "abstract": "Introduction: Motion in the spine, pelvis and hips which make up the spinopelvic femoral complex (SPFC) implies mechanical relationships that help maintain trunk balance and optimize hip function. The aim of this study was to understand the physiology of the SPFC and evaluate the dysfunctions of the SPFC and their implications for total hip arthroplasty considering the hip-spine relationship. Methods: A review of relevant and comprehensive studies on this subject is reported in order to highlight a pathophysiology that integrates the description of the evaluations of the spine-pelvic and hip parameters and recommendations for the kinematic planning of the THA procedure. The primary objective was to determine which type of hip-spine relationship has the highest risk for THA complications and to become proficient in selecting the priority surgical intervention when both the hip and spine are affected. Finally, this review attempted to assist hip surgeons with surgical technique, tools, implant selection, and goals of planning a THA that requires personalized kinematic alignment. Determine the influence of THA on these kinematics and the effect of stiffness of the lumbopelvic complex on the risk of THA failure. Results: When a person sits, the pelvis goes into retroversion and the acetabulum opens forward. This frees the femoral head and neck to allow hip flexion. The opposite – pelvic anteversion – occurs when a person stands. When pelvic mobility is limited, the hip must increase its range of motion to accommodate these posture changes. Disturbances in spinal and pelvic kinematics lead to abnormal hip function, which may contribute to complications following total hip arthroplasty (THA). Conclusion: A precise evaluation of the parameters governing the SPFC must be taken into account in order to best optimize the placement and choice of THA implants.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Demographic, Comorbidity, and Antibiotic Patterns in Osteoarthritis Patients Undergoing Knee and Hip Replacement",
+      "url": "https://zenodo.org/records/10531677",
+      "publisher": "International Research Journal of Pharmacy and Medical Sciences",
+      "year": "2024",
+      "doi": "10.5281/zenodo.10531677",
+      "abstract": "This study focuses on the evaluation of antibiotic therapy in preoperative and postoperative conditions of Total Knee Arthroplasty (TKA) or Total Hip Arthroplasty (THR) in patients with osteoarthritis. The analysis of data from the study reveals that osteoarthritis predominantly affects individuals above 45 years, with an increased incidence after the age of 55. Females represent 64.3% of diagnosed patients, indicating a higher predisposition in women. Primary complaints include knee and hip pain, difficulty in walking, stiffness, and swelling, with walking difficulty and stiffness being prominent. Patients with osteoarthritis commonly exhibit comorbidities, with hypertension and diabetes being prevalent, alongside other conditions such as heart, thyroid, and kidney-related disorders. Among osteoarthritis patients, 71.4% required Total Knee Replacement (TKR), while 28.6% required Total Hip Replacement (THR). Female patients comprised a higher percentage for both TKR (65%) and THR (62.5%). Antibiotic administration pre-surgery primarily involved Inj. Cefuroxime (1.5gm) or Inj. Amikacin (500mg), with 37.5% receiving both. Similarly, during surgery, 64.3% of patients received both antibiotics. Post-surgery antibiotic regimens mirrored the pre-surgery administration. This data provides valuable insights into the demographic distribution, comorbidities, surgical requirements, and antibiotic usage patterns in osteoarthritis patients undergoing TKR and THR surgeries. The findings contribute to a comprehensive understanding for future research and clinical interventions, aiming to enhance patient care and optimize treatment strategies in orthopedic procedures.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Management of hip fractures in the elderly: to fix or not to fix?",
+      "url": "https://zenodo.org/records/10869992",
+      "publisher": "Revista Latinoamericana de Hipertension",
+      "year": "2024",
+      "doi": "10.5281/zenodo.10869992",
+      "abstract": "Hip fracture ( HF) is a frequent condition in the elderly population, especially females. It is associated with higher mortality, decreased functionality, higher dependency, and in general poorer quality of life (QoL) for the patients and caregivers. At present, there is no well-established evidence-based guideline regarding the ideal treatment approach for this condition. Most of the evidence suggests that surgical management is the optimal approach in most scenarios, providing the best outcomes, the highest survival rates, and the most improvement in QoL. However, other studies in specific subpopulations, like highly frail elder patients, or those with short life expectancy, indicate these subjects may not benefit as much from the procedure. Furthermore, most of the available information focuses on survival rates and other medical parameters, while ignoring other patient-centered aspects like QoL, comfort, and treatment satisfaction. In general, it is recommended to perform a proper and individualized evaluation before deciding to operate. Proper candidate selection, taking into consideration comorbidities, life expectancy, patient preference, and overall benefits should lead, in most cases, toward the surgical approach. However, non-operative management should not be neglected when the conditions to operate are not met. This review aims to understand the fundamentals behind the decision making for total hip replacement in the elderly, and to ponder the potential approaches after considering several risk and protective factors.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Surgical Data Science and Associated Techniques Facilitate the Development of Contemporary Equipment like Apple's Vision Pro",
+      "url": "https://zenodo.org/records/14227451",
+      "publisher": "International Journal of Preventive Medicine and Health (IJPMH)",
+      "year": "2024",
+      "doi": "10.54105/ijpmh.D3648.0501124",
+      "abstract": "Abstract: Artificial Intelligence (AI) has revolutionized modern surgery by enhancing every stage of patient care, from preoperative planning to postoperative monitoring. This paper explores the impact of AI in conjunction with other technologies in surgical procedures, emphasizing their empirical basis and integration into clinical practice. AI's role in facilitating personalized treatment planning through a comprehensive analysis of patient data and imaging studies, utilizing techniques like natural language processing (NLP) to extract critical insights, reassures us of its positive impact on patient care. Real-time decision support systems powered by AI improve surgical precision, enabling surgeons to navigate complex procedures with enhanced accuracy and efficiency. Furthermore, AI-driven surgical robotics exemplify the precision achievable with these technologies, enabling minimally invasive procedures that minimize patient trauma and expedite recovery. Integrating AI with computer vision further enhances surgical capabilities by allowing machines to interpret visual data autonomously, like human perception. Convolutional Neural Networks (CNNs) are pivotal in image recognition and analysis, supporting tasks from anatomical landmark identification to surgical planning. Augmented Reality (AR), when combined with AI, enriches surgical practice by overlaying digital information onto real-world views, aiding in intraoperative guidance and educational training. Devices like Apple's Vision Pro (AVP) headset showcase the potential of mixed reality technologies in enhancing surgical precision. AVP's integration of spatial computing and AI algorithms allows for real-time data analysis and decision support, transforming surgical education and procedural outcomes. Despite the transformative potential, challenges, including ethical considerations, data privacy, and regulatory frameworks, must be addressed to ensure the responsible deployment of AI in surgical settings. These challenges include mitigating biases in AI algorithms and ensuring equitable access to advanced technologies across diverse surgical specialties. The dynamic nature of AI in surgery necessitates continued research and development to refine AI applications, optimize surgical workflows, and improve patient outcomes globally. In combination with contemporary technologies, AI represents a paradigm shift in surgical practice, offering unprecedented opportunities to enhance patient care through personalized, precise, and efficient interventions. AI's ongoing evolution and integration in surgery promise to reshape healthcare's future, advancing clinical practice and medical education toward safer, more effective, and inclusive healthcare delivery systems.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Epidemiology of knee and hip arthroplasty: a systematic review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092498/",
+      "publisher": "The open orthopaedics journal",
+      "year": "2011",
+      "doi": "10.2174/1874325001105010080",
+      "abstract": "We present a systematic review of epidemiologic studies of Total Knee Arthroplasty (TKA) and Total Hip Arthroplasty (THA). The studies summarized in this systematic review provide us with estimates of arthroplasty utilization rates, underlying disease frequency and its trends and differences in utilization rates by age, gender and ethnicity among other factors. Among these, many studies are registry-based that assessed utilization rates using data from major orthopedic centers that may provide some understanding of underlying diagnosis and possibly time-trends. Several studies are population-based cross-sectional, which provide estimates of prevalence of TKA and THA. Population-based cohort studies included in this review provide the best estimates of incidence and utilization rates, time-trends and differences in these rates by important patient characteristics (age, gender, ethnicity and others). This article reviews the current published literature in the area and highlights the main findings.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.54,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Coxarthrosis etiology influences the patients’ quality of life in the preoperative and postoperative phase of total hip arthroplasty",
+      "url": "https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1412&context=jmms",
+      "publisher": "Journal of Mind and Medical Sciences",
+      "year": "2023",
+      "doi": "10.22543/2392-7674.1412",
+      "abstract": "Background. In orthopedics, the patients’ quality of life relative to the preoperative and postoperative phase is referred with a low impact compared to other branches of medicine. In this context, our interest focused on assessing the quality of life in patients with traumatic and non-traumatic coxarthrosis by longitudinally following the evolution of the patients. Materials and Methods. The well-established instrument Short Form Survey SF-36 was applied in a retrospective study, conducted on a cohort of 203 participants who underwent THA (Total Hip Arthroplasty). Statistical analysis was generated using GraphPad Prism (version 9.5.1). Results. In the pre-operative phase, physical functioning was more affected in participants with traumatic coxarthrosis, while fatigue was specific to nontraumatic coxarthrosis. Emotional well-being and social functioning were high in patients with traumatic coxarthrosis. One month after surgery, we recorded an increased physical functioning and improvement in the perception of the ability to exercise roles in non-traumatic group. Energy/vitality and general health and wellbeing were at high level in traumatic group, 1st month post-surgery, although pain was still frequent. Age was the sole strong independent predictor of postoperative physical functioning in the traumatic group, while in the non-traumatic group, we identified gender, age, symptoms and type of prosthesis as strong predictors of postoperative physical functioning. The overall results related to daily living activities indicated that the traumatic group displayed more favorable post-surgery evolution and higher autonomy compared to the non-traumatic one. Conclusions. We conclude that SF-36 questionnaire is a specific, useful and inexpensive tool for evaluating the outcomes of orthopedic treatment and patients’ evolution after arthroplasty, especially in terms of functional outcome scores relative to coxarthrosis etiology.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Total Hip Arthroplasty in the Ultrayoung",
+      "url": "https://doi.org/10.1016/j.artd.2023.101181",
+      "publisher": "Elsevier BV",
+      "year": "2023",
+      "doi": "10.1016/j.artd.2023.101181",
+      "abstract": "Total hip arthroplasty (THA) procedures provide a surgical option for \"ultrayoung\" patients ≤30 years old with end-stage hip arthropathy. This has historically been coupled with concerns over early component failure and challenging surgical technique leading to increased risk of overall morbidity. The purpose of this study is to better elucidate the poorly defined indications and outcomes for THA in ultrayoung patients with end-stage hip disease.A total of 40 THAs in 35 patients ≤30 years old performed at our institution from 2009 to 2016 were retrospectively followed for an average of 2 years (median 11 months, interquartile range 1-31.25). Primary outcome measure was THA revision. Patient demographics were compared against outcomes. The effects on revision rate of hip joint pathology and type of bearing surface were investigated. T-test, chi-square test, and bivariate correlation were performed to determine statistical significance (P < .05). Machine learning was used to determine the normalized important factor leading to THA revision.Fifteen male and 25 female patients were included. Median patient age was 23 (interquartile range 19-27) years, with an average body mass index of 27.0 ± 7.9. A majority of THAs were indicated for osteonecrosis (32) and bearing surface type was predominantly metal-on-highly cross-linked polyethylene (36). The overall revision rate was 7.5%, without a correlation between revision and demographic characteristics. Revision surgery was significantly correlated with bearing surface type (P = .028). Important factors for revision were age (100%), bearing surface type (84.7%), and body mass index (52.1%).In patients ≤30 years old, THAs performed with the use of modern implants and surgical methods show satisfactory survivorship and functional outcomes with short-term follow-up.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Estimation of two wear factors for total hip arthroplasty: A simulation study based on musculoskeletal modelling",
+      "url": "https://hal.science/hal-04157055v1",
+      "publisher": "Clinical Biomechanics",
+      "year": "2023",
+      "doi": "10.1016/j.clinbiomech.2023.106035",
+      "abstract": "Background: Primary causes of surgical revision after total hip arthroplasty are polyethylene wear and implant loosening. These factors are particularly related to joint friction and thus patients' physical activity. Assessing implant wear over time according to patients' morphology and physical activity level is key to improve follow-up and patients' quality of life. Methods: An approach initially proposed for tibiofemoral prosthetic wear estimation was adapted to compute two wear factors (force-velocity, directional wear intensity) using a musculoskeletal model. It was applied on 17 participants with total hip arthroplasty to compute joint angular velocity, contact force, sliding velocity, and wear factors during common daily living activities. Findings : Differences were observed between gait, sitting down, and standing up tasks. An incremental increase of both global wear factors (time-integral) was observed during gait from slow to fast speeds (p?0.01). Interestingly, these two wear factors did not result in same trend for sitting down and standing up tasks. Compared to gait, one cycle of sitting down or standing up tends to induce higher friction-related wear but lower cross-shear-related wear. Depending on the wear factor, significant differences can be found between sitting down and gait at slow speed (p?0.05), and between sitting down (p?0.05) or standing up (p?0.05) and gait at fast speed. Furthermore, depending on the activity, wear can be fostered by joint contact force and/or sliding velocity. Interpretation: This study demonstrated the potential of wear estimation to highlight activities inducing a higher risk of implant wear after total hip arthroplasty from motion capture data.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "REHABILITATION THERAPY AFTER TOTAL HIP ARTHROPLASTY",
+      "url": "https://usv.ro/fisiere_utilizator/file/fefs/revista/vol_XIV_issue_2/13.REHABILITATION_THERAPY_AFTER_TOTAL_HIP_ARTHROPLASTY_CONSTANTINESCU_MIHAI.pdf",
+      "publisher": "Annals of the “Ştefan cel Mare” University: Physical Education and Sport Section - The Science and Art of Movement",
+      "year": "2021",
+      "doi": "",
+      "abstract": "The purpose of our study is to present some general aspects regarding approach to the therapeutic path in the case of the hip prosthesis following a trauma to the lower limb and femoral neck fracture in the elderly. This surgery seems quite easy nowadays, when the surgical techniques are a real progress in terms of means of investigation and treatment. However, the approach must be taken on a case-bycase basis. To understand the pathophysiological mechanisms and the application of the therapeutic means in hip prosthesis, we will present a case study in which we will apply specific kinetic means to post-surgical recovery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Mid-Term Clinical and Radiographic Outcomes of a Long Cementless Monobloc Stem for Revision Total Hip Arthroplasty",
+      "url": "https://hal.science/hal-03557558v1",
+      "publisher": "The Journal of Arthroplasty",
+      "year": "2021",
+      "doi": "10.1016/j.arth.2020.07.057",
+      "abstract": "BACKGROUND: For the past 2 decades, the authors have been using a long tapered cementless stem made of titanium and fully coated with hydroxyapatite for revision total hip arthroplasty. The purpose of this multicentric study is to assess clinical outcomes, radiographic outcomes, re-revision rates, and survival rates of this revision stem at a minimum 5-year follow-up. METHODS: The records of a multicentric continuous series of 335 adults undergoing revision total hip arthroplasty using the Corail revision stem (DePuy, Leeds, UK) between 2000 and 2012 were retrospectively reviewed. The Harris Hip Score, Oxford Hip Score, and Engh score were recorded. Survival was assessed using the Kaplan-Meier method and cumulative incidence function. RESULTS: Seventy-seven patients died with their revision stem in place, 47 could not be contacted, and 22 had stem re-revisions. This left a final cohort of 201 patients, aged 70±12 years at revision surgery, with a body mass index of 26±4. The Kaplan-Meier survival was 93.9% for re-revision of any component for any reason, 96.7% for re-revision of the stem for any reason, and 99.3% for re-revision of the stem for aseptic reasons. At last follow-up, the Harris Hip Score was 84.8±13.1, the Oxford Hip Score was 21.0±7.8, and the Engh score was 16.4±6.7. CONCLUSION: The long tapered cementless revision stem had excellent clinical and radiographic outcomes at a minimum follow-up of 5 years. The revision stem enabled restoration of bone stock in femurs with pre-revision bone defects, confirming that the hydroxyapatite coating promotes osseointegration, even in femurs with extensive bone loss. LEVEL OF EVIDENCE: Level IV, retrospective cohort study.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Absence of instabilities and intra-prosthetic dislocations at 7 to 11 years following THA using a fourth-generation cementless dual mobility acetabular cup",
+      "url": "http://link.springer.com/article/10.1186/s40634-020-00265-3",
+      "publisher": "Journal of Experimental Orthopaedics",
+      "year": "2020",
+      "doi": "10.1186/s40634-020-00265-3",
+      "abstract": "Abstract Purpose Dual-mobility (DM) cups are increasingly used in total hip arthroplasty (THA) but there lacks literature on their long-term results. We aimed to investigate outcomes of a fourth-generation cementless DM acetabular cup at 7–11 years. Methods We retrospectively evaluated 240 consecutive hips that received cementless THA using the same dual mobility cup (Novae Sunfit TH) and femoral stem (Corail). Patients were recalled at ≥7 years to collect Oxford hip scores (OHS), Harris hip scores (HHS), and inspect for radiolucent lines and granulomas. Multi-variable analyses were performed to determine whether HHS or OHS were associated with pre- or intra-operative variables. Results At 8.4 ± 0.8 years (range, 7–11), 6 hips were revised (2.5%), 54 deceased (22.5%), and 14 could not be reached (5.8%). Four revisions (2 cup+stem, 2 liners only) were due to sepsis (1.7%), one (cup and stem) for trauma (0.4%), and one (stem) due to aseptic loosening (0.4%). For the remaining 166 hips, HHS was 83.6 ± 13.2 and OHS was 20.3 ± 6.7. Multi-variable analysis confirmed that HHS (β = − 0.38; p = 0.039) and OHS (β = 0.36; p < 0.001) worsened with age, and that OHS was worse for Charnley C patients (β = 3.17; p = 0.009). Neither granulomas nor radiolucenies were observed around any cups, but radiolucenies were seen around 25 stems (20.3%). Conclusions This fourth-generation DM cup demonstrated satisfactory outcomes at 7–11 years, with no instabilities or cup revisions due to aseptic loosening. Better OHS was observed for younger patients and those presenting higher Charnley grade. Level of evidence Level IV, retrospective case study.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "The Lefèvre retentive cup compared with the dual mobility cup in total hip arthroplasty revision for dislocation",
+      "url": "https://univ-brest.hal.science/hal-05290691v1",
+      "publisher": "International Orthopaedics",
+      "year": "2020",
+      "doi": "10.1007/s00264-020-04601-1",
+      "abstract": "Background: Limiting the risk of dislocation is one of the main aims of both dual mobility and Lefèvre retentive cups. However, these devices have never been compared. The goal of our study was to compare these devices in total hip arthroplasty revisions for instability. The judgement criterion was non-recurrence of dislocation in a follow-up period of eight years. Methods: This retrospective case-control study compared two continuous paired series of total hip arthroplasty revisions for instability. These series included 63 patients and 159 patients with implantation of a Lefèvre retentive cup and a dual mobility cup, respectively. Results: The success rate at eight years (i.e., no recurrence) was 91 ± 0.05% and 95 ± 0.02% in the Lefèvre retentive cup and dual mobility groups, respectively. The difference was not statistically significant (p = 0.6). Conclusion: It seems that the Lefèvre retentive cup provides comparable outcomes with the dual mobility cup in the total hip arthroplasty revisions for instability, avoiding recurrence in long term.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "\"Navi-superpath\": the Superpath hip Approach for hip Arthritis combined with a Portable Mini-navigation system. A Novel Technique",
+      "url": "https://zenodo.org/records/3906128",
+      "publisher": "Journal of Orthopaedic and Trauma Care",
+      "year": "2020",
+      "doi": "10.5281/zenodo.3906128",
+      "abstract": "AbstractThe SuperPath approach was first performed in 2007 at the U.S.A. Combination of the SuperPath with navigation systems was till recently impossible. For the first time we managed to combine the SuperPath approach with a portable digital navigation system. The SuperPath is one of the approaches used to perform a Total Hip Arthroplasty in cases of primary or secondary Hip Arthritisand is considered as one of the best minimally invasive procedures. It has a lot of advantages (the hip is never surgically dislocated, no ten-don is cut during the procedure, no need for postsurgery restrictions etc.) but a major difficulty –which requires a lot of attention by the surgeon- as well: the acetabular cup orientation/anteversion is affected by the femur’s position during the procedure. Thus, the combined used of the SuperPath and the portable navigation system may eliminate the possibility of malposition of the acetabular cup. Thus, the acetabular cup is fixed at the optimal anteversion/inclination position which is measured in real time resulting in an optimal fixation of the Total Hip Arthroplasty. This way the Total Hip Arthroplasty can last longer and the major complication of this procedure –hip dislocation postsurgically- may be diminished",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Particle Induced X-ray Emission (PIXE) for elemental tissue imaging in hip modular prosthesis fracture case",
+      "url": "https://zenodo.org/records/3689496",
+      "publisher": "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms",
+      "year": "2020",
+      "doi": "10.1016/j.nimb.2019.10.019",
+      "abstract": "The increased modularity in the total hip arthroplasty (THA) allows adapting the prosthesis to the specific anatomical characteristics of each patient. However, the advantages of the modular THA are shadowed by the increased number of prosthesis failures observed in patients. The presence of junction in modular THA may increase its risk of mechanical failure. Moreover, the micro movements between neck and stem could lead to the production of metallic debris which may cause tissue inflammation and unsealing of prosthesis due to osseous dissolution. It is necessary to understand the mechanism of dispersion of the metal particles from the prosthesis into the tissue. Techniques currently applied in hospitals, such as X-ray scans or optical tissue microscopies, are able to distinguish metal particles, but unable to identify their specific metallic origin. In this work, within the TissueMaps project, we have proved that Proton Induced X-ray Emission (PIXE) is able to provide the distribution and elemental composition of particles from the prosthesis into the pseudo capsular tissue samples (near the femoral head) and identify the features observed under optical microscopy, in a case of broken neck prosthesis.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Osteonecrosis of the femoral head: pathophysiology and current concepts of treatment",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6440301/",
+      "publisher": "EFORT open reviews",
+      "year": "2019",
+      "doi": "10.1302/2058-5241.4.180036",
+      "abstract": "Osteonecrosis of the femoral head is a disabling pathology affecting a young population (average age at treatment, 33 to 38 years) and is the most important cause of total hip arthroplasty in this population. It reflects the endpoint of various disease processes that result in a decrease of the femoral head blood flow.The physiopathology reflects an alteration of the vascularization of the fine blood vessels irrigating the anterior and superior part of the femoral head. This zone of necrosis is the source of the loss of joint congruence that leads to premature wear of the hip.Several different types of medication have been developed to reverse the process of ischemia and/or restore the vascularization of the femoral head. There is no consensus yet on a particular treatment.The surgical treatments aim to preserve the joint as far as the diagnosis could be made before the appearance of a zone of necrosis and the loss of joint congruence. They consist of bone marrow decompressions, osteotomies around the hip, vascular or non-vascular grafts.Future therapies include the use of biologically active molecules as well as implants impregnated with biologically active tissue. Cite this article: EFORT Open Rev 2019;4:85-97. DOI: 10.1302/2058-5241.4.180036.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Total hip arthroplasty planning",
+      "url": "https://doi.org/10.1302/2058-5241.4.180075",
+      "publisher": "Bioscientifica",
+      "year": "2019",
+      "doi": "10.1302/2058-5241.4.180075",
+      "abstract": "Abstract Preoperative planning is mandatory to achieve the restoration of a correct and personalized biomechanics of the hip. The radiographic review is the first and fundamental step in the planning. Limb or pelvis malpositioning during the review results in mislead planning. Correct templating is possible using three different methods: acetate templating on digital X-ray, digital 2D templating on digital X-ray and 3D digital templating on CT scan. Time efficiency, costs, reproducibility and accuracy must be considered when comparing different templating methods. Based on these parameters, acetate templating should not be abandoned; digital templating allows a permanent record of planning and can be electronically viewed by different members of surgical team; 3D templating is intrinsically more accurate. There is no evidence in the few recently published studies that 3D templating impacts positively on clinical outcomes except in difficult cases. The transverse acetabular ligament (TAL) is a reliable intraoperative soft tissue reference to set cup position. Spine–hip relations in osteoarthritic patients undergoing hip joint replacement must be considered. Cite this article: EFORT Open Rev 2019;4:626-632. DOI: 10.1302/2058-5241.4.180075",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Total Hip Arthroplasty or Hemiarthroplasty for Hip Fracture",
+      "url": "https://doi.org/10.1056/nejmoa1906190",
+      "publisher": "Massachusetts Medical Society",
+      "year": "2019",
+      "doi": "10.1056/nejmoa1906190",
+      "abstract": "Globally, hip fractures are among the top 10 causes of disability in adults. For displaced femoral neck fractures, there remains uncertainty regarding the effect of a total hip arthroplasty as compared with hemiarthroplasty.We randomly assigned 1495 patients who were 50 years of age or older and had a displaced femoral neck fracture to undergo either total hip arthroplasty or hemiarthroplasty. All enrolled patients had been able to ambulate without the assistance of another person before the fracture occurred. The trial was conducted in 80 centers in 10 countries. The primary end point was a secondary hip procedure within 24 months of follow-up. Secondary end points included death, serious adverse events, hip-related complications, health-related quality of life, function, and overall health end points.The primary end point occurred in 57 of 718 patients (7.9%) who were randomly assigned to total hip arthroplasty and 60 of 723 patients (8.3%) who were randomly assigned to hemiarthroplasty (hazard ratio, 0.95; 95% confidence interval [CI], 0.64 to 1.40; P = 0.79). Hip instability or dislocation occurred in 34 patients (4.7%) assigned to total hip arthroplasty and 17 patients (2.4%) assigned to hemiarthroplasty (hazard ratio, 2.00; 99% CI, 0.97 to 4.09). Function, as measured with the total Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total score, pain score, stiffness score, and function score, modestly favored total hip arthroplasty over hemiarthroplasty. Mortality was similar in the two treatment groups (14.3% among the patients assigned to total hip arthroplasty and 13.1% among those assigned to hemiarthroplasty, P = 0.48). Serious adverse events occurred in 300 patients (41.8%) assigned to total hip arthroplasty and in 265 patients (36.7%) assigned to hemiarthroplasty.Among independently ambulating patients with displaced femoral neck fractures, the incidence of secondary procedures did not differ significantly between patients who were randomly assigned to undergo total hip arthroplasty and those who were assigned to undergo hemiarthroplasty, and total hip arthroplasty provided a clinically unimportant improvement over hemiarthroplasty in function and quality of life over 24 months. (Funded by the Canadian Institutes of Health Research and others; ClinicalTrials.gov number, NCT00556842.).",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Which Restoration of Walking after Minimally Invasive total Hip Arthroplasty?",
+      "url": "https://hal.science/hal-02504777v1",
+      "publisher": "International Journal of Physical Therapy and Rhabilitation",
+      "year": "2019",
+      "doi": "10.15344/2455-7498/2019/155",
+      "abstract": "Introduction: The current craze for minimally invasive approaches is leading to a renewed interest in total hip arthroplasty, but to our knowledge there is no evidence of the superiority of an operative technique in terms of quality of walking recovery. This review aims to analyze the restoration of the spatio-temporal parameters of gait in first-line total hip arthroplasty suites on hip osteoarthritis and perform a comparison of recovery according to the surgical technique. Materials and Method: 15 studies were analyzed according to the main criteria of walking speed, unipodal support time, step length and preoperative loading and in the short, medium- and long-term postoperative period. Results: Although most of the results obtained in the studies analyzed show an improvement in these criteria post-operatively, they remain lower than those obtained in a healthy population. Conclusion: This work does not highlight the superiority of recovery of the operation of a surgical technique.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Quality of life and psychological consequences in elderly patients after a hip fracture: a review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5790076/",
+      "publisher": "Clinical interventions in aging",
+      "year": "2018",
+      "doi": "10.2147/cia.s150067",
+      "abstract": "Fractures due to fragility of the bone around the hip joint have become a major public health issue, presenting with an increasing incidence due to the growth of the elderly population. The purpose of this review was to evaluate the impact of hip fractures on the quality of life (QoL), health status (HS), functioning, and psychological parameters, and factors influencing the outcome and the appropriate interventions for improvement of elderly patients. A systematic electronic search of the relevant literature was carried out using the CINAHL, Cochrane, EMBASE, Medline (OvidSP), and PubMed databases spanning the time period from their establishment up to January 2017. Forty-nine randomized controlled trials or prospective cohort studies reporting the QoL and psychological outcomes were assessed by using standardized questionnaires. Patients with a hip fracture who were older than 65 years, were included in the analysis. In the majority of elderly patients, the hip fracture seriously affected physical and mental functioning and exerted a severe impact on their HS and health-related QoL (HRQoL). Moreover, most of the patients did not return to prefracture levels of performance regarding both the parameters. The levels of mental, physical, and nutritional status, prior to the fracture, comorbidity, and female gender, in addition to the postoperative pain, complications, and the length of hospital stay, were the factors associated with the outcome. Psychosocial factors and symptoms of depression could increase pain severity and emotional distress. For the displaced femoral neck fractures, the treatment with total hip arthroplasty or hemiarthroplasty, when compared to the treatment with internal fixation, provided a better functional outcome. Supportive rehabilitation programs, complemented by psychotherapy and nutritional supplementation prior to and after surgery, provided beneficial effects on the HS and the psychosocial dimension of the more debilitated patients' lives. Lack of consensus concerning the most appropriate HRQoL questionnaires to screen and identify those patients with more difficulties in the psychosocial functions, demonstrates the necessity for further research to assess the newer outcome measurement tools, which might improve our understanding for better care of patients with hip fractures.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Tissue source determines the differentiation potentials of mesenchymal stem cells: a comparative study of human mesenchymal stem cells from bone marrow and adipose tissue",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5718061/",
+      "publisher": "Stem cell research & therapy",
+      "year": "2017",
+      "doi": "10.1186/s13287-017-0716-x",
+      "abstract": "Background Mesenchymal stem cells (MSCs) possess intrinsic regeneration capacity as part of the repair process in response to injury, such as fracture or other tissue injury. Bone marrow and adipose tissue are the major sources of MSCs. However, which cell type is more effective and suitable for cell therapy remains to be answered. The intrinsic molecular mechanism supporting the assertion has also been lacking. Methods Human bone marrow-derived MSCs (BMSCs) and adipose tissue-derived MSCs (ATSCs) were isolated from bone marrow and adipose tissue obtained after total hip arthroplasty. ATSCs and BMSCs were incubated in standard growth medium. Trilineage differentiation including osteogenesis, adipogenesis, and chondrogenesis was performed by addition of relevant induction mediums. The expression levels of trilineage differentiation marker genes were evaluated by quantitative RT-PCR. The methylation status of CpG sites of Runx2, PPARγ, and Sox9 promoters were checked by bisulfite sequencing. In addition, ectopic bone formation and calvarial bone critical defect models were used to evaluate the bone regeneration ability of ATSCs and BMSCs in vivo. Results The results showed that BMSCs possessed stronger osteogenic and lower adipogenic differentiation potentials compared to ATSCs. There was no significant difference in the chondrogenic differentiation potential. The CpG sites of Runx2 promoter in BMSCs were hypomethylated, while in ATSCs they were hypermethylated. The CpG sites of PPARγ promoter in ATSCs were hypomethylated, while in BMSCs they were hypermethylated. The methylation status of Sox9 promoter in BMSCs was only slightly lower than that in ATSCs. Conclusions The epigenetic memory obtained from either bone marrow or adipose tissue favored MSC differentiation along an osteoblastic or adipocytic lineage. The methylation status of the main transcription factors controlling MSC fate contributes to the differential differentiation capacities of different source-derived MSCs.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Total Hip Arthroplasty in Patients With Parkinson Disease: Improved Outcomes With Dual Mobility Implants and Cementless Fixation",
+      "url": "https://hal.science/hal-02483234v1",
+      "publisher": "The Journal of Arthroplasty",
+      "year": "2017",
+      "doi": "10.1016/j.arth.2017.11.062",
+      "abstract": "Background: Parkinson disease (PD) results in severe limitation in ambulation caused by abnormality of gait and posture. The rate of complications, including fractures and dislocation after total hip arthroplasty (THA), can be higher among these patients. The goal of this study was to investigate the long-term outcomes of primary and revision THAs with cementless dual mobility implants. Methods: This retrospective study examines 59 PD patients who had surgery between 2002 and 2012. All the primary cases were performed for osteoarthritis and all patients received cementless acetabular implants with dual mobility bearing surface. The femoral stem was cemented in 4 patients who underwent revision surgery. The mean follow-up time was 8.3 years (4-14 years). Results: Good to excellent pain relief was achieved in 53 of 57 patients at the 2-year follow-up and in 40 of 47 patients at their latest follow-up. The most common medical complication was cognitive impairment (12 of 57 patients). One patient sustained an intraprosthetic hip dislocation 9 years after surgery, which required revision. Four patients sustained periprosthetic femoral fractures with well-fixed stem, requiring open reduction and internal fixation. The disability had increased in 68% of the patients in the latest follow-up visit. Discussion: Our study shows that elective primary or revision THA using cementless implants with dual mobility bearing surface in patients with PD provides satisfactory long-term outcomes, although many of these patients may see a general worsening of their activities over time due to PD.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The unstable total hip arthroplasty",
+      "url": "https://doi.org/10.1302/2058-5241.1.000022",
+      "publisher": "Bioscientifica",
+      "year": "2016",
+      "doi": "10.1302/2058-5241.1.000022",
+      "abstract": "Abstract One of the most common causes for revision surgery following total hip arthroplasty (THA) is dislocation. Dislocation is associated with a considerable amount of suffering and risks for the patient, and extra costs for the health care system. Compared with degenerative arthritis, the dislocation rate is doubled for avascular necrosis and multiplied by three times for congenital dislocation, four for fracture, five for nonunion, malunion or a failed hip arthroplasty, and eleven times after surgery for prosthetic instability. In analysing instability the cause may be assessed as 1) locally caused within the hip with explanatory radiographic findings, 2) locally caused without explanatory radiographic findings or 3) non-locally caused, i.e. non-compliant patient, neuromuscular or cognitive disorders. Revision strategies for instability are typically directed to correct the underlying aetiology, but also to strive for an upsizing of the head and liner. Cite this article: Ullmark G. The unstable total hip arthroplasty. EFORT Open Rev 2016;1:83-88. DOI: 10.1302/2058-5241.1.000022.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Conversion total hip arthroplasty: Primary or revision total hip arthroplasty",
+      "url": "https://doi.org/10.5312/wjo.v6.i10.750",
+      "publisher": "Baishideng Publishing Group Inc.",
+      "year": "2015",
+      "doi": "10.5312/wjo.v6.i10.750",
+      "abstract": "Total hip arthroplasty (THA) is an increasingly common procedure among elderly individuals. Although conversion THA is currently bundled in a diagnosis related group (DRG) with primary THA, there is a lack of literature supporting this classification and it has yet to be identified whether conversion THA better resembles primary or revision THA. This editorial analyzed the intraoperative and postoperative factors and functional outcomes following conversion THA, primary THA, and revision THA to understand whether the characteristics of conversion THA resemble one procedure or the other, or are possibly somewhere in between. The analysis revealed that conversion THA requires more resources both intraoperatively and postoperatively than primary THA. Furthermore, patients undergoing conversion THA present with poorer functional outcomes in the long run. Patients undergoing conversion THA better resemble revision THA patients than primary THA patients. As such, patients undergoing conversion THA should not be likened to patients undergoing primary THA when determining risk stratification and reimbursement rates. Conversion THA procedures should be planned accordingly with proper anticipation of the greater needs both in the operating room, and for in-patient and follow-up care. We suggest that conversion THA be reclassified in the same DRG with revision THA as opposed to primary THA as a step towards better allocation of healthcare resources for conversion hip arthroplasties.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Relation between surgeon volume and risk of complications after total hip arthroplasty: propensity score matched cohort study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4032026/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2014",
+      "doi": "10.1136/bmj.g3284",
+      "abstract": "Objectives To identify a cut point in annual surgeon volume associated with increased risk of complications after primary elective total hip arthroplasty and to quantify any risk identified. Design Propensity score matched cohort study. Setting Ontario, Canada. Participants 37,881 people who received their first primary total hip arthroplasty during 2002-09 and were followed for at least two years after their surgery. Main outcome measure The rates of various surgical complications within 90 days (venous thromboembolism, death) and within two years (infection, dislocation, periprosthetic fracture, revision) of surgery. Results Multivariate splines were developed to visualize the relation between surgeon volume and the risk for various complications. A threshold of 35 cases a year was identified, under which there was an increased risk of dislocation and revision. 6716 patients whose total hip arthroplasty was carried out by surgeons who had done ≤ 35 such procedure in the previous year were successfully matched to patients whose surgeon had carried out more than 35 procedures. Patients in the former group had higher rates of dislocation (1.9% v 1.3%, P=0.006; NNH 172) and revision (1.5% v 1.0%, P=0.03; NNH 204). Conclusions In a cohort of first time recipients of total hip arthroplasty, patients whose operation was carried by surgeons who had performed 35 or fewer such procedures in the year before the index procedure were at increased risk for dislocation and early revision. Surgeons should consider performing 35 cases or more a year to minimize the risk for complications. Furthermore, the methods used to visualize the relationship between surgeon volume and the occurrence of complications can be easily applied in any jurisdiction, to help inform and optimize local healthcare delivery.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The Mechanical Behavior of Bone Cement in THR in the Presense of Cavities",
+      "url": "https://zenodo.org/records/14042",
+      "publisher": "Engineering, Technology & Applied Science Research",
+      "year": "2014",
+      "doi": "10.5281/zenodo.14042",
+      "abstract": "In this work we analyze three-dimensionally using the finite element method, the level and the Von Mises stress equivalent distribution induced around a cavity and between two cavities located in the proximal and distal bone cement polymethylmethacrylate (PMMA). The effects of the position around two main axes (vertical and horizontal) of the cavity with respect to these axes, of the cavity - cavity interdistance and of the type of loading (static) on the mechanical behavior of cement orthopedic are highlighted. We show that the breaking strain of the cement is largely taken when the cement in its proximal-lateral part contains cavities very close adjacent to each other. This work highlights not only the effect of the density of cavities, in our case simulated by cavity-cavity interdistance, but also the nature of the activity of the patient (patient standing corresponding to static efforts) on the mechanical behavior of cement.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.16,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Total hip arthroplasty",
+      "url": "https://doi.org/10.2298/sarh1206379s",
+      "publisher": "National Library of Serbia",
+      "year": "2012",
+      "doi": "10.2298/sarh1206379s",
+      "abstract": "Total hip arthroplasty is most common reconstructive hip procedure in adults. In this surgery we replace some parts of the upper femur and acetabulum with biocompatible materials. The main goal of this surgery is to eliminate pain and regain full extent of joint motion, maintaining hip stability. Surgical technique, biomaterials, design of the prosthesis and fixation techniques have evolved with time adjusting to each other. After total hip arthroplasty patients? quality of life should be improved. There are many various postoperative complications. Some of them are fatal, and some are minor, which may become manifested years after surgery. Each next surgical procedure following previous hip surgery is associated with considerably lower chances to be successful. Therefore, in primary total hip arthroplasty, preoperative evaluation and preparation of patients are essential. Every orthopaedic surgeon needs to improve already adopted surgical skills applying them with precision and without compromise, with the main goal to achieve long-term durability of the selected implant. The number of total hip arthroplasties will also increase in future, and newer and higher quality materials will be used.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Total Hip Arthroplasty for Arthrodesed Hips",
+      "url": "https://doi.org/10.1177/230949900201000106",
+      "publisher": "SAGE Publications",
+      "year": "2002",
+      "doi": "10.1177/230949900201000106",
+      "abstract": "The benefits of converting an ankylosed or arthrodesed hip to total hip arthroplasty have been reported in the literature as have the technical difficulties associated with this procedure. 1,2,4 This review, however, outlines the experience of a single surgeon (WJMB) at a single institution using uncemented prostheses. Between November 1991 and June 1996, 5 arthrodesed hips underwent uncemented total hip arthroplasty in 4 males and 1 female. Clinical and radiological follow-up review was for at least three years in all patients. In general, patients were satisfied with the outcome of their surgery with Harris Hip scores improving from an average of 62 preoperatively to an average of 72 postoperatively. The surgical outcome in these difficult cases was not as satisfactory as for routine total hip arthroplasty. Meticulous preoperative planning is required to aim toward leg length restoration and restoration of the abductor moment arm 5 . A modular prosthesis allows versatility at surgery.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Total Hip Arthroplasty for Congenital Hip Disease",
+      "url": "https://doi.org/10.2106/00004623-200402000-00005",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2004",
+      "doi": "10.2106/00004623-200402000-00005",
+      "abstract": "It is generally agreed that the clinical and radiographic results of total hip replacement performed for degenerative arthritis secondary to congenital hip disease vary depending on the severity of the anatomical abnormality. In this study, we report the mid-term and long-term clinical and radiographic results of total hip arthroplasty performed for each of the three different types of congenital hip disease.Between 1976 and 1994, the senior author performed 229 consecutive primary total hip arthroplasties in 168 patients with osteoarthritis secondary to congenital hip disease. Seventy-six hips were dysplastic, sixty-nine had a low dislocation, and eighty-four had a high dislocation. The Charnley low-friction technique was performed in 178 hips, and the so-called hybrid technique was performed in forty-six hips. Cementless arthroplasty was used in only five hips.After a minimum of seven years of follow-up, the rates of revision of the acetabular components were 15% in the dysplastic hips, 21% in the hips with a low dislocation, and 14% in those with a high dislocation. The rates of revision of the femoral components were 14%, 14%, and 16%, respectively. Survivorship analysis predicted an overall rate of prosthetic survival at fifteen years of 88.8% +/- 4.8% in the dysplastic hips, 73.9% +/- 7.2% in the hips with a low dislocation, and 76.4% +/- 8.1% in those with a high dislocation.An understanding of the anatomical abnormalities and the use of appropriate techniques and implants make total hip arthroplasty feasible for treatment of the three types of congenital hip disease. In patients with a low dislocation, the major technical problem is reconstruction of the natural acetabulum. In those with a high dislocation, the challenge is to place the acetabular component inside the reconstructed true acetabulum and to use an appropriate femoral implant in the hypoplastic narrow femoral diaphysis.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Total hip arthroplasty for developmental hip dysplasia",
+      "url": "https://doi.org/10.1007/s00264-005-0027-1",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "2005",
+      "doi": "10.1007/s00264-005-0027-1",
+      "abstract": "We reviewed 38 hip replacements in 33 female patients (mean age 55.3 years) with developmental hip dysplasia. One patient had died and the remaining 32 patients (36 hips) had a mean follow-up of 12.2 years (range 8-19 years). All hips were replaced using the Müller cemented implant, and in 32 hips bulk femoral head autograft was used. In 33 hips the socket was reconstructed at the level of the true acetabulum. Complications included one intra-operative femoral fracture and two early dislocations. Correction of leg length discrepancy was possible in 30 patients. The post-operative mean modified Merle d'Aubigne and Postel scores for pain, movement and walking were 5.9, 5, and 5.3 respectively. One cup was revised due to aseptic loosening at ten years. All grafts united, but minor graft resorption was noticed in 24 hips, moderate in 2 hips and major in 1 hip.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Ultrasound imaging-based procedure to integrate the dynamic behaviour of the pelvis in total hip arthroplasty planning",
+      "url": "https://hal.science/hal-00440274v1",
+      "publisher": "HAL open archive",
+      "year": "2008",
+      "doi": "10.1109/ISBI.2008.4541214",
+      "abstract": "One of the main constraint in total hip arthroplasty (THA) is to optimize the position of the acetabular implant in order to avoid postoperative instability. The best orientation of the cup has been studied by several authors in order to avoid it, but for most of them, they don't take into account the dynamic behavior of the pelvis during daily activities. This dynamic acts on the orientation of the acetabulum and therefore, not taking into account this behavior can lead to postoperative instability of the implant in some positions (sitting, standing or supine position). To assess the dynamic of the pelvis and the effects on the acetabular orientation, a rapid, accurate and easy new method has been developed. A functional parameter representing the pelvic flexion is first measured in different position (sitting, standing and supine position). Then, a software allowing us to assess the behavior of an acetabular implant in these positions is used. A study on twenty healthy patients has been carried out and shows that taking into account this method during THA planning might be very crucial to improve postoperative results.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Projections and Epidemiology of Primary Hip and Knee Arthroplasty in Medicare Patients to 2040-2060",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9974080/",
+      "publisher": "JB & JS open access",
+      "year": "2023",
+      "doi": "10.2106/jbjs.oa.22.00112",
+      "abstract": "National projections of future joint arthroplasties are useful for understanding the changing burden of surgery and related outcomes on the health system. The aim of this study is to update the literature by producing Medicare projections for primary total joint arthroplasty (TJA) procedures until 2040 and 2060. Methods The present study used data from the Centers for Medicare & Medicaid Services (CMS) Medicare/Medicaid Part B National Summary and combined procedure counts with use of Current Procedural Terminology (CPT) codes to identify whether the procedure was a primary total hip arthroplasty (THA) or total knee arthroplasty (TKA) procedure. In 2019, the annual volume of primary TKA was 480,958 and that of primary THA was 262,369. These values formed a baseline from which we generated point forecasts for 2020-2060 and 95% forecast intervals (FIs). Results Between 2000 and 2019, the estimated annual volume of THA increased by 177% and that of TKA increased by 156% on average. Regression analysis projected an annual growth rate of 5.2% for THA and 4.44% for TKA. Based on these yearly projected increases, an estimated increase of 28.84% and 24.28% is expected for each 5-year period after 2020 for THA and TKA, respectively. By 2040, the number of THAs is projected to be 719,364 (95% FI, 624,766 to 828,286) and the number of TKA is projected to be 1,222,988 (95% FI, 988,714 to 1,512,772). By 2060, the number of THAs is projected to be 1,982,099 (95% FI, 1,624,215 to 2,418,839) and the number of TKAs is projected to be 2,917,959 (95% FI, 2,160,951 to 3,940,156). In 2019, Medicare data showed that THA constituted approximately 35% of TJA procedures performed. Conclusions Based on 2019 total volume counts, our model forecasts an increase in THA procedures of 176% by 2040 and 659% by 2060. The estimated increase for TKA is projected to be 139% by 2040 and 469% by 2060. An accurate projection of future primary TJA procedure demands is important in order to understand future health-care utilization and surgeon demand. This finding is only applicable to a Medicare population and demands further analysis to see if this extends to other population groups. Level of evidence Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Estimation of a linear wear index for total hip arthroplasty: A simulation study based on musculoskeletal modelling",
+      "url": "https://hal.science/hal-03747789v1",
+      "publisher": "HAL open archive",
+      "year": "2022",
+      "doi": "",
+      "abstract": "In the present study, we propose a method for calculating a linear wear index, based on data from quantitative gait analysis and ground force platforms, for several trials of different daily activities recorded on 17 participants with a total hip arthroplasty.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Floor and ceiling effects in the OHS: an analysis of the NHS PROMs data set",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4521553/",
+      "publisher": "BMJ open",
+      "year": "2015",
+      "doi": "10.1136/bmjopen-2015-007765",
+      "abstract": "Objectives The objective was to examine whether the Oxford Hip Score (OHS) demonstrated a floor or a ceiling effect when used to measure the outcome of hip replacement surgery in a large national cohort. Setting Secondary database analysis of a national audit conducted in England and Wales on patient undergoing hip and knee arthroplasty in a secondary care setting. Participants 93 253 primary arthroplasty patients completed preoperative OHS questionnaires and 69 361 completed 6-month postoperative OHS questionnaires. The population had a mean age of 67.78 (range 14-100, SD 11.3) and 59% were female. Primary secondary outcome measures Primary outcome measure was the Oxford Hip Score (OHS). Secondary outcome measures were the OHS-FCS and OHS-PCS. Floor and ceiling effects were considered present if >15% of patients achieved the worst score/floor effect (0/48) or best/ceiling effect (48/48) score. Results Preoperatively, 0% of patients achieved the best score (48) and 0.1% achieved the worst score (0). Postoperatively, 0.1% patients achieved the worst score, but the percentage achieving the best score increased to 11.6%. Subgroup analyses demonstrated that patients between 50 and 59 years of age had the highest postoperative best score, at 15.3%. The highest postoperative OHS worst score percentage was in a group of patients who had a preoperative OHS above 41/48 at 28%. Furthermore, 22.6% of patients achieved the best postoperative OHS-PCS and 19.9% best postoperative OHS-FCS. Conclusions Based on NHS PROMS data the overall OHS does not exhibit a ceiling or floor effect and should continue to be used as a valid measure of patient-reported outcomes for patients undergoing total hip arthroplasty. However, subscale analysis does indicate some limitations in the OHS-PCS and OHS-FCS. Trial registration number NDORMS. Introducing standardised and evidence-based thresholds for hip and knee replacement surgery. The Arthroplasty Candidacy Help Engine (ACHE tool). HTA Project 11/63/01.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "COMPLEX FUNCTIONAL ASSESSMENT OF THE HIP JOINT.",
+      "url": "http://www.journal-imab-bg.org/issues-2015/issue3/JofIMAB_2015-21-3p883-886.pdf",
+      "publisher": "Journal of IMAB",
+      "year": "2015",
+      "doi": "10.5272/jimab.2015213.883",
+      "abstract": "Introduction: In relation to the study reporting the effects of applying phased complex rehabilitation in patients with total hip arthroplasty, it has been concluded that the everyday clinical practice in Bulgaria does not apply complex examination, giving an objective picture about the extent of functional status of patients with trauma and diseases of the hip. Aim: The main goal of this report is to present a test which incorporates all known and routine research and in which the total number of points determines the functional status of patients with trauma and diseases of the hip. Material and Methods: Based on the Hip dysfunction and Osteoarthritis Outcome Score, the Harris Hip Score modified test, scale D’Aubigne and Postel and Iowa’s test for complex functional evaluation of the hip joint, we have developed a test including information about the degree of pain; goniometry and manual muscle testing of the hip; locomotor test – type of gait and adjuvants; test for Daily Activities of Life. The test has been developed on the basis of expert assessment by doctors and physiotherapists of the proposed indicators for evaluation and determination of the weighting factors’ contribution to the general condition of the patient. Conclusion: The developed and tested method of complex functional assessment of the hip joint enables our colleagues, dealing with trauma and diseases of the hip, to use it in various research and scientific projects, as well as in general medical practice.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A Single Tertiary-Care Center Case Series Using Vertical Rectus Abdominis Myocutaneous Flap in the Management of Complex Periprosthetic Joint Infection of the Hip",
+      "url": "https://www.mdpi.com/2076-2607/13/8/1962",
+      "publisher": "Microorganisms",
+      "year": "2025",
+      "doi": "10.3390/microorganisms13081962",
+      "abstract": "Prosthetic joint infections (PJIs) pose significant challenges, often requiring multiple surgeries that lead to soft tissue loss, dead space, and fibrosis. Wound breakdown increases the risk of polymicrobial infection and treatment failure. The vertical rectus abdominis myocutaneous (VRAM) flap is a proven method for complex wound coverage, but its role in managing hip PJI is underexplored. This study evaluates outcomes of VRAM flap reconstruction in polymicrobial hip PJI. We retrospectively reviewed five patients who underwent VRAM flap reconstruction for polymicrobial hip PJI between December 2020 and December 2023. Primary outcomes included flap survival, infection control, and wound healing. Secondary outcomes were implant retention, postoperative complications, and functional status. At a mean follow-up of 28 months, four patients achieved wound healing and remained infection-free, while one had persistent sinus drainage but retained the implant. Flap survival was 100%, with no necrosis or failure. No major complications requiring reoperation occurred. Two patients developed deep collections, managed with ultrasound-guided drainage (Clavien-Dindo IIIa). Minor complications included donor-site dehiscence (three), flap dehiscence (one), edge necrosis (two), and hernias (two), all managed non-surgically (Clavien-Dindo I/II). All patients retained implants and remained ambulatory. VRAM flap reconstruction is a reliable option for managing complex polymicrobial hip PJI. Flap survival was excellent, and most patients achieved infection control. However, persistent infection and the need for suppressive antibiotics highlight the ongoing challenges in these cases.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.9,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

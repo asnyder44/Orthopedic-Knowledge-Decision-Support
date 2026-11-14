@@ -1,0 +1,588 @@
+{
+  "term": "De Quervain Tenosynovitis",
+  "collected": "2026-11-14",
+  "count": 32,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Management of de Quervain Tenosynovitis: A Systematic Review and Network Meta-Analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10611995/",
+      "publisher": "JAMA network open",
+      "year": "2023",
+      "doi": "10.1001/jamanetworkopen.2023.37001",
+      "abstract": "Importance There is a plethora of treatment options for patients with de Quervain tenosynovitis (DQT), but there are limited data on their effectiveness and no definitive management guidelines. Objective To assess and compare the effectiveness associated with available treatment options for DQT to guide musculoskeletal practitioners and inform guidelines. Data sources Medline, Embase, PubMed, Cochrane Central, Scopus, OpenGrey.eu, and WorldCat.org were searched for published studies, and the World Health Organization International Clinical Trials Registry Platform, ClinicalTrials.gov, The European Union Clinical Trials Register, and the ISRCTN registry were searched for unpublished and ongoing studies from inception to August 2022. Study selection All randomized clinical trials assessing the effectiveness of any intervention for the management of DQT. Data extraction and synthesis This study was prospectively registered on PROSPERO and conducted and reported per Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension Statement for Reporting of Systematic Reviews Incorporating Network Meta-analyses of Health Care Interventions (PRISMA-NMA) and PRISMA in Exercise, Rehabilitation, Sport Medicine and Sports Science (PERSIST) guidance. The Cochrane Risk of Bias tool and the Grading of Recommendations, Assessment, Development, and Evaluations tool were used for risk of bias and certainty of evidence assessment for each outcome. Main outcomes and measures Pairwise and network meta-analyses were performed for patient-reported pain using a visual analogue scale (VAS) and for function using the quick disabilities of the arm, shoulder, and hand (Q-DASH) scale. Mean differences (MD) with their 95% CIs were calculated for the pairwise meta-analyses. Results A total of 30 studies with 1663 patients (mean [SD] age, 46 [7] years; 80% female) were included, of which 19 studies were included in quantitative analyses. From the pairwise meta-analyses, based on evidence of moderate certainty, adding thumb spica immobilization for 3 to 4 weeks to a corticosteroid injection (CSI) was associated with statistically but not clinically significant functional benefits in the short-term (MD, 10.5 [95% CI, 6.8-14.1] points) and mid-term (MD, 9.4 [95% CI, 7.0-11.9] points). In the network meta-analysis, interventions that included ultrasonography-guided CSI ranked at the top for pain. CSI with thumb spica immobilization had the highest probability of being the most effective intervention for short- and mid-term function. Conclusions and relevance This network meta-analysis found that adding a short period of thumb spica immobilization to CSI was associated with statistically but not clinically significant short- and mid-term benefits. These findings suggest that administration of CSI followed by 3 to 4 weeks immobilization should be considered as a first-line treatment for patients with DQT.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.02,
+      "providers": [
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "DELINEATION OF DE QUERVAIN TENOSYNOVITIS IN SAUDI ARABIA AND LITERATURE REVIEW",
+      "url": "https://zenodo.org/records/6767510",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6767510",
+      "abstract": "Background: De Quervain Tenosynovitis was first reported in the literature in 1895 by Fritz De Quervain, describing entrapment tendinitis of the first dorsal compartment of the wrist. This study conducted to evaluate our institutions experience with De Quervain Tenosynovitis patients Methods : Retrospective cross-sectional hospital based study conducted at King Abdul-Aziz Medical City a tertiary care center in Riyadh.The study included all De Quervain Tenosynovitis cases treated in our institution between January 2008 and December 2014. Results: The study included 29 patients. Mean (Interquartile range) age was 42 (24-78) years and 19/29 (66%) were female. Mean (Interquartile range) BMI at the diagnosis was 30 (21-42). The most common radiological finding was distal radius cortical ridging17/29 (59%). Conservative treatment was initiated in 17/29 patients (59%), yet no clinical improvement noted and all the cases required surgical intervention 29/29 (100%). The intraoperative septum was observed in all cases 29/29 (100%). Conclusion: Routine wrist X-rays in DeQuervain Tenosynovitis is cost-effective and should be considered to guide the treatment course with low threshold for surgical intervention might be warranted particularly in obese female patient.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Optimal Skin Incision for the Surgical Treatment of De Quervain Tenosynovitis: A Systematic Review and Meta-Analysis",
+      "url": "https://www.mdpi.com/1648-9144/62/3/590",
+      "publisher": "Medicina",
+      "year": "2026",
+      "doi": "10.3390/medicina62030590",
+      "abstract": "Background and Objectives: De Quervain tenosynovitis (DQT) is a stenosing overuse condition of the synovial sheath of the first extensor compartment of the wrist. Open surgical release of the first dorsal compartment remains a standard intervention for DQT when conservative treatments fail. This systematic review evaluated the comparative efficacy of transverse versus longitudinal skin incisions for open release of the first dorsal compartment in DQT. Materials and Methods: Four studies with 259 patients were included in the review. Data from 17 patients were unavailable due to loss to follow-up; therefore, 243 wrists (242 patients) were included in the quantitative analysis. The transverse incision group consisted of 114 cases, and the longitudinal incision group of 129 cases. The primary outcome of the review was the incision-related incidence of injuries to adjacent anatomical structures, including injuries to the superficial branch of the radial nerve (SBRN), tendon injuries, and vein injuries. Secondary outcomes included hypertrophic scar formation, wound infection, and postoperative changes in pain severity measured using a visual analog scale (VAS). Results: Although there was a lower rate of SBRN injury in the longitudinal group (5.4% vs. 7% in the transverse group), the difference did not meet statistical significance (OR = 2.17; 95% CI, 0.39–11.99; p = 0.37; I 2 = 30%). Similarly, there was no significant difference in the risk of vein injury (RD = 0.06; 95% CI, −0.03 to 0.14; p = 0.21; I 2 = 61%), hypertrophic scar formation (OR = 1.39; 95% CI, 0.32 to 6.04; p = 0.66; I 2 = 35%), and wound infection (RD = 0.00; 95% CI, −0.03 to 0.03; p = 0.93; I 2 = 0%). Although both approaches resulted in significant pain improvement, no statistically significant difference in postoperative pain was observed between incision types, as assessed by the VAS for pain (mean difference = 0.30; 95% CI, −0.70 to 1.30; p = 0.56; I 2 = 43%). Conclusions: No significant differences were identified between incision techniques for DQT in terms of complication rates and postoperative pain outcomes. However, the available evidence is limited, and future high-quality trials are necessary to determine any clinically meaningful difference. Therefore, incision selection should be individualized based on surgeon preference, patient-specific anatomy, and procedural complexity. Despite the technique used, meticulous surgical technique is essential to prevent postoperative complications.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.14,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "The effects of low-level laser therapy in De Quervain tenosynovitis: evidence from a systematic review and meta-analysis",
+      "url": "https://www.semanticscholar.org/paper/cef7630f2b7bbb8bd6d2a662ebb59f521f8c1287",
+      "publisher": "Physiotherapy Quarterly",
+      "year": "2025",
+      "doi": "10.5114/pq/192504",
+      "abstract": "De Quervain tenosynovitis (QT), a painful and inflammatory wrist condition, presents challenges in its conservative treatment. Although low-level laser therapy (LLLT) is considered an attractive option, the evidence of its effectiveness requires evaluation. This systematic review aimed to assess the analgesic effects of LLLT in QT patients.The search used the PubMed, Scopus, Web of Science, Embase, EBSCOhost, Physiotherapy Evidence Database (PEDro), and Google Scholar (last updated on March 10, 2025) databases to identify clinical trials comparing the effects of LLLT to other physical therapy or medical treatments in patients with QT. The primary outcomes evaluated were pain intensity, grip strength, and disability. The Cochrane Risk of Bias Tool 2 (RoB2) assessed study quality, and the meta-analysis used weighted mean difference (WMD) or standardised mean difference (SMD). Evidence-based recommendations for statistically significant outcomes were presented following the GRADE approach.Eight studies were included, with an overall low risk of bias (RoB) (25%). Deviations from intended interventions and outcome measurement were sources of bias. Post-treatment pain intensity was statistically significant for LLLT (WMD = –0.98 cm; 95% CI: –1.91, –0.04; p = 0.04; LLLT group [107],control group [124]). RoB and heterogeneity rated the evidence certainty as very low yet important. Handgrip strength and synovial sheath thickness were not statistically significant between groups (p > 0.05).LLLT reduces pain effectively. Prioritising LLLT or ultrasound (US) over invasive treatments may optimise clinical management and minimise postsurgical complications.",
+      "licence": "CCBYNCND",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.104,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Functional Outcome in De Quervain Tenosynovitis Treated with Corticosteroid Injection Versus Surgical Compartment Release: A Prospective Comparative Interventional Study",
+      "url": "https://zenodo.org/records/21320746",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.21320746",
+      "abstract": "Background: De Quervain tenosynovitis causes radial-sided wrist pain and functional limitation due to involvement of the first dorsal extensor compartment. Corticosteroid injection and surgical release are widely used, but comparative functional outcome data remain clinically relevant. Methods: This prospective comparative interventional study included 50 adults aged 20-60 years with clinically confirmed De Quervain tenosynovitis. Twenty-five patients received local corticosteroid injection and 25 underwent first dorsal compartment release. Pain and function were assessed using VAS and DASH scores at baseline, 2 weeks, 6 weeks, and 3 months. Results: Baseline VAS and DASH scores were comparable between groups. At 3 months, the surgical release group had significantly lower VAS score than the steroid injection group (1.20 ± 1.12 vs 2.48 ± 0.96, p<0.001). The 3-month DASH score was also significantly better after surgical release (9.44 ± 4.66 vs 25.36 ± 7.73, p<0.001). Recurrence was lower after surgery, though not statistically significant.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Risk Factors Associated With de Quervain Tenosynovitis in Postpartum Women",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11141414/",
+      "publisher": "Hand (New York, N.Y.)",
+      "year": "2024",
+      "doi": "10.1177/15589447221150524",
+      "abstract": "Background De Quervain (DQ) disease is caused by stenosis of the first dorsal compartment containing the abductor pollicis longus and extensor pollicis brevis. This condition affects women 6 times more than men and is also commonly reported in pregnant and lactating women. The natural course of the disease and associated risk factors are not well understood. In this study, we described the gestational risk factors associated with postpartum DQ. Methods Sixty-three postpartum women with DQ were included in final study population. Medical records were reviewed for patient characteristics, including age, comorbidities, and body mass index (BMI), and gestational information, including length of pregnancy, gestation number, single or twin birth, and weight at birth. Odds ratio (OR) for developing DQ tenosynovitis were calculated with the control group of 630 postpartum women without DQ who gave birth between 2012 and 2020 in the same district. Results Length of pregnancy (>40 weeks, OR = 5.81 [3.29-10.28]), first childbirth (OR = 2.23 [1.32-3.77]), and weight (BMI > 25, OR = 2.08 [1.14-3.81]) were all statistically significant risk factors associated with developing DQ. Number of fetuses > 1 (OR = 0.98 [0.29-3.33]) and birth weight more than 3.5 kg (OR = 0.60 [0.30-1.21]) were not associated with higher risk of DQ. Conclusions Gestational risk factors associated with developing postpartum DQ include first pregnancy and long pregnancy of more than 40 weeks. Interestingly, child's birthweight and number of fetuses, both factors that might increase load on the first dorsal compartment while holding the child, were not shown to increase the risk of postpartum DQ.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Short-term Effectiveness of High-intensity Laser Therapy in De Quervain Tenosynovitis: A Prospective, Randomized, Controlled Study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10064111/",
+      "publisher": "Medeniyet medical journal",
+      "year": "2023",
+      "doi": "10.4274/mmj.galenos.2023.67279",
+      "abstract": "Objective: The effectiveness of high-intensity laser therapy (HILT) has been demonstrated in some musculoskeletal repetitive strain injury disorders. This study aimed to determine the short-term effectiveness of HILT in de Quervain tenosynovitis (DQT). Methods: Sixty-four patients with DQT diagnosis (32 males, 32 females; 18-65 years) were randomly divided into two groups. A short opponens splint was applied to both groups and HILT to the treatment group and sham HILT to the control group once a day, on alternate days, 3 days a week, for 5 weeks. Pre- and post-treatment evaluations were made using a visual analog scale (VAS); Quick Disabilities of the Arm, Shoulder, and Hand questionnaire; Short Form-36 Health Survey; and hand grip strength test. Results: The demographic results (age, gender, duration of complaint, body mass index, occupational group) of both groups were similar (p>0.05). The pre-treatment measured values were similar in both groups (p>0.05). After a 5-week treatment, a significant improvement was observed in all parameters in both groups. Post-treatment, hand grip strength levels were statistically higher in the HILT group than in the sham therapy group, and VAS levels were significantly lower (p<0.001). Conclusions: HILT is a non-invasive and reliable method that increases grip strength and decreases pain in DQT.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.92,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The Thumb Spica Splint: Anatomical Rationale, Clinical Indications, and Interprofessional Application in Acute Hand and Wrist Injuries",
+      "url": "https://zenodo.org/records/20311383",
+      "publisher": "Dr Indunil Karunarathna © Uva Clinical Research Lab 2026 © Uva Clinical Anaesthesia and Intensive Care ISSN 2827-7198",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20311383",
+      "abstract": "The thumb spica splint is a foundational orthotic device in the conservative and perioperative management of radial-sided hand and wrist injuries. This article provides a comprehensive, clinically oriented overview of the thumb spica splint, beginning with the functional anatomy of the radiocarpal joint, the vascular vulnerability of the scaphoid, and the soft tissue mechanics of the thumb’s abductor and extensor tendons. Key pathophysiological entities—including scaphoid fractures, De Quervain tenosynovitis, and ulnar collateral ligament injuries—are discussed in relation to splinting mechanisms. The procedure is described stepwise, from patient positioning and padding to plaster or fiberglass application, with emphasis on avoiding common pitfalls such as pressure points and thermal injury. Indications and contraindications are clearly delineated, and the complication profile—most critically, compartment syndrome—is addressed with practical guidance for patient education. The clinical significance of thumb spica splinting lies in its cost-effectiveness, ease of application, and removability for serial examination. However, optimal outcomes require an interprofessional approach involving emergency providers, orthopaedic surgeons, hand therapists, nurses, and, when indicated, mental health professionals. Evidence is presented supporting early psychological intervention to reduce post-injury disability. The article concludes that while the thumb spica splint is a seemingly simple device, its effective use demands anatomical knowledge, technical skill, and a holistic, team-based view of patient recovery.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Design, Manufacturing and Mechanical Evaluation of a 3D Printed Customized Wrist-Hand Orthosis for the Treatment of De Quervain Tenosynovitis",
+      "url": "https://www.semanticscholar.org/paper/58f916e7e020df0499beaa6169b083eac59853dc",
+      "publisher": "CITIIC 2023",
+      "year": "2025",
+      "doi": "10.3390/engproc2025083002",
+      "abstract": ": De Quervain’s tenosynovitis is a pathology that affects the tendons of the thumb and generates pain and inflammation, being common in people between 18 and 30 years old who perform repetitive movements. Despite the innovation of 3D printing in orthotics, customization is lacking. Therefore, this works aims to develop a 3D printed customized wrist-hand orthosis (WHO) for the treatment of De Quervain tenosynovitis. The WHO includes three main parts, which would be two faces that cover the front and back of the hand and the locks to ensure the coupling of both faces. Prior to 3D printing, feedstock filament characterization tests were carried out, and tensile strength, melt flow index, degradation, and melting temperature were obtained. 3D printing of the WHO was achieved in a short time and with an adequate fit. Subsequently, mechanical tests were carried out to evaluate the maximum force of the WHO in different positions.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.604,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "TOUCH® duo-mobile prosthesis in TMC osteoarthritis: two-year results and practical insights regarding key surgical steps and complication management",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12098211/",
+      "publisher": "Archives of orthopaedic and trauma surgery",
+      "year": "2025",
+      "doi": "10.1007/s00402-025-05926-5",
+      "abstract": "Introduction The Touch® dual-mobility prosthesis is a well-established treatment for advanced trapeziometacarpal (TMC) joint osteoarthritis, offering an alternative to resection arthroplasty. Short-term studies suggest dual-mobility designs reduce dislocation and loosening compared to single-mobility prostheses. This retrospective study presents clinical outcomes after a mean follow-up of 24 months, focusing on revision surgery and providing insights about key surgical steps and the management of adverse events. Materials and methods A total of 78 patients (88 prostheses) with TMC osteoarthritis underwent surgery between August 2019 and December 2023, performed by a single surgeon in a monocentric setting. Preoperative assessments and follow-ups were conducted at 6 weeks, 6 months, 12 months, and annually. Outcome measures included radiographic analysis, range of motion, grip/pinch strength, pain (NRS 1-10), and functional scores (qDASH, briefMHQ). Complications and revisions were recorded. Results At a mean follow-up of 24 months (range 6-61 months), significant improvements in hand function, pain, and mobility were observed. Preoperative thumb MCP hyperextension (> 15° in 23 thumbs) was corrected to 6° on average, and thumb length was restored. Four patients (4.5%) required implant revision: two due to secondary cup dislocation after misplacement, two due to impingement. Seven secondary surgeries addressed wound healing disorders (n = 2) and secondary De Quervain tenosynovitis (n = 5). Kaplan-Meier analysis showed a 96% prosthesis survival rate at two years. Conclusions The Touch® dual-mobility prosthesis demonstrates high effectiveness in improving pain, function, and thumb stability, with low revision rates. Restoration of thumb length and correction of hyperextension support its use as a reliable surgical option. These findings are consistent with existing literature suggesting superior long-term stability compared to single mobility implants. Identified surgical challenges highlight factors contributing to complications and emphasize intraoperative strategies to prevent revision.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Tenosynovial Giant Cell Tumor masked as de Quervain Tenosynovitis.",
+      "url": "https://www.semanticscholar.org/paper/83f88f6c16ad6ba5725909360e6e1bef7fa69296",
+      "publisher": "Acta orthopaedica Belgica",
+      "year": "2025",
+      "doi": "10.52628/91.4.13974",
+      "abstract": "We present a patient who initially presented with clinical symptoms consistent with de Quervain tenosynovitis, resistant to conservative treatment. MRI revealed a cystic mass surrounding the radial styloid within the first extensor compartment (abductor pollicis longus (APL) and extensor pollicis brevis (EPB)), associated with scaphotrapezoid (STT) arthritis. However, upon surgical exploration, the lesion was identified as a localized tenosynovial giant cell tumor (TSGCT), which had caused erosion of the trapezium bone and compressed the EPB tendon. Histopathology confirmed the diagnosis. Postoperative recovery was uneventful, with functional improvement and no recurrence. This exceptional case highlights the importance of accurate diagnosis and the potential for atypical presentations of benign tumors. Informed consent was obtained from the patient after surgery to use her case details in publication for educational and research purposes.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "The comparison of the efficacy of extracorporeal shockwave therapy and high-intensity laser therapy in the treatment of de Quervain tenosynovitis",
+      "url": "https://www.semanticscholar.org/paper/26df3a7a185a9e28b4d1739bcc5f2727610004b2",
+      "publisher": "Turkish Journal of Physical Medicine and Rehabilitation",
+      "year": "2024",
+      "doi": "10.5606/tftrd.2024.14671",
+      "abstract": "Objectives This study aims to investigate and compare the treatment efficacy of extracorporeal shockwave therapy (ESWT) and high-intensity laser therapy (HILT) regarding pain management and functionality in patients with de Quervain tenosynovitis (DQT). Patients and methods Between May 2022 and November 2022, a total of 60 patients with DQT (16 males, 34 females; mean age: 43.3±7.7 years; range, 18 to 65 years) were included in this study. The patients were randomly divided into two groups as follows: Group A (ESWT, n=29) and Group B (HILT, n=31). The patients were asked to refrain from all types of exercise 24 h before the experiment. The pain level of the patients at the time of presentation was evaluated via Visual Analog Scale (VAS), and the function outcome was evaluated with Quick Disabilities of Arm, Shoulder and Hand (QDASH) before and after the treatment. Muscle strength was evaluated with a Jamar hand dynamometer, and an algometer was used to measure pressure pain threshold (PPT). The Global Assessment Scale (GAS) was used to measure the treatment success. Results The intragroup comparisons revealed significant improvements in all parameters after the treatment in both groups (p<0.05). The VAS-rest score, the VAS-movement score, the QDASH score, pain-free grip strength (PFGS), and PPT showed a significant difference before treatment at three weeks and three months (p<0.01). The difference between the PPT values of the groups at three weeks was significant (p<0.01). The third-week PPT value of Group B was higher than the PPT value of Group A. The difference between GAS 1 and GAS 2 of both groups was statistically significant at three weeks and three months (p<0.05). Conclusion Both ESWT and HILT treatments are safe and effective in DQT treatment. The ESWT is a recent, non-invasive therapeutic modality which is effective, convenient, and safe in DQT. On the other hand, HILT is a non-invasive, reliable method which has a greater effect on DQT.",
+      "licence": "CCBYNC",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.568,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Changes In The Radial Styloid Bone: Can They Affect The Choice Of Treatment Method In De-Quervaın Tenosynovitis?",
+      "url": "https://zenodo.org/records/14512825",
+      "publisher": "Zenodo",
+      "year": "2024",
+      "doi": "10.5281/zenodo.14512825",
+      "abstract": "ABSTRACT Introduction: De Quervain tenosynovitis is a stenosing tenosynovitis of the Abductor Pollicis Longus (APL) and M. Extensor Pollicis Brevis (EPB) tendons located in the 1st dorsal compartment of the wrist, under the dorsal carpal ligament and radial tunnel. This research aimed to define and investigate the radial styloid bone changes and to evaluate which treatment option was applied to patients with bone changes. Method: A total of 55 patients with De Quervain tenosynovitis were included in this study. Two separate radiologists analyzed the anterior-posterior wrist radiographs of patients at different times to investigate and define the radial styloid bone changes and evaluate which treatment option was applied to patients with radial styloid bone changes. The impact of treatment was assessed to determine the extent to which the appropriate treatment option can be decided for patients via X-ray. Results: According to radiological imaging findings, changes were detected in the radial styloid bone in 72.2% of the patients, while no such changes were observed in 27.8%. The analyses show no significant relationship between X-ray findings and pre-FTR status, conservative or surgical treatment (p>0.05). The age variable was statistically significant in predicting X-ray changes (p = 0.049). The probability of X-ray changes increases with age (p = 0.049), which shows that age is an essential factor in X-ray changes. Conclusion: Regarding the outcomes of this research, the age variable was statistically significant in predicting X-ray changes. The probability of X-ray changes increases with age, which shows that age is an essential factor in X-ray changes . Keywords: De Quervain Tenosynovitis, Conservative Treatment, Physical Therapy and Rehabilitation, X-ray, Age.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Testosterone Replacement Therapy and Associated Rates of Trigger Finger, de Quervain Tenosynovitis, and Their Subsequent Management",
+      "url": "https://zenodo.org/records/15029985",
+      "publisher": "The Journal Of Hand Surgery",
+      "year": "2024",
+      "doi": "10.5281/zenodo.15029985",
+      "abstract": "© This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. Deposited by shareyourpaper.org and openaccessbutton.org. We've taken reasonable steps to ensure this content doesn't violate copyright. However, if you think it does you can request a takedown by emailing help@openaccessbutton.org.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Anatomical Variations of the First Dorsal Compartment in de Quervain Tenosynovitis",
+      "url": "https://www.semanticscholar.org/paper/c5e2c9197c256eabb03c8fb1b1c9e85bafc2fbf5",
+      "publisher": "HAND",
+      "year": "2023",
+      "doi": "10.1177/15589447231164746",
+      "abstract": "Background: De Quervain tenosynovitis of the wrist is a common pathology. The primary aim of this study is to determine the prevalence of extensor pollicis brevis and abductor pollicis longus (APL) anatomical variations in association with de Quervain tenosynovitis. The secondary aim was to compare additional patient-specific factors associated with de Quervain tenosynovitis. Methods: This retrospective study included 172 patients with de Quervain tenosynovitis who underwent first dorsal compartment release and 179 patients with thumb carpometacarpal (CMC) arthritis who underwent thumb CMC arthroplasty between August 1, 2007, and May 1, 2022. The CMC group was chosen as the control group because the study surgeons perform APL suspensionplasty as the primary procedure for thumb CMC arthritis, allowing for a comparison group without de Quervain tenosynovitis. Exclusion criteria included patients undergoing revision surgery, patients undergoing thumb CMC procedure other than APL suspensionplasty, and patients with both CMC and first dorsal compartment diagnoses. Demographics, clinical variables, and intraoperative findings were collected through retrospective chart reviews. Results: Patients in the de Quervain tenosynovitis group tended to be younger (51 years, range: 23-92 years vs 63 years, range: 28-85 years), women (86.1% vs 77.1%), and more commonly of African American or black race (15.7% vs 3.9%) and Asian race (5.2% vs 0%). There was a higher prevalence of tendon subcompartments (79.1% vs 64.2%), but fewer number of APL slips (38.3% vs 20.7% 2 or fewer slips) seen in the de Quervain tenosynovitis group. Conclusion: Anatomical variation exists between patients with and without de Quervain tenosynovitis. The presence of tendon subcompartments but not an increased number of tendon slips is associated with de Quervain tenosynovitis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.534,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Development of de Quervain Tenosynovitis After Distal Radius Fracture",
+      "url": "https://www.semanticscholar.org/paper/0779ba8212f35c1f32f4809b23fe6bc60e097e72",
+      "publisher": "HAND",
+      "year": "2023",
+      "doi": "10.1177/15589447231174042",
+      "abstract": "Background: We sought to determine the risk factors for the development of de Quervain tenosynovitis after distal radius fractures. Our hypothesis is that longer periods of immobilization and higher-energy fracture patterns will correlate with the development of de Quervain tenosynovitis. Methods: This is a 10-year retrospective study of 1451 consecutive patients with distal radius fractures presenting to a large academic institution. The incidence and relative risk of de Quervain tenosynovitis within 1 year of sustaining a distal radius fracture were analyzed. Results: In total, 41 patients developed posttraumatic de Quervain tenosynovitis at an average time of 6.5 months. In the operative cohort, the incidence was 2.2%, and that of the nonoperative group was 3.8%. Among all affected patients, 78% admitted to strenuous, overuse activities or careers. Compared with the unaffected cohort, the de Quervain tenosynovitis group was more likely to be female and black with similar age and body mass index. The traumatic cohort was less likely to respond to corticosteroid injections. A separate extensor pollicis brevis (EPB) sheath was noted in all patients requiring surgical release. Conclusions: Patients with a nonoperative distal radius fracture were 4.2 times more likely to develop de Quervain’s than the general population, and those treated operatively were 2.4 times more likely. These patients were more likely to be female, black, and engage in strenuous overuse activities or careers. They demonstrated higher-energy fracture patterns and worse response to corticosteroid injections, more frequently requiring surgical decompression. Among those requiring surgery, patients were 2.5 times more likely to have a separate EPB sheath than those with atraumatic Quervain’s.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.532,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "De Quervain Tenosynovitis as a Risk Factor of New-Onset Adhesive Capsulitis: A Nationwide Cohort Study",
+      "url": "https://www.semanticscholar.org/paper/538f1130dc5f393c96910cc7364a93ff54639256",
+      "publisher": "Healthcare",
+      "year": "2023",
+      "doi": "10.3390/healthcare11121758",
+      "abstract": "This study investigated the association of de Quervain tenosynovitis (DQT) with subsequent adhesive capsulitis (AC) development. Patients with DQT between 2001 and 2017 from the Taiwan National Health Insurance Research Database were the DQT cohort. The 1:1 propensity score matching method was applied for creating control cohort. The primary outcome was defined as new-onset of AC at least 1 year after the date of confirmed diagnosis of DQT. In total, 32,048 patients with mean age 45.3 years were included. DQT was significantly positively associated with risk of new-onset AC after adjustment for baseline characteristics. Furthermore, severe DQT requiring rehabilitation was positively associated with risk of new-onset AC. In addition, male gender and age under 40 may be additional risk factors for new-onset AC, compared to female gender and age over 40. Cumulative incidence of AC after 17 years was 24.1% among patients with severe DQT requiring rehabilitation and was 20.8% among patients with DQT without rehabilitation. This is the first population-based study to demonstrate an association between DQT and new-onset AC. The findings recommend that preventive occupational therapy, including active modification for the shoulder joint and adjustments to daily activities, may be necessary for patients with DQT to reduce their risk of developing AC.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.528,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Surgical Management of De Quervain Tenosynovitis",
+      "url": "https://hal.science/hal-05200809v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Introduction: De Quervain tenosynovitis (De Quervain’s Disease, DQD) is a common affection, renowned by its false benignity, wich can compromise the function of the hand especially in manual workers and be a source of non attendance at work. Surgical treatment represents a radical solution and deserves a bigger place in the management of this pathology. The aim of this work was to study the epidemiological, clinical and therapeutic aspects of DQD with a literature review. Methods: This is a retrospective study of 50 surgically treated DQD cases in the department of plastic and hand surgery of University Hospital of Nabeul between 2011 and 2021. The clinical criteria studied were: sharp pain on palpation of the radial border of the wrist and at the maneuvers of stretching the concerned muscles (The maneuver of Eichhoff, The maneuver of Finkelstein, The test of G. Brunelli, kapandji). The results were evaluated according to the Kapandji score. Results: It is a series of adults (average age= 45 years), manual workers, predominantly female (sex ratio= 0, 25). The dominant side is affected in 80% of cases. Pain is the most common reason for consultation. The average duration of symptoms before surgery was less than 12 months in 64% of cases. Clinical signs were assessed by the finkelstein test which was positive in all cases. All our patients were operated on after failure of medical treatment, 14% longitudinal and 86% transverse incision, a septum was found in 40 cases, and it was resected. The termination of the abductor pollicis longus was split in 20 cases. The post-operative complications were essentially aesthetic represented by 4 hypertrophic scars. Resumption of work was done within the post-operative month. The results were evaluated according to the Kapandji score which was ≥ 9 in 84% of the cases. The Finkelstein test was negative in all cases and palpation in relation to the abductor pollicis longus tendon at the radial styloid did not cause any more pain. All patients reported a marked improvement in their symptomatology and the majority of cases were satisfied with the aesthetic outcome. Conclusion: The De Quervain tenosynovitis reputed by its false benignity is a disabling pathology, source of absenteeism in manual workers. Surgery finds its indication, since it is the only method to permanently eliminate pain and quickly resume a normal professional and daily activity.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The association between smartphone addiction and thumb/wrist pain: A cross-sectional study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7478614/",
+      "publisher": "Medicine",
+      "year": "2020",
+      "doi": "10.1097/md.0000000000019124",
+      "abstract": "Many smartphone users experience pain in the thumb/wrist. This pain can be due to certain types of hand injuries as well as inflammation of the extensor pollicis brevis and the abductor pollicis longus tendon sheaths, known as De Quervain tenosynovitis. The objective of this study was to evaluate the association between smartphone addiction and wrist/thumb pain and to determine the severity of the pain, as well as to calculate the prevalence of De Quervain tenosynovitis among medical students at King Abdulaziz University (KAU) in Jeddah.A total of 387 medical students were enrolled. The smartphone addiction scale-short version (SAS-SV) was used to divide participants into the smartphone addict group and non-addict group. Both groups completed the self-administered patient-rated wrist and hand evaluation (PRWHE) questionnaire to evaluate wrist/hand pain. The Finkelstein test was administered to those who reported pain in the thumb/wrist.Two hundred fifty-seven (66.4%) participants were smartphone addicts; 74 (19.1%) had a positive Finkelstein test. There was a significant correlation between smartphone addiction and high PRWHE scores (P = .036).Our study found the prevalence of smartphones addiction among university students to be high (66%), furthermore a correlation between heavy smartphones usage and hand pain was found which indicates that heavy usage of these devices can cause subclinical effects on the human hand.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Injection Techniques for Common Chronic Pain Conditions of the Hand: A Comprehensive Review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203307/",
+      "publisher": "Pain and therapy",
+      "year": "2020",
+      "doi": "10.1007/s40122-020-00158-4",
+      "abstract": "Introduction This compilation presents a comprehensive review of the literature on common chronic pain conditions of the hand. It briefly presents these common conditions with their biological background, diagnosis, and common management options. It then presents and compares the latest literature available for injection techniques to treat these diagnoses and compares the available evidence. Methods A comprehensive literature review was performed in MEDLINE, PubMed, and Cochrane databases from 1996 to 2019 using the terms \"hand pain\", \"injection techniques\", \"steroid injection\", \"chronic pain\", \"osteoarthritis\", \"rheumatoid arthritis\", \"carpal tunnel syndrome\", \"De Quervain's tenosynovitis\", \"ganglion cyst\", \"gout\", \"Raynaud's\", and \"stenosing tenosynovitis\". Results Hand pain is a common condition with 9.7% prevalence in men and 21.6% in women and can cause significant morbidity and disability. It also carries a significant cost to the individuals and the healthcare system, totaling in $4 billion dollars in 2003. Injection therapy is an alternative when conservative treatment fails. Osteoarthritis is the most common chronic hand pain syndrome and affects about 16% of the population. Its mechanism is largely mechanic, and as such, there is controversy if steroid injections are of benefit. Hyaluronic acid (HA) appears to provide substantial relief of pain and may increase functionality. More studies of HA are required to make a definite judgment on its efficacy. Similarly, steroid ganglion cyst injection may confer little benefit. Carpal tunnel syndrome is a compressive neuropathy, and only temporarily relieved with injection therapy. US-guidance provides significant improvement and, while severe cases may still require surgery, can provide a valuable bridge therapy to surgery when conservative treatment fails. Similar bridging treatments and increased efficacy under US-guidance are effective for stenosing tenosynovitis (\"trigger finger\"), though, interestingly, inflammatory background is associated with decreased effect in this case. When the etiology of the pain is inflammatory, such as in RA, corticosteroid (CS) injections provide significant pain relief and increased functionality. They do not, however, change the course of disease (unlike DMARDs). Another such example is De-Quervain tenosynovitis that sees good benefit from CS injections, and an increased efficacy with US-guidance, and similarly are CS injections for gout. For Raynaud's phenomenon, Botox injections have encouraging results, but more studies are needed to determine safety and efficacy, as well as the possible difference in effect between primary and secondary Raynaud's. Conclusions Chronic hand pain is a prevalent and serious condition and can cause significant morbidity and disability and interferes with independence and activities of daily living. Conservative treatment remains the first line of treatment; however, when first-line treatments fail, steroid injections can usually provide benefit. In some cases, HA or Botox may also be beneficial. US-guidance is increasing in hand injection and almost ubiquitously provides safer, more effective injections. Hand surgery remains the alternative for refractory pain.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The incidence between Carpal tunnel syndrome (CTS) and de Quervain’s tenosynovitis (DQT) using electrophysiological and ultrasonography study.",
+      "url": "https://jmisr.researchcommons.org/home/vol8/iss3/2",
+      "publisher": "Journal of Medicine in Scientific Research",
+      "year": "2025",
+      "doi": "10.59299/2537-0928.1447",
+      "abstract": "One of the most common entrapment neuropathies affecting the upper limbs is carpal tunnel syndrome (CTS). de Quervain tenosynovitis (DQT) is a condition that affects the wrist's first dorsal compartment and is characterized by tendon entrapment and thickening of sheaths around the abductor pollicis longus and extensor pollicis brevis. The association of idiopathic CTS and idiopathic DQT has been studied in a few researches. In this study, we would like to summarize the most recent knowledge about the occurrence of CTS and DQT on the same hand using electrophysiological and ultrasonography studies.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Musculoskeletal disorders affecting upper and lower limbs in pregnant women: How to manage them? Troubles musculosquelettiques de la femme enceinte concernant les membres : quelle prise en charge ?",
+      "url": "https://hal.science/hal-05332773v1",
+      "publisher": "Revue du Rhumatisme",
+      "year": "2025",
+      "doi": "10.1016/j.rhum.2025.08.005",
+      "abstract": "During pregnancy, hormonal, biomechanical and vascular changes contribute to the development of musculoskeletal disorders. The growing uterus affects body's center of gravity and weight gain increases mechanical stress on the body. In addition, hormonal-related joint laxity and fluid retention may also induce musculoskeletal symptoms. Spinal and pelvic pain has been reported as the most frequent complaint but other common problems consist of lower and upper limbs pain. Upper and lower limbs musculoskeletal disorders occurring during pregnancy, i.e. De Quervain's tenosynovitis, carpal tunnel syndrome, meralgia paresthetica, and foot complaints, will be described as well as their management. Au cours de la grossesse, les changements hormonaux, biomécaniques et vasculaires contribuent au développement de troubles musculosquelettiques. La croissance de l’utérus modifie le centre de gravité du corps et la prise de poids augmente les contraintes mécaniques sur le corps. En outre, la laxité des articulations et la rétention d’eau dépendant des variations hormonales peuvent également induire des symptômes musculosquelettiques. Bien que les douleurs rachidiennes et pelviennes soient les symptômes les plus fréquemment rapportés, des troubles musculosquelettiques touchant les membres inférieurs et supérieurs peuvent également affecter les femmes enceintes. Dans cette revue, les affections musculosquelettiques des membres supérieurs et inférieurs survenant pendant la grossesse seront décrites (ténosynovite de De Quervain, syndrome du canal carpien, méralgie paresthésique et affections du pied) ainsi que leur prise en charge.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Postoperative Pathologies of the Hand Following Shoulder Surgery",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2589514124001245",
+      "publisher": "Journal of Hand Surgery Global Online",
+      "year": "2024",
+      "doi": "10.1016/j.jhsg.2024.05.011",
+      "abstract": "Purpose: Shoulder arthroscopy and arthroplasty are increasingly common procedures used to address shoulder pathologies. This study sought to evaluate the incidence of hand-related pathologies, including carpal tunnel syndrome (CTS), cubital tunnel syndrome (CuTS), trigger finger (TF), de Quervain tenosynovitis, and Dupuytren disease following shoulder arthroscopy and arthroplasty procedures. We hypothesized that patients undergoing shoulder surgery would have a higher incidence of hand-related pathologies within 1 year of surgery compared to controls. Methods: This was a retrospective analysis of 12,179 patients who underwent shoulder arthroscopy or arthroplasty surgery that were subsequently diagnosed with CTS, CuTS, TF, de Quervain tenosynovitis, or Dupuytren disease within 1 year after surgery. Relative risk of having associated hand pathologies following shoulder surgery was compared to controls. Results: In total, 10,285 patients underwent shoulder arthroscopy procedures during this period, of whom 815 (7.9%) had an associated hand pathology within 1 year from their shoulder procedure. Arthroscopic surgery was associated with an increased likelihood of having a hand pathology (RR 1.65, 95% CI 1.54–1.76), CTS (RR 1.57, 95% CI 1.42–1.73), CuTS (RR 2.25, 95% CI 1.94–2.61), TF (RR 1.76, 95% CI 1.53–2.03), and Dupuytren disease (RR 2.02, 95% CI 1.54–2.65), but was not associated with a higher likelihood of having de Quervain tenosynovitis. In total, 1,894 patients underwent shoulder arthroplasty procedures during this period, of whom 188 (9.9%) had an associated hand pathology within 1 year. Shoulder arthroplasty was associated with an increased likelihood of having a hand pathology (RR 2.04, 95% CI 1.78–2.34), CTS (RR 2.10, 95% CI 1.72–2.57), CuTS (RR 3.29, 95% CI 2.48–4.39), and TF (RR 1.99, 95% CI 1.47–2.70), but was not associated with an increased likelihood of having de Quervain tenosynovitis or Dupuytren disease. Conclusions: Shoulder arthroscopy and arthroplasty procedures were associated with an increased likelihood of having a CTS, CuTS, or a TF diagnosis made within 1 year of surgery. Only shoulder arthroscopy procedures were associated with a higher likelihood of having Dupuytren disease. Neither shoulder arthroscopy nor arthroplasty procedures were associated with an increased likelihood of a diagnosis of de Quervain tenosynovitis. These associations, however, do not necessarily imply causation, and further investigation is warranted to delineate this relationship. Type of study/level of evidence: Differential Diagnosis/Symptom Prevalence Study Level 3.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Vertical Versus Transverse Incision for the Release of the First Dorsal Compartment of the Wrist for De Quervain’s Tenosynovitis",
+      "url": "http://jgmds.org.pk/index.php/JGMDS/article/view/456",
+      "publisher": "Journal of Gandhara Medical and Dental Sciences",
+      "year": "2023",
+      "doi": "10.37762/jgmds.10-3.456",
+      "abstract": "OBJECTIVES The study aimed to compare the clinical outcome of transverse versus longitudinal incision for surgical release of the first dorsal compartment of the wrist to treat de Quervain’s disease. METHODOLOGY In this quasi-experimental study, all the patients with resistant de Quervain’s tenosynovitis who had the surgical release of the first dorsal compartment between January 2008 and December 2020 were included. The surgeries were performed under local anaesthesia. The first dorsal compartment of the wrist was approached through either a longitudinal or transverse incision, and the tendons of the abductor pollicis longus and extensor pollicis brevis were released. Patients were followed for a minimum of three months, and the primary outcome measure was the Visual analogue score (VAS) for relief of pain and secondary outcome measures were any immediate or delayed complications. RESULTS 98 patients were included in the study with a female-to-male ratio of 7:1. The cohort’s mean age was 44 years (Range 25-75). Most patients were housewives exposed to manual work with the involvement of the dominant hand. There were no major complications besides wound issues and transient paresthesia in few patients. The longitudinal incision was associated with less transient nerve palsies, less duration of surgery and easier identification of structure and anomalies. The only advantage of transverse incision was less scar formation. The clinical outcome was similar in both groups: 94% of patients had complete pain relief (VAS 0). CONCLUSION There was no difference in the outcome of de Quervain tenosynovitis when released with a transverse or longitudinal incision. The longitudinal incision had fewer complications as compared to the transverse incision.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Prevalence and Factors of Non-Vaccination Of Covid-19 in District Peshawar,Khyber Pakhtunkhwa, Pakistan",
+      "url": "http://jgmds.org.pk/index.php/JGMDS/article/view/460",
+      "publisher": "Journal of Gandhara Medical and Dental Sciences",
+      "year": "2023",
+      "doi": "10.37762/jgmds.10-3.460",
+      "abstract": "OBJECTIVES The study aimed to compare the clinical outcome of transverse versus longitudinal incision for surgical release of the first dorsal compartment of the wrist to treat de Quervain’s disease. METHODOLOGY In this quasi-experimental study, all the patients with resistant de Quervain’s tenosynovitis who had the surgical release of the first dorsal compartment between January 2008 and December 2020 were included. The surgeries were performed under local anaesthesia. The first dorsal compartment of the wrist was approached through either a longitudinal or transverse incision, and the tendons of the abductor pollicis longus and extensor pollicis brevis were released. Patients were followed for a minimum of three months, and the primary outcome measure was the Visual analogue score (VAS) for relief of pain and secondary outcome measures were any immediate or delayed complications. RESULTS 98 patients were included in the study with a female-to-male ratio of 7:1. The cohort’s mean age was 44 years (Range 25-75). Most patients were housewives exposed to manual work with the involvement of the dominant hand. There were no major complications besides wound issues and transient paresthesia in few patients. The longitudinal incision was associated with less transient nerve palsies, less duration of surgery and easier identification of structure and anomalies. The only advantage of transverse incision was less scar formation. The clinical outcome was similar in both groups: 94% of patients had complete pain relief (VAS 0). CONCLUSION There was no difference in the outcome of de Quervain tenosynovitis when released with a transverse or longitudinal incision. The longitudinal incision had fewer complications as compared to the transverse incision.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "How can you examine intersection syndrome via ultrasound? A technical description",
+      "url": "http://avestema.com.dedi9374.your-server.de/index.php/pub/article/view/1347",
+      "publisher": "The Turkish Journal of Gastroenterology",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Intersection syndrome is an overuse disorder that is often misdiagnosed as De Quervain tenosynovitis and it must be considered in the differential diagnosis of radial wrist pain. Recently, after physical examination for musculoskeletal problems, there has been a surge in interest in ultrasonographic examination among physiatrists. However, no technical description of dynamic ultrasonographic examination can be found in the literature nor in the ultrasound textbooks. In this letter, we describe a technique on how to examine the intersection syndrome with ultrasound. There are two types of intersection syndrome: Proximal intersection syndrome occurs around the cross-over of first dorsal extensor compartment (abductor pollicis longus [APL] and extensor pollicis brevis [EPB]) and second dorsal extensor compartment (extensor carpi radialis longus [ECRL] and extensor carpi radialis brevis [ECRB]), while distal intersection syndrome occurs at the crossing point of third dorsal extensor compartment (extensor pollicis longus [EPL]) and second dorsal compartment (ECRL and ECRB).[1,2] In proximal intersection syndrome pain, tenderness, swelling and/or crepitus with flexion and extension of the wrist are localized on the radial side of the distal forearm about 4 cm proximal from the Lister's tubercle (LT), while the symptoms in distal intersection syndrome occur at dorsolateral aspect of the hand approximately 1 cm distal to the wrist crease.[3,4] The sonographic findings supporting the diagnosis of intersection syndrome are thickening of the tendons examined, peritendinous fluid, and hypervascularity on Doppler sonography.[4] First, we suggest placing the ultrasound probe so that its orientation marker faces the radial side of the wrist and finding LT of the radius. The compartment which is at the radial side of LT is the second dorsal extensor compartment and the compartment which is at the ulnar side of the LT is the third dorsal extensor compartment. When you move the probe radial to the second dorsal extensor compartment you can easily find the first dorsal extensor compartment. To scan proximal intersection area, the first find second dorsal extensor compartment and move the probe proximally and follow the second compartment you will see that APL and EPB (first dorsal extensor compartment) jumping over it. To examine distal intersection syndrome, similarly, place the ultrasound probe so that its orientation marker faces the radial side of the wrist and find LT then you will see that EPL (third extensor compartment) is found at the ulnar side of LT. Then, start to move the probe distally, until you see the cross-over of EPL over the second compartment (ECRL and ECRB) (Figure 1). Both intersection areas should be evaluated in both transverse and longitudinal scans and the examination should always be performed comparatively.[5] In conclusion, differential local anesthetic injections may help to support the diagnosis or to differentiate between intersection syndrome and De Quervain syndrome.[6] We believe that finding and examining proximal and distal intersections would also enable and guide therapeutic injections, as well as diagnostic local anesthetic injections that can be performed for differential diagnosis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Orthopaedic problems in pregnancy",
+      "url": "https://aott.org.tr/index.php/pub/article/view/1222",
+      "publisher": "Acta Orthopaedica et Traumatologica Turcica",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Abstract During the nine months of pregnancy, the female body undergoes a number of changes. Many of these changes cause musculoskeletal conditions such as low back pain, carpal tunnel syndrome, de Quervain tenosynovitis and other painful conditions. In a retrospective study, 105 postpartum women were seen and detailed history was obtained. Seventy-two (68.5 per cent) of the 105 postpartum women had low-back pain, twelve (11 per cent) had carpal tunnel syndrome, nine (8.5 per cent) had de Quervain tenosynovitis during pregnancy. In this study, we highlight the musculoskeletal conditions that commonly occur in pregnancy. Özet Dokuz aylık hamilelik süresi içinde kadın vücudunda pek çok değişiklikler olur. Bu değişiklikler, kas iskelet sisteminde, bel ağrısı, karpal tünel, de Quervain tenosinoviti ve başka bazı ağrılı durumlara yol açabilir. Biz ret-rospektif bir çalışmayla, 105 postpartum kadın ile görüştük ve bu şikayetler konusunda ayrıntılı bilgi topladık. Yetmiş iki (%68.5) kadında, hamilelik süresi içinde bel ağrısı, on iki (%11) kadında karpal tünel ve dokuz (%8.5) kadında de Quervain tenosinoviti olduğu ortaya çıktı. Bu çalışmada, hamilelikte sık ortaya çıkan kas iskelet sistemi rahatsızlıklarına dikkati çekmek istedik.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Five year long term results of total joint arthroplasties in the treatment of trapeziometacarpal osteoarthritis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233788/",
+      "publisher": "Acta bio-medica : Atenei Parmensis",
+      "year": "2019",
+      "doi": "10.23750/abm.v90i4.8131",
+      "abstract": "Introduction Trapeziometacarpal (TMC) osteoarthritis is a common disease. Patients with advanced disease who have failed conservative treatment have different surgical options, including total joint prosthesis. The aim of this study was to investigate the long-term outcome and complications of trapeziometacarpal (TMC) total arthroplasty. Materials and methods One hundred and forty-seven patients with TMC osteoarthritis were surgically treated with TMC arthroplasty, and one hundred and thirty-seven patients were seen for follow-up (102 women and 35 men). At follow -up patients were asked to complete a visual linearanalogue scale (VAS) for satisfaction with the result of the operation and persisting pain from the thumb, the Spanish validated Disabilities of the Arm, Shoulder and Hand (DASH) questionnaire was used to evaluate function of the affected hand.(9) The radiological examination consisted of posterior-anterior and oblique radiographs. In preoperative radiographs Eaton-Little was used, and in postoperative radiographs were assessed with regard to implant loosening and alignment. Results The subjective outcome was satisfactory in 126 cases (92 %), 14 (12 %) patients would undergo the same procedure in the other hand. The DASH questionnaireswere 19.55 (range 5.6-33,5) on average, and EVA was 1 on average. The mean key pinch strength was 5.8 Kg at 5 years follow-up. The most frequent postoperative complication was De Quervain tenosynovitis (21%), other complications were: Cup loosening (3.6%), traumatic dislocation (3,6%). The prosthesis was removed in nine cases (7%). There were four intraoperative complications. The survival rate for ARPE prosthesis was 92,7% at 60,5 months. TMC total arthroplasty offers a reliable treatment alternative in patients with thumb carpometacarpal joint osteoarthrosis which conservatives' treatment had failed. Conclusions The TMC joint prosthesis is an option for patients with TCM osteoarthritis, provides satisfactory outcomes and has a low failure rate.(www.actabiomedica.it).",
+      "licence": "cc by-nc-sa",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "US-guided percutaneous release of the first extensor tendon compartment using a 21-gauge needle in de Quervain’s disease: a prospective study of 35 cases",
+      "url": "https://hal.science/hal-02135110v1",
+      "publisher": "European Radiology",
+      "year": "2018",
+      "doi": "10.1007/s00330-018-5387-1",
+      "abstract": "PURPOSE: To evaluate the efficacy of ultrasonography-guided percutaneous treatment of de Quervain tenosynovitis with the combination of a corticosteroid injection and release of the retinaculum of the first extensor compartment tendons with a 21-gauge needle. MATERIALS AND METHODS: The first part of our study consisted of ten procedures on cadaver wrists followed by dissection to analyse the effectiveness of the retinaculum release and detect any collateral damage. The second part was a prospective clinical study of 35 procedures. Outcomes were evaluated through a 6-month clinical follow-up and telephone interview at the end of the study. The following parameters were monitored over time: pain level on a visual analogue scale, the QuickDASH and the PRWE. Patient satisfaction questionnaires were also administered. RESULTS: No complications were found during the cadaver study. However, the release was confirmed as 'partial' in all wrists. In the clinical portion of this study, significant improvement was observed in 91.4 % of cases (32/35) within 1 month and the results were stable until the end of the study; all of these patients avoided surgery. The release procedure failed in three patients who eventually required surgical treatment. CONCLUSION: US-guided partial release and simultaneous corticosteroid injection for treatment of de Quervain's disease using a 21-gauge needle is feasible in current practice, with minimal complications.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Tendinopathy of the long head of the biceps tendon: histopathologic analysis of the extra-articular biceps tendon and tenosynovium",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4362976/",
+      "publisher": "Open access journal of sports medicine",
+      "year": "2015",
+      "doi": "10.2147/oajsm.s76325",
+      "abstract": "Jonathan J Streit,1 Yousef Shishani,1 Mark Rodgers,2 Reuben Gobezie1 1The Cleveland Shoulder Institute, 2Department of Pathology, University Hospitals of Cleveland, Cleveland, OH, USA Background: Bicipital tendinitis is a common cause of anterior shoulder pain, but there is no evidence that acute inflammation of the extra-articular long head of the biceps (LHB) tendon is the root cause of this condition. We evaluated the histologic findings of the extra-articular portion of the LHB tendon and synovial sheath in order to compare those findings to known histologic changes seen in other tendinopathies. Methods: Twenty-six consecutive patients (mean age 45.4±13.7 years) underwent an open subpectoral biceps tenodesis for anterior shoulder pain localized to the bicipital groove. Excised tendons were sent for histologic analysis. Specimens were graded using a semiquantitative scoring system to evaluate tenocyte morphology, the presence of ground substance, collagen bundle characteristics, and vascular changes. Results: Chronic inflammation was noted in only two of 26 specimens, and no specimen demonstrated acute inflammation. Tenocyte enlargement and proliferation, characterized by increased roundness and size of the cell and nucleus with proteoglycan matrix expansion and myxoid degenerative changes, was found in all 26 specimens. Abundant ground substance, collagen bundle changes, and increased vascularization were visualized in all samples. Conclusion: Anterior shoulder pain attributed to the biceps tendon does not appear to be due to an inflammatory process in most cases. The histologic findings of the extra-articular portion of the LHB tendon and synovial sheath are similar to the pathologic findings in de Quervain tenosynovitis at the wrist, and may be due to a chronic degenerative process similar to this and other tendinopathies of the body. Keywords: biceps tendinitis, biceps tendinopathy, tenosynovium, anterior shoulder pain, long head biceps tendon, histologic analysis",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Anatomical variation of abductor pollicis longus in Indian population: A cadaveric study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4598547/",
+      "publisher": "Indian journal of orthopaedics",
+      "year": "2015",
+      "doi": "10.4103/0019-5413.164038",
+      "abstract": "Background Many authors have reported the anatomical variation of abductor pollicis longus (APL) around the wrist and its association with de Quervain tenosynovitis (DQT), first carpo-metacarpal arthritis, and trapezio-metacarpal subluxation. From Indian subcontinent, there is only one original article and a few case reports on the variability of APL tendon insertion. Materials and methods Fifty formaldehyde preserved cadaveric wrists were dissected to look for the anatomical variation of APL in the Indian population. Results The APL was found with single tendon in 2, double in 31, triple in 8, and quadruple in 8 extremities. A maximum of 6 tendon-slips were found in one cadaveric wrist. In all hands, the APL had at least one attachment to first metacarpal bone and in 46 hands (92%), there was second insertion to the trapezium bone. Of all tendon-slips of APL (n = 126), 44% of tendons (68 tendons) were inserted into the base of the first metacarpal bone. This was followed by the insertion into the trapezium in 42% tendons (52 tendons). Conclusion Bi-tendinous APL is commonly observed on the dorsal compartment of the wrist in Indian population and these tendon-slips are commonly attached to the first metacarpal base and trapezium. This variation must be understood by the Indian Orthopedic surgeons as the response to treatment of DQT and reason for first carpo-metacarpal arthritis can be dependent on this anatomical variation.",
+      "licence": "cc by-nc-sa",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ibuprofen timing for hand surgery in ambulatory care",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544526/",
+      "publisher": "Acta ortopedica brasileira",
+      "year": "2015",
+      "doi": "10.1590/1413-78522015230400736",
+      "abstract": "OBJECTIVE: To evaluate the effect of pre-operative administration of ibuprofen on post-operative pain control vs. early post-operative administration for hand surgery procedures performed under local anaesthesia in ambulatory care. METHODS: Candidates to trigger finger release by De Quervain tenosynovitis and carpal tunnel operation under local anesthesia were enrolled in the study. Group A received 400 mg ibuprofen before the operation and placebo after the procedure; group B received placebo before the operation and ibuprofen 400 mg at the end of the procedure; both groups received ibuprofen 400 mg every 6h thereafter. Visual analogue scale (VAS) was measured at fixed times before and every 6h after surgery, for a total follow-up of 18h. RESULTS: Groups were similar according to age, gender and type of surgery. Median VAS values did not produce any statistical significance, while there was a statistically significant difference on pre-operative and early post-operative VAS values between groups (A -8.53 mm vs. B 3.36 mm, p=0.0085). CONCLUSION: Average pain levels were well controlled by local anesthesia and post-operative ibuprofen analgesia. Pre-operative ibuprofen administration can contribute to improve early pain management. Level of Evidence II, Therapeutic Studies.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    }
+  ]
+}

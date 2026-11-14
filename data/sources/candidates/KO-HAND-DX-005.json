@@ -1,0 +1,404 @@
+{
+  "term": "Nerve Ultrasound",
+  "collected": "2026-11-14",
+  "count": 22,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Optic Nerve Ultrasound Evaluation in Animals and Normal Subjects",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8766506/",
+      "publisher": "Frontiers in medicine",
+      "year": "2021",
+      "doi": "10.3389/fmed.2021.797018",
+      "abstract": "In recent years, ultrasonographic measurement of the optic nerve sheath diameter (ONSD) has been widely used to identify the presence of increased intracranial pressure (ICP). Intracranial hypertension is a life-threatening condition that can be caused by various neurological and non-neurological disorders, and it is associated to poor clinical results. Ultrasonography could be used to qualitatively and efficiently detect ICP increases, but to reach this purpose, clear cut-off values are mandatory. The aim of this review is to provide a wide overview of the most important scientific publications on optic nerve ultrasound normal values assessment published in the last 30 years. A total of 42 articles selected from PubMed medical database was included in this review. Our analysis showed that ocular ultrasonography is considered to be a valuable diagnostic tool, especially when intracranial hypertension is suspected, but unfortunately this research provided conflicting results that could be due to the different ultrasound protocols. This is mainly caused by the use of B scan alone, which presents several limitations. The use of B-scan coupled with the standardized A-scan approach could give more accurate, and reliable ultrasound evaluation, assuring higher data objectivity.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Nerve Ultrasound in Traumatic and Iatrogenic Peripheral Nerve Injury",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7823340/",
+      "publisher": "Diagnostics (Basel, Switzerland)",
+      "year": "2020",
+      "doi": "10.3390/diagnostics11010030",
+      "abstract": "Peripheral nerve injury is a potentially debilitating disorder that occurs in an estimated 2-3% of all patients with major trauma, in a similar percentage of medical procedures. The workup of these injuries has traditionally been clinical, combined with electrodiagnostic testing. However, this has limitations, especially in the acute phase of the trauma or lack of any recovery, when it is very important to determine nerve continuity and perform surgical exploration and repair in the case of the complete transection or intraneural fibrosis. Ultrasound can help in those situations. It is a versatile imaging technique with a high sensitivity of 93% for detecting focal nerve lesions. Ultrasound can assess the structural integrity of the nerve, neuroma formation and other surrounding abnormalities of bone or foreign bodies impeding the nerve. In addition, this can help to prevent iatrogenic nerve injury by marking the nerve before the procedure. This narrative review gives an overview of why and how nerve ultrasound can play a role in the detection, management and prevention of peripheral nerve injury.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.4,
+      "providers": [
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Role of multisegmental nerve ultrasound in the diagnosis of leprosy neuropathy",
+      "url": "https://doi.org/10.1371/journal.pone.0305808",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0305808",
+      "abstract": "Introduction/Aims: Leprosy is the most common treatable peripheral neuropathy worldwide. The detection of peripheral nerve impairment is essential for its diagnosis and treatment, in order to prevent stigmatizing deformities and disabilities. This study was performed to identify neural thickening through multisegmental ultrasound (US). Methods: We assessed US measurements of cross-sectional areas (CSAs) of ulnar, median and tibial nerves at two points (in the osteofibrous tunnel and proximal to the tunnel), and also of the common fibular nerve at the fibular head level in 53 leprosy patients (LP), and compared with those of 53 healthy volunteers (HV), as well as among different clinical forms of leprosy. Results: US evaluation detected neural thickening in 71.1% (38/53) of LP and a mean number of 3.6 enlarged nerves per patient. The ulnar and tibial were the most frequently affected nerves. All nerves showed significantly higher measurements in LP compared with HV, and also greater asymmetry, with significantly higher values for ulnar and tibial nerves. We found significant CSAs differences between tunnel and pre-tunnel points for ulnar and tibial nerves, with maximum values proximal to the tunnel. All clinical forms of leprosy evaluated showed neural enlargement through US. Discussion: Our findings support the role of multisegmental US as a useful method for diagnosing leprosy neuropathy, revealing that asymmetry, regional and non-uniform thickening are characteristics of the disease. Furthermore, we observed that neural involvement is common in different clinical forms of leprosy, reinforcing the importance of including US evaluation of peripheral nerves in the investigation of all leprosy patients.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Nerve ultrasound in hereditary transthyretin amyloidosis: red flags and possible progression biomarkers",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815618/",
+      "publisher": "Journal of neurology",
+      "year": "2021",
+      "doi": "10.1007/s00415-020-10127-8",
+      "abstract": "Background Diagnostic delay of hereditary transthyretin amyloidosis (ATTRv, v for variant) prevents timely treatment and, therefore, concurs to the mortality of the disease. The aim of the present study was to explore with nerve ultrasound (US) possible red flags for early diagnosis in ATTRv patients with carpal tunnel syndrome (CTS) and/or polyneuropathy and in pre-symptomatic carriers. Methods Patients and pre-symptomatic carriers with a TTR gene mutation were enrolled from seven Italian centers. Severity of CTS was assessed with neurophysiology and clinical evaluation. Median nerve cross-section area (CSA) was measured with US in ATTRv carriers with CTS (TTR-CTS). One thousand one hundred ninety-six idiopathic CTS were used as controls. Nerve US was also performed in several nerve trunks (median, ulnar, radial, brachial plexi, tibial, peroneal, sciatic, sural) in ATTRv patients with polyneuropathy and in pre-symptomatic carriers. Results Sixty-two subjects (34 men, 28 women, mean age 59.8 years ± 12) with TTR gene mutation were recruited. With regard to CTS, while in idiopathic CTS there was a direct correlation between CTS severity and median nerve CSA (r = 0.55, p Conclusions The present study identifies nerve morphological US patterns that may help in the early diagnosis (morpho-functional dissociation of median nerve in CTS) and monitoring of pre-symptomatic TTR carriers (larger nerve CSA at proximal nerve sites, especially at brachial plexi).",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Standard median nerve ultrasound in carpal tunnel syndrome: A retrospective review of 1,021 cases",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6123884/",
+      "publisher": "Clinical neurophysiology practice",
+      "year": "2017",
+      "doi": "10.1016/j.cnp.2017.07.004",
+      "abstract": "Objective Carpal tunnel syndrome (CTS) is diagnosed with electrodiagnostic (EDx) studies. Investigations have examined US cross sectional-area (CSA) and wrist to forearm ratio (WFR) cut-offs for screening EDx abnormalities in patients with suspected CTS. The objective of this study is to determine if these US parameters are effective in a real world population. Methods This is a retrospective review of patients presenting to the Duke Electromyography (EMG) Laboratory during 2013-2014 with a final diagnosis of CTS. US diagnosis of CTS was based upon median nerve cross-sectional area of >9 mm 2 and/or wrist-to-forearm ratio of >1.4. EDx studies were the gold standard for diagnosis. Results A total of 670 patients and 1,021 extremities were studied. US was positive in 97.6% of EDx confirmed CTS. Conclusion Median nerve US is nearly as sensitive as the gold standard for EDx testing for the diagnosis of CTS. Significance The data here suggest that US may have use as a screening tool prior to performing EDx testing for CTS.",
+      "licence": "cc by-nc-nd",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Nerve Ultrasound in Peripheral Neuropathies: A Review",
+      "url": "https://doi.org/10.1111/jon.12261",
+      "publisher": "Wiley",
+      "year": "2015",
+      "doi": "10.1111/jon.12261",
+      "abstract": "ΑBSTRACT Peripheral neuropathies are one of the most common reasons for seeking neurological care in everyday practice. Electrophysiological studies remain fundamental for the diagnosis and etiological classification of peripheral nerve impairment. The recent technological development though of high resolution ultrasound has allowed the clinician to obtain detailed structural images of peripheral nerves. Nerve ultrasound mainly focuses on the evaluation of the cross sectional area, cross sectional area variability along the anatomical course, echogenity, vascularity and mobility of the peripheral nerves. An increase of the cross sectional area, hypervascularity, disturbed fascicular echostructure and reduced nerve mobility are some of the most common findings of entrapments neuropathies, such as the carpal or cubital tunnel syndrome. Both the cross‐sectional area increase and the hypervascularity detected with the Doppler technique seem to correlate significantly with the clinical and electrophysiological severity of the later mononeuropathies. Significantly greater cross sectional area values of the clinically affected cervical nerve root are often detected in cases of cervical radiculopathy. In such cases, the ultrasound findings seem also to correlate significantly with disease duration. On the other hand, multifocal cross sectional area enlargement of cervical roots and/or peripheral nerves is often documented in cases of immune‐mediated neuropathies. None of the later pathological ultrasound findings seem to correlate significantly with the electrophysiological parameters or the functional disability. The aim of this review is to provide a timely update on the role of neuromuscular ultrasound in the diagnostic of the most common entrapment and immune‐mediated peripheral neuropathies in clinical practice.",
+      "licence": "Open Access",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparison of accuracy of optic nerve ultrasound for the detection of intracranial hypertension in the setting of acutely fluctuating vs stable intracranial pressure: post-hoc analysis of data from a prospective, blinded single center study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3580621/",
+      "publisher": "Critical care (London, England)",
+      "year": "2012",
+      "doi": "10.1186/cc11336",
+      "abstract": "Introduction Optic nerve sheath diameter (ONSD) measurement with bedside ultrasound has been shown in many studies to accurately detect high intracranial pressure (ICP). The accuracy of point-in-time ONSD measurement in the presence of ongoing fluctuation of ICP between high and normal is not known. Recent laboratory investigation suggests that reversal of optic nerve sheath distension may be impaired following bouts of intracranial hypertension. Our objective was to compare the accuracy of ONSD measurement in the setting of fluctuating versus stable ICP. Methods This was a retrospective analysis of data from prospective study comparing ONSD to invasive ICP. Patients with invasive ICP monitors in the ICU underwent ONSD measurement with simultaneous blinded recording of ICP from the invasive monitor. Three measurements were made in each eye. Significant acute ICP fluctuation (SAIF) was defined in two different ways; as the presence of ICP both above and below 20 mmHg within a cluster of six measurements (Definition 1) and as a magnitude of fluctuation >10 mmHg within the cluster (Definition 2). The accuracy of point-in-time ONSD measurements for the detection of concurrent ICP >20 mmHg within clusters fulfilling a specific definition of SAIF was compared to the accuracy of ONSD measurements within clusters not fulfilling the particular definition by comparison of independent receiver operating characteristic (ROC) curves. Results A total of 613 concurrent ONSD-ICP measurements in 109 clusters were made in 73 patients. Twenty-three (21%) clusters fulfilled SAIF Definition 1 and 17 (16%) SAIF Definition 2. For Definition 1, the difference in the area under the curve (AUC) of ROC curves for groups with and without fluctuation was 0.10 (P = 0.0001). There was a fall in the specificity from 98% (95% CI 96 to 99%) to 74% (63 to 83%) and in the positive predictive value from 89% (80 to 95%) to 76% (66 to 84%) with fluctuation. For Definition 2, also, there was a significant difference between the AUC of ROC curves of groups with fluctuation-magnitude >10 mmHg and those with fluctuation-magnitude 5 to 10 mmHg (0.06, P = 0.04) as well as Conclusions Specificity and PPV of ONSD for ICP >20 mmHg are substantially decreased in patients demonstrating acute fluctuation of ICP between high and normal. This may be because of delayed reversal of nerve sheath distension.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Diagnostic performance of peripheral nerve palpation compared with ultrasonography in leprosy neuropathy: A prospective real-world clinical evaluation",
+      "url": "https://doi.org/10.1371/journal.pntd.0014234",
+      "publisher": "PLOS Neglected Tropical Diseases",
+      "year": "2026",
+      "doi": "10.1371/journal.pntd.0014234",
+      "abstract": "Background: Leprosy frequently causes peripheral neuropathy, and nerve palpation remains a cornerstone of diagnosis in many endemic settings despite its subjectivity and limited reproducibility. High-resolution ultrasonography has emerged as a sensitive, low-cost imaging tool to detect peripheral nerve involvement. We aimed to compare the diagnostic performance and interobserver agreement of peripheral nerve palpation versus ultrasonography for detecting leprosy neuropathy, with particular focus on pure neural forms. Methodology/Principal findings: In this cross-sectional study, 29 newly diagnosed, treatment-naïve patients with clinical neuropathy underwent standardized palpation of the radial, ulnar, fibular, and posterior tibial nerves by three experienced examiners (dermatologist, orthopedist, physiotherapist). Ultrasonographic cross-sectional area was used as a comparative reference method. Overall, 232 nerves were evaluated, and ultrasonography identified nerve thickening in 26%. Interobserver agreement for nerve thickening on palpation was 60% (95% CI: 54–65%). Using ultrasonography as reference, palpation sensitivity ranged from 26% to 34%, specificity from 68% to 81%, and accuracy from 56% to 67%. Among individual nerves, the posterior tibial nerve showed the highest palpation sensitivity (44%), whereas thickening of the radial nerve was rarely detected (3%). Bilateral asymmetry (>2.5 mm²) was observed in 13% of nerves that were considered clinically normal on examination, and median nerve enlargement (at ultrasonography) was present in 45% of the participants. In patients with pure neural leprosy (62% of the sample), palpation sensitivity was 43%, resulting in frequent misclassification of operational forms. Conclusions/Significance: Peripheral nerve palpation showed low sensitivity and only moderate specificity when compared with ultrasonography, with poor interobserver agreement even among experienced clinicians. These findings support the consideration of high-resolution ultrasonography as a complementary tool in diagnostic algorithms, particularly in pure neural cases, where reliance on palpation alone may lead to underdiagnosis and misclassification. Author summary: Leprosy can damage the nerves in the arms and legs, leading to pain, numbness, weakness, and lifelong disability if it is not recognized early. In many endemic regions, we still rely mainly on feeling the nerves with our fingers to decide whether they are thickened. This method is simple and inexpensive, but it is subjective and may miss early or subtle nerve involvement. In this study, we compared routine nerve palpation performed by three experienced clinicians with high-resolution nerve ultrasound imaging in patients with leprosy-related nerve damage, including those without skin lesions. We found that clinical palpation detected only a minority of the nerves that were enlarged on ultrasound and that agreement between examiners was limited. These shortcomings frequently led to mistakes in classifying patients for treatment. Our findings suggest that incorporating nerve ultrasound, including portable devices, into the evaluation of patients with suspected leprosy neuropathy could improve early diagnosis, guide correct treatment decisions, and help prevent disability, particularly in people who have nerve symptoms but no visible skin lesions.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Nerve Ultrasound in Patients With Friedreich Ataxia",
+      "url": "https://doi.org/10.1002/mus.70091",
+      "publisher": "Wiley",
+      "year": "2025",
+      "doi": "10.1002/mus.70091",
+      "abstract": "ABSTRACT Introduction/Aims Nerve enlargement has been reported in patients with Friedreich ataxia (FRDA). The underlying cause remains unclear, and both inflammatory processes and dysmyelination have been suggested as potential mechanisms. This study was aimed at assessing nerve morphology with high‐resolution ultrasound, to identify and describe patterns of nerve pathology. Methods Patients with genetically confirmed FRDA were included, clinically examined, and assessed with high‐resolution ultrasound. Cross‐sectional area measurements were compared with previously published normal values. Results Among 20 included patients, ultrasound abnormalities were found in 17 (85%). Nerve enlargement of the median and/or ulnar nerve in the proximal nerve segments was observed in 45% of patients and was statistically significant compared to published normal values. Lower extremity nerve enlargement was observed in 20% of patients. Eight patients did not show any nerve enlargement. Diminished cross‐sectional area, indicative of nerve atrophy, was present, particularly in the distal segments of the ulnar nerve (in 25% of patients, p < 0.05) and the tibial nerve (popliteal fossa in 30% of patients, medial malleolus in 30% of patients, both p < 0.05). Nerve enlargement showed no significant correlations with disease severity or age of disease onset. Discussion Peripheral nerve morphology in FRDA is variable and includes not only nerve enlargement but also nerve atrophy, thus reflecting complex segmental pathology beyond axonal degeneration.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Nerve Ultrasound Score in Chronic Inflammatory Demyelinating Polyneuropathy",
+      "url": "https://www.mdpi.com/1648-9144/59/4/747",
+      "publisher": "Medicina",
+      "year": "2023",
+      "doi": "10.3390/medicina59040747",
+      "abstract": "Background and Objectives : Studies have suggested that, by applying certain nerve ultrasound scores, demyelinating and axonal polyneuropathies can be differentiated. In the current study, we investigated the utility of ultrasound pattern sub-score A (UPSA) and intra- and internerve cross-sectional area (CSA) variability in the diagnostic evaluation of demyelinating neuropathies. Materials and Methods : Nerve ultrasound was performed in patients with chronic inflammatory demyelinating polyneuropathy (CIDP) and acute inflammatory demyelinating polyneuropathy (AIDP) and compared to patients with axonal neuropathies. The UPSA, i.e., the sum of ultrasound scores at eight predefined measurement points in the median (forearm, elbow and mid-arm), ulnar (forearm and mid-arm), tibial (popliteal fossa and ankle) and fibular (lateral popliteal fossa) nerves, was applied. Intra- and internerve CSA variability were defined as maximal CSA/minimal CSA for each nerve and each subject, respectively. Results : A total of 34 CIDP, 15 AIDP and 16 axonal neuropathies (including eight axonal Guillain-Barré syndrome (GBS), four hereditary transthyretin amyloidosis, three diabetic polyneuropathy and one vasculitic neuropathy) were included. A total of 30 age- and sex-matched healthy controls were recruited for comparison. Significantly enlarged nerve CSA was observed in CIDP and AIDP with significantly higher UPSA in CIDP compared to the other groups (9.9 ± 2.9 vs. 5.9 ± 2.0 vs. 4.6 ± 1.9 in AIDP vs. axonal neuropathies, p p Conclusion : The UPSA ultrasound score was useful in distinguishing CIDP from other neuropathies compared to nerve CSA alone.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Combined nerve and vascular ultrasound in thoracic outlet syndrome: A sensitive method in identifying the site of neurovascular compression",
+      "url": "https://doi.org/10.1371/journal.pone.0268842",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0268842",
+      "abstract": "We investigated the diagnostic utility of combined nerve and vascular ultrasound in thoracic outlet syndrome (TOS) in a retrospective cohort study on two sites, involving 167 consecutive patients with the clinical symptoms suggestive of neurogenic and/or vascular TOS, and an age- and sex-matched control group. All patients and control subjects underwent nerve ultrasound of the supraclavicular brachial plexus to look for fibromuscular anomalies / compression of the brachial plexus in the scalenic region, and vascular ultrasound of the infraclavicular subclavian artery with the arm in neutral and abducted position, serving as an indicator for costoclavicular compression of the neurovascular bundle. Based on clinical symptoms, neurogenic TOS (81%) was the most frequent type of TOS, followed by combined neurogenic and arterial TOS (8%). The frequency of abnormal nerve and/or vascular ultrasound findings differed significantly from the control group (P<0.00001). The pooled sensitivity was 48% for nerve ultrasound, 85% for vascular ultrasound, and 94% when combined. Among the findings, the fibromuscular ‘wedge-sickle sign’, indicating compression of the lower trunk in the scalenic region by a congenital fibromuscular anomaly (e.g. Roos ligaments), showed the highest specificity (100%). A bony ‘wedge-sickle sign’ was also delineated, where lower trunk compression is caused by the neck of the 1st rib. As implied by the higher sensitivity of vascular ultrasound, the most common site of compression was the costoclavicular space, but multilevel compression was also frequently observed. In summary, combined nerve and vascular ultrasound is a sensitive and reliable method to support the diagnosis of TOS. It can also identify the site(s) of compression, with obvious therapeutic consequences.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Muscle ultrasound: Present state and future opportunities",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8048972/",
+      "publisher": "Muscle & nerve",
+      "year": "2021",
+      "doi": "10.1002/mus.27081",
+      "abstract": "Muscle ultrasound is a valuable addition to the neuromuscular toolkit in both the clinic and research settings, with proven value and reliability. However, it is currently not fulfilling its full potential in the diagnostic care of patients with neuromuscular disease. This review highlights the possibilities and pitfalls of muscle ultrasound as a diagnostic tool and biomarker, and discusses challenges to its widespread implementation. We expect that limitations in visual image interpretation, posed by user inexperience, could be overcome with simpler scoring systems and the help of deep-learning algorithms. In addition, more information should be collected on the relation between specific neuromuscular disorders, disease stages, and expected ultrasound abnormalities, as this will enhance specificity of the technique and enable the use of muscle ultrasound as a biomarker. Quantified muscle ultrasound gives the most sensitive results but is hampered by the need for device-specific reference values. Efforts in creating dedicated muscle ultrasound systems and artificial intelligence to help with image interpretation are expected to improve usability. Finally, the standard inclusion of muscle and nerve ultrasound in neuromuscular teaching curricula and guidelines will facilitate further implementation in practice. Our hope is that this review will help in unleashing muscle ultrasound's full potential.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Nerve biopsy: Current indications and decision tools",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359441/",
+      "publisher": "Muscle & nerve",
+      "year": "2021",
+      "doi": "10.1002/mus.27201",
+      "abstract": "After initial investigation of patients presenting with symptoms suggestive of neuropathy, a clinical decision is made for a minority of patients to undergo further assessment with nerve biopsy. Many nerve biopsies do not demonstrate a definitive pathological diagnosis and there is considerable cost and morbidity associated with the procedure. This highlights the need for appropriate selection of patients, nerves and neuropathology techniques. Additionally, concomitant muscle and skin biopsies may improve the diagnostic yield in some cases. Several advances have been made in diagnostics in recent years, particularly in genomics. The indications for nerve biopsy have consequently changed over time. This review explores the current indications for nerve biopsies and some of the issues surrounding its use. Also included are comments on alternative diagnostic modalities that may help to supplant or reduce the use of nerve biopsy as a diagnostic test. These primarily include extraneural biopsy and neuroimaging techniques such as magnetic resonance neurography and nerve ultrasound. Finally, we propose an algorithm to assist in deciding when to perform nerve biopsies.",
+      "licence": "cc by-nc-nd",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Nerve ultrasound can identify treatment-responsive chronic neuropathies without electrodiagnostic features of demyelination",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6771613/",
+      "publisher": "Muscle & nerve",
+      "year": "2019",
+      "doi": "10.1002/mus.26629",
+      "abstract": "Introduction We present a case series of six treatment-naive patients with clinical phenotypes compatible with chronic inflammatory demyelinating polyneuropathy and multifocal motor neuropathy without electrodiagnostic features of demyelination but with abnormal peripheral ultrasound findings who responded to treatment. Methods All six patients underwent a complete set of ancillary investigations, including extensive nerve conduction studies. We also performed standardized nerve ultrasound of median nerves and brachial plexus as part of a larger effort to evaluate diagnostic value of sonography. Results Nerve conduction studies did not show conduction block or other signs of demyelination in any of the six patients. Sonographic nerve enlargement was present in all patients and was most prominent in proximal segments of the median nerve and brachial plexus. Treatment with intravenous immunoglobulin resulted in objective clinical improvement. Discussion Our study provides evidence that nerve ultrasound represents a useful complementary diagnostic tool for the identification of treatment-responsive inflammatory neuropathies.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The ultrasound study of the optic canal for detecting raised intracranial pressure (a literature review and critical analysis)",
+      "url": "https://www.jnmp.ru/jour/article/view/536",
+      "publisher": "Неотложная медицинская помощь",
+      "year": "2019",
+      "doi": "10.23934/2223-9022-2018-74-349-356",
+      "abstract": "Intracranial hypertension (ICH) is a frequent and serious complication that occurs in pa-tients with severe traumatic brain injury (TBI) and nontraumatic brain damage. Persistent ICH significantly worsens the prognosis of the disease course and increases the risk of adverse outcomes. In this regard, one of the main tasks of intensive care of patients with intracranial bleeding (ICB) is diagnosis and timely management of ICH. The gold standard is invasive intracranial pressure (ICP) monitoring. The advantages of direct measurement of ICP include accuracy and continuity of registration. The disadvantages are the invasiveness of the method, high cost, the risk of developing infectious and hemorrhagic complications and possible dislocation of sensors. It is necessary to search for a method of non-invasive assessment of the level of ICH most correlated with the data of direct measurement of ICP. Ultrasonography of the optic nerve structures can be such an alternative cheap way to assess ICP. Its advantages are the possibility of repeated dynamic use, no need for surgical intervention, simplicity and high accuracy of measurement. However, the results obtained with ultrasound vary, since this method is operator dependent and requires precise adherence to the technique of the study. When the optic nerve ultrasound is performed, a contact gel for ultrasound examinations is applied to the anterolateral surface of the closed upper eyelid, and a scanning plane is displayed behind the eyeball for visualization in the central part of the ultrasound image of the optic nerve, lens and retina. To visualize the vertical course of the ophthalmic artery (and the vertical course of the optic nerve), the color flow Doppler mode is used. The study includes measuring the diameter of the optic nerve and the optic nerve sheath diameter (ONSD). There is subarachnoid space with cerebrospinal fluid between the optic nerve and its sheath. With an increase in intracranial pressure, the expansion of this space occurs, ONSD grows as well. This article contains an analysis of the literature describing the anatomy of the optic nerve and various ultrasound techniques, as well as data from various authors on the threshold value of the optic nerve sheath diameter.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Nerve ultrasound",
+      "url": "https://doi.org/10.1212/wnl.0000000000006856",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2019",
+      "doi": "10.1212/wnl.0000000000006856",
+      "abstract": "To determine interobserver variability of nerve ultrasound in peripheral neuropathy in a prospective, systematic, multicenter study.We enrolled 20 patients with an acquired chronic demyelinating or axonal polyneuropathy and 10 healthy controls in 3 different centers. All participants underwent an extensive nerve ultrasound protocol, including cross-sectional area measurements of median, ulnar, fibular, tibial, and sural nerves, and brachial plexus. Real-time image acquisition was performed blind by a local and a visiting investigator (reference). Five patients were investigated using different types of sonographic devices. Intraclass correlation coefficients were calculated, and a random-effects model was fitted to identify factors with significant effect on interobserver variability.Systematic differences between measurements made by different investigators were small (mean difference 0.11 mm2 [95% confidence interval 0.00-0.23 mm2]). Intraclass correlation coefficients were generally higher in arm nerves (0.48-0.96) than leg nerves (0.46-0.61). The hospital site and sonographic device did not contribute significantly to interobserver variability in the random-effects model.Interobserver variability of nerve ultrasound in peripheral neuropathy is generally limited, especially in arm nerves. Different devices and a multicenter setting have no effect on interobserver variability. Therefore, nerve ultrasound is a reproducible tool for diagnostics in routine clinical practice and (multicenter) research.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Development and validation of a nomogram for diabetic tibial neuropathy based on ultrasound radiomics: a multicenter study",
+      "url": "https://doi.org/10.1186/s12880-025-01896-7",
+      "publisher": "BMC Medical Imaging",
+      "year": "2025",
+      "doi": "10.1186/s12880-025-01896-7",
+      "abstract": "Abstract Objective Diabetic tibial nerve neuropathy (DTN), a severe subtype of diabetic peripheral neuropathy, is often underdiagnosed in the early stages. This significantly raises the risks of foot ulcers and amputations. This study aims to develop and validate a novel nomogram prediction model integrating clinical characteristics and ultrasound radiomics features for early identification of DTN patients. Methods From January 2024 to April 2025, 300 patients with type 2 diabetes who visited the Second Affiliated Hospital of Fujian Medical University were prospectively collected and randomly divided into training and validation cohorts at a ratio of 7:3. The study collected 134 patients from two other tertiary hospitals as the external validation set. The differences among the three cohorts were evaluated by single-factor ANOVA analysis of variance or χ² test. Tibial nerve ultrasound cross-sectional images were analyzed to extract radiomics features. Optimal features were selected using t-tests and least absolute shrinkage and selection operator (LASSO) regression, generating a weighted ultrasound radiomics score (Rad-score). A nomogram integrating clinical variables and Rad-score was developed through univariate and multivariate logistic regression. Performance was evaluated using AUC, calibration curves, decision/clinical impact curves. Results The nomogram incorporated three clinical variables (age, smoking history, and hypertension history) and Rad-score derived from seven optimal ultrasound radiomics features. The model demonstrated AUCs of 0.947 (training set), 0.910 (internal validation set) and 0.887 (external validation set). Calibration and decision curves indicated strong consistency and clinical utility. Conclusion The clinical-ultrasound radiomics nomogram effectively predicts DTN risk, potentially serving as a reference tool for early diagnosis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Convolutional Neural Network Approaches in Median Nerve Morphological Assessment from Ultrasound Images",
+      "url": "https://www.mdpi.com/2313-433X/10/1/13",
+      "publisher": "Journal of Imaging",
+      "year": "2024",
+      "doi": "10.3390/jimaging10010013",
+      "abstract": "Ultrasound imaging has been used to investigate compression of the median nerve in carpal tunnel syndrome patients. Ultrasound imaging and the extraction of median nerve parameters from ultrasound images are crucial and are usually performed manually by experts. The manual annotation of ultrasound images relies on experience, and intra- and interrater reliability may vary among studies. In this study, two types of convolutional neural networks (CNNs), U-Net and SegNet, were used to extract the median nerve morphology. To the best of our knowledge, the application of these methods to ultrasound imaging of the median nerve has not yet been investigated. Spearman’s correlation and Bland–Altman analyses were performed to investigate the correlation and agreement between manual annotation and CNN estimation, namely, the cross-sectional area, circumference, and diameter of the median nerve. The results showed that the intersection over union (IoU) of U-Net (0.717) was greater than that of SegNet (0.625). A few images in SegNet had an IoU below 0.6, decreasing the average IoU. In both models, the IoU decreased when the median nerve was elongated longitudinally with a blurred outline. The Bland–Altman analysis revealed that, in general, both the U-Net- and SegNet-estimated measurements showed 95% limits of agreement with manual annotation. These results show that these CNN models are promising tools for median nerve ultrasound imaging analysis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Nerve ultrasonographic findings in diabetes mellitus are determined by anatomical location and type of diabetes",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2467981X23000136",
+      "publisher": "Clinical Neurophysiology Practice",
+      "year": "2023",
+      "doi": "10.1016/j.cnp.2023.04.004",
+      "abstract": "Objective: A prospective ultrasound study to analyze nerve size and its modifying factors in type 1 and type 2 diabetes mellitus. Methods: The cross-sectional areas (CSAs) of motor and sensory nerves in both upper and lower limbs were measured at 14 measurement points, using high resolution ultrasound in 26 patients with type 1 and 76 patients with type 2 diabetes, and in 50 control subjects. All diabetic patients underwent electrophysiological assessment to check for the presence of polyneuropathy. Results: Significant mild/moderate diffuse nerve enlargement was demonstrated in type 2 diabetes, more pronounced at compression sites versus non-compression sites, and on the upper limbs versus lower limbs (p value for pooled DM2 v. control group: <0.001). In type 1 diabetes, nerve enlargement was found only at one compression site (median nerve wrist; p = 0.002). No significant difference was found between patients with or without polyneuropathy. Conclusions: The primary predictors of nerve size in diabetes are anatomical location (i.e. compression sites versus non-compression sites, upper versus lower limbs) and type of diabetes. Changes occur before the electrophysiological signs of polyneuropathy are detected. Significance: Nerve ultrasound may contribute to early recognition of the neuropathic complications of diabetes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Spinal cord lesion mimicking a dysimmune myelitis revealing CANVAS syndrome",
+      "url": "https://hal.science/hal-03603741v1",
+      "publisher": "Journal of Spinal Cord Medicine",
+      "year": "2023",
+      "doi": "10.1080/10790268.2022.2033936",
+      "abstract": "Context: Posterior spinal cord lesions are found in patients with ganglionopathy. These are normally found in later stages of the neuronopathy as a consequence of dorsal root ganglia degeneration. Cerebellar Ataxia, Neuropathy, Vestibular Areflexia Syndrome (CANVAS) is an emerging neurological disorder. Myelitis lesions have been described in confirmed CANVAS cases.Findings: We describe a case of a 68-year-old woman with slowly progressive ataxia with paresthesia. Laboratory tests were normal. Total spine MRI showed a C4 posterior spinal cord lesion. Lumbar puncture was positive for oligoclonal bands with normal IgG index and protein level. Paraneoplastic antibodies were not detected. Electromyography showed nonlength dependent sensory neuropathy. The patient was treated with intravenous immunoglobulin for suspected dysimmune myelitis. Over 6 years, she progressively developed other neurological manifestations evoking CANVAS. Nerve conduction study showed isolated sensory impairment over the years and peripheral nerve ultrasound revealed abnormally small nerves. Further genetic testing confirmed the diagnosis.Conclusion: This is the first case of CANVAS syndrome presenting initially with an isolated spinal cord lesion mimicking dysimmune myelitis. The purpose of this case report is to add to the current literature about this evolving neurological syndrome and to aid clinicians in their diagnostic approach in clinical practice.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Diagnostic challenges in chronic inflammatory demyelinating polyradiculoneuropathy",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719025/",
+      "publisher": "Brain : a journal of neurology",
+      "year": "2020",
+      "doi": "10.1093/brain/awaa265",
+      "abstract": "Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) consists of a spectrum of autoimmune diseases of the peripheral nerves, causing weakness and sensory symptoms. Diagnosis often is challenging, because of the heterogeneous presentation and both mis- and underdiagnosis are common. Nerve conduction study (NCS) abnormalities suggestive of demyelination are mandatory to fulfil the diagnostic criteria. On the one hand, performance and interpretation of NCS can be difficult and none of these demyelinating findings are specific for CIDP. On the other hand, not all patients will be detected despite the relatively high sensitivity of NCS abnormalities. The electrodiagnostic criteria can be supplemented with additional diagnostic tests such as CSF examination, MRI, nerve biopsy, and somatosensory evoked potentials. However, the evidence for each of these additional diagnostic tests is limited. Studies are often small without the use of a clinically relevant control group. None of the findings are specific for CIDP, meaning that the results of the diagnostic tests should be carefully interpreted. In this update we will discuss the pitfalls in diagnosing CIDP and the value of newly introduced diagnostic tests such as nerve ultrasound and testing for autoantibodies, which are not yet part of the guidelines.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Isolated Proximal Median Neuropathy after Aortic Dissection Repair: Case Report",
+      "url": "https://www.mdpi.com/1648-9144/58/5/622",
+      "publisher": "Medicina",
+      "year": "2022",
+      "doi": "10.3390/medicina58050622",
+      "abstract": "Surgery-related isolated proximal median neuropathy is a rare complication. Brachial plexus injury is a possible complication after major cardiac surgery; however, isolated mononeuropathy is less frequently documented. We present an unusual case of isolated proximal median neuropathy after aortic dissection repair surgery in a 39-year-old man. Electrodiagnostic study and ultrasound examinations helped in localizing the lesion to the axillary region. Serial follow-ups showed improvement in electrodiagnostic parameters, which were compatible with clinical symptoms. Partial recovery was achieved at the seventh month follow-up. This case report aimed to increase awareness of nerve stretching during open heart surgery and demonstrate the diagnosis and clinical follow-up by concomitant use of electrodiagnostic and nerve ultrasound studies.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.78,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

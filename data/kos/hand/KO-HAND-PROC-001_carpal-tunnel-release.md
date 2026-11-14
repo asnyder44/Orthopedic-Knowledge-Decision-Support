@@ -56,20 +56,21 @@ relationships:
   - S1
   - S2
   - S4
+- predicate: FOLLOWED_BY
+  target_id: KO-HAND-REHAB-001
+  target_label: Recovery After Carpal Tunnel Release
+  source_ids:
+  - S1
+- predicate: MEASURED_BY
+  target_id: KO-HAND-OUT-001
+  target_label: Boston Carpal Tunnel Questionnaire
+  source_ids:
+  - S2
 proposed_concepts:
 - term: Endoscope (camera tube used in endoscopic carpal tunnel release)
   suggested_type: Device
   predicate: USES_DEVICE
   reason: S1 describes a camera attached to a tube and a small knife passed through it.
-- term: Recovery after carpal tunnel release
-  suggested_type: RehabProtocol
-  predicate: FOLLOWED_BY
-  reason: S1 says full recovery can take months to years; a recovery KO would hold timing and warning
-    signs.
-- term: Boston Carpal Tunnel Questionnaire (BCTQ)
-  suggested_type: OutcomeMeasure
-  predicate: MEASURED_BY
-  reason: S2 compares open and endoscopic release using BCTQ symptom and function scores.
 sources:
 - id: S1
   title: 'Carpal Tunnel Syndrome: Diagnosis, Treatment, and Steps to Take'
@@ -147,9 +148,9 @@ review:
 safety:
   not_medical_advice: true
   scope_note: General education only. Not a diagnosis or treatment plan.
-version: 0.1.0
+version: 0.1.1
 created: '2026-11-01'
-last_updated: '2026-11-01'
+last_updated: '2026-11-14'
 update_triggers:
 - AAOS publishes or updates its carpal tunnel syndrome clinical practice guideline (surgery recommendations).
 - The NIAMS carpal tunnel treatment page shows a new "Last Reviewed" date.
@@ -161,6 +162,12 @@ change_log:
   by: OKDS agent (Claude)
   change: Initial draft written by OKDS agent (Claude) (claude-opus-5-5, okds-gen-1.0) from source pack
     SP-KO-HAND-PROC-001.
+- version: 0.1.1
+  date: '2026-11-14'
+  by: KO Collector + Claude (Claude Code session)
+  change: 'Proposed concepts that now have KOs became relationships (same sources): followed by → Recovery
+    After Carpal Tunnel Release (KO-HAND-REHAB-001); measured by → Boston Carpal Tunnel Questionnaire
+    (KO-HAND-OUT-001)'
 ---
 
 ## Summary
@@ -227,6 +234,8 @@ Symptoms may ease soon after surgery [S1]. Full recovery depends on how severe t
 - Alternative to: Wrist Splinting (KO-HAND-TRT-001), Corticosteroid Injection (KO-HAND-TRT-002)
 - Proposed new topics: Endoscope (device), Recovery after carpal tunnel release (rehab protocol), Boston Carpal Tunnel Questionnaire (outcome measure)
 - Background reading: Carpal Tunnel (KO-HAND-ANAT-002), Median Nerve (KO-HAND-ANAT-001), Nerve Conduction Study (KO-HAND-DX-001)
+- followed by → Recovery After Carpal Tunnel Release (KO-HAND-REHAB-001)
+- measured by → Boston Carpal Tunnel Questionnaire (KO-HAND-OUT-001)
 
 ## References
 1. [S1] NIAMS (NIH). *Carpal Tunnel Syndrome: Diagnosis, Treatment, and Steps to Take.* https://www.niams.nih.gov/health-topics/carpal-tunnel-syndrome/diagnosis-treatment-and-steps-to-take (retrieved 2026-11-01)

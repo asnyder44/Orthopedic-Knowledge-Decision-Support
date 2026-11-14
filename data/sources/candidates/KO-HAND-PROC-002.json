@@ -1,0 +1,457 @@
+{
+  "term": "Trigger Finger Release",
+  "collected": "2026-11-14",
+  "count": 25,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Comparison of three different incision techniques in A1 pulley release on scar tissue formation and postoperative rehabilitation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4842220/",
+      "publisher": "Archives of orthopaedic and trauma surgery",
+      "year": "2016",
+      "doi": "10.1007/s00402-016-2430-z",
+      "abstract": "Introduction The optimal surgical approach for trigger finger release remains controversial in hindsight of postoperative rehabilitation as well as scar tissue formation. In this study, we comparatively evaluated the outcome of three different types of skin incision by employing the \"Disability of the Arm Shoulder and Hand Score\" (DASH) and by quantitative ultrasound measurements of scar tissue volume. Materials and methods Thirty patients (32 triggerfingers) were enrolled in this study and randomly assigned to one of three groups: incision placed (1) transversal in distal palmar crease, (2) transversal and 2 mm distal from distal palmar crease, (3) longitudinally over MCP joint without crossing the distal palmar crease. Patients characteristics were noted and DASH scores were retrieved at four time points, (1) preoperatively (baseline), (2) 1 month, (3) 3 months, (4) 12 months postoperatively. Scar volume formation was assessed by ultrasound at 3 months postoperatively in 28 patients. Results All groups showed a significant reduction in DASH values at 3 and 12 months postoperatively when compared to their own baseline levels. Group 3 showed the fastest and most pronounced reduction in DASH values at 1 month. Scar tissue formation was almost 57 % increased in group 1 vs group 2 and 3, however, not significant. Conclusion There is no clear benefit of one incision technique over another. However, based on scar volume parameters, the significant faster recovery in the first month and the surgical ease of exposure and wound closure inclines us to favor the longitudinal incision (group 3) in future patients.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Risks of Perioperative Local Corticosteroid Treatment for Carpal Tunnel Syndrome and Trigger Finger: A Systematic Review and Meta-Analysis",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2589514126002367",
+      "publisher": "Journal of Hand Surgery Global Online",
+      "year": "2027",
+      "doi": "10.1016/j.jhsg.2026.101181",
+      "abstract": "Purpose: To define procedure-specific, time-stratified surgical site infection (SSI) risk profiles following perioperative local corticosteroid injections (LCIs) in carpal tunnel release (CTR) and trigger finger release (TFR). Methods: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines, MEDLINE, Embase, and Cochrane Library were queried from inception to July 10, 2026, for cohort and case–control studies evaluating SSI following LCI within 6 months of CTR or TFR. Two reviewers independently screened studies, extracted data, and assessed quality using a 27-item modified Downs and Black checklist. DerSimonian–Laird random-effects models pooled odds ratios (ORs) for deep and superficial SSI across discrete preoperative intervals (≤30, 31–60, 61–90, and ≤90 days) and intraoperative administration. Bonferroni corrections (α = 0.05/m) were applied to independent comparisons. Results: Twelve studies met inclusion criteria. For CTR, LCI ≤30 days showed a nominal association with higher deep SSI odds (OR 1.36, 95% CI 1.00–1.83; P = .048), not surviving Bonferroni correction (α = 0.0083); the ≤90-day composite was not significant (OR 1.07, 95% CI 0.79–1.46; P = .66). For TFR, LCI ≤90 days had significantly elevated deep SSI odds (OR 3.88, 95% CI 1.93–7.79; P < .001), driven by the ≤30-day window (OR 2.66, 95% CI 1.10–6.43; P = .03); individual windows did not survive family-wise correction. The only comparison surviving Bonferroni correction within a multi-comparison family was increased superficial SSI after TFR with preoperative distant large-/intermediate-joint LCI (OR 1.23, 95% CI 1.09–1.38; P < .001). Conclusions: Pooled estimates suggest that the risk of postoperative infection may differ by injection timing, with a stronger however imprecise risk signal observed for TFR when LCI is administered within 30 days preoperatively. Surgical timing should be individualized and procedure-specific rather than based on rigid monthly intervals. Type of study/level of evidence: Therapeutic III.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.18,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Nonpalmar Endoscopic versus Open Trigger Finger Release: Results from a Prospective Trial",
+      "url": "http://journals.lww.com/prsgo/fulltext/10.1097/GOX.0000000000004603",
+      "publisher": "Plastic and Reconstructive Surgery, Global Open",
+      "year": "2022",
+      "doi": "10.1097/GOX.0000000000004603",
+      "abstract": "Background:. The most common complaint after open surgical release for trigger finger is of pain and scarring at the surgical site. We hypothesized that use of a new nonpalmar endoscopic approach for release of the A1 pulley through an incision at the proximal digital crease would result in decreased scarring and faster recovery compared to those treated with standard open release. Methods:. Patients with trigger finger were prospectively enrolled and treated with a nonpalmar endoscopic versus open surgical technique. Outcome measures included scar assessment based on the Patient and Observer Scar Assessment Scale (POSAS) administered 1 week, 1 month, and 6 months postoperatively, time before return to work, occupational therapy visits, and overall satisfaction. Additional outcomes included pain medication use, operative time, and complication and recurrence rates. Results:. POSAS scores were better in the endoscopic treatment group than in the open group at all time points with a statistically significant difference seen at 1 week and 1 month postoperatively. The endoscopic group returned to work sooner, required fewer occupational therapy visits, and had better overall satisfaction compared to the open group, but the differences were not statistically significant. Complication and recurrence rates did not differ significantly between groups. Conclusions:. Patients treated for trigger finger with a nonpalmar endoscopic release through an incision at the proximal digital crease demonstrate significantly better scarring in the early postoperative period compared to patients treated with the open surgical approach. Treatment for trigger finger with this technique is as effective as the standard open technique.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.88,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Safety and Complications of Open Trigger Finger Release in Patients Over 90 Years Old: A Retrospective Analysis",
+      "url": "https://doi.org/10.58616/001c.162330",
+      "publisher": "SurgiColl",
+      "year": "2026",
+      "doi": "10.58616/001c.162330",
+      "abstract": "# Background Although open trigger finger release is widely regarded as a safe and effective procedure, existing literature primarily focuses on younger populations, with limited evidence addressing outcomes in nonagenarian patients. This study aimed to evaluate safety, patient-reported satisfaction, and complication rates following open trigger finger release in patients aged 90 years and older. # Methods A retrospective cohort study was conducted on 57 patients aged 90 or older who underwent open trigger finger release. Demographic characteristics, comorbidities, surgical details, and postoperative complications were extracted from the chart review. Complications were categorized as major or minor according to predefined criteria. # Results The mean age at surgery was 92 ± 2 years, with an average duration of symptoms of 5 months (interquartile range, 3-12 months). The median follow-up duration was 2 weeks (interquartile range, 2 –3 weeks). Based on Green’s classification, the majority were grade II (58%) or grade IV (25%). No major local complications or return to the operating room occurred. Although 44% of patients received a form of non-local anesthesia, no systemic complications occurred (0%). Minor complications were observed in 3.5% of patients, including wound infection in two cases. Patient satisfaction was high, with 95% reporting satisfaction with surgical outcomes. # Conclusions Open trigger finger release in nonagenarians demonstrates favorable early postoperative safety. These findings support open trigger finger release in patients aged 90 and older, offering high satisfaction and low risk of major complications. However, the absence of major complications should be interpreted with caution, given the limited sample size and short follow-up duration.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "BYPASSING THE TOURNIQUET: CLINICAL, OPERATIONAL, AND ECONOMIC OUTCOMES OF WIDE-AWAKE LOCAL ANESTHESIA VERSUS TRADITIONAL METHODS FOR CARPAL TUNNEL SYNDROME AND TRIGGER FINGER",
+      "url": "https://zenodo.org/records/20442987",
+      "publisher": "WORLD JOURNAL OF ADVANCE HEALTHCARE RESEARCH",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20442987",
+      "abstract": "Background: Carpal tunnel syndrome and trigger finger are common hand conditions generally treated with local anesthesia and a pneumatic tourniquet. However, tourniquets commonly induce ischemic pain, requiring intravenous sedation or general anesthesia. The wide-awake local anesthesia no tourniquet technique (using lidocaine with epinephrine) avoids the use of tourniquets and sedation. Purpose: To critically review the existing literature that compares the clinical, workflow, and cost-benefit of the wide-awake local anesthesia no tourniquet procedure to local anesthesia with a pneumatic tourniquet for carpal tunnel syndrome release and trigger finger release. Methods: We reviewed the literature and extracted comparative data on pain, complication rates, time, and institutional cost. Results: The wide-awake local anesthesia no tourniquet technique has equal or improved clinical results to local anesthesia with a pneumatic tourniquet. This technique eliminates tourniquet ischemia and associated pain and opioid use. This approach simplifies the surgical procedure by moving it to procedure rooms, which leads to a 50% reduction in room turnover. Financially, it leads to institutional cost savings of 52% to greater than 70% per case. Complications are limited and statistically similar. And it facilitates intraoperative motor testing to ensure full anatomical release. Conclusion: Wide-awake local anesthesia no tourniquet is a safe, effective and economical paradigm. Tourniquets and main operating theatre use are avoided to increase efficiency and reduce costs, thus improving patient access to this common surgery.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Following carpel tunnel release, what factors affect whether patients return to the same or different hand surgeon for a subsequent procedure?",
+      "url": "https://doi.org/10.1371/journal.pone.0312159",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0312159",
+      "abstract": "Background: Following carpal tunnel release (CTR), patients may be indicated for subsequent hand surgery (contralateral CTR and/or trigger finger release [TFR]). While surgeons typically take pride in patient loyalty, the rate of returning to the same hand surgeons has not been previously characterized. Methods: Patients undergoing CTR were isolated from 2010–2021 PearlDiver M151 dataset. Subsequent CTR or TFR were identified and characterized as being performed by the same or different surgeon, with patient factors associated with changing to a different surgeon determined by multivariable analyses. Results: In total, 1,121,922 CTR patients were identified. Of these, subsequent surgery was identified for 307,385 (27.4%: CTR 289,455 [94.2%] and TFR 17,930 [5.8%]). Of the patients with a subsequent surgery, 257,027 (83.6%) returned to the same surgeon and 50,358 (16.4%) changed surgeons. Multivariable analysis found factors associated with changing surgeon (in order of decreasing odds ration [OR]) to be: TFR as the second procedure (OR 2.98), time between surgeries greater than 2-years (OR 2.30), Elixhauser-Comorbidity Index (OR 1.14 per 2-point increase), and male sex (OR 1.06), with less likely hood of changing for those with Medicare (OR 0.95 relative to commercial insurance) (p<0.001 for each). Pertinent negatives included: age, Medicaid, and having a 90-day adverse event after the index procedure. Conclusions: Over fifteen percent of patients who required a subsequent CTR or TFR following CTR did not return to the same surgeon. Understanding what factors lead to outmigration of patients form a practice may help direct efforts for patient retention.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Safety and Efficacy of Percutaneous Trigger Finger Release Under Local Anaesthesia",
+      "url": "https://jbumdc.bahria.edu.pk/index.php/ojs/article/view/155",
+      "publisher": "Journal of Bahria University Medical and Dental College",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Objective:To determine the safety and efficacy of trigger finger and thumb released percutaneously with an 18 gauge needle under local anaesthesia. Materials and Methods: This descriptive case series study was conducted at Orthopaedic and Traumatology Unit “A” Medical Teaching Institution(MTI) Lady Reading Hospital (LRH) Peshawar Pakistan from April 2014 to December 2015.All patients of trigger finger or thumb of either gender fulfilling the inclusion criteria were percutaneously released under local anaesthesia with the tip of an 18-gauge hypodermic needle.Post operative assessment of these patients was done weekly for a month and then monthly for 6 months. Clinical results were evaluated in terms of pain, activity level and patient satisfaction after 6 months at follow up and rated as excellent, good and poor. Results:Thirty two fingers in twenty five patients with mean age 38.28 years±11SD (range 18 to 62 years) were included in the study. Post operatively excellent results were achieved in 90.9%(20/22) patients and good in 9%(2/22) patients at six months follow up. There were only 3(9.3%) failed releases requiring conversion to open release. There was no recurrence of trigger finger and no digital nerve nor tendon injuries reported. Conclusion:Percutaneous trigger finger release under local anaesthesia is a safe and highly effective method for releasing trigger fingers. We recommend it as a treatment of choice for established trigger finger or thumb.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "An Ultrasound-guided Percutaneous Surgical Technique for Trigger Finger Release Using a Minimally Invasive Surgical Knife",
+      "url": "https://hal.science/hal-03629543v1",
+      "publisher": "Techniques in Hand & Upper Extremity Surgery",
+      "year": "2021",
+      "doi": "10.1097/BTH.0000000000000367",
+      "abstract": "Triggering of the finger at the A1 pulley is one of the most frequent pathologies encountered in hand surgery and a common cause of hand pain. Open release of the A1 pulley is currently still regarded as the golden-standard procedure. Nevertheless, there is an increasing interest in minimally invasive percutaneous techniques for the treatment of this condition. Current techniques range from percutaneous needle techniques without imaging, to the use of hook knives, with ultrasound guidance. Because of concerns about possible complications or incomplete releases, hand surgeons remain wary. The objective of this study was to introduce a new ultrasound-guided percutaneous surgical technique for trigger finger release, using a second-generation minimally invasive surgical knife. In this series of 78 releases, complete resolution of the symptoms was found in 98.7% of the cases. One recurrence of triggering was observed. There were no tendon injuries, infections, or neurovascular lesions recorded. This paper contains technical pearls and possible pitfalls to ensure the surgeon of a complete release and to avoid complications. A video of the technique was also included as Supplemental Digital Content (http://links.lww.com/BTH/A143). We can conclude that the procedure can be considered as safe and highly effective for the treatment of triggering at the A1 pulley.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparison of Safety and Insurance Payments for Minor Hand Procedures Across Operative Settings",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8094424/",
+      "publisher": "JAMA network open",
+      "year": "2020",
+      "doi": "10.1001/jamanetworkopen.2020.15951",
+      "abstract": "Importance Surgical procedures can be performed in different settings, but the association between the operative setting and patient safety and cost to the patient and payer is unknown. Objective To examine differences in complications, total payments, and out-of-pocket (OOP) spending for minor hand surgical procedures performed in office, ambulatory surgery center (ASC), and hospital outpatient department (HOPD) operative settings. Design, setting, and participants A retrospective, population-based cohort study was conducted using deidentified claims data from private employer-sponsored health insurance from January 1, 2009, to December 31, 2017. Patients aged 18 years or older undergoing carpal tunnel release, trigger finger release, excision of wrist ganglion, and excision of small hand masses (N = 468 365) were included. Exposures Operative setting, defined as procedures performed in the clinic setting, ASC, and HOPD. Main outcomes and measures Complications during the 90-day postoperative period, total payments (total facility and payer reimbursement), and OOP spending. Results Of the 468 365 patients, 296 378 women (63.3%) and 171 987 men (36.7%) underwent minor hand surgical procedures from 2009 to 2017, with 284 889 procedures (60.8%) performed in HOPDs, 158 659 procedures (33.9%) performed in ASCs, and 24 817 procedures (5.3%) performed in the office setting. Ninety-day complications occurred in 3.4% of procedures performed in HOPDs, 3.3% in ASCs, and 2.9% in office settings (P Conclusions and relevance The findings of this study suggest that minor hand surgery performed in the office setting is safe and less costly compared with ambulatory and hospital-based operations. Shifting minor surgical procedures to the office setting may lead to substantial cost savings for payers and patients without compromising care quality.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comperative outcomes of the patients undergoing percutaneous and open trigger finger release",
+      "url": "http://www.ejmanager.com/fulltextpdf.php?mno=95199",
+      "publisher": "Medicine Science",
+      "year": "2020",
+      "doi": "10.5455/medscience.2020.07.129",
+      "abstract": "The aim of this study was to compare patients who underwent open or percutaneous trigger finger release in terms of clinical outcomes, time to return to activities, and recurrence. The records of patients who underwent percutaneous and open trigger finger release between 2012 and 2018 at two different hospitals in the same city were retrospectively reviewed. The patients were divided into two groups: 33 patients who underwent percutaneous trigger finger release (Group PR) and 48 patients who underwent open release of A1 pulley (Group OR). The clinical classification of cases was done according to the Quinnell classification. The functional outcomes of the patients were evaluated according to the Quick DASH scale. The mean age of the patients was 55.95 ± 11.73 (2782) years; 71.6% (n = 58) were female. The left side was involved in 56.8% (n = 46) patients, and 81 patients underwent percutaneous or open trigger finger release with a mean follow-up duration of 37.40 ± 16.22 (1272) months. The time to start daily activities was shorter in Group PR than in Group OR, and the difference was statistically significant (p < 0.001). A comparison of the upper extremity functional scores between the two groups revealed no statistically significant difference (PR; 15.21 ± 6.17, PO; 12.99 ± 6.89, p = 0.142). Although the rate of complications was higher in Group OR, there was no statistically significant difference between the two groups (PR; 12.12%, PO: 20.83%, p = 0.217). Percutaneous trigger finger release can be preferred in adult trigger finger surgery due to increased risks regarding wound healing and infections associated with advanced age, presence of diabetes and inflammatory arthritis, and the expectation of rapid return to daily activities. [Med-Science 2020; 9(4.000): 950-3]",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Informed Consent for trigger finger release – our experience with video consent for trigger finger release",
+      "url": "https://doi.org/10.3205/19ifssh0298",
+      "publisher": "German Medical Science GMS Publishing House; Düsseldorf",
+      "year": "2020",
+      "doi": "10.3205/19ifssh0298",
+      "abstract": "Objectives/Interrogation: Informed consent has become mandatory in the current environment for safe surgical procedures. There are specific legal requirements for what has to be disclosed to patients and the accompanying documentation. Methods: This is a quasi-experimental pilot study on the[for full text, please go to the a.m. URL] 14th Triennial Congress of the International Federation of Societies for Surgery of the Hand (IFSSH), 11th Triennial Congress of the International Federation of Societies for Hand Therapy (IFSHT), 11th Triennial Congress of the International Federation of Societies for Hand Therapy (IFSHT)",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Cost Implications of Varying the Surgical Setting and Anesthesia Type for Trigger Finger Release Surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6571295/",
+      "publisher": "Plastic and reconstructive surgery. Global open",
+      "year": "2019",
+      "doi": "10.1097/gox.0000000000002231",
+      "abstract": "Background Trigger finger release (TFR) is a common surgical procedure, representing a financial burden to the healthcare system. Our null hypothesis is that the choice surgical setting [operating room (OR) versus procedure room (PR)] and anesthetic type [local-only or monitored anesthesia care (MAC)] do not affect surgical encounter costs for TFR. Methods Adult patients undergoing isolated unilateral TFR between May 2014 and December 2017 by 5 fellowship-trained hand surgeons at a single academic medical center were identified by Current Procedural Terminology (CPT) code (26055). We excluded patients undergoing revision surgery, tenosynovectomy, or additional procedures. Using our institution's information technology value tools, we calculated total direct costs for each surgical encounter, which were compared between groups. Univariate and multivariable gamma regression were used to model costs. Results Of 210 included patients, 54% (113/210) of cases were performed in the PR and 46% (97/210) in the OR. No significant differences in demographics were observed between PR and OR groups. Compared to local-only in the PR, the OR with local-only, and OR with MAC, demonstrated 2.2- and 3.2-fold greater median costs. Multivariable models suggested that use of the OR independently led to 221% [95% Confidence interval: 137%-345%; P P Conclusion Performing TFR in the PR setting under local-only anesthesia minimizes surgical encounter direct costs for this common procedure.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Narcotic-Free, Over-the-Counter Pain Management After Wide-Awake Hand Surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6903812/",
+      "publisher": "Journal of the American Academy of Orthopaedic Surgeons. Global research & reviews",
+      "year": "2019",
+      "doi": "10.5435/jaaosglobal-d-19-00137",
+      "abstract": "Prescribing opioids for postoperative pain has increased steadily, and hand surgery has been no exception. Current hand surgery literature does not describe the efficacy of pain self-management postoperatively. The purpose of this study is to describe our experience with over-the-counter (OTC), narcotic-free, postoperative pain management. Methods We have done a retrospective chart review at an academic tertiary-care facility. Patients who underwent soft-tissue hand surgery in an office-based procedure room between January 1, 2018, and March 1, 2019, done using wide-awake local anesthesia only with no tourniquet were included. Results Eighty-one continuous patients met the inclusion and exclusion criteria. The procedures included carpal tunnel release, cubital tunnel release, trigger finger release, first dorsal compartment release, dorsal wrist ganglion cyst excision, hand or finger mass excision, percutaneous needle fasciotomy, flexor tendon repair, and extensor tendon repair. Two patients (2.4%) received a prescription for pain medication within 1 day and 4 within 1 week after discharge (total 5.6%). Nine patients were already on chronic narcotics, and four were on short-term narcotics before the surgery date. No other patients requested or received opioid prescriptions after surgery, and no complaints were reported. Discussion This study indicates that patients can successfully self-manage their postoperative pain with OTC analgesics. They rarely request prescriptions for pain control after soft-tissue hand surgery. Our findings support current literature suggesting that narcotic prescriptions can be eliminated in select hand and upper extremity procedures and suggest that OTC postoperative pain management is sufficient.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Cadaveric Study of the Thread Trigger Finger Release: The First Annular Pulley Transection Through Thread Transecting Technique",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5950968/",
+      "publisher": "Hand (New York, N.Y.)",
+      "year": "2018",
+      "doi": "10.1177/1558944717697433",
+      "abstract": "Background After the thread transecting technique was successfully applied for the thread carpal tunnel release, we researched using the same technique in the thread trigger finger release (TTFR). This study was designed to test the operational feasibility of the TTFR on cadavers and verify the limits of division on the first annular (A1) pulley to ensure a complete trigger finger release with minimal iatrogenic injuries. Methods The procedure of TTFR was performed on 14 fingers and 4 thumbs of 4 unembalmed cadaveric hands. After the procedures, all fingers and thumbs were dissected and visually assessed. Results All of the digits and thumbs demonstrated a complete A1 pulley release. There was no injury to the neurovascular bundle (radial digital nerve in case of thumb), flexor tendon, or A2 pulley for each case. Conclusions The cadaveric study showed that the technique of TTFR was safe and effective, and the future clinical study is necessary to verify the findings of this study.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Functional outcome of open surgical A1 pulley release in diabetic and nondiabetic patients",
+      "url": "https://doi.org/10.1177/2309499018758069",
+      "publisher": "Journal of Orthopaedic Surgery",
+      "year": "2018",
+      "doi": "10.1177/2309499018758069",
+      "abstract": "Purpose: Trigger finger, also referred to as stenotic flexor tenosynovitis, is a common condition affecting the digits, with a lifetime incidence of 2.6% among the healthy population and up to 16.5% in diabetic patients. Diabetes mellitus is associated with multiple musculoskeletal conditions including trigger finger. In this study, we aimed to compare the functional outcome of trigger finger release in diabetic and nondiabetic patients to evaluate whether the management of trigger finger in diabetic patients should be the same as that in nondiabetic patients, or whether diabetic patients would benefit from a more tailored management plan to optimize results. Methods: A retrospective case–control study was performed at a single center among patients who underwent A1 pulley release from January 2013 to February 2017. Patients were diagnosed with trigger finger grades I to IV according to the Quinnell classification and assessed using the The Disabilities of the Arm, Shoulder, and Hand (QuickDASH) questionnaire (Arabic version). Results: Sixty-nine patients, including 21 male (30.4%) and 48 female (69.6%), underwent A1 pulley release surgery. More than half of the participants included in this study were diabetic (n = 40, 58%) and 29 were nondiabetic (42%). The mean postoperative QuickDASH scores were 19.93 among diabetic patients and 17.15 among nondiabetic patients. There was no significant difference in the functional outcome between diabetic and nondiabetic ( p = 0.6) patients. Conclusions: The postoperative functional outcomes are similar in diabetic and nondiabetic patients. Therefore, the management of trigger finger should be the same in both groups.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Percutaneous trigger finger release",
+      "url": "https://doi.org/10.3126/noaj.v1i1.8126",
+      "publisher": "Nepal Journals Online (JOL)",
+      "year": "2013",
+      "doi": "10.3126/noaj.v1i1.8126",
+      "abstract": "BACKGROUND: Trigger finger is caused by formation of nodule or thickening of A1 pulley by its fibrocartilage metaplasia resulting in entrapment of the flexor tendon. Conservative treatment of this condition consists of NSAIDs, splint immobilization and steroid injection into the tendon sheath. Failure of the conservative treatment is the indication of an open release. Percutaneous release of trigger finger is advised by several authors. The purpose of this prospective study is to evaluate the results of percutaneous release of trigger finger with 18 gauge needle. METHODS: Fifty one patients with 58 trigger digits were treated by percutaneous release using 18 gauge needle under local anaesthesia. Patients were followed up for an average of 12 months. RESULTS: Overall, 97% achieved an excellent or good result. Two digits experienced recurrent symptoms and required an open release. There was no clinical evidence of digital nerve injury or tendon bowstringing. CONCLUSIONS: We recommend this technique as a safe and effective outpatient procedure for releasing trigger finger. DOI: http://dx.doi.org/10.3126/noaj.v1i1.8126 Nepal Orthopaedic Association Journal Vol.1(1) 2010",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Simple Suture vs. Vertical Mattress: Choosing the Best Suture for Palmar Incision Based on a Randomized Clinical Trial",
+      "url": "https://jost.tums.ac.ir/index.php/jost/article/view/652",
+      "publisher": "Journal of Orthopedic and Spine Trauma",
+      "year": "2025",
+      "doi": "10.18502/jost.v11i3.19406",
+      "abstract": "Background: Despite the prevalence of palmar injuries and surgeries, no consensus exists regarding the type of wound closure. The present study compares simple sutures and vertical mattresses sutures in carpal tunnel release (CTR), trigger finger release (TFR), and trigger thumb release (TTR). Methods: A total of 89 surgeries were randomized to either simple or vertical mattress sutures. Outcomes including pain, infection, Patient and Observer Scar Assessment Scale (POSAS), satisfaction level, and Quick Disabilities of the Arm, Shoulder and Hand (QuickDASH) were evaluated on postoperative day 3, week 3, and month 3. Month 3 assessments were mostly performed remotely due to coronavirus disease 2019 (COVID-19). Results: The mean pain was higher in the vertical mattress sutures group compared with simple sutures, though the pain difference was statistically significant only on day 3. No significant mean difference was found between the two groups regarding POSAS items. Some patients underwent bilateral CTR with simple sutures on the one hand and vertical mattresses sutures on the other. The results of their investigation were consistent with the other findings. Conclusion: Vertical mattress suture in palmar surgeries is associated with greater short-term pain. Other variables did not differ between the two groups at different times. Hence, conclusively, regardless of the short-term pain associated with simple suture, both types of sutures can be used in hand surgeries with similar long-term results.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The Safety of Percutaneous Trigger Finger Release",
+      "url": "https://doi.org/10.1007/s11552-007-9069-8",
+      "publisher": "SAGE Publications",
+      "year": "2007",
+      "doi": "10.1007/s11552-007-9069-8",
+      "abstract": "This study attempted to determine the safety of percutaneous release of trigger fingers, with particular attention given to border digits and the thumb. We performed percutaneous release of the A1 pulley in six fresh frozen cadaveric hands utilizing established surface landmarks. After freezing all specimens, we performed cross-sections at the A1 pulley, avoiding dissection of soft tissues, which could alter the natural position of the digital nerves. There was no difference in the distance from the needle tract to the neurovascular bundle when comparing between digits, and the closest distance was 2.7 mm. There was no significant difference between the needle tract and the radial and ulnar digital nerves. Based on our findings, percutaneous trigger finger release can safely be performed on all digits, including the thumb, small fingers, and index fingers.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Comparing Minor Hand Procedures Performed with or without the Use of a Tourniquet: A Randomized Controlled Trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8032361/",
+      "publisher": "Plastic and reconstructive surgery. Global open",
+      "year": "2021",
+      "doi": "10.1097/gox.0000000000003513",
+      "abstract": "Background Carpal tunnel syndrome and trigger finger are two of the most common conditions treated by the hand surgeon. During these procedures, a tourniquet is often used to minimize bleeding and improve visualization of the operative field. However, it may be associated with pain and discomfort. To date, there are few prospective studies investigating the safety and patient-centered outcomes of tourniquet-free minor hand procedures. Methods This is a randomized controlled trial comparing patients undergoing open carpal tunnel or trigger finger release with or without the use of a tourniquet. Perioperative subjective patient experience was investigated for both techniques. This was measured based on a numerical rating scale for pain, anxiety, and overall satisfaction. In addition, this was an equivalence trial in terms of operative time, bleeding scores, and perioperative complication rates. Results A total of 67 patients were recruited. Both groups were similar with respect to distribution of age, sex, handedness, anti-platelet use, and tobacco use. Median scores for operative time, anxiety, and overall satisfaction were comparable between the 2 groups. With regard to patient discomfort, median scores were significantly higher in the tourniquet group when compared with the no tourniquet group (3.58 versus 1.68, respectively, P = 0.02). Bleeding scores for the tourniquet group were significantly lower than for the no tourniquet group (1.14 versus 1.90, respectively, P = 0.001). Conclusions The application of wide awake local anesthesia no tourniquet (WALANT) in minor hand surgery procedures has been shown to decrease tourniquet-associated discomfort, improving perioperative patient experience. Additionally, it demonstrated the noninferiority of the tourniquet-free technique with respect to operative time and the rate of perioperative complications.",
+      "licence": "cc by-nc-nd",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.84,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Demographic Characteristics, Clinical Features, and Surgical History in Children with Mucopolysaccharidoses: A Single Center Experience",
+      "url": "https://dergipark.org.tr/en/download/article-file/6229085",
+      "publisher": "Journal of Contemporary Medicine",
+      "year": "2026",
+      "doi": "10.16899/jcm.1995984",
+      "abstract": "Background: Mucopolysaccharidoses (MPS) are a heterogeneous group of lysosomal storage disorders characterized by progressive glycosaminoglycan accumulation and multisystem involvement. Owing to their broad clinical spectrum, patients require lifelong multidisciplinary follow-up. This study aimed to characterize the demographic profile, clinical manifestations, and surgical history of pediatric patients with mucopolysaccharidoses followed at a tertiary referral center.Methods: This retrospective descriptive study included 10 patients with confirmed MPS. Demographic characteristics, MPS subtype, enzyme replacement therapy (ERT) status, hearing and ophthalmological findings, cardiac involvement, and surgical history were retrospectively reviewed from medical records.Results: Ten patients (6 males, 4 females) were included. The cohort comprised three patients with MPS VI, two with MPS II, and one patient each with MPS I, IVA, IIIB, IIIC, and IIID. Seven patients (70%) were receiving ERT. Cardiac involvement was identified in four patients (40%), whereas hearing impairment was documented in three patients (30%). Five patients (50%) had a history surgical intervention. Otorhinolaryngological procedures were the most common operations, followed by inguinal hernia repair, trigger finger release, cervical stabilization, and neurosurgical procedures. Airway abnormalities and cervical spine involvement were notable perioperative findings.Conclusion: This case series demonstrates the marked clinical heterogeneity of MPS and its multisystem manifestations. Despite advances in disease-specific therapy, many patients continue to require multidisciplinary follow-up because of persistent cardiac, auditory, musculoskeletal, and airway involvement. Recognition of perioperative risk factors may facilitate safer surgical management when operative interventions are required.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Evaluating the Relationship Between Patients Diagnosed with Anxiety and Depression and Rates of Postoperative Opioid Use in Five of the Most Common Hand Surgeries",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2589514125000635",
+      "publisher": "Journal of Hand Surgery Global Online",
+      "year": "2025",
+      "doi": "10.1016/j.jhsg.2025.100743",
+      "abstract": "Purpose: This study compared postoperative opioid utilization between patients with and without preoperative diagnoses of anxiety and/or depression undergoing elective upper-extremity surgery. We hypothesized that patients with these diagnoses would fill more opioid prescriptions within 30 days of surgery than those without. Methods: We conducted a retrospective analysis using the PearlDiver Mariner Patient Claims Database (2010–2021). Patients undergoing carpal tunnel release, cubital tunnel release, trigger finger release, and epicondylitis surgeries were identified via Current Procedural Technology and International Classification of Diseases-Ninth and Tenth Revision codes. Patients were categorized by diagnosis of depression only, anxiety only, both anxiety and depression, and control. The primary outcome was opioid prescriptions filled within 30 days postsurgery. Descriptive statistics and chi-square tests were employed. Results: Among 4,166,706 carpal tunnel release patients, 22.4% with a diagnosis of anxiety and/or depression had a higher opioid fill rate (1.85%) than the control group (1.38%). For 1,409,802 trigger finger release patients, 20.7% with a diagnosis of anxiety and/or depression had a higher fill rate (1.62% vs 1.19%). In 913,929 cubital tunnel release patients, 23.0% with a diagnosis of anxiety and/or depression had a higher fill rate (2.41% vs 1.25%). Among 1,645,767 lateral epicondylitis surgeries, 22.2% with a diagnosis of anxiety and/or depression had a higher fill rate (1.04% vs 0.71%). For 397,916 medial epicondylitis patients, 22.2% with a diagnosis of anxiety and/or depression had a higher fill rate (0.92% vs 0.66%). Conclusions: Preoperative depression and/or anxiety were linked to higher postoperative opioid prescriptions across all surgeries, emphasizing the need to consider these diagnoses in opioid prescribing. Level of evidence: Prognostic IV.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Wide-Awake Hand Surgery Has Its Benefits: A Study of 1,011 Patients",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9678697/",
+      "publisher": "Journal of hand surgery global online",
+      "year": "2022",
+      "doi": "10.1016/j.jhsg.2022.05.008",
+      "abstract": "Purpose Wide-awake local anesthesia with no tourniquet has dramatically changed hand surgery practice. Using lidocaine with epinephrine and no tourniquet has allowed many procedures to be moved from the main operating room to an in-office procedure room. Previous studies have shown that using local anesthesia is safe and cost effective, with high patient satisfaction. This study evaluated patient satisfaction and complications for the first 1,011 elective hand surgeries performed using wide-awake anesthesia in an in-office procedure room. Methods The first 1,011 patients who underwent elective hand surgery in an in-office procedure room were surveyed regarding their satisfaction. The patients were monitored for postoperative complications. Patient survey results and complications were logged in a database and analyzed. Results Single-digit trigger finger release was the most common procedure performed (n = 582), followed by mass excision (n = 158), multiple-digit trigger finger releases (n = 109), and carpal tunnel release (n = 41). There were 43 (4.3%) superficial skin infections, with the majority seen in single-digit trigger finger releases (n = 27). There were no deep wound infections. All infections were managed nonsurgically with oral antibiotics and local wound care. Ninety-nine percent of the patients rated the in-office procedure room experience as the same as or better than a dental visit, would recommend wide-awake anesthesia to a friend or family member, and would undergo the procedure again. Using \"lean and green\" hand packs saved our institution more than $65,000 and saved 18.4 tons of waste during this study period. Conclusions Surgical procedures performed with wide-awake local anesthesia with no tourniquet in an in-office procedure room can be performed safely with a low infection rate, are cost effective, and have high patient satisfaction. Clinical relevance Minor hand surgery done in an in-office procedure room is safe, is cost effective, and has high patient satisfaction.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Acute Pain Predictors of Remote Postoperative Pain Resolution After Hand Surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8586397/",
+      "publisher": "Pain and therapy",
+      "year": "2021",
+      "doi": "10.1007/s40122-021-00263-y",
+      "abstract": "Introduction Chronic postsurgical pain (CPSP) is a global issue with high prevalence. This study compared acute pain descriptors among patients undergoing carpal tunnel release (CTR) or trigger finger release (TFR). We hypothesized worst pain intensity on postoperative day (POD) 10 would be best to predict the time to pain resolution. Methods In this secondary analysis of a negative, randomized, double-blind placebo-controlled trial, adult veterans undergoing CTR or TFR were enrolled January 2012-January 2014, with data analysis February 2020-October 2020. Participants were randomized to receive minocycline 200 mg or placebo 2 h prior to the operation, then minocycline 100 mg or placebo twice daily for 5 days. The Brief Pain Inventory, assessed daily, captured three pain scores: average and worst pain over the past 24 h, and current pain intensity. Fifteen acute pain descriptors based on the pain scores (clusters, mean, median, pain scores on POD 10, and linear slopes) were compared as predictors of time to pain resolution. Results Of 131 randomized participants, 114 (83 CTR, 31 TFR) were included. Average pain over the last 24 h reported on POD 10 best predicted time to pain cessation. Every one-point increase in the average pain score was associated with a 36.0% reduced rate of pain cessation (HR, 0.64, 95% CI 0.55-0.74, p Conclusions This study validates prior work and demonstrates the importance of assessing pain severity on POD 10 to identify patients at high risk for CPSP who are most likely to benefit from early pain intervention. Future research in diverse surgical cohorts is needed to further validate pain assessment on POD 10 as a significant predictor of CPSP.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Wide-Awake Local Anesthesia for Minor Hand Surgery Associated With Lower Opioid Prescriptions, Morbidity, and Costs: A Nationwide Database Study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8991616/",
+      "publisher": "Journal of hand surgery global online",
+      "year": "2020",
+      "doi": "10.1016/j.jhsg.2019.09.011",
+      "abstract": "Purpose We sought to investigate the perioperative opioid prescription patterns, complication rates, and costs associated with wide-awake local anesthesia (WALA) techniques using a nationwide insurance claims-based database. Methods We used the PearlDiver Humana administrative claims database to identify opioid-naive adult patients who underwent a carpal tunnel release, trigger finger release, or de Quervain release between 2007 and 2015. Patients were divided into WALA and standard anesthesia groups by the presence or absence of anesthesia Current Procedural Terminology codes. We evaluated for differences in perioperative opioid prescribing patterns, rates of opioid refills, and insurance reimbursement. The incidence of surgical complications and medical complications within 30 days of surgery were determined by International Classification of Diseases, Ninth Revision codes. Adjusted odds ratios were calculated with multivariable logistic regression models to identify factors associated with filling or refilling opioid prescriptions and complication rates. Results There were 6,285 patients in the WALA group and 28,657 in the standard anesthesia group. The WALA patients were prescribed significantly lower quantities of opioids than were standard anesthesia patients across all 3 procedures. After controlling for type of surgery, gender, and comorbidities in a multivariate model, WALA patients were less likely to fill an initial opioid prescription during the perioperative period but were equally likely to obtain a refill. The WALA patients had lower odds of developing both surgical and medical complications compared with standard anesthesia patients. Moreover, WALA was associated with significantly lower costs for all procedures. Conclusions Wide-awake local anesthesia technique is an increasingly common and viable option for minor hand surgery. It is a cost-effective and safe technique for simple hand surgical procedures and can be a strategy to minimize postoperative opioid use. Type of study/level of evidence Prognostic II.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Cost and Efficiency Analysis of the WALANT Technique for the Management of Trigger Finger in a Procedure Room of a Major City Hospital",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6908359/",
+      "publisher": "Plastic and reconstructive surgery. Global open",
+      "year": "2019",
+      "doi": "10.1097/gox.0000000000002509",
+      "abstract": "The \"Wide Awake Local Anesthesia No Tourniquet\" (WALANT) technique is gaining popularity in hand surgery owing to its benefits of reduced cost, shorter hospital stay, improved safety, and the ability to perform active intraoperative examinations. The aim of this study is to analyze the cost savings and efficiency of performing A1 pulley release for treatment of trigger finger using the WALANT technique in a major city hospital procedure room (PR) as compared with the standard tourniquet, operating room (OR) approach. Methods Patients who underwent trigger finger release between 2012 and 2017 were identified. Demographic and procedural information were obtained. Patients were followed for an average of 82 and 242 days in the PR and OR groups, respectively. Results Thirty-nine PR and 37 OR patients were identified. Case length and turnover time were shorter in the PR group [21.4 ± 7 versus 23.5 ± 14.3 min ( P = 0.942) and 31.1 ± 11.1 and 65.3 ± 17.7 min ( P Conclusion Performing A1 pulley release for treatment of trigger finger using the WALANT technique is both cost effective and time efficient compared to performing the same procedure in the main OR of a major city public hospital.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

@@ -83,6 +83,81 @@ def _ask(args: argparse.Namespace) -> int:
     return 0
 
 
+def _collect(args: argparse.Namespace) -> int:
+    """Search the open-access providers for one term and save every candidate."""
+    from . import collect
+    from .ko import slugify
+
+    s = get_settings()
+    providers = [p.strip() for p in args.providers.split(",")] if args.providers else None
+    cands = collect.collect(args.term, args.alt, per_provider=args.per_provider, providers=providers)
+    out = s.data_dir / "sources" / "candidates" / f"{slugify(args.term)}.json"
+    collect.save_candidates(out, args.term, cands)
+    for c in cands[: args.show]:
+        print(f"{c.score:5.2f}  {c.kind:17} {c.permitted_use:20} {c.year:4}  {c.title[:80]}  [{','.join(c.providers)}]")
+    print(f"\n{len(cands)} candidate(s) saved to {out}")
+    return 0
+
+
+def _collect_topics(args: argparse.Namespace) -> int:
+    """Collect sources for registry topics; save candidates and a source pack (SP-<ko_id>.md) for each."""
+    from . import collect
+
+    s = get_settings()
+    s.ensure_dirs()
+    registry = load_registry(s.registry_path)
+    have_ko = {e.ko_id for e in LocalKOStore(s).list_entries()}
+    ids = args.ids or [c.ko_id for c in registry.values() if args.all or c.ko_id not in have_ko]
+    providers = [p.strip() for p in args.providers.split(",")] if args.providers else None
+    for ko_id in ids:
+        c = registry.get(ko_id)
+        if c is None:
+            print(f"{ko_id}: not in the registry, skipped")
+            continue
+        pack_path = s.packs_dir / f"SP-{ko_id}.md"
+        cand_path = s.data_dir / "sources" / "candidates" / f"{ko_id}.json"
+        if pack_path.is_file() and not args.overwrite:
+            print(f"{ko_id}: source pack exists (use --overwrite), skipped")
+            continue
+        print(f"{ko_id}: {c.preferred_term}")
+        cands = collect.collect(c.preferred_term, c.alternate_terms, per_provider=args.per_provider, providers=providers)
+        collect.save_candidates(cand_path, c.preferred_term, cands)
+        pack = collect.pick_pack(cands, patient=True, size=args.pack_size)
+        if len(pack) < 2:
+            print(f"  only {len(pack)} usable source(s); no pack written")
+            continue
+        sources = [collect.as_source(x, f"S{i}") for i, x in enumerate(pack, 1)]
+        pack_path.write_text(collect.render_pack(ko_id, c.preferred_term, sources), encoding="utf-8", newline="\n")
+        print(f"  {len(cands)} candidates; pack of {len(pack)} -> {pack_path.name}")
+    return 0
+
+
+def _sources(args: argparse.Namespace) -> int:
+    from . import collect, packs
+
+    s = get_settings()
+    if args.action == "show":
+        path = packs.candidates_path(s, args.target)
+        if not path.is_file():
+            print(f"No candidates for {args.target}. Run: okds collect-topics {args.target}")
+            return 1
+        for i, c in enumerate(collect.load_candidates(path), 1):
+            print(f"c{i:<3} {c.score:5.2f} {c.kind:17} {c.permitted_use:20} {c.year:4} {c.title[:90]}")
+            if args.verbose:
+                print(f"       {c.publisher[:60]} | {c.url}\n       {c.abstract[:300]}\n")
+    elif args.action == "local":
+        for _score, d in packs.search_local(" ".join([args.target, *args.picks])):
+            print(f"local:{d['doc_id']:42} {d['source']:12} {d['title'][:80]}")
+    else:  # set
+        try:
+            pack, ko = packs.set_sources(s, args.target, args.picks)
+        except ValueError as e:
+            print(f"Not changed: {e}")
+            return 1
+        print(f"Wrote {pack}" + (f" and updated sources in {ko}" if ko else ""))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="okds", description="OKDS Knowledge Object tools")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -97,6 +172,27 @@ def main(argv: list[str] | None = None) -> int:
     a.add_argument("--method", choices=["keyword", "semantic", "hybrid"], default=get_settings().search_method)
     a.add_argument("--search-only", action="store_true", help="No AI; show the matching KO parts")
     a.set_defaults(func=_ask)
+    c = sub.add_parser("collect", help="Search open-access sources (Europe PMC, DOAJ, PLOS, ...) for one term")
+    c.add_argument("term")
+    c.add_argument("--alt", nargs="*", default=[], help="Other names that also count as a match")
+    c.add_argument("--per-provider", type=int, default=10)
+    c.add_argument("--providers", help="Comma-separated subset, e.g. europepmc,doaj,plos")
+    c.add_argument("--show", type=int, default=15)
+    c.set_defaults(func=_collect)
+    ct = sub.add_parser("collect-topics", help="Collect sources and write a source pack for registry topics")
+    ct.add_argument("ids", nargs="*", help="KO IDs (default: every topic without a KO)")
+    ct.add_argument("--all", action="store_true", help="Include topics that already have a KO")
+    ct.add_argument("--overwrite", action="store_true", help="Replace existing source packs")
+    ct.add_argument("--per-provider", type=int, default=10)
+    ct.add_argument("--pack-size", type=int, default=4)
+    ct.add_argument("--providers")
+    ct.set_defaults(func=_collect_topics)
+    so = sub.add_parser("sources", help="Browse candidates, search the OrthoInfo dataset, set a KO's sources")
+    so.add_argument("action", choices=["show", "local", "set"])
+    so.add_argument("target", help="KO ID (show, set) or search words (local)")
+    so.add_argument("picks", nargs="*", help="set: c<number> or local:<doc_id>, in order (S1, S2, ...)")
+    so.add_argument("-v", "--verbose", action="store_true", help="show: also print publisher, link, abstract")
+    so.set_defaults(func=_sources)
     args = parser.parse_args(argv)
     return args.func(args)
 

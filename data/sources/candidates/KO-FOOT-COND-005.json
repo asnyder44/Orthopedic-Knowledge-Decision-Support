@@ -1,0 +1,890 @@
+{
+  "term": "Hallux Valgus",
+  "collected": "2026-11-14",
+  "count": 49,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Percutaneous Chevron/Akin (PECA) versus open scarf/Akin (SA) osteotomy treatment for hallux valgus: A systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0242496",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0242496",
+      "abstract": "Purpose: The objective of the study is to compare the radiographic and clinical results of two techniques for the treatment of hallux valgus that have the same indication, the open scarf/Akin (SA) technique and the percutaneous Chevron/Akin (PECA). Methods: A meta-analysis was performed with the studies found during a systematic review of articles included in electronic databases until 30 May 2020. The pooled analysis was summarized according to clinical outcomes, such as visual analog pain scale (VAS) and American Orthopaedic Foot & Ankle Society (AOFAS) score, radiographic outcomes and complications, with a 95% confidence interval. Results: Three studies comparing the open scarf/Akin (SA) versus the PECA techniques were added to the analysis, corresponding to 235 feet, 102 in the PECA group and 133 in the SA. The final mean difference in the hallux valgus angle was 0.80 degrees and in the intermetatarsal angle 0.53, in the last radiographic evaluation. In the AOFAS score, the final mean difference was 4.97 points and in the VAS 0.14 in relation to the last clinical evaluation. Exposure to radiation during the surgical procedure was higher in the PECA group with a mean of 35.53 seconds. Conclusions: The PECA surgical technique for the treatment of hallux valgus when compared with SA demonstrated similar radiographic correction, pain and function after six months of follow-up but with a longer radiation exposure time. Register of systematic review (PROSPERO): CRD42018096613.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.94,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Prevalence of hallux valgus in the general population: a systematic review and meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2955707/",
+      "publisher": "Journal of foot and ankle research",
+      "year": "2010",
+      "doi": "10.1186/1757-1146-3-21",
+      "abstract": "Background Hallux valgus (HV) is a foot deformity commonly seen in medical practice, often accompanied by significant functional disability and foot pain. Despite frequent mention in a diverse body of literature, a precise estimate of the prevalence of HV is difficult to ascertain. The purpose of this systematic review was to investigate prevalence of HV in the overall population and evaluate the influence of age and gender. Methods Electronic databases (Medline, Embase, and CINAHL) and reference lists of included papers were searched to June 2009 for papers on HV prevalence without language restriction. MeSH terms and keywords were used relating to HV or bunions, prevalence and various synonyms. Included studies were surveys reporting original data for prevalence of HV or bunions in healthy populations of any age group. Surveys reporting prevalence data grouped with other foot deformities and in specific disease groups (e.g. rheumatoid arthritis, diabetes) were excluded. Two independent investigators quality rated all included papers on the Epidemiological Appraisal Instrument. Data on raw prevalence, population studied and methodology were extracted. Prevalence proportions and the standard error were calculated, and meta-analysis was performed using a random effects model. Results A total of 78 papers reporting results of 76 surveys (total 496,957 participants) were included and grouped by study population for meta-analysis. Pooled prevalence estimates for HV were 23% in adults aged 18-65 years (CI: 16.3 to 29.6) and 35.7% in elderly people aged over 65 years (CI: 29.5 to 42.0). Prevalence increased with age and was higher in females [30% (CI: 22 to 38)] compared to males [13% (CI: 9 to 17)]. Potential sources of bias were sampling method, study quality and method of HV diagnosis. Conclusions Notwithstanding the wide variation in estimates, it is evident that HV is prevalent; more so in females and with increasing age. Methodological quality issues need to be addressed in interpreting reports in the literature and in future research.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.5,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Minimally invasive versus open chevron osteotomy for hallux valgus correction: a randomized controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6399198/",
+      "publisher": "International orthopaedics",
+      "year": "2019",
+      "doi": "10.1007/s00264-018-4006-8",
+      "abstract": "Purpose The purpose of this study was to compare a minimally invasive chevron osteotomy technique (MIS group) and the well-established open chevron technique (OC group) for correction of hallux valgus deformity. Methods Patients who were scheduled to undergo a hallux valgus surgery by means of a distal chevron osteotomy were randomly assigned to one of the two groups. Pre-operatively, six weeks, 12 weeks, and nine months post-operatively the following outcome parameters were determined: Visual Analog Scores (VAS) of pain, the American Orthopedic Foot and Ankle Society (AOFAS) forefoot score, radiographic outcome measures, range of motion (ROM), and patient satisfaction. Results Forty-seven cases were analyzed (25 MIS group; 22 OC group). Both operative techniques achieved significant correction of the hallux deformity. The intermetatarsal angle (IMA) improved from 15.1° to 5.8° in the OC and from 14° to 6.8°in the MIS group, whereas the hallux valgus angle (HVA) improved from 28.3° to 8.5° in the OC versus 26.4° to 6.9° in the MIS group. No significant differences were observed between the groups by any of the determined outcome parameters. Regarding patient satisfaction, statistically significant differences were found between MIS and open surgery 12 weeks post-operatively in favour of the MIS group (p = 0.022). Conclusion With the minimally invasive chevron osteotomy, radiological and clinical outcome is comparable to the open technique.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.76,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effects of tibialis anterior contraction on the medial longitudinal arch and hallux valgus angle: A functional anatomical perspective",
+      "url": "https://doi.org/10.1371/journal.pone.0350830",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0350830",
+      "abstract": "This study aimed to elucidate the effects of the tibialis anterior (TA) muscle contraction on the medial longitudinal arch (MLA) and hallux valgus (HV) angle, primarily focusing on the potential functional role of the TA in foot alignment. Twenty-five healthy adults (mean age: 20.7 ± 1.0 years) participated. Electrical stimulation was applied to the TA without ankle dorsiflexion. A triaxial accelerometer was attached to the skin over the navicular bone, and electrogoniometers were placed over the interphalangeal joints of the hallux and ankle. The navicular displacement was calculated through double integration of the acceleration data. Contraction of the TA caused navicular displacement in the supination direction (upward, posterior, and medial), suggesting a temporary elevation of the MLA. The hallux showed an average varus shift of 1.36°; the shift was observed in 24 of 25 participants (p < 0.001). A significant positive correlation was found between upward displacement of the navicular bone and the extent of varus change in the HV angle (r = 0.463, p = 0.020). Additionally, a greater initial HV angle was associated with a larger varus shift in the hallux after TA contraction (r = 0.433, p = 0.030). No significant correlations were observed between the HV angle change and ankle dorsiflexion, suggesting that the medial hallux shift may result from structural changes in the MLA rather than isolated joint motion. These findings provide novel evidence that TA contractions can elevate the MLA and induce varus displacement of the hallux. These findings further suggest that the TA contributes to foot biomechanics not only as an isolated muscle but also as part of a coordinated muscle system involved in arch dynamics and toe alignment. This suggests the potential clinical applications of TA activation in noninvasive interventions for mild-to-moderate HV, such as exercise therapy or neuromuscular electrical stimulation.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Long-Term Radiographic Outcomes of Scarf Osteotomy in the Treatment of Hallux Valgus: Review of 237 Cases with an Average Follow-Up of 12 Years",
+      "url": "https://hal.science/hal-05665404v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2026",
+      "doi": "10.1016/j.otsr.2025.104563",
+      "abstract": "Background: Although surgical correction of hallux valgus (HV) is the most common procedure in foot surgery, nearly one-third of patients express dissatisfaction, primarily due to lack of correction or recurrence. Reported recurrence rates in the literature vary widely, ranging from 2% to 72%. Accurately estimating the prevalence of recurrence is challenging due to the lack of a consensus on its definition and the heterogeneity of the surgical techniques studied. While recurrence can be a slowly progressive phenomenon, most published cohorts have a postoperative follow-up limited to only one or two years. The aims of this study were 1) to assess the radiologic recurrence rate of HV following Scarf osteotomy, with a minimum follow-up of 8 years. 2) to identify factors associated with recurrence. Hypothesis: At long-term follow up, hallux valgus recurrence is common. Materials and methods: A retrospective observational study was conducted, including patients who underwent Scarf osteotomy for hallux valgus correction between January 2001 and January 2014. During this period, 3450 patients underwent Scarf osteotomy for HV correction. Among them, 237/3450 (6.9%) had complete medical records and were included in the analysis. The primary outcome was radiologic recurrence, defined as a hallux valgus angle (HVA) exceeding 20 degrees. Results: At a mean follow-up of 12.2 +/- 2.77 years, the recurrence rate was 15.2% (36/237). Mean HVA was 10.53 +/- 8 degrees. The identified factors associated with recurrence included the severity of the preoperative deformity (HVA, p < 0.001; sesamoid position, p < 0.001; Intermetatarsal angle, p = 0.018) and the quality of postoperative correction (HVA, p<0.001; sesamoid position, p = 0.0031 and MTP1 joint congruency, p = 0.0037). Discussion: Over the long term, recurrence of hallux valgus following Scarf osteotomy is a frequent phenomenon, particularly in patients presenting with more severe preoperative deformities. These results may allow for appropriate patient information about long-term recurrence before surgery, even though the recurrence rate is likely underestimated, since only 6.9% of patients benefited from long-term follow-up in this retrospective study.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Biomechanical comparison of two surgical methods for Hallux Valgus deformity: Exploring the use of artificial neural networks as a decision-making tool for orthopedists",
+      "url": "https://doi.org/10.1371/journal.pone.0297504",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0297504",
+      "abstract": "Hallux Valgus foot deformity affects gait performance. Common treatment options include distal oblique metatarsal osteotomy and chevron osteotomy. Nonetheless, the current process of selecting the appropriate osteotomy method poses potential biases and risks, due to its reliance on subjective human judgment and interpretation. The inherent variability among clinicians, the potential influence of individual clinical experiences, or inherent measurement limitations may contribute to inconsistent evaluations. To address this, incorporating objective tools like neural networks, renowned for effective classification and decision-making support, holds promise in identifying optimal surgical approaches. The objective of this cross-sectional study was twofold. Firstly, it aimed to investigate the feasibility of classifying patients based on the type of surgery. Secondly, it sought to explore the development of a decision-making tool to assist orthopedists in selecting the optimal surgical approach. To achieve this, gait parameters of twenty-three women with moderate to severe Hallux Valgus were analyzed. These patients underwent either distal oblique metatarsal osteotomy or chevron osteotomy. The parameters exhibiting differences in preoperative and postoperative values were identified through various statistical tests such as normalization, Shapiro-Wilk, non-parametric Wilcoxon, Student t, and paired difference tests. Two artificial neural networks were constructed for patient classification based on the type of surgery and to simulate an optimal surgery type considering postoperative walking speed. The results of the analysis demonstrated a strong correlation between surgery type and postoperative gait parameters, with the first neural network achieving a remarkable 100% accuracy in classification. Additionally, cases were identified where there was a mismatch with the surgeon’s decision. Our findings highlight the potential of artificial neural networks as a complementary tool for surgeons in making informed decisions. Addressing the study’s limitations, future research may investigate a wider range of orthopedic procedures, examine additional gait parameters and use more diverse and extensive datasets to enhance statistical robustness.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Biodegradable magnesium-based screw clinically equivalent to titanium screw in hallux valgus surgery: short term results of the first prospective, randomized, controlled clinical pilot study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3702514/",
+      "publisher": "Biomedical engineering online",
+      "year": "2013",
+      "doi": "10.1186/1475-925x-12-62",
+      "abstract": "Purpose Nondegradable steel-and titanium-based implants are commonly used in orthopedic surgery. Although they provide maximal stability, they are also associated with interference on imaging modalities, may induce stress shielding, and additional explantation procedures may be necessary. Alternatively, degradable polymer implants are mechanically weaker and induce foreign body reactions. Degradable magnesium-based stents are currently being investigated in clinical trials for use in cardiovascular medicine. The magnesium alloy MgYREZr demonstrates good biocompatibility and osteoconductive properties. The aim of this prospective, randomized, clinical pilot trial was to determine if magnesium-based MgYREZr screws are equivalent to standard titanium screws for fixation during chevron osteotomy in patients with a mild hallux valgus. Methods Patients (n=26) were randomly assigned to undergo osteosynthesis using either titanium or degradable magnesium-based implants of the same design. The 6 month follow-up period included clinical, laboratory, and radiographic assessments. Results No significant differences were found in terms of the American Orthopaedic Foot and Ankle Society (AOFAS) score for hallux, visual analog scale for pain assessment, or range of motion (ROM) of the first metatarsophalangeal joint (MTPJ). No foreign body reactions, osteolysis, or systemic inflammatory reactions were detected. The groups were not significantly different in terms of radiographic or laboratory results. Conclusion The radiographic and clinical results of this prospective controlled study demonstrate that degradable magnesium-based screws are equivalent to titanium screws for the treatment of mild hallux valgus deformities.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Advanced Bioinformatics Tools, coupled and integrated with Manual Techniques, demonstrated the definitive resolution of the plantar deformation, Hallux Valgus, with a long-time outcome of absence of recrudescence",
+      "url": "https://zenodo.org/records/7674372",
+      "publisher": "Middle East Journal of Applied Science & Technology (MEJAST)",
+      "year": "2023",
+      "doi": "10.46431/MEJAST.2023.6103",
+      "abstract": "Background: Hallux Valgus is a type of plantar deformation that involves an angular deviation of the big toe, inwards, with respect to the long axis of the foot. This creates a state of chronic inflammation with a formation of protusion on articulation of big toe called bunion. As a consequence, people can lose capacity of deambulation and require the contribution of self-propelled supports. The treatment consists of surgery and use of non-steroidal anti-inflammatory drugs. A familiarity in this condition has also recently been highlighted. Objectives: To demonstrate, how the combined treatment with manual techniques and specific anti-inflammatory, cream is able to resolve plantar deformation without the aid of surgery and without recurrence. Methods: The synergistic combination of three manual techniques, as: Bowen Technique, Reflexology and Su Jok, coupled with a cream containing Glycerol, Camphor and Povidone Iodine, applied on a cohort of 30 patient, divided in 5 groups, was the basis of the clinical application. In order to confirm the efficacy of the preparation, its composition was compared, by Molecular Docking, with normal antinflammatory drugs. Results: The results from molecular docking showed a greater affinity, of the components of the cream, than the classical drugs. Furthermore, the statistic of the reduction of the size of bunions, showed a complete success in the reduction of volume of bunion, without recrudescence. Conclusions: The combined treatment of manual techniques, with the application of a cream, has shown full effectiveness in resolving the Hallux Valgus plantar deformation, without the appearance of recrudescence.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Development of a preoperative questionnaire to improve satisfaction with hallux valgus repair: A Delphi study",
+      "url": "https://doi.org/10.1371/journal.pone.0276303",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0276303",
+      "abstract": "Background: Satisfaction with hallux valgus repair is often poor, despite good surgical outcomes. Many tools have been developed to assess the outcome of the procedure; however none evaluate the association between the initial motive for repair and the reasons for post-surgical dissatisfaction. The aim of this study was to develop a new tool to analyse the subjective and objective expectations of individuals during a pre-operative consultation for hallux valgus repair in order to improve post-surgical satisfaction. Methods: We first collected the reasons for dissatisfaction with repair from the medical files of dissatisfied individuals. Then, a steering committee of 4 French experts in the management of hallux valgus designed a questionnaire based on the reasons for dissatisfaction. We then used the DELPHI method to validate the questionnaire: we submitted the questionnaire to a panel of 34 francophone experts in hallux valgus repair for rating in 4 rounds. Results: The medical files of 853 individuals were reviewed and a 52-item questionnaire relating to expectations from hallux valgus surgery was drafted. After the 4 rounds, a final 44 item questionnaire reached consensus. Thirteen items related to clinical and psychological profile, 5 to pain, 9 to physical activity, 4 to aesthetics and 13 to footwear. Conclusion: This tool should facilitate gathering of individuals’ expectations from hallux valgus repair to ensure realistic goals and reduce post-surgical dissatisfaction.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Correlation between degree of hallux valgus and kinematics in classical ballet: A pilot study",
+      "url": "https://doi.org/10.1371/journal.pone.0231015",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0231015",
+      "abstract": "Hallux valgus is a serious medical concern for classical ballet dancers. Although it is well-known that progression of hallux valgus is related to inappropriate movement techniques in classical ballet, the kinematic relationship between the degree of hallux valgus and ballet techniques has not been substantiated. To develop proper training methods that prevent progression of hallux valgus, this study aimed to investigate the relationship between the degree of hallux valgus and movement techniques in classical ballet. Seventeen female classical ballet dancers at the advanced college-level participated in this study. Kinematic analysis of standing and plié in the first position was conducted via video capture technique. The Pearson product-moment correlation analysis was performed to examine the degree of hallux valgus and the following three kinematic variables: (1) the extent to which turnout is forced by other joints in the lower extremity than the hip joint, (2) the direction difference between the knee and toe in the transverse plane, and (3) the pelvis obliquity angle. Among these kinematic variables, we found a significant correlation between the hallux valgus angle and the pelvis obliquity angle during plié (P = .045). The greater the hallux valgus angle, the greater the retroversion of the pelvis, a result which was contrary to our prediction. We present the first evidence that the degree of hallux valgus correlates with kinematics in a very basic technique of classical ballet.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Detailed analysis of the transverse arch of hallux valgus feet with and without pain using weightbearing ultrasound imaging and precise force sensors",
+      "url": "https://doi.org/10.1371/journal.pone.0226914",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0226914",
+      "abstract": "Background: Hallux valgus is the most common forefoot deformity and affects the transverse arch structure and its force loading patterns. This study aims to clarify the differences in the transverse arch structure and the force under the metatarsal heads individually, between normal feet and hallux valgus feet, and between hallux valgus feet with pain and without pain. We further test the association between the parameters of the transverse arch and hallux valgus angle and between the parameters and pain in hallux valgus. Methods: Women’s feet (105 feet) were divided into normal group (NORM) and hallux valgus group (HVG); and further into subgroups: hallux valgus without pain (HV Pain (-)) and hallux valgus with pain (HV Pain (+)). Transverse arch height and metatarsal heads height were measured using weight-bearing ultrasound imaging. Force under the metatarsal heads was measured using force sensors attached directly on the skin surface of the metatarsal heads. The measurements were taken in three loading positions: sitting, quiet standing and 90% weight shift on the tested foot. Differences between the groups were compared using Student t-test and Wilcoxon Exact test. Multivariate logistic analysis with adjustment for physical characteristics was also conducted. Results: Transverse arch height was significantly higher in HVG than in NORM in all positions; there were no significant differences between HV Pain (+) and HV pain (-). Lateral sesamoid was significantly higher in HVG and HV Pain (+) than in NORM and HV Pain (-) respectively when bearing 90% of the body weight unilaterally. There was a trend of higher forces under the medial forefoot without significant difference. Transverse arch height and lateral sesamoid height were associated with the hallux valgus angle, while lateral sesamoid height was associated with forefoot pain in hallux valgus deformity. Conclusions: This study shows the differences in the transverse arch structure between normal feet and feet with hallux valgus, and between hallux valgus feet with and without pain. This finding is noteworthy when considering future treatments of painful feet, notably the height of the lateral sesamoid which seems to play a role in forefoot pain.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "DOES HALLUX VALGUS SURGERY MODIFY THE GAIT PARAMETERS? LITERATURE REVIEW",
+      "url": "https://hal.science/hal-02504789v1",
+      "publisher": "International Journal of Physiotherapy",
+      "year": "2020",
+      "doi": "10.15621/ijphy/2020/v7i1/193670",
+      "abstract": "Background: the deformation of the hallux into a valgus constitutes the most frequent deformation of the forefoot and one of the most performed corrective surgeries in the region. This deformation is the cause of many biomechanical disorders and causes gait disturbances. This review aims to analyze the restoration of space-time and kinematic parameters of walking in the aftermath of corrective surgery for hallux valgus. Methods: four studies were analyzed according to the main criteria of walking speed, support time, step length and kinematics of the ankle and foot before and after the intervention. Results: If some of the results obtained in the analyzed works show an improvement of these criteria in post-operative, the subjects having benefited from hallux valgus surgery seem to present some persistent issues in the spatiotemporal and kinematic parameters. Conclusion: This work does not demonstrate the superiority of one surgical technique over another in the recovery of gait. This recovery does not seem absolute, but this review highlights above all the lack of literature on this subject.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Hallux Valgus",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8696753/",
+      "publisher": "Foot & ankle orthopaedics",
+      "year": "2019",
+      "doi": "10.1177/2473011419838500",
+      "abstract": "Hallux valgus is a common condition that results from a complex positional deformity of the first ray. The bunion or medial prominence that results from the lateral deviation and pronation of the hallux is only one component of the 3-dimensional deformity. Hallux valgus can lead to considerable pain and altered joint mechanics. The precise biomechanical etiology remains under debate. Predisposing factors include female sex, age, constricting footwear, and family history. Metatarsus adductus, equinus contracture, hammertoe deformity, and pes planus often coexist with hallux valgus. Nonoperative treatment involves patient education, shoe modifications, toe pads and positioning devices, and activity modifications. Surgery is considered in patients who fail nonoperative treatment with the goal of pain relief, correction of the deformity, improved first ray stability, and improved quality of life. More than 100 different procedures have been described to treat hallux valgus; they include combinations of soft tissue balancing, metatarsal osteotomies, and fusion of either the metatarsophalangeal (MTP) or tarsometatarsal (TMT) joint. The choice of procedures depends on the severity and location of the deformity as well as surgeon preference. Recent advances in operative techniques include minimally invasive surgery and correction of rotational deformity.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.36,
+      "providers": [
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Assessing Group Differences between Hallux Valgus Patients and Healthy Controls using Statistical Parametric Mapping",
+      "url": "https://zenodo.org/records/3521535",
+      "publisher": "Zenodo",
+      "year": "2019",
+      "doi": "10.5281/zenodo.3521535",
+      "abstract": "This study characterizes plantar pressure differences between hallux valgus patients and healthy controls using statistical parametric mapping (SPM). The plantar pressure differences are minimal which, combined with previous studies, suggest high variability in the plantar pressures of hallux valgus patients.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The excessive length of first ray as a risk factor for hallux valgus recurrence",
+      "url": "https://doi.org/10.1371/journal.pone.0205560",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0205560",
+      "abstract": "Background: It is still unknown whether the excessive length of the first ray is a risk factor for hallux valgus recurrence. The purpose of this study is to clarify the relationship between the excessive length of the first ray and the recurrence of hallux valgus. Methods: Between 2008 and 2011, a total of 186 feet (left 105, right 81) who underwent chevron osteotomy combined with distal soft tissue procedure in our foot and ankle center were retrospectively reviewed. A postoperative hallux valgus angle(HVA) ≥20° was defined as recurrence. Patients were divided into two groups: recurrence and non-recurrence group. Weight-bearing radiographs were evaluated preoperatively and at the time of last follow-up for both groups. Radiographic parameters including the length of the great toe(P1), the length of the second toe(P2), the length distance between the first and second metatarsal(D), the hallux valgus angle(HVA) were obtained. The excessive length of the first ray(EL) was calculated using the equation of EL = P1-P2-D. Results: A total of 45 patients (24.2%) had hallux valgus recurrence at the time of last follow-up with a mean follow-up of 83.7 ±12.1 months (range, 66–110). The mean postoperative P1 was 5.06±0.39cm for recurrence group and 4.84±0.34cm for no recurrence group(p 4.9cm and postoperative EL>0.4cm can be risk factors for hallux valgus recurrence. The appreciation of the excessive length of the first ray prior to surgery may help to improve the surgical outcome.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Wound healing complications in patients with and without systemic diseases following hallux valgus surgery",
+      "url": "https://doi.org/10.1371/journal.pone.0197981",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0197981",
+      "abstract": "There are many defined risk factors for wound healing. Comorbidities and their treatment are identified to be one of them. The aim of this study is to verify whether there are significant differences in wound healing between patients with and without systemic diseases, who underwent hallux valgus correction with Scarf osteotomy. A total of 155 consecutive patients were included into this prospective study. All of the patients underwent Scarf osteotomy for hallux valgus correction. In 60,6% of patients comorbidities were present, most often hypertension (57 patients, 36,8%), hypothyroidism (19 patients 12,3%) and diabetes (7 patients, 4,5%) occurred. Most of the patients were women (96,1%). During the study complication rate was noted. Patients underwent follow-up: 1,2, 3, 6 and 12 weeks and 6 months after the surgery. Preoperatively and during the last visit treatment results were assessed with AOFAS HMI scale. Scar assessment was performed by independent observer with VAS followed by patient scar assessment with VSS. In 30 patients complications were noted (19,4%). Surgical site infection was found in 6 patients (3,9%). In 13 patients (8,4%) partial wound dehiscence occurred, in 5 of them (3,2%) additional skin closure (Steri-Strips) was applied. Treatment results assessed with AOFAS HMI scale were good and very good in both healthy and comorbidity group, and the results improved significantly after surgical procedure. Scar assessment with VAS was on the average 1,5 pts. Average result in VSS was 2 pts. Results in both scales were rated as very good. No statistically significant differences were found in both healthy and comorbidity group in scar assessment. Based on the results of the study authors believe there are no significant differences between patients with and without comorbidities in aspects like: complication rate, surgery result and scar assessment as long as foot surgery is concerned.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Functional and radiographic outcomes of hallux valgus correction by mini-invasive surgery with Reverdin-Isham and Akin percutaneous osteotomies: a longitudinal prospective study with a 48-month follow-up",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5139107/",
+      "publisher": "Journal of orthopaedic surgery and research",
+      "year": "2016",
+      "doi": "10.1186/s13018-016-0491-x",
+      "abstract": "Background Minimally invasive surgery (MIS) represents one of the most innovative surgical treatments of hallux valgus (HV). However, long-term outcomes still remain a matter of discussion within the orthopaedic community. The purpose of this longitudinal prospective study was to evaluate radiographic and functional outcomes in patients with mild-to-severe HV who underwent Reverdin-Isham and Akin percutaneous osteotomy, following exostosectomy and lateral release. Methods Eighty patients with mild-to-severe symptomatic HV were treated by MIS. Clinical evaluation was assessed preoperatively, as well as at 3 and 12 months after surgery and at final follow-up of 48 months, using the American Orthopaedic Foot and Ankle Society (AOFAS) hallux grading system. Patient satisfaction and complications were recorded. Computer-assisted measurement of antero-posterior radiographs was taken preoperatively, as well as at 3 and 12 months after surgery and at 48-month follow-up, analysing the intermetatarsal angle (IMA), the hallux valgus angle (HVA), the distal metatarsal articular angle (DMAA) and the tibial sesamoid position. Also, the bridging bone/callus formation was evaluated at the different radiographic follow-ups, while the articular surface congruency and the metatarsal index were calculated only preoperatively and at the last follow-up. Patient satisfaction was assessed using the visual analogue score (VAS). Statistical analysis was carried out using the paired t test. Statistical significance was set at p Results The mean AOFAS score was 87.15 points at the final follow-up of 48 months, and the VAS score was 8.35/10. The post-operative radiographic assessments showed a statistically significant improvement compared with preoperative values. The mean corrections of each angular value at the last follow-up were as follows: IMA 3.90°, HVA 12.50°, DMAA 4.72° and a tibial sesamoid position of 1.10. The articular surface was congruent in 77 (96.25%) cases and incongruent only in 3 (3.75%). The complete healing of the osteotomies was achieved in all series at 3-month follow-up. However, the results obtained in the correction of the severe HV deformities were less encouraging. Conclusions Minimally invasive surgery with Reverdin-Isham and Akin percutaneous osteotomy, in combination with previous exostosectomy and subsequent lateral soft-tissue release, is a safe, effective and reliable procedure for correction of mild-to-moderate HV. However, it requires a long learning curve because of the inherent difficulty of the mixed different surgical procedures. Trial registration ClinicalTrials.gov PRS Protocol Registration and Results System: NCT02886221.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Foot pain and functional limitation in healthy adults with hallux valgus: a cross-sectional study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3526426/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2012",
+      "doi": "10.1186/1471-2474-13-197",
+      "abstract": "Background Hallux valgus (HV) is a very common deformity of the first metatarsophalangeal joint that often requires surgical correction. However, the association between structural HV deformity and related foot pain and disability is unclear. Furthermore, no previous studies have investigated concerns about appearance and difficulty with footwear in a population with HV not seeking surgical correction. The aim of this cross-sectional study was to investigate foot pain, functional limitation, concern about appearance and difficulty with footwear in otherwise healthy adults with HV compared to controls. Methods Thirty volunteers with HV (radiographic HV angle >15 degrees) and 30 matched controls were recruited for this study (50 women, 10 men; mean age 44.4 years, range 20 to 76 years). Differences between groups were examined for self-reported foot pain and disability, satisfaction with appearance, footwear difficulty, and pressure-pain threshold at the first metatarsophalangeal joint. Functional measures included balance tests, walking performance, and hallux muscle strength (abduction and plantarflexion). Mean differences (MD) and 95% confidence intervals (CI) were calculated. Results All self-report measures showed that HV was associated with higher levels of foot pain and disability and significant concerns about appearance and footwear (p Conclusions These findings show that HV negatively impacts on self-reported foot pain and function, and concerns about foot appearance and footwear in otherwise healthy adults. There was also evidence of impaired hallux muscle strength and increased postural sway in HV subjects compared to controls, although general physical functioning and participation in physical activity were not adversely affected.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Radiographic correlates of hallux valgus severity in older people",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949715/",
+      "publisher": "Journal of foot and ankle research",
+      "year": "2010",
+      "doi": "10.1186/1757-1146-3-20",
+      "abstract": "Background The severity of hallux valgus is easily appreciated by its clinical appearance, however x-ray measurements are also frequently used to evaluate the condition, particularly if surgery is being considered. There have been few large studies that have assessed the validity of these x-ray observations across a wide spectrum of the deformity. In addition, no studies have specifically focused on older people where the progression of the disorder has largely ceased. Therefore, this study aimed to explore relationships between relevant x-ray observations with respect to hallux valgus severity in older people. Methods This study utilised 402 x-rays of 201 participants (74 men and 127 women) aged 65 to 94 years. All participants were graded using the Manchester Scale - a simple, validated system to grade the severity of hallux valgus - prior to radiographic assessment. A total of 19 hallux valgus-related x-ray observations were performed on each set of x-rays. These measurements were then correlated with the Manchester Scale scores. Results Strong, positive correlations were identified between the severity of hallux valgus and the hallux abductus angle, the proximal articular set angle, the sesamoid position and congruency of the first metatarsophalangeal joint. As hallux valgus severity increased, so did the frequency of radiographic osteoarthritis of the first metatarsophalangeal joint and a round first metatarsal head. A strong linear relationship between increased relative length of the first metatarsal and increased severity of hallux valgus was also observed. Conclusions Strong associations are evident between the clinical appearance of hallux valgus and a number of hallux valgus-related x-ray observations indicative of structural deformity and joint degeneration. As it is unlikely that metatarsal length increases as a result of hallux valgus deformity, increased length of the first metatarsal relative to the second metatarsal may be a contributing factor to the development and/or progression of hallux valgus.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Management of Anxiety for Ambulatory Hallux Valgus Surgery With a Virtual Reality Hypnosis Mask: Randomized Controlled Trial",
+      "url": "https://hal.science/hal-04233248v1",
+      "publisher": "Foot and Ankle International",
+      "year": "2023",
+      "doi": "10.1177/10711007231162816",
+      "abstract": "Background: The purpose of this study was to evaluate the impact of using virtual reality masks for the management of preoperative anxiety and its impact on postoperative and predischarge anxiety as well as postoperative analgesia during outpatient hallux valgus surgery. Methods: From June 2020 to September 2021, preoperative anxiety of patients scheduled for a percutaneous hallux valgus surgery were analyzed using the State Trait Anxiety Inventory (STAI) questionnaire completed during the consultation. All patients with major anxiety, defined as a STAI score above 40, were included in a randomized prospective comparative single-center study. Sixty patients were included in the study and randomized into 2 arms of 30 patients according to whether or not they underwent a preoperative hypnosis session with a virtual reality mask before surgery. Results: There was an improvement in the postoperative (42.5 vs 45.2, P <.04) and predischarge (25.3 vs 30.2 P <.03) anxiety scores in the group that used the mask before the procedure. There was a notable decrease in immediate higher-level postoperative analgesics such as morphine or ketamine (3.3% vs 26.6%, P <.03) in the arm using the mask. Conclusion: In this study cohort undergoing percutaneous hallux valgus surgery, we found that use of a virtual reality hypnosis mask before surgery modestly reduced postoperative and predischarge anxiety as well as early postoperative consumption of higher-level analgesics in adults with significant preoperative anxiety. Level of Evidence: Level II, prospective cohort study.",
+      "licence": "",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.92,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Apolipoprotein E (APOE) genotype-associated disease risks: a phenome-wide, registry-based, case-control study utilising the UK Biobank",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7452404/",
+      "publisher": "EBioMedicine",
+      "year": "2020",
+      "doi": "10.1016/j.ebiom.2020.102954",
+      "abstract": "Background The three main alleles of the APOE gene (ε4, ε3 and ε2) carry differential risks for conditions including Alzheimer's disease (AD) and cardiovascular disease. Due to their clinical significance, we explored disease associations of the APOE genotypes using a hypothesis-free, data-driven, phenome-wide association study (PheWAS) approach. Methods We used data from the UK Biobank to screen for associations between APOE genotypes and over 950 disease outcomes using genotype ε3ε3 as a reference. Data was restricted to 337,484 white British participants (aged 37-73 years). Findings After correction for multiple testing, PheWAS analyses identified associations with 37 outcomes, representing 18 distinct diseases. As expected, ε3ε4 and ε4ε4 genotypes associated with increased odds of AD (p ≤ 7.6 × 10 -46 ), hypercholesterolaemia (p ≤ 7.1 × 10 -17 ) and ischaemic heart disease (p ≤ 2.3 × 10 -4 ), while ε2ε3 provided protection for the latter two conditions (p ≤ 3.7 × 10 -10 ) compared to ε3ε3. In contrast, ε4-associated disease protection was seen against obesity, chronic airway obstruction, type 2 diabetes, gallbladder disease, and liver disease (all p ≤ 5.2 × 10 -4 ) while ε2ε2 homozygosity increased risks of peripheral vascular disease, thromboembolism, arterial aneurysm, peptic ulcer, cervical disorders, and hallux valgus (all p ≤ 6.1 × 10 -4 ). Sensitivity analyses using brain neuroimaging, blood biochemistry, anthropometric, and spirometric biomarkers supported the PheWAS findings on APOE associations with respective disease outcomes. Interpretation PheWAS confirms strong associations between APOE and AD, hypercholesterolaemia, and ischaemic heart disease, and suggests potential ε4-associated disease protection and harmful effects of the ε2ε2 genotype, for several conditions. Funding National Health and Medical Research Council of Australia.",
+      "licence": "cc by-nc-nd",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.9,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Structure-aware fatigue modeling in foot deformities: A digital health framework for tissue-specific running injury risk prediction using multi-modal data",
+      "url": "https://doi.org/10.1371/journal.pdig.0001537",
+      "publisher": "PLOS Digital Health",
+      "year": "2026",
+      "doi": "10.1371/journal.pdig.0001537",
+      "abstract": "Hallux Valgus (HV) is a common deformity in runners that reflects altered foot morphology and thereby redistributes mechanical loads along the lower limb, possibly increasing injury risk. However, the biomechanical consequences of this deformity on loading at common running injury locations, and the resulting fatigue-failure injury risk remain undocumented. This study integrated gait analysis with subject-specific musculoskeletal modelling to estimate Achilles tendon, plantar fascia, patellofemoral, and tibial loading and probability of fatigue-failure during running at 12 km/h in a cohort of 26 runners with HV and 26 healthy controls. HV runners exhibited pronounced structural deviation, reflected by increased hallux valgus and intermetatarsal angles, and elevated Foot Posture Index scores. During running, HV runners showed reduced ankle and metatarsophalangeal range of motions and increased peak joint moments (ankle p = 0.004; MTP p = 0.003). These biomechanical alterations were associated with higher Cumulative Load, Cumulative Damage, and Probability of Fatigue Failure, particularly in the Achilles tendon and plantar fascia, whereas tibial loading was largely similar to individuals without HV. To enable individualized prediction of biomechanical loading at the four injury locations, we trained deep learning models that used IMU input data (Model 1) or IMU plus foot structure data (Model 2). Model 1 (SSO–CNN–BiLSTM–HAM) accurately estimated loading indices (R² = 0.89–0.93), and Model 2 further enhanced predictive accuracy (R² = 0.94–0.97). Collectively, these findings suggest that HVA and foot posture index-related structural deviations increase lower-limb loading patterns and accelerate tissue fatigue-failure probability. Author summary: Foot deformities are common in the general population, and hallux valgus is one of the most prevalent conditions. Although often considered a mild structural alteration, hallux valgus can influence the leg loading patterns during daily movement and sports such as running. Over time, these altered loading patterns may contribute to increased mechanical demand on key musculoskeletal tissues, such as the Achilles tendon and plantar fascia, potentially elevating the risk of overuse-related injury. However, because the biomechanical consequences of foot deformities remain largely undocumented, we quantified the biomechanical alterations in loading at common running injury locations in individuals with hallux valgus during running.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Early postoperative activity tracking shows excessive ambulation and poor adherence to recommendations after hallux valgus surgery",
+      "url": "https://hal.science/hal-05594606v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2026",
+      "doi": "10.1016/j.otsr.2026.104689",
+      "abstract": "Background: Currently, there is limited information regarding postoperative adherence to surgeon recommendations following hallux valgus surgery. This prospective study aimed to assess early postoperative ambulation and adherence to recommendations using a GPS-enabled wearable device during the postoperative period. Hypothesis: We hypothesized that patients undergoing hallux valgus surgery would exhibit high postoperative activity levels and poor adherence to surgeon recommendations. Patients and methods: A prospective, single-center cohort study was conducted from February to July 2024, including 24 consecutive patients (8 males, 16 females; mean age 53.2 ± 8.3 years) undergoing minimally invasive hallux valgus surgical correction (distal chevron osteotomy, and Akin). A GPS tracker with a 3-axis accelerometer was incorporated into the postoperative dressing, recording step count, movement duration, and location from postoperative Days 1-5. Patients were recommended home rest for the first five postoperative days and to limit ambulation using a postoperative shoe, restricted to essential activities. Adherence to recommendations was assessed based on recorded activity levels and distances traveled. Pain was monitored using a visual analog scale. Results: Patients exhibited high postoperative ambulation. In total (17/24) 70% engaged in outdoor activity beyond 1 km, and (11/24) 47% walked more than 2000 steps per day. Step count increased significantly from 1797 ± 2397 on Day 1-2937 ± 2140 on Day 5 (p = 0.002). Activity duration also increased from 164 ± 88 min on Day 1-222 ± 95 min on Day 4 (p = 0.002). Pain levels exhibited a significant inverse relationship with activity duration (ρ = -0.26 (p = 0.01)). No postoperative complications were observed at follow-up. Discussion: Our study showed high activity levels and poor compliance with postoperative recommendations following hallux valgus surgery during the early postoperative phase. Despite the absence of complications, these findings do not support relaxing postoperative activity restrictions based on this limited cohort. GPS-based wearable tracking might have a potential role in improving postoperative surveillance and refining patient care guidelines.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Correlation between first tarsometatarsal joint mobility and hallux valgus severity",
+      "url": "https://hal.science/hal-03673659v1",
+      "publisher": "International Orthopaedics",
+      "year": "2022",
+      "doi": "10.1007/s00264-021-05173-4",
+      "abstract": "Purpose: The mobility of the first tarsometatarsal (TMT1) is said to be correlated to the severity of hallux valgus determined using both clinical and radiographic criteria. The sagittal mobility of the TMT1 joint can be evaluated objectively using a new ultrasound test, which quantifies it in the form of a unitless value (ratio of two measurements). The objective of this study was to describe the relationship between TMT1 mobility on an ultrasound test and hallux valgus severity. Hypothesis TMT1 joint mobility increases with hallux valgus severity. Patients and methods: Forty-nine feet were included that were being treated for isolated hallux valgus and had no evidence of TMT1 hypermobility based on the dorsal drawer test. For each foot, the presence and intensity of load transfer (LT), the intermetatarsal angle (IMA), and the hallux valgus angle (HVA) were determined. Lastly, TMT1 mobility was evaluated with the ultrasound test. Results: Clinically, no LT was present in 20 feet; it was present only under M2 in 20 feet and reached at least M3 in the other nine feet. The mean IMA on radiographs was 14.6° and the mean HVA was 34.5°. The value of the ultrasound test was significantly different between the three groups of clinical hallux valgus severity: 1.17 with no LT, 1.31 with isolated M2 LT, and 1.72 when LT was at least at M3. Furthermore, this value was correlated with the IMA but not the HVA. Discussion: This study revealed a relationship between increased TMT1 mobility and hallux valgus severity based on clinical (LT) and radiographic (IMA) criteria. Thus, our working hypothesis is confirmed. However, there was no correlation between TMT1 mobility and HVA suggesting that this angle is less relevant for determining the severity of the condition. This is consistent with the classical pathophysiological concept of metatarsus primus varus where the hallux valgus originates in a metatarsus varus in the tarsometatarsal area. Conclusion: The severity of hallux valgus is correlated with increased mobility of the TMT1 joint, which appears to have a causal role in this condition.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Hallux Valgus in Adolescents: A Retrospective and Descriptive Study",
+      "url": "https://hal.science/hal-05200391v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Hallux valgus is the deviation of the first metatarsal in varus and the big toe in valgus. Through a retrospective study we analyzed 10 feet managed fr hallux valgus between January 2014 and March 2020. The average age was 14 years with female predominance. Patients reported pain and the deformation. Idiopathic origin was the most frequent. The average of M1P1 angle was 44.08°, the M1M2 angle was 14. 05°.The mean DMAA value was 18.8°, and the mean M1M5 angle was 32.4°. Sesamoid class 1 was found in six feet (60%), four others had sesamoid class 2 (40%). Seven feet had dislocated or subluxated non-congruent metatarsophalangeal joints with a percentage of 70%. The average medial arch measurement was 110°, the average angle of attack of M1 was 20.87°. All patients underwent uneventful surgery. McBride surgery was performed on two feet. A stabilized re-axation osteotomy with K-wires associated with a release of the abductor hallux was performed in six feet out of the other eight. In these eight, 40% had a chevron osteotomy, 30% had a Mitchell Osteotomy and 10% had a modified Scarf Osteotomy. They resumed walking on the heel immediately with a 6weeks boot cast. The mean value of the M1P1 angle decreased from 44.08° pre-operatively to 15.46° post-operatively with a reduction rate of 64.92%. Given the immaturity of the child's skeleton, the surgical treatment of hallux valgus must be as innocuous as possible.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Third-Generation Minimally Invasive Chevron and Akin Osteotomies (MICA) in Hallux Valgus Surgery: Two-Year Follow-up of 292 Cases",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8265548/",
+      "publisher": "The Journal of bone and joint surgery. American volume",
+      "year": "2021",
+      "doi": "10.2106/jbjs.20.01178",
+      "abstract": "Background There is interest in hallux valgus deformity correction using internal fixation with the minimally invasive chevron and Akin osteotomies (MICA) technique. The objective of this study was to assess the correction measured on postoperative radiographs and clinical outcomes, using validated outcome measures, at 2 years following third-generation MICA. Methods This is a prospective single-surgeon case series of 333 consecutive feet that underwent MICA surgery between July 2014 and April 2018. The primary clinical outcome measures included the Manchester-Oxford Foot Questionnaire (MOXFQ), EuroQol-5 Dimensions-5 Level (EQ-5D-5L) Index, EuroQol-visual analogue scale (EQ-VAS), and a VAS for pain (VAS-pain). Secondary outcome measures included radiographic parameters and complication rates. Results Preoperative and 2-year postoperative patient-reported outcome measures (PROMs) were collected for 292 feet (87.7%). At a minimum 2-year follow-up, the MOXFQ scores (mean ± standard deviation [SD]) had improved in each domain-i.e., reduced from 44.5 ± 21.0 preoperatively to 9.4 ± 15.8 postoperatively for pain (p Conclusions The third-generation MICA provided significant improvement in clinical outcome measures at the 2-year follow-up and can be successfully used for correction of a range of hallux valgus deformities with a low rate of symptomatic recurrence. Level of evidence Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "PAPPI: Personalized analysis of plantar pressure images using statistical modelling and parametric mapping",
+      "url": "https://doi.org/10.1371/journal.pone.0229685",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0229685",
+      "abstract": "Quantitative analyses of plantar pressure images typically occur at the group level and under the assumption that individuals within each group display homogeneous pressure patterns. When this assumption does not hold, a personalized analysis technique is required. Yet, existing personalized plantar pressure analysis techniques work at the image level, leading to results that can be unintuitive and difficult to interpret. To address these limitations, we introduce PAPPI: the Personalized Analysis of Plantar Pressure Images. PAPPI is built around the statistical modelling of the relationship between plantar pressures in healthy controls and their demographic characteristics. This statistical model then serves as the healthy baseline to which an individual’s real plantar pressures are compared using statistical parametric mapping. As a proof-of-concept, we evaluated PAPPI on a cohort of 50 hallux valgus patients. PAPPI showed that plantar pressures from hallux valgus patients did not have a single, homogeneous pattern, but instead, 5 abnormal pressure patterns were observed in sections of this population. When comparing these patterns to foot pain scores (i.e. Foot Function Index, Manchester-Oxford Foot Questionnaire) and radiographic hallux angle measurements, we observed that patients with increased pressure under metatarsal 1 reported less foot pain than other patients in the cohort, while patients with abnormal pressures in the heel showed more severe hallux valgus angles and more foot pain. Also, incidences of pes planus were higher in our hallux valgus cohort compared to the modelled healthy controls. PAPPI helped to clarify recent discrepancies in group-level plantar pressure studies and showed its unique ability to produce quantitative, interpretable, and personalized analyses for plantar pressure images.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A PARTIAL FUNCTIONAL RESTORATION AFTER HALLUX VALGUS CORRECT SURGERY - A CONTROLLED PRELIMINARY STUDY",
+      "url": "https://hal.science/hal-02933343v1",
+      "publisher": "International Journal of Physiotherapy",
+      "year": "2020",
+      "doi": "10.15621/ijphy/2020/v7i4/746",
+      "abstract": "Introduction: Hallux valgus is the most common condition found in the foot, caused by a progressive failure of the first ray stabilization means. The hallux is deviated into valgus, the first metatarsal into varus, and their association leads to a subluxation of the metatarsophalangeal joint of the first ray. Surgery is a treatment frequently used to correct this condition. So, is the static postural balance altered after corrective surgery? Materials and Method: 23 subjects participated in the study, all women, divided into two groups: control and hallux valgus. The hallux valgus group was evaluated three months post-operatively. Bipodal tests were carried out on a stabilometry platform, one with eyes open and one with eyes closed. The pressure center parameters were recorded and analyzed, such as the length or the area of the pressure center. Results: The results obtained showed significant differences between the two groups and were statistically significant, with a p-value of 0,05. The pressure center values are higher in the hallux valgus group. Conclusion: Some results found in the literature agree with the results of the present study. There are significant deficits in the static postural balance three months after corrective surgery. Other studies with a larger sample may be performed to confirm or not the results of this study.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "An assessment of the information lost when applying data reduction techniques to dynamic plantar pressure measurements",
+      "url": "https://zenodo.org/records/3521455",
+      "publisher": "Journal of Biomechanics",
+      "year": "2019",
+      "doi": "10.5281/zenodo.3521455",
+      "abstract": "Data reduction techniques are commonly applied to dynamic plantar pressure measurements , often prior to the measurement’s analysis. In performing these data reductions, information is discarded from the measurement before it can be evaluated, leading to unkonwn consequences. In this study, we aim to provide the first assessment of what impact data reduction techniques have on plantar pressure measurements. Specifically, we quantify the extent to which information of any kind is discarded when performing common data reductions. Plantar pressure measurements were collected from 33 healthy controls, 8 Hallux Valgus patients, and 10 Metatarsalgia patients. Eleven common data reductions were then applied to the measurements, and the resulting datasets were compared to the original measurement in three ways. First, information theory was used to estimate the information content present in the original and reduced datasets. Second, principal component analysis was used to estimate the number of intrinsic dimensions present. Finally, a permutational multivariate ANOVA was performed to evaluate the significance of group differences between the healthy controls, Hallux Valgus, and Metatarsalgia groups. The evaluated data reductions showed a minimum of 99.1% loss in information content and losses of dimensionality between 20.8% and 83.3%. Significant group differences were also lost after each of the 11 data reductions (alpha = 0.05), but these results may differ for other patient groups (especially those with highly-deformed footprints) or other region of interest definitions. Nevertheless, the existence of these results suggest that the diagnostic content of dynamic plantar pressure measurements is yet to be fully exploited.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Road to Recovery for Bunion Surgery",
+      "url": "https://doi.org/10.1177/2473011417S000275",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2017",
+      "doi": "10.1177/2473011417S000275",
+      "abstract": "Category: Bunion, Midfoot/Forefoot Introduction/Purpose: Patient reported outcomes (PROs) can provide information on individual patient’s progress throughout a treatment course and additionally, with common surgeries, powerful numbers can be generated to provide data analytic curves to provide a recovery road map for patients and surgeons. Those who deviate negatively from the predicted path may have a complication and early intervention can be initiated. Those who deviate positively have the potential to need less physical therapy, early return to sports or work. Hallux valgus (HV) is a common condition of the foot with 4.4 million patients seeking care yearly and surgery is equally common. The purpose of this study was to determine if PROMIS PROs can be used to construct data analytic curves for HV surgery. Methods: PROMIS scores were prospectively obtained from patients evaluated in a specialty foot and ankle clinic between February 2015 and November 2016. Using ICD-9/10 and CPT codes, a total of 65 patients with hallux valgus who underwent a bunionectomy by a single surgeon were identified. Those with less than two-month follow-up, multiple procedures during the follow-up period, as well as incomplete PROMIS assessment scores at any time point were excluded, resulting in 34 patients. Using a previously described method, bunionectomy-specific pre-operative cut-off values to achieve and fail to achieve minimally clinically important differences (MCID) in PF with 95% specificity and 95% sensitivity were determined. We then stratified patients based on their pre-operative PF T-scores as above or below the MCID cut-off. PF was evaluated using two-way ANOVA at 4 follow-up time periods and pre-operative cut-offs (above or below MCID cut-off) as factors to establish data analytic curves based on pre- operative scores. Results: Bunionectomy-specific PF cut-off for 95% specificity of exceeding MCID was 39.6 and 50.2 for 95% sensitivity for failing to achieve MCID. Patients were stratified based on PF T-scores above (n = 13) or below (n = 21) the MCID cut-off of 50.2. Data analytic curves were generated for above the PF cut off and below PF cut off. (Figure 1) Pairwise comparison demonstrated that those starting with a T-score above the bunionectomy specific cut-off had significantly better PF pre-operatively (p < 0.01) and again at 6-12 week follow-up (p = 0.02). There were no differences at 1 week or 3-4 week follow-up time points. Conclusion: This data confirms pre-operative PROMIS PF scores are significant post-operative predictors. While patients with pre-operative scores below the bunionectomy-specific cut-off met MCID changes in PF, their T-scores were significantly lower at 6-12wk follow-up than patients with high pre-operative T-scores. Although longer term follow-up is desirable, this short term follow up suggests a significant clinical impact of using PROMIS scores for pre-surgical decisions as well as provides a road map for recovery for patients and surgeons.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Evaluation of occurrence of hallux valgus based on images from podoscope in children",
+      "url": "https://zenodo.org/records/821702",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.821702",
+      "abstract": "Sztandera Paulina, Szczepanowska-Wołowiec Beata, Kotela Ireneusz. Evaluation of occurrence of hallux valgus based on images from podoscope in children. Journal of Education, Health and Sport. 2017;7(6):480-491. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.821702 http://ojs.ukw.edu.pl/index.php/johs/article/view/4572 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 03.06.2017. Revised: 20.06.2017. Accepted: 30.06.2017. Evaluation of occurrence of hallux valgus based on images from podoscope in children Paulina Sztandera 1 , Beata Szczepanowska-Wołowiec 2, 3 , Ireneusz Kotela 2, 4 1 Doctoral Studies, Faculty of Medicine and Health Science, Jan Kochanowski University, Kielce, Poland 2 Department of Rehabilitation in Disease of the Locomotor, Institute of Physiotherapy, Faculty of Medicine and Health Science, Jan Kochanowski University, Kielce, Poland Head of the Department: Prof. Ireneusz Kotela MD, PhD 3 Rehabilitation Department, Regional Polyclinical Hospital, Kielce, Poland Head of the Department: Grażyna Ściegienna-Zdeb MD 4 Clinical Department of Orthopedics and Traumatology, Central Clinical Hospital of the Ministry of the Interior, Warsaw, Poland Head of the Department: Prof. Ireneusz Kotela MD, PhD Key word: podoscope, children, hallux valgus angle Abstract Inroduction and aim of the study. Hallux valgus is a deformity where there is a lateral deviation of the proximal phalanx of the big toe. The objective of the study was investigation of the occurrence of hallux valgus based on the image from a podoscope in children, examination of the effect of ill-fitted footwear on the development of this complaint. Material and method The study covered 184 children, aged 7-13. The children were examined in their underwear, without shoes and socks. Body weight and body height was measured. The image of the feet on a podoscope was done at full load. The hallux valgus angle α, the Clarke’s angle and the Wejsflog’s index were calculated. The software calculated the correct size of the footwear which should be worn by the children. This size was compared with the size of the shoes which a child had during the examination. Results. The problem of hallux valgus affects 26% of the children. Hallux valgus more frequently concerned the left foot. In 8% of cases hallux valgus concerned both feet. Conclusions. Hallux valgus in the examined group more often concerned girls than boys. The hallux valgus angle α increased with age. Children who had a normal hallux valgus angle α had higher values of the Clarke’s angle. In the group of children examined, no statistically significant relationship was found between hallux valgus angle α and the fitting of footwear, Wejsflog’s index and the BMI.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Resultados a corto plazo con la osteotomía de Mitchell en el hallux valgus",
+      "url": "http://www.redalyc.org/articulo.oa?id=211131570009",
+      "publisher": "Archivo Médico de Camagüey",
+      "year": "2014",
+      "doi": "",
+      "abstract": "Fundamento: s e han propuesto múltiples técnicas quirúrgicas para el metatarso primo varo en el hallux valgus, pero la sola acción sobre la articulación metatarsofalángica es insuficiente en presencia de un metatarso primo varo. Objetivo: evaluar los resultados con la o steotomía de Mitchell en pacientes con hallux valgus. Método: se realizó un estudio observacional, de tipo descriptivo prospectivo a un grupo de pacientes con el diagnóstico de hallux valgus, operados con la osteotomía de Mitchell en el Hospital Militar U niversitario Octavio de la Concepción y de la Pedraja de Camagüey, durante 36 meses desde octubre de 2009 hasta septiembre de 2012 y el tiempo de seguimiento de los pacientes fue de 12 meses. El universo lo conformaron 102 pies de 60 enfermos y la muestra no probabilística quedó constituida por 84 pies de 48 pacientes. Las variables de estudio fueron la edad, sexo, si fue bilateral o unilateral y las complicaciones. Resultados: predominó el grupo de edades entre 30 y 50 años para un 58, 3 %; el sexo más af ectado fue el femenino con un 79,1 %; fueron bilaterales un total de 36 pacientes para un 75, 1 %; y los resultados de la osteotomía de Mitchell fueron excelentes y buenos en el 90, 6 % del total de pacientes operados. Conclusiones: la osteotomía de Mitch ell demostró ser excelente y aún es una de las preferidas para corregir el hallux valgus.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Foot disorders, foot posture, and foot function: the Framingham foot study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3764219/",
+      "publisher": "PloS one",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0074364",
+      "abstract": "Introduction Foot disorders are common among older adults and may lead to outcomes such as falls and functional limitation. However, the associations of foot posture and foot function to specific foot disorders at the population level remain poorly understood. The purpose of this study was to assess the relation between specific foot disorders, foot posture, and foot function. Methods Participants were from the population-based Framingham Foot Study. Quintiles of the modified arch index and center of pressure excursion index from plantar pressure scans were used to create foot posture and function subgroups. Adjusted odds ratios of having each specific disorder were calculated for foot posture and function subgroups relative to a referent 3 quintiles. Results Pes planus foot posture was associated with increased odds of hammer toes and overlapping toes. Cavus foot posture was not associated with the foot disorders evaluated. Odds of having hallux valgus and overlapping toes were significantly increased in those with pronated foot function, while odds of hallux valgus and hallux rigidus were significantly decreased in those with supinated function. Conclusions Foot posture and foot function were associated with the presence of specific foot disorders.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.12,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Hallux Valgus Bursitis: Clinical Presentation and Management of a Rare Case",
+      "url": "https://hal.science/hal-05377496v1",
+      "publisher": "International Journal of Medical and Pharmaceutical Case Reports",
+      "year": "2025",
+      "doi": "",
+      "abstract": "Background: Hallux valgus is a common forefoot deformity characterized by lateral deviation and valgus rotation of the great toe, often associated with bunion formation. The condition usually develops due to medial deviation of the first metatarsal, lateral deviation or rotation of the hallux, and soft tissue hypertrophy over the first metatarsal head. This deformity is frequently seen in young women and can cause severe pain, gait disturbance, and progressive functional disability if left untreated. Case Presentation: We report the case of a 25-year-old female who presented with severe pain over the right first metatarsophalangeal (MTP) joint for two months, associated with difficulty in walking and intermittent fever. Clinical evaluation confirmed hallux valgus deformity with bunion formation, resulting in significant restriction of daily activities. Considering the severity of deformity, degenerative changes of the MTP joint, and the alignment of the metatarsal and phalanges, corrective osteotomy was performed. The postoperative course was uneventful, with significant improvement in pain and mobility. Conclusion: This case highlights that hallux valgus is not merely a cosmetic concern but a disabling condition requiring timely management. Surgical correction, particularly osteotomy, provides effective relief in young symptomatic patients when conservative treatment fails. Early recognition, patient education, and appropriate treatment are essential to restore function, prevent disease progression or worsening of the deformity.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.9,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Percutaneous Chevron and Akin (PECA) Osteotomy for Bilateral Hallux Valgus: A Case Report and Literature Review",
+      "url": "https://hal.science/hal-05143388v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2025",
+      "doi": "",
+      "abstract": "Background: Hallux valgus, the lateral angulation of the big toe toward the lesser toes—commonly known as a bunion—is a complex foot deformity that can be considered in three planes: frontal, transverse, and sagittal. Coronal plane deformity, characterized by pronation of the first metatarsal, is present in up to 87% of individuals with hallux valgus. Its etiology is multifactorial, with clinical manifestations typically occurring between the third and fifth decades of life in approximately 65% of the population. Aims: This article aims to report a case of percutaneous surgical treatment of hallux valgus in a young patient with bilateral symptoms, highlighting the surgical technique employed, the clinical and radiographic outcomes, and discussing, based on current scientific literature, the indications, advantages, and limitations of the percutaneous approach compared to traditional open techniques. Presentation of Case: A 34-year-old female patient presented with bilateral pain and a bony prominence along the medial border of both feet, with symptom onset approximately two years prior. The discomfort was associated with difficulty wearing closed shoes and aesthetic concerns. Radiographic evaluation prior to surgery revealed an intermetatarsal angle (IMA) of 13° and a metatarsophalangeal angle (MPA) of 14°, indicating a moderate to severe deformity. The patient underwent bilateral percutaneous Chevron and Akin osteotomies (PECA) in early 2025. The procedure was uneventful. Postoperative radiographs demonstrated significant correction, with the IMA reduced to 7° and the MPA to 1°, confirming satisfactory anatomical alignment. Regarding pain, the patient reported a preoperative Visual Analog Scale (VAS) score of 8, which decreased substantially to 1 within the first postoperative week, indicating excellent pain control. Postoperatively, the patient initiated protected weight-bearing using a Barouk sandal during the first week. Full weight-bearing was allowed after one week, with painless and progressive recovery. Discussion: Hallux valgus, commonly referred to as a bunion, is a foot deformity characterized by lateral deviation of the hallux and medial deviation of the first metatarsal. It is frequently associated with pain, discomfort when wearing footwear, and functional limitations. The condition has a multifactorial etiology, with a higher prevalence among older women. Initial management typically involves conservative treatment, including orthotics, physical therapy, and footwear modifications. However, when conservative measures fail, surgical correction becomes indicated. In recent years, minimally invasive techniques such as percutaneous Chevron and Akin (PECA) have gained prominence due to their favorable outcomes. Compared to conventional open procedures, the PECA technique offers several advantages, including smaller incisions, reduced soft tissue trauma, faster recovery, lower postoperative pain levels, and fewer wound complications. Nonetheless, successful outcomes depend on appropriate patient selection, precise surgical planning, and adequate surgeon training, as the learning curve for minimally invasive techniques can be steep. This case is particularly relevant as it involves a young patient, a demographic less frequently discussed in the current literature, which typically focuses on older populations. Conclusion: The success of this procedure was attributed to accurate indication, meticulous surgical planning, and the surgeon’s proficiency with the percutaneous technique. This case also reinforces the importance of health education, both for patients—who must be informed about their therapeutic options—and for medical professionals, who need continuous updates on advances, benefits, and limitations of minimally invasive techniques for hallux valgus correction. Sharing this case contributes to the growing body of evidence supporting the PECA technique as a safe, effective, and less invasive alternative to traditional approaches. Furthermore, it demonstrates how this method can result in excellent functional and aesthetic outcomes, even in younger patients, with significant pain reduction and rapid postoperative recovery.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.9,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Impact of coronal and sagittal hindfoot alignment on metatarsus primus elevatus in patients with rheumatoid foot deformities",
+      "url": "https://doi.org/10.1186/s12891-025-09112-x",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2025",
+      "doi": "10.1186/s12891-025-09112-x",
+      "abstract": "Abstract Background Typical foot deformity patterns of patients with rheumatoid arthritis (RA) include hallux valgus, claw toes, splay foot, flat foot, and hindfoot valgus deformities. However, some patients present deformities that are different from a typical pattern, such as metatarsus primus elevatus, described as dorsal elevation of the first metatarsal in relation to the lesser metatarsals. We speculated that metatarsus primus elevatus might be associated with calcaneal inclination and hindfoot varus alignment; however, studies on the association of hindfoot alignment with metatarsus primus elevatus in patients with RA are limited. Objective To elucidate the impact of hindfoot coronal and sagittal alignment on metatarsus primus elevatus in patients with RA. Methods We performed a retrospective analysis of weight-bearing anteroposterior and lateral radiographs of 58 patients (112 feet) with rheumatoid foot deformities who underwent surgery. The degree of metatarsus primus elevatus (dMPE) was assessed based on the distance between the dorsal cortical bones of the first and second metatarsals, as measured on lateral radiographs. The intermetatarsal angle between the first and second metatarsals (M1M2), calcaneal pitch, and the naviculocuboid (N/C) overlap ratio were assessed. Patients were divided into four subgroups representing dMPE quartiles (Q1–Q4) as closely as possible. Analysis of covariance was used to calculate the adjusted means of the radiographic parameters. Logistic regression was used to assess the association between clinical and radiographic parameters and the risk of being in the highest dMPE quartile (i.e., Q4). Results The median dMPE in patients with RA was 2.0 mm (interquartile range, 0.2–5.4 mm). Analysis after adjusting for sex, age, body mass index, and disease duration revealed that the M1M2 angle and N/C overlap ratio in the Q4 subgroup were significantly smaller than those in the Q1 subgroup (p < 0.01 for both parameters). Only the N/C overlap ratio showed a significant inverse association with the risk of being in Q4 (adjusted odds ratio: 0.94, 95% confidence interval: 0.91–0.97). Conclusion A subset of patients with RA exhibits metatarsus primus elevatus, which is associated with hindfoot alignment. Recognizing this less common deformity pattern is important when planning treatment strategies for the rheumatoid foot.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Validity and Reliability of a New Simple Instrument for the Measurement of First Ray Mobility",
+      "url": "https://www.mdpi.com/1424-8220/20/8/2207",
+      "publisher": "Sensors",
+      "year": "2020",
+      "doi": "10.3390/s20082207",
+      "abstract": "Several methods have been described to quantify the first ray mobility. They all have certain disadvantages (great size, sophistication, or lack of validation). The objective of this work was to study the validity and reliability of a new instrument for the measurement of first ray mobility. Anterior-posterior radiographs were obtained from 25 normal feet and 24 hallux valgus feet, with the first ray in a neutral position, maximally dorsiflexed and maximally plantarflexed. The first ray mobility was radiographicaly measured in both groups, and was also manually examined with the new device. A cluster analysis determined whether normal and hallux valgus feet were correctly classified, and a graphic analysis of Bland-Altman was performed to compare the radiographic and manual measurement techniques. Based on the radiographs, the first ray mobility only showed significant differences in dorsiflexion between both groups ( P = 0.015). First ray dorsiflexion, plantarflexion and total range of motion measured with the new device were different between both groups ( P = 0.040, P = 0.011 and P = 0.006, respectively). The silhouette measure of the cohesion and separation coefficients from the cluster analysis was greater than 0.50 for the dorsiflexion, plantarflexion and total range of motion obtained from the radiographs and from the new device. The Bland-Altman graph suggested that 96% of the data presented agreement between both measurement methods. These results suggested that the new instrument was valid and reliable.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Relationship of the Lapidus Intramedullary Nail to Neurologic and Tendinous Structures in the Foot: An Anatomic Study",
+      "url": "https://doi.org/10.1177/2473011419S00394",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2019",
+      "doi": "10.1177/2473011419S00394",
+      "abstract": "Category: Bunion, Midfoot/Forefoot Introduction/Purpose: The lapidus procedure is a longstanding operation performed for the treatment of hallux valgus deformity with a concomitant hypermobile first ray. Orthopaedic surgeons have a myriad of options to choose from in performing the lapidus procedure. The implantation of orthopaedic implants comes with the risk of iatrogenic injury to surrounding anatomy. Several cadaveric studies in the humerus and femur have described potential neurovascular structures at risk during placement of intramedullary nail systems. The purpose of this study was to determine the proximity of nail insertion and interlocking mechanisms in the Lapidus Phantom Intramedullary Nail System (Paragon 28, Inc.) to neurologic and tendinous structures in the foot. Methods: A titanium intramedullary nail was inserted from the first metatarsal to the medial cuneiform spanning the first tarsometatarsal joint in 10 fresh-frozen cadaver feet. K-wires were inserted in the proximal lateral, proximal medial, and distal medial-to-lateral interlock screw paths. The tibialis anterior tendon, extensor hallucis longus tendon, and superficial peroneal nerve were carefully dissected and exposed, and the distance from each of these anatomic landmarks were then measured and recorded from four different aspects of the nail: Proximal lateral interlocking screw path, proximal medial interlocking screw path, nail insertion, distal interlocking screw path. Distances were averaged, ranges were determined. Results: The tibialis anterior tendon was in closest proximity to the proximal medial interlock K-wire with an average distance of 0.4 mm. The proximal medial interlock bisected the tibialis anterior tendon in three of the specimens. The extensor hallucis longus tendon was in closest proximity to the nail insertion with an average distance of 1.2 mm. A branch of the superficial peroneal nerve was in closest proximity to the distal interlock K-wire with an average distance of 7.5 mm, however, the nerve came in direct contact with the proximal medial interlock K-wire in two of the specimens. Conclusion: The Lapidus intramedullary nail’s proximal medial interlock screw poses the greatest threat to the tibialis anterior tendon, with the distance from the tendon to the interlock K-wire being 3 mm or less in all specimens tested. The extensor hallucis longus tendon is at risk of injury with insertion of the nail. Medial to lateral interlocking poses the greatest danger to a branch of the superficial peroneal nerve. Blunt dissection should be performed using this system with a path to bone before instrumentation to reduce the risk of nerve and tendon injury in the foot.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Prevalence of Hallux Rigidus and its Risk Factors",
+      "url": "https://doi.org/10.1177/2473011419S00377",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2019",
+      "doi": "10.1177/2473011419S00377",
+      "abstract": "Category: Midfoot/Forefoot Introduction/Purpose: Hallux rigidus (HR) is known as osteoarthritis of the first metatarsophalangeal joint (MPJ). The radiographical findings of HR are characterized by joint space narrowing, osteophytic lipping of the metatarsal head and proximal phalanx and sesamoid hypertrophy. HR is not so rare in daily medical practice, but its prevalence and risk factors are not completely understood. The purpose of this cross-sectional study, using a population-sample from Japan, is to investigate the prevalence of HR and its risk factors among Japanese community dwellers. Methods: In this study, we analyzed the cohort studies in 2009, 2011, 2013 and 2015 covering the elderly (=50 years). We excluded the participants with hallux valgus (HV) because it is difficult to distinguish HR from HV completely. Knee osteoarthritis (KOA) was scored according to the Kellgren-Lawrence grading system and was defined as grade=2. HR was scored according to the Hattrup and Johnson classification and was defined as grade=1. Continuous and categorical variables were compared using the t-test and chi-square test, respectively. The logistic regression model was used to examine the relationship between predictor variables and HR. The Cochran-Armitage trend test was used to examine the relationships between the presence or absence of HR and the severity of KOA in a linear trend. All p values presented are two-sided and p values < 0.05 were considered statistically significant. Results: A total of 416 (171 men, 245 women) participants fulfilled this study criterion. The prevalence of HR was 17.8%. The rate of grade0, grade1, grade2, and grade3 of HR were 82.2%, 10.1%, 6.7%, and 0.96%, respectively. Univariate analysis revealed age (=65), KOA, and Gout Attack (GA) were significantly associated with HR (Table 1). In addition, they were confirmed as independent risk factors of HR in the multivariate analysis. All parameters were significantly associated with HR. The odds ratio of age, KOA, and GA were 2.46, 1.83, and 4.87, respectively (p <0.05). KOA severity is significantly associated with the presence or absence of HR (p <0.05). Conclusion: While previous reports have demonstrated a higher prevalence of HR (27.2-44.4%), HV was not excluded in that study. To achieve the accurate evaluation, we examined the epidemiology and prevalence of HR among participants without HV. HR prevalence in the elderly (=50 years) was 17.8%. Although multifactorial risk factors have been proposed in the literature, our study revealed that age (=65), KOA, and GA were the independent risk factors for HR. KOA severity was associated with the presence or absence of HR.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The feet construction of 9-year-old children",
+      "url": "https://zenodo.org/records/1257530",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2018",
+      "doi": "10.5281/zenodo.1257530",
+      "abstract": "Szczepanowska-Wołowiec Beata, Sztandera Paulina. The feet construction of 9-year-old children . Journal of Education, Health and Sport. 2018;8(7):39-46. eISNN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.1256747 http://ojs.ukw.edu.pl/index.php/johs/article/view/5545 https://pbn.nauka.gov.pl/sedno-webapp/works/866417 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part b item 1223 (26/01/2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author(s) 2018; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author (s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non commercial license Share alike. (http://creativecommons.org/licenses/by-nc-sa/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 02.05.2018. Revised: 18.05.2018. Accepted: 31.05.2018. The feet construction of 9-year-old children Beata Szczepanowska-Wołowiec 1,2 , Paulina Sztandera 3 1 Department of Rehabilitation in Disease of the Locomotor, Institute of Physiotherapy, Faculty of Medicine and Health Science, Jan Kochanowski University, Kielce, Poland Head of the Department: Prof. Ireneusz Kotela MD, PhD 2 Rehabilitation Department, Regional Polyclinical Hospital, Kielce, Poland Head of the Department: Grażyna Ściegienna-Zdeb MD 3 Doctoral Studies, Faculty of Medicine and Health Science, Jan Kochanowski University, Kielce, Poland Beata Szczepanowska-Wołowiec ORCID ID 0000-0002-7051-3042, email: beatawolowiec@op.pl, Paulina Sztandera ORCID ID: 0000-0002-1848-562X, email: sztandera.paulina@gmail.com Abstract Introduction and purpose of the work, The human foot it is a very complex structure of the body, as it contains 26 bones, 19 muscles and 33 joints. Because of the cooperation all of those elements, the foot could fulfillthree basic functions such as load, amortization and locomotive functions. The aim of this research was to evaluate the feet construction in 9-year-old children from Masłów and Górno District. Material and method, The study involved 168 9-year-old children. There were 89 (53%) and boys 79 (47%) in the study group. The study was conducted in 2015/2016. The children were examined in schools after prior permission given by principals and parents or legal guardians. The body weight of the children was measured using the Tanita device and the body height was measured with the use of SECA. Then, the BMI index was calculated and compared to Centil grid presented in Olaf study. The plantar part of the foot was evaluated by 2D podoscanner. The relationship between the chosen parameters, sex and BMI was calculated. To examine the relationships, the author took advantage of nonparametric tests - Spearman’s rank correlation analysis, Manna-Whitneya-Wilcoxona test and χ 2 test. When the level of statistical significance equaled p <0.05. Results. Almost half of the examined feet reached the values of Clark angle which are an evidence of lower arch or flat feet. Transverse flat feet occurred in 15% cases, hallux valgus angle α beyond the norm was examined in 8% of feet. There was no statistically significant relationship between BMI and Clark angle or hallux valgus angle α. Normal values of Clark angle occurred more often in girls’ feet. In the study group there was no statistically significant relationship between Wejsflog index,hallux valgus angle α and BMI. Conclusions In study group there is no statistically significant relationship between BMI and Clark angle. The girls in the study group more frequently had normal values of Clark angle. Wejsflog index is slightly higher in girls’ feet. Children with higher BMI have lower values of Wejsflog index, which is an evidence of lower longitudinal and transverse arch. In the study group there was no statistically significant relationship between BMI, sex and hallux valgus angle α. Key words. longitudinal arch, transverse arch, feet.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The analysis of feet construction versus BMI in 8-year-old boys",
+      "url": "https://zenodo.org/records/995681",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.995681",
+      "abstract": "Szczepanowska-Wołowiec Beata, Sztandera Paulina. The analysis of feet construction versus BMI in 8-year-old boys. Journal of Education, Health and Sport. 2017;7(9):292-300. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.995681 http://ojs.ukw.edu.pl/index.php/johs/article/view/4844 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Authors 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 15.08.2017. Revised: 10.09.2017. Accepted: 10.09.2017. The analysis of feet construction versus BMI in 8-year-old boys Beata Szczepanowska-Wołowiec1,2, Paulina Sztandera3 1Department of Rehabilitation in Disease of the Locomotor, Institute of Physiotherapy, Faculty of Medicine and Health Science, Jan Kochanowski University, Kielce, Poland Head of the Department: Prof. Ireneusz Kotela MD, PhD 2Rehabilitation Department, Regional Polyclinical Hospital, Kielce, Poland Head of the Department: Grażyna Ściegienna-Zdeb MD 3Doctoral Studies, Faculty of Medicine and Health Science, Jan Kochanowski University, Kielce, Poland Beata Szczepanowska-Wołowiec ORCID ID 0000-0002-7051-3042, email: beatawolowiec@op.pl, Paulina Sztandera ORCID ID: 0000-0002-1848-562X, email: sztandera.paulina@gmail.com Abstract Introduction. The foot due to its complex structure provides three basic functions: supportive, locomotive and amortization. The human foot is an important static-dynamic part of the motor system. A properly shaped foot should be supported by three points: the first and the fifth metatarsal bone and the external part of the heel. Purpose of research. The aim of the study was to analyze the feet construction and find the relationships between the foot structure parameters and BMI among 8-year-old boys. Material and methods. The study involved 85 boys. The weight and the body height of the children were measured, body mass index was calculated, and the footprint using the was made. On the basis of the foot picture, the basic parameters for foot assessment as well as relations between these indicators and BMI were calculated. Subsequently, the Clarke angle, the hallux valgus angle and Wejsflog index were determined in manual way. Then the dependency between these parameters and BMI was investigated. Results. The number of lower foot arch or flat foot in the study group amounted to 53%, the transverse flat foot was observed among 17% of the studied boys feet and the hallux valgus angle beyond the norm occurred in 9% of the studied feet. There is a relationship between the Clark’s angle, Wejsflog index, hallux valgus angle α and BMI of boys. Conclusions. Boys with a higher BMI have lower values of the Clark angle and the Wejsflog index which are the evidence of a lower longitudinal and transverse arch. Children with higher BMI have higher values of the angle of hallux valgus α Keywords: foot arch, foot structure, children, BMI.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Geometry of the Proximal Phalanx of Hallux and First Metatarsal Bone to Predict Hallux Abducto Valgus: A Radiological Study.",
+      "url": "http://europepmc.org/articles/PMC5115701?pdf=render",
+      "publisher": "PLoS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0166197",
+      "abstract": "Hallux abducto valgus (HAV) is one of the most common forefoot deformities in adulthood with a variable prevalence but has been reported as high as 48%. The study proposed that HAV development involves a skeletal parameter of the first metatarsal bone and proximal phalanx hallux (PPH) to determine if the length measurements of the metatarsal and PPH can be used to infer adult HAV.All consecutive patients over 21 years of age with HAV by roentgenographic evaluation were included in a cross-sectional study. The control group included patients without HAV. The study included 160 individuals. We identified and assessed the following radiographic measurements to evaluate HAV: the distances from the medial (LDM), central (LDC), and lateral (LDL) aspects of the base to the corresponding regions of the head of the PPH. The difference between the medial and lateral aspect of PPH was also calculated.The reliability of the variables measured in 40 radiographic films show perfect reliability ranging from 0.941 to 1 with a small error ranging from 0.762 to 0. Also, there were no systematic errors between the two measurements for any variable (P > 0.05). The LDM PPH showed the highest reliability and lowest error.It is more suitable to measure the LDM PPH instead of the LDC PPH when calculating the hallux valgus angle based on our reliability results. When the differences of the medial and lateral PPH are greater, the risk for developing HAV increases.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Relationships between characteristics of the spine-pelvis system and feet in boys aged 7 to 13 years",
+      "url": "https://zenodo.org/records/51450",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.51450",
+      "abstract": "Mrozkowiak Mirosław, Sokołowski Marek. Relationships between characteristics of the spine-pelvis system and feet in boys aged 7 to 13 years . Journal of Education, Health and Sport. 2016;6( 5 ): 177 - 192 . eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.51450 http://ojs.ukw.edu.pl/index.php/johs/article/view/3520 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.04.2016. Revised 25.04.2016. Accepted: 14.05.2016. Relationships between characteristics of the spine-pelvis system and feet in boys aged 7 to 13 years 1 Mirosław Mrozkowiak, 2 Marek Sokołowski 1 Bioergonsport, Nowa Biała 8p, 09-411 Biała 2 Akademia Wychowania Fizycznego, ul. Królowej Jadwigi 27/39, Poznań Keywords: spatial characteristics of body trunk and feet. Abstract Introduction. Process of formation of physiological curvatures and foot arch should be considered spatially and with regard to several-level biokinetic chain formed by spine, pelvis and lower limbs. Huge variability and mutual relationships of parameters that describe this chain results from the effect of various stressors. Material and Method. 7,509 observations were obtained in the study from urban (5,033 or 67.02%) and rural areas (2,476 or 32.97%). Observations focused on 104 characteristics of the spine and pelvis system in individual age categories. In order to assess these parameters, the authors used a system for computer analysis of body posture that is designed based on the phenomenon of projection moire. Results. Statistical analysis revealed that among characteristics of pelvis and spine, the correlations with characteristics of feet are observed for: differences in the distance of inferior angles of the scapulae from spinous processes measured horizontally along the straight lines; angle of body inclination to the right in the frontal plane and maximum deviation of spinous process of the vertebra to the right. Furthermore, characteristics of feet which are most frequently correlated with parameters of pelvis-spine system are: fifth toe hallux valgus angle and toe varus deformity angle in the right feet. Conclusions 1. Mutual relationships between characteristics of feet and spine-pelvis system are incidental and random. 2. No regularities and logical relationships were found between the parameters of the pelvis-spine system and feet. No mutual effect on each other can be observed and the only observation is their coexistence.",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Ocena występowania wad stóp u dzieci w wieku 9-10 lat w środowisku miejskim i wiejskim = Estimate the prevalence the feet defects in children aged 9-10 years in the urban and rural environment",
+      "url": "https://zenodo.org/records/17211",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2015",
+      "doi": "10.5281/zenodo.17211",
+      "abstract": "Plaskiewicz Anna, Kałużny Krystian, Kochański Bartosz, Wołowiec Łukasz, Hagner Wojciech, Zukow Walery. Ocena występowania wad stóp u dzieci w wieku 9-10 lat w środowisku miejskim i wiejskim = Estimate the prevalence the feet defects in children aged 9-10 years in the urban and rural environment. Journal of Education, Health and Sport. 2015;5(4):325-334. ISSN 2391-8306. DOI: 10.5281/zenodo.17211 http://ojs.ukw.edu.pl/index.php/johs/article/view/2015%3B5%284%29%3A325-334 https://pbn.nauka.gov.pl/works/556080 http://dx.doi.org/10.5281/zenodo.17211 Formerly Journal of Health Sciences. ISSN 1429-9623 / 2300-665X. Archives 2011 – 2014 http://journal.rsw.edu.pl/index.php/JHS/issue/archive Deklaracja. Specyfika i zawartość merytoryczna czasopisma nie ulega zmianie. Zgodnie z informacją MNiSW z dnia 2 czerwca 2014 r., że w roku 2014 nie będzie przeprowadzana ocena czasopism naukowych; czasopismo o zmienionym tytule otrzymuje tyle samo punktów co na wykazie czasopism naukowych z dnia 31 grudnia 2014 r. The journal has had 5 points in Ministry of Science and Higher Education of Poland parametric evaluation. Part B item 1089. (31.12.2014). © The Author (s) 2015; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland and Radom University in Radom, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 15.02.2015. Revised 27.03.2015. Accepted: 10.04.2015. Ocena występowania wad stóp u dzieci w wieku 9-10 lat w środowisku miejskim i wiejskim Estimate the prevalence the feet defects in children aged 9-10 years in the urban and rural environment Anna Plaskiewicz 1 , Krystian Kałużny 1 , Bartosz Kochański 1 , Łukasz Wołowiec 2 , Wojciech Hagner 1 , Walery Żukow 3 1) Katedra i Klinika Rehabilitacji, Wydział Nauk o Zdrowiu, Uniwersytet Mikołaja Kopernika w Toruniu 2) Studenckie Koło Naukowe Diagnostyki i Terapii Niewydolności Serca, II Katedra Kardiologii, Wydział Nauk o Zdrowiu, Uniwersytet Mikołaja Kopernika w Toruniu 3) Wydział Kultury Fizycznej, Zdrowia i Turystyki, Uniwersytet Kazimierza Wielkiego w Bydgoszczy Streszczenie Wstęp. Wady stóp u dzieci są powszechnym problemem medyczno–społecznym w Polsce i na Świecie. Styl i szybkie tempo życia współczesnego człowieka wpływają niekorzystnie na postawę ciała, a stopy są szczególnie narażone na niekorzystny wpływ działania czynników środowiska zewnętrznego. Cel pracy. Celem pracy jest ocena występowania wad stóp u dzieci w wieku 9-10 lat w środowisku miejskim i wiejskim. Materiał i metody. Badaniami objęto grupę 40 dzieci w wieku 9-10 lat. Ze względu na miejsce zamieszkania dzieci podzielono na dwie grupy. Analizę stóp wykonano metodą platurograficzną polegającą na sporządzeniu odcisków podporowej powierzchni stopy. Oceniano wskaźniki opisujące wady stóp tj: wskaźnik „Ky” Sztritera-Godunowa, wskaźnik kątowy Clarke’a (CI), wskaźnik Wejsfloga, kąt piętowy oraz kąt koślawości palucha. Wyniki. Wśród przebadanych dzieci najczęstszą wadą stóp było płaskostopie. Zaobserwowano minimalnie mniej wad stóp u dzieci ze wsi w porównaniu z dziećmi mieszkającymi w mieście, jednak różnice nie są istotne statystycznie. Nie zaobserwowano różnic związanych z występowaniem wad stóp pomiędzy dziećmi ze wsi i z miasta. Wnioski. 1. Większość dzieci zarówno z miasta (65%) jak i ze wsi (75%) ma prawidłowo ukształtowane stopy. 2. Najczęstszą wadą stóp występującą wśród przebadanych dzieci jest płaskostopie. 3. Nie zaobserwowano istotnych różnic statystycznych w ocenie stóp pomiędzy dziećmi mieszkającymi w środowisku miejskim i wiejskim. Abstract Introduction. Feet defects in children is a common socio-medical problem in Poland and the world. Lifestyle of modern man adversely affect posture. The feet are particularly vulnerable to the adverse effects factors the external environment. Aim of the study . The aim of the study is to estimate the prevalence the feet defects in children aged 9-10 years in the urban and rural environment. Materials and methods. The study was conducted on 40 children aged 9-10 years. The children were divided into two groups according to their place of residence. Analysis of the feet were an approach to the preparation of the supporting surface of the feet prints. Evaluated indicators describing defects the feet: Sztriter - Godunov indicator, Clarke angle (CI), the Wejsflog indicator, heel angle and hallux valgus angle. Results. The most common feet defect of tested children is flat feet. Marginally less feet defect was observed in children from rural areas than in children from the city - however, the differences are not statistically significant. There is no difference associated with the presence of feet defects between children from urban and rural environment. Conclusions . 1. Most of the children, both from the city (65%) and from rural areas (75%) have a properly constructed foot. 2. The most common defect of feet among tested children is flat feet. 3. There were no statistically significant differences in the assessment of feet between children living in urban and rural environments. Słowa kluczowe: wady stóp, środowisko wiejskie, środowisko miejskie, dzieci. Keywords: feet defects, urban environment, rural environment, children.",
+      "licence": "cc-zero",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "HALLUX VALGUS AND HALLUX VARUS.",
+      "url": "https://doi.org/10.1016/s0140-6736(01)70615-0",
+      "publisher": "Elsevier BV",
+      "year": "1900",
+      "doi": "10.1016/s0140-6736(01)70615-0",
+      "abstract": "n/a",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "AN OPERATION FOR HALLUX VALGUS.",
+      "url": "https://doi.org/10.1016/s0140-6736(02)22557-x",
+      "publisher": "Elsevier BV",
+      "year": "1884",
+      "doi": "10.1016/s0140-6736(02)22557-x",
+      "abstract": "n/a",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Case report: Retronychia recurrence prevented by patient empowerment",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2667396724000430",
+      "publisher": "Foot & Ankle Surgery: Techniques, Reports & Cases",
+      "year": "2024",
+      "doi": "10.1016/j.fastrc.2024.100403",
+      "abstract": "Introduction: Retronychia is a unique type of nail ingrowth that has been described by De Berker and Renall in 1999. We present a case that was diagnosed and treated involving a multidisciplinary team consisting of dermatologist, radiologist, and a general surgeon. Furthermore, recurrence of such condition was prevented by patient education and empowerment. Case presentation: This is a young female who presented with two months history of right great toe pain and discharge. Antibiotic alone was prescribed but did not show improvement. She previously underwent left side nail avulsion for a similar complaint. In examination, she had tender hallux valgus of the right big toe, associated with turbid discharge from the nail bed. We confirmed the diagnosis of retronychia using ultrasound and treated the condition with nail avulsion. However, she had signs of recurrence during follow up, and we advised her to raise the distal end of the nail manually using a local anesthetic which was successful. Discussion: This unique condition needs timely diagnosis to choose the proper treatment. Treatment depends on the stage, and starts with topical steroids and eventually might end with nail avulsion. Recurrence is uncommon, unlike our case. We hypothesized that early lifting of the distal end of the nail can prevent full recurrence. This maneuver proved to be effective in our case and there was no recurrence. Conclusion: Retronychia is a new term that shares treatment with other nail disorders. Patient education and empowerment is crucial in the treatment. Further studies in that matter are needed.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.86,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Difficult diagnosis and genetic analysis of fibrodysplasia ossificans progressiva: a case report",
+      "url": "http://link.springer.com/article/10.1186/s12881-018-0543-7",
+      "publisher": "BMC Medical Genetics",
+      "year": "2018",
+      "doi": "10.1186/s12881-018-0543-7",
+      "abstract": "Abstract Background Fibrodysplasia ossificans progressiva (FOP), an ultra-rare and disabling genetic disorder of skeletal malformations and progressive heterotopic ossification, is caused by heterozygous activating mutations in activin A receptor, type I/activin-like kinase 2 (ACVR1/ALK2). The rarity of the disease makes it common to make a misdiagnosis and cause mismanagement. Case presentation We reported a case of a sixteen-year-old male patient who had suffered from pain and swelling in the biopsy site for two months. His physical examination presented serious stiffness and multiple bony masses in the body, with his bilateral halluces characterized by hallux valgus deformity and macrodactyly. Imaging examinations showed widespread heterotopic ossification. All laboratory blood tests were normal except for the one on alkaline phosphatase. A de novo heterozygous mutation (c.617G > A; p.R206H) were found in the ACVR1/ALK2 using gene sequencing. Conclusion Even though FOP is a rare disorder of genetic origin, which is generally misdiagnosed, the genetic analysis could provide definitive confirmation of the disease. Awareness of such an important approach can help clinicians to avoid the commonly practiced misdiagnosis and mismanagement of the rare disease.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.62,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Os Intermetatarseum May not Interfere with Metatarsus Primus Varus Deformity Correction: A Case Report",
+      "url": "https://doi.org/10.1016/j.jotr.2017.09.003",
+      "publisher": "Journal of Orthopaedics, Trauma and Rehabilitation",
+      "year": "2018",
+      "doi": "10.1016/j.jotr.2017.09.003",
+      "abstract": "It has been believed that the correction of metatarsus primus varus (MPV) deformity of hallux valgus foot using nonosteotomy procedures would be compromised by the presence of os intermetatarseum (OI). Therefore, no soft tissue procedure has ever been reported for the correction of MPV deformity of hallux valgus foot. This is a case report of a female patient with bilateral hallux valgus deformity and also a large OI of her left foot that was corrected, satisfactorily and simultaneously, with a soft tissue technique called syndesmosis procedure, without osteotomy or OI resection. Excellent feet function was observed for 2 years until her last follow-up examination without any symptoms or signs of problems relating to the OI in her left foot. This case report demonstrated for the first time that OI may not interfere with proper MPV deformity correction because it can be preexisting and X-ray can be misleading.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.62,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

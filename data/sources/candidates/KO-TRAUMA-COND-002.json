@@ -1,0 +1,872 @@
+{
+  "term": "Distal Radius Fracture",
+  "collected": "2026-11-14",
+  "count": 48,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Operative vs Nonoperative Treatment of Distal Radius Fractures in Adults: A Systematic Review and Meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7180423/",
+      "publisher": "JAMA network open",
+      "year": "2020",
+      "doi": "10.1001/jamanetworkopen.2020.3497",
+      "abstract": "Importance No consensus has been reached to date regarding the optimal treatment for distal radius fractures. The international rate of operative treatment has been increasing, despite higher costs and limited functional outcome evidence to support this shift. Objectives To compare functional, clinical, and radiologic outcomes after operative vs nonoperative treatment of distal radius fractures in adults. Data sources The PubMed/MEDLINE, Embase, CENTRAL (Cochrane Central Register of Controlled Trials), and CINAHL (Cumulative Index to Nursing and Allied Health Literature) databases were searched from inception to June 15, 2019, for studies comparing operative vs nonoperative treatment of distal radius fractures. Study selection Randomized clinical trials (RCTs) and observational studies reporting on the following: acute distal radius fracture with operative treatment (internal or external fixation) vs nonoperative treatment (cast immobilization, splinting, or bracing); patients 18 years or older; and functional outcome. Studies in a language other than English or reporting treatment for refracture were excluded. Data extraction and synthesis Data extraction was performed independently by 2 reviewers. Effect estimates were pooled using random-effects models and presented as risk ratios (RRs) or mean differences (MDs) with 95% CIs. Data were analyzed in September 2019. Main outcomes and measures The primary outcome measures included medium-term functional outcome measured with the Disabilities of the Arm, Shoulder and Hand questionnaire (DASH) and the overall complication rate after operative and nonoperative treatment. Results A total of 23 unique studies were included, consisting of 8 RCTs and 15 observational studies, that described 2254 unique patients. Among the studies that presented sex data, 1769 patients were women [80.6%]. Overall weighted mean age was 67 [range, 22-90] years). The RCTs included 656 patients (29.1%); observational studies, 1598 patients (70.9%). The overall pooled effect estimates the showed a significant improvement in medium-term (≤1 year) DASH score after operative treatment compared with nonoperative treatment (MD, -5.22 [95% CI, -8.87 to -1.57]; P = .005; I2 = 84%). No difference in complication rate was observed (RR, 1.03 [95% CI, 0.69-1.55]; P = .87; I2 = 62%). A significant improvement in grip strength was noted after operative treatment, measured in kilograms (MD, 2.73 [95% CI, 0.15-5.32]; P = .04; I2 = 79%) and as a percentage of the unaffected side (MD, 8.21 [95% CI, 2.26-14.15]; P = .007; I2 = 76%). No improvement in medium-term DASH score was found in the subgroup of studies that only included patients 60 years or older (MD, -0.98 [95% CI, -3.52 to 1.57]; P = .45; I2 = 34%]), compared with a larger improvement in medium-term DASH score after operative treatment in the other studies that included patients 18 years or older (MD, -7.50 [95% CI, -12.40 to -2.60]; P = .003; I2 = 77%); the difference between these subgroups was statically significant (test for subgroup differences, P = .02). Conclusions and relevance This meta-analysis suggests that operative treatment of distal radius fractures improves the medium-term DASH score and grip strength compared with nonoperative treatment in adults, with no difference in overall complication rate. The findings suggest that operative treatment might be more effective and have a greater effect on the health and well-being of younger, nonelderly patients.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.9,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Flexor tendon injuries following plate fixation of distal radius fractures: a systematic review of the literature",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828490/",
+      "publisher": "Journal of orthopaedics and traumatology : official journal of the Italian Society of Orthopaedics and Traumatology",
+      "year": "2013",
+      "doi": "10.1007/s10195-013-0245-z",
+      "abstract": "Background Flexor tendon rupture is a rare but major complication associated with volar plate fixation of distal radius fractures. Materials and methods We performed a systematic review to evaluate the demographics, clinical profile, treatment and outcome of flexor tendon rupture following volar plate fixation of distal radius fracture. Electronic searches of the MEDLINE, EMBASE, and Cochrane databases for systematic reviews and conference proceedings were performed. Studies were included if they reported flexor tendon rupture (partial or complete) as a complication of distal radius fracture plating (all levels of evidence). Result Our search yielded 21 studies. There were 12 case reports and 9 clinical studies. A total of 47 cases were reported. There were 11 males and 23 females (n = 16 studies). The mean age was 61 years old (range 30-85). The median interval between the surgery and flexor tendon rupture was 9 months (interquartile range, 6-26 months). Twenty-nine plates were locking and 15 were nonlocking (n = 20 studies). FPL was the most commonly ruptured tendon (n = 27 cases, 57 %), with FDP to index finger being the second most common (n = 7 cases, 15 %). Palmaris longus tendon graft and primary end-to-end repair were the most common surgical methods used in cases of FPL tendon rupture. Conclusion Flexor tendon rupture is a recognised complication of volar plating of distal radius fracture. Positioning of the plate proximal to the \"watershed\" line and early removal of the plate in cases with plate prominence or warning symptoms can reduce the risk of this complication.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.62,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Efficacy and Safety of Conservative and Surgical Treatment in the Treatment of Distal Radius Fractures: A Systematic Review and Meta‐Analysis",
+      "url": "https://doi.org/10.1111/os.70221",
+      "publisher": "Orthopaedic Surgery",
+      "year": "2026",
+      "doi": "10.1111/os.70221",
+      "abstract": "ABSTRACT To assess whether surgical treatment with predominantly volar locking plates has superior clinical and radiographic outcomes to conservative treatment with cast immobilization in the treatment of distal radius fractures by reviewing and investigating the literature with a high level of evidence. Thus, we systematically searched PubMed, Web of Science, and Embase databases for clinical trials comparing surgical and conservative treatments for distal radius fractures. Data extraction was performed to access parameters that included: wrist functional assessment, such as mobility and grip strength; subjective outcomes, such as DASH score, PRWE score, and quality of life score (EQ‐5D); radiographic assessment (palmar inclination, ulnar variance, and articular subluxation, etc.); and complications, such as fracture nonunion, reoperation, infection, and neurologic symptoms, and then to conduct data organization and quantitative synthesis. Finally, a total of 19 clinical trials with 2729 patients were included in this report, including 1378 in the conservative treatment group and 1351 in the surgical treatment group. In terms of recovery of wrist function, wrist joints undergoing cast immobilization gained a greater range of extension (MD 1.5°, p = 0.02), whereas surgical treatment of the range of wrist rotation was significantly greater than with conservative treatment (MD 3°, p = 0.03), and wrist grip strength was significantly improved (MD 2 kg, p = 0.04). There were no significant differences between the two groups of patients in terms of wrist flexion and anterior rotation activities. In terms of patient subjective scores, patients in the plaster immobilization group showed significant improvement in PRWE scores compared with the surgical treatment group at 3 and 12 months after treatment (MD 3–7 points, p 0.05). At the level of complications, the overall complication rate was significantly lower in patients who underwent surgical treatment than in the conservative treatment group (202/1046 [19.3%] vs. 361/1065 [33.9%], p = 0.001). The conclusions drawn were that when treating distal radius fractures, surgical treatment with predominantly metacarpal plate fixation achieves superior anatomical fracture repositioning and a lower complication rate compared to cast immobilization. However, no significant advantage was demonstrated in terms of recovery of wrist function and subjective patient perception. Overall, surgical treatment is an appropriate choice for patients with high motor function requirements who need to recover quickly, whereas more conservative treatments can be considered for patients with lower functional requirements.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.14,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "No benefit for elbow blocking on conservative treatment of distal radius fractures: A 6-month randomized controlled trial",
+      "url": "https://doi.org/10.1371/journal.pone.0252667",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0252667",
+      "abstract": "Purpose: For displaced distal radius fracture, this trial aimed to compare an above-elbow (AE) and below-elbow (BE) cast at the end of a 24-week follow-up using the Disabilities of the Arm, Shoulder, and Hand (DASH) questionnaire as a primary outcome. Methods: This is a clinical trial with parallel groups (1:1) and a blinded evaluator. There are two non-surgical interventions: AE and BE. A total of 128 adult patients with acute (up to 7 days) displaced distal radius fracture of type A2-3, C1-3 by the AO classification were included. The follow-up was 24 weeks. The primary outcome was the DASH questionnaire at 24 weeks. Secondary outcomes were the maintenance of reduction by the evaluation of radiographic parameters, pain measured by VAS, PRWE, objective functional evaluation and rate of adverse effects. Results: The difference between the two groups in the DASH score at 24 weeks was not significant, with the mean (95% CI) DASH score being AE: 9.44 (2.70 to 16.17) vs. BE: 9.88 (3.19 to 16.57) (p = 0.895). The above-elbow group had a significantly greater worsening of the mean DASH score from baseline to 2 weeks (p < 0.001). No statistically significant differences were found between the 2 groups in any of the other follow-up assessments. Objective functional evaluation, PRWE, radiographical measures and rates of reduction loss were similar between groups. Above-elbow casting resulted in more adverse effects (mostly shoulder pain; 19 events vs. 9 events); RR = 0.39 (0.19–0.94); p = 0.033 at the end of six-month follow-up. Conclusions: This study did not demonstrate a difference between above-elbow and below-elbow cast in terms of DASH outcome at 6 months in non-surgical treatment of deviated distal radius fractures. However, below-elbow casting is less debilitating during the treatment period, has comparable performance in maintaining the reduction, and is related to fewer minor adverse effects than above-elbow casting.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.84,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Surgical timing and outcomes after volar plate fixation of distal radius fractures: A matched cohort study",
+      "url": "https://doi.org/10.1371/journal.pone.0353383",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0353383",
+      "abstract": "Background: The impact of surgical timing on outcomes in orthopedic trauma surgery remains controversial. While most evidence derives from hip fractures and other major injuries, data on distal radius fractures is limited. This study aimed to assess whether surgical timing influences operative duration, reduction quality, complication rates, and functional outcome after operative treatment of distal radius fractures. Methods: This single-center, retrospective study included patients aged ≥ 16 years who underwent surgical treatment for distal radius fractures at our hospital between 01.01.2016 and 31.12.2024. Patients without postoperative radiographic follow-up, those treated conservatively, or those managed by other departments were excluded. Patients were grouped according to surgical timing into regular-hours surgery (08:00–16:00) and out-of-hours service. A 1:1 matched cohort analysis was performed with criteria being AO/OTA fracture classification and propensity scoring for age and sex. Analyses were stratified by AO/OTA fracture type (A, B, and C). Outcomes included operative time, radiographic reduction quality, complication rates, and functional outcome assessed by postoperative range of motion. Results: A total of 660 patients were included, of whom 434 underwent surgery during regular hospital hours and 226 during out-of-hours service. From the out-of-hours cohort, matching was performed using an exact match for fracture morphology according to the AO/OTA classification and propensity score matching for age and sex, resulting in two well-balanced 1:1 matched groups comprising 128 patients each. Across both groups, operative duration, reduction quality, complication rates, and functional outcome assessed by postoperative range of motion did not differ between regular-hours and out-of-hours surgery. Conclusion: Surgical timing was not associated with differences in operative duration, reduction quality, complication rates, or functional outcome after operative treatment of distal radius fractures. Within this matched cohort, no measurable differences were detected between regular-hours and out-of-hours surgery. As the study was not designed to establish equivalence, these findings indicate the absence of a detectable difference in this specific institutional setting and should not be interpreted as support for routine out-of-hours fixation.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Complex regional pain syndrome after distal radius fracture: A survey of current practices",
+      "url": "https://doi.org/10.1371/journal.pone.0314307",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0314307",
+      "abstract": "Introduction: Complex regional pain syndrome (CRPS) is a common complication following distal radius fractures that is difficult to diagnose and can lead to permanent disability. While various proposed prophylaxis and treatment modalities exist, high-quality evidence guiding practice is limited. This survey of Orthopaedic Trauma Association (OTA) and Canadian Orthopaedic Association (COA) members was conducted with the primary aim of assessing practice patterns in distal radius fractures complicated with CRPS. Methods: An electronic survey was distributed to practicing orthopaedic surgeons in the COA and OTA. Questions assessed practice setting, preference in management of distal radius fractures and CRPS, comfort level in managing CRPS, and identification of gaps in management. Responses were anonymized and collected over 8 months. Response data was analyzed using descriptive statistics; thematic analysis was used on free text response. Results: 134 survey responses were completed. 84% of respondents felt the incidence of CRPS in distal radius fractures was 1–10%, while 15% felt it was closer to 11–20%. 24% of respondents utilized the “Budapest Criteria” to diagnose CRPS. 40% offered prophylaxis in patients felt to be at high risk of developing CRPS. 66% of surgeons felt neutral, uncomfortable, or very uncomfortable managing CRPS in distal radius fractures. When asked to consider adopting a prophylactic therapy, 38% of surgeons indicated that a therapy that reduced the absolute risk of CRPS by 6–10% would change their practice. Gaps in current practice included lack of evidence-based treatment and prevention strategies and diagnostic uncertainty. Conclusion: This study identified that amongst orthopaedic surgeons in the COA and OTA, diagnosis, treatment, and prophylaxis strategies for CRPS in distal radius fractures are heterogeneous. Surgeons are not confident in their treatment of CRPS. Future studies using rigorous research methods are warranted to improve management.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Patients’ experience of suffering a distal radius fracture with long-lasting impairment—a qualitative study",
+      "url": "https://doi.org/10.1371/journal.pone.0311371",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0311371",
+      "abstract": "Background: Every year a large number of people suffer a distal radius fracture and some of them never regain their activity level. The correlation between radiographic features and outcome explains some but not all the disability perceived after fracture healing and rehabilitation. Little is known of the persons reporting persistent upper limb dysfunction. The aim of this study was to improve the understanding of the experience of persistent impairment, treatment, and recovery process after a distal radius fracture, with a focus on patients with benign radiographic and injury features but without full restoration of function. Materials and methods: This is a qualitative study performed through semi structured interviews analyzed with content analysis. The participants had previously been treated at Södersjukhuset hospital, Stockholm, Sweden for a distal radius fracture and reported that they had not regained their previous function. The sampling was purposeful and participants who were assumed to carry a lot of information were selected to participate. All 17 interviews were recorded, transcribed, and coded. Codes were grouped and categories formed. Results: Three main categories were inductively identified from the data. 1. Limitations in life due to persistent impairment–the description of what was not regained, physically, mentally, and activity-wise. 2. Being a patient–the participants’ description of experiences and feelings when assuming the role as a patient. 3. The last main category identified was personal circumstances such as having to care for children, being alone or having a partner, having a demanding employer or the person’s inherent personality and attitude. Conclusion: Patients suffer from impairment difficult to measure after a distal radius fracture. During the treatment and recovery process their experience as being patients, their perceived level of knowledge and their personal circumstances all play important roles in understanding how the participants experienced their recovery.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Epidemiology, classification, treatment and mortality of distal radius fractures in adults: an observational study of 23,394 fractures from the national Swedish fracture register",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7007648/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2020",
+      "doi": "10.1186/s12891-020-3097-8",
+      "abstract": "Background Distal radius fractures are the most common of all fractures. Optimal treatment is still debated. Previous studies report substantial changes in treatment trends in recent decades. Few nation-wide studies on distal radius fracture epidemiology and treatment exist, none of which provide detailed data on patient and injury characteristics, fracture pattern and mortality. The aim of this study was to describe the epidemiology, fracture classification, current treatment regimens and mortality of distal radius fractures in adults within the context of a large national register study. Methods We performed a descriptive study using prospectively registered data from the Swedish fracture register. Included were all non-pathological distal radius fractures registered between January 1st 2015 and December 31st 2017 in patients aged 18 years and above. Nominal variables were presented as proportions of all registered fractures. Results A total of 23,394 distal radius fractures in 22,962 patients were identified. The mean age was 62.7 ± 17.6 years for all, 65.4 ± 16.0 for women and 53.6 ± 20.0 for men. A simple fall was the most common cause of injury (75%, n = 17,643/23,394). One third (33%, n = 7783/21,723) of all fractures occurred at the patients' residence. 65% (n = 15,178/23,394) of all fractures were classified as extra-articular AO-23-A, 12% (n = 2770/23,394) as partially intra-articular AO-23-B and 23% (n = 5446/23,394) as intra-articular AO-23-C. The primary treatment was non-surgical for 74% (n = 17,358/23,369) and surgical for 26% (n = 6011/23,369) of all fractures. Only 18% of the AO-23-A fractures were treated surgically, compared to 48% of the AO-23-C fractures. The most frequently used surgical method was plate fixation (82%, n = 4954/5972), followed by pin/wire fixation (8.2%, n = 490/5972), external fixation (4.8%, n = 289/5972) and other methods (4.0%, n = 239/5972). The overall 30-day mortality was 0.4% (n = 98/23,394) and the 1-year mortality 2.9% (n = 679/23,394). Conclusion This nation-wide observational study provides comprehensive data on the epidemiology, fracture classification and current treatment regimens of distal radius fractures in a western European setting. The most common patient was an eldery woman who sustained a distal radius fracture through a simple fall in her own residence, and whose fracture was extra-articluar and treated non-surgically.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Systematic prospective electrophysiological studies of the median nerve after simple distal radius fracture",
+      "url": "https://doi.org/10.1371/journal.pone.0231502",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0231502",
+      "abstract": "Purpose: To assess whether there is a measurable impairment of median nerve conduction study parameters with uncomplicated distal radius fracture. Methods: Patients were assessed prospectively at the time of cast removal (visit 1) after a standard 6–8 week immobilization for uncomplicated distal radius fracture. Patients with prior entrapment neuropathy or polyneuropathy were excluded. Patients were asked to report sensory symptoms. Median and ulnar motor and sensory conduction studies were performed bilaterally, as well as transcarpal stimulation. All electrophysiologic studies were repeated at a follow-up visit 2, on average 7.8 weeks later. Results: 39 patients were assessed at visit 1 and 30 (77%) were available for follow-up visit 2. Paresthesia in the median territory on the fractured side were reported in 20% at visit 1 and 26% at visit 2. Electrophysiological evidence of only mild carpal tunnel syndrome was found on the fractured side in 4/39 at visit 1 and 6/30 at visit 2. There were only 2 cases of moderate-marked median neuropathy, both asymptomatic and on the unfractured side. Median motor and sensory latencies and amplitudes did not show statistically significant differences between fractured and unfractured sides with the single exception of median distal motor latency at visit 1. Conclusions: Median territory paresthesia at the time of cast removal following distal radius fracture are often not associated with electrophysiologic evidence of median neuropathy. Most median nerve electrophysiologic parameters do not significantly differ between the fractured and uninjured sides. Significant traumatic median neuropathy is not likely to be a frequent manifestation of uncomplicated distal radius fracture. Level of evidence: Diagnostic analysis, Level III",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Distal radius fractures—Regional variation in treatment regimens",
+      "url": "https://doi.org/10.1371/journal.pone.0207702",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0207702",
+      "abstract": "Objectives: After recent technical innovations of fracture surgery implants, treatment traditions are changing for distal radius fractures, the most common orthopaedic injury. The aim of this study was to determine if the choice of surgical method for treatment of distal radius fractures differ between healthcare regions in Sweden. Method: The study was based on all (n = 22 378) adult patients who were registered with a surgical procedure due to a distal radius fracture during 2010–2013 in Sweden. Consecutive data was collected from the Swedish National Patient Registry. Results: The proportions of use of surgical method varied among the 21 healthcare regions between 41% and 95% for internal fixation, between 2.3% and 44% for percutaneous fixation and between 0.6% and 19% for external fixation. Differences between regions were statistically significant in all but 6 comparisons when controlled for age and gender. Incidence rates of surgical treatment of a distal radius fracture varied between 4.2 and 9.2/10 000 person-years. Conclusion: We conclude that there is a large variation in operative management of distal radius fractures between Swedish healthcare regions.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "A comparative study of outcome of distal radius fracture frykman type (IV-VIII) treated with distractor fixation versus volar plate",
+      "url": "https://zenodo.org/records/3970573",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2017",
+      "doi": "10.5281/zenodo.3970573",
+      "abstract": "Background: Comminuted Distal radius fracture is a common injury with a variety of operative and non-operative management options. There remains debate as to the optimal treatment for a given patient and fracture. Our aim was to compare the functional outcome of patients of distal radius fractures treated with a volar locking plate fixation or wrist spanning distractor. Method: This prospective randomized study comprised 30 patients with displaced intra-articular (Frykman type IV-VIII) distal end radius fractures treated with distractor and 30 patients treated with volar locking plates. The patients were followed up at 2nd week,1 month,6 months and 1 year after surgery. The assessment of pain, range of motion, grip strength and activity was done at each follow-up visit and scored according to the Green and O’Brien scoring system. Results: At the end of 1 year, in volar plate group out of 30 patients, excellent result was achieved in 04 patients (13%), good in 24 patients (80%), fair in 02 patients (7%). No poor outcome seen. In distractor fixation group, out of 30 patients, excellent result was achieved in 01 patients (3%), good in 15 patients (50%), fair in 12 patients (40%) and poor in 02 (07%) patients. Conclusion: volar locked plating showed superiority over distractor fixation after 1 year of surgery.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "A study of correlation between radiological and functional outcome of distal radius fracture treated by various modalities",
+      "url": "https://zenodo.org/records/3970578",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2017",
+      "doi": "10.5281/zenodo.3970578",
+      "abstract": "Background: Distal radius fractures are one of the most common injuries to the musculoskeletal system. Functional outcome in these fractures depend on many factors. Our main aim was to study if good radiological outcome has any effect on functional outcome and to compare various modalities of treatment of fracture distal end radius Method: We retrospectively studied 120 patients. 30 cases were treated with conservative management & 30 cases with volar plating, percutaneous pinning and JESS fixator (Joshi’s External Stabilizing System). Results: Most of the patients were between 40-60 years (Mean 50.35 years). Most common mode of injury was RTA (50.3%), Right side was predominantly affected (60.3%) and most common fracture type was AO type C1. Mean pain score & Function score Patient Rated Wrist Evaluation (PRWE) were less among patients where radiological parameters were restored. Conclusion: From this study, we conclude that restoration of radiological parameters will help in good functional outcome in treatment of intra-articular and extra articular fractures of distal end of radius and volar plating has better results in radiological parameter restoration and functional outcome.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The Minimum Clinically Important Difference of the Patient-rated Wrist Evaluation Score for Patients With Distal Radius Fractures",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4562929/",
+      "publisher": "Clinical orthopaedics and related research",
+      "year": "2015",
+      "doi": "10.1007/s11999-015-4376-9",
+      "abstract": "Background The Patient-rated Wrist Evaluation (PRWE) is a commonly used instrument in upper extremity surgery and in research. However, to recognize a treatment effect expressed as a change in PRWE, it is important to be aware of the minimum clinically important difference (MCID) and the minimum detectable change (MDC). The MCID of an outcome tool like the PRWE is defined as the smallest change in a score that is likely to be appreciated by a patient as an important change, while the MDC is defined as the smallest amount of change that can be detected by an outcome measure. A numerical change in score that is less than the MCID, even when statistically significant, does not represent a true clinically relevant change. To our knowledge, the MCID and MDC of the PRWE have not been determined in patients with distal radius fractures. Questions/purposes We asked: (1) What is the MCID of the PRWE score for patients with distal radius fractures? (2) What is the MDC of the PRWE? Methods Our prospective cohort study included 102 patients with a distal radius fracture and a median age of 59 years (interquartile range [IQR], 48-66 years). All patients completed the PRWE questionnaire during each of two separate visits. At the second visit, patients were asked to indicate the degree of clinical change they appreciated since the previous visit. Accordingly, patients were categorized in two groups: (1) minimally improved or (2) no change. The groups were used to anchor the changes observed in the PRWE score to patients' perspectives of what was clinically important. We determined the MCID using an anchor-based receiver operator characteristic method. In this context, the change in the PRWE score was considered a diagnostic test, and the anchor (minimally improved or no change as noted by the patients from visit to visit) was the gold standard. The optimal receiver operator characteristic cutoff point calculated with the Youden index reflected the value of the MCID. Results In our study, the MCID of the PRWE was 11.5 points. The area under the curve was 0.54 (95% CI, 0.37-0.70) for the pain subscale and 0.71 (95% CI, 0.57-0.85) for the function subscale. We determined the MDC to be 11.0 points. Conclusions We determined the MCID of the PRWE score for patients with distal radius fractures using the anchor-based approach and verified that the MDC of the PRWE was sufficiently small to detect our MCID. Clinical relevance We recommend using an improvement on the PRWE of more than 11.5 points as the smallest clinically relevant difference when evaluating the effects of treatments and when performing sample-size calculations on studies of distal radius fractures.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Mortality after Distal Radius Fracture in Men and Women Aged 50 Years and Older in Southern Norway",
+      "url": "https://doi.org/10.1371/journal.pone.0112098",
+      "publisher": "PLoS ONE",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0112098",
+      "abstract": "Increased mortality rates in patients sustaining hip and vertebral fractures are well documented; however in distal radius fracture patients the results are conflicting. The aim of this study was to examine short- and long-term mortality in distal radius fracture patient in comparison with the background population. Patients aged ≥50 years with distal radius fracture living in Southern Norway who suffered a fracture in the two year period 2004 and 2005 were included in the study. The mortality risk of the standard Norwegian population was used to calculate the standardized mortality ratio (SMR). The number of distal radius fractures was 883 (166 men and 717 women). Mean age was 69 years (men 65 years and women 70 years). After one year the overall mortality rate was 3.4% (men 5.4% and women 2.9%) and after five years 4.6% (men 4.0% and women 4.8%). The SMR for men and women compared to the Norwegian population for the first year was 1.6 (95% confidence interval (CI): 0.6, 2.7) and 0.9 (95% CI: 0.4, 1.2), respectively, and after five years 1.7 (95% CI: 0.3, 3.0) and 2.0 (95% CI: 1.2, 2.7). Stratified on age groups (50–70 and >70 years) an increased SMR was only seen in female patients aged >70 years five years after the fracture (SMR: 1.9, 95% CI: 1.1, 2.6). In conclusion, increased SMR was found in female patients aged >70 years five years after the distal radius fracture, but not in men or in women younger than 70 years.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.16,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Biomechanical Comparison of Osteoporotic Distal Radius Fractures Fixed by Distal Locking Screws with Different Length",
+      "url": "https://doi.org/10.1371/journal.pone.0103371",
+      "publisher": "PLoS ONE",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0103371",
+      "abstract": "Objectives: To evaluate the postoperative stability of osteoporotic distal radius fractures fixed with distal locking screws with different length. Methods: A comminuted extra-articular dorsally unstable distal radius fracture, treated with volar locking plate system, was created. The 18 specimens were randomized into 3 groups based on distal locked screws with different length: Group A had unicortical screws with 50% length to the dorsal cortex. Group B had unicortical screws with 75% length to the dorsal cortex. Group C had bicortical screws. Axial compression and bending loads were imposed on the models before and after cycling testing as well as load to clinical and catastrophic failure. Results: Minimum change in stiffness was observed before and after fatigue for all groups. The final stiffness to bending forces was statistically similar in all groups, but stiffness to axial compression was statistically significant different: Group A approached significance with respect to groups B and C (P = 0.017, 0.009), whereas stiffness in group B and C was statistically similar (P = 0.93). Load to clinical failure was significantly less for group A (456.54±78.59 N) compared with groups B (580.24±73.85 N) and C (591.07±38.40 N). Load to catastrophic failure was statistically similar between groups, but mean values for Group A were 18% less than means for Group C. Conclusions: The volar locking plate system fixed with unicortical locking screws with at least 75% length not only produced early stability for osteoporotic distal radius fractures, but also avoided extensor tendon complications due to dorsal screw protrusion.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.16,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Cortical Hand Bone Porosity and Its Association with Distal Radius Fracture in Middle Aged and Elderly Women",
+      "url": "https://doi.org/10.1371/journal.pone.0068405",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0068405",
+      "abstract": "Objective: Reduced bone mineral density (BMD), assessed by Dual Energy X-ray absorptiometry (DXA), is a well-known risk factor for fragility fracture. A large proportion of patients with fracture have only slightly reduced BMD. Assessment of other bone structure features than BMD may improve identification of individuals at increased fracture risk. Digital X-ray radiogrammetry (DXR), which is a feasible tool for measurement of metacarpal cortical bone density, also gives an estimate of cortical bone porosity. Our primary aim was to explore the association between cortical porosity in the hand assessed by DXR and distal radius fracture. Methods: This case-control study included 123 women >50 years with distal radius fracture, and 170 controls. DXR was used to measure metacarpal BMD (DXR-BMD), cortical porosity (DXR-porosity), thickness (DXR-CT) and bone width (DXR-W) of the hand. Femoral neck BMD was measured by DXA. Results: The fracture group had a statistically significant lower DXR-BMD (0.492 vs. 0.524 g/cm2 p<0.001), higher cortical DXR-porosity (0.01256 vs. 0.01093, p<0.001), less DXR-CT (0.148 vs. 0.161cm, p<0.001) and lower femoral neck DXA-BMD (0.789 vs. 0.844 g/cm2, p = 0.001) than the controls. In logistic regression analysis adjusted for age, a significant association with distal radius fracture (OR, 95% CI) was found for body mass index (0.930, 0.880–0.983), DXA-BMD (0.996, 0.995–0.999), DXR-BMD (0.990, 0.985–0.998), DXR-porosity (1.468, 1.278–1.687) and DXR-CT (0.997, 0.996–0.999). In an adjusted model, DXR-porosity remained the only variable associated with distal radius fracture (1.415, 1.194–1.677). Conclusion: DXR derived porosity is associated with fracture at distal radius and might be a sensitive marker for skeletal fragility.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.12,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The epidemiology of low- and high-energy distal radius fracture in middle-aged and elderly men and women in Southern Norway",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427334/",
+      "publisher": "PloS one",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0043367",
+      "abstract": "Background: Distal radius is one of the most frequent sites for fractures in the elderly population. Despite this, there is a paucity of epidemiological data for distal radius fracture, in particular, distinguishing between high- and low-energy fractures. Our aim was to study the epidemiology of high- and low-energy distal radius fracture in middle-aged and elderly men and women in Southern Norway, and search for associates with high- or low-energy distal radius fracture in this population. Methodology/Principal Findings: Patients with distal radius fractures aged ≥50 years were identified from all four hospitals in Southern Norway between 2004 and 2005. Age-adjusted and age-specific incidence rates for men and women were calculated, and potential associates with high- and low-energy distal radius fracture were explored both in univariate and multivariate analyses. A total of 799 individuals (118 men and 681 women) aged ≥50 years with low-energy and 84 (48 men and 36 women) with high-energy distal radius fracture were identified. The overall age-adjusted incidence rate per 10,000 person-years was 18.9 for men (low energy, 12.8 vs. high-energy, 6.1) and 75.1 for women (low energy, 71.1 vs. high energy, 4.0). In multivariate model, younger age, male gender, summer season, and living in a rural area were independently associated with an increased risk of high-energy fracture. Conclusion: An approximately fourfold higher age-adjusted incidence rate for distal radius fracture was found among women, when compared with men. However, the proportion of patients with high-energy distal radius fracture was approximately fivefold higher in men than in women. Our data suggest that younger age, male gender, summer seasons, and living in rural areas are independent risk factors for increased risk of high-energy distal radius fracture.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "europepmc",
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Incidence and characteristics of distal radius fractures in a southern Swedish region",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1904215/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2007",
+      "doi": "10.1186/1471-2474-8-48",
+      "abstract": "Background The incidence of distal radius fracture has increased substantially during the last 50 years according to several studies that estimated the overall incidence in various general populations. The incidence of fracture classified according to severity has not been well documented. The aim of this population-based study was to estimate the overall and type-specific incidence rates of distal radius fracture in a representative population in southern Sweden. Methods During 2001, all persons older than 18 years with acute distal radius fracture in the southern Swedish region of Northeastern Scania were prospectively recorded. A radiologist classified the fractures according to the AO system and measured volar tilt and ulnar variance. A fracture with volar tilt outside a range of -5 degrees to 20 degrees and/or ulnar variance of 2 mm or greater was defined as displaced. Results 335 persons with acute distal radius fracture were recorded during the 1-year period. The overall incidence rate was 26 (95% confidence interval 23-29) per 10,000 person-years. Among women the incidence rate increased rapidly from the age of 50 and reached a peak of 119 per 10,000 person-years in women 80 years and older. The incidence rate among women 50 to 79 years old (56 per 10,000 person-years) was lower than that reported in previous studies of similar populations. Among men the incidence rate was low until the age of 80 years and older when it increased to 28 per 10,000 person-years. Fractures classified as AO type A comprised about 80% of the fractures in women and 64% in men. Almost two-thirds of all fractures were displaced and among men and women 80 years and older more than 80% of the fractures were displaced. Conclusion The incidence rate of distal radius fracture in women 50 to 79 years old was lower than previously reported, which may indicate declining incidence in this group. In both sexes, the incidence was highest in the age group of 80 years and older. With a growing number of elderly in the general population, the impact of distal radius fracture in the future may be considerable.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The efficacy of using 3D printing models in the treatment of fractures: a randomised clinical trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6368738/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2019",
+      "doi": "10.1186/s12891-019-2448-9",
+      "abstract": "Background The aim of this study was to evaluate the efficacy of the use of three-dimensional (3D) printing models for preoperative planning in cases of complex fracture. Methods In total, 48 patients with AO type C fractures of the distal radius were enrolled in the study between January 2014 and January 2015. They were divided randomly into 3D model (n = 23) and routine treatment (n = 25) groups. A 3D digital model of each distal radius fracture in the former group was constructed. The model was exported to a 3D printer for construction of a full solid model. During each operation, the operative time, amount of blood loss, and frequency of intraoperative fluoroscopy were recorded, which were regarded as primary outcome measures. Patients were followed to evaluate surgical outcomes by Gartland-Werley scores, radiological evaluation, and range of motion of wrist, and these were regarded as the secondary outcome measures. In addition, we invited surgeons and patients to complete questionnaires. Results The treatment of complex fractures using the 3D printing approach reduced the frequency of intraoperative fluoroscopy, blood loss volume, and operative time, but did not improve postoperative function compared with routine treatment. The patients wanted the doctor to use the 3D model to describe the condition and introduce the operative plan because it facilitated their understanding. The orthopaedic surgeons thought that the 3D model was useful for communication with patients, but were much less satisfied with its use in preoperative planning. Conclusion Our study revealed that 3D printing models effectively help the doctors plan and perform the operation and provide more effective communication between doctors and patients, but can not improve postoperative function compared with routine treatment. Trial registration This trial was registered at the Chinese Clinical Trial Registry on May 9, 2017 (ChiCTR-IRP-17011343, http://www.chictr.org.cn/showproj.aspx?proj=19264 ).",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.76,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Postoperative infection following volar locking plate fixation of closed distal radius fractures: a retrospective cohort study of infection rates and antibiotic prophylaxis practice",
+      "url": "https://doi.org/10.1186/s12891-026-10521-9",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2026",
+      "doi": "10.1186/s12891-026-10521-9",
+      "abstract": "Abstract Background Distal radius fractures are among the most common surgically treated upper-extremity fractures, and volar locking plate fixation is the predominant operative technique. Although perioperative antibiotic prophylaxis is widely used in orthopaedic surgery, procedure-specific evidence for closed distal radius fractures remains limited. Contemporary data regarding postoperative infection rates and antibiotic prophylaxis practice following volar locking plate fixation are scarce. The aim of this study was to describe postoperative infection rates following volar locking plate fixation of closed distal radius fractures and to report contemporary patterns of perioperative antibiotic prophylaxis use in routine clinical practice. Methods This retrospective cohort study included consecutive adult patients undergoing volar locking plate fixation for closed distal radius fractures at a single center between January 2022 and December 2024. Patients were grouped according to receipt of perioperative antibiotic prophylaxis, reflecting routine clinical practice rather than predefined treatment allocation. The primary outcome was postoperative surgical site infection within one year of surgery. Secondary analyses described antibiotic prophylaxis use and patient, surgical, and surgeon-related characteristics. Results A total of 474 consecutive patients were included, of whom 237 received perioperative antibiotic prophylaxis and 237 did not. One postoperative surgical site infection occurred, corresponding to an overall infection rate of 0.2% (95% confidence interval [CI] 0.0–1.2). The infection occurred in a patient who did not receive antibiotic prophylaxis, was superficial, and resolved following treatment with oral antibiotics. No deep infections were observed. Substantial variation in prophylaxis use was observed among surgeons despite uniformly low infection rates across the cohort. Conclusions Postoperative infection following volar locking plate fixation of closed distal radius fractures was rare in this contemporary cohort. The findings provide descriptive data on postoperative infection rates and perioperative antibiotic prophylaxis practice in routine clinical care. Although the study was not powered to evaluate the effectiveness of antibiotic prophylaxis, the observed low infection burden may help inform future research on infection prevention and antibiotic stewardship in distal radius fracture surgery. Level of Evidence III. Clinical trial number Not applicable",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Arthroscopically Assisted Fixation of Intraarticular Distal Radius Fractures.",
+      "url": "https://eoj.journals.ekb.eg/article_429811_a7477df723361cb26496cb86c446211c.pdf",
+      "publisher": "The Egyptian Orthopaedic Journal",
+      "year": "2026",
+      "doi": "10.21608/eoj.2025.374890.1032",
+      "abstract": "Background: The most often broken bone in adults is the distal radius, which contributes significantly to orthopedic and emergency department workloads. There are several different surgical procedures that can be used to treat distal radius fractures (DRFs), including external fixation, volar or dorsal plating, spanning internal fixation, and percutaneous pinning. The primary purposes of wrist arthroscopy are to help reduce and cure fractures and to diagnose and treat concurrent injuries, primarily to the triangular fibrocartilage complex (TFCC), scapholunate (SL), and lunotriquetral (LT) ligament. With arthroscopy, intra-articular DRFs can have their anatomical steps and gaps reduced.Materials and Methods: The work's objective was to prospectively investigate the functional and radiological results of fixing the intraarticular distal end of the radius with arthroscopic assistance. Following surgery, patients were monitored monthly for three months and then every three months for twelve months. CT, X-Ray imaging, and a functional evaluation using the modified Mayo wrist score (MMWS) were all part of the follow-up.Results: Clinical assessment by MMWS. At one year after surgery, the wrist's average flexion and extension were 71° and 62°, respectively. Supination averaged 70° and pronation averaged 67°. On the contralateral side, grip strength was 72% on average. which is increased after 6 Ms later up to 87%. MMWS was fair in 1(5%) patient, good in 3(15%) patients and excellent in 16(80%) patients. It was satisfactory in 19(95%) patients and unsatisfactory in 1(5%) patient.Conclusions: Wrist arthroscopy appears effective for diagnosing intra-articular steps, gaps, and other associated injuries. It allows for the direct observation and management of any misalignment, such as step-off or gaps.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Safe To Wait? Comparing Emergent And Urgent Carpal Tunnel Release Following Distal Radius Fractures",
+      "url": "https://zenodo.org/records/20100010",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20100010",
+      "abstract": "PURPOSE: Distal radius fractures (DRFs) are the most common upper extremity fractures, and carpal tunnel syndrome (CTS) is one of their recognized complications, sometimes necessitating surgical decompression. While acute CTS is generally considered a surgical urgency, there is no consensus on whether carpal tunnel release (CTR) should be performed within 24 hours or can be safely delayed up to one week. This study aimed to compare outcomes of CTR performed emergently (≤24 h) versus urgently (within 7 days) after DRF. METHODS: This retrospective review of the TriNetX database identified patients with acute DRF who underwent surgical fixation and CTR. Patients were stratified into two cohorts based on whether fixation and CTR were performed within 24 hours or within 7 days. Using diagnosis and procedure codes, CTS-related outcomes and complications were assessed in propensity score-matched cohorts. Outcomes at 30 and 60 days postoperatively were analyzed using risk ratios and t-tests. RESULTS: A total of 5,634 patients who underwent CTR and were diagnosed with DRF within 24 hours were matched to an equal number who underwent CTR within 7 days. At 30, 60, and 180 days postoperatively, both emergent and urgent groups had similar rates of CTS diagnosis, median nerve release procedures, and physical therapy evaluations (p0.05). Additionally, rates of infection, median nerve neuropathy, and complex regional pain syndrome were similar between the groups (p0.05). CONCLUSION: Early fixation and CTR within 24 hours or within 1 week of DRF resulted in comparable rates of CTS diagnosis, treatment, and overall complication profiles. Importantly, rates of median nerve neuropathy were the same regardless of the timing of surgery. These findings suggest that carpal tunnel release can be performed safely at any time within the first week after a distal radius fracture without increased risk of neuropathy or surgical complications. *Source: https://ps-rc.org/meeting/Program/2026/EP78.cgi*",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Distraction Osteogenesis for the Surgical Treatment of Malunited Distal Radius Fracture",
+      "url": "https://eoj.journals.ekb.eg/article_452546_83343369982b9d1bd4e879f70d917932.pdf",
+      "publisher": "The Egyptian Orthopaedic Journal",
+      "year": "2025",
+      "doi": "10.21608/EOJ.2025.449738",
+      "abstract": "BackgroundMalunion of fracture distal radius can cause pain and functional impact. Numerous surgical techniques have been implemented. Distraction osteogenesis allows gradual deformity correction and avoids bone grafting complications. This retrospective study aims to assess the results of distraction osteogenesis for the treatment of malunited distal radius fractures.Patients and MethodsBetween February 2019 and March 2023, 12 patients (eight males and four females) with malunited distal radius fractures were managed with an Ilizarov external fixator. The corticotomy was done through a small dorsal incision. The lengthening was started 10 days postoperatively at a rate of 0.25mm every 6h until the deformity was corrected.ResultsThe average age of the patients was 30±2.5 years. The average follow-up time was 25.2±11 months. After an average of 2.5±0.6 months, the external fixator was removed. The average radius shortening was 9±4.150mm with an average lengthening of 12±2.189mm. A preoperative average of +3.7mm ulnar variance decreased to +0.62mm at the final follow-up with a statistically significant difference (P=0.017). Angular deformity improved from a preoperative average of 28±2.4570 dorsal tilt to an average of 5±2.5380 palmar tilt at the final follow-up with a statistically significant difference (P=0.01). A preoperative average of 12±6.1500 radial inclination improved to 20±9.1890 at the final follow-up with a statistically significant difference (P=0.01). One patient was complicated with Sudeck’s atrophy. Statistically significant differences could be found as regards pain, grip strength, active range of motion of the affected wrist, mean Disabilities of the Arm, Shoulder and Hand score, and mean modified Mayo Wrist Score between the preoperative measurements and at the final follow-up (P=0.01, 0.012, 0.027, 0.014, and 0.001, respectively).ConclusionsDistraction osteogenesis with Ilizarov is a safe and effective procedure for the treatment of malunited distal radius fractures. It could correct the deformity and establish good functional results.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Osteosynthesis of an extra-articular distal radius fracture using a palmar locking plate with 4 epiphyseal screws (Gold Standard) versus 2 epiphyseal screws: Finite element analysis",
+      "url": "https://hal.science/hal-05678822v1",
+      "publisher": "Injury",
+      "year": "2025",
+      "doi": "10.1016/j.injury.2025.112360",
+      "abstract": "Distal radius fractures are common injuries often requiring surgical intervention for effective management. This study compares the biomechanical stability of two osteosynthesis configurations using a palmar locking plate with either four or two epiphyseal screws for extra-articular distal radius fractures. Finite element analysis (FEA) was performed on nine antomical radius models to evaluate displacement, axial stiffness, peri‑implant stresses, and fracture risk using the Mohr-Coulomb criterion. Results demonstrated minimal differences in displacement between the two groups, with both configurations maintaining acceptable levels of stability under a 250 N load. Assemblies with four screws exhibited slightly higher axial stiffness (average 4362 N/mm) compared to two screws (average 3080 N/mm). Peri-implant stresses were generally higher in the two-screw models, yet remained within tolerable ranges. This study is the first to analyze a two-epiphyseal screw configuration, offering insight into the feasibility of reducing screw count without compromising stability. Potential benefits include fewer surgical complications, reduced material use, and lower costs. However, limitations such as the small sample size, simplified loading conditions, and absence of osteodensitometry warrant further experimental validation. The findings suggest that a two-epiphyseal screw assembly could serve as an effective alternative for distal radius fracture management, supporting its potential integration into clinical practice following experimental corroboration.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Assessing the Impact of Ulnar Styloid Fractures on Distal Radius Injury Recovery: A Prospective Study",
+      "url": "https://zenodo.org/records/14473537",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.14473537",
+      "abstract": "Introduction: Distal radius fractures often co-occur with ulnar styloid fractures, leading to varied treatment approaches and debates on their impact on functional outcomes. This study aims to assess whether surgical repair of ulnar styloid fractures contributes to better functional outcomes in patients with distal radius fractures. Material and Methods: Conducted at the Central Institute of Orthopaedics in New Delhi over 18 months, this prospective, comparative analysis included 60 patients with concurrent distal radius and ulnar styloid fractures. Patients were randomized into two groups: one undergoing distal radius fixation without ulnar styloid intervention and the other receiving fixation for both fractures. The study focused on evaluating postoperative complications, pain management (VAS scores) and functional recovery (DASH scores). Results: No significant difference in age distribution was observed between the groups. Surgical duration was notably longer in the group receiving ulnar styloid fixation. However, this group demonstrated significantly better outcomes in pain reduction and functional recovery over time, without an increase in postoperative complications. Conclusion: Surgical repair of ulnar styloid fractures, in conjunction with distal radius fractures, leads to improved pain management and functional outcomes without compromising safety. These findings suggest that addressing ulnar styloid fractures in the surgical protocol may enhance recovery and quality of life for patients with distal radius fractures.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Evaluating the Effectiveness of Radius Bone Plates in Fracture Repair",
+      "url": "https://zenodo.org/records/14205736",
+      "publisher": "International Journal of Toxicological and Pharmacological Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.14205736",
+      "abstract": "Background and Aim: Clinically, resection and reduction-based palmar internal fixation using locking plates is commonly utilized to address AO-C type distal radius fractures. This study seeks to evaluate the safety and effectiveness of radius bone plates in the fixation of fractures associated with the radius bone. Material and Methods: This research took place within an Orthopedics Department in India, examining a cohort of 80 patients over the span of one year. In cases of fractures that exhibit instability or significant fragmentation, surgical intervention becomes essential, as relying solely on casting may prove inadequate in preserving the proper alignment of the fracture. All patients underwent monitoring through radiographs, physical examinations, and assessments using the ASA and VAS scoring systems. Results: The findings indicate that at each follow-up, there was a noticeable difference in the VAS score, with a consistent reduction in pain intensity suggesting improved outcomes for radius fractures treated with radius plates. Patients undergoing postoperative care were recommended to engage in rehabilitation exercises during the initial six months, followed by physiotherapy sessions. Assessing the advancements at each follow-up revealed positive post-operative outcomes throughout the first year of the follow-up period. Conclusion: Employing radius plates for the management of unstable distal end radius fractures demonstrates a strong correlation with favourable functional results and a low incidence of complications.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Effect of Fracture Type on Restoration of Radiographic Parameters and Early Loss of Reduction in Surgical Treated Distal Radius Fractures",
+      "url": "https://www.mdpi.com/2673-866X/3/4/27",
+      "publisher": "Trauma Care",
+      "year": "2023",
+      "doi": "10.3390/traumacare3040027",
+      "abstract": "Purpose: Early loss of reduction remains a challenging complication in distal radius fracture management. There are limited data on factors that correlate with early loss of reduction. The Arbeitsgemeinschaft für Osteosynthesefragen (AO) classification has become a popular way of evaluating complex fracture patterns. This study aims to determine the impact of fracture pattern, as determined by the AO classification, on restoration of intraoperative parameters, early loss of reduction, and time to fracture union in operatively treated distal radius fractures. Methods: Following IRB approval, adult patients with surgically treated acute distal radius fractures at a single level I institution were identified. Retrospective chart and radiographic review were used to obtain AO classification, postoperative radiographic parameters, early loss of reduction, time to fracture union, as well as any complications. Results: 422 patients with operatively treated distal radius fractures were included in this study. Across fracture patterns, there were no significant differences in restoration of radial height or inclination. Higher severity fracture classifications had decreased restoration of volar tilt. Overall, simple fractures (A2, C1) and partial articular fractures (B1, B2, B3) had higher rates of satisfactory alignment restoration compared to comminuted fractures (A3, C2, C3). Although there were differences in restoration of radiographic parameters, fracture type did not correlate with loss of reduction within 30 days. C type fractures correlated with increased weeks to radiographic healing. Conclusions: This study establishes that distal radius fracture pattern, as determined by the AO classification, has a significant impact on intraoperative restoration of parameters but does not correlate with early loss of reduction. Furthermore, more difficult fracture patterns may have a longer time to fracture union, but fracture type does not appear to have an effect on postoperative complications.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Factors Associated with Complex Regional Pain Syndrome in Patients with Surgically Treated Distal Radius Fracture",
+      "url": "https://jost.tums.ac.ir/index.php/jost/article/view/390",
+      "publisher": "Journal of Orthopedic and Spine Trauma",
+      "year": "2023",
+      "doi": "10.18502/jost.v9i2.12623",
+      "abstract": "Background: Complex regional pain syndrome (CRPS) is an important common complication after surgical treatment for distal radius fracture. Recognition of the related factors is important to reduce the burden of the problem. Herein, the contributing factors for CRPS after distal radius fracture surgery are studied. Methods: In this cross-sectional comparative study, 250 patients admitted to the orthopedics ward in Sina Hospital in Tehran, Iran, from 2017 to 2020, were enrolled. The contributing factors for CRPS after distal radius fracture surgery were determined in them. Results: The CRPS was seen in 17 cases (6.8%). 9 percent of male and 1.9 percent of female patients were diagnosed with CRPS. This showed a significant difference in the Fisher test (P = 0.028). The mean pain severity by Visual Analogue Scale (VAS) was higher in CRPS cases, that showed a significant difference by the Mann-Whitney test (P = 0.001). Conclusion: According to the obtained results, it may be concluded that CRPS was seen in seven percent of patients under surgery for distal radius fracture and was related to the male gender and higher pain severity.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Functional outcome and patient satisfaction with a ‘self-care’ protocol for minimally displaced distal radius fractures a service evaluation",
+      "url": "https://online.boneandjoint.org.uk/doi/10.1302/2633-1462.39.BJO-2022-0077.R1",
+      "publisher": "Bone & Joint Open",
+      "year": "2022",
+      "doi": "10.1302/2633-1462.39.BJO-2022-0077.R1",
+      "abstract": "AimsWe introduced a self-care pathway for minimally displaced distal radius fractures, which involved the patient being discharged from a Virtual Fracture Clinic (VFC) without a physical review and being provided with written instructions on how to remove their own cast or splint at home, plus advice on exercises and return to function.MethodsAll patients managed via this protocol between March and October 2020 were contacted by a medical secretary at a minimum of six months post-injury. The patients were asked to complete the Patient-Rated Wrist Evaluation (PRWE), a satisfaction questionnaire, advise if they had required surgery and/or contacted any health professional, and were also asked for any recommendations on how to improve the service. A review with a hand surgeon was organized if required, and a cost analysis was also conducted.ResultsOverall 71/101 patients completed the telephone consultation; no patients required surgery, and the mean and median PRWE scores were 23.9/100 (SD 24.9) and 17.0/100 (interquartile range (IQR) 0 to 40), respectively. Mean patient satisfaction with treatment was 34.3/40 (SD 9.2), and 65 patients (92%) were satisfied or highly satisfied. In total there were 16 contact calls, 12 requests for a consultant review, no formal complaints, and 15 minor adjustment suggestions to improve patient experience. A relationship was found between intra-articular injuries and lower patient satisfaction scores (p = 0.025), however no relationship was found between PRWE scores and the nature of the fracture. Also, no relationship was found between the type of immobilization and the functional outcome or patient satisfaction. Cost analysis of the self-care pathway V traditional pathway showed a cost savings of over £13,500 per year with the new self-care model compared to the traditional model.ConclusionOur study supports a VFC self-care pathway for patients with minimally displaced distal radius fractures. The pathway provides a good level of patient satisfaction and function. To improve the service, we will make minor amendments to our patient information sheet.Cite this article: Bone Jt Open 2022;3(9):726–732.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Epedemiology and Long Term Trend of Distal Radius Fracture in Elderly of Sindhudurg, West Cost of Maharashtra, India: A 12 Years Follow Up Study",
+      "url": "https://hal.science/hal-05200790v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Aims: The accurate prevalence and trend of distal radius fracture is not well documented in Maharashtra, India. This hospital based study amis to provide authentic incidence rates of this fracture and long term trend in elderly residents of Sindhudurg. Study Design: Department of Orthopaedics, Government District Hospital, Sindhudurg, Maharshtra, India, between 2000 to 2011. Methodology: All patients of distal radius fracture, above the age of 50 years treated by one surgeon at one hospital are included in this retrospective study, solely on the final diagnosis mentioned on case paper according to Frykman classification system. Results: There were 947 distal radius fractures, out of which 644 (66.1%) men. This study notifies the increased incidence of distal radius fracture in elderly men, than in women, contrary to the western hemisphere literature. The incidence was highest in men between 51 to 70 years with almost linear rise up to the end of study period; with a relative risk of 2.2 (95% CI 2.1 to 2.6). A border line evidence of straight rise in women was seen at 71 to 80 years (p = 0.05) with a common odd ratio of 1.1 (95% CI 0.7 to 1.5). The age range 51 to 70 years showed homogeneity (p = 0.21) with 2.1 (95% CI 1.7 to 2.9). A definite increasing trend is observed, during rainy season of June to September months throughout the whole study period with rates as high as for both sexes, 423(43.4%) ( p>0.001 ) Conclusion: This long term study reported increasing trend in the incidence of distal radius fractures in both elderly men and women. The incidence was highest in 51 To 70 years age group with highest number of low energy falls. This will be of great help for the future benefit risk ratio of fragility distal radius fracture prevention efforts.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Wrist function recovers more rapidly after volar locked plating than after external fixation but the outcomes are similar after 1 year",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230001/",
+      "publisher": "Acta orthopaedica",
+      "year": "2011",
+      "doi": "10.3109/17453674.2011.552781",
+      "abstract": "Background and purpose Promising results have been reported after volar locked plating of unstable dorsally displaced distal radius fractures. We investigated whether volar locked plating results in better patient-perceived, objective functional and radiographic outcomes compared to the less invasive external fixation. Patients and methods 63 patients under 70 years of age, with an unstable extra-articular or non-comminuted intra-articular dorsally displaced distal radius fracture, were randomized to volar locked plating (n = 33) or bridging external fixation. Patient-perceived outcome was assessed with the Disability of the Arm, Shoulder, and Hand (DASH) questionnaire and the Patient-Rated Wrist Evaluation (PRWE) questionnaire. Results At 3 and 6 months, the volar plate group had better DASH and PRWE scores but at 12 months the scores were similar. Objective function, measured as grip strength and range of movement, was superior in the volar plate group but the differences diminished and were small at 12 months. Axial length and volar tilt were retained slightly better in the volar plate group. Interpretation Volar plate fixation is more advantageous than external fixation, in the early rehabilitation period.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Impact of Artificial Intelligence in the Physiotherapy Rehabilitation of Distal Radial Fracture Patients: A Review",
+      "url": "https://hal.science/hal-05262242v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Background: Physiotherapy is the desired therapeutic intervention for the recovery of fractures and discomfort associated with bones. In certain cases the patient may suffer from extreme pain because of sudden jerks or injuries. The goal of this review was to map out the available literature on virtual reality in distal radius fracture rehabilitation across physiotherapy disciplines. Methods: An extensive and systematic search of the following databases was undertaken- Embase, Cochrane Library, PEDro, and CINAHL. The MeSH search items used were articles with “artificial intelligence, “machine learning” “virtual reality” “physiotherapy”. Articles were identified if they described an intervention which is considered within the scope of a physiotherapist and targeted those with DRF. Results: Total 35 were initially procured from which 26 articles were included, out of which 13 were observational, 6 Randomized Control Trials, 2 qualitative, 2 surveys and 3 systematic reviews. Only 9 studies focused explicitly on physiotherapy interventions. Conclusion: The results of there view indicate that there is insufficient evidence to direct physical therapists in the treatment of individual with distal radius fracture using artificial intelligence.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "High Luteinizing Hormone and Lower Levels of Sex Hormones in Younger Men With Distal Radius Fracture",
+      "url": "https://doi.org/10.1002/jbm4.10421",
+      "publisher": "JBMR Plus",
+      "year": "2020",
+      "doi": "10.1002/jbm4.10421",
+      "abstract": "ABSTRACT This study investigates the sex steroid hormone profile in younger men with distal radius fracture (DRF) to elucidate if this could explain the low bone density and osteoporosis previously observed. In a case–control study, 73 men with DRF (mean age 38 ± 9 years; range, 20–51) was compared with 194 age‐matched, population controls. Performed assays: total testosterone (TT), calculated free testosterone (cFT), luteinizing hormone (LH), follicle‐stimulating hormone (FSH), sex hormone‐binding globulin (SHBG), and total estradiol (E2). BMD hip and spine were measured. Fracture cases had lower cFT (298 versus 329 pmol/L; p = 0.008), but not TT, compared with controls. FSH and SHBG were not statistically different. LH was almost 30% higher (5.7 versus 4.5 IU/L; p < 0.001) and a lower E2 was observed (80.0 versus 87.1; p = 0.098). Men with DRF had a lower E2/SHBG ratio compared with controls (2.3 versus 2.9; p = 0.013). A higher proportion of the fracture group had low TT (<10.5 nmol/L; 21% versus 11%; p = 0.052), low cFT (<220 pmol/L; 18% versus 8%; p = 0.017), and low E2 (<73 pmol/L; 48% versus 35%; p = 0.044). Odds ratio (OR) for fracture when having low cFT was 2.3 (95% CI, 1.02–5.49; p = 0.044); with low E2, the OR was 1.7 (95% CI, 0.96–2.96). In this study in young men with DRF exploring sex hormone levels, we find that sex hormone profiles may be disturbed with a lower E2/SHBG ratio, lower cFT, and higher LH. Estrogen is also a strong determinant of bone mass in men; hence, low levels of E2 may be contributing to the observed lower BMD and these differences may be relevant to fracture risk. © 2020 The Authors. JBMR Plus published by Wiley Periodicals LLC on behalf of American Society for Bone and Mineral Research.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Distal radius fractures in the athlete",
+      "url": "https://doi.org/10.1007/s12178-017-9385-8",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "2017",
+      "doi": "10.1007/s12178-017-9385-8",
+      "abstract": "Distal radius fractures are one of the most common upper extremity fractures. Athletes with distal radius fractures are treated according to the same principles as non-athletes but present several unique considerations. At all levels of sport, injured athletes desire to return to play as rapidly as possible.Earlier operative fixation may allow an athlete to return to play more quickly. Volar locking plates are most commonly used for operative treatment of distal radius fractures due to their stability and low incidence of complications. Although the majority of distal radius fractures in athletes are treated non-operatively, operative intervention is offered when required to restore and maintain acceptable skeletal alignment. Return to sport is individualized guided by fracture stability, athlete age, and wrist-specific demands for competition.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Microstructure of the Distal Radius and Its Relevance to Distal Radius Fractures",
+      "url": "https://doi.org/10.1055/s-0037-1602849",
+      "publisher": "Georg Thieme Verlag KG",
+      "year": "2017",
+      "doi": "10.1055/s-0037-1602849",
+      "abstract": "Background There is a paucity of information on the microstructure of the distal radius, and how this relates to its morphology and function. Purpose This study aims to assess the microanatomical structure of the distal radius, and relate this to its morphology, function, and modes of failure. Methods Six dry adult skeletal distal radii were examined with microcomputed tomography scan and analyzed with specialist computer software. From 3D and 2D images, the subchondral, cortical, and medullary trabecular were assessed and interpreted based on the overall morphology of the radius. Results The expanded distal radial metaphysis provides a wide articular surface for distributing the articular load. The extrinsic wrist ligaments are positioned around the articular perimeter, except on the dorsal radial corner. The subchondral bone plate is a 2 mm multilaminar lattice structure, which is thicker below the areas of the maximal articular load. There are spherical voids distally, which become ovoid proximally, which assist in absorbing articular impact. It does not have Haversian canals. From the volar aspect of the lunate facet, there are thick trabecular columns that insert into the volar cortex of the radius at the metaphyseal–diaphyseal junction. For the remainder of the subchondral bone plate, there is an intermediate trabecular network, which transmits the load to the intermediate trabeculae and then to the trabecular arches. The arches pass proximally and coalesce with the ridges of the diaphyseal cortex. Conclusion The distal radius morphology is similar to an arch bridge. The subchondral bone plate resembles the smooth deck of the bridge that interacts with the mobile load. The load is transmitted to the rim, intermediate struts, and arches. The metaphyseal arches allow the joint loading forces to be transmitted proximally and laterally, providing compression at all levels and avoiding tension. The arches have a natural ability to absorb the impact which protects the articular surface. The distal radius absorbs and transmits the articular impact to the medullary cortex and intermediate trabeculae. The medullary arches are positioned to transmit the load from the intermediate trabeculae to the diaphysis. Clinical Relevance The microstructure of the distal radius is likely to be important for physiological loading of the radius. The subchondral bone plate is a unique structure that is different to the cancellous and cortical bone. All three bone types have different functions. The unique morphology and microstructure of the distal radius allow it to transmit load and protect the articular cartilage.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Denervation of the wrist with two surgical incisions. Is it effective? A review of 33 patients with an average of 41 months’ follow-up",
+      "url": "https://hal.science/hal-02135805v1",
+      "publisher": "Hand Surgery and Rehabilitation",
+      "year": "2017",
+      "doi": "10.1016/j.hansur.2017.04.003",
+      "abstract": "The goal of wrist denervation is to decrease pain at the wrist, whether caused by an intra- or extra-articular problem or even when the reason for the pain is unknown. It is an alternative to partial or total arthrodesis and proximal row carpectomy. Our hypothesis was that wrist denervation with a two-incision technique was a reliable and efficient way to treat painful degenerative wrists. Thirty-three patients, 48years old on average, were included in this study. Indications were scapholunate advanced collapse (SLAC) in 18 cases, scaphoid nonunion advanced collapse (SNAC) in 10, distal radius fracture sequelae with advanced radiocarpal osteoarthritis in 4, and post-traumatic ulnocarpal impingement in 1 case. At 41 months' follow-up (12-161), there was a 75% reduction in pain levels, decreasing from 7.1 to 1.8 on a visual analog scale (VAS). There were no modifications related to wrist range of motion or grip strength. The QuickDASH averaged 23 points (5 to 70). Radiographic evaluation showed progression of intracarpal degeneration in 6 patients. All but 2 patients returned to their previous work. Persistent dysesthesia was observed in 7 patients; it resolved in 3 cases and persisted in 4. One patient developed complex regional pain syndrome (CRPS). A midcarpal arthrodesis with scaphoidectomy was performed in one patient because of disabling pain 5months after surgery. Wrist denervation with a two-incision technique for post-traumatic osteoarthritis led to satisfactory results in 75% of cases with reduction in pain, preservation of range of motion and grip strength. However, this technique does not stop the progression of osteoarthritis. It can be discussed as a therapeutic alternative to proximal row carpectomy or intracarpal arthrodesis to treat degenerative painful wrists.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Treatment of distal radius fractures",
+      "url": "https://doi.org/10.4045/tidsskr.12.0297",
+      "publisher": "Norwegian Medical Association",
+      "year": "2013",
+      "doi": "10.4045/tidsskr.12.0297",
+      "abstract": "In light of the Norwegian Orthopaedic Association's wish to prepare guidelines for treatment of distal radius fractures, we have reviewed the knowledge base for the provision of such treatment.The paper is based on systematic reviews of treatment of distal radius fractures from literature search in the following databases: the Cochrane Library, Cochrane Database of Systematic Reviews, Database of Abstracts of Reviews of Effects (DARE Cochrane), the Health Technology Assessment (HTA) database, PreMedline, Medline and Embase.There is evidence for recommending percutaneous pinning of unstable, dorsally displaced distal radius fractures rather than conservative treatment, but which pinning method is best remains uncertain. There is also documentation to support the use of external fixation rather than conservative treatment. There is insufficient documentation available to draw conclusions regarding the relative efficacy of the various methods of external fixation, but external fixation in combination with adjuvant pinning of the fracture fragment enhances the result compared to external fixation alone. The evidence indicates that plates may enhance functional short-term results for unstable distal radius fractures compared to external fixation.There is evidence in support of differentiated treatment of distal radius fractures. However, many questions remain unanswered, and good prospective, randomised multi-centre trials are needed.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The Epidemiology of Distal Radius Fractures",
+      "url": "https://doi.org/10.1016/j.hcl.2012.02.001",
+      "publisher": "Elsevier BV",
+      "year": "2012",
+      "doi": "10.1016/j.hcl.2012.02.001",
+      "abstract": "Distal radius fractures are one of the most common types of fractures. Although the pediatric and elderly populations are at greatest risk for this injury, distal radius fractures still have a significant impact on the health and well-being of young adults. Data from the past 40 years have documented a trend toward an overall increase in the prevalence of this injury in both the pediatric and elderly populations. Understanding the epidemiology of this fracture is an important step toward the improvement of treatment strategies and the development of preventive measures with which to target this debilitating injury.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Pain and disability reported in the year following a distal radius fracture: a cohort study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC270028/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2003",
+      "doi": "10.1186/1471-2474-4-24",
+      "abstract": "Background Distal radius fractures are a common injury that cause pain and disability. The purpose of this study was to describe the pain and disabilities experienced by patients with a distal radius fracture in the first year following fracture. Methods A prospective cohort study of 129 patients with a fracture of the distal radius was conducted. Patients completed a Patient-rated Wrist Evaluation at their baseline clinic visit and at 2, 3, 6 and 12 months following their fracture. The frequency/severity of pain and disabilities reported was described at each time point. Results The majority of patients experienced mild pain at rest and (very) severe high levels of pain with movement during the first two-months following distal radius fracture. This time is also associated with (very) severe difficulty in performing specific functional activities and moderate to severe difficulty in four domains of usual activity. The majority of recovery occurred within six-months, but symptoms persisted for a small minority of patients at one-year following fracture. Patients had the most difficulty with carrying ten pounds and pushing up from a chair. Resumption of usual personal care and household work preceded, and was more complete, than work and recreational participation. Conclusions This study demonstrated that the normal course of recovery following a distal radius fracture is one where severe symptoms subside within the first two-months and the majority of patients can be expected to have minimal pain and disability by six-months following fracture. This information can be used when planning interventions and assessing whether the progress of a patient is typical of other patients.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Classification of distal radius fractures",
+      "url": "https://doi.org/10.3109/17453678508993006",
+      "publisher": "MJS Publishing, Medical Journals Sweden AB",
+      "year": "1985",
+      "doi": "10.3109/17453678508993006",
+      "abstract": "We analysed retrospectively a series of 269 distal radius fractures in adults in order to determine which of five different classification systems gave the best information about the radiographical prognosis of a fracture. The result after reduction in 195 cases was influenced mainly by the primary shortening, whereas dorsal angulation, radial displacement, and the age and sex of the patient were of minor importance. The system described by Older et al. in 1965, was superior to the others. In the analysis of the radiographical result after fracture union, the quality of the reduction, the Older classification system, and the age of the patient were the most important prognostic factors. We conclude that reduction of a distal radius fracture should primarily aim at correcting the shortening.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Acute Radial Artery Injury Associated with Distal Radius Fracture: Case Series and Literature Review",
+      "url": "https://hal.science/hal-05063265v1",
+      "publisher": "HAL open archive",
+      "year": "2025",
+      "doi": "10.9734/bpi/msti/v2/4062",
+      "abstract": "Distal Radius fractures (DRF) are the most common injuries encountered in the emergency department, indifferent age or sex. Cases in which distal radius fractures are associated with vascular injury of the radial or ulna artery are very rare and are reported to as complications of internal or external fixation of the DRF. In the literature, only three cases have been analyzed for this complex injury (DRF and laceration of the radial artery) which presents a unique challenge in terms of diagnosis and treatment management. The aim of this study is to analyze three cases of simultaneous DRF and radial artery injuries and to compare our results with those reported in the literature, focusing on the incidence and management of these injuries. The recognition of these complex injuries should be detected or, at least, the clinical suspicion of these injuries should be increased through the emergency department physicians.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.9,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Open Reduction & Internal Fixation of a Distal Radius Fracture with a Volar Locking Plate: A Case Report",
+      "url": "https://hal.science/hal-05262452v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "The present case report describe Open Reduction & Internal Fixation of a Distal Radius Fracture With a Volar Locking Plate. Anatomical reduction & stable fixation of fracture with or without bone grafting, greatly reduces the incidence of post-traumatic osteoarthritis & stiffness. The accuracy of fracture reduction co- relates directly to the final outcome. A 34-year-old man fell on his right outstretched h&. He presented to the casuality & on physical examination, he was noted to have deformity about his right wrist with moderate swelling. There was no neuro-vascular deficit. Various treatment modalities have been developed for distal radius fracture fixation. Treatment options range from closed reduction & cast application to open reduction with plates & screws. Locking plates address intra-articular & metaphyseal comminution. Biomechanical studies comparing volar fixed- angle locking plates with that of conventional dorsal plates report volar fixed-angled plates to be superior in terms of their strength.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.74,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A New Procedure-Specific Assessment Tool is Superior to Objective Structured Assessment of Technical Skills in Evaluating Orthopaedic Technical Skills",
+      "url": "http://journals.lww.com/jbjsoa/fulltext/10.2106/JBJS.OA.25.00199",
+      "publisher": "JBJS Open Access",
+      "year": "2026",
+      "doi": "10.2106/JBJS.OA.25.00199",
+      "abstract": "Background:. Competency-based medical education relies on assessment to evaluate performance and guide learning. This study compared the validity evidence and psychometric performance of the Objective Structured Assessment of Technical Skills (OSATS), adapted for distal radius fracture fixation, with a procedure-specific instrument—the Distal Radius Fracture Assessment of Technical Expertise (DRF-RATE)—for assessing technical performance during volar locking plate (VLP) fixation of distal radius fractures (DRFs). Methods:. First-year orthopaedic residents (n = 12) and practicing trauma or hand surgeons (n = 13) performed standardized VLP fixation on a cadaveric DRF model. Anonymous video recordings were independently assessed by 2 orthopaedic trauma surgeons and 2 hand surgeons using either OSATS or DRF-RATE. Validity evidence was gathered in accordance with the Messick contemporary validity framework. Results:. Internal consistency reliability was good-to-excellent for OSATS (α = 0.82-0.98) and DRF-RATE (α = 0.95). Interrater reliability was weaker for OSATS (r = 0.59-0.69) than for DRF-RATE (r = 0.78), though both demonstrated systematic rater bias. OSATS discriminated between novices and experienced surgeons (p = 0.02), whereas DRF-RATE demonstrated even stronger discrimination (p < 0.001). Contrasting-groups analysis revealed higher misclassification rates with OSATS (21%-40%) than DRF-RATE (11%-13%), indicating superior accuracy for the latter. Conclusions:. The DRF-RATE demonstrated stronger and more comprehensive validity evidence than the modified OSATS, with better reliability, higher discrimination and classification accuracy, and overall superior psychometric performance compared with OSATS. Its procedural granularity and structured design address key limitations of OSATS and support detailed, high-quality formative feedback for distal radius fracture fixation.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The clinical application of high-resolution peripheral computed tomography (HR-pQCT) in adults: state of the art and future directions",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8376700/",
+      "publisher": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+      "year": "2021",
+      "doi": "10.1007/s00198-021-05999-z",
+      "abstract": "High-resolution peripheral computed tomography (HR-pQCT) was developed to image bone microarchitecture in vivo at peripheral skeletal sites. Since the introduction of HR-pQCT in 2005, clinical research to gain insight into pathophysiology of skeletal fragility and to improve prediction of fractures has grown. Meanwhile, the second-generation HR-pQCT device has been introduced, allowing novel applications such as hand joint imaging, assessment of subchondral bone and cartilage thickness in the knee, and distal radius fracture healing. This article provides an overview of the current clinical applications and guidance on interpretation of results, as well as future directions. Specifically, we provide an overview of (1) the differences and reference data for HR-pQCT variables by age, sex, and race/ethnicity; (2) fracture risk prediction using HR-pQCT; (3) the ability to monitor response of anti-osteoporosis therapy with HR-pQCT; (4) the use of HR-pQCT in patients with metabolic bone disorders and diseases leading to secondary osteoporosis; and (5) novel applications of HR-pQCT imaging. Finally, we summarize the status of the application of HR-pQCT in clinical practice and discuss future directions. From the clinical perspective, there are both challenges and opportunities for more widespread use of HR-pQCT. Assessment of bone microarchitecture by HR-pQCT improves fracture prediction in mostly normal or osteopenic elderly subjects beyond DXA of the hip, but the added value is marginal. The prospects of HR-pQCT in clinical practice need further study with respect to medication effects, metabolic bone disorders, rare bone diseases, and other applications such as hand joint imaging and fracture healing. The mostly unexplored potential may be the differentiation of patients with only moderately low BMD but severe microstructural deterioration, which would have important implications for the decision on therapeutical interventions.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Acute Primary Total Hip Arthroplasty Combined with Open Reduction and Internal Fixation of the Posterior Acetabular Wall for Ipsilateral Femoral Neck Fracture Following a High-energy Fall: A Case Report",
+      "url": "https://hal.science/hal-05682737v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Aims: To report a rare case of combined ipsilateral femoral neck fracture and posterior acetabular wall fracture following a high-energy fall, managed acutely with simultaneous open reduction and internal fixation (ORIF) of the posterior acetabular wall and total hip arthroplasty (THA) via a Kocher-Langenbeck approach. Presentation of Case: A 49-year-old male with no significant past medical history presented after a 3-metre fall and sustained a comminuted right distal radius fracture, managed with an external fixator at admission, together with an ipsilateral femoral neck fracture and posterior acetabular wall fracture. The patient underwent acute primary uncemented THA combined with posterior acetabular wall fixation using a reconstruction plate via a Kocher-Langenbeck approach in a single surgical session. At 12-month follow-up, the patient demonstrated satisfactory functional recovery with stable implant fixation, no evidence of loosening, osteolysis or dislocation, and progressive return to daily activities, with a Harris Hip Score of 88 (compared with 42 in the immediate postoperative period) and a pain-free hip range of motion of 0–100° flexion. Discussion: This injury combination is rare and surgically challenging. Simultaneous ORIF of the acetabular wall and acute THA may avoid the risks of avascular necrosis, non-union and secondary arthroplasty procedures associated with isolated osteosynthesis of such complex fracture patterns. Conclusion: Acute primary THA combined with posterior acetabular wall fixation is a viable one-stage surgical solution in selected patients with ipsilateral femoral neck and posterior acetabular wall fractures following high-energy trauma, enabling early functional recovery and avoiding staged procedures.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.94,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Acute Carpal Tunnel Syndrome: Is It Only Wrist Fractures? A Case Series Report and Literature Review",
+      "url": "https://jocr.co.in/wp/2025/08/01/acute-carpal-tunnel-syndrome-is-it-only-wrist-fractures-a-case-series-report-and-literature-review/",
+      "publisher": "Journal of Orthopaedic Case Reports",
+      "year": "2025",
+      "doi": "10.13107/jocr.2025.v15.i08.5968",
+      "abstract": "Introduction: Acute carpal tunnel syndrome (CTS) is a rare but serious condition requiring prompt diagnosis and intervention to prevent permanent neurological deficits. This case series presents our department’s experience in managing this condition, highlighting diagnostic challenges, treatment strategies, and patient outcomes. Materials & Methods: This retrospective study analyses medical records of patients diagnosed with acute carpal tunnel syndrome from 2021 to 2023 within our coverage area. Information was extracted from medical records, including diagnostic codes and clinical assessments for all cases of acute carpal tunnel syndrome, diagnosed during the period from 2021 to 2023. Data analysed, include age, sex, medical history, symptoms, mechanism of injury, clinical features, imaging, management, and follow-up. Six native Scottish patients, aged 43 to 65, developed acute carpal tunnel syndrome due to various causes, including flexor sheath infection, wrist soft tissue injury, distal radius fractures (with and without plate fixation), and scaphoid fracture. Discussion and Results: Our case series highlights the heterogeneous presentation and aetiology of acute carpal tunnel syndrome, with causes ranging from trauma to infection. Early recognition remained challenging due to overlapping symptoms with other wrist pathologies. Surgical decompression was the mainstay of treatment, performed with variable urgency depending on clinical progression. Despite intervention outcomes were mixed. Some patients experienced full recovery while others had lingering symptoms. Conclusion: These findings underscore the importance of high clinical suspicion and prompt surgical intervention to optimise outcomes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.9,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Ceftriaxone-induced Immune Hemolysis: Clinical Insights from a Case Report",
+      "url": "https://hal.science/hal-05303747v1",
+      "publisher": "Asian Journal of Case Reports in Medicine and Health",
+      "year": "2025",
+      "doi": "",
+      "abstract": "Background: Ceftriaxone is a widely used cephalosporin antibiotic, but rarely, it may cause drug-induced immune hemolytic anemia (DIHA), a potentially life-threatening adverse reaction. Prompt recognition is essential to prevent morbidity, particularly in patients with comorbidities and concurrent surgical needs. Aim: This report underscores the importance of vigilance in identifying antibiotic-related hemolysis and highlights the effectiveness of early drug withdrawal and supportive care in preventing adverse outcomes. Case Presentation: We describe a 63-year-old male with a history of hypertension, diabetes mellitus, and prior ischemic stroke, who presented with left hip and wrist pain following a fall. Imaging revealed a closed intertrochanteric fracture of the left femur and a closed distal radius fracture. During hospitalization, while on ceftriaxone therapy, the patient developed a sudden hemoglobin drop (12.4 g/dL to 7.0 g/dL), reticulocytosis, elevated LDH, and hyperbilirubinemia, consistent with hemolysis. Coombs test was negative. Ceftriaxone-induced hemolysis was suspected, and the drug was discontinued. Supportive care with blood transfusions stabilized his condition. On 2nd January 2025, he underwent closed reduction and internal fixation (CRIF) of the femur and open reduction and internal fixation (ORIF) of the radius. Postoperative recovery was uneventful, and hemoglobin levels gradually improved with close monitoring. Conclusion: This case emphasizes the importance of early identification of ceftriaxone-induced hemolysis in patients presenting with unexplained anemia during therapy. Timely drug withdrawal, supportive care, and coordinated perioperative management can lead to favorable outcomes.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.9,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Missed Clavicular Fracture in an Adult without Head Injury or Polytrauma Review of Literature and a Rare Case",
+      "url": "https://hal.science/hal-05387355v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2017",
+      "doi": "",
+      "abstract": "We present a case of missed clavicular fracture in a patient with an associated wrist fracture but without head injury. This is the first case of missed clavicular fracture in an adult, despite adequate imaging, and without head injury presenting two days after the patient was discharged after fixation of the distal radius fracture.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.58,
+      "providers": [
+        "hal"
+      ]
+    }
+  ]
+}

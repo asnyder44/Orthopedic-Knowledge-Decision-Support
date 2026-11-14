@@ -40,17 +40,19 @@ relationships:
   source_ids:
   - S1
   - S2
+- predicate: CONTRASTS_WITH
+  target_id: KO-HAND-DX-004
+  target_label: Tinel's Sign
+  source_ids:
+  - S1
+  - S2
+  - S3
+- predicate: CONTRASTS_WITH
+  target_id: KO-HAND-DX-006
+  target_label: Durkan's Test
+  source_ids:
+  - S2
 proposed_concepts:
-- term: Tinel's Sign
-  suggested_type: DiagnosticTest
-  predicate: CONTRASTS_WITH
-  reason: The other common carpal tunnel exam test, often done together with Phalen's test and easy to
-    confuse with it [S1][S2][S3].
-- term: Durkan's Test (carpal compression test)
-  suggested_type: DiagnosticTest
-  predicate: CONTRASTS_WITH
-  reason: Another exam test for carpal tunnel syndrome that presses on the nerve instead of bending the
-    wrist [S2].
 - term: Boston Carpal Tunnel Questionnaire
   suggested_type: OutcomeMeasure
   predicate: MEASURED_BY
@@ -121,9 +123,9 @@ review:
 safety:
   not_medical_advice: true
   scope_note: General education only. Not a diagnosis or treatment plan.
-version: 0.1.0
+version: 0.1.1
 created: '2026-11-01'
-last_updated: '2026-11-01'
+last_updated: '2026-11-14'
 update_triggers:
 - A new systematic review or guideline reports the accuracy of Phalen's test for carpal tunnel syndrome.
 - AAOS updates its carpal tunnel syndrome guideline on physical exam tests.
@@ -134,6 +136,11 @@ change_log:
   date: '2026-11-01'
   by: OKDS agent (Claude)
   change: Initial AI draft written by the agent from source pack SP-KO-HAND-DX-002 (claude-opus-5-5, okds-gen-1.0).
+- version: 0.1.1
+  date: '2026-11-14'
+  by: KO Collector + Claude (Claude Code session)
+  change: 'Proposed concepts that now have KOs became relationships (same sources): contrasts with → Tinel''s
+    Sign (KO-HAND-DX-004); contrasts with → Durkan''s Test (KO-HAND-DX-006)'
 ---
 
 ## Summary
@@ -201,6 +208,8 @@ The test is positive if tingling or pain starts in the thumb, index finger, midd
 - Compared with: Nerve Conduction Study (KO-HAND-DX-001), the nerve test used to confirm CTS
 - Used to check for: Carpal Tunnel Syndrome (KO-HAND-COND-001)
 - Proposed topics (not in the registry yet): Tinel's Sign; Durkan's Test; Boston Carpal Tunnel Questionnaire
+- contrasts with → Tinel's Sign (KO-HAND-DX-004)
+- contrasts with → Durkan's Test (KO-HAND-DX-006)
 
 ## References
 1. [S1] NeuroSci, via PubMed Central. *Correlations of Tinel and Phalen Signs with Nerve Conduction Study Test Results in a Randomly Chosen Population of Patients with Carpal Tunnel Syndrome.* https://pmc.ncbi.nlm.nih.gov/articles/PMC12550957/ (retrieved 2026-11-01)

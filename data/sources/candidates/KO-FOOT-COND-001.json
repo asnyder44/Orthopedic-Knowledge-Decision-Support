@@ -1,0 +1,872 @@
+{
+  "term": "Ankle Sprain",
+  "collected": "2026-11-14",
+  "count": 48,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Impairment-based assessments for patients with lateral ankle sprain: A systematic review of measurement properties",
+      "url": "https://doi.org/10.1371/journal.pone.0280388",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0280388",
+      "abstract": "Study design: Systematic review. Background and objective: The International Ankle Consortium developed a core outcome set for the assessment of impairments in patients with lateral ankle sprain (LAS) without consideration of measurement properties (MP). Therefore, the aim of this study is to investigate MPs of assessments for the evaluation of individuals with a history of LAS. Methods: This systematic review of measurement properties follows PRISMA and COSMIN guidelines. Databases Pubmed, CINAHL, Embase, Web of Science, Cochrane Library and SPORTDiscus were searched for eligible studies (last search: July 2022). Studies on MP of specific tests and patient-reported outcome measurements (PROMs) in patients with acute and history of LAS (>4 weeks post injury) were deemed eligible. Results: Ten studies of acute LAS and 39 studies of history of LAS patients with a total of 3313 participants met the inclusion criteria. Anterior Drawer Test (ADT) in supine position five days post injury and Reverse Anterolateral Drawer Test are recommended in acute settings in single studies. In the history of LAS patients, Cumberland Ankle Instability Tool (CAIT) (4 studies) as a PROM, Multiple Hop (3 studies) and Star Excursion Balance Tests (SEBT) (3 studies) for dynamic postural balance testing showed good MPs. No studies investigated pain, physical activity level and gait. Only single studies reported on swelling, range of motion, strength, arthrokinematics, and static postural balance. Limited data existed on responsiveness of the tests in both subgroups. Conclusion: There was good evidence to support the use of CAIT as PROM, Multiple Hop, and SEBT for dynamic postural balance testing. Insufficient evidence exists in relation to test responsiveness, especially in the acute situation. Future research should assess MPs of assessments of other impairments associated with LAS.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.02,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Exercise-based rehabilitation reduces reinjury following acute lateral ankle sprain: A systematic review update with meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0262023",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0262023",
+      "abstract": "Research questions: 1) Do exercise-based rehabilitation programs reduce re-injury following acute ankle sprain?; 2) Is rehabilitation effectiveness moderated by the exercise’s therapeutic quality, content and volume? Methods: This systematic review with meta-analysis (PROSPERO: CRD42020210858) included randomized controlled trials in which adults who sustained an acute ankle sprain received exercise-based rehabilitation as an intervention. Databases CINAHL, Web of Science, SPORTDiscus, Cochrane Central Register of Controlled Trials, PEDro and Google Scholar were searched for eligible articles (last search: March 2021). ROB II screening tool by Cochrane was used to assess risk of bias and the i-CONTENT tool was used to assess quality of interventions. Both qualitative analysis and quantitative data synthesis were performed. Results: Fourteen randomized controlled trials comprising 2182 participants were included. Five studies were judged overall low risk of bias and i-CONTENT assessment showed poor to moderate therapeutic quality of exercise across all included articles. Pooled data found significant reductions in re-injury prevalence at 12 months, in favour of the exercise-based rehabilitation group vs usual care (OR: 0.60; 95%CI: 0.36 to 0.99). Pooled data for re-injury incidence showed not-significant results (MD: 0.027; 95%CI: -2.14 to 2.19). Meta-regression displayed no statistically significant association between training volume and odds of re-injury (r = -0.00086; SD: 0.00057; 95%CI: -0.00197 to 0.00025). Results from patient-reported outcomes and clinical outcomes were inconclusive at 1 month, 3–6 months and 7–12 months of follow up. Conclusion: Exercise-based rehabilitation reduces the risk of recurrent ankle sprain compared to usual care, but there is insufficient data to determine the optimal content of exercise-based interventions. Training volume varied considerably across studies but did not affect the odds of sustaining a re-injury. Effects on patient-reported outcomes and clinical outcomes are equivocal. Future research should compare different exercise contents, training volumes and intensities after ankle sprain.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.98,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Ankle Injuries and Disorders",
+      "url": "https://medlineplus.gov/ankleinjuriesanddisorders.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Your ankle bone and the ends of your two lower leg bones make up the ankle joint. Your ligaments, which connect bones to one another, stabilize and support it. Your muscles and tendons move it. The most common ankle problems are sprains and fractures (broken bones). A sprain is an injury to the ligaments. It may take a few weeks to many months to heal completely. A fracture is a break in a bone. You can also injure other parts of the ankle such as tendons, which join muscles to bone, and cartilage, which cushions your joints. Ankle sprains and fractures are common sports injuries.",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The effects of integrated traditional Chinese and western medicine rehabilitation programs on post-acute ankle sprain: A randomized controlled trial study protocol",
+      "url": "https://doi.org/10.1371/journal.pone.0318535",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0318535",
+      "abstract": "Background: Ankle sprain is a common clinical disease, which has the highest incidence rate among joint and ligament injuries. And acute ankle sprains can easily develop into chronic ankle instability, thereby increasing the difficulty of treatment. The current clinical guidelines for post-acute ankle sprains are still controversial. Pain and functional impairment are the most significant symptoms after ankle sprain. The main purpose of this study is to explore the safety and effectiveness of the intervention of integrated traditional Chinese and Western medicine rehabilitation programs on post-acute ankle sprains. Methods: This study is a single center, prospective, intervention randomized controlled trial with a control group. 174 patients of 18–35 years old with post-acute ankle sprain will be included. A randomized controlled study is conducted and divided into a control group and an experimental group. The control group receive routine treatment, while the experimental group receive integrated traditional Chinese and western medicine rehabilitation programs. The intervention lasted for a total of 2 weeks. The main outcome measures are Visual Analog Scale and Short Form McGill Pain Questionnaire; the secondary outcome measures are the Foot Ankle Ability Assessment Scale, AOFAS Ankle Posterior Foot Scale, torque and gait. This study protocol aims to evaluate the safety and effectiveness of integrated traditional Chinese and western medicine rehabilitation programs by comparing the results of two groups before and after treatment. This protocol will follow the SPIRIT guidance. Discussion: At present, there is a lack of rehabilitation management for post-acute ankle sprains. Therefore, this study has the potential to improve the healthcare for post-acute ankle sprains patients and might be used for future standardized evidence-based rehabilitation concepts. Trial registration: The trial was registered at Chinese Clinical Trial Registry https://www.chictr.org.cn/showproj.html?proj=234465 (Registration No.: ChiCTR2400087456). Date: 2024-07-29.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.0,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effects of cryotherapy on function, pain intensity, swelling, and dorsiflexion range of motion in acute ankle sprain: Protocol for the FROST randomised controlled trial",
+      "url": "https://doi.org/10.1371/journal.pone.0325456",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0325456",
+      "abstract": "Background: Cryotherapy is a low-cost treatment option recommended by clinical practice guidelines in acute ankle sprain. However, the current quality of the evidence that supports cryotherapy is still unclear. New high-quality randomised controlled trials are needed. The aim of the Freeze On Sprain Trial (FROST) is to investigate the effectiveness of cryotherapy on function, pain intensity, swelling and dorsiflexion range of motion in people with an acute episode of ankle sprain. Methods: This is a protocol of a two-arm randomised controlled trial. Eighty-two participants over 18 years old presenting grade I or II ankle sprain up to 72 hours from the episode will be randomly allocated to Ice Group (i.e., home prescription to apply cryotherapy on the injured ankle with elevation plus non-steroidal anti-inflammatory medication – NSAID) or No Ice Group (i.e., elevation plus NSAID). Our primary outcome is function measured by the Lower Extremity Functional Scale (LEFS) questionnaire. Our secondary outcomes are pain intensity (11-point numerical rating scale), swelling (figure-of-eight method) and dorsiflexion range of motion (goniometry). Participants will be assessed at baseline, 24 hours, 7–10 days, and 12 weeks after allocation. The analysis will follow the intention-to-treat principle using linear mixed models. Discussion: The results of this study will clarify the effectiveness of cryotherapy in acute ankle sprain for better clinical decision-making processes. Trial registration: Brazilian Clinical Trials Registry (REBEC) RBR-8v9gr9c.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.0,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The epidemiology of chronic ankle instability with perceived ankle instability- a systematic review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8161930/",
+      "publisher": "Journal of foot and ankle research",
+      "year": "2021",
+      "doi": "10.1186/s13047-021-00480-w",
+      "abstract": "Background Chronic ankle instability, developing from ankle sprain, is one of the most common sports injuries. Besides it being an ankle issue, chronic ankle instability can also cause additional injuries. Investigating the epidemiology of chronic ankle instability is an essential step to develop an adequate injury prevention strategy. However, the epidemiology of chronic ankle instability remains unknown. Therefore, the purpose of this study was to investigate the epidemiology of chronic ankle instability through valid and reliable self-reported tools in active populations. Methods An electronic search was performed on PubMed and Web of Science in July 2020. The inclusion criteria for articles were peer-reviewed, published between 2006 and 2020, using one of the valid and reliable tools to evaluate ankle instability, determining chronic ankle instability based on the criteria of the International Ankle Consortium, and including the outcome of epidemiology of chronic ankle instability. The risk of bias of the included studies was evaluated with an adapted tool for the sports injury review method. Results After removing duplicated studies, 593 articles were screened for eligibility. Twenty full-texts were screened and finally nine studies were included, assessing 3804 participants in total. The participants were between 15 and 32 years old and represented soldiers, students, athletes and active individuals with a history of ankle sprain. The prevalence of chronic ankle instability was 25%, ranging between 7 and 53%. The prevalence of chronic ankle instability within participants with a history of ankle sprains was 46%, ranging between 9 and 76%. Five included studies identified chronic ankle instability based on the standard criteria, and four studies applied adapted exclusion criteria to conduct the study. Five out of nine included studies showed a low risk of bias. Conclusions The prevalence of chronic ankle instability shows a wide range. This could be due to the different exclusion criteria, age, sports discipline, or other factors among the included studies. For future studies, standardized criteria to investigate the epidemiology of chronic ankle instability are required. The epidemiology of CAI should be prospective. Factors affecting the prevalence of chronic ankle instability should be investigated and clearly described.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.94,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Altered kinematics and muscle activities during half squats in people with ankle sprain history",
+      "url": "https://doi.org/10.1371/journal.pone.0326984",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0326984",
+      "abstract": "Copers are individuals with a history of ankle sprain who return to daily and sports activities without recurrent instability. However, it is unclear whether copers can use movement strategies comparable to those of healthy individuals without a history of ankle sprain. Understanding these movement strategies may be important for designing effective training programs and avoiding unintended biomechanical adaptations. Therefore, we aimed to compare the kinematics and muscular activities of the lower limbs during half squats and gait between copers and healthy controls. Ten copers (3 females) and 10 controls (4 females) were included in this secondary cross-sectional study. All participants were young, physically active adults who engaged in recreational physical activities for more than 1.5 h per week. We compared mean and peak angles of the thigh, shank, and foot calculated from inertial measurement units, as well as muscle activities of the biceps femoris long head, rectus femoris, gastrocnemius, and tibialis anterior between copers and controls during half squats and gait. During the half squat, copers exhibited lower thigh rotational angles and lower activities of biceps femoris long head, rectus femoris and tibialis anterior across both the descending and ascending phases, accompanied by a higher mean foot angle. In contrast, gait-related group differences were limited to the mean shank angle during the stance phase, with no significant differences observed in other limb angles or muscle activities. These findings suggest that movement strategy alterations in copers are task-dependent and more evident during demanding exercises such as the half squat than during level walking. Identifying such movement characteristics may be important for designing efficient training or rehabilitation programs for individuals with a history of ankle sprain.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Epidemiology of ankle sprains and anterior cruciate ligament injuries in youth basketball athletes in Niigata, Japan: A regional survey on injury management and healthcare professional involvement",
+      "url": "https://doi.org/10.1371/journal.pone.0344196",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0344196",
+      "abstract": "Objective: Ankle sprains are highly prevalent among youth basketball players, particularly in the under-15 age group, and inadequate post-injury management may contribute to the development of chronic ankle instability and may be associated with an increased risk of anterior cruciate ligament injuries. This study aimed to determine the incidence of ankle sprains and post-injury management among under-12 and under-15 basketball players through a large-scale questionnaire survey. Additionally, we examined the prevalence of chronic ankle instability and anterior cruciate ligament injuries to assess the epidemiological impact of ankle sprains on young athletes. By examining these age groups, this study aimed to provide insights into potential preventive strategies and the need for appropriate medical intervention during early athletic development. Methods: A cross-sectional survey was conducted to assess ankle sprain history, medical consultation rates, prevalence of chronic ankle instability, and anterior cruciate ligament injuries. The study targeted school and club basketball teams in Niigata, Japan. Overall, 2,747 youth basketball players from under-12 and under-15 age groups participated. Results: Ankle sprains were more common in under-15 players (61.2%) than in under-12 players (39.0%). Medical consultation rates were lower in under-15 players (56.6%) than in under-12 players (80.1%). Chronic ankle instability was found in 12.4% of the players. Among under-15 players, 0.9% underwent anterior cruciate ligament reconstruction, and half of them had chronic ankle instability. Many players returned to play despite experiencing pain. Conclusions: The coexistence of chronic ankle instability and anterior cruciate ligament injuries suggests a possible association between these conditions; however, causal relationships cannot be inferred because of the cross-sectional study design and the small number of anterior cruciate ligament cases.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Using the app “Injurymap” to provide exercise rehabilitation for people with acute lateral ankle sprains seen at the Hospital Emergency Department–A mixed-method pilot study",
+      "url": "https://doi.org/10.1371/journal.pdig.0000221",
+      "publisher": "PLOS Digital Health",
+      "year": "2023",
+      "doi": "10.1371/journal.pdig.0000221",
+      "abstract": "Background: Acute lateral ankle sprains (LAS) account for 4–5% of all Emergency Department (ED) visits. Few patients receive the recommended care of exercise rehabilitation. A simple solution is an exercise app for mobile devices, which can deliver tailored and real-time adaptive exercise programs. Purpose: The purpose of this pilot study was to investigate the use and preliminary effect of an app-based exercise program in patients with LAS seen in the Emergency Department at a public hospital. Materials and methods: We used an app that delivers evidence-based exercise rehabilitation for LAS using algorithm-controlled progression. Participants were recruited from the ED and followed for four months. Data on app-use and preliminary effect were collected continuously through the exercise app and weekly text-messages. Baseline and follow-up data were collected though an online questionnaire. Semi-structured interviews were performed after participants stopped using the app. Results: Health care professionals provided 485 patients with study information and exercise equipment. Of those, 60 participants chose to enroll in the study and 43 became active users. The active users completed a median of 7 exercise sessions. Most of the active users were very satisfied or satisfied (79%-93%) with the app and 95.7% would recommend it to others. The interviews showed that ankle sprains were considered an innocuous injury that would recover by itself. Several app users expressed they felt insufficiently informed from the ED health care professionals. Only 39% felt recovered when they stopped exercising, and 33% experienced a recurrent sprain in the study period. Conclusion: In this study, only few patients with LAS became active app users after receiving information in the ED about a free app-based rehabilitation program. We speculate the reason for this could be the perception that LAS is an innocuous injury. Most of the patients starting training were satisfied with the app, although few completed enough exercise sessions to realistically impact clinical recovery. Interestingly more than half of the participants did not feel fully recovered when they stopped exercising and one third experienced a recurrent sprain. Trial-identifiers: https://clinicaltrials.gov/ct2/show/NCT03550274, preprint (open access): https://www.medrxiv.org/content/10.1101/2022.01.31.22269313v1.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Acute ankle sprain in athletes: Clinical aspects and algorithmic approach",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745493/",
+      "publisher": "World journal of orthopedics",
+      "year": "2020",
+      "doi": "10.5312/wjo.v11.i12.534",
+      "abstract": "Acute ankle sprain is the most common lower limb injury in athletes and accounts for 16%-40% of all sports-related injuries. It is especially common in basketball, American football, and soccer. The majority of sprains affect the lateral ligaments, particularly the anterior talofibular ligament. Despite its high prevalence, a high proportion of patients experience persistent residual symptoms and injury recurrence. A detailed history and proper physical examination are diagnostic cornerstones. Imaging is not indicated for the majority of ankle sprain cases and should be requested according to the Ottawa ankle rules. Several interventions have been recommended in the management of acute ankle sprains including rest, ice, compression, and elevation, analgesic and anti-inflammatory medications, bracing and immobilization, early weight-bearing and walking aids, foot orthoses, manual therapy, exercise therapy, electrophysical modalities and surgery (only in selected refractory cases). Among these interventions, exercise and bracing have been recommended with a higher level of evidence and should be incorporated in the rehabilitation process. An exercise program should be comprehensive and progressive including the range of motion, stretching, strengthening, neuromuscular, proprioceptive, and sport-specific exercises. Decision-making regarding return to the sport in athletes may be challenging and a sports physician should determine this based on the self-reported variables, manual tests for stability, and functional performance testing. There are some common myths and mistakes in the management of ankle sprains, which all clinicians should be aware of and avoid. These include excessive imaging, unwarranted non-weight-bearing, unjustified immobilization, delay in functional movements, and inadequate rehabilitation. The application of an evidence-based algorithmic approach considering the individual characteristics is helpful and should be recommended.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Physical activity levels among rural adolescents with a history of ankle sprain and chronic ankle instability",
+      "url": "https://doi.org/10.1371/journal.pone.0216243",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0216243",
+      "abstract": "Ankle sprains and their common sequalae are thought to negatively affect physical activity levels and health-related quality of life among active populations, but limited evidence has described this among younger populations. This study aimed to determine the prevalence rate of ankle sprain and chronic ankle instability among rural adolescents and subsequently compare their physical activity levels based on ankle injury status. The study was conducted in a rural high school in North Carolina. High school students completed an online survey that assessed ankle injury history, perception of ankle instability and function, and physical activity. Respondents were categorized into one of four groups based on ankle injury history and complaints of instability: 1) uninjured (no history of injury); 2) unstable (history of injury >1 year and recurrent instability); 3) copers (history of injury >1 year and no recurrent instability); and 4) potentially unstable (injury within the past year). Frequency of physical activity was compared across groups using analysis of variance, Kruskall-Wallis test (α = 0.05), and responses to activity type were assessed using chi-square. Physical activity was found to differ significantly between the four groups (χ42=11.65,p<0.01,ηp2=.07) with unstable respondents reporting more physical activity than uninjured respondents (unstable = 4706.05 ± 4610.56 MET-minutes/week; uninjured = 2592.93 ± 2946.02 MET-minutes/week). No differences were found between other groups. Despite injury history and sensations of instability, respondents with chronic ankle instability reported greater physical activity levels than uninjured participants. As this is contrary to pre-existing hypotheses, it is possible that continued physical activity after injury among adolescents may contribute to deleterious outcomes such as increased frequency of chronic instability.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Predicting Functional Recovery after Acute Ankle Sprain",
+      "url": "https://doi.org/10.1371/journal.pone.0072124",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0072124",
+      "abstract": "Introduction: Ankle sprains are among the most common acute musculoskeletal conditions presenting to primary care. Their clinical course is variable but there are limited recommendations on prognostic factors. Our primary aim was to identify clinical predictors of short and medium term functional recovery after ankle sprain. Methods: A secondary analysis of data from adult participants (N = 85) with an acute ankle sprain, enrolled in a randomized controlled trial was undertaken. The predictive value of variables (age, BMI, gender, injury mechanism, previous injury, weight-bearing status, medial joint line pain, pain during weight-bearing dorsiflexion and lateral hop test) recorded at baseline and at 4 weeks post injury were investigated for their prognostic ability. Recovery was determined from measures of subjective ankle function at short (4 weeks) and medium term (4 months) follow ups. Multivariate stepwise linear regression analyses were undertaken to evaluate the association between the aforementioned variables and functional recovery. Results: Greater age, greater injury grade and weight-bearing status at baseline were associated with lower function at 4 weeks post injury (p<0.01; adjusted R square=0.34). Greater age, weight-bearing status at baseline and non-inversion injury mechanisms were associated with lower function at 4 months (p<0.01; adjusted R square=0.20). Pain on medial palpation and pain on dorsiflexion at 4 weeks were the most valuable prognostic indicators of function at 4 months (p< 0.01; adjusted R square=0.49). Conclusion: The results of the present study provide further evidence that ankle sprains have a variable clinical course. Age, injury grade, mechanism and weight-bearing status at baseline provide some prognostic information for short and medium term recovery. Clinical assessment variables at 4 weeks were the strongest predictors of recovery, explaining 50% of the variance in ankle function at 4 months. Further prospective research is required to highlight the factors that best inform the expected convalescent period, and risk of recurrence.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.12,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Understanding acute ankle ligamentous sprain injury in sports",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2724472/",
+      "publisher": "Sports medicine, arthroscopy, rehabilitation, therapy & technology : SMARTT",
+      "year": "2009",
+      "doi": "10.1186/1758-2555-1-14",
+      "abstract": "This paper summarizes the current understanding on acute ankle sprain injury, which is the most common acute sport trauma, accounting for about 14% of all sport-related injuries. Among, 80% are ligamentous sprains caused by explosive inversion or supination. The injury motion often happens at the subtalar joint and tears the anterior talofibular ligament (ATFL) which possesses the lowest ultimate load among the lateral ligaments at the ankle. For extrinsic risk factors to ankle sprain injury, prescribing orthosis decreases the risk while increased exercise intensity in soccer raises the risk. For intrinsic factors, a foot size with increased width, an increased ankle eversion to inversion strength, plantarflexion strength and ratio between dorsiflexion and plantarflexion strength, and limb dominance could increase the ankle sprain injury risk. Players with a previous sprain history, players wearing shoes with air cells, players who do not stretch before exercising, players with inferior single leg balance, and overweight players are 4.9, 4.3, 2.6, 2.4 and 3.9 times more likely to sustain an ankle sprain injury. The aetiology of most ankle sprain injuries is incorrect foot positioning at landing - a medially-deviated vertical ground reaction force causes an explosive supination or inversion moment at the subtalar joint in a short time (about 50 ms). Another aetiology is the delayed reaction time of the peroneal muscles at the lateral aspect of the ankle (60-90 ms). The failure supination or inversion torque is about 41-45 Nm to cause ligamentous rupture in simulated spraining tests on cadaver. A previous case report revealed that the ankle joint reached 48 degrees inversion and 10 degrees internal rotation during an accidental grade I ankle ligamentous sprain injury during a dynamic cutting trial in laboratory. Diagnosis techniques and grading systems vary, but the management of ankle ligamentous sprain injury is mainly conservative. Immobilization should not be used as it results in joint stiffness, muscle atrophy and loss of proprioception. Traditional Chinese medicine such as herbs, massage and acupuncture were well applied in China in managing sports injuries, and was reported to be effective in relieving pain, reducing swelling and edema, and restoring normal ankle function. Finally, the best practice of sports medicine would be to prevent the injury. Different previous approaches, including designing prophylactice devices, introducing functional interventions, as well as change of games rules were highlighted. This paper allows the readers to catch up with the previous researches on ankle sprain injury, and facilitate the future research idea on sport-related ankle sprain injury.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Prevention of Lower Extremity Injuries in Basketball: A Systematic Review and Meta-Analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4547118/",
+      "publisher": "Sports health",
+      "year": "2015",
+      "doi": "10.1177/1941738115593441",
+      "abstract": "Context Lower extremity injuries are common in basketball, yet it is unclear how prophylactic interventions affect lower extremity injury incidence rates. Objective To analyze the effectiveness of current lower extremity injury prevention programs in basketball athletes, focusing on injury rates of (1) general lower extremity injuries, (2) ankle sprains, and (3) anterior cruciate ligament (ACL) tears. Data sources PubMed, MEDLINE, CINAHL, SPORTDiscus, and the Cochrane Register of Controlled Trials were searched in January 2015. Study selection Studies were included if they were randomized controlled or prospective cohort trials, contained a population of competitive basketball athletes, and reported lower extremity injury incidence rates specific to basketball players. In total, 426 individual studies were identified. Of these, 9 met the inclusion criteria. One other study was found during a hand search of the literature, resulting in 10 total studies included in this meta-analysis. Study design Systematic review and meta-analysis. Level of evidence Level 2. Data extraction Details of the intervention (eg, neuromuscular vs external support), size of control and intervention groups, and number of injuries in each group were extracted from each study. Injury data were classified into 3 groups based on the anatomic diagnosis reported (general lower extremity injury, ankle sprain, ACL rupture). Results Meta-analyses were performed independently for each injury classification. Results indicate that prophylactic programs significantly reduced the incidence of general lower extremity injuries (odds ratio [OR], 0.69; 95% CI, 0.57-0.85; P Conclusion In basketball players, prophylactic programs may be effective in reducing the risk of general lower extremity injuries and ankle sprains, yet not ACL injuries.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.7,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Evaluation of Chronic Lateral Ankle Instability With an Ankle Sprain Simulator: A Controlled Study in Physically Active Subjects",
+      "url": "https://hal.science/hal-05695584v1",
+      "publisher": "Journal of Foot and Ankle Research",
+      "year": "2026",
+      "doi": "10.1002/jfa2.70182",
+      "abstract": "Purpose: Chronic lateral ankle instability (CLAI), categorized by repetitive ankle sprains, has previously been studied utilizing either questionnaires or ankle sprain simulators. However, a quantitative tool that safely creates an unexpected ankle sprain during gait has not been proposed. This study aimed to determine if a novel ankle sprain simulator differentiates between CLAI and healthy controls and compare findings to known measures of impaired function. Methods: Thirty-two feet were assigned to the CLAI group or the control group. Participants walked on a treadmill wearing boots designed to induce unexpected ankle inversion. To do so, the device was triggered randomly during swing to induce instability during loading response. Maximal inversion velocities (MIV) were measured immediately after initial contact. A Ratio MIV was determined by dividing the MIV of the simulated sprain by the average MIV of the 5 steps preceding the simulated sprain. Also, Identification of Functional Ankle Instability (IdFAI) and the Foot Ankle Ability Measurement (FAAM) questionnaires were collected. Results: Mean MIV in the CLAI and Control groups were 213.5 ± 54.7°/s and 177.0 ± 64.2°/s (p = 0.02), while mean Ratio MIV were 1.22 ± 0.13 and 1.08 ± 0.08 (p < 0.001), respectively. The area under the curve to predict CLAI was 0.83 (95% CI; [0.73; 0.93]) for Ratio MIV with a value greater than 1.15 showing 68% sensitivity and 93.8% specificity. Ratio MIV was moderately correlated with IdFAI (ρ = 0.50; p < 0.0001) and weakly correlated with impairments in activities of daily living (ρ = -0.45; p < 0.001) and sports (ρ = -0.43; p < 0.001). Conclusion: Inversion velocities caused by the ankle sprain simulator differentiated CLAI from healthy controls. Ratio MIV was associated with measurements of functional CLAI, impairments in ADLs and sports.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Early osteopathic treatment delivered to patients with an acute lateral ankle sprain improves recovery: an investigative study",
+      "url": "https://univ-reims.hal.science/hal-05481166v1",
+      "publisher": "Journal of Osteopathic Medicine",
+      "year": "2026",
+      "doi": "10.1515/jom-2025-0096",
+      "abstract": "Abstract Context Acute lateral ankle sprain (ALAS) is responsible for short-term disability, increased risk for future acute ankle sprain, and chronic ankle instability. Several studies highlighted that manipulative therapy may reduce pain and increase the range of motion (ROM) of the injured ankle, but not all of them targeted acute injuries. Some studies focused their interest on a specific manipulative technique or utilized either physiotherapy or chiropractic techniques. Objectives The objectives of this study were to evaluate the effectiveness of osteopathic care in ALAS, to assess pain, edema, and functional stability of the injured ankle, and to assess and comparing mobility between the injured and noninjured ankle. Methods We conducted an interventional randomized controlled trial (RCT) in the emergency department (ED) of a French University Hospital. Fifty patients were enrolled in this study. They had to be ≥18 years old, consulting in the ED for a single ALAS (<72 h) stage 1 or 2, and must have had preliminary consultation with an emergency physician. Patients with an ALAS stage 3 or fractured, or with history of homolateral ankle surgery, were excluded. Patients were randomized either in the medical treatment (MT) group or in the medical and osteopathic treatment (MOT) group and had a 3-week follow-up. In the MOT group, the intervention consisted of a single osteopathic treatment (manual intervention) at Day 0, depending on the tissue affected and on the intensity of the tissular tension found, and individualized advice provided at Days 0, 7, and 21. Comparisons between groups were investigated utilizing the chi-square or Fisher’s exact test, or Student’s t -test or Mann Whitney U-test, as appropriate. Results Forty-five patients completed the study. The patients’ median age was 29.5 years old (23–40 years). At Day 21, 95.7 % of patients in the MOT group had equivalent capacity of unloaded dorsal flexion between the injured and noninjured ankle, vs. 50.0 % of patients in the MT group (p=0.0005). Between Day 0 and Day 21, the pain with the injured ankle loaded and unloaded decreased more significantly in the MOT group (p=0.001 and p=0.0007, respectively), while the loaded and unloaded dorsal flexion, and the unloaded plantar flexion, increased (p=0.003, p<0.0001 and p=0.02, respectively). Between Day 0 and Day 0 postosteopathic treatment, all judgment criteria showed improvement in the MOT group. At Day 7, all the functional stability tests were performed better by patients in the MOT group. Conclusions Early osteopathic treatment associated with usual MT, delivered to patients with an ALAS, may improve mobility and functional stability, and may reduce pain and edema, in the 3 weeks postintervention. These promising findings require confirmation in a larger controlled trial.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "New Insights Optimize Landing Strategies to Reduce Lower Limb Injury Risk",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11109754/",
+      "publisher": "Cyborg and bionic systems (Washington, D.C.)",
+      "year": "2024",
+      "doi": "10.34133/cbsystems.0126",
+      "abstract": "Single-leg landing (SL) is often associated with a high injury risk, especially anterior cruciate ligament (ACL) injuries and lateral ankle sprain. This work investigates the relationship between ankle motion patterns (ankle initial contact angle [AICA] and ankle range of motion [AROM]) and the lower limb injury risk during SL, and proposes an optimized landing strategy that can reduce the injury risk. To more realistically revert and simulate the ACL injury mechanics, we developed a knee musculoskeletal model that reverts the ACL ligament to a nonlinear short-term viscoelastic mechanical mechanism (strain rate-dependent) generated by the dense connective tissue as a function of strain. Sixty healthy male subjects were recruited to collect biomechanics data during SL. The correlation analysis was conducted to explore the relationship between AICA, AROM, and peak vertical ground reaction force (PVGRF), joint total energy dissipation (TED), peak ankle knee hip sagittal moment, peak ankle inversion angle (PAIA), and peak ACL force (PAF). AICA exhibits a negative correlation with PVGRF ( r = -0.591) and PAF ( r = -0.554), and a positive correlation with TED ( r = 0.490) and PAIA ( r = 0.502). AROM exhibits a positive correlation with TED ( r = 0.687) and PAIA ( r = 0.600). The results suggested that the appropriate increases in AICA (30° to 40°) and AROM (50° to 70°) may reduce the lower limb injury risk. This study has the potential to offer novel perspectives on the optimized application of landing strategies, thus giving the crucial theoretical basis for decreasing injury risk.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Validity and reproducibility of the ARL‐RSI score to assess psychological readiness before returning to sport after lateral ankle sprain",
+      "url": "https://hal.science/hal-04934844v1",
+      "publisher": "Journal of Experimental Orthopaedics",
+      "year": "2024",
+      "doi": "10.1002/jeo2.12073",
+      "abstract": "Purpose: Although multiple scales exist to evaluate psychological readiness before returning to sport post-lateral ankle sprain (LAS), no score has been validated specifically for LAS or chronic ankle instability. The main aim of the study is to evaluate the validity and reproducibility of the ankle ligament reconstruction-return to sport injury (ALR-RSI) scale in assessing psychological readiness after LAS and its ability to identify patients who can return to their preinjury level. Methods: A total of 64 patients (35 females and 29 males; 33.8 ± 13.2 years) who recently experienced an acute LAS were included in this study. All patients participated in a predictive validation component of the study and were assessed at 2 and 4 months following an LAS. The ALR-RSI was completed twice by 20 patients at a 7-day interval to evaluate the reliability of the score in patients suffering from LAS. Results: The ALR-RSI was significantly (p < 0.001) and positively correlated with the other scores. The correlation was strong with the Foot and Ankle Ability Measure Sports: r = 0.77; 95% confidence interval [CI]: 0.78–0.83) and moderate with the American Orthopaedic Foot and Ankle Society (r = 0.69; 95% CI: 0.60–0.78) and the Foot and Ankle Ability Measure Activities of Daily Living Scores (r = 0.63; 95% CI: 0.51–0.72). Two-month ALR-RSI scores had good ability for predicting nonreturners at 4 months (area under the curve = 0.76; 95% CI: 0.6–0.9; p = 0.005). A Youden index of 0.51 was observed at an ALR-RSI score of 46%, corresponding to a sensitivity of 67% and specificity of 83%. Test–retest reliability of the ALR-RSI was excellent, with an ICC of 0.98 (95% CI: 0.96–0.99), a standard error of measurement of 3.02% and a minimum detectable change of 8.37%. Conclusions: The results of the current study validated the ALR-RSI as an important questionnaire to assess psychological readiness to return to sport after LAS. Level of Evidence: Level II prospective cohort study.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Lateral chronic ankle instability: A brief review",
+      "url": "http://www.jodt.org/article.asp?issn=2665-9352;year=2023;volume=6;issue=3;spage=204;epage=208;aulast=Agarwal",
+      "publisher": "Journal of Orthopaedic Diseases and Traumatology",
+      "year": "2023",
+      "doi": "10.4103/jodp.jodp_85_22",
+      "abstract": "Lateral ankle sprain (LAS) is considered “an acute traumatic injury to the lateral ligament complex of the ankle joint as a result of excessive inversion of the rear foot or a combined plantar flexion and adduction of the foot”. Chronic ankle instability (CAI) is characterized by a history of one significant LAS, subsequent recurrent sprains, episodes of the ankle giving way, or self-reported deficits in ankle function for >1 year following the initial sprain. If untreated, instability may lead to cartilage deterioration and end in degenerative ankle disease. The objective of this review is to provide recent scientific evidence on CAI. Through this article, we have tried to put some light upon a problem that causes significant morbidity to the patient by compilation of the available evidence-based concepts. The need for this article is as there is the absence of a generalized treatment algorithm, the presence of various treatment modalities, the presence of two schools of opinion regarding treatment, and the absence of comprehensive text. Years of research have identified numerous impairments associated with CAI such as decreases in range of motion, strength, postural control, and altered movement patterns during functional activities when compared to individuals with no LAS history. As a result, an impairment-based rehabilitation model was developed to treat the common impairments associated with CAI. The impairment-based rehabilitation model has been shown to be an effective rehabilitation strategy at improving both clinical and patient-oriented outcomes in patients with CAI. We have reviewed the current literature regarding diagnosis, imaging, conservative methods, surgical approaches, and rehabilitation protocols.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Ankle Sprain, Physiotherapy from the Evaluation of the Injury, the Assessment of its Severity to the Restoration of Podal Movement",
+      "url": "https://hal.science/hal-03342413v1",
+      "publisher": "Acta Scientific Medical Sciences",
+      "year": "2021",
+      "doi": "",
+      "abstract": "The treatment of sprains has long been highly controversial between proponents of primary surgical repair and those of treatment by immobilization (cast, splint, etc.) or functional treatment (orthopedic and physiotherapy). For anatomical and pathophysiological reasons, risk of laxity, instability and recurrence. Functional treatment (physical treatment) is still relevant for the ankle sprain. It includes relative immobilization by strapping or semi-rigid orthosis and early joint mobilization. However, many of the proposed rehabilitation techniques have not been the subject of comparative studies. No comparative studies in Central and Eastern Europe have been really identified. However, reliable means of measurement exist to attest to the efficiency of the techniques. Neuromuscular reprogramming is more and more required in this process with regard to the many proprioceptive receptors animating the balance, walking and cerebellum pattern on the one hand, and pain, post-pain reaction, motor control and proprioceptive response on the other. In this general review, we propose some developments, certainly not new, but summarizing, invigorated and associated, and illuminating our clinical experience. Le traitement des entorses a longtemps a été très controversé entre les partisans de la réparation chirurgicale primaire et ceux du traitement par immobilisation (plâtrée, attelle, etc.) ou par traitement fonctionnel (orthopédique et kinésithérapique). Pour des raisons anatomiques et physiopathologiques, de risque de laxité, d'instabilité et de récidive. Le traitement fonctionnel est toujours d'actualité pour l'entorse de la cheville. Il englobe: une immobilisation relative par strapping ou orthèse semi-rigide et une mobilisation articulaire précoce. Cependant, parmi les techniques de rééducation proposées, beaucoup n'ont pas fait l'objet d'études comparatives. Aucune étude comparative en Europe central et de l'est n'a été identifiée. Des moyens de mesure fiables existent tout de même pour attester l'efficience des techniques. La reprogrammation neuromusculaire est de mise dans ce processus au regard des récepteurs proprioceptifs animant le schéma équilibre, marche et cervelet d'un côté, et douleur, réaction post douleur, contrôle moteur et réponse proprioceptive de l'autre côté. Nous proposons dans cette revue générale des mis au point, certes pas nouvelles, mais récapitulatives, vivifiée et associées, et luminées notre expérience clinique.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Rehabilitation of Acute and Chronic Ankle Sprain for Male Cricketers Through Headway (Isometric, Isotonic and Proprioception) Exercises",
+      "url": "https://hal.science/hal-05286494v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "The present study investigated that Headway (Isometric, Isotonic and Proprioception) exercises are effective for acute & chronic ankle sprain injury, which was observed through experimental research. Ninety-four amateur cricketers of age, 15-35 years (Control Injured, N=48; Headway Rehab Group N=46) with a confirmed acute or chronic ankle sprain, selected from four different cities of Punjab, Pakistan was evaluated through Star Excursion Balance Test (SEBT), Single Leg Balance test (SLB) and subject to a set of progressively increasing exercises on ground known as Headway rehab exercises which consisted of Isometric, Isotonic and proprioception protocols. Another group of the same level of cricketers (N=40) was managed parallel for comparisons. The Control Injured and Headway Rehab Group was left with 40 subjects each because during the course of Headway exercise eight and six subjects left the study due to their personal reasons. Comparisons of pre and post-exercise (Control Injured Group) values showed a significant increase (p<0.001) in Lateral direction reach and Posteromedial direction (p<0.05) while the rest of the six directions showed non-significant results. Headway Rehab Group showed an overall improvement of 5.2% and 7.5% with an increase (cm) of 3.4 and 4.9 for the non-injured and injured leg respectively. However, the range of improvement in percentage for all eight directions (anterior, anterolateral, lateral, posterolateral, posterior, posteromedial, medial, anteromedial) lies between 5.7-7.1(range) and 6.3-9.6 (range) for the non-injured and injured leg respectively. Similarly, the difference between pre and post-exercise difference of two positions of non-injured leg and injured leg (closed and open eyes) in seconds were 2.9, 12.1 and 4.1, 27.7 respectively. However, the improvement percentage of two directions (closed and open eyes) of Headway Rehab Group was 44.9 and 75.3 for non-injured and 12.7 and 51.6 per cent for injured group respectively. It was evaluated through the Single Leg Balance Test and analyzed by paired sample t-test found highly significant (p<0.001). The results indicated that Headway exercises improved isometric and isotonic muscular strength, proprioception and stability that ultimately helped to recover, regaining strength and reinstall proprioception. After completing the Headway Rehab plan the subjects were followed for four months to check the recurrence and found recurrence of Control Injured Group and Headway Rehab Group was 17.5% and 12.5% respectively.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effect of unsupervised home based proprioceptive training on recurrences of ankle sprain: randomised controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2714677/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2009",
+      "doi": "10.1136/bmj.b2684",
+      "abstract": "Objective To evaluate the effectiveness of an unsupervised proprioceptive training programme on recurrences of ankle sprain after usual care in athletes who had sustained an acute sports related injury to the lateral ankle ligament. Design Randomised controlled trial, with one year follow-up. Setting Primary care. Participants 522 athletes, aged 12-70, who had sustained a lateral ankle sprain up to two months before inclusion; 256 (120 female and 136 male) in the intervention group; 266 (128 female and 138 male) in the control group. Intervention Both groups received treatment according to usual care. Athletes allocated to the intervention group additionally received an eight week home based proprioceptive training programme. Main outcome measure Self reported recurrence of ankle sprain. Results During the one year follow-up, 145 athletes reported a recurrent ankle sprain: 56 (22%) in the intervention group and 89 (33%) in the control group. Nine athletes needed to be treated to prevent one recurrence (number needed to treat). The intervention programme was associated with a 35% reduction in risk of recurrence. Cox regression analysis showed significantly fewer recurrent ankle sprains in the intervention than in the control group. This effect was found for self reported recurrent ankle sprains (relative risk 0.63, 95% confidence interval 0.45 to 0.88), recurrent ankle sprains leading to loss of sports time (0.53, 0.32 to 0.88), and recurrent ankle sprains resulting in healthcare costs or lost productivity costs (0.25, 0.12 to 0.50). No significant differences were found between medically treated athletes in the intervention group and medically treated controls. Athletes in the intervention group who were not medically treated had a significantly lower risk of recurrence than controls who were not medically treated. Conclusions The use of a proprioceptive training programme after usual care of an ankle sprain is effective for the prevention of self reported recurrences. This proprioceptive training was specifically beneficial in athletes whose original sprain was not medically treated. Trial registration ISTRCN34177180.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Neuromuscular control of ankle and hip during performance of the star excursion balance test in subjects with and without chronic ankle instability",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089409/",
+      "publisher": "PloS one",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0201479",
+      "abstract": "Background/Purpose: Ankle sprains are common and potentially disabling musculoskeletal injuries that often lead to chronic ankle instability (CAI). CAI has been linked to impairments in postural and neuromuscular control; however, inconsistent findings have been reported. Individuals who experience a lateral ankle sprain, but do not develop instability, termed copers, may adapt different neuromuscular control strategies after injury. This study aimed to compare postural control and electromyographic (EMG) activity of hip and ankle muscles during the performance of the Star Excursion Balance Test (SEBT) in subjects with and without CAI. Method: 48 participants were classified into three groups (16 control, 16 copers, 16 CAI) based on ankle sprain history and Cumberland Ankle Instability Tool score. Outcome measures included normalized reach distance, center of pressure (COP), and integrated EMG activation of gluteus medius (Gmed), gluteus maximus (Gmax), tibialis anterior (TA), and peroneus longus (PL) during each reach direction of SEBT. Results: Compared to copers and controls, CAI group demonstrated significantly diminished postural control (reach distance and COP measures, p< 0.05) and less EMG activity of TA during the anterior direction (CAI: 33.1% ± 10.1% versus copers: 44.8% ± 12.7% versus controls: 51.7% ± 8.4%, p<0.01) and Gmax in the posterolateral direction (CAI: 25.6% ± 9.4% versus copers: 37.5% ± 13.8% versus controls: 40.2% ± 17.2%, p = 0.011). Conclusion: Alteration in proximal and distal muscle activity appears to negatively affect postural control and quality of movement, which may lead to prolonged functional impairments. Hence, implementing hip and ankle muscle exercises in the rehabilitation of ankle instability might benefit these patients.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "europepmc",
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Does a not-so-recent ankle sprain influence interjoint coordination during walking?",
+      "url": "https://univ-reims.hal.science/hal-03716892v1",
+      "publisher": "Clinical Biomechanics",
+      "year": "2017",
+      "doi": "10.1016/j.clinbiomech.2017.10.016",
+      "abstract": "Background: Ankle sprains are common joint injuries in daily and sports activities, whose underlying mechanisms have been amply studied. If joint structures are directly damaged, neuromuscular activity can be affected, particularly in the time domain. This study aims to establish whether previous ankle injury correlates with changes in the inter-joint synergy of the entire lower limb and in the muscle activity pattern during walking. Methods: Three-dimensional walking-gait analysis was conducted on twenty-four adults. Ten of them had never suffered from ankle sprain; fourteen had suffered from ankle sprain at least once during the three preceding years. Continuous Relative Phase (CRP) between the moving limbs assessed inter-joint coordination, and muscular activity was recorded by EMG. Findings: CRP between ankle and knee and between ankle and hip indicates that both joints moved in tight synchronization in the same direction on the injured side, whereas there was a time lag between joints on the healthy side for each sprained participants or on both side for the control group. Start-time and/or duration of muscular activity of tibialis anterior, soleus and peroneus longus occurred earlier and were longer on the injured side, respectively. Interpretation: Our findings suggest that ankle sprain modifies inter-joint coordination and muscular activity of the injured limb, inducing not an entirely new pattern of coordination but an alteration of the existing pattern. CRP revealed slight modifications in the extant inter-joint coordination which may not be captured by other kinematic variables, which opens perspectives on therapy and relapse prevention.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Conservative treatment of ankle sprain according to a recent literature",
+      "url": "https://zenodo.org/records/267718",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.267718",
+      "abstract": "Kaźmierczak Urszula, Kwiatkowski Szymon, Radzimińska Agnieszka, Strojek Katarzyna, Weber-Rajek Magdalena, Zukow Walery. Conservative treatment of ankle sprain according to a recent literature. Journal of Education, Health and Sport. 2017;7(3): 117 - 142 . eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.267718 http://ojs.ukw.edu.pl/index.php/johs/article/view/4223 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.01.2017. Revised 21.01.2017. Accepted: 02 .0 2 .2017. Leczenie zachowawcze skręcenia stawu skokowego w świetle najnowszej literatury Conservative treatment of ankle sprain according to a recent literature Urszula Kaźmierczak 1 , Szymon Kwiatkowski 1 , Agnieszka Radzimińska¹, Katarzyna Strojek¹, Magdalena Weber-Rajek¹, Walery Zukow² 1 Department of Physiotherapy, Division of Principles of Physiotherapy, Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in Toruń, Bydgoszcz, Poland 2 Institute of Physical Coulture, Faculty of Physical Education, Health and Tourism, Kazimierz Wielki University, Bydgoszcz, Poland Słowa kluczowe: staw skokowy, leczenie zachowawcze, skręcenie, skręcenie stawu skokowego Keywords: ankle, conservative treatment, sprain, ankle sprain Streszczenie Z powodu skomplikowanej budowy staw skokowy jest szczególnie narażony na urazy, spośród których najczęstszym jest skręcenie. Towarzyszą temu uszkodzenia tkanek miękkich, które w zależności od powagi dzieli się na skręcenia I, II i III stopnia. Najczęściej do takiej kontuzji dochodzi w mechanizmie inwersji, co prowadzi do uszkodzenia więzadeł strony bocznej W fazie ostrej po urazie, głównym celem rehabilitacji jest ograniczenie dolegliwości bólowych oraz powstającego obrzęku i krwiaka, a także ochrona przed uszkodzeniami wtórnymi. W fazie podostrej należy skupić się na przywracaniu funkcji stawu, zakresów ruchów i delikatnym jego obciążaniu. Wprowadzany jest trening propriocepcji, ćwiczenia siłowe i rozciągające. Kolejny etap, podczas którego dochodzi do przebudowy uszkodzonych tkanek, charakteryzuje się wdrażaniem stopniowo zwiększanych obciążeń i różnorodności wprowadzonych wcześniej metod postępowania. W końcowej fazie rehabilitacji należy upewnić się, że pacjent jest gotowy do pełnego powrotu do aktywności, co dotyczy szczególnie sportowców. Pomóc w tym mogą testy funkcjonalne takie jak na przykład „The DorsiflexionLunge Test” czy „The Star ExcursionBalance Test”. Głównym czynnikiem predysponującym do wystąpienia skręcenia stawu skokowego jest przebyty taki uraz w przeszłości. Ma to związek z faktem, że taka kontuzja prowadzi do uszkodzenia funkcji proprioceptywnej i zaburzeń kontroli postawy. Nieprawidłowo przeprowadzona rehabilitacja lub jej brak mogą prowadzić do rozwoju przewlekłej niestabilności stawu skokowego, która znacznie pogarsza możliwość aktywności fizycznej i komfort życia pacjenta. Konieczne wydaje się więc wprowadzenie odpowiednich metod zapobiegawczych, opierających się o stosowanie zewnętrznych stabilizatorów i trening nerwowo-mięśniowy. Celem tego jest przywrócenie prawidłowego czucia głębokiego jak i czasu reakcji mięśni w obrębie stawu skokowego. Abstract Due to complicated structure of ankle, it is exceptionally susceptible to injuries, of which one of the most common is a sprain. The sprain involves soft-tissue injuries that, depending on their level of seriousness, are categorized as first-, second- or third-degree sprains. The main goals of rehabilitation in the acute phase after the injury include reduction of pain, swelling and hematoma, as well as prevention from secondary injuries. During the subacute phase the emphasis should be put on restoring the joint’s function and its range of motion, as well as on gentle loading of the joint. Proprioception training, strength and stretching exercises should also be introduced. The next stage, during which the reconstruction of the damaged tissues takes place, involves the implementation of gradual progressive loading and the variety of earlier introduced procedures. In the final phase of rehabilitation, it is vital to reassure that the patient is able to return to full activity, especially if he or she is an athlete. Therefore, functional testing such as the Dorsiflexion Lunge Test or The Star Excursion Balance Test may be of help. The main predisposing factor for an ankle sprain is a previous injury of the same type. It is due to the fact that such an injury leads to impaired proprioceptive function and impaired postural control. Improper rehabilitation or the lack of thereof may cause the development of chronic ankle instability, which substantially reduces the chances of physical activity and the patient’s quality of life. The implementation of adequate preventive measures based on employing external stabilisers and neuromuscular training appears to be essential. The objective is to regain a good sense of proprioception as well as muscle reaction time within the ankle joint.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Epidemiology, rehabilitation and prevention of ankle sprains in basketball players",
+      "url": "https://zenodo.org/records/893458",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.893458",
+      "abstract": "Lewandowska Anna, Ratuszek-Sadowska Dorota, Hoffman Jarosław, Hoffman Anetta, Kuczma Monika, Rojek Johanna, Hagner Wojciech. Epidemiology, rehabilitation and prevention of ankle sprains in basketball players . Journal of Education, Health and Sport. 2017;7(8):8 47 -8 54 . eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.893 458 http://ojs.ukw.edu.pl/index.php/johs/article/view/483 4 https://pbn.nauka.gov.pl/sedno-webapp/works/831637 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Authors 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 01.07.2017. Revised: 10.07.2017. Accepted: 31.07.2017. Epidemiologia, rehabilitacja i profilaktyka skręcenia stawu skokowego u koszykarzy Epidemiology, rehabilitation and prevention of ankle sprains in basketball players Anna Lewandowska 1 , Dorota Ratuszek-Sadowska 1 , Jarosław Hoffman 1 , Anetta Hoffman 2 , Monika Kuczma 3 , Johanna Rojek 2 , Wojciech Hagner 1 Katedra i Klinika Rehabilitacji, Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy, Uniwersytet Mikołaja Kopernika w Toruniu Wyższa Szkoła Zarządzania w Gdańsku Zamiejscowy Wydział Kultury Fizycznej w Gorzowie Wielkopolskim Akademii Wychowania Fizycznego w Poznaniu, Zakład Rehabilitacji. Streszczenie Koszykówka jest dyscypliną sportową w której skręcenie stawu skokowo-goleniowego jest najczęstszym urazem. Jest uznawana za aktywność kontuzjogenną, przez swój wymiar gry zespołowej, kontaktowej i wymagającej różnorodnej dynamiki ruchu. Celem niniejszej pracy jest rozpoznanie elementów gry koszykarskiej, które przyczyniają się do powstawania urazów skrętnych stawu skokowo-goleniowego, zaprezentowanie metod profilaktyki urazów oraz przedstawienie możliwych metod rehabilitacji sportowców w różnych etapach gojenia się urazu. Skręcenie stawu skokowego nie jest urazem zdefiniowanym jednym zdarzeniem w jednym momencie, lecz jest często cyklem powtórzonych urazów. Ważne jest, więc też uświadamianie zawodników o nie lekceważeniu tego typu kontuzji i traktowanie ich poważnym przebiegiem leczniczym i rehabilitacyjnym. Rehabilitacja stawu skokowo-goleniowego jest zależna od stopnia urazu, a przede wszystkim od rozległości występowania uszkodzonych tkanek. W celu uniknięcia występowania urazów bardzo ważną rolę odgrywają ćwiczenia propriocepcji oraz trening stabilizacji globalnej. Niewyleczona niestabilność stawu skokowego wiąże się z poważnymi powikłaniami. Słowa kluczowe : skręcenie stawu skokowego, koszykówka, epidemiologia, rehabilitacja, profilaktyka Abstract Basketball is a sports discipline in which the ankle sprain is the most common injury. It is considered to be an aggravated activity by its dimension of teamwork, contact and requiring a variety of motion dynamics. The aim of this paper is to identify basketball game elements that contribute to the development of traumatic torsion injuries, to present methods of injury prevention and to present possible methods for the rehabilitation of athletes in different stages of injury healing. A sprain and a torsion of the ankle is not a traumatic event defined at one time, but is often a cycle of repetitive trauma. It is also important to educate competitors not to underestimate these types of injuries and to treat them with serious medical and rehabilitation procedures. Rehabilitation of the ankle joint is dependent on the degree of injury, and above all on the extent of the damaged tissue. In order to avoid trauma, proprioception and global stabilization training play a very important role. Unstable ankle instability is associated with serious complications. Key words: ankle sprain, basketball, epidemiology, rehabilitation, prevention",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Expert System for Diagnosing Ankle Diseases",
+      "url": "https://zenodo.org/records/821176",
+      "publisher": "International Journal of Engineering and Information Systems (IJEAIS)",
+      "year": "2017",
+      "doi": "10.5281/zenodo.821176",
+      "abstract": "Abstract : In recent years, technology has evolved significantly to intervene in the treatment of diseases through diagnosis online before going to the specialist doctor, where it become possible for the patient to know the name of his illness, the specialist doctor who can treat him and the multiple treatment methods through specially designed systems called expert systems. The expert system is based on the principle of asking the user gradual questions about the symptoms he feels, leading him to the result of diagnosing the illness, dealing with it quickly, and tips for permanent treatment. These systems may also help both trainee physicians and physiotherapists. This research paper is a living example of these effective applications, explaining in a simplified manner some of ankle diseases, how to deal with them and methods of physical therapy. The ankle is a small region in the leg. It is two joints, the first consist of three bones (tibia, fibula and talus underneath) which is called true ankle joint. The other is called subtalar joint have two bones: talus on top and calcaneus on the bottom. This tarsus between the end of the leg and the start of the foot facilitates the movement up-down and left-right with no problems in normal case, although, it needs a special case as Physiotherapist when gets injury. We have identified seven ankle diseases: Ankle Sprain, Fracture (of Fibula), Rheumatoid Arthritis, Rheumatoid Fever, Gout, and Osteoarthritis (Degenerative Joint) using SL5 Object Expert System Language in the work of the expert system.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Incidence and Cost of Ankle Sprains in United States Emergency Departments",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089353/",
+      "publisher": "Sports health",
+      "year": "2016",
+      "doi": "10.1177/1941738116659639",
+      "abstract": "Background Ankle sprains represent a common injury in emergency departments, but little is known about common complications, procedures, and charges associated with ankle sprains in emergency departments. Hypothesis There will be a higher incidence of ankle sprains among younger populations (≤25 years old) and in female patients. Complications and procedures will differ between ankle sprain types. Lateral ankle sprains will have lower health care charges relative to medial and high ankle sprains. Study design Descriptive epidemiological study. Level of evidence Level 3. Methods A cross-sectional study of the 2010 Nationwide Emergency Department Sample was conducted. Outcomes such as charges, complications, and procedures were compared using propensity score matching between lateral and medial as well as lateral and high ankle sprains. Results The sample contained 225,114 ankle sprains. Female patients sustained more lateral ankle sprains (57%). After propensity score adjustment, lateral sprains incurred greater charges than medial ankle sprains (median [interquartile range], $1008 [$702-$1408] vs $914 [$741-$1108]; P Conclusion Ankle sprain emergency department visits account for significant health care charges in the United States. Age- and sex-related differences persist among the types of ankle sprains. Clinical relevance The health care charges associated with ankle sprains indicate the need for additional preventive measures. There are age- and sex-related differences in the prevalence of ankle sprains that suggest these demographics may be risk factors for ankle sprains.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Diagnozowanie skręcenia stawu skokowego = Diagnosis of ankle sprain",
+      "url": "https://zenodo.org/records/206008",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.206008",
+      "abstract": "Kaźmierczak Urszula, Kwiatkowski Szymon, Radzimińska Agnieszka, Strojek Katarzyna, Weber-Rajek Magdalena, Zukow Walery. Diagnozowanie skręcenia stawu skokowego = Diagnosis of ankle sprain. Journal of Education, Health and Sport. 2016;6(12):441-451. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.206008 http://ojs.ukw.edu.pl/index.php/johs/article/view/4075 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 754 (09.12.2016). 754 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 01.12.2016. Revised 12.12.2016. Accepted: 16.12.2016. Diagnozowanie skręcenia stawu skokowego Diagnosis of ankle sprain Urszula Kaźmierczak 1 , Szymon Kwiatkowski 1 , Agnieszka Radzimińska¹, Katarzyna Strojek¹, Magdalena Weber-Rajek¹, Walery Zukow² 1 Department of Physiotherapy, Division of Principles of Physiotherapy, Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in Toruń, Bydgoszcz, Poland 2 Kazimierz Wielki University, Bydgoszcz Słowa kluczowe: staw skokowy, diagnozowanie, skręcenie, skręcenie stawu skokowego Keywords: ankle, diagnosis, sprain, ankle sprain Streszczenie Postawienie prawidłowej diagnozy po skręceniu stawu skokowego jest kluczowym elementem pozwalającym zaplanować i wdrożyć odpowiednie leczenie. Należy w tym celu przeprowadzić dokładne badanie podmiotowe, czyli szczegółowy wywiad z pacjentem, a następnie badanie przedmiotowe. Jego elementami są obserwacja i palpacja, testy funkcjonalne oraz badania dodatkowe. Działanie takie pozwala nabrać pewności na temat tego, które struktury i w jakim stopniu zostały uszkodzone.Uraz skrętny stawu skokowego może wiązać się nie tylko z uszkodzeniem więzadeł czy torebki stawowej, ale również powstawanie ukrytych problemów. W przypadku przeoczenia, mogą znacznie przedłużyć proces powrotu do zdrowia. Abstract Making the right diagnosis after spraining an ankle is a key element that allows to plan and implement appropriate treatment. A medical history which is a detailed interview with a patient and then physical examination should be undertaken. The components of the latter are observation and palpation, functional tests and additional examinations. Such a proceeding enables ensuring which structures and to which extend got damaged. The torsion injury of the ankle may be associated with not only the damage of the joint capsule or ligaments, but also the formation of hidden problems. Those, when overlooked, may substantially extend the process of recovery.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Kompleksowe postępowanie fizjoterapeutyczne w skręceniu stawu skokowego = Comprehensive physiotherapy treatment methods in ankle sprains",
+      "url": "https://zenodo.org/records/31464",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2015",
+      "doi": "10.5281/zenodo.31464",
+      "abstract": "Brzezińska Paulina, Mieszkowski Jan. Kompleksowe postępowanie fizjoterapeutyczne w skręceniu stawu skokowego = Comprehensive physiotherapy treatment methods in ankle sprains. Journal of Education, Health and Sport. 2015;5(9):527-548. ISSN 2391-8306. DOI 10.5281/zenodo.31464 http://dx.doi.org/10.5281/zenodo.31464 http://ojs.ukw.edu.pl/index.php/johs/article/view/2015%3B5%289%29%3A527-548 https://pbn.nauka.gov.pl/works/635044 Formerly Journal of Health Sciences. ISSN 1429-9623 / 2300-665X. Archives 2011–2014 http://journal.rsw.edu.pl/index.php/JHS/issue/archive Deklaracja. Specyfika i zawartość merytoryczna czasopisma nie ulega zmianie. Zgodnie z informacją MNiSW z dnia 2 czerwca 2014 r., że w roku 2014 nie będzie przeprowadzana ocena czasopism naukowych; czasopismo o zmienionym tytule otrzymuje tyle samo punktów co na wykazie czasopism naukowych z dnia 31 grudnia 2014 r. The journal has had 5 points in Ministry of Science and Higher Education of Poland parametric evaluation. Part B item 1089. (31.12.2014). © The Author (s) 2015; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland and Radom University in Radom, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 26.08.2015. Revised 05.09.2015. Accepted: 27.09.2015. Kompleksowe postępowanie fizjoterapeutyczne w skręceniu stawu skokowego Comprehensive physiotherapy treatment methods in ankle sprains Paulina Brzezińska 1 , Jan Mieszkowski 2 1 Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu 2 Uniwersytet Kazimierza Wielkiego w Bydgoszczy Słowa kluczowe: skręcenie stawu skokowego, badanie RTG, fizjoterapia. Keywords: ankle sprain, X-ray, physiotherapy. Autor do korespondencji: Paulina Brzezińska e-mail: brzezinskapp@gmail.com Streszczenie Wstęp: Skręcenia stawu skokowego zaliczane są do jednych z najczęściej spotykanych urazów kończyn dolnych. Pomimo częstości występowania, nadal wielokrotnie są one lekceważone, zarówno w aspekcie wczesnej i prawidłowej diagnostyki medycznej jak i zastosowania szybkiego i optymalnego postępowania leczniczego. Cel pracy: Usystematyzowanie wiedzy na temat postępowania terapeutycznego, u osób po urazie stawu skokowego. Wnioski: W postępowaniu terapeutycznym u osób po urazie stawu skokowego najważniejszą rolę odgrywa diagnostyka radiologiczna oraz kliniczna pozwalająca na postawienie właściwej diagnozy oraz na kreślenie celów terapii. Kompleksowe postępowanie fizjoterapeutyczne wpływa istotnie na skrócenie czasu koniecznego do przywrócenia możliwego do osiągnięcia poziomu funkcjonalnego pacjentów i zwiększa skuteczność stosowanych terapii. S ummary Introduction: Ankle sprains are classified as one of the most common injuries of the lower extremities. This type of inquiry is still frequently underestimated, both in terms of early and proper medical diagnosis and the use of fast and optimal therapeutic management. Aim: Systematization of knowledge relating to the treatment of the ankle injuries, and analyze the therapeutic treatment and its effectiveness in the ankle sprains. Conclusions: Radiological and clinical diagnosis plays a key role in a normal therapeutic procedure for a person after ankle injury. It allows for diagnose and sets a objectives hierarchy for the optimized therapy. Comprehensive physiotherapy have a significant impact on the functional state of patients with ankle sprains significantly. increasing effectiveness of therapy.",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Management of the sprained ankle",
+      "url": "https://doi.org/10.1136/bjsm.36.2.83",
+      "publisher": "BMJ",
+      "year": "2002",
+      "doi": "10.1136/bjsm.36.2.83",
+      "abstract": "Non-operative treatment with early functional rehabilitation is the treatment of choice Inversion injuries of the ankle ligament are among the most common injuries, accounting for about 25% of all injuries to the musculoskeletal system. The most commonly injured part of the lateral ligament complex is the anterior talofibular ligament (ATFL). Although ruptures of the ankle ligaments are very common, treatment selection remains controversial. In a recent systematic review of the available literature, it was found that treatment of an acute lateral ligament rupture that was too short in duration or that did not include sufficient support of the ankle joint tended to result in more residual symptoms. It was concluded that a “no treatment” strategy for acute ruptures of the lateral ankle ligament leads to more residual symptoms.1 After a supination trauma, it is therefore important to distinguish a simple distortion from an acute grade II or III ankle ligament rupture, because adequate treatment is associated with a better prognosis. Although ruptures of the ankle ligament are very common, treatment selection remains controversial. Because of the suspected poor reliability of physical diagnosis of ligament ruptures after inversion trauma of the ankle, stress …",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Ankle sprain influence on inter-joint coordination during jump of basketball players",
+      "url": "https://univ-reims.hal.science/hal-03716154v1",
+      "publisher": "HAL open archive",
+      "year": "2009",
+      "doi": "10.1016/j.gaitpost.2009.08.192",
+      "abstract": "Background Ankle sprains are common joint injuries in daily and sports activities, whose underlying mechanisms have been amply studied. If joint structures are directly damaged, neuromuscular activity can be affected, particularly in the time domain. This study aims to establish whether previous ankle injury correlates with changes in the inter-joint synergy of the entire lower limb and in the muscle activity pattern during walking. Methods Three-dimensional walking-gait analysis was conducted on twenty-four adults. Ten of them had never suffered from ankle sprain; fourteen had suffered from ankle sprain at least once during the three preceding years. Continuous Relative Phase (CRP) between the moving limbs assessed inter-joint coordination, and muscular activity was recorded by EMG. Findings CRP between ankle and knee and between ankle and hip indicates that both joints moved in tight synchronization in the same direction on the injured side, whereas there was a time lag between joints on the healthy side for each sprained participants or on both side for the control group. Start-time and/or duration of muscular activity of tibialis anterior, soleus and peroneus longus occurred earlier and were longer on the injured side, respectively. Interpretation Our findings suggest that ankle sprain modifies inter-joint coordination and muscular activity of the injured limb, inducing not an entirely new pattern of coordination but an alteration of the existing pattern. CRP revealed slight modifications in the extant inter-joint coordination which may not be captured by other kinematic variables, which opens perspectives on therapy and relapse prevention.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Epidemiology of Ankle Sprain at the United States Military Academy",
+      "url": "https://zenodo.org/records/1235556",
+      "publisher": "Zenodo",
+      "year": "2010",
+      "doi": "10.1177/0363546509350757",
+      "abstract": "Background Ankle sprain is a common injury in athletic populations that results in significant time lost to injury. Hypothesis The incidence rates (IRs) of ankle ligament sprains are influenced by gender, height, weight, body mass index (BMI), physical conditioning, level of competition, type of sport, and athlete exposure to sport. Study Design Cohort study; Level of evidence, 2. Methods A longitudinal cohort study was performed to determine the effect of risk factors for ankle sprain at the United States Military Academy between 2005 and 2007. Results A total 614 cadets sustained new ankle sprains during 10 511 person-years at risk, resulting in an overall IR of 58.4 per 1000 person-years. Women (96.4), compared with men (52.7), had a significantly increased rate ratio (IRR) for ankle sprain of 1.83 (95% confidence interval [CI], 1.52-2.20). Men with ankle sprains had higher mean height, weight, and BMI than uninjured men (P < .001). Men with ankle sprains had higher average scores in push-ups, sit-ups, and run time than uninjured men (P < .001). Ankle sprain occurred most commonly during athletics (64.1%). Ankle sprain IR did not significantly differ between intercollegiate and intramural athletic competition after controlling for athlete-exposure (IRR, 1.05; 95% CI, 0.81-1.37). The ankle sprain IRR of female compared with male intercollegiate athletes was 0.93 (95% CI, 0.67-1.32) per 1000 person-years and 1.04 (95% CI, 0.74-1.47) per 1000 athlete-exposures. The intercollegiate sports of men's rugby, women's cheerleading, and men's/women's basketball, soccer, and lacrosse had the highest ankle sprain IR. Conclusion Higher mean height and weight in men, increased BMI in men, greater physical conditioning in men, and athlete exposure to selected sports were all risk factors for ankle sprain.",
+      "licence": "cc-zero",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "MANAGEMENT OF DEEP VENOUS THROMBOSIS IN MAY-THURNER SYNDROME CASE REPORT",
+      "url": "https://zenodo.org/records/8285983",
+      "publisher": "Zenodo",
+      "year": "2023",
+      "doi": "10.5281/zenodo.8285983",
+      "abstract": "This is a case of a 37-year-old previously healthy female who presented to the hospital with new-onset left leg pain, which was diagnosed and treated as an ankle sprain. Latter on presented with leg swelling and left flank pain; a doppler ultrasound revealed extensive deep venous thrombosis involving the left lower limb, from the common femoral vein to the posterior tibial veins and the greater and lesser saphenous veins. She was started on therapeutic enoxaparin with no response, then she was on heparin infusion, unfortunately without any clinical response. A CT scan of the abdomen was requested before inferior vena cava (IVC) filter insertion revealed compression of the left common iliac vein where it passes behind the left common iliac artery, suggesting May-Thurner syndrome. A decision was made for Catheter-directed Thrombolysis and IVC Filter insertion. The patient underwent mechanical thrombectomy and lysis of a vascular clot, with successful results. The final venogram showed clear patency and no residual clot, and an IVC filter was inserted. The patient is currently stable and has shown improvement in symptoms and mobility. Key words: Deep venous thrombosis; Iliac vein compression syndrome; May-Thurner syndrome; Thrombolysis; Coagulation disorders.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.82,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Epidemiological Characteristics of Foot and Ankle Injuries in 2 Professional Ballet Companies: A 3-Season Cohort Study of 588 Medical Attention Injuries and 255 Time-Loss Injuries",
+      "url": "https://doi.org/10.1177/23259671221134131",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2023",
+      "doi": "10.1177/23259671221134131",
+      "abstract": "Background: The foot and ankle are often reported as the most common sites of injury in professional ballet dancers; however, epidemiological research focusing on foot and ankle injuries in isolation and investigating specific diagnoses is limited. Purpose: To investigate the incidence rate, severity, burden, and mechanisms of foot and ankle injuries that (1) required visiting a medical team (medical attention foot and ankle injuries; MA-FAIs) and (2) prevented a dancer from fully participating in all dance-related activities for at least 24 hours after the injury (time-loss foot and ankle injuries; TL-FAIs) in 2 professional ballet companies. Study Design: Descriptive epidemiological study. Methods: Foot and ankle injury data across 3 seasons (2016-2017 to 2018-2019) were extracted from the medical databases of 2 professional ballet companies. Injury-incidence rate (per dancer-season), severity, and burden were calculated and reported with reference to the mechanism of injury. Results: A total of 588 MA-FAIs and 255 TL-FAIs were observed across 455 dancer-seasons. The incidence rates of MA-FAIs and TL-FAIs were significantly higher in women (1.20 MA-FAIs and 0.55 TL-FAIs per dancer-season) than in men (0.83 MA-FAIs and 0.35 TL-FAIs per dancer-season) (MA-FAIs, P = .002; TL-FAIs, P = .008). The highest incidence rates for any specific injury pathology were ankle impingement syndrome and synovitis for MA-FAIs (women 0.27 and men 0.25 MA-FAIs per dancer-season) and ankle sprain for TL-FAIs (women 0.15 and men 0.08 TL-FAIs per dancer-season). Pointe work and jumping actions in women and jumping actions in men were the most common mechanisms of injury. The primary mechanism of injury of ankle sprains was jumping activities, but the primary mechanisms of ankle synovitis and impingement in women were related to dancing en pointe . Conclusion: The results of this study highlight the importance of further investigation of injury prevention strategies targeting pointe work and jumping actions in ballet dancers. Further research for injury prevention and rehabilitation strategies targeting posterior ankle impingement syndromes and ankle sprains are warranted.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Does the contralateral healthy ankle of patient with ipsilateral mechanical lateral ankle laxity show greater lateral ankle laxity? Evaluation of the anterior talofibular ligament by stress ultrasonography",
+      "url": "https://doi.org/10.1186/s12891-022-05838-0",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2022",
+      "doi": "10.1186/s12891-022-05838-0",
+      "abstract": "Abstract Background A number of studies have evaluated risk factors for lateral ankle sprain (LAS) or chronic lateral ankle instability (CLAI). However, the definitive risk factors for LAS or CLAI remain controversial. The purpose of this study was to evaluate whether the contralateral healthy ankles of subjects with ipsilateral mechanical lateral ankle laxity (group I) show greater lateral ankle laxity in comparison to the healthy ankles of bilateral healthy controls (group B). Methods From March 2020, anterior talofibular ligament (ATFL) lengths of young adult volunteers were cross-sectionally measured in non-stress and stress positions using a previously reported stress ultrasonography (US) procedure. The ATFL ratio (the ratio of stress ATFL/non-stress ATFL length) was calculated as an indicator of lateral ankle laxity. The manual anterior drawer test (ADT) was also performed. The US findings of healthy ankles from groups I and B were compared. Results A total of 154 subjects in group B (mean age, 24.5 ± 2.8 years; male/female, 84/70) and 40 subjects in group I (mean age, 24.4 ± 2.3 years; male/female, 26/14) were included in the study. There was no significant difference in the ADT between the groups. There were no significant differences in the non-stress ATFL length (19.4 ± 1.8 vs. 19.3 ± 1.9, p = 0.84), stress ATFL length (20.8 ± 1.8 vs. 20.9 ± 1.9, p = 0.66), length change (1.5 ± 0.6 vs. 1.6 ± 0.6, p = 0.12) and ATFL ratio (1.08 ± 0.03 vs. 1.08 ± 0.03, p = 0.13) between the groups. Conclusion No significant difference was detected between the contralateral healthy ankles of subjects with ipsilateral mechanical lateral ankle laxity and those of bilateral healthy controls.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Arthroscopic treatment of anterolateral impingement of the ankle",
+      "url": "https://aott.org.tr/index.php/pub/article/view/1588",
+      "publisher": "Acta Orthopaedica et Traumatologica Turcica",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Abstract Objectives: We evaluated the mid-term results of patients who underwent arthroscopic surgery for chronic ankle pain due to anterolateral impingement.\\nMethods: The study included twenty-eight patients (12 males, 16 females, mean age 32.5 years; range 14 to 49 years). The mean duration between the first injury and operation was 10 months (range 6 to 19 months). Anterolateral impingement was localized on the right side in 16 patients. Eleven patients were recreational athletes, but at the time of the first examination they all had given up exercising. All patients but two had at least one episode of ankle sprain. Although roentgenograms failed to demonstrate any pathology, magnetic resonance imaging (MRI) confirmed anterolateral impingement in 11 patients. Qualitative and quantitative assessments of the results were made using the Martin’s classification and the American Orthopaedic Foot and Ankle Society (AOFAS) scoring table, respectively. The mean follow-up was 32.5 months (range 10 to 57 months). \\nResults: According to the Martin’s classification, we obtained excellent, good, and fair results in seventeen, eight, and three patients, respectively. The mean AOFAS scores increased from 74.6 to 90.6 postoperatively. Two patients developed temporary superficial peroneal nerve lesions.\\nConclusion: Anterolateral impingement of the ankle should be considered in the differential diagnosis of chronic ankle pain without demonstrable radiologic abnormalities. We believe that diagnosis and treatment of chronic ankle pain due to anterolateral impingement can be successfully made by ankle arthroscopy. Özet Amaç: Kronik ayak bileği ağnsı şikayeti ile başvuran ve anterolateral sıkışma tanışı ile artroskopik debridman uygulanan hastalarda orta dönem sonuçlar değerlendirildi.\\nÇalışma planı: Çalişmaya 12 erkek, 16 kadın 28 hasta dahil edildi (ortalama yaş 32.5; dağılım 14-49). Travma ile ameliyat arasındaki ortalama süre 10 ay (dağılım 6-19 ay) idi. On altı hastada sağ, 12 sinde sol taraf tutulmuştu. On bir hasta travma öncesi sportif aktivite ile uğraşmakta, ancak başvuru anında spora ara vermiş bulunmaktaydı. Yirmi altı olguda en az bir kez ayak bileği burkulması anamnezi saptandı. Hiçbir olguda konvansiyonel radyolojik inceleme ile patolojik bulgu saptanmamakla birlikte, manyetik rezonans görüntüleme (MRG) tetkiki yapılan 11 hastada anterolateral sıkışma doğrulandı. Sonuçlar Martin in fonksiyonel ve sübjektif kriterlerine göre kalitatif olarak, Amerikan Ortopedik Ayak ve Ayak Bileği Cemiyeti nin (AOFAS) skorlama şemasi ile de kantitatif olarak değerlendirildi. Ortalama takip süresi 32.5 ay (dağılım 10-57 ay) idi.\\nSonuçlar: Martin sınıflamasına göre 17 hastada mükemmel, sekiz hastada iyi ve üç hastada orta sonuç elde edildi. AOFAS skorlarının ameliyat öncesi ortalama 74.6 dan\\nameliyat sonrasi 90.6 ya yükseldiği görüldü, ki olguda geçici olarak yüzeyel peroneal sinir lezyonu görüldü.\\nÇıkarımlar: Radyolojik olarak bulgu vermeyen, MRG ile tanı konamayan kronik ayak bileği ağnsı şikayeti olan olgularda ayırıcı tanı olarak anterolateral yumuşak doku sıkışmasının da düşünülmesi gerektiği, artroskopik olarak tanışı doğrulanan olgularda tedavinin artroskopik teknikle güvenilir ve başarılı bir şekilde yapılabileceği sonucuna varıldı.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Correlation between Level of Functional Ability and Sports Performance among Football Players with Chronic Ankle Instability (CAI)",
+      "url": "https://hal.science/hal-05248225v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Background: Chronic ankle instability (CAI) is the most common injury among the football players and it occurs with the players who have history of repetitive ankle sprain. This will result in limitation of functional ability and sport performance of a football player. However, most of the sport rehabilitation focused on the sport performance of an athletic after ankle sprain injury and the functional ability was not stressed on during the return to sport process. It is because the relationship between the level functional ability and sport performance among the football players with CAI is still unclear. Objectives: To determine the relationship between the level of functional ability and sports performance among the football players with chronic ankle instability (CAI). Study Design: Correlation study. Methods: Forty two (n=42) of football players were involved in this study by convenience sampling design. Football players filled in the questionnaire which was Foot and Ankle Ability Measure (FAAM) which included the activities of daily living (ADL) subscale and sports subscale. The total score of each subscale for all the players were calculated and Pearson’s Correlation Coefficient was used to analyze the relationship. Results: A total of twenty five (60%) of the football players had higher ADL score than the sports score while seventeen (40%) of them had higher sports score than ADL score. The mean score for ADL subscale was 79.63±20.64 (%) whereas for sports subscale was 75.59±25.43 (%). Pearson’s correlation was .92 (r=.92) and it is significant at .01 level (p <.00). Conclusion: There is a significant relationship between the level of functional ability and sports performance among the football players with chronic ankle instability (CAI). Implication: It provides a guideline for the physiotherapy or football player to plan a more structured rehabilitation in order to improve the quality of return to sport performance.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Effect of Giving Cold Therapy to Decreased Pain Sprain Ankle Basket Ball Players",
+      "url": "https://sport.eenu.edu.ua/index.php/sport/article/view/2207",
+      "publisher": "Фізичне виховання, спорт і культура здоров’я у сучасному суспільстві",
+      "year": "2020",
+      "doi": "10.29038/2220-7481-2020-01-102-106",
+      "abstract": "Sprain, is an injury to a joint that results in a torn ligament that functions as a binding between bones and as a stabilizer for the joint that occurs due to excessive pressure and sudden movements repeatedly. It is estimated that nearly 1,6 million injuries occur in connection with basketball in Indonesia. The epidemiology of injuries to male basketball players during training is 4,3 per 1000 while the competition is 9,9 per 1000. This study is an experimental study with a Two Group Pre-Test and Post-Test Design. The research subjects were 30 permanent members of the Bangau Basketball Club which were divided into 2 groups: O1 group was a group that was given cold therapy before training alone, O2 group was a group that was given cold therapy after exercise alone. The study was conducted in October-November 2018. There was a difference between pain intensity and the degree of ankle sprain O1 group before and after exercise with the pain intensity difference test value of 0,000 and the value of the ankle sprain degree difference test result of 0,029 (p <0,05). There was a difference between the intensity of pain and the degree of ankle sprain in the O2 group before and after exercise with the test value of the pain intensity difference of 0,024 and the value of the test result of the degree of ankle sprain difference of 0,047 (p <0,05). Wilcoxon test results showed that there was an effect of cold therapy to reduce ankle sprain pain with p <0,05.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Diagnostic Accuracy of Ultrasound Compared to Radiography among Patients with Ankle Fracture",
+      "url": "https://hal.science/hal-05286101v1",
+      "publisher": "Asian Journal of Medical Principles and Clinical Practice",
+      "year": "2020",
+      "doi": "",
+      "abstract": "Purpose: This study aimed to compare the accuracy of ultrasound with simple radiography in the diagnosis of ankle fracture due to an ankle sprain. Methods: This study was performed on 36 patients with an ankle fracture due to an ankle sprain, Emergency Department of Besat Hospital, Tehran, Iran in 2016. Two diagnostic methods, including ultrasound, and radiography were compared with each other. Moreover, true positive, false positive, true negative, and false negative were evaluated in this study. Results: According to the obtained results of both ultrasound and radiography tests, 94.4% and 5.5% of the patients were diagnosed without and with an ankle fracture, respectively. The value of sensitivity and specificity of ultrasound, compared to radiography approach was equal to 1 (CI: 0.09-1 and 0.85-1, respectively). Conclusion: The accuracy of ultrasound was equal to one. This finding indicates that both ultrasound and radiography can be used as accurate instruments in the diagnosis of ankle fracture.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A risk assessment model for chronic ankle instability: indications for early surgical treatment? An observational prospective cohort – study protocol",
+      "url": "http://link.springer.com/article/10.1186/s12891-018-2124-5",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2018",
+      "doi": "10.1186/s12891-018-2124-5",
+      "abstract": "Abstract Background Chronic ankle instability (CAI) is a common result of an ankle sprain. Even though early surgical treatment yields the best results, overall only professional athletes are eligible for acute surgical stabilization. Treating all patients with early surgical stabilization leads to a high amount of unnecessary invasive interventions, as not all patients progress to CAI. If patients at risk of developing CAI can be identified, treatment policies may be applied more effectively and efficiently. The purpose of this study is to develop a risk assessment model to identify patients at risk for CAI that should receive early surgical treatment. Methods In this observational prospective cohort, all patients aged sixteen years and older, reporting at the emergency department of one of the participating hospitals after sustaining a lateral ankle sprain, and filled out 1 out of 3 follow-up questionnaires and the 1 year follow-up are included. A lateral and anteroposterior radiograph is made. Patients are excluded if a fracture or other pathology is present. The included patients receive four questionnaires, including questions focusing on the sprain, treatment and complaints, the Foot and Ankle Outcome Score and the Cumberland Ankle Instability Tool. A total of eleven radiographic variables are assessed for inter- and intra-observer reliability. Additionally, four factors extracted from the questionnaires, will be evaluated for correlation with CAI. Significantly correlating factors (e.a. risk factors) will be implemented in a risk assessment model. For the final model, based on sixteen variables with a minimum of 20 events per variable and a prevalence of 30–40% after an initial sprain, a sample size of 2370 patients is needed to perform both internal and external model validation. Discussion This study will develop the first large scale model for the risk at CAI after an ankle sprain combining radiographic and patient characteristics. With this risk assessment model, patients at risk for CAI may be identified and properly informed on the treatment options. Patients identified as being at risk, may receive more adequate follow-up and become eligible for early surgical stabilization. This prevents patients from experiencing unnecessary long-lasting complaints, increasing the success rate of conservative and surgical treatment. Trial registration Retrospectively registered: NCT02955485 [Registration date: 3–11-2016]. NTR6139 [Registration date: 3–1-2017].",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "RehabMove 2018: IMMEDIATE EFFECTS OF WEARING A SOFT ANKLE BRACE ON PROPRIOCEPTION AND DYNAMIC POSTURAL CONTROL",
+      "url": "https://zenodo.org/records/1490030",
+      "publisher": "Zenodo",
+      "year": "2018",
+      "doi": "10.5281/zenodo.1490030",
+      "abstract": "PURPOSE: The purpose of this study was to investigate the effect of ankle bracing on proprioception of the ankle and dynamic postural control in participants with chronic ankle instability (CAI). With this knowledge, current brace methods can be optimized and compliance towards the use of braces in athletes who are at risk for an ankle sprain can be improved. METHODS: A cross-sectional observational study was conducted. Proprioception of the ankle and dynamic postural control were measured with and without a soft ankle brace in each participant in randomized order. Males and females with CAI aged 18-35 years were included in this study. Joint position sense (JPS) was measured with an Angle Reproduction Test on an isokinetic device for plantarflexion and inversion. Dynamic postural control was measured with the Y-balance Test TM (YBT). Paired t-tests were used to compare test results with and without ankle brace for both JPS and dynamic postural control. RESULTS: When participants wore the ankle brace, JPS absolute error scores were significantly lower for plantar flexion (p=0.03), in comparison without ankle brace. No significant difference was found in JPS absolute error scores for inversion (p=0.20). The YBT normalized reach distances did not significantly differ when performed with or without brace (p>0.50). CONCLUSION: Wearing a soft ankle brace has statistically significant, but small, effect on the JPS in plantar flexion of the chronically unstable ankle. Ankle bracing has no effect on JPS in inversion and dynamic postural control in participants with CAI. When advising athletes on using an ankle brace, it should be explained that the effect of bracing is probably not caused by improving proprioception, but through other mechanisms. However, athletes should still be encouraged to use an ankle brace during sports due to the preventive effect that is shown in other studies.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Injuries and trauma in the minds of long distance runners",
+      "url": "https://zenodo.org/records/268013",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.268013",
+      "abstract": "Piekorz Zuzanna, Lewandowski Andrzej, Szarski Krzysztof, Radzimińska Agnieszka, Strojek Katarzyna, Styczyńska Hanna, Zukow Walery. Injuries and trauma in the minds of long distance runners. Conservative treatment of ankle sprain according to a recent literature. Journal of Education, Health and Sport. 2017;7(3): 143 - 152 . eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.268013 http://ojs.ukw.edu.pl/index.php/johs/article/view/4227 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.01.2017. Revised 21.01.2017. Accepted: 02 .0 2 .2017. Kontuzje i urazy w świadomości biegaczy długodystansowych Injuries and trauma in the minds of long distance runners Zuzanna Piekorz 1 , Andrzej Lewandowski 2 , Krzysztof Szarski 2 , Agnieszka Radzimińska 1 , Katarzyna Strojek 1 , Hanna Styczyńska 1 , Walery Zukow 3 1 Katedra Fizjoterapii UMK w Toruniu, Wydział Nauk o Zdrowiu, Collegium Medicum im. L. Rydygiera w Bydgoszczy 2 Katedra i Zakład Podstaw Kultury Fizycznej UMK w Toruniu, Wydział Nauk o Zdrowiu, Collegium Medicum im. L. Rydygiera w Bydgoszczy 3 IKF WKFZIT, Uniwersytet Kazimierza Wielkiego w Bydgoszczy Zuzanna Piekorz 85-080 Bydgoszcz zuzanna.piekorz@gmail.com Kontuzje i urazy w świadomości biegaczy długodystansowych Słowa kluczowe: bieganie, trening biegowy, biegi masowe, zdrowie Streszczenie: Wprowadzenie: Bieganie jest podstawową oraz uniwersalną formą ruchu przejawianą przez człowieka. Obecnie jest ono coraz częściej realizowane w ramach rekreacji ruchowej lub treningu zdrowotnego, stając się coraz popularniejszą formą aktywności fizycznej. Pomimo licznych zalet biegania, zwiększa się liczba kontuzji i urazów wśród osób podejmujących ten rodzaj aktywności fizycznej. Cel: Jest nim ocena świadomości biegaczy w zakresie wiedzy na temat urazów i kontuzji najczęściej występujących wśród osób podejmujących trening biegowy, a także weryfikacja stosowanego treningu oraz znajomości zagadnień związanych z jego teorią. Materiał i metody: Wykorzystując autorski kwestionariusz ankietowy zbadano 93 osoby biorące udział w II Półmaratonie Bydgoskim, Uzyskane wyniki opracowano testem chi-kwadrat oraz testem proporcji równości dwóch struktur procentowych oparty na statystyce „Z”. Wyniki: Stwierdzono, że wśród uczestników biegów masowych największą grupę stanowią mężczyźni z wyższym wykształceniem, zamieszkujący duże miasta. Wykazano istotną statystycznie różnicę częstości występowania urazów wśród kobiet i mężczyzn (K:22,2%, M:43,9%, chi-kwadrat = 3,8503 p=0,0497), jednocześnie ujawniając podobne przygotowanie techniczne badanych grup. Jako czynnik wywołujący urazy ankietowani wskazywali nadmierne obciążenie stawów, a rezultat ten został potwierdzony kontuzjami stawu kolanowego jako najczęściej występującymi wśród badanych osób. Wnioski: Stwierdzony wysoki odsetek urazów wśród badanej grupy biegaczy, wskazuje na niewystarczające przygotowanie fizyczne, techniczne i metodyczne oraz duże prawdopodobieństwo stosowania nadmiernych obciążeń treningowych szczególnie przez mężczyzn. Injuries and trauma in the consciousness of long-distance runners Key words: running, training, runs the massive, health Abstract: Introduction: Running is a fundamental and universal form of movement is manifested by man. Now it is increasingly carried out in the framework of the recreation movement or health training, becoming an increasingly popular form of physical activity. Despite the many benefits of walking tracks, an increasing number of injuries and injuries among persons taking up this kind of physical activity. Objective: It is the assessment of consciousness runners in terms of knowledge about the injuries and injuries most often occur among persons taking up training, as well as review the applicable training and knowledge of the issues related to his theory. Material and methods: Using the author's questionnaire survey examined 93 people taking part in the II Half Marathon results test was developed, not part of the chi square test, and test the equality of two aspect ratio structures rates based on statistics Z. Results: It was found that among the participants of the bulk transmission are the largest group of men with higher education, living in large cities. It has been shown statistically significant difference in the incidence of injuries among both men and women (K:22, 2% M:43,9%, chi-square = 3.8503 p = 0,0497), at the same time revealing similar technical preparation groups studied. As a caller injuries respondents pointed to the excessive burden on joints, and this result was confirmed injuries of the knee as the most common among the subjects. Conclusions: Found a high proportion of injuries among the test group of runners, points to the inadequate preparation of physical, technical and methodical and likely application of the excessive burdens training especially by men.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Knowledge Based System for Ankle Diseases Diagnosis",
+      "url": "https://zenodo.org/records/814014",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.814014",
+      "abstract": "ABSTRACT: In recent years, technology has evolved significantly to intervene in the treatment of diseases through diagnosis online before going to the specialist doctor, where it become possible for the patient to know the name of his illness, the specialist doctor who can treat him and the multiple treatment methods through specially designed systems called expert systems. The expert system is based on the principle of asking the user gradual questions about the symptoms he feels, leading him to the result of diagnosing the illness, dealing with it quickly, and tips for permanent treatment. These systems may also help both trainee physicians and physiotherapists. This research paper is a living example of these effective applications, explaining in a simplified manner some of ankle diseases, how to deal with them and methods of physical therapy. The ankle is a small region in the leg. It is two joints, the first consist of three bones (tibia, fibula and talus underneath) which is called true ankle joint. The other is called subtalar joint have two bones: talus on top and calcaneus on the bottom. This tarsus between the end of the leg and the start of the foot facilitates the movement up-down and left-right with no problems in normal case, although, it needs a special case as Physiotherapist when gets injury. We have identified seven ankle diseases: Ankle Sprain, Fracture (of Fibula), Rheumatoid Arthritis, Rheumatoid Fever, Gout, and Osteoarthritis (Degenerative Joint) using SL5 Object Expert System Language in the work of the expert system. This record was migrated from the OpenDepot repository service in June, 2017 before shutting down.",
+      "licence": "cc-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Association Between Concussion and Lower Extremity Injuries in Collegiate Athletes",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089357/",
+      "publisher": "Sports health",
+      "year": "2016",
+      "doi": "10.1177/1941738116666509",
+      "abstract": "Background Concussions have been associated with elevated musculoskeletal injury risk; however, the influence of unreported and unrecognized concussions has not been investigated. Hypothesis The purpose of this study was to examine the association between concussion and lower extremity musculoskeletal injury rates across a diverse array of sports among collegiate student-athletes at the conclusion of their athletic career. The hypothesis was that there will be a positive association between athletes who reported a history of concussions and higher rates of lower extremity injuries. Study design Cross-sectional study. Level of evidence Level 3. Methods Student-athletes (N = 335; 62.1% women; mean age, 21.2 ± 1.4 years) from 13 sports completed a reliable injury history questionnaire. Respondents indicated the total number of reported, unreported, and potentially unrecognized concussions as well as lower extremity injuries including ankle sprains, knee injuries, and muscle strains. Chi-square analyses were performed to identify the association between concussion and lower extremity injuries. Results There were significant associations between concussion and lateral ankle sprain ( P = 0.012), knee injury ( P = 0.002), and lower extremity muscle strain ( P = 0.031). There were also significant associations between reported concussions and knee injury ( P = 0.003), unreported concussions and knee injury ( P = 0.002), and unrecognized concussions and lateral ankle sprain ( P = 0.001) and lower extremity muscle strains ( P = 0.006), with odds ratios ranging from 1.6 to 2.9. Conclusion There was a positive association between concussion history and lower extremity injuries (odds ratios, 1.6-2.9 elevated risk) among student-athletes at the conclusion of their intercollegiate athletic careers. Clinical relevance Clinicians should be aware of these elevated risks when making return-to-participation decisions and should incorporate injury prevention protocols.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Ankle sprains",
+      "url": "https://doi.org/10.57598/r197cs",
+      "publisher": "Belgian Health Care Knowledge Centre (KCE)",
+      "year": "2013",
+      "doi": "10.57598/r197cs",
+      "abstract": "SCIENTIFIC REPORT 7 -- 1 -- INTRODUCTION 7 -- 1.1 ANKLE SPRAIN: A FREQUENT PROBLEM 7 -- 1.2 CONTROVERSIES ON THE N EED FOR RADIOGRAPHY 7 -- 1.3 OBJECTIVE OF THIS REPORT 8 -- 1.4 ANATOMY AND CLASSIFICATION OF ANKLE SPRAINS 8 -- 1.4.1 Anatomy of the ankle 8 -- 1.4.2 Ligaments hit in ankle sprains . 8 -- 1.4.3 Classification of ankle sprains .. 9 -- 2 SCOPE 10 -- 3 METHODOLOGY 10 -- 3.1 STAKEHOLDER AND EXPERT INVOLVEMENT 10 -- 3.1.1 Stakeholders 10 -- 3.1.2 Experts 12 -- 3.2 CLINICAL QUESTIONS 12 -- 3.2.1 General questions 12 -- 3.2.2 Specific questions 12 -- 3.3 LITERATURE REVIEW 13 -- 3.3.1 Participants 13 -- 3.3.2 Intervention 13 -- 3.3.3 Comparator 13 -- 3.3.4 Outcome 13 -- 3.3.5 Study design 13 -- 3.3.6 Databases and date limits .14 -- 3.3.7 Search strategy .. 14 -- 3.3.8 Quality appraisal 17 -- 3.3.9 Data extraction 17 -- 3.4 ELABORATION OF RECOMMENDATION 19 -- 3.5 VALIDATION AND UPDATING THE GUIDELINE 20 -- 3.5.1 Validation process 20 -- 3.5.2 Updating of the guideline 20 -- 3.6 FUNDING AND DECLARATION OF INTEREST 20 -- 4 RESULTS FOR DIAGNOSIS 21 -- 4.1 HISTORY TAKING 21 -- 4.2 PHYSICAL EXAMINATION (OTTAWA ANKLE RULES EXCEPTED) 22 -- 4.2.1 Inspection and palpation 22 -- 4.2.2 Functional tests .. 22 -- 4.2.3 Timing of clinical examinations 23 -- 4.3 PHYSICAL EXAMINATION: OTTAWA ANKLE RULES (AND DERIVED) 24 -- 4.3.1 Description of the Ottawa ankle rules 24 -- 4.3.2 Validity of the Ottawa Ankle Rules 25 -- 4.3.3 Validity of other decision tools: tuning fork test, Bernese ankle rules, Leiden ankle rules and Utrecht ankle rules 27 -- 4.3.4 Implementation of the Ottawa ankle rules .. 29 -- 4.4 IMAGING 31 -- 4.4.1X-ray 31 -- 4.4.2 Ultrasonography 31 -- 4.4.3 Magnetic Resonance Imaging 32 -- 4.4.4 Computer assisted tomography .. 33 -- 4.5 DISCUSSION: DIAGNOSIS OF ANKLE SPRAIN 33 -- 4.6 RECOMMENDATIONS CONCERNING THE DIAGNOSIS OF ANKLE SPRAIN 35 -- 5 ALGORITHM FOR DIAGNOSIS 37 -- 6 RESULTS FOR THERAPY 38 -- 6.1 DRUG THERAPY 38 -- 6.1.1 Analgesic and anti-inflammatory oral medication 38 -- 6.1.2 Venotonic drugs 42 -- 6.1.3 Topical non-steroidal anti-inflammatory drugs (NSAIDs) 42 -- 6.1.4 Alternative topical therapies: Comfrey (Symphytum officinale) root extract ointment (“consoude”). 45 -- 6.2 REST, ICE, COMPRESSION AND ELEVATION 45 -- 6.2.1Rest versus mobilisation 46 -- 6.2.2 Ice versus no ice. 46 -- 6.2.3 Compression versus compression: intermittent pneumatic compression versus elastic bandage. 47 -- 6.2.4 Elevation versus no elevation 47 -- 6.2.5 RICE versus no RICE 47 -- 6.3 ELECTROPHYSICAL THERAPY 47 -- 6.3.1 Ultrasound 47 -- 6.3.2 Laser therapy 48 -- 6.4 ANKLE SUPPORT .. 49 -- 6.4.1 Immobilisation devices 49 -- 6.4.2 Support allowing partial mobilisation 50 -- 6.5 MANUAL THERAPY 51 -- 6.6 EXERCISE THERAPY 51 -- 6.7 OTHER CONSERVATIVE TREATMENTS 52 -- 6.7.1 Hyperbaric oxygen 52 -- 6.7.2 Proteolytic enzyme 52 -- 6.7.3 Hyaluronic acid intra-articular injections 53 -- 6.8 SURGICAL TREATMENT 53 -- 6.9 DISCUSSION: THERAPY FOR ACUTE LATERAL ANKLE SPRAIN 53 -- 6.10 RECOMMENDATIONS CONCERNING THE THERAPY OF ANKLE SPRAIN 55 -- 7 ALGORITHM FOR THERAPY 58 -- 8 IMPLEMENTATION OF THE GUIDELINE 59 -- 8.1 AT PRACTICE LEVEL: ADAPTATION TO INDIVIDUAL SITUATIONS. 59 -- 8.2 IMPLEMENTATION BY PROFESSIONAL SOCIETIES 59 -- 8.3 MONITORING THE GUIDELINE DISSEMINATION 59 -- 8.4 MONITORING THE GUIDELINE IMPLEMENTATION.59 -- REFERENCE LIST 60 -- APPENDICES 68",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Injuries and illnesses of football players during the 2010 FIFA World Cup",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106974/",
+      "publisher": "British journal of sports medicine",
+      "year": "2011",
+      "doi": "10.1136/bjsm.2010.079905",
+      "abstract": "Background The incidence and characteristics of football injuries during matches in top-level international tournaments are well documented, but training injuries and illnesses during this period have rarely been studied. Aim To analyse the incidence and characteristics of injuries and illnesses incurred during the 2010 Fédération Internationale de Football Association (FIFA) World Cup. Methods The chief physicians of the 32 finalist teams reported daily all newly incurred injuries and illnesses of their players on a standardised medical report form. Results Out of 229 injuries reported, 82 match and 58 training injuries were expected to result in time loss, equivalent to an incidence of 40.1 match and 4.4 training injuries per 1000 h. Contact with another player was the most frequent cause of match (65%) and of training (40%) injuries. The most frequent diagnoses were thigh strain and ankle sprain. 99 illnesses of 89 (12%) players were reported. Illnesses were mainly infections of the respiratory or the digestive system. Most illnesses did not result in absence from training or match. The incidence of time-loss illnesses was 3.0 per 1000 player days. Conclusion The incidence of match injuries during the 2010 FIFA World Cup was significantly lower than in the three proceeding World Cups. This might be a result of more regard to injury prevention, less foul play and stricter refereeing. Tackling skills and fair play need to be improved to prevent contact injuries in training and matches. Prevention of illness should focus on reducing the risk of infections by considering the common modes of transmission and environmental conditions.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.04,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "THE TREATMENT OF SPRAINED ANKLE",
+      "url": "https://doi.org/10.1097/00000441-189511000-00044",
+      "publisher": "Elsevier BV",
+      "year": "1895",
+      "doi": "10.1097/00000441-189511000-00044",
+      "abstract": "n/a",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    }
+  ]
+}

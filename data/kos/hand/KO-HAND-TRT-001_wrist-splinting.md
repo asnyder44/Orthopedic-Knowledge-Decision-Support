@@ -53,16 +53,19 @@ relationships:
   source_ids:
   - S1
   - S3
-proposed_concepts:
-- term: Wrist splint (wrist orthosis or brace)
-  suggested_type: Device
-  predicate: USES_DEVICE
-  reason: S2, S3 and S4 describe the splint itself (neutral or slightly extended position, sizing, MP-joint
-    designs).
-- term: Hand therapy (nerve and tendon gliding exercises)
-  suggested_type: Treatment
-  predicate: ALTERNATIVE_TO
-  reason: S4 lists hand therapy as another non-surgical option for carpal tunnel syndrome.
+- predicate: USES_DEVICE
+  target_id: KO-HAND-DEV-001
+  target_label: Wrist Orthosis
+  source_ids:
+  - S2
+  - S3
+  - S4
+- predicate: ALTERNATIVE_TO
+  target_id: KO-HAND-TRT-003
+  target_label: Hand Therapy Exercises
+  source_ids:
+  - S4
+proposed_concepts: []
 sources:
 - id: S1
   title: 'Carpal Tunnel Syndrome: Diagnosis, Treatment, and Steps to Take'
@@ -138,9 +141,9 @@ review:
 safety:
   not_medical_advice: true
   scope_note: General education only. Not a diagnosis or treatment plan.
-version: 0.1.0
+version: 0.1.1
 created: '2026-11-01'
-last_updated: '2026-11-01'
+last_updated: '2026-11-14'
 update_triggers:
 - AAOS publishes or updates its carpal tunnel syndrome guideline (bracing recommendation).
 - The NIAMS carpal tunnel treatment page shows a new "Last Reviewed" date.
@@ -152,6 +155,11 @@ change_log:
   by: OKDS agent (Claude)
   change: Initial draft written by OKDS agent (Claude) (claude-opus-5-5, okds-gen-1.0) from source pack
     SP-KO-HAND-TRT-001.
+- version: 0.1.1
+  date: '2026-11-14'
+  by: KO Collector + Claude (Claude Code session)
+  change: 'Proposed concepts that now have KOs became relationships (same sources): uses device → Wrist
+    Orthosis (KO-HAND-DEV-001); alternative to → Hand Therapy Exercises (KO-HAND-TRT-003)'
 ---
 
 ## Summary
@@ -212,6 +220,8 @@ The side effects people report are not likely to last after they stop using the 
 - Alternative to: Corticosteroid Injection (KO-HAND-TRT-002), Carpal Tunnel Release (KO-HAND-PROC-001)
 - Proposed new topics: Wrist splint (device), Hand therapy (treatment)
 - Background reading: Carpal Tunnel (KO-HAND-ANAT-002), Median Nerve (KO-HAND-ANAT-001)
+- uses device → Wrist Orthosis (KO-HAND-DEV-001)
+- alternative to → Hand Therapy Exercises (KO-HAND-TRT-003)
 
 ## References
 1. [S1] NIAMS (NIH). *Carpal Tunnel Syndrome: Diagnosis, Treatment, and Steps to Take.* https://www.niams.nih.gov/health-topics/carpal-tunnel-syndrome/diagnosis-treatment-and-steps-to-take (retrieved 2026-11-01)

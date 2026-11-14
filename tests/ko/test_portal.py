@@ -58,11 +58,12 @@ def test_home_has_both_tabs_and_the_article(client):
 def test_library_browse_open_search_and_filter(client, data_dir):
     _seed(data_dir)
     html = client.get("/ko/library").get_data(as_text=True)
-    assert "9 Knowledge Objects about orthopedics" in html
+    n = len(list((data_dir / "kos").rglob("*.md")))
+    assert f"{n} Knowledge Objects about orthopedics" in html
     html = client.get("/ko/library?ko=KO-HAND-COND-001").get_data(as_text=True)
     assert "Carpal Tunnel Syndrome" in html and "Ask about this" in html and "Practice questions" in html
     html = client.get("/ko/library?q=nerve+conduction").get_data(as_text=True)
-    assert " of 9 Knowledge Objects" in html and "0 of 9" not in html and "9 of 9" not in html
+    assert f" of {n} Knowledge Objects" in html and f"0 of {n}" not in html and f"{n} of {n}" not in html
     assert "Nerve Conduction Study" in html
     assert client.get("/ko/library/KO-HAND-COND-001.md").status_code == 200
     assert client.get("/ko/library/KO-NOPE-COND-001.md").status_code == 404
@@ -200,7 +201,7 @@ def test_hub_orthobot_also_quotes_knowledge_objects(client, data_dir):
     assert k["path"].startswith("/ko/library?ko=") and k["review_status"] and k["lines"]
     assert "ai" not in j
     info = client.get("/api/info").get_json()
-    assert info["knowledge_objects"] == 9 and info["ai_answers"] is False
+    assert info["knowledge_objects"] == len(list((data_dir / "kos").rglob("*.md"))) and info["ai_answers"] is False
 
 
 def test_hub_ai_answer_is_off_unless_enabled(client, data_dir, monkeypatch):

@@ -1,0 +1,925 @@
+{
+  "term": "Ulnar Nerve",
+  "collected": "2026-11-14",
+  "count": 51,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Anterior Subcutaneous versus Submuscular Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0130843",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0130843",
+      "abstract": "Objective: To pool reliable evidences for the optimum anterior transposition technique in the treatment of cubital tunnel syndrome by comparing the clinical efficacy of subcutaneous and submuscular anterior ulnar nerve transposition. Methods: A comprehensive search was conducted in PubMed MEDLINE, Cochrane Library, EMBASE, Web of Science, OVID AMED, EBSCO and potentially relevant surgical archives. Risk of bias of each included studies was evaluated according to Cochrane Handbook for Systematic Reviews of Interventions. The risk ratio (RR) and 95% confidence intervals (CI) were calculated for the clinical improvement in function compared to baseline. Heterogeneity was assessed across studies, and subgroup analysis was also performed based on the study type and follow-up duration. Results: Three studies with a total of 352 participants were identified, and the clinically relevant improvement was used as the primary outcomes. Our meta-analysis revealed that no significant difference was observed between two comparison groups in terms of postoperative clinical improvement in those studies (RR 1.04, 95% CI 0.86 to 1.25, P = 0.72). Meanwhile, subgroup analyses by study type and follow-up duration revealed the consistent results with the overall estimate. Additionally, the pre- and postoperative motor nerve conduction velocities were reported in two studies with a total of 326 patients, but we could not perform a meta-analysis because of the lack of concrete numerical value in one study. The quality of evidence for clinical improvement was ‘low’ or ‘moderate’ on the basis of GRADE approach. Conclusions: Based on small numbers of studies with relatively poor methodological quality, the limited evidence is insufficient to identify the optimum anterior transposition technique in the treatment of cubital tunnel syndrome. The results of the present study suggest that anterior subcutaneous and submuscular transposition might be equally effective in patients with ulnar neuropathy at the elbow. Therefore, more high-quality randomized controlled trials with standardized clinical improvement metrics are required to further clarify this topic and to provide reproducible pre- and postoperative objective outcomes.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.7,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Modified musculofascial lengthening technique for submuscular ulnar nerve transposition in cubital tunnel syndrome",
+      "url": "https://doi.org/10.1371/journal.pone.0318303",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0318303",
+      "abstract": "Objective: Cubital tunnel syndrome is a common peripheral neuropathy of the upper extremity. Anterior transposition of the ulnar nerve is an established surgical treatment option for this condition. This study aimed to introduce a novel musculofascial lengthening technique that uses only a portion of the flexor-pronator muscle mass for submuscular anterior transposition of the ulnar nerve and investigate its clinical outcomes. Methods: We evaluated 28 patients (29 cases; 1 patient had bilateral involvement) diagnosed with cubital tunnel syndrome who were treated with surgical decompression and submuscular anterior transposition of the ulnar nerve using our novel technique. Mean follow-up was 19.1 months (range, 12–31). Patient-reported outcomes were assessed using the Boston Carpal Tunnel Questionnaire (BCTQ), Disabilities of the Arm, Shoulder, and Hand (DASH) Questionnaire, and numeric rating scale (NRS) for pain. Objective outcomes including light touch perception, static two-point discrimination, and grip strength were also assessed. Modified Bishop score and postoperative complications were also evaluated. Results: BCTQ symptom severity and functional status scores, DASH score, and NRS for pain score showed significant improvement after surgery. Light touch perception, static two-point discrimination, and grip strength also significantly improved after surgery. All patients showed excellent or good results according to the modified Bishop scoring system. No recurrence or complications occurred. Conclusion: Our novel musculofascial lengthening technique that uses only a portion of the flexor-pronator muscle mass for submuscular anterior transposition of the ulnar nerve reliably achieves good results with minimal complications in patients with cubital tunnel syndrome.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Experience of living with chronic pain in conjunction with surgery for ulnar nerve entrapment at the elbow—A qualitative study",
+      "url": "https://doi.org/10.1371/journal.pone.0306327",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0306327",
+      "abstract": "Purpose: Pain in conjunction with surgery for ulnar nerve entrapment at the elbow is seldom highlighted in the literature. This study aimed to explore patients’ experiences of living with chronic pain (≥3 months duration) in conjunction with surgery for ulnar nerve entrapment at the elbow, the consequences and the coping strategies applied. Material and methods: In-depth interviews were conducted with 10 participants aged 18–60 years. The narratives were analyzed using an inductive approach and content-analysis. Results: The analysis revealed seven main categories: “Physical symptoms/impairments” and “Mood and emotions”comprise symptoms caused by ulnar nerve entrapment at the elbow and chronic pain; “Consequences in daily life” includes challenges and obstacles in every-day life, impact on leisure activities and social life; “Struggling with self-image” embraces experiences closely related to identity; “Coping strategies” covers adaptive resources; “Experience of relief “describes perceived improvements; “Key message for future care” comprises important aspects for healthcare providers to consider. Conclusions: The results clarify the need for healthcare personnel to adopt a biopsychosocial approach when treating patients with ulnar nerve entrapment at the elbow. Emotional symptoms and sleep disturbances should be identified and treated properly since they contribute to the heavy burden experienced by the individual.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Musicians' medicine – potential health problems among violinists and violists caused by playing the string instrument – the review of the literature",
+      "url": "https://zenodo.org/records/5799671",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2021",
+      "doi": "10.12775/JEHS.2021.11.12.020",
+      "abstract": "Ręka Gabriela, Machowiec Piotr, Maksymowicz Marcela, Piecewicz-Szczęsna Halina. Musicians’ medicine – potential health problems among violinists and violists caused by playing the string instrument – the review of the literature . Journal of Education, Health and Sport. 2021;11(12):273-279. eISSN 2391-8306. DOI http://dx.doi.org/10.12775/JEHS.2021.11.12.020 https://apcz.umk.pl/JEHS/article/view/JEHS.2021.11.12.020 https://zenodo.org/record/5799671 The journal has had 40 points in Ministry of Education and Science of Poland parametric evaluation. Annex to the announcement of the Minister of Education and Science of December 1, 2021. No. 32343. Has a Journal's Unique Identifier: 201159. Scientific disciplines assigned: Physical Culture Sciences (Field of Medical sciences and health sciences); Health Sciences (Field of Medical Sciences and Health Sciences). Punkty Ministerialne z 2019 - aktualny rok 40 punktów. Załącznik do komunikatu Ministra Edukacji i Nauki z dnia 1 grudnia 2021 r. Lp. 32343. Posiada Unikatowy Identyfikator Czasopisma: 201159. Przypisane dyscypliny naukowe:Nauki o kulturze fizycznej (Dziedzina nauk medycznych i nauk o zdrowiu); Nauki o zdrowiu (Dziedzina nauk medycznych i nauk o zdrowiu). © The Authors 2021; This article is published with open access at Licensee Open Journal Systems of Nicolaus Copernicus University in Torun, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author (s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non commercial license Share alike. (http://creativecommons.org/licenses/by-nc-sa/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.12.2021. Revised: 22.12.2021. Accepted: 22.12.2021. Musicians’ medicine – potential health problems among violinists and violists caused by playing the string instrument – the review of the literature Gabriela Ręka, Piotr Machowiec, Marcela Maksymowicz, Halina Piecewicz-Szczęsna Gabriela Ręka 1 gabrysia.reka@gmail.com, ORCID: 0000-0001-9728-5281 Piotr Machowiec 1 piotr.machowiec1997@gmail.com, ORCID: 0000-0002-5418-0110 Marcela Maksymowicz 1 marcela.maksymowicz@gmail.com, ORCID: 0000-0003-2611-1609 Halina Piecewicz-Szczęsna 2 halpiec@gmail.com, ORCID: 0000-0002-0573-7226 1 Students’ Scientific Association of Chair and Department of Epidemiology and Clinical Research Methodology, Medical University of Lublin, Radziwiłłowska 11, 20-080 Lublin 2 Chair and Department of Epidemiology and Clinical Research Methodology, Medical University of Lublin, Radziwiłłowska 11, 20-080 Lublin Abstract Introduction and purpose Musicians' medicine has received increasing attention recently. It is known that listening to music or playing an instrument has beneficial effects on cognitive and neural functions. Playing the string instrument demands repetitive precise movements of fingers and arms in a non-ergonomic posture that might give rise to health problems. The study aims to present the current state of knowledge regarding different potential health problems among violinists and violists. The article reviews the 24 newest scientific publications available on PubMed and Google Scholar. A brief description of the state of knowledge The literature review indicated several potential health consequences of excessive playing the violin or viola, as follows: Fiddler's neck and skin allergy, Garrod’s pads, temporomandibular disorders, carpal tunnel syndrome, cubital tunnel syndrome, tennis elbow, compression of the right ulnar nerve in the ulnar (Guyon's) canal, rotator cuff tendonitis, tenosynovitis, bursitis, focal dystonia, thoracic outlet syndrome, bone asymmetry, pain in the neck, cheeks, fingers, wrist, forearm, shoulder, waist, and the back. Conclusions Musicians should be aware of potential health problems that occur during prolonged playing the violin or the viola. An important issue is maintaining the accurate proportions between the amount of time spent playing the instrument and resting. The first signs of neurological or musculoskeletal changes should prompt the musician to seek professional medical help to prevent the disorder's progression. Key words: health; overuse injury; nerve entrapments; muscle pain; string instrument",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The prevalence of ulnar neuropathy at the elbow and ulnar nerve dislocation in recreational wheelchair marathon athletes",
+      "url": "https://doi.org/10.1371/journal.pone.0243324",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0243324",
+      "abstract": "Background: Ulnar neuropathy at the elbow is an entrapment neuropathy, while ulnar nerve dislocation might also be involved in its incidence and severity. Wheelchair marathon athletes may be at an increased risk for Ulnar Neuropathy. However, there is a paucity of research into the prevalence of Ulnar Neuropathy and ulnar nerve dislocation in this population. Objective: To investigate the prevalence of ulnar neuropathy at the elbow and ulnar nerve dislocation in wheelchair marathon athletes. Participants: Wheelchair marathon athletes (N = 38) who participated in the 2017, 2018, and 2019 Oita International Wheelchair Marathon. 2 athletes participated only one time, 36 athletes repeatedly. Data from athletes`latest assessment were used. Methods: The day before the race, questionnaires, physical examinations, and ultrasonography were conducted to screen for Ulnar Neuropathy in both upper limbs. Ulnar nerve dislocation was confirmed by physical examination and ultrasonography. Results: 11 (29%) athletes were diagnosed with Ulnar Neuropathy. There were no significant differences in age, height, weight, Body Mass Index, or history of primary illness between athletes with and without Ulnar Neuropathy. In the group without Ulnar Neuropathy, 44% of athletes reported to have been engaging in other wheelchair sports, compared to 9% in the group with Ulnar Neuropathy (p = 0.037). Ulnar nerve dislocation was diagnosed in 15 (39%) athletes by ultrasonography. Out of the 14 elbows of 11 athletes diagnosed with Ulnar Neuropathy, 9 (64%) elbows had ulnar nerve dislocation. Conclusion: The prevalence of Ulnar Neuropathy in wheelchair marathon athletes was higher than previously reported in able-bodied, non-athlete individuals and lower than in non-athletes with lower limb dysfunction. Therefore, while wheelchair sports may provide some protection against Ulnar Neuropathy, this study further supports the importance of screening for Ulnar Neuropathy, as well as for ulnar nerve dislocation as a potential risk factor for the development of Ulnar Neuropathy.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ultrasound Imaging for the Cutaneous Nerves of the Extremities and Relevant Entrapment Syndromes: From Anatomy to Clinical Implications",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6262579/",
+      "publisher": "Journal of clinical medicine",
+      "year": "2018",
+      "doi": "10.3390/jcm7110457",
+      "abstract": "Cutaneous nerve entrapment plays an important role in neuropathic pain syndrome. Due to the advancement of ultrasound technology, the cutaneous nerves can be visualized by high-resolution ultrasound. As the cutaneous nerves course superficially in the subcutaneous layer, they are vulnerable to entrapment or collateral damage in traumatic insults. Scanning of the cutaneous nerves is challenging due to fewer anatomic landmarks for referencing. Therefore, the aim of the present article is to summarize the anatomy of the limb cutaneous nerves, to elaborate the scanning techniques, and also to discuss the clinical implications of pertinent entrapment syndromes of the medial brachial cutaneous nerve, intercostobrachial cutaneous nerve, medial antebrachial cutaneous nerve, lateral antebrachial cutaneous nerve, posterior antebrachial cutaneous nerve, superficial branch of the radial nerve, dorsal cutaneous branch of the ulnar nerve, palmar cutaneous branch of the median nerve, anterior femoral cutaneous nerve, posterior femoral cutaneous nerve, lateral femoral cutaneous nerve, sural nerve, and saphenous nerve.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Extensive sonographic ulnar nerve enlargement above the medial epicondyle is a characteristic sign in Hansen’s neuropathy",
+      "url": "https://doi.org/10.1371/journal.pntd.0005766",
+      "publisher": "PLOS Neglected Tropical Diseases",
+      "year": "2017",
+      "doi": "10.1371/journal.pntd.0005766",
+      "abstract": "Objective: Earlier studies have shown sonographic enlargement of the ulnar nerve in patients with Hansen’s neuropathy. The present study was performed to determine whether sonography or electrophysiological studies can detect the specific site of ulnar nerve pathology in leprosy. Methods: Eighteen patients (thirty arms) with Hansen’s disease and an ulnar neuropathy of whom 66% had borderline tuberculoid (BT), 27% lepromatous leprosy (LL) and 7% mid-borderline (BB) leprosy were included in the study. Cross-sectional area (CSA) of ulnar nerve was measured every two centimeters from wrist to medial epicondyle and from there to axilla. All patients underwent standard motor and sensory nerve conduction studies of the ulnar nerve. Thirty age and sex matched controls underwent similar ulnar nerve CSA measurements and conduction studies. Results: Ulnar nerve was clinically palpable in 19 of the 30 arms of patients. Motor and sensory nerve conduction studies of the ulnar nerve showed a reduced compound motor action potential and sensory nerve action potential amplitude in all patients. Motor Conduction Velocity (MCV) in patients were slower in comparison to controls, especially at the elbow and upper arm, but unable to exactly locate the site of the lesion. In comparison to controls the ulnar nerveCSA was larger in the whole arm in patients and quite specific the maximum enlargement was seen between nulnar sulcus and axilla, peaking at four centimeters above the sulcus. Conclusions: A unique sonographic pattern of nerve enlargement is noted in patients with ulnar neuropathy due to Hansen’s disease, while this was not the case for the technique used until now, the electrodiagnostic testing. The enlargement starts at ulnar sulcus and is maximum four centimeters above the medial epicondyle and starts reducing further along the tract. This characteristic finding can help especially in diagnosing pure neuritic type of Hansen’s disease, in which skin lesions are absent, and alsoto differentiate leprosy from other neuropathies in which nerve enlargement can occur. Author summary: Hansen’s neuropathy is caused by Mycobacterium leprae. The diagnosis of Hansen disease is based on typical skin lesions, nerve enlargement and presence of bacilli in the skin smear. One of the types of leprosy is a pure neuritic type which manifests without skin lesions. High resolution ultrasound is new modality by which the morphology of the peripheral nerves can be studied. Earlier studies have shown that peripheral nerves are thickened in Hansen’s disease and ultrasound is superior in identifying nerve enlargement when compared with clinical palpation. Good correlation exits between nerve enlargement and electrophysiological studies. The current research was to look for a specific pattern of nerve enlargement and we studied patients with Hansen’s ulnar neuropathy. We found an unique pattern of nerve enlargement in which the ulnar nerve enlargement starts at the sulcus and the enlargement is maximum four centimetres above the sulcus and then it tapers. This pattern of unique nerve enlargement can help especially in diagnosing pure neuritic type of Hansen’s disease, in which skin lesions are absent, and is also useful to differentiate leprosy from other neuropathies in which nerve enlargement can occur.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Outcome following Nerve Repair of High Isolated Clean Sharp Injuries of the Ulnar Nerve",
+      "url": "https://doi.org/10.1371/journal.pone.0047928",
+      "publisher": "PLOS",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0047928",
+      "abstract": "Objective: The detailed outcome of surgical repair of high isolated clean sharp (HICS) ulnar nerve lesions has become relevant in view of the recent development of distal nerve transfer. Our goal was to determine the outcome of HICS ulnar nerve repair in order to create a basis for the optimal management of these lesions. Methods: High ulnar nerve lesions are defined as localized in the area ranging from the proximal forearm to the axilla just distal to the branching of the medial cord of the brachial plexus. A meta-analysis of the literature concerning high ulnar nerve injuries was performed. Additionally, a retrospective study of the outcome of nerve repair of HICS ulnar nerve injuries at our institution was performed. The Rotterdam Intrinsic Hand Myometer and the Rosén-Lundborg protocol were used. Results: The literature review identified 46 papers. Many articles presented outcomes of mixed lesion groups consisting of combined ulnar and median nerves, or the outcome of high and low level injuries was pooled. In addition, outcome was expressed using different scoring systems. 40 patients with HICS ulnar nerve lesions were found with sufficient data for further analysis. In our institution, 15 patients had nerve repair with a median interval between trauma and reconstruction of 17 days (range 0–516). The mean score of the motor and sensory domain of the Rosen's Scale instrument was 58% and 38% of the unaffected arm, respectively. Two-point discrimination never reached less then 12 mm. Conclusion: From the literature, it was not possible to draw a definitive conclusion on outcome of surgical repair of HICS ulnar nerve lesions. Detailed neurological function assessment of our own patients showed that some ulnar nerve function returned. Intrinsic muscle strength recovery was generally poor. Based on this study, one might cautiously argue that repair strategies of HICS ulnar nerve lesions need to be improved.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "T2-Signal of Ulnar Nerve Branches at the Wrist in Guyon’s Canal Syndrome",
+      "url": "https://doi.org/10.1371/journal.pone.0047295",
+      "publisher": "PLOS",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0047295",
+      "abstract": "Objective: To evaluate T2-signal of high-resolution MRI in distal ulnar nerve branches at the wrist as diagnostic sign of guyon’s-canal-syndrome (GCS). Materials and Methods: 11 GCS patients confirmed by clinical/electrophysiological findings, and 20 wrists from 11 asymptomatic volunteers were prospectively included to undergo the following protocol: axial T2-weighted-fat-suppressed and T1-weighted-turbo-spin-echo-sequences (3T-MR-scanner, Magnetom/Verio/Siemens). Patients were examined in prone position with the arm extended and wrist placed in an 8-channel surface-array-coil. Nerve T2-signal was evaluated as contrast-to-noise-ratios (CNR) from proximal-to-distal in ulnar nerve trunk, its superficial/sensory and deep/motor branch. Distal motor-nerve-conduction (distal-motor-latency (dml)) to first dorsal-interosseus (IOD I) and abductor digiti minimi muscles was correlated with T2-signal. Approval by the institutional review-board and written informed consent was given by all participants. Results: In GCS, mean nerve T2-signal was strongly increased within the deep/motor branch (11.7±4.8 vs.controls:−5.3±2.4;p = 0.001) but clearly less and not significantly increased in ulnar nerve trunk (6.8±6.4vs.−7.4±2.5;p = 0.07) and superficial/sensory branch (−2.1±4.9vs.−9.7±2.9;p = 0.08). Median nerve T2-signal did not differ between patients and controls (−9.8±2.5vs.−6.7±4.2;p = 0.45). T2-signal of deep/motor branch correlated strongly with motor-conduction-velocity to IOD I in non-linear fashion (R2 = −0.8;p<0.001). ROC-analysis revealed increased nerve T2-signal of the deep/motor branch to be a sign of excellent diagnostic performance (area-under-the-curve 0.94, 95% CI: 0.85–1.00; specificity 90%, sensitivity 89.5%). Conclusions: Nerve T2-signal increase of distal ulnar nerve branches and in particular of the deep/motor branch is highly accurate for the diagnostic determination of GCS. Furthermore, for the first time it was found in nerve entrapment injury that T2-signal strongly correlates with electrical-conduction-velocity.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Double schwannomas of the ulnar nerve: case report",
+      "url": "https://zenodo.org/records/4010883",
+      "publisher": "Acta Chirurgica Croatica",
+      "year": "2020",
+      "doi": "10.5281/zenodo.4010883",
+      "abstract": "Background: Schwannomas are benign peripheral nerve sheath tumors, mainly solitary, well defined and with low incidence of malignant transformation. The incidence of schwannomas in hand tumors is 5%. Schwannomas are initially asymptomatic, but later due to their growth they can compress surrounding tissue and cause pain. Case study: We present a case of a 68-year-old patient with a double schwannoma of the right ulnar nerve. The MRI showed a soft tissue mass which was suspected to be a schwannoma and the diagnosis was confirmed by pathohistology. Enucleation of both tumors with nerve preservation was performed and the patient is without any postoperative neurological deficit. Conclusion: Intra-capsular enucleation with nerve preservation is a treatment option which may significantly lower postoperative nerve damage with an acceptable risk of local recurrence.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.7,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Utility Of The Ten Test For Sensory Assessment In Traumatic Hand And Distal Forearm Nerve Injuries",
+      "url": "https://zenodo.org/records/20321112",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20321112",
+      "abstract": "PURPOSE: The ten test is a simplistic test for the assessment of digit sensation that does not require any specialized tools. It has been validated more rigorously for nontraumatic upper extremity nerve injuries. Alternative methods for sensory assessment either require expensive tools (Semmes-Weinstein) or are controversial in accuracy (two point discrimination, 2PD). We sought to evaluate the accuracy of the ten test, as compared to static 2PD, in the assessment of traumatic digital or distal median or ulnar nerve lacerations. METHODS: Patients greater than or equal to 18 years old who experienced a traumatic laceration to the digit, hand, or distal forearm with signs of sensory loss were included. Those with a history of carpal tunnel, neurologic or congenital upper extremity disorders, or prior nerve surgery or injury were excluded. A single examiner evaluated all digits of bilateral hands using the ten test and static 2PD either preoperatively or within two weeks postoperatively. A ten test <8 and 2PD >5 were considered indicative of decreased sensation and potential nerve injury. For distal median and ulnar nerve injuries, ring finger assessment was excluded, due to inconsistencies in innervation patterns. RESULTS: 30 patients were included. 25 were confirmed by surgical evaluation to have nerve lacerations (25 digital nerves, 1 common digital nerve, 4 median nerve, 3 ulnar nerve) while 5 with potential lacerations were found to have intact nerves (12 digital nerves). The sensitivity of 2PD was 96% and the specificity was 70%. The sensitivity of the ten test was 91% and the specificity was 86%. When comparing pre-op values for 5 patients found to have lacerated nerves with 5 patients found to have intact nerves, the positive predictive value of the ten test was 63% and the negative predictive value was 88% compared to 67% and 100% respectively for 2PD. The positive likelihood ratio of the ten test was 6.50 and the negative likelihood ratio was 0.10 compared to 2PD of 3.5 and 0.05, respectively. CONCLUSIONS: The ten test is a useful tool for assessing loss of sensation due to distal upper extremity nerve injury. Further studies will expand the sample size and evaluate the ability of the ten test to reflect recovery over time after nerve repair.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Unique Manifestation of Hirayama Disease: Bilateral Radial and Ulnar Nerve Palsy with Hypothenar Atrophy, and Atypical Snake Eye Appearance",
+      "url": "https://jcdr.net/article_fulltext.asp?issn=0973-709x&year=2025&month=September&volume=19&issue=9&page=TD01-TR03&id=21461",
+      "publisher": "Journal of Clinical and Diagnostic Research",
+      "year": "2025",
+      "doi": "10.7860/JCDR/2025/77617.21461",
+      "abstract": "A rare cervical myelopathy called Hirayama disease usually manifests as muscle atrophy and distal upper limb weakness that develops gradually in young males. A 42-year-old male presented with progressive weakness and atrophy in both upper limbs for over 12 years, accompanied by fine tremors. Neurological examination revealed weakness in wrist extension and finger movements, profound atrophy of the hypothenar and interosseous muscles, and sensory deficits consistent with radial and ulnar nerve involvement. Cervical spine Magnetic Resonance Imaging (MRI) in a flexed position revealed anterior displacement of the posterior dural sac (from C3 to C7 level), with compression of the lower cervical cord, confirming the diagnosis of Hirayama disease. This case highlights a rare and severe manifestation of Hirayama disease, emphasising the bilateral involvement of multiple peripheral nerves, a finding uncommon in classical presentations. Early diagnosis, aided by dynamic MRI imaging, is crucial to prevent further neurological deterioration. Treatment options, including cervical collar immobilisation, aim to halt disease progression. This report underscores the importance of considering Hirayama disease in the differential diagnosis of atypical peripheral neuropathy presentations, particularly in young patients and, in this case, in an older age group (40-45 years). It also provides insight into the varied clinical spectrum of this condition.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Histological study of donor/recipient feasibility in distal nerve transfer for the upper limb nerve injury",
+      "url": "https://doi.org/10.1371/journal.pone.0322331",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0322331",
+      "abstract": "This study aimed to histologically investigate whether the compatibility of donor and recipient nerves in distal nerve transfer for radial and ulnar nerve palsy is suitable for restoring nerve function. Partial median to radial nerve transfer for radial nerve palsy and partial median to ulnar nerve transfer for ulnar nerve palsy were performed in 10 cadaveric upper limbs fixed using the Thiel technique. Histological analysis of the nerve samples at the coaptation site focused on the number of myelinated axons. Each recipient and donor nerve was identified in all specimens without any anatomical variations. While median-radial nerve transfer techniques showed an adequate number of donor axons, median-ulnar nerve transfer techniques showed a shortage of donor axons. The insufficiency of donor axons compared to the recipient axons may explain the challenges in reinnervating the recipient muscles. Combining the two different nerve transfers may compensate for the shortage of donor axons and improve motor recovery. Type of study and Level of evidence: Therapeutic, Level III.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Nerve conduction, latency, and its association with hand function in young men",
+      "url": "https://doi.org/10.1371/journal.pone.0310813",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0310813",
+      "abstract": "Introduction: The median and ulnar nerves have been suggested to play a significant role in hand function; however, there are insufficient data to determine the strength of this association. This study aimed to investigate the correlation between hand function as measured with the Grooved pegboard test (GPT) and conduction velocity and latency of the median and ulnar nerves. Methods: We collected convenience samples in the College of Medicine, KSAU-HS. We used GPT to characterize hand function and performed measured nerve conduction velocity (NCV) and latency of the ulnar and median nerves of both hands. We used the Edinburgh handedness inventory (EHI) to determine hand dominance. Results: We recruited 28 healthy medical students aged 20–29 years (mean: 21.46 ± 1.62 years). Most were right-handed (n = 25, 89.3%), with a mean EHI score of 302 ± 210. The mean GPT time was significantly faster in the dominant (65.5 ± 6.4 s) than in the non-dominant (75.0 ± 9.6 s) hand. The NCV for the ulnar nerve of the dominant hand was significantly correlated with GPT (r = -0.52, p = 0.005) while median nerve was not correlated (0.24, p = 0.21). Regression analysis and collinearity test showed that the ulnar NCV explained 20% of the variance in GPT of the dominant hand (R2 = 0.203, p = 0.016). Conclusion: The ulnar nerve conduction velocity, explained 20% of the variance in GPT times of the young men. Performance on this biomarker of neurological health seems to be more influenced by other factors in healthy young individuals.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "The consequences of a thoracic outlet syndrome's entrapment model on the biomechanics of the ulnar nerve - Cadaveric study",
+      "url": "https://hal.science/hal-05561781v1",
+      "publisher": "Journal of Hand Therapy",
+      "year": "2023",
+      "doi": "10.1016/j.jht.2022.09.007",
+      "abstract": "Study Design A cross sectional cadaveric measurement study. Introduction The etiology of entrapment neuropathies, such as carpal tunnel syndromes or thoracic outlet syndromes (TOS), is usually not only linked with the compressive lesion of the nerve but can also be associated with fibrosis and traction neuropathy. Purpose of the Study This work studies the biomechanics of the ulnar nerve in a cadaveric model of thoracic outlet syndrome (TOS). We explored the biomechanical impact of a restriction of mobility of the ulnar nerve. We measured if it could significantly affect the deformation undergone by the nerve on the rest of its path. Methods We studied 14 ulnar nerves from 7 embalmed cadavers. We opened three 6.5cm windows (at the wrist, forearm, and arm), and two optical markers 2cm apart were sutured to the ulnar nerve. We then studied the deformation of the ulnar nerve in three successive tensioning positions inspired by the ULNT3 manoeuvre (Upper Limb Neural Test 3). We then fixed the brachial plexus to the clavicle to mimic a nerve adhesion at the thoracic outlet. Results Fixing the brachial plexus to the clavicle bone had significant effects on ulnar nerve mobility. In the position of intermediate tension, the nerve deformation increased by +0.68% / +1.43% compared to the control measure. In the position of maximum tension, it increased by +1.16% / +1.94%, pushing the nerve beyond the traumatic threshold of 8% of deformation causing reversible damage to axonal transport and vascularization. Conclusions Our nerve adhesion at the thoracic outlet showed significant effects on the mobility of the ulnar nerve compared to the control situation, by significantly increasing the deformation undergone throughout the rest of the nerve's course, and by taking it over the 8% of physiological traumatic deformation.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "A Cross Sectional Study of Clinical and Histopathological Correlation of Patient with Different Spectrum of Leprosy from Central West India",
+      "url": "https://zenodo.org/records/8009981",
+      "publisher": "Zenodo",
+      "year": "2023",
+      "doi": "10.5281/zenodo.8009981",
+      "abstract": "Background: Hansen’s disease, is a chronic, infectious disease that primarily affects the skin and the peripheral nerve. Leprosy expresses itself in different clinico-pathological forms depending on the immune status of the host; diagnosis of leprosy is based on different clinical parameters which involves detailed examination of skin lesions and peripheral nerves. Demonstration of acid –fast bacilli in slit skin smears by Ziehl- Neelsen’s staining also aids in diagnosis of leprosy. A reliable diagnosis hinges around a good histopathological diagnosis and demonstration of bacilli in histopathological sections. Clinical classification gives recognition only to gross appearances of the lesions, while the parameters used for the histopathological classification are well defined, precise and also take into account the immunological manifestations which enable it to successfully bridge the pitfalls in leprosy diagnosis. Histopathology provides confirmatory information for suspect cases which can be missed in clinical practice or epidemiological studies and helps in exact typing. Histology also gives indication of progression and regression of disease under treatment. Objective: The aim of the study is to observe the patient of various spectrum of leprosy and correlate clinical findings with histopathological findings. Materials and Method: It is a Cross sectional observational study conducted in Dept. of Dermatology, from central west India, from April 2015 to September 2016. Person with sign and symptoms of leprosy, cases with hypopigmented lesions with definitive sensory impairment, cases with erythematous papule, plaque and nodule with sensory impairment. Person with no known history of prior leprosy treatment, and willingness to do biopsy and signing the informed consent form were included. Subjects with no skin lesions, only sensory loss or thickened nerve, not giving consent for biopsy, history of prior treatment with MDT regime complete or incomplete and patient with lepra reactions were excluded. Prevalence of Leprosy in 2014 at Maharashtra was 0.9 per 10000. So, number of new cases is very low, that’s why I had included all cases of leprosy presented to my department for this study, which was fulfilling the inclusion criteria within study duration. Hence the study sample is 70. Results: The age of the cases included in study ranged from 5 years to 70 years (mean age 34.42 ± 16.02 years). The majority of the cases 32 (36%) were in the age group of 20-40 years (3rd and 4th decade). There were 50(70.4%) males and 21(29.6%) females with a male to female ratio of 2.4: 1.The present study showed the duration of disease ranging 1 to 72 months (mean 9.84 months). Majority of patients (63.8%) presented within 6 months of onset of disease. In this study, most common observed lesion were macule consisting 50 in number, followed by plaque (n=39). 8 cases presented with papule whereas 4patients had nodule.In our study clinical diagnosis of TT and BTH leprosy were found to be common in 20-40 years of age group accounted for 54.5% of total TT cases and 37.83%of total BTH cases respectively. All cases of clinically diagnosed BB cases were seen in 20-40 year of age group. Whereas cases of lepromatous pole of leprosy distributed equally in each age groups of, 20 to 40 yrs, 40 to 60 yrs, > 60 yrs. In this study, upper limb was found to be most common site 46 (64.8%), followed by trunk in 29 (40.8%) patients. 27(38%) cases had lesions over face and 23(32.4%) had lower limb. Most common nerve involved was ulnar nerve which was palpable in total 51 patients, among them 28 were unilateral whereas 23 cases with bilateralinvolvement. Out of 71 cases studied, most commonly observed type of leprosy was BTH presented in 52.1% of cases, followed by TT in 31%. Patient with Lepromatous pole were 9 in number accounted 12.7% of total. Rest 4.2% of cases were of BB. On histopathology, majority of patient observed were BTH contributing 60.6% of total, followed by lepromatous pole 16.9%. 11.3% of patients were found to be indeterminate type of leprosy, whereas 8.5% of patients in BB. Rest 2.8% patients were of TT. TT showed only 4.55 % of cases positively correlate with clinical diagnosis. BB showed 33.3% of cases positively correlate with clinical diagnosis. BTH showed 75.7% of cases positively correlate with clinical diagnosis. Lepromatous pole showed highest correlation 88.9%. Limitations of the study were histopathological response during treatment course couldn’t be assessed as it was a cross sectional study and sample size was less. Conclusion: Most common clinical and histopathological diagnosis was observed as borderline tuberculoid Hansen. Most common age group was 20-40 years (3rd and 4th decade). Most patients came to seek health care within 6 months of period. Overall agreement in between clinical and histopathological diagnosis was found to be 53.52%. For treatment purpose parity to be found was 89.83% in paucibacillary and 100% for multibacillary.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Operative versus non-operative management of pediatric medial epicondyle fractures: a systematic review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2758175/",
+      "publisher": "Journal of children's orthopaedics",
+      "year": "2009",
+      "doi": "10.1007/s11832-009-0192-7",
+      "abstract": "Purpose There is ongoing debate about the management of medial epicondyle fractures in the pediatric population. This systematic review evaluated non-operative versus operative treatment of medial epicondyle fractures in pediatric and adolescent patients over the last six decades. Methods A systematic review of the available literature was performed. Frequency-weighted mean union times were used to compare union rates for closed versus open treatments. Moreover, functional outcomes and range-of-motion variables were correlated with varying treatment modalities. Any complications, including ulnar nerve symptoms, pain, instability, infection, and residual deformity, were cataloged. Results Fourteen studies, encompassing 498 patients, met the inclusion/exclusion criteria. There were 261 males and 132 female patients; the frequency-weighted average age was 11.93 years. The follow-up range was 6-216 months. Under the cumulative random effects model, the odds of union with operative fixation was 9.33 times the odds of union with non-operative treatment (P Conclusions Operative treatment affords a significantly higher union rate over the non-operative management of medial epicondyle fractures. There was no difference in pain at final follow-up between operative and non-operative treatments. As surgical indications evolve, and the functional demands of pediatric patients increase, surgical fixation should be strongly considered to achieve stable fixation and bony union.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.5,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Percutaneous ultrasound-guided ulnar nerve release technique compared to open technique: A cadaveric study",
+      "url": "https://hal.science/hal-03788677v1",
+      "publisher": "SICOT-J",
+      "year": "2022",
+      "doi": "10.1051/sicotj/2022041",
+      "abstract": "Objectives: To evaluate the outcomes of a novel percutaneous ultrasound-guided technique for release of ulnar nerve entrapment at the elbow when compared to standard open release Methods: One single surgeon performed an ultrasound-guided percutaneous release of the cubital tunnel on a group of five cadaveric elbows and open release on five others. All procedures were timed, and incision lengths were recorded. Meticulous anatomic dissection was then performed to assess the complete release of the carpal tunnel and iatrogenic injuries. Results: No significant difference was found between the two groups in terms of complete release and iatrogenic injury, whereas Operative time was significantly shorter for the US-guided technique. Incomplete releases of the nerve were found only during the first two trials in each group, while the third, fourth, and fifth trials showed a complete ulnar nerve release in both series, highlighting a fast learning curve for both techniques. All of this through a significantly smaller incision in the US-guided technique. Conclusions: This study highlights the similar effects of these two techniques in terms of complete release of the ulnar nerve, with no clear superiority of one over the other in terms of morbidity rate. Both have a fast learning curve for an ultrasound-trained surgeon, with the US-guided technique being a less traumatic and quicker alternative procedure.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Acute and long-term costs of 268 peripheral nerve injuries in the upper extremity",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7135060/",
+      "publisher": "PloS one",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0229530",
+      "abstract": "Background Peripheral nerve injury in the upper extremity is linked to high socioeconomic burden, yet cost-analyses are rare and from small cohorts. The objective of this study was to determine the costs and long-term socioeconomic effects of peripheral nerve injuries in the upper extremity in Germany. Methods We analyzed data of 250 patients with 268 work-related upper extremity nerve injuries from acute treatment to long-term follow-up on rehabilitation, sick-leave and disability-pension. Results Patients were on average 39.9±14.2 years old, male (85%) and mean inpatient treatment was 7±6 days. Location of nerve was 8% (N = 19) proximal to the wrist, 26% (N = 65) at the wrist and metacarpus, and 66% (N = 166) at phalangeal level. Acute in-patient treatment for (single) median nerve injury accounted for 66% with hospital reimbursement of 3.570€, ulnar nerve injury for 24% and 2.650€ and radial nerve injury for 10% and 3.166€, all including finger nerve injuries. The remaining were combined nerve injuries, with significantly higher costs, especially if combined with tendon 5.086€ or vascular injury 4.886€. Based on location, nerve injuries proximal to the wrist averaged 5.360±6.429€, at the wrist and metacarpus 3.534±2.710€ and at the phalangeal level 3.418±3.330€. 16% required rehabilitation with average costs of 5.842€ and stay of 41±21 days. Sick leave was between 11-1109 days with an average of 147 days with socioeconomic costs of 197€/day, equaling on average 17.640€. 30% received a mean yearly disability pension of 3.187€, that would account to 102.167€ per lifetime. Conclusion This large German patient sample indicates that nerve injury has a major impact on function and employment, resulting in significant health care costs. Both proximal and distal nerve injuries led to long-term disability, subsequent sick-leave and in 30% to permanent disability pension. These data are determined to support future studies and health economical work on prevention, treatment and rehabilitation of these often small injuries with great consequences.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Occupational biomechanical risk factors for surgically treated ulnar nerve entrapment in a prospective study of male construction workers",
+      "url": "\n      https://www.sjweh.fi/show_abstract.php?abstract_id=3757\n    ",
+      "publisher": "Scandinavian Journal of Work, Environment & Health",
+      "year": "2019",
+      "doi": "10.5271/sjweh.3757",
+      "abstract": "OBJECTIVES: The aim of this study was to determine the association between occupational biomechanical exposures and occurrence of surgically treated ulnar nerve entrapment (UNE). METHODS: A cohort of 229 689 male construction workers who participated in a national occupational health surveillance program (1971–1993) were examined prospectively over a 13-year case ascertainment period (2001–2013) for surgically treated UNE. Job title (construction trade), smoking status, height, weight and age were recorded on examination. Job titles were merged into occupational groups of workers performing similar work tasks and having similar training. Occupational biomechanical exposure estimates were assigned to each occupational group with a job exposure matrix (JEM) developed for the study. Negative binomial models were used to assess the relative risks for each biomechanical exposure and the sums of highly correlated biomechanical exposures. Surgical treatment of UNE was determined via a linkage with the Swedish Hospital Outpatient Surgery Register. RESULTS: There were 555 cases of surgically treated UNE within the cohort. Workers exposed to forceful hand-grip factors had a 1.4-fold higher relative risk (95% CI 1.18–1.63) of undergoing surgical treatment for UNE compared to unexposed workers. Occupational groups comprising workers exposed to forceful hand-grip work showed the highest risks for UNE and included concrete workers, floor layers, ground preparatory workers, rock blasters, and sheet-metal workers. CONCLUSION: Forceful hand-grip work increases the risk for surgically treated ulnar nerve entrapment.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Combined median and ulnar nerve palsy complicating distal radius fractures",
+      "url": "https://hal.science/hal-02135803v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2018",
+      "doi": "10.1016/j.otsr.2018.04.026",
+      "abstract": "BACKGROUND: Fractures of the distal radius only rarely give rise to complications in the immediate postoperative period. Combined median and ulnar nerve palsy is a complication that can be missed by the surgeon. MATERIALS AND METHODS: Three cases diagnosed early after surgery are reported here. The patients were 15, 16, and 30 years of age, respectively. None had preoperative neurological deficits. The youngest patient was injured during sports and the other 2 patients during traffic accidents. All 3 patients had a displaced fracture of the distal radius combined with a fracture of the distal fourth of the ulna or ulnar styloid process and were treated by anterior plate fixation. Operative times were 47, 62, and 120minutes, respectively. Compartment syndrome was ruled out based on low pain intensity and absence of forearm tightness to palpation. RESULTS: The electrophysiological study performed 1 month post-injury in all 3 patients showed severe impairments of both median and ulnar nerve function. Median and ulnar nerve release surgery was performed in the 15-year-old 6 weeks post-injury. No nerve damage or fibrosis was seen during the procedure. All patients recovered fully within 3 months and had normal findings from follow-up electrophysiology testing after 6 months. DISCUSSION: Combined median and ulnar nerve palsy has rarely been reported and is among the rare complications of distal radial fractures that can develop in the event of a high-energy trauma and/or major displacement. Both previously published data and our experience indicate that surgical nerve release is unnecessary. Clinical recovery within 3 months is the rule. LEVEL OF EVIDENCE: IV, case-reports.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Vestibular stimulation-induced facilitation of cervical premotoneuronal systems in humans",
+      "url": "https://doi.org/10.1371/journal.pone.0175131",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0175131",
+      "abstract": "It is unclear how descending inputs from the vestibular system affect the excitability of cervical interneurons in humans. To elucidate this, we investigated the effects of galvanic vestibular stimulation (GVS) on the spatial facilitation of motor-evoked potentials (MEPs) induced by combined pyramidal tract and peripheral nerve stimulation. To assess the spatial facilitation, electromyograms were recorded from the biceps brachii muscles (BB) of healthy subjects. Transcranial magnetic stimulation (TMS) over the contralateral primary motor cortex and electrical stimulation of the ipsilateral ulnar nerve at the wrist were delivered either separately or together, with interstimulus intervals of 10 ms (TMS behind). Anodal/cathodal GVS was randomly delivered with TMS and/or ulnar nerve stimulation. The combination of TMS and ulnar nerve stimulation facilitated BB MEPs significantly more than the algebraic summation of responses induced separately by TMS and ulnar nerve stimulation (i.e., spatial facilitation). MEP facilitation significantly increased when combined stimulation was delivered with GVS (p < 0.01). No significant differences were found between anodal and cathodal GVS. Furthermore, single motor unit recordings showed that the short-latency excitatory peak in peri-stimulus time histograms during combined stimulation increased significantly with GVS. The spatial facilitatory effects of combined stimulation with short interstimulus intervals (i.e., 10 ms) indicate that facilitation occurred at the premotoneuronal level in the cervical cord. The present findings therefore suggest that GVS facilitates the cervical interneuron system that integrates inputs from the pyramidal tract and peripheral nerves and excites motoneurons innervating the arm muscles.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effect of coil orientation on strength-duration time constant and I-wave activation with controllable pulse parameter transcranial magnetic stimulation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4727502/",
+      "publisher": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+      "year": "2016",
+      "doi": "10.1016/j.clinph.2015.05.017",
+      "abstract": "Objective To compare the strength-duration (S-D) time constants of motor cortex structures activated by current pulses oriented posterior-anterior (PA) or anterior-posterior (AP) across the central sulcus. Methods Motor threshold and input-output curve, along with motor evoked potential (MEP) latencies, of first dorsal interosseus were determined at pulse widths of 30, 60, and 120 μs using a controllable pulse parameter (cTMS) device, with the coil oriented PA or AP. These were used to estimate the S-D time constant and we compared with data for responses evoked by cTMS of the ulnar nerve at the elbow. Results The S-D time constant with PA was shorter than for AP stimulation (230.9 ± 97.2 vs. 294.2 ± 90.9 μs; p Conclusion PA and AP stimuli appear to activate the axons of neurons with different time constants. Short duration AP pulses are more selective than longer pulses in recruiting longer latency corticospinal output. Significance More selective stimulation of neural elements may be achieved by manipulating pulse width and orientation.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Rare Variation of Axillary Artery and its Clinical Significance",
+      "url": "https://zenodo.org/records/8252343",
+      "publisher": "PJSR",
+      "year": "2014",
+      "doi": "10.5281/zenodo.8252343",
+      "abstract": "Axillary artery pulsations serve as a landmark for clinical procedures like brachial plexus block and subclavian vein puncture. Axillary artery is also increasingly being utilized as a graft for coronary artery bypass. The present article reports a rare case of axillary artery variation. In this case, gross deviation from the normal anatomy was observed in an adult embalmed cadaver. Axillary vein arched over the second part of axillary artery and then continued posterior to the artery throughout its course. A variant relationship of brachial plexus cords and branches to the artery was also observed. All the cords and their branches were posteriosuperior to the axillary artery in abducted position of arm. The immediate posterior relation of axillary artery in its second and third part was axillary vein and ulnar nerve. This variation may have important clinical implications while performing subclavian vein puncture for central venous line and brachial plexus blocks. Knowledge of such variations is also important in interpreting images and in carrying out surgical and anaesthetic procedures involving axillary artery.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.16,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Outcomes of Ulnar Nerve Grafting",
+      "url": "https://doi.org/10.5455/medarh.2013.67.39-41",
+      "publisher": "ScopeMed",
+      "year": "2013",
+      "doi": "10.5455/medarh.2013.67.39-41",
+      "abstract": "The ulnar nerve is a mixed motor and sensory nerve, which making nerve repair more difficult and functional recovery less predictable than pure sensory nerves. Recovery of muscle activity and restoration of sensibility are essential for a functional extremity. A nerve graft, if performed in a tensionless manner, has been shown to generally have better results than an end-to-end approximation performed under tension.In study period from 1993 through 2008, evaluation was performed in 48 patients with adequate follow-up. The mean follow-up period was 3.4 years (range, 24 months to 8.3 years). The average patient age was 32.4 years (range, from 6 to 71 years). There were 37 male patients and 11 female patients.We analyzed the effect of the age of the patient, level of injury, graft lenght and denervation time on motor and sensory recovery. Values of p < 0.05 were considered significant. Results of motor (chi-square = 8.04, p = 0.154) and sensory recovery (chi-square = 7.53, p = 0.184) were not significantly better in patients younger than 25 years compared to the group of patients older than 25 years. The level of the ulnar nerve injury had an impact on the outcome, with better results both sensory (chi-square = 161., p = 0.000) and motor recovery (chi-square = 238., p = 0.000) in patients with distal lesions. The results were significantly better in the group with graft lenght less than 5 cm compared to those longer than 5 cm for both sensory (chi-square = 72.6, p = 0.000) and motor recovery (chi-square = 196., p = 0.000). The functional results were significantly better for both sensory (chi-square 13.4, p = 0.020) and motor recovery (chi-square = 133., p = 0.000) in the group of patients with denervation time shorther than 6 months.The graft length, level of injury and denervation time significantly influenced the functional outcome in both motor and sensory recovery. Better results were in the patients in which the autograft length was up to 5 cm, in patients who were operated within six months from the injury and in patients with distal lesions.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Anatomical study of the dorsal cutaneous branch of the ulnar nerve using ultrasound",
+      "url": "https://hal.science/hal-01453422v1",
+      "publisher": "European Radiology",
+      "year": "2013",
+      "doi": "10.1007/s00330-013-2832-z",
+      "abstract": "To determine whether ultrasound allows precise assessment of the course and relations of the dorsal cutaneous branch of the ulnar nerve (DCBUN). This work, initially undertaken in cadavers, was followed by high-resolution ultrasound study in 20 healthy adult volunteers (40 nerves) by two musculoskeletal radiologists in consensus. Location and course of the DCBUN and its relations to adjacent anatomical structures were analysed. The DCBUN was consistently identified along its entire course by ultrasound. Mean cross-sectional area of the nerve was 1.6 mm(2) (range 1.1-2.2). The level at which the DCBUN branches from the ulnar nerve was located a mean of 57 mm (range 40-80) proximal to the ulnar styloid process and 11 mm (range 7-15) radial to the medial border of the ulna. The DCBUN then crossed the medial border of the ulna a mean of 14 mm (range 6-25) proximal to the ulnar styloid process. The DCBUN is clearly depicted by ultrasound. Precise mapping of its anatomical course could have significant clinical applications, such as preventing injury during surgery of the ulnar side of the wrist or helping in the diagnosis of chronic pain of the ulnar side of the hand. aEuro cent The dorsal cutaneous branch of the ulnar nerve (DCBUN) is often injured. aEuro cent The DCBUN originates from the ulnar nerve in the distal third of the forearm. aEuro cent It can be clearly depicted by ultrasound. aEuro cent The level at which the DCBUN crosses the ulna is variable. aEuro cent Precise mapping of its anatomical course could have significant clinical applications.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Reliability of clinical tests to evaluate nerve function and mechanosensitivity of the upper limb peripheral nervous system",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2653029/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2009",
+      "doi": "10.1186/1471-2474-10-11",
+      "abstract": "Background Clinical tests to assess peripheral nerve disorders can be classified into two categories: tests for afferent/efferent nerve function such as nerve conduction (bedside neurological examination) and tests for increased mechanosensitivity (e.g. upper limb neurodynamic tests (ULNTs) and nerve palpation). Reliability reports of nerve palpation and the interpretation of neurodynamic tests are scarce. This study therefore investigated the intertester reliability of nerve palpation and ULNTs. ULNTs were interpreted based on symptom reproduction and structural differentiation. To put the reliability of these tests in perspective, a comparison with the reliability of clinical tests for nerve function was made. Methods Two experienced clinicians examined 31 patients with unilateral arm and/or neck pain. The examination included clinical tests for nerve function (sensory testing, reflexes and manual muscle testing (MMT)) and mechanosensitivity (ULNTs and palpation of the median, radial and ulnar nerve). Kappa statistics were calculated to evaluate intertester reliability. A meta-analysis determined an overall kappa for the domains with multiple kappa values (MMT, ULNT, palpation). We then compared the difference in reliability between the tests of mechanosensitivity and nerve function using a one-sample t-test. Results We observed moderate to substantial reliability for the tests for afferent/efferent nerve function (sensory testing: kappa = 0.53; MMT: kappa = 0.68; no kappa was calculated for reflexes due to a lack of variation). Tests to investigate mechanosensitivity demonstrated moderate reliability (ULNT: kappa = 0.45; palpation: kappa = 0.59). When compared statistically, there was no difference in reliability for tests for nerve function and mechanosensitivity (p = 0.06). Conclusion This study demonstrates that clinical tests which evaluate increased nerve mechanosensitivity and afferent/efferent nerve function have comparable moderate to substantial reliability. To further investigate the clinometric properties of these tests, more studies are needed to evaluate their validity.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Correlation between the elbow flexion and the hand and wrist flexion after neurotization of the fascicles of the ulnar nerve to the motor branch to the biceps",
+      "url": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-36162017000300309&lng=en&tlng=en",
+      "publisher": "Revista Brasileira de Ortopedia",
+      "year": "",
+      "doi": "10.1016/j.rboe.2017.04.006",
+      "abstract": "ABSTRACT OBJECTIVE: Gain in elbow flexion in patients with brachial plexus injury is extremely important. The transfer of a fascicle from the ulnar nerve to the motor branch of the musculocutaneous nerve (Oberlin surgery) is a treatment option. However, in some patients, gain in elbow flexion is associated with wrist and finger flexion. This study aimed to assess the frequency of this association and the functional behavior of the limb. METHODS: Case-control study of 18 patients who underwent the Oberlin surgery. Group 1 included patients without disassociation of range of elbow flexion and that of the fingers and wrist; Group 2 included patients in whom this disassociation was present. In the functional evaluation, the Sollerman and DASH tests were used. RESULTS: It was observed that 38.89% of the patients did not present disassociation of elbow flexion with flexion of the wrist and fingers. Despite the existence of a favorable difference in the group with disassociation of the movement, when the Sollerman protocol was applied to the comparison between both groups, this difference was not statistically significant. With the DASH test, however, there was a statistically significant difference in favor of the group of patients who managed to disassociate the movement. CONCLUSION: The association of elbow flexion with flexion of the wrist and fingers, in the group studied, was shown to be a frequent event, which influenced the functional result of the affected limb.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "ULNAR NERVE",
+      "url": "https://doi.org/10.29309/tpmj/2008.15.01.2694",
+      "publisher": "Independent Medical Trust",
+      "year": "2008",
+      "doi": "10.29309/tpmj/2008.15.01.2694",
+      "abstract": "Objective: To determine the etiology of ulnar nerve compression acrossthe elbow.Design: Retrospective and descriptive. Setting: At AFIRM Rawalpindi. Period: From Jan 2000 to Jan 2004.Material & Methods: 267 cases of Ulnar Nerve Compression at elbow diagnosed after electro-physiological studieswere selected. Most of the patients with a variety of complaints were referred to Rehabilitation Medical Department,Rawalpindi (AFIRM) for diagnostic evaluation (NCS/EMG) and management. Results: Out of 267 patients 210(78.65%)were males and 57(21%) were females. The mean age was 35 yrs (Range 9-67yrs). Most of the patients 180(67.41%)had left sided Ulnar nerve compression at elbow where as 87(32.59%) suffered on Right side. The most commonmode of presentation were paraesthesia 234(88%), pain 166(44%) and weakness of intrinsic hand muscles 104(27%).Electro-physiological evaluation shows prevalence of occupational 121(45%) and traumatic 51(21%) causes.Conclusion: Management of Ulnar never compression must include a comprehensive rehabilitation program thatshould focus on postural correction and workstation modification along with pharmacological and surgical advice",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Incidence of ulnar nerve entrapment at the elbow in repetitive work.",
+      "url": "https://inserm.hal.science/inserm-00141238v1",
+      "publisher": "Scandinavian Journal of Work, Environment and Health",
+      "year": "2004",
+      "doi": "",
+      "abstract": "OBJECTIVES: Despite the high frequency of work-related musculoskeletal disorders, the relation between work conditions and ulnar nerve entrapment at the elbow has not been the object of much research. In the present study, the predictive factors for such ulnar nerve entrapment were determined in a 3-year prospective survey of upper-limb work-related musculoskeletal disorders in repetitive work. METHODS: In 1993-1994 and 3 years later, 598 workers whose jobs involved repetitive work underwent an examination by their occupational health physicians and completed a self-administered questionnaire. Predictive factors associated with the onset of ulnar nerve entrapment at the elbow were studied with bivariate and multivariate analyses. RESULTS: The annual incidence was estimated at 0.8% per person-year, on the basis of 15 new cases during the 3-year period. Holding a tool in position was the only predictive biomechanical factor [odds ratio (OR) 4.1, 95% confidence interval (95% CI) 1.4-12.0]. Obesity increased the risk of ulnar nerve entrapment at the elbow (OR 4.3, 95% CI 1.2-16.2), as did the presence of medial epicondylitis, carpal tunnel syndrome, radial tunnel syndrome, and cervicobrachial neuralgia. The associations with \"holding a tool in position\" and obesity were unchanged when the presence of other diagnoses was taken into account. CONCLUSIONS: Despite the limitations of the study, the results suggest that the incidence of ulnar nerve entrapment at the elbow is associated with one biomechanical risk factor (holding a tool in position, repetitively), overweight, and other upper-limb work-related musculoskeletal disorders, especially medial epicondylitis and other nerve entrapment disorders (cervicobrachial neuralgia and carpal and radial tunnel syndromes).",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Granular Cell Tumor of the Ulnar Nerve at the Wrist: A Rare Case Report",
+      "url": "https://hal.science/hal-05508354v1",
+      "publisher": "Asian journal of case reports in surgery",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Granular cell tumours usually involve skin and subcutaneous tissue. There are only few reports of such tumours arising from the peripheral nerves and we report one such rare case arising from ulnar nerve at wrist level. A 17-yr old girl presented to the out-patient department with complaints of paraesthesia in left hand along the ulnar nerve distribution for a period of 4 weeks. Patient was treated for right femur shaft fracture and left elbow lateral condyle fracture 9 months prior. Granular cell tumors most often present in extra neural sites such as skin and subcutaneous tissue, the tongue and breast. They can rarely present in the respiratory and gastrointestinal tracts3. Neural origins of this tumour have been demonstrated in case reports only. Clinical and radiological examination of the granular cell tumors offer no distinguishing factors to help the physician anticipate the differential diagnosis. This explains the high recurrence rates of this tumour. Sufficient evidence does not exist to offer a treatment algorithm for this tumour.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.94,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Ulnar Nerve Entrapment in the Guyon's Canal Secondary to Compression by a Ganglion Cyst: A Case Report",
+      "url": "https://hal.science/hal-05359819v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2019",
+      "doi": "",
+      "abstract": "Ulnar nerve compression in the Guyon’s canal is in most cases secondary to repeated trauma, fracture of the hamate or a thrombosis or arterial aneurism of the ulnar artery. Tumoral etiologies such as a compression by a lipoma or a ganglion cyst are uncommon. The development of a ganglion cyst in the Guyon’s canal as a possible cause of ulnar nerve entrapment needs to be considered in the case of a sudden onset of hand grip weakness. We believe that an early surgical decompression by removing the ganglion is essential for a full recovery.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.66,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Endoscopic cubital tunnel release: a modified surgery and clinical application",
+      "url": "https://medicaljournalssweden.se/JPHS/article/view/45986",
+      "publisher": "Journal of Plastic Surgery and Hand Surgery",
+      "year": "2026",
+      "doi": "10.2340/jphs.v61.45986",
+      "abstract": "Background: Varied surgical alternatives for treating cubital tunnel syndromes have been used. A trend of endoscopic ulnar nerve release is emerging. The purpose of this study is to introduce a modified technique of endoscopic ulnar nerve decompression in association with anterior transposition of the ulnar nerve and to assess the feasibility and efficacy of the surgery. Materials and Methods: We introduced a modified method of endoscopic release and subfascial anterior transposition of the ulnar nerve. The technique was applied to six patients who presented signs, symptoms, and abnormal neurophysiological studies of cubital tunnel syndrome. The patients were classified according to the Dellon classification preoperatively. The Bishop rating system was used to evaluate the postoperative outcomes. Trial registration number for the study is MR-31-25-090620. Results: Preoperatively, all six patients were classified as severe according to the Dellon classification. The endoscopic cubital tunnel release and subfascial anterior ulnar nerve transposition surgeries were performed with no difficulty in all patients. All the patients had improvement in symptoms and scored excellent or good according to the modified Bishop Rating System postoperatively. Conclusions: The modified endoscopic cubital tunnel release and subfascial anterior ulnar nerve transposition technique is technically feasible with satisfactory outcomes in six patients in this study.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Features of Management in Elderly Patients with Compression-Ischemic Neuropathy of the Ulnar Nerve",
+      "url": "https://www.geriatr-news.com/jour/article/view/561",
+      "publisher": "Российский журнал гериатрической медицины",
+      "year": "2025",
+      "doi": "10.37586/2686-8636-2-2025-292-293",
+      "abstract": "BACKGROUND. In compressive-ischemic neuropathy of the ulnar nerve at the level of the cubital tunnel (cubital tunnel syndrome, CTS), surgical decompression is most effective. However, long-term surgical outcomes for CTS in elderly patients remain insufficiently studied.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Brachial Plexus Injury Influences Efferent Transmission on More than Just the Symptomatic Side, as Verified with Clinical Neurophysiology Methods Using Magnetic and Electrical Stimulation",
+      "url": "https://www.mdpi.com/2227-9059/12/7/1401",
+      "publisher": "Biomedicines",
+      "year": "2024",
+      "doi": "10.3390/biomedicines12071401",
+      "abstract": "The variety of sources of brachial plexus injuries (BPIs) and the severity and similarity of their clinical symptoms with those of other injuries make their differential diagnosis difficult. Enriching their diagnosis with objective high-sensitivity diagnostics such as clinical neurophysiology may lead to satisfactory treatment results, and magnetic stimulation (MEP) might be an advantageous addition to the diagnostic standard of electrical stimulation used in electroneurography (ENG). The asymptomatic side in BPI cases sometimes shows only subclinical neurological deficits; this study aimed to clarify the validity and utility of using MEP vs. ENG to detect neural conduction abnormalities. Twenty patients with a BPI and twenty healthy volunteers with matching demographic and anthropometric characteristics were stimulated at their Erb’s point in order to record the potentials evoked using magnetic and electrical stimuli to evaluate their peripheral motor neural transmission in their axillar, musculocutaneous, radial, and ulnar nerves. MEP was also used to verify the neural transmission in participants’ cervical roots following transvertebral stimulations, checking the compatibility and repeatability of the evoked potential recordings. The clinical assessment resulted in an average muscle strength of 3–1 (with a mean of 2.2), analgesia that mainly manifested in the C5–C7 spinal dermatomes, and a pain evaluation of 6–4 (mean of 5.4) on the symptomatic side using the Visual Analog Scale, with no pathological symptoms on the contralateral side. A comparison of the recorded potentials evoked with magnetic versus electrical stimuli revealed that the MEP amplitudes were usually higher, at p = 0.04–0.03, in most of the healthy volunteers’ recorded muscles than in those of the group of BPI patients, whose recordings showed that their CMAP and MEP amplitude values were lower on their more symptomatic than asymptomatic sides, at p = 0.04–0.009. In recordings following musculocutaneous and radial nerve electrical stimulation and ulnar nerve magnetic stimulation at Erb’s point, the values of the latencies were also longer on the patient’s asymptomatic side compared to those in the control group. The above outcomes prove the mixed axonal and demyelination natures of brachial plexus injuries. They indicate that different types of traumatic BPIs also involve the clinically asymptomatic side. Cases with predominantly median nerve lesions were detected in sensory nerve conduction studies (SNCSs). In 16 patients, electromyography revealed neurogenic damage to the deltoid and biceps muscles, with an active denervation process at work. The predominance of C5 and C6 brachial plexus injuries in the cervical root and upper/middle trunk of patients with BPI has been confirmed. A probable explanation for the bilateral symptoms of dysfunction detected via clinical neurophysiology methods in the examined BPI patients, who showed primarily unilateral damage, maybe the reaction of their internal neural spinal center’s organization. Even when subclinical, this may explain the poor BPI treatment outcomes that sometimes occur following long-term physical therapy or surgical treatment.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A Novel Passive Implantable Differential Mechanism to Restore Individuated Finger Flexion during Grasping following Tendon Transfer Surgery: A Pilot Study",
+      "url": "https://www.mdpi.com/2076-3417/13/9/5804",
+      "publisher": "Applied Sciences",
+      "year": "2023",
+      "doi": "10.3390/app13095804",
+      "abstract": "Tendon transfer surgery is often used to restore hand grasp function following high median-ulnar nerve palsy. This surgery typically reroutes and sutures the tendon of the extensor carpi radialis longus (ECRL) muscle to all four flexor digitorum profundus (FDP) tendons of the hand, coupling them together. This makes it difficult to grasp irregularly shaped objects. We propose inserting a novel implantable passive device between the FDP tendons to surgically construct a differential mechanism, enabling the fingers to individually adapt to the irregular contours during grasping. These passive implants with no moving parts are fabricated from biocompatible materials. We tested the implants’ ability to create differential flexion between the index and middle fingers when actuated by a single muscle in two human cadaver hands using a computerized closed-loop control paradigm. In these cadaveric models, the implants enabled significantly more differential flexion between the index and middle fingers for a wide range of donor tendon tensions. The implants also redistributed fingertip forces between fingers. When grasping uneven objects, the difference in contact forces between fingers reduced by nearly 23% compared to the current suture-based surgery. These results suggest that self-adaptive grasp is possible in tendon transfers that drive multiple distal flexor tendons.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Patterns and trends of tribal leprosy: An overview from a tertiary care leprosy clinic of Choto Nagpur Plateau of Eastern India",
+      "url": "http://www.e-ijd.org/article.asp?issn=0019-5154;year=2022;volume=67;issue=5;spage=624;epage=624;aulast=Sarkar",
+      "publisher": "Indian Journal of Dermatology",
+      "year": "2022",
+      "doi": "10.4103/ijd.ijd_227_22",
+      "abstract": "Background: Leprosy is a chronic granulomatous disease mainly affecting the peripheral nerves and skin. Any communities including the tribals are susceptible to leprosy. Very few studies on clinico-epidemiological patterns of leprosy have been reported in the tribal population, especially in the Choto Nagpur plateau. Aims: To observe clinical types of newly diagnosed leprosy cases among the tribal population and demonstrate bacteriological index, frequency of deformity, and lepra reaction at presentation. Methods: An institution-based cross-sectional study was conducted with consecutive newly diagnosed tribal leprosy patients attending the leprosy clinic of a tribal-based tertiary care center of Choto Nagpur plateau of eastern India, from January 2015 to December 2019. Thorough history taking and clinical examination were done. A slit skin smear for AFB was performed to demonstrate the bacteriological index. Results: There was a steady rise in total leprosy cases from 2015 to 2019. Borderline tuberculoid (BT) was the commonest form of leprosy (64.83%). Pure neuritic leprosy was not uncommon (16.26%). Multibacillary leprosy was noted in 74.72% of cases and childhood leprosy was observed in 6.70% of cases. The commonest nerve involved was the ulnar nerve. Garde II deformity was noted in around 20% of cases. AFB positivity was observed in 13.73% of cases. A high bacteriological index (BI ≥3) was noted in 10.65% of cases. Lepra reaction was observed in 25.38% of cases. Conclusion: BT leprosy, pure neuritic leprosy, childhood leprosy, grade II deformity, and higher AFB positivity were prevalent in this study. The tribal population required special attention and care for the prevention of leprosy amongst them.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Neuropsychological and neurophysiological correlates of fatigue in post-acute patients with neurological manifestations of COVID-19: Insights into a challenging symptom",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7834526/",
+      "publisher": "Journal of the neurological sciences",
+      "year": "2021",
+      "doi": "10.1016/j.jns.2020.117271",
+      "abstract": "More than half of patients who recover from COVID-19 experience fatigue. We studied fatigue using neuropsychological and neurophysiological investigations in post-COVID-19 patients and healthy subjects. Neuropsychological assessment included: Fatigue Severity Scale (FSS), Fatigue Rating Scale, Beck Depression Inventory, Apathy Evaluation Scale, cognitive tests, and computerized tasks. Neurophysiological examination was assessed before (PRE) and 2 min after (POST) a 1-min fatiguing isometric pinching task and included: maximum compound muscle action potential (CMAP) amplitude in first dorsal interosseous muscle (FDI) following ulnar nerve stimulation, resting motor threshold, motor evoked potential (MEP) amplitude and silent period (SP) duration in right FDI following transcranial magnetic stimulation of the left motor cortex. Maximum pinch strength was measured. Perceived exertion was assessed with the Borg-Category-Ratio scale. Patients manifested fatigue, apathy, executive deficits, impaired cognitive control, and reduction in global cognition. Perceived exertion was higher in patients. CMAP and MEP were smaller in patients both PRE and POST. CMAP did not change in either group from PRE to POST, while MEP amplitudes declined in controls POST. SP duration did not differ between groups PRE, increased in controls but decreased in patients POST. Patients' change of SP duration from PRE to POST was negatively correlated to FSS. Abnormal SP shortening and lack of MEP depression concur with a reduction in post-exhaustion corticomotor inhibition, suggesting a possible GABA B -ergic dysfunction. This impairment might be related to the neuropsychological alterations. COVID-19-associated inflammation might lead to GABAergic impairment, possibly representing the basis of fatigue and explaining apathy and executive deficits.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The effect of peripheral high-frequency electrical stimulation on the primary somatosensory cortex in pigs",
+      "url": "http://www.sciencedirect.com/science/article/pii/S266724212100035X",
+      "publisher": "IBRO Neuroscience Reports",
+      "year": "2021",
+      "doi": "10.1016/j.ibneur.2021.08.004",
+      "abstract": "This study implements the use of Danish Landrace pigs as subjects for the long-term potentiation (LTP)-like pain model. This is accomplished by analyzing changes in the primary somatosensory cortex (S1) in response to electrical stimulation on the ulnar nerve after applying high-frequency electrical stimulation (HFS) on the ulnar nerve. In this study, eight Danish Landrace pigs were electrically stimulated, through the ulnar nerve, to record the cortically evoked response in S1 by a 16-channel microelectrode array (MEA). Six of these pigs were subjected to HFS (four consecutive, 15 mA, 100 Hz, 1000 µs pulse duration) 45 min after the start of the experiment. Two pigs were used as control subjects to compare the cortical response to peripheral electrical stimulation without applying HFS. Low-frequency components of the intracortical signals (0.3–300 Hz) were analyzed using event-related potential (ERP) analysis, where the minimum peak during the first 30–50 ms (N1 component) in each channel was detected. The change in N1 was compared over time across the intervention and control groups. Spectral analysis was used to demonstrate the effect of the intervention on the evoked cortical oscillations computed between 75 ms and 200 ms after stimulus. ERP analysis showed an immediate increase in N1 amplitude that became statistically significant 45 mins after HFS (p < 0.01) for the intervention group. The normalized change in power in frequency oscillations showed a similar trend. The results show that the LTP-like pain model can be effectively implemented in pigs using HFS since the cortical responses are comparable to those described in humans.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "ELECTRONEUROMYOGRAPHY EXAMINATION OF DIABETIC POLYNEUROPATHY PATIENTS",
+      "url": "https://mnj.ub.ac.id/index.php/mnj/article/view/305",
+      "publisher": "Malang Neurology Journal",
+      "year": "2019",
+      "doi": "10.21776/ub.mnj.2019.005.01.1",
+      "abstract": "Background: Diabetic polyneuropathy (DPN) is one of the chronic complications that occur in approximately 80% of diabetes mellitus (DM) patients. This condition is a results of metabolic, vascular, and immunological disorders. Objective: To determine the profile of electroneuromyography (ENMG) examination of DPN patients at neurology clinic of Saiful Anwar General Hospital. Methods: This cross-sectional observational descriptive study was carried out at Saiful Anwar General Hospital Malang from June 1, 2015 to December 31, 2015, with purposive sampling method. A total of 43 DM patients with symptoms of polyneuropathy fulfilling inclusion criteria and no exclusion criteria were examined for ENMG. ENMG examirnation were including distal latency, amplitude and nerve conduction velocity of 4 motoric nerves (median, ulnar, tibial, peroneal) & 3 sensory nerves (median, ulnar, sural), and F waves of ulnar, median and peroneal nerves of the left and right extremities. Results: Of the 43 patients evaluated in this study, the mean sensory sural nerve conduction velocity was 13.01 m/s. The majority type of nerve damage in diabetic polyneuropathy patients in this study were mixed type (52.33% in the median nerve, 60.47% in the ulnar nerve, 72.10% in the tibial nerve, and 54.65% in the peroneal nerve in motor nerve studies and 80.23% in the median nerve and 88.37% in the peroneal nerve in the sensory nerve studies). Conclusion: The nerve damage that occurs in DPN patients at Saiful Anwar general Hospital is severe, with the majority being the axonal demyelinating type, especially in the sensory nerve fibers in the inferior extremities.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Management of supracondylar fractures of the humerus in children",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6335593/",
+      "publisher": "EFORT open reviews",
+      "year": "2018",
+      "doi": "10.1302/2058-5241.3.170049",
+      "abstract": "Supracondylar fractures of the humerus are the most frequent fractures of the paediatric elbow, with a peak incidence at the ages of five to eight years.Extension-type fractures represent 97% to 99% of cases. Posteromedial displacement of the distal fragment is the most frequent; however, the radial and median nerves are equally affected. Flexion-type fractures are more commonly associated with ulnar nerve injuries.Concomitant upper-limb fractures should always be excluded. To manage the vascular status, distal pulse and hand perfusion should be monitored. Compartment syndrome should always be borne in mind, especially when skin puckering, severe ecchymosis/swelling, vascular alterations or concomitant forearm fractures are present.Gartland's classification shows high intra- and inter-observer reliability. Type I is treated with casting. Surgical treatment is the standard for almost all displaced fractures. Type IV fractures can only be diagnosed intra-operatively.Closed reduction and percutaneous pinning is the gold standard surgical treatment. Open reduction via the anterior approach is indicated for open fractures, absence of the distal vascular flow for > 10 to 15 minutes after closed reduction, and failed closed reduction.Lateral entry pins provide stable fixation, avoiding the risk of iatrogenic ulnar nerve injury.About 10% to 20% of displaced supracondylar fractures present with alterations in vascular status. In most cases, fracture reduction restores perfusion.Neural injuries occur in 6.5% to 19% of cases involving displaced fractures. Most of them are neurapraxias and it is not routinely indicated to explore the nerve surgically. Cite this article: EFORT Open Rev 2018;3:526-540. DOI: 10.1302/2058-5241.3.170049.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Results of conservative, surgical treatment and rehabilitation of entrapment neuropathies in elderly patients in geriatric practice",
+      "url": "https://zenodo.org/records/345737",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.345737",
+      "abstract": "Główczewska Jadwiga, Nowacka Krystyna, Główczewska-Siedlecka Emilia, Mądra‑Gackowska Katarzyna, Siedlecki Zygmunt, Szostak Mateusz, Kędziora‑Kornatowska Kornelia. Results of conservative , surgical treatment and rehabilitation of entrapment neuropathies in elderly patients in geriatric practice. Journal of Education, Health and Sport. 2017;7(4):21-28. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.345747 http://ojs.ukw.edu.pl/index.php/johs/article/view/4308 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 12.02.2017. Revised 23.02.2017. Accepted: 28.02.2017. Wyniki leczenia zachowawczego, operacyjnego i rehabilitacji neuropatii z ucisku nerw ó w ko ń czyn g ó rnych u chorych w wieku podesz ł ym w praktyce geriatrycznej Results of conservative, surgical treatment and rehabilitation of entrapment neuropathies in elderly patients in geriatric practice G łó wczewska Jadwiga1, Nowacka Krystyna2, G łó wczewska-Siedlecka Emilia1, M ą dra‑Gackowska Katarzyna1, Siedlecki Zygmunt3, Szostak Mateusz3, K ę dziora‑Kornatowska Kornelia1 1. Katedra i Klinika Geriatrii, Collegium Medicum im. L. Rydygiera w Bydgoszczy, Uniwersytet Miko ł aja Kopernika w Toruniu 2. Katedra i Klinika Rehabilitacji, Collegium Medicum im. L. Rydygiera w Bydgoszczy, Uniwersytet Miko ł aja Kopernika w Toruniu 3. Klinika Neurochirurgii, Neurotraumatologii i Neurochirurgii Dzieci ę cej, Collegium Medicum im. L. Rydygiera w Bydgoszczy, Uniwersytet Miko ł aja Kopernika w Toruniu Streszczenie Neuropatie z ucisku nerwów kończyn górnych są przyczyną głównie nocnych bóli neuropatycznych oraz upośledzenia sprawności manualnej kończyn. Do najczęstszych neuropatii z ucisku należą zespoły cieśni nadgarstka oraz rowka n. łokciowego. Leczenie tych neuropatii polega zarówno na leczeniu przeciwbólowym, fizykoterapii i kinezyterapii a w przypadku ich nieskuteczności na leczeniu operacyjnym polegającym na odbarczeniu nerwów. W niniejszej pracy przedstawione są wyniki leczenia zachowawczego jak i operacyjnego neuropatii z ucisku chorych powyżej 65 roku. Wśród 17 chorych z neuropatiami uciskowymi 12 z nich zostało poddanych leczeniu operacyjnemu. Uzyskano częściową poprawę w zakresie bóli, głównie nocnych oraz poprawę komfortu życia i sprawności manualnej. W porównaniu jednak grupą młodszych chorych poddanych leczeniu operacyjnemu poprawa ta była mniej spektakularna, co świadczyć może o zaawansowaniu i nieodwracalności zmian u starszych chorych. Słowa kluczowe: neuropatia z ucisku, geriatria, ból neuropatyczny Abstract Entrapment neuropahies of upper limbs can cause mainly nocturnal neuropathic pain and impaired manual dexterity. The most common entrapment neuropathy is carpal tunnel syndrome and ulnar groove syndrome - ulnar nerve entrapment at the elbow. Treatment of entrapment neuropathies is both analgetic therapy and physiotherapy. In the cases of conservative treatment inefficiencies surgical decompression of nerves is performed. Authors of this oublication present results of both conservative and surgical of entrapment neuropathies in patients over 65 years old. Among the 17 patients with entraoment neuropathies 12 of them underwent surgical treatment. Achieved partial improvement in pain, mostly nocturnal and improving the quality of life and dexterity. In comparison, however, a group of younger patients who underwent surgery for the improvement was less spectacular, which may testify advancement and irreversibility of changes in older patients. Key words: entrapment neuropathies, geriatry, neuropathic pain",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ulnar Collateral Ligament Reconstruction: The Rush Experience",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735505/",
+      "publisher": "Orthopaedic journal of sports medicine",
+      "year": "2016",
+      "doi": "10.1177/2325967115626876",
+      "abstract": "Background Ulnar collateral ligament reconstruction (UCLR) is a common surgery performed in professional, collegiate, and high school athletes. Purpose To report patient demographics, surgical techniques, and outcomes of all UCLRs performed at a single institution from 2004 to 2014. Study design Case series; Level of evidence, 4. Methods All patients who underwent UCLR from January 1, 2004, through December 31, 2014, at a single institution were identified. Charts were reviewed to determine patient age, sex, date of surgery, sport played, athletic level, surgical technique, graft type, and complications. Data were collected prospectively, and patients were contacted via phone calls to obtain the return-to-sport rate, Conway-Jobe score, Andrews-Timmerman score, and Kerlan-Jobe Orthopaedic Clinic (KJOC) Shoulder and Elbow score. Continuous variable data were reported as weighted means, and categorical variable data were reported as frequencies with percentages. Results A total of 187 patients (188 elbows) underwent UCLR during the study period (92% male; mean age, 19.6 ± 4.7 years; 78.2% right elbows). There were 165 baseball players (87.8% of all patients), 155 of whom were pitchers (82.5% of all patients). Ninety-seven (51.6%) were college athletes, 68 (36.2%) high school athletes, and 7 (3.7%) professional athletes at the time of surgery. The docking technique was used in 110 (58.5%) patients while the double-docking technique was used in 78 (41.5%). An ipsilateral palmaris longus graft was used in 110 (58.5%) patients while a hamstring autograft was used in 48 (25.5%) patients. The ulnar nerve was subcutaneously transposed in 79 (42%) patients. Clinical follow-up data were available on 85 patients. Mean follow-up was 60 ± 30.8 months. Overall, 94.1% of patients were able to return to sport and had a Conway-Jobe score of good/excellent while 4.3% had a score of fair. The mean KJOC score was 90.4 ± 6.7 and mean Andrews-Timmerman score was 92.5 ± 7.1. Subsequent surgeries were performed in 5.3% of patients. Conclusion UCLR was performed most commonly on collegiate athletes using an ipsilateral palmaris longus graft. Overall, 94.1% of patients who underwent UCLR were able to return to sport with a mean KJOC score of 90.4 and Andrews-Timmerman Score of 92.5.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Zespół rowka nerwu łokciowego – ocena efektów leczenia operacyjnego = Cubital tunnel syndrome - evaluation of the effects of surgical treatment",
+      "url": "https://zenodo.org/records/61845",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.61845",
+      "abstract": "Woźniak Kamila, Ratuszek-Sadowska Dorota, Śniegocki Maciej. Zespół rowka nerwu łokciowego – ocena efektów leczenia operacyjnego = Cubital tunnel syndrome - evaluation of the effects of surgical treatment. Journal of Education, Health and Sport. 2016;6(9):315-322. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.61845 http://ojs.ukw.edu.pl/index.php/johs/article/view/3804 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.08.2016. Revised 25.08.2016. Accepted: 06.09.2016. Zespół rowka nerwu łokciowego – ocena efektów leczenia operacyjnego Cubital tunnel syndrome - evaluation of the effects of surgical treatment Kamila Woźniak 1 , Dorota Ratuszek-Sadowska 2 , Maciej Śniegocki 1 Klinika Neurochirurgii, Neurotraumatologii i Neurochirurgii Dziecięcej, Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy, Uniwersytet Mikołaja Kopernika w Toruniu Katedra i Klinika Rehabilitacji, Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy, Uniwersytet Mikołaja Kopernika w Toruniu Streszczenie Wstęp Zespół rowka nerwu łokciowego jest to zespół chorobowy wywołany uciskiem na nerw łokciowy. Choroba najczęściej jest konsekwencją zwężenia kanału łokciowego (struktura anatomiczna utworzona przez nadkłykieć przyśrodkowy kości ramiennej, więzadło ramienno-łokciowe i rozcięgno położone pomiędzy głowami zginacza łokciowego nadgarstka). Przyczynami zwężenia są urazy, stany zapalne lub zmiany zwyrodnieniowe stawów. Cel pracy Celem niniejszej pracy była ocena efektów leczenia operacyjnego u pacjentów z zespołem rowka nerwu łokciowego bezpośrednio po zabiegu operacyjnym oraz w okresie 14 dni po zabiegu operacyjnym. Materiał i metody W okresie od stycznia 2012 roku do czerwca 2016 roku w Klinice Neurochirurgii, Neurotraumatologii i Neurochirurgii Dziecięcej Szpitala Uniwersyteckiego nr 1 w Bydgoszczy do zabiegu operacyjnego zakwalifikowano 20 chorych, u których stwierdzono jednostronny zespół rowka nerwu łokciowego o różnym stopniu nasilenia. Badanie skuteczności metody operacyjnej obejmowało ocenę obiektywnych i subiektywnych objawów klinicznych w okresie po zabiegu operacyjnym – w 1 i 14 dobie. Wyniki Analiza dotychczasowych wyników leczenia wykazała, że po zastosowanej metodzie u większości pacjentów następuje zmniejszenie bądź ustąpienie dolegliwości bólowych i zaburzeń wegetatywnych w obszarze zaopatrywanym przez nerw łokciowy oraz poprawa funkcji chorej ręki. Wnioski Zastosowane leczenie operacyjne jest skutecznym postępowaniem u chorych, u których zostały wyczerpane możliwości leczenia farmakologicznego oraz fizjoterapeutycznego. Ocena zależności efektów terapii wymaga dalszych badań na większej liczbie pacjentów. Słowa kluczowe: zespół rowka nerwu łokciowego, nerw łokciowy, leczenie operacyjne Abstract Introduction Cubital tunnel syndrome is a syndrome caused by compression of the ulnar nerve. The disease is most often the consequence of stenosis of the elbow (anatomic structure created by the medial epicondyle of the humerus, elbow-ligament brachiocephalic and aponeurosis situated between the heads of the flexor carpi ulnaris). The causes of stenosis are injuries, inflammation or degenerative arthritis. Aim of study The aim of this study was to evaluate the effects of surgical treatment of patients with cubital tunnel syndrome directly after surgery and during the 14 days after surgery. Materials and methods From January 2012 to June 2016 in the Department of Neurosurgery, Neurotraumatology and Pediatric Neurosurgery, Dr Antoni Jurasz University Hospital No.1 in Bydgoszcz 20 patients diagnosed with unilateral cubital tunel syndrome with varying degrees of severity were qualified to the surgery. Study the effectiveness of surgical method included an evaluation of objective and subjective clinical symptoms in the period after surgery – on 1 and 14 day. Results The analysis of the treatment results showed that the method used the majority of patients following a decrease or disappearance of pain and disorders vegetative in the area supplied by the ulnar nerve and improve the function of diseased hand. Conclusions The applied surgical treatment is an effective procedure for patients who have exhausted the possibility of pharmacological treatment and physiotherapy. The rating is based on the effects of the therapy needs further study on a larger number of patients. Key words : cubital tunnel syndrome, ulnar nerve, surgical treatment",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ulnar Collateral Ligament Reconstruction: Anatomy, Indications, Techniques, and Outcomes",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4622381/",
+      "publisher": "Sports health",
+      "year": "2015",
+      "doi": "10.1177/1941738115607208",
+      "abstract": "Context Ulnar collateral ligament (UCL) injuries lead to pain and loss of performance in the thrower's elbow. Ulnar collateral ligament reconstruction (UCLR) is a reliable treatment option for the symptomatic, deficient UCL. Injury to the UCL usually occurs because of chronic accumulation of microtrauma, although acute ruptures occur and an acute-on-chronic presentation is also common. Evidence acquisition Computerized databases, references from pertinent articles, and research institutions were searched for all studies using the search terms ulnar collateral ligament from 1970 until 2015. Study design Clinical review. Level of evidence Level 5. Results All studies reporting outcomes for UCLR are level 4. Most modern fixation methodologies appear to be biomechanically and clinically equivalent. Viable graft choices include ipsilateral palmaris longus tendon autograft, gracilis or semitendinosus autograft, and allograft. Clinical studies report excellent outcomes of UCLR for both recreational and elite level athletes with regard to return to sport and postoperative performance. Complications, although rare, include graft rerupture or attenuation, ulnar nerve symptoms, stiffness, pain, and/or weakness leading to decreased performance. Conclusion Injuries to the UCL have become commonplace among pitchers. Nonoperative treatment should be attempted, but the limited studies have not shown promising results. Operative treatment can be performed with several techniques, with retrospective studies showing promising results. Complications include ulnar neuropathy as well as failure to return to sport. Detailed preoperative planning, meticulous surgical technique, and a comprehensive rehabilitation program are essential components to achieving a satisfactory result.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "SUTURE OF THE ULNAR NERVE.",
+      "url": "https://doi.org/10.1016/s0140-6736(02)04909-7",
+      "publisher": "Elsevier BV",
+      "year": "1891",
+      "doi": "10.1016/s0140-6736(02)04909-7",
+      "abstract": "n/a",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Ulnar Nerve Paralysis",
+      "url": "https://doi.org/10.1097/00005053-191612000-00024",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "1916",
+      "doi": "10.1097/00005053-191612000-00024",
+      "abstract": "n/a",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "ANALGESIA OF THE ULNAR NERVE IN EPILEPTICS",
+      "url": "https://doi.org/10.1097/00005053-190009000-00011",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "1900",
+      "doi": "10.1097/00005053-190009000-00011",
+      "abstract": "n/a",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Anatomical and safety considerations in establishing portals used for canine elbow arthroscopy",
+      "url": "https://hal.inrae.fr/hal-02666919v1",
+      "publisher": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "year": "2010",
+      "doi": "10.3415/VCOT-08-08-0073",
+      "abstract": "Objectives: To describe the relationship of the major muscular, ligamentous and neurovascular structures in relation to standard medial elbow arthroscopic portals used in dogs, and to evaluate their potential iatrogenic lesions. Design:Anatomical study using 20 canine cadaveric elbows. Methods: Arthroscopic explorations were performed using medial portals. Three 4 mm orthopaedic pins were introduced in place of the arthroscope, egress canula and instrumental portals. Limbs were dissected. Distances between pins and neurovascular structures were measured. Muscle, ligament and cartilage lesions were recorded. Results: Minimal muscular lesions were observed. No ligament injury was evidenced. Superficial iatrogenic cartilage lesions were observed in three joints. The arthroscopic portal was 23.1 mm (range: 16 to 28.5 mm) caudal to the brachial artery, 21.0 mm (13-30.5 mm) caudal to the median nerve, and 4.0 mm (1-7 mm) cranial to the ulnar nerve. The instrumental portal was 16.3(9-24 mm) caudal to the brachial artery, 13.5 mm (7-24.5 mm) caudal to the median nerve, and 11.8 (8-18 mm) cranial to the ulnar nerve. The egress portal was 21.4 mm (12-37 mm) caudal to the ulnar nerve. Conclusions and clinical relevance: The study confirmed the safety of elbow medial arthroscopic portals. Care must be taken when placing the camera portal so as to avoid injury of the ulnar nerve. Should extensive intra-articular procedures be needed, manipulation of instruments should be done cautiously in the cranio-medial compartment of the joint due to the proximity of the median nerve to the capsule.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Guyon’s Canal Syndrome Secondary to a Giant Lipoma: A Rare Clinical Case Report and Literature Review",
+      "url": "https://hal.science/hal-05535747v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Aims: To report a rare case of ulnar nerve compression at Guyon’s canal caused by an extraneural lipoma and to emphasize the role of MRI and surgical management. Presentation of Case: A 52-year-old man presented with a painless, slowly enlarging mass on the ulnar side of the right wrist evolving over two years, associated with numbness of the ring and little fingers for three months. Clinically, the mass measured approximately 3 cm, while imaging revealed a larger lesion. Examination showed decreased sensation in the ulnar nerve distribution and a positive Tinel’s sign without motor deficit. Nerve conduction studies confirmed severe ulnar compressive neuropathy at the wrist. MRI demonstrated a well-defined lipomatous mass extending into Guyon’s canal and displacing the ulnar nerve. Surgical excision was performed, and histopathology confirmed a lipoma. Recovery was uneventful with full sensory improvement and no recurrence. Discussion: Guyon’s canal syndrome is uncommon and most frequently caused by ganglion cysts, whereas lipomas represent a rare etiology. Symptoms vary depending to the level of nerve involvement and may be subtle despite significant compression. MRI is essential to identify the underlying cause and its anatomical relationships. Surgical decompression with lesion excision is the treatment of choice and generally provides excellent outcomes. Conclusion: Lipoma should be considered among the differential diagnoses of Guyon’s canal syndrome. MRI allows accurate diagnosis and surgical planning, and complete excision leads to favorable functional recovery.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.94,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Ulnar Tunnel Syndrome Caused by Neurofibroma in the Elbow: A Case Report",
+      "url": "https://hal.science/hal-05134347v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2024",
+      "doi": "",
+      "abstract": "Purpose: compression of the ulnar nerve at the elbow is the second nerve entrapment syndrome of the upper limb, often idiopathic, neurofibroma of the ulnar nerve is an exceptional cause of this syndrome. Case Report: A 55-year-old man presented with progressive numbness and weakness of the right ring finger and the right little finger for one year. A provisional diagnosis of cubital tunnel syndrome was made according to physical examination and electrophysiological studies. The magnetic resonance imaging showed a nodular lesions over ulnar aspect of the right elbow, which was demonstrated to be a neurofibroma by histopathology. The patient had moderate improvement after surgical decompression of the right cubital tunnel. Conclusion: This case illustrates the heterogeneous group of pathologies causing peripheral neuropathy. The diagnosis of ulnar nerve neurofibroma with ulnar tunnel syndrome was made carefully according to clinical manifestations as well as a series of electrophysiological, imaging, and pathological studies.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.86,
+      "providers": [
+        "hal"
+      ]
+    }
+  ]
+}

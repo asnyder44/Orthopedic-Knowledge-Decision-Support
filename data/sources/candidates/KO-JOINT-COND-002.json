@@ -1,0 +1,890 @@
+{
+  "term": "Hip Osteoarthritis",
+  "collected": "2026-11-14",
+  "count": 49,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Responsiveness and interpretability of the pain subscale of the Knee and Hip Osteoarthritis Outcome Scale (KOOS and HOOS) in osteoarthritis patients according to COSMIN guidelines",
+      "url": "https://doi.org/10.1371/journal.pone.0293760",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0293760",
+      "abstract": "Background: The pain subscales of the Knee and Hip Osteoarthritis Outcome Scores (KOOS and HOOS) are among the most frequently applied, patient reported outcomes to assess pain in osteoarthritis patients and evaluation of the results after Total Knee Arthroplasty (TKA) and Total Hip Arthroplasty (THA). For the evaluation of change over time it is essential to know the responsiveness and interpretability of these measurement instruments. Aim of this study is to investigate responsiveness and interpretability of the KOOS and HOOS pain subscales in patients with knee or hip OA and patients after TKA and THA as recommended by COSMIN guidelines. COSMIN stands for COnsensus based Standards for the selection of health Measurement Instruments. COSMIN recommends methods for assessing responsiveness similar to those assessing validity, using extensive hypothesis testing to assess criterion validity and construct validity of the change score. Design: This clinimetric study was conducted using data obtained from the Duloxetine in OsteoArthritis (DOA) trial. Primary knee or hip osteoarthritis patients were included. During the study, half of the participants received pre-operative targeted treatment with duloxetine, and all participants received TKA or THA. Patients filled out a set of patient-reported outcomes at several time points. Methods: Using the criterion validity approach the change scores of the KOOS and HOOS pain subscales directly after duloxetine treatment but before TKA and THA were correlated to the Patient Global Improvement anchor-question (PGI-I). Receiver Operating Characteristic curves (ROC curves) were obtained. Using the construct validity approach, hypothesis testing was conducted investigating the correlation between change scores in the KOOS and HOOS pain subscale with change scores in other questionnaires six months after TKA and THA. For interpretability, an anchor-based approach was used to consider the Minimally Important Change (MIC) of the KOOS and HOOS pain subscale. We compared the outcomes after duloxetine treatment and six months after TKA and THA in order to investigate any response shift. Results: Ninety-three participants (53 knee patients and 41 hip patients) were included. Mean change was 4.3 and 4.6 points after conservative treatment for knee and hip OA patients respectively and 31.7 and 48.8 points after TKA and THA respectively. The KOOS and HOOS pain subscales both showed a gradual increase in change scores over the different categories of improvement on the PGI-I, with an Area Under the Curve of 0.72 (95% CI 0.527–0.921) and 0.79 (95% CI 0.588–0.983) respectively. Of the predefined hypotheses, 69% were confirmed for both subscales. The MICs were between 12.2 to 37.9 for the KOOS pain subscale, and between 11.8 to 48.6 for the HOOS pain subscale, depending on whether the PGI-I was administered after conservative treatment, or six months after TKA and THA. Conclusions: This study endorses the responsiveness of the KOOS and HOOS pain subscales in patients with knee or hip OA and patients after TKA and THA based on construct and criterion validity approaches. The KOOS pain subscale might be able to detect the MIC at an individual level after arthroplasty, but both the KOOS and HOOS pain subscales were not able to do so after conservative treatment. This study is the first to report a considerable response shift in MIC of the KOOS and HOOS pain subscales. This should be taken into consideration when evaluating MIC of the KOOS and HOOS pain subscale after conservative versus operative treatment. Future research should present more reference data regarding MIC scores after different treatments.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Barriers and facilitators of physical activity in knee and hip osteoarthritis: a systematic review of qualitative evidence",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770915/",
+      "publisher": "BMJ open",
+      "year": "2017",
+      "doi": "10.1136/bmjopen-2017-017042",
+      "abstract": "Physical activity (PA), including engagement in structured exercise, has a key role in the management of hip and knee osteoarthritis (OA). However, maintaining a physically active lifestyle is a challenge for people with OA. PA determinants in this population need to be understood better so that they can be optimised by public health or healthcare interventions and social policy changes. Objectives The primary aim of this study is to conduct a systematic review of the existing qualitative evidence on barriers and facilitators of PA for patients with hip or knee OA. Secondary objective is to explore differences in barriers and facilitators between (1) lifestyle PA and exercise and (2) PA uptake and maintenance. Methods Medline, Embase, Web of Science, Cumulative Index to Nursing and Allied Health Literature, SPORTDiscus, Scopus, Grey literature and qualitative journals were searched. Critical Appraisal Skills Programme-Qualitative checklist and Lincoln and Guba's criteria were used for quality appraisal. Thematic synthesis was applied. Findings Ten studies were included, seven focusing on exercise regimes, three on overall PA. The findings showed a good fit with the biopsychosocial model of health. Aiming at symptom relief and mobility, positive exercise experiences and beliefs, knowledge, a 'keep going' attitude, adjusting and prioritising PA, having healthcare professionals' and social support emerged as PA facilitators. Pain and physical limitations; non-positive PA experiences, beliefs and information; OA-related distress; a resigned attitude; lack of motivation, behavioural regulation, professional support and negative social comparison with coexercisers were PA barriers. All themes were supported by high and medium quality studies. Paucity of data did not allow for the secondary objectives to be explored. Conclusion Our findings reveal a complex interplay among physical, personal including psychological and social-environmental factors corresponding to the facilitation and hindrance of PA, particularly exercise, engagement. Further research on the efficacy of individualised patient education, psychological interventions or social policy change to promote exercise engagement and lifestyle PA in individuals with lower limb OA is required. Trial registration number CRD42016030024.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.78,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Genetic insights into the risk of hip osteoarthritis on stroke: A single-variable and multivariable Mendelian randomization",
+      "url": "https://doi.org/10.1371/journal.pone.0313032",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0313032",
+      "abstract": "Background: Hip osteoarthritis has been identified as a potential risk factor for stroke, with previous studies have demonstrated an association between hip osteoarthritis and stroke. This study aims to further elucidate the causal relationship between the two, employing Two-Sample and Multivariable Mendelian randomization methods. Methods: SNPs, derived from two extensive GWAS, served as instruments in exploring the association between genetically predicted hip osteoarthritis and stroke risk, utilizing two-sample Mendelian randomization. In Multivariable Mendelian randomization, factors such as cigarettes per day, alcoholic drinks per week, hypertension, body mass index, type 2 diabetes, C-reactive protein, rheumatoid arthritis were incorporated to further account for the independent causal effects of multiple correlated exposures. Results: Two-sample Mendelian randomization analysis revealed that hip osteoarthritis exerts a potential causal effect on any stroke, any ischemic stroke, and cardioembolic stroke, while it did not influence large artery stroke and small vessel stroke. Multivariable MR analysis indicated that the causal effect of hip osteoarthritis on any ischemic stroke and cardioembolic stroke was no longer evident after adjusting for C-reactive protein, and similarly, the effect on any ischemic stroke was not observed after adjusting for type 2 diabetes. However, the effects on any stroke, any ischemic stroke, and cardioembolic stroke remained significant after adjustments for hypertension, alcoholic drinks per week, cigarettes per day, body mass index, and rheumatoid arthritis. Conclusion: The study demonstrated that elevated hip osteoarthritis, as predicted by genetic factors, was potential associated with an increased risk of any stroke, any ischemic stroke, and cardioembolic stroke, but showed no correlation with hypertension, alcoholic drinks per week, cigarettes per day, type 2 diabetes, C-reactive protein, body mass index levels, and rheumatoid arthritis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.0,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Assessing the causal associations of different types of statins use and knee/hip osteoarthritis: A Mendelian randomization study",
+      "url": "https://doi.org/10.1371/journal.pone.0297766",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0297766",
+      "abstract": "Objective: This study comprehensively evaluated the causal relationship between different types of statins use and knee/hip osteoarthritis (OA) using a two-sample and multivariate Mendelian randomization (MR) method. Methods: MR analysis was conducted using publicly available summary statistics data from genome-wide association studies (GWAS) to assess the causal associations between total statins use (including specific types) and knee/hip OA. The primary analysis utilized the inverse variance-weighted (IVW) method, with sensitivity analysis conducted to assess robustness. Multivariable MR (MVMR) analysis adjusted for low-density lipoprotein cholesterol (LDL-C), intermediate-density lipoprotein cholesterol (IDL-C), high-density lipoprotein cholesterol (HDL-C), and body mass index (BMI). Results: The MR analysis revealed a significant inverse association between genetically predicted total statins use and the risk of knee OA (OR = 0.950, 95%CI: 0.920–0.982, p = 0.002) as well as hip OA (OR = 0.932, 95%CI: 0.899–0.966, p <0.001). Furthermore, this study highlighted a reduced risk of knee/hip OA with the use of atorvastatin and simvastatin. Rosuvastatin use was associated with a decreased risk of hip OA but showed no association with knee OA. MVMR results indicated no correlation between exposure factors and outcomes after adjusting for LDL-C or IDL-C. HDL-C may not significantly contribute to statin-induced osteoarthritis, while BMI may play an important role. Conclusion: This study provides compelling evidence of the close relationship between statin use and a reduced risk of knee/hip OA, particularly with atorvastatin and simvastatin. LDL-C and IDL-C may mediate these effects. These findings have important implications for the clinical prevention and treatment of knee/hip OA.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.96,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Effectiveness and safety of non-steroidal anti-inflammatory drugs and opioid treatment for knee and hip osteoarthritis: network meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8506236/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2021",
+      "doi": "10.1136/bmj.n2321",
+      "abstract": "Objective To assess the effectiveness and safety of different preparations and doses of non-steroidal anti-inflammatory drugs (NSAIDs), opioids, and paracetamol for knee and hip osteoarthritis pain and physical function to enable effective and safe use of these drugs at their lowest possible dose. Design Systematic review and network meta-analysis of randomised trials. Data sources Cochrane Central Register of Controlled Trials (CENTRAL), Medline, Embase, regulatory agency websites, and ClinicalTrials.gov from inception to 28 June 2021. Eligibility criteria for selecting studies Randomised trials published in English with ≥100 patients per group that evaluated NSAIDs, opioids, or paracetamol (acetaminophen) to treat osteoarthritis. Outcomes and measures The prespecified primary outcome was pain. Physical function and safety outcomes were also assessed. Review methods Two reviewers independently extracted outcomes data and evaluated the risk of bias of included trials. Bayesian random effects models were used for network meta-analysis of all analyses. Effect estimates are comparisons between active treatments and oral placebo. Results 192 trials comprising 102 829 participants examined 90 different active preparations or doses (68 for NSAIDs, 19 for opioids, and three for paracetamol). Five oral preparations (diclofenac 150 mg/day, etoricoxib 60 and 90 mg/day, and rofecoxib 25 and 50 mg/day) had ≥99% probability of more pronounced treatment effects than the minimal clinically relevant reduction in pain. Topical diclofenac (70-81 and 140-160 mg/day) had ≥92.3% probability, and all opioids had ≤53% probability of more pronounced treatment effects than the minimal clinically relevant reduction in pain. 18.5%, 0%, and 83.3% of the oral NSAIDs, topical NSAIDs, and opioids, respectively, had an increased risk of dropouts due to adverse events. 29.8%, 0%, and 89.5% of oral NSAIDs, topical NSAIDs, and opioids, respectively, had an increased risk of any adverse event. Oxymorphone 80 mg/day had the highest risk of dropouts due to adverse events (51%) and any adverse event (88%). Conclusions Etoricoxib 60 mg/day and diclofenac 150 mg/day seem to be the most effective oral NSAIDs for pain and function in patients with osteoarthritis. However, these treatments are probably not appropriate for patients with comorbidities or for long term use because of the slight increase in the risk of adverse events. Additionally, an increased risk of dropping out due to adverse events was found for diclofenac 150 mg/day. Topical diclofenac 70-81 mg/day seems to be effective and generally safer because of reduced systemic exposure and lower dose, and should be considered as first line pharmacological treatment for knee osteoarthritis. The clinical benefit of opioid treatment, regardless of preparation or dose, does not outweigh the harm it might cause in patients with osteoarthritis. Systematic review registration PROSPERO number CRD42020213656.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.94,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Knee and hip osteoarthritis increase the risk of cardiovascular disease: A national registry-based longitudinal cohort study",
+      "url": "https://doi.org/10.1371/journal.pone.0321290",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0321290",
+      "abstract": "Objective: Osteoarthritis and cardiovascular disease are major public health challenges. We aimed to estimate the average sex-specific effects of knee and hip osteoarthritis on the risk of cardiovascular disease. Methods: We used 2001–2015 Danish national health registry data to identify all adults with knee or hip osteoarthritis and an age-, sex-, and education-matched group without osteoarthritis. Cardiovascular disease outcomes were identified with relevant ICD-10 codes. The effects of osteoarthritis were estimated with sex-stratified multivariable Cox regression models, accounting for multiple sources of confounding determined a priori with a directed acyclic graph. Results were reported with cumulative incidence curves and hazard ratios (HR) conditioned on age, sex, education, and obesity diagnosis. Sensitivity analyses explored the potential impacts of bias owing to outcome misclassification and unmeasured confounding. Results: We analysed data from 1,838,434 adults, including 290,781 people with knee or hip osteoarthritis and 1,547,653 age-, sex-, and education-matched controls. Women with knee or hip osteoarthritis had a 44% increased hazard of cardiovascular disease (HR [95% CI] = 1.44 [1.43 to 1.46]), while men with knee or hip osteoarthritis had a 24% increased hazard of subsequent cardiovascular disease (HR[95% CI] = 1.24 [1.23 to 1.26]) compared to people without osteoarthritis. These results were confirmed by sensitivity analyses. Conclusion: The apparent effect of osteoarthritis on cardiovascular disease was stronger in women than in men. Clinicians who care for patients with osteoarthritis should be aware of cardiovascular disease risk when selecting therapies and consider behavioural approaches to improving health-related physical activity behaviour in this population.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Intra- and inter-rater reliability, agreement, and minimal detectable change of the handheld dynamometer in individuals with symptomatic hip osteoarthritis",
+      "url": "https://doi.org/10.1371/journal.pone.0278086",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0278086",
+      "abstract": "Introduction: The handheld dynamometer has been validated to measure muscle strength in different muscle groups. However, to date, it has not been tested in individuals who experience pain induced by hip osteoarthritis. The current study aimed to evaluate the intra- and inter-rater reliability, agreement, and minimal detectable change of the Lafayette handheld dynamometer, model 1165, to assess the peak force (Pk) and average peak force (Af) of hip muscles in individuals with symptomatic hip osteoarthritis. Methods: Twenty participants with hip osteoarthritis (mean ± SD age: 58.7±15.3 years; body mass index: 28.8±4.2 kg/m2) and pain intensity on the Visual Analogue Scale ≥ 4 (8.05±1.2) were recruited to participate in this study. Pk and Af of hip flexors (seated position), abductors and adductors (supine position), and extensors (prone position) were collected in a single day by two independent raters, each one obtaining test and retest in randomly ordered separate sessions. Results: The intra-rater intraclass correlation coefficient (ICC) was classified as good (>0.75) or excellent (≥0.90) for all muscle groups and all inter-rater ICCs were classified as excellent. Rater A had a lower standard error of measurement compared to rater B, ranging from 0.15 to 0.58 kilogram-force (Kgf) compared with 0.34 to 1.25 kg, respectively. However, the inter-rater comparison showed a minimal detectable change (MDC) of < 10% for all Pk and Af measures for hip adductors and extensors. Finally, the inter-rater Bland-Altman analysis demonstrated good agreement for abductors, adductors, and extensors. Conclusion: Despite pain and dysfunction related to hip osteoarthritis, the mean of two measures using a handheld dynamometer was shown to be a reliable tool to assess hip muscle strength, with good to excellent intra- and inter-rater ICCs, satisfactory agreement, and small values for MDC.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effectiveness of tele-rehabilitation programs in elderly with hip osteoarthritis: a scoping review",
+      "url": "https://hal.science/hal-04220648v4",
+      "publisher": "HAL open archive",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Background: Hip osteoarthritis generates very often musculoskeletal pain causing functional impairment and decreasing mobility, autonomy and quality of life. Patients are then often offered specific telerehabilitation care to provide them with the possibility to practice painless and supervised adapted physical and functional activities. But what about effectiveness of these telerehabilitation programs? Objectives: The aim of this scoping review is to list and highlight different telerehabilitation currently offered during hip OA care in order to assess their effectiveness in programs care. Methods: 5 databases were screened for \"osteoarthritis\", \"hip osteoarthritis\", \"pre-operation\", \"rehabilitation\", \"tele-rehabilitation\", \"digital health\", \"telecommunication\" in accordance with PRISMA-ScR guideline. Results: 19 articles were selected according to inclusion criteria. The telerehablitation was offered in 6 different ways (video call, applications smartphones, website, etc.). The assessments were mainly quality of life questionnaires, the perceived effort after exercises, field surveys on the tool experience, physical tests to assess motor functions and interviews to measure acceptability before use. Conclusion: This review highlights the importance and relevance to evaluate contributions and limitations of new healthcare technologies in order to improve patient follow-up and thus enable better remote clinical care.",
+      "licence": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison of clinical and radiographic signs of hip osteoarthritis in contralateral hip joints of fifty working dogs",
+      "url": "https://doi.org/10.1371/journal.pone.0248767",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0248767",
+      "abstract": "Objective: This study aimed to compare the symmetry of clinical and radiographic signs of right and left pelvic limbs of dogs with bilateral hip osteoarthritis (OA) and evaluate the association of physical findings and radiographic abnormalities. Patients and methods: One hundred pelvic limbs of police working dogs with bilateral hip OA were evaluated, following a screening program. Weight distribution, joint range of motion at flexion and extension, thigh girth, and radiographic signs were recorded and compared with the results of the contralateral limb and by breed, age, and sex with the Paired Samples T-Test and Pearson correlation coefficient, with p<0.05. Results: The sample mean age was 6.5±2.2 years, and the bodyweight of 26.7±5.3kg. No significant differences were observed when comparing weight distribution, joint range of motion, and thigh girth of left and right limbs. Weight distribution and age showed a statistically significant correlation with joint extension. The right limbs showed a significantly higher frequency of circumferential femoral head osteophyte (CFHO) regarding radiographic signs. Limbs with CFHO or caudolateral curvilinear osteophyte had significantly larger joint flexion angle (p = 0.02) and smaller extension angle (p<0.01), respectively, compared to those that did not. Age showed a significant correlation with the presence of several radiographic findings, as did different breeds. Conclusion: Clinical and radiographic signs occur symmetrically in naturally occurring hip OA in police working dogs. Several correlations were observed between the evaluations performed and differences between breeds, which can be useful in assessing and early diagnosis of hip OA.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Intraarticular Corticosteroids for Hip Osteoarthritis: A Review",
+      "url": "https://hal.science/hal-05043456v1",
+      "publisher": "Cartilage",
+      "year": "2021",
+      "doi": "10.1177/1947603520951634",
+      "abstract": "Introduction Hip osteoarthritis is a prevalent condition responsible for important pain and disability. Most available guidelines for nonsurgical management of hip osteoarthritis recommend a combination of nonpharmacological and pharmacological treatment modalities. Intraarticular corticosteroid injections have been used for decades, although evidence is quite scarce, and many controversies remain. Methods This article reviews the available literature from Medline and Embase and discusses the evidence for intraarticular corticosteroid injections in hip osteoarthritis, where only 5 randomized controlled trials were found in the literature. These are analyzed in this article, which also aims to explain the main characteristics and features of glucocorticoids, along with their contraindications and potential adverse effects. Results Available randomized controlled trials show that intraarticular corticosteroid injections provide pain relief and functional improvement in hip osteoarthritis. This efficacy has not been shown with intraarticular hyaluronic acid injections. Conclusion This review shows that intraarticular corticosteroid injections are efficacious in hip osteoarthritis and that this benefit can last up to 12 weeks.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Identifying disease specific gait kinematics using wearable sensors: knee versus hip osteoarthritis",
+      "url": "https://zenodo.org/records/4922670",
+      "publisher": "Zenodo",
+      "year": "2021",
+      "doi": "10.5281/zenodo.4922670",
+      "abstract": "Monitoring disease progression of degenerative disease of lower extremity joint forms the basis for large clinical trials elucidating the effects of interventions aimed at improving physical function. Technical advancements in wearable sensor technology are promising for obtaining digital data on joint function during daily activities. In this paper, we present promising data on disease specific gait alterations in patients with knee or hip osteoarthritis compared to age-matched controls measured with wearable sensors.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "A preliminary examination of the diagnostic value of deep learning in hip osteoarthritis",
+      "url": "https://doi.org/10.1371/journal.pone.0178992",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0178992",
+      "abstract": "Hip Osteoarthritis (OA) is a common disease among the middle-aged and elderly people. Conventionally, hip OA is diagnosed by manually assessing X-ray images. This study took the hip joint as the object of observation and explored the diagnostic value of deep learning in hip osteoarthritis. A deep convolutional neural network (CNN) was trained and tested on 420 hip X-ray images to automatically diagnose hip OA. This CNN model achieved a balance of high sensitivity of 95.0% and high specificity of 90.7%, as well as an accuracy of 92.8% compared to the chief physicians. The CNN model performance is comparable to an attending physician with 10 years of experience. The results of this study indicate that deep learning has promising potential in the field of intelligent medical image diagnosis practice.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Hip Osteoarthritis: Etiopathogenesis and Implications for Management",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5083776/",
+      "publisher": "Advances in therapy",
+      "year": "2016",
+      "doi": "10.1007/s12325-016-0409-3",
+      "abstract": "Highly prevalent among the elderly, hip osteoarthritis (OA) carries a heavy burden of disease. Guidelines for the management of hip OA are often extrapolated from knee OA research, despite clear differences in the etiopathogenesis and response to treatments of OA at these sites. We propose that hip OA requires specific attention separate from other OA phenotypes. Our understanding of the etiopathogenesis of hip OA has seen significant advance over the last 15 years, since Ganz and colleagues proposed femoroacetabular impingement (FAI) as an important etiological factor. This narrative review summarizes the current understanding of the etiopathogenesis of hip OA and identifies areas requiring further research. Therapeutic approaches for hip OA are considered in light of the condition's etiopathogenesis. The evidence for currently adopted management strategies is considered, especially those approaches that may have disease-modifying potential. We propose that shifting the focus of hip OA research and public health intervention to primary prevention and early detection may greatly improve the current management paradigm.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The Gait Deviation Index Is Associated with Hip Muscle Strength and Patient-Reported Outcome in Patients with Severe Hip Osteoarthritis—A Cross-Sectional Study",
+      "url": "https://doi.org/10.1371/journal.pone.0153177",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0153177",
+      "abstract": "Background: The Gait Deviation Index summarizes overall gait ‘quality’, based on kinematic data from a 3-dimensional gait analysis. However, it is unknown which clinical outcomes may affect the Gait Deviation Index in patients with primary hip osteoarthritis. The aim of this study was to investigate associations between Gait Deviation Index as a measure of gait ‘quality’ and hip muscle strength and between Gait Deviation Index and patient-reported outcomes in patients with primary hip osteoarthritis. Method: Forty-seven patients (34 males), aged 61.1 ± 6.7 years, with BMI 27.3 ± 3.4 (kg/m2) and with severe primary hip osteoarthritis underwent 3-dimensional gait analysis. Mean Gait Deviation Index, pain after walking and maximal isometric hip muscle strength (flexor, extensor, and abductor) were recorded. All patients completed the ‘Physical Function Short-form of the Hip disability and Osteoarthritis Outcome Score (HOOS-Physical Function) and the Hip disability and Osteoarthritis Outcome Score subscales for pain (HOOS-Pain) and quality-of-life (HOOS-QOL). Results: Mean Gait Deviation Index was positively associated with hip abduction strength (p<0.01, r = 0.40), hip flexion strength (p = 0.01, r = 0.37), HOOS-Physical Function (p<0.01, r = 0.41) HOOS-QOL (p<0.01, r = 0.41), and negatively associated with HOOS-Pain after walking (p<0.01, r = -0.45). Adjusting the analysis for walking speed did not affect the association. Conclusion: Patients with the strongest hip abductor and hip flexor muscles had the best gait ‘quality’. Furthermore, patients with higher physical function, quality of life scores and lower pain levels demonstrated better gait ‘quality’. These findings indicate that interventions aimed at improving hip muscle strength and pain management may to a moderate degree improve the overall gait ‘quality’ in patients with primary hip OA.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Serum Collagen Type II Cleavage Epitope and Serum Hyaluronic Acid as Biomarkers for Treatment Monitoring of Dogs with Hip Osteoarthritis",
+      "url": "https://doi.org/10.1371/journal.pone.0149472",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0149472",
+      "abstract": "The aim of this study was to evaluate the use of serum type II collagen cleavage epitope and serum hyaluronic acid as biomarkers for treatment monitoring in osteoarthritic dogs. For this purpose, a treatment model based on mesenchymal stem cells derived from adipose tissue combined with plasma rich in growth factors was used. This clinical study included 10 dogs with hip osteoarthritis. Both analytes were measured in serum at baseline, just before applying the treatment, and 1, 3, and 6 months after treatment. These results were compared with those obtained from force plate analysis using the same animals during the same study period. Levels of type II collagen cleavage epitope decreased and those of hyaluronic acid increased with clinical improvement objectively verified via force plate analysis, suggesting these two biomarkers could be effective as indicators of clinical development of joint disease in dogs.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The epidemiology and demographics of hip dysplasia",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063216/",
+      "publisher": "ISRN orthopedics",
+      "year": "2011",
+      "doi": "10.5402/2011/238607",
+      "abstract": "The etiology of developmental dysplasia of the hip (DDH) is unknown. There are many insights, however, from epidemiologic/demographic information. A systematic medical literature review regarding DDH was performed. There is a predominance of left-sided (64.0%) and unilateral disease (63.4%). The incidence per 1000 live births ranges from 0.06 in Africans in Africa to 76.1 in Native Americans. There is significant variability in incidence within each racial group by geographic location. The incidence of clinical neonatal hip instability at birth ranges from 0.4 in Africans to 61.7 in Polish Caucasians. Predictors of DDH are breech presentation, positive family history, and gender (female). Children born premature, with low birth weights, or to multifetal pregnancies are somewhat protected from DDH. Certain HLA A, B, and D types demonstrate an increase in DDH. Chromosome 17q21 is strongly associated with DDH. Ligamentous laxity and abnormalities in collagen metabolism, estrogen metabolism, and pregnancy-associated pelvic instability are well-described associations with DDH. Many studies demonstrate an increase of DDH in the winter, both in the northern and southern hemispheres. Swaddling is strongly associated with DDH. Amniocentesis, premature labor, and massive radiation exposure may increase the risk of DDH. Associated conditions are congenital muscular torticollis and congenital foot deformities. The opposite hip is frequently abnormal when using rigorous radiographic assessments. The role of acetabular dysplasia and adult hip osteoarthritis is complex. Archeological studies demonstrate that the epidemiology of DDH may be changing.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.04,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Short-term changes in radiographic joint space width after jiggling exercise as conservative treatment for hip osteoarthritis: A retrospective case series of nine patients",
+      "url": "https://doi.org/10.1371/journal.pone.0253643",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0253643",
+      "abstract": "Jiggling exercise is a conservative treatment for hip osteoarthritis, which involves continuous shaking of the foot and leg in small oscillations while seated. Previous studies have shown beneficial effects of jiggling exercises for outpatients with advanced- and terminal-stage hip osteoarthritis when performed for longer than 1 year, including increases in joint space width and remission of symptoms. We aimed to use the data from our own treatment to evaluate the short-term impact of intensive jiggling exercises on inpatients with hip osteoarthritis to further examine the clinical utility of this exercise. This retrospective case series study included nine patients (57 ± 12 years) with nine hip joints with advanced- or terminal-stage hip osteoarthritis who performed continuous daily jiggling exercises, beginning from day of hospitalization to 6 months post-discharge. Jiggling exercise was performed seated, using the KENKO YUSURI® automated heel vibrating machine at 3.3–5.0 Hz. The patients were also instructed against weight-bearing during hospitalization. The values of radiographic joint space width and Japanese Orthopaedic Association hip score for pain at hospital admission, discharge, and at the 6-month post-discharge checkup were evaluated. Although the hospitalization period and daily time spent performing the jiggling exercise varied in each case (27–98 days and 2–6 hours, respectively), the joint space width increased in all patients and there was an improvement in the hip pain scores in eight patients. The mean values of the minimum joint space width and hip pain scores at discharge were the highest compared to those at hospital admission and 6 months post-discharge. Our results suggest that intensive jiggling exercise for inpatients with advanced- and terminal-stage hip osteoarthritis leads to earlier improvement in joint space width and pain. Daily jiggling exercise for an adequate duration or in combination with non-weight-bearing practices may be a feasible conservative treatment for hip osteoarthritis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.74,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "The Anatomic–Atraumatic–Anterior Reconstructive Technique (A-A-ART) for total hip arthroplasty: A step-by-step pictorial guide to a minimally invasive approach for hip osteoarthritis",
+      "url": "https://hal.science/hal-05847971v1",
+      "publisher": "SICOT-J",
+      "year": "2026",
+      "doi": "10.1051/sicotj/2026071",
+      "abstract": "Total hip arthroplasty remains one of the most successful orthopedic procedures for the treatment of hip osteoarthritis. Among contemporary surgical approaches, the direct anterior approach has gained increasing popularity due to its intermuscular and internervous plane, which aims to minimize soft-tissue trauma and potentially reduce instability. This article provides a step-by-step pictorial overview of the Anatomic–Atraumatic–Anterior Reconstructive Technique (A-A-ART) performed without a traction table and combined with dual-mobility articulation. Key technical steps are described, including patient positioning, capsular management, acetabular preparation using anatomical landmarks, controlled femoral exposure, and implant positioning. Particular emphasis is placed on progressive capsular release, protection of the anterior acetabular horn, and prevention of varus stem alignment. When performed in a standardized and reproducible manner, the A-A-ART technique allows reliable limb length control, stable component orientation, and preservation of periarticular structures, offering a safe and effective strategy for the surgical management of hip osteoarthritis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Exercise for lower limb osteoarthritis: systematic review incorporating trial sequential analysis and network meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3779121/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2013",
+      "doi": "10.1136/bmj.f5555",
+      "abstract": "Objective To determine whether there is sufficient evidence to conclude that exercise interventions are more effective than no exercise control and to compare the effectiveness of different exercise interventions in relieving pain and improving function in patients with lower limb osteoarthritis. Data sources Nine electronic databases searched from inception to March 2012. Study selection Randomised controlled trials comparing exercise interventions with each other or with no exercise control for adults with knee or hip osteoarthritis. Data extraction Two reviewers evaluated eligibility and methodological quality. Main outcomes extracted were pain intensity and limitation of function. Trial sequential analysis was used to investigate reliability and conclusiveness of available evidence for exercise interventions. Bayesian network meta-analysis was used to combine both direct (within trial) and indirect (between trial) evidence on treatment effectiveness. Results 60 trials (44 knee, two hip, 14 mixed) covering 12 exercise interventions and with 8218 patients met inclusion criteria. Sequential analysis showed that as of 2002 sufficient evidence had been accrued to show significant benefit of exercise interventions over no exercise control. For pain relief, strengthening, flexibility plus strengthening, flexibility plus strengthening plus aerobic, aquatic strengthening, and aquatic strengthening plus flexibility, exercises were significantly more effective than no exercise control. A combined intervention of strengthening, flexibility, and aerobic exercise was also significantly more effective than no exercise control for improving limitation in function (standardised mean difference -0.63, 95% credible interval -1.16 to -0.10). Conclusions As of 2002 sufficient evidence had accumulated to show significant benefit of exercise over no exercise in patients with osteoarthritis, and further trials are unlikely to overturn this result. An approach combining exercises to increase strength, flexibility, and aerobic capacity is likely to be most effective in the management of lower limb osteoarthritis. The evidence is largely from trials in patients with knee osteoarthritis. Protocol registration PROSPERO (www.crd.york.ac.uk/prospero/) No CRD42012002267.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.62,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Physical activity and functional preservation in older adults with hip osteoarthritis: A comparative analysis of age cohorts in the SHARE study.",
+      "url": "https://doi.org/10.1371/journal.pone.0317578",
+      "publisher": "PLoS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0317578",
+      "abstract": "Background Hip osteoarthritis (HOA) is a major contributor to functional impairment in older adults. Physical inactivity and comorbidities are commonly associated with declines in functional ability. However, the relationship between physical inactivity and functional outcomes in individuals with HOA, particularly those aged 80 years and older, remains underexplored. Objective This study investigated the association between physical inactivity and functional limitations in older adults with HOA, focusing on two age groups: 60-79 years and 80-100 years. Methods We analyzed data from Wave 5 of the Survey of Health, Aging, and Retirement in Europe (SHARE), constructing univariate and multivariable logistic regression models. Functional limitations served as dependent variables, with physical inactivity as the primary explanatory variable and number of chronic conditions, body mass index (BMI), gender, education, and depression as covariates. Results The study included 2,088 participants (mean age 73.1 ± 8.5 years; 73.7% female). Physical inactivity was reported by 16.8% (n = 261) of participants aged 60-79 years (n = 1,556; 72.5% female) and 49.6% of those aged 80-100 years (n = 532; 22.5% female). Poor handgrip strength and difficulty rising from a chair were significantly more prevalent among females aged 60-79 years (p Conclusions Physical inactivity is a key predictor of functional decline in older adults with HOA, with its impact being particularly pronounced among those aged 80 years and older. These findings highlight the importance of physical activity to preserve functional abilities in this population.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "EFFICACY AND SAFETY OF THE «MAJEZIK» PREPARATION IN PATIENTS WITH OSTEOARTHRITIS",
+      "url": "https://zenodo.org/records/14598297",
+      "publisher": "Zenodo",
+      "year": "2025",
+      "doi": "10.5281/zenodo.14598297",
+      "abstract": "The aim of the study was to evaluate the efficacy and safety of flurbiprofen in patients with osteoarthritis. The study included 40 patients with gonarthrosis and hip osteoarthritis, who received flurbiprofen (Majesik-Sanovel) at a dose of 200 mg/day for 10 days to 4 weeks. Pain intensity was assessed using the Visual Analog Scale (VAS) before treatment and on days 5, 10, and after 4 weeks. Laboratory tests were conducted to evaluate inflammatory markers and liver function. Results showed that before treatment, the average pain level was 6.5 sm on the VAS. A positive therapeutic effect was observed from the first day: 55% of patients experienced relief by day 10, and 92% by week 4. The treatment also contributed to decreased muscle tone and improved sleep quality and emotional state. Flurbiprofen was well-tolerated, with side effects occurring in 5% of patients. There were no significant changes in liver function, and levels of ESR and C-reactive protein significantly decreased, indicating the anti-inflammatory activity of the drug. In conclusion, flurbiprofen (Majesik) is effective as an analgesic and anti-inflammatory agent, improving the quality of life for patients with joint syndrome.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Global, regional, and national burden of osteoarthritis, 1990-2020 and projections to 2050: a systematic analysis for the Global Burden of Disease Study 2021",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10477960/",
+      "publisher": "The Lancet. Rheumatology",
+      "year": "2023",
+      "doi": "10.1016/s2665-9913(23)00163-7",
+      "abstract": "Background Osteoarthritis is the most common form of arthritis in adults, characterised by chronic pain and loss of mobility. Osteoarthritis most frequently occurs after age 40 years and prevalence increases steeply with age. WHO has designated 2021-30 the decade of healthy ageing, which highlights the need to address diseases such as osteoarthritis, which strongly affect functional ability and quality of life. Osteoarthritis can coexist with, and negatively effect, other chronic conditions. Here we estimate the burden of hand, hip, knee, and other sites of osteoarthritis across geographies, age, sex, and time, with forecasts of prevalence to 2050. Methods In this systematic analysis for the Global Burden of Disease Study, osteoarthritis prevalence in 204 countries and territories from 1990 to 2020 was estimated using data from population-based surveys from 26 countries for knee osteoarthritis, 23 countries for hip osteoarthritis, 42 countries for hand osteoarthritis, and US insurance claims for all of the osteoarthritis sites, including the other types of osteoarthritis category. The reference case definition was symptomatic, radiographically confirmed osteoarthritis. Studies using alternative definitions from the reference case definition (for example self-reported osteoarthritis) were adjusted to reference using regression models. Osteoarthritis severity distribution was obtained from a pooled meta-analysis of sources using the Western Ontario and McMaster Universities Arthritis Index. Final prevalence estimates were multiplied by disability weights to calculate years lived with disability (YLDs). Prevalence was forecast to 2050 using a mixed-effects model. Findings Globally, 595 million (95% uncertainty interval 535-656) people had osteoarthritis in 2020, equal to 7·6% (95% UI 6·8-8·4) of the global population, and an increase of 132·2% (130·3-134·1) in total cases since 1990. Compared with 2020, cases of osteoarthritis are projected to increase 74·9% (59·4-89·9) for knee, 48·6% (35·9-67·1) for hand, 78·6% (57·7-105·3) for hip, and 95·1% (68·1-135·0) for other types of osteoarthritis by 2050. The global age-standardised rate of YLDs for total osteoarthritis was 255·0 YLDs (119·7-557·2) per 100 000 in 2020, a 9·5% (8·6-10·1) increase from 1990 (233·0 YLDs per 100 000, 109·3-510·8). For adults aged 70 years and older, osteoarthritis was the seventh ranked cause of YLDs. Age-standardised prevalence in 2020 was more than 5·5% in all world regions, ranging from 5677·4 (5029·8-6318·1) per 100 000 in southeast Asia to 8632·7 (7852·0-9469·1) per 100 000 in high-income Asia Pacific. Knee was the most common site for osteoarthritis. High BMI contributed to 20·4% (95% UI -1·7 to 36·6) of osteoarthritis. Potentially modifiable risk factors for osteoarthritis such as recreational injury prevention and occupational hazards have not yet been explored in GBD modelling. Interpretation Age-standardised YLDs attributable to osteoarthritis are continuing to rise and will lead to substantial increases in case numbers because of population growth and ageing, and because there is no effective cure for osteoarthritis. The demand on health systems for care of patients with osteoarthritis, including joint replacements, which are highly effective for late stage osteoarthritis in hips and knees, will rise in all regions, but might be out of reach and lead to further health inequity for individuals and countries unable to afford them. Much more can and should be done to prevent people getting to that late stage. Funding Bill & Melinda Gates Foundation, Institute of Bone and Joint Research, and Global Alliance for Musculoskeletal Health.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Efficiency of Therapy with High Concentrations of Topic NSAIDs in Patients with Hip Osteoarthritis",
+      "url": "https://hal.science/hal-05200406v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Aims: The aim of the study was to evaluate the effectiveness of therapy with high concentrations of topical NSAIDs in patients with hip osteoarthritis, depending on the volume of local fat deposits. Materials and Methods: The study included 108 patients with a confirmed diagnosis of hip osteoarthritis. All patients were randomly divided into 2 large groups - according to the criteria for the volume of subcutaneous fat in the hip joint – patients with a skinfold thickness of 2 cm or less (group 1, n=68) and patients with a skinfold thickness of more than 2 cm (group 2, n=40). In addition, according to the used medication, the patients of each group were randomly divided equally into subgroups a (5% Ketoprofen gel) and b (5% Diclofenac sodium gel). The duration of treatment was 14 days. To assess the effectiveness of treatment, we studied the overall tolerability of the prescribed therapy, as well as the quality of life of patients at the time of inclusion in the study and after 14 days. Results: In group 1 there was a significant improvement in the quality of life on all 5 scales of the questionnaire. When pairwise comparison of the studied parameters after the treatment, in the group of patients receiving the topical Diclofenac, the quality of life on all scales of the questionnaire was significantly better than in patients receiving Ketoprofen. All patients in group 2 showed a slight improvement in the quality of life in all parameters. The change in the studied indicators was not statistically significant and did not depend on the choice of topical NSAIDs. Conclusion: Diclofenac has been shown to be more effective than Ketoprofen in patients with weak localized fat deposits. The efficiency of both drugs was insignificant in patients with pronounced fat deposits in the hip joint area.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Cost-effectiveness of an 8-week supervised education and exercise therapy programme for knee and hip osteoarthritis: a pre–post analysis of 16 255 patients participating in Good Life with osteoArthritis in Denmark (GLA:D)",
+      "url": "https://bmjopen.bmj.com/content/11/12/e049541.full",
+      "publisher": "BMJ Open",
+      "year": "2021",
+      "doi": "10.1136/bmjopen-2021-049541",
+      "abstract": "Objectives To evaluate 1-year cost-effectiveness of an 8-week supervised education and exercise programme delivered in primary care to patients with symptomatic knee or hip osteoarthritis (OA).Design A registry-based pre–post study linking patient-level data from the Good Life with osteoArthritis in Denmark (GLA:D) registry to national registries in Denmark.Setting and participants 16 255 patients with symptomatic knee or hip OA attending GLA:D.Intervention GLA:D is a structured supervised patient education and exercise programme delivered by certified physiotherapists and implemented in Denmark.Outcome measures Adjusted healthcare costs per Quality-Adjusted Life Year (QALY) gained from baseline to 1 year (ratio of change in healthcare costs to change in EuroQoL 5-Dimensions 5-Level questionnaire (EQ-5D)). All adjusted measures were estimated using a generalised estimating equation gamma regression model for repeated measures. Missing data on EQ-5D were imputed with Multiple Imputations (3 months: 23%; 1 year: 39 %).Results Adjusted change in healthcare cost was 298€ (95% CI: 206 to 419) and 640€ (95% CI: 400 to 1009) and change in EQ-5D was 0.035 (95% CI: 0.033 to 0.037) and 0.028 (95% CI: 0.025 to 0.032) for knee and hip patients, respectively. Hence estimated adjusted healthcare costs per QALY gained was 8497€ (95% CI: 6242 to 11 324) for knee and 22 568€ (95% CI: 16 000 to 31 531) for hip patients. In patients with high compliance, the adjusted healthcare costs per QALY gained was 5438€ (95% CI: 2758 to 9231) for knee and 17 330€ (95% CI: 10 041 to 29 364) for hip patients. Healthcare costs per QALY were below conventional thresholds for willingness-to-pay at 22 804€ (20 000£) and 43 979€ (US$50 000), except the upper limit of the 95% CI for hip patients which was in between the two thresholds.Conclusions A structured 8-week supervised education and exercise programme delivered in primary care was cost-effective at 1 year in patients with knee or hip OA supporting large-scale implementation in clinical practice.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Revealing Inflammatory Indications Induced by Titanium Alloy Wear Debris in Periprosthetic Tissue by Label-Free Correlative High-Resolution Ion, Electron and Optical Microspectroscopy",
+      "url": "https://zenodo.org/records/4955723",
+      "publisher": "Materials",
+      "year": "2021",
+      "doi": "10.3390/ma14113048",
+      "abstract": "The metallic-associated adverse local tissue reactions (ALTR) and events accompanying worn-broken implant materials are still poorly understood on the subcellular and molecular level. Current immunohistochemical techniques lack spatial resolution and chemical sensitivity to investigate causal relations between material and biological response on submicron and even nanoscale. In our study, new insights of titanium alloy debris-tissue interaction were revealed by the implementation of label-free high-resolution correlative microscopy approaches. We have successfully characterized its chemical and biological impact on the periprosthetic tissue obtained at revision surgery of a fractured titanium-alloy modular neck of a patient with hip osteoarthritis. We applied a combination of photon, electron and ion beam micro-spectroscopy techniques, including hybrid optical fluorescence and reflectance micro-spectroscopy, scanning electron microscopy (SEM), Energy dispersive X-ray Spectroscopy (EDS), helium ion microscopy (HIM) and micro-particle-induced X-ray emission (micro-PIXE). Micron-sized wear debris were found as the main cause of the tissue oxidative stress exhibited through lipopigments accumulation in the nearby lysosome. This may explain the indications of chronic inflammation from prior histologic examination. Furthermore, insights on extensive fretting and corrosion of the debris on nm scale and a quantitative measure of significant Al and V release into the tissue together with hydroxyapatite-like layer formation particularly bound to the regions with the highest Al content were revealed. The functional and structural information obtained at molecular and subcellular level contributes to a better understanding of the macroscopic inflammatory processes observed in the tissue level. The established label-free correlative microscopy approach can efficiently be adopted to study any other clinical cases related to ALTR.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Management of Osteoarthritis of the Hip",
+      "url": "https://doi.org/10.5435/jaaos-d-19-00416",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2020",
+      "doi": "10.5435/jaaos-d-19-00416",
+      "abstract": "The American Academy of Orthopaedic Surgeons, in collaboration with the American Association of Hip and Knee Surgeons, the Hip Society, the American College of Radiology, the American Physical Therapy Association, the Limb-lengthening and Reconstruction Society, and the Pediatric Orthopaedic Society of North America, released Management of Osteoarthritis of the Hip: Evidence-Based Clinical Practice Guideline. The complete guideline is available on OrthoGuidelines (www.orthoguidelines.org). The guideline is intended to assist those taking care of patients with osteoarthritis of the hip in making decisions regarding the most appropriate treatment. A group of experts with knowledge of orthopaedic surgery, physical therapy, and musculoskeletal radiology developed 18 recommendations for nonoperative and operative treatment based on relevant literature. A companion article illustrates the use of these guidelines by discussing specific case examples and evidence-based treatments for osteoarthritis of the hip.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Acupuncture for hip osteoarthritis",
+      "url": "https://doi.org/10.1002/14651858.cd013010",
+      "publisher": "Wiley",
+      "year": "2018",
+      "doi": "10.1002/14651858.cd013010",
+      "abstract": "Hip osteoarthritis (OA) is a major cause of pain and functional limitation. Few hip OA treatments have been evaluated for safety and effectiveness. Acupuncture is a traditional Chinese medical therapy which aims to treat disease by inserting very thin needles at specific points on the body.To assess the benefits and harms of acupuncture in patients with hip OA.We searched Cochrane CENTRAL, MEDLINE, and Embase all through March 2018.We included randomized controlled trials (RCTs) that compared acupuncture with sham acupuncture, another active treatment, or no specific treatment; and RCTs that evaluated acupuncture as an addition to another treatment. Major outcomes were pain and function at the short term (i.e. < 3 months after randomization) and adverse events.We used standard methodological procedures expected by Cochrane.Six RCTs with 413 participants were included. Four RCTs included only people with OA of the hip, and two included a mix of people with OA of the hip and knee. All RCTs included primarily older participants, with a mean age range from 61 to 67 years, and a mean duration of hip OA pain from two to eight years. Approximately two-thirds of participants were women. Two RCTs compared acupuncture versus sham acupuncture; the other four RCTs were not blinded. All results were evaluated at short term (i.e. four to nine weeks after randomization).In the two RCTs that compared acupuncture to sham acupuncture, the sham acupuncture control interventions were judged believable, but each sham acupuncture intervention was also judged to have a risk of weak acupuncture-specific effects, due to placement of non-penetrating needles at the correct acupuncture points in one RCT, and the use of penetrating needles not inserted at the correct points in the other RCT. For these two sham-controlled RCTs, the risk of bias was low for all outcomes.The combined analysis of two sham-controlled RCTs gave moderate quality evidence of little or no effect in reduction in pain for acupuncture relative to sham acupuncture. Due to the small sample sizes in the studies, the confidence interval includes both the possibility of moderate benefit and the possibility of no effect of acupuncture (120 participants; Standardized Mean Difference (SMD) -0.13, (95% Confidence Interval (CI) -0.49 to 0.22); 2.1 points greater improvement with acupuncture compared to sham acupuncture on 100 point scale (i.e., absolute percent change -2.1% (95% CI -7.9% to 3.6%)); relative percent change -4.1% (95% CI -15.6% to 7.0%)). Estimates of effect were similar for function (120 participants; SMD -0.15, (95% CI -0.51 to 0.21)). No pooled estimate, representative of the two sham-controlled RCTs, could be calculated or reported for the quality of life outcome.The four other RCTs were unblinded comparative effectiveness RCTs, which compared (additional) acupuncture to four different active control treatments.There was low quality evidence that addition of acupuncture to the routine primary care that RCT participants were receiving from their physicians was associated with statistically significant and clinically relevant benefits, compared to the routine primary physician care alone, in pain (1 RCT; 137 participants; mean percent difference -22.9% (95% CI -29.2% to -16.6%); relative percent difference -46.5% (95% CI -59.3% to -33.7%)) and function (mean percent difference -19.0% (95% CI -24.41 to -13.59); relative percent difference -38.6% (95% CI -49.6% to -27.6%)). There was no statistically significant difference for mental quality of life and acupuncture showed a small, significant benefit for physical quality of life.The effects of acupuncture compared with either advice plus exercise or NSAIDs are uncertain.We are also uncertain whether acupuncture plus patient education improves pain, function, and quality of life, when compared to patient education alone.In general, the overall quality of the evidence for the four comparative effectiveness RCTs was low to very low, mainly due to the potential for biased reporting of patient-assessed outcomes due to lack of blinding and sparse data.Information on safety was reported in four RCTs. Two RCTs reported minor side effects of acupuncture, which were primarily minor bruising, bleeding, or pain at needle insertion sites. Four RCTs reported on adverse events, and none reported any serious adverse events attributed to acupuncture.Acupuncture probably has little or no effect in reducing pain or improving function relative to sham acupuncture in people with hip osteoarthritis. Due to the small sample size in the studies, the confidence intervals include both the possibility of moderate benefits and the possibility of no effect of acupuncture. One unblinded trial found that acupuncture as an addition to routine primary physician care was associated with benefits on pain and function. However, these reported benefits are likely due at least partially to RCT participants' greater expectations of benefit from acupuncture. Possible side effects associated with acupuncture treatment were minor.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Hip Osteoarthritis: A Primer",
+      "url": "https://doi.org/10.7812/tpp/17-084",
+      "publisher": "The Permanente Federation",
+      "year": "2018",
+      "doi": "10.7812/tpp/17-084",
+      "abstract": "The objective of this article is to deliver a concise up-to-date review on hip osteoarthritis. We describe the epidemiology (disease distribution), etiologies (associated risk factors), symptoms, diagnosis and classification, and treatment options for hip osteoarthritis. A quiz serves to assist readers in their understanding of the presented material.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Spine–hip relations in patients with hip osteoarthritis",
+      "url": "https://hal.umontpellier.fr/hal-02337285v1",
+      "publisher": "EFORT Open Reviews",
+      "year": "2018",
+      "doi": "10.1302/2058-5241.3.170020",
+      "abstract": "Patients with hip osteoarthritis often have an abnormal spine-hip relation (SHR), meaning the presence of a clinically deleterious spine-hip and/or hip-spine syndrome.Definition of the individual SHR is ideally done using the EOS® imaging system or, if not available, with conventional lumbopelvic lateral radiographs.By pre-operatively screening patients with abnormal SHR, it is possible to refine total hip replacement (THR) surgical planning, which may improve outcomes.An important component of the concept of kinematically aligned total hip arthroplasty (KA THA) consists of defining the optimal acetabular cup design and orientation based on the assessment of an individual's SHR, and use of the transverse acetabular ligament to adjust the cup positioning.The Bordeaux classification might advance the understanding of SHR and hopefully help improve THR outcomes. Cite this article: EFORT Open Rev 2018;3:39-44. DOI: 10.1302/2058-5241.3.170020.",
+      "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Aqua Fitness as one of the methods of prevention of hip osteoarthritis",
+      "url": "https://zenodo.org/records/1316885",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2018",
+      "doi": "10.5281/zenodo.1316885",
+      "abstract": "Wrzesiński Bartłomiej, Piechocka Edyta, Karpińska Anna, Łopatka Patrycja, Wojtczak Paweł, Ziółkowska Anna. Aqua Fitness as one of the methods of prevention of hip osteoarthritis . Journal of Education, Health and Sport. 2018;8(8):38 8 -3 93 . eISNN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.1316885 http://ojs.ukw.edu.pl/index.php/johs/article/view/567 0 https://pbn.nauka.gov.pl/sedno-webapp/works/871495 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26/01/2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Authors 2018; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author (s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non commercial license Share alike. ( http://creativecommons.org/licenses/by-nc-sa/4.0/ ) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 25.06.2018. Revised: 28.06.2018. Accepted: 1 9 .07.2018. Aqua Fitness as one of the methods of prevention of hip osteoarthritis Bartłomiej Wrzesiński 1 , b.wrzesinski@icloud.com ORCID : 0000-0002-4731-5371 Edyta Piechocka 1 , piechockaedyta@gmail.com ORCID : 0000-0002-6321-3236 Anna Karpińska 2 , ania9422@gmail.com ORCID : 0000-0003-2294-9471 Patrycja Łopatka 3 , loppatka@gmail.com ORCID : 0000-0002-8137-6557 Paweł Wojtczak 4 , pawelwojtczak.prv@gmail.com ORCID : 0000-0003-0683-7007 Anna Ziółkowska 4 , ziolkowska.anna94@gmail.com ORCID : 0000-0002-4068-1133 1 Scientific Circle at the Department of Ergonomics and Physiology of Physical Effort Collegium Medicum UMK, Toruń, Bydgoszcz, Poland 2 Interdisciplinary Research Club of Geriatrics at the Clinical Geriatry Clinic of University Hospital No. 1 in Bydgoszcz 3 Clinical Department of Oncological Surgery at the Oncological Hospital in Bydgoszcz 4 Interdisciplinary Scientific Society of Geriatrics Nicolaus Copernicus University collegium Medicum in Bydgoszcz Key words: hip osteoarthritis, water therapy, Watsu therapy, aqua fitness Abstract Aqua fitness training is one of the most effective methods for improving physical health and reducing pain in orthopedic patients. This training due to the extensive number of modules can be used at any age regardless of gender. Aquafitness due to the environment in which it takes place gives great effects in the treatment of osteoarthritis, especially in combination with other physiotherapeutic treatments and kinesitherapy.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Association of osteoarthritis risk factors with knee and hip pain in a population-based sample of 29–59 year olds in Denmark: a cross-sectional analysis",
+      "url": "https://zenodo.org/records/1403927",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2018",
+      "doi": "10.1186/s12891-018-2183-7",
+      "abstract": "Background: This study aimed to a) describe the prevalence of knee and hip osteoarthritis risk factors in a population of 29–59 year old individuals, b) estimate the association between persistent knee/hip pain and osteoarthritis risk factors, and c) describe the prevalence of osteoarthritis risk factors, including specific biomechanical risk factors, in individuals with prolonged persistent knee or hip pain. Methods: Participants completed the \"Early Detection and Prevention\" pilot study questionnaire, including items on presence of knee/hip pain within the last month and osteoarthritis risk factors. Individuals reporting knee/hip problems completed a second questionnaire, including items about most problematic joint and specific biomechanical osteoarthritis risk factors. After describing the prevalence of persistent knee/hip pain and osteoarthritis risk factors among respondents stratified for sex and age, logistic regression was used to estimate the strength of associations between osteoarthritis risk factors and presence of knee/hip pain. The prevalence of prolonged persistent pain (i.e. knee/hip pain reported at both questionnaires) and osteoarthritis risk factors among respondents with prolonged persistent knee and hip pain, were described. Results: Two thousand six hundred sixty-one respondents completed the first survey. The one-month prevalence of persistent knee/hip pain was 27%. Previous knee/hip injury was associated with persistent knee/hip pain for both sexes in all age groups, while a family history of osteoarthritis was associated with persistent knee/hip pain in all age groups except for 29–39 year old men. A higher BMI was associated with persistent knee/hip pain in 40–59 year old women, and 50–59 year old men. Eight hundred sixty seven respondents completed the second questionnaire. Knee/hip injuries and surgeries were more common in individuals with prolonged persistent knee than hip pain. Conclusions: Knee/hip pain within the last month was frequent among individuals aged 29–59 years. Multiple known osteoarthritis risk factors were associated with presence of knee/hip pain. Joint injury and previous surgery were more common in individuals with knee than hip pain. The results support the notion that joint injury and overweight during early adulthood are signs of a trajectory towards symptomatic osteoarthritis later in life and may help earlier identification of groups at high risk of future symptomatic osteoarthritis. Trial registration: ClinicalTrials.gov ( NCT02797392 ). Registered April 29,2016.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "HIP osteoarthritis and work",
+      "url": "https://doi.org/10.1016/j.berh.2015.04.015",
+      "publisher": "Elsevier BV",
+      "year": "2015",
+      "doi": "10.1016/j.berh.2015.04.015",
+      "abstract": "Epidemiological evidence points strongly to a hazard of hip osteoarthritis from heavy manual work. Harmful exposures may be reduced by the elimination or redesign of processes and the use of mechanical aids. Reducing obesity might help to protect workers whose need to perform heavy lifting cannot be eliminated. Particularly high relative risks have been reported in farmers, and hip osteoarthritis is a prescribed occupational disease in the UK for long-term employees in agriculture. Even where it is not attributable to employment, hip osteoarthritis impacts importantly on the capacity to work. Factors that may influence work participation include the severity of disease, the physical demands of the job, age and the size of the employer. Published research does not provide a strong guide to the timing of return to work following hip arthroplasty for osteoarthritis, and it is unclear whether patients should avoid heavy manual tasks in their future employment.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A classification study of kinematic gait trajectories in hip osteoarthritis",
+      "url": "https://hal.science/hal-01159582v1",
+      "publisher": "Computers in Biology and Medicine",
+      "year": "2014",
+      "doi": "10.1016/j.compbiomed.2014.09.012",
+      "abstract": "The clinical evaluation of patients in hip osteoarthritis is often done using patient questionnaires. While this provides important information it is also necessary to continue developing objective measures. In this work we further investigate the studies concerning the use of 3D gait analysis to attain this goal. The gait analysis was associated with machine learning methods in order to provide a direct measure of patient control gait discrimination. The applied machine learning method was the support vector machine (SVM). Applying the SVM on all the measured kinematic trajectories, we were able to classify individual patient and control gait cycles with a mean success rate of 88%. With the use of an ROC curve to establish the threshold number of cycles necessary for a subject to be identified as a patient, this allowed for an accuracy of higher than 90% for discriminating patient and control subjects. We then went on to determine the importance of each trajectory. By ranking the capacity of each trajectory for this discrimination, we provided a guide on their order of importance in evaluating patient severity. In order to be clinically relevant, any measure of patient deficit must be compared with clinically validated scores of functional disability. In the case of hip osteoarthritis (OA), the WOMAC scores are currently one of the most widely accepted clinical scores for quantifying OA severity. The kinematic trajectories that provided the best patient-control discrimination with the SVM were found to correlate well but imperfectly with the WOMAC scores, hence indicating the presence of complementary information in the two. (C) 2014 Elsevier Ltd. All rights reserved.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Low BMD affects initial stability and delays stem osseointegration in cementless total hip arthroplasty in women: a 2-year RSA study of 39 patients",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3339522/",
+      "publisher": "Acta orthopaedica",
+      "year": "2012",
+      "doi": "10.3109/17453674.2012.678798",
+      "abstract": "Background and purpose Immediate implant stability is a key factor for success in cementless total hip arthroplasty (THA). Low bone mineral density (BMD) and age-related geometric changes of the proximal femur may jeopardize initial stability and osseointegration. We compared migration of hydroxyapatite-coated femoral stems in women with or without low systemic BMD. Patients and methods 61 female patients with hip osteoarthritis were treated with cementless THA with anatomically designed hydroxyapatite-coated femoral stems and ceramic-ceramic bearing surfaces (ABG-II). Of the 39 eligible patients between the ages of 41 and 78 years, 12 had normal systemic BMD and 27 had osteopenia or osteoporosis. According to the Dorr classification, 21 had type A bone and 18 had type B. Translational and rotational migration of the stems was evaluated with radiostereometric analysis (RSA) up to 2 years after surgery. Results Patients with low systemic BMD showed higher subsidence of the femoral stem during the first 3 months after surgery than did those with normal BMD (difference = 0.6, 95% CI: 0.1-1.1; p = 0.03). Low systemic BMD (odds ratio (OR) = 0.1, CI: 0.006-1.0; p = 0.02), low local hip BMD (OR = 0.3, CI: 0.1-0.7; p = 0.005) and ageing (OR = 1.1, CI: 1.0-1.2; p = 0.02) were risk factors for delayed translational stability. Ageing and low canal flare index were risk factors for delayed rotational stabilization (OR = 3, CI: 1.1-9; p = 0.04 and OR = 1.1, CI: 1.0-1.2; p = 0.02, respectively). Harris hip score and WOMAC score were similar in patients with normal systemic BMD and low systemic BMD. Interpretation Low BMD, changes in intraosseous dimensions of the proximal femur, and ageing adversely affected initial stability and delayed osseointegration of cementless stems in women.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "All cause and disease specific mortality in patients with knee or hip osteoarthritis: population based cohort study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050438/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2011",
+      "doi": "10.1136/bmj.d1165",
+      "abstract": "Objective To examine all cause and disease specific mortality in patients with osteoarthritis of the knee or hip. Design Population based cohort study. Setting General practices in the southwest of England. Participants 1163 patients aged 35 years or over with symptoms and radiological confirmation of osteoarthritis of the knee or hip. Main outcome measures Age and sex standardised mortality ratios and multivariable hazard ratios of death after a median of 14 years' follow-up. Results Patients with osteoarthritis had excess all cause mortality compared with the general population (standardised mortality ratio 1.55, 95% confidence interval 1.41 to 1.70). Excess mortality was observed for all disease specific causes of death but was particularly pronounced for cardiovascular (standardised mortality ratio 1.71, 1.49 to 1.98) and dementia associated mortality (1.99, 1.22 to 3.25). Mortality increased with increasing age (P for trend Conclusion Patients with osteoarthritis are at higher risk of death compared with the general population. History of diabetes, cancer, or cardiovascular disease and the presence of walking disability are major risk factors. Management of patients with osteoarthritis and walking disability should focus on effective treatment of cardiovascular risk factors and comorbidities, as well as on increasing physical activity.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.04,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Three-dimensional kinematics of the lower limbs in hip osteoarthritis during walking",
+      "url": "https://hal.science/hal-00708647v1",
+      "publisher": "Journal of Back and Musculoskeletal Rehabilitation",
+      "year": "2011",
+      "doi": "10.3233/BMR-2011-0295",
+      "abstract": "Objective: To describe the kinematic adaptations of all lower limb joints in hip osteoarthritis patients during walking. Methods: Patients with unilateral primary hip OA, without associated joint disorders were included. Normal subjects were included as controls. Gait analysis, using a 3-dimensional computerised gait analysis system was used to evaluate the usual spatiotemporal parameters, the peak motion of the hips, knees, and ankles during walking, and the intersegmental coordination of the lower limbs. Results: Eleven patients, mean age = 60.5 +/- 7 years and nine controls, mean age = 60.3 +/- 7 years, were included. The gait of hip OA patients was characterised as follows: a reduced stride length, a reduced maximal flexion and extension in the OA hip, a reduced maximal contralateral hip range of motion, an increased ipsi- and contralateral ankle dorsal flexion, a decreased ipsilateral relative temporal phase between the thighs and shanks segments and an increased ipsilateral relative phase between the shanks and foot segments. Conclusion: The present results suggest that hip OA patients use shorter stride length, less contra lateral and especially ipsilateral hip motion, modify ankles motion, and have a different intra-limb coordination pattern compared to control subjects.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.04,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Exercise for osteoarthritis of the hip",
+      "url": "https://doi.org/10.1002/14651858.cd007912.pub2",
+      "publisher": "Wiley",
+      "year": "2009",
+      "doi": "10.1002/14651858.cd007912.pub2",
+      "abstract": "Rationale Hip osteoarthritis is a major public health issue. International treatment guidelines recommend exercise to manage symptoms. This is an update of a review first published in 2009 and last updated in 2014.Objectives To determine the effects of land-based exercise on pain, physical function, quality of life, participant-reported treatment success, study withdrawals, and adverse events in people with hip osteoarthritis.Search Methods We searched CENTRAL, MEDLINE, Embase, and two trial registries from February 2013 (search date for last update) to 5 February 2025. We also checked reference lists for additional studies.Eligibility Criteria We included randomised controlled trials (RCTs) of adults with hip osteoarthritis. Eligible comparisons were as follows. • Exercise versus attention control/placebo. • Exercise versus no treatment/usual care/limited education. • Exercise plus a co-intervention (A) versus the co-intervention (A) alone. We excluded perioperative exercise programmes; interventions involving vibration therapy, gait aids, or retraining; and studies that added unequal co-interventions in both groups or that compared only one form of exercise to another.Outcomes Our critical outcomes were pain, physical function, and quality of life. Our important outcomes were participant-reported treatment success, study withdrawals, and adverse events.Risk Of Bias As this was a review update, we used the original Cochrane risk of bias tool (RoB 1).Synthesis Methods We used standard methodological procedures expected by Cochrane. We synthesised results for each outcome using random-effects meta-analysis where appropriate. We used the GRADE approach to assess certainty of evidence.Included Studies Eighteen studies (1368 participants) met our inclusion criteria. Two studies (123 participants) evaluated exercise versus attention control or placebo, 10 studies (494 participants) evaluated exercise versus no treatment/usual care/limited education, and seven studies (751 participants) evaluated exercise plus a co-intervention (A) versus the co-intervention (A) alone. One trial (210 participants) included two comparator categories. Most studies were small and unblinded.Synthesis Of Results We converted all continuous effect estimates from standardised mean differences to mean differences (MDs) on a scale of 0 to 100. For pain and physical function, a negative MD indicates an improvement, while for quality of life, a positive MD indicates an improvement. Pain, physical function, quality of life, and participant-reported treatment success were measured immediately after treatment, while study withdrawals and adverse events were recorded at the end of follow-up. Exercise versus attention control/placebo Exercise, compared to attention control/placebo, may have little to no effect on pain (MD -6.31 points, 95% confidence interval (CI) -12.98 to 0.35; 2 studies, 123 participants; low certainty). Exercise may improve physical function slightly (MD -7.44 points, 95% CI -13.86 to -1.01; 2 studies, 123 participants; low certainty). No studies reported quality of life or participant-reported treatment success. Exercise may have little to no effect on study withdrawals (relative risk (RR) 0.83, 95% CI 0.23 to 3.03; 1 study, 106 participants; low certainty). Exercise may increase the risk of adverse events, but the evidence is very uncertain (RR 8.00, 95% CI 1.13 to 56.79; 1 study, 18 participants; very low certainty). Exercise versus no treatment/usual care/limited education Exercise, compared to no treatment/usual care/limited education, probably reduces pain slightly (MD -7.19 points, 95% CI -10.70 to -3.68; 9 studies, 449 participants; moderate certainty) and probably improves physical function slightly (MD -8.79 points, 95% CI -12.00 to -5.41; 9 studies, 447 participants; moderate certainty); however, these improvements are unlikely to be clinically meaningful. Exercise probably has little to no effect on quality of life (MD 2.31 points, 95% CI -1.15 to 5.91; 6 studies, 279 participants; moderate certainty). Exercise may have little to no effect on participant-reported treatment success (RR 1.57, 95% CI 0.62 to 3.99; 2 studies, 69 participants; low certainty) or study withdrawals (RR 1.51, 95% CI 0.80 to 2.86; 7 studies, 404 participants; low certainty). Exercise may have little to no effect on adverse events, but the evidence is very uncertain (RR 2.95, 95% CI 0.62 to 13.96; 6 studies, 257 participants; very low certainty). Exercise plus a co-intervention (A) versus the co-intervention (A) alone Exercise plus a co-intervention (A), compared to the co-intervention (A) alone, probably has little to no effect on pain (MD -3.86 points, 95% CI -8.07 to 0.35; 7 studies, 751 participants; moderate certainty), physical function (MD -2.37 points, 95% CI -6.59 to 1.86; 7 studies, 751 participants; moderate certainty), or quality of life (MD 3.60 points, 95% CI -1.30 to 8.36; 4 studies, 456 participants; moderate certainty). Exercise may have little to no effect on participant-reported treatment success (RR 1.25, 95% CI 0.62 to 2.54; 2 studies, 399 participants; low certainty), and probably has little to no effect on study withdrawals (RR 0.85, 95% CI 0.55 to 1.32; 6 studies, 683 participants; moderate certainty). Exercise probably reduces the risk of adverse events slightly (RR 0.75, 95% CI 0.58 to 0.97; 6 studies, 731 participants; moderate certainty).Authors' Conclusions Compared with attention control or placebo, exercise may have little to no effect on pain and may improve physical function slightly. There was no evidence for quality of life or participant-reported treatment success. Exercise may have little to no effect on withdrawals. Evidence regarding adverse events is very uncertain. Compared with no treatment, usual care or limited education, exercise probably improves pain and physical function slightly, although these effects are unlikely to be clinically meaningful. Exercise probably has little to no effect on quality of life and may have little to no effect on participant-reported treatment success or withdrawals. Evidence regarding adverse events is very uncertain. Exercise plus a co-intervention (A), compared to the co-intervention (A) alone, probably has little to no effect on pain, physical function, quality of life, and study withdrawals, and may have little to no effect on participant-reported treatment success. Exercise probably reduces the risk of adverse events slightly.Funding No funding.Registration The original protocol was for a review on exercise for osteoarthritis of the hip or knee (https://doi.org/10.1002/14651858.CD004376). The review on hip osteoarthritis alone was first published in 2009 (https://doi.org/10.1002/14651858.CD007912), and last updated in 2014 (https://doi.org/10.1002/14651858.CD007912.pub2).",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Etiology of Osteoarthritis of the Hip",
+      "url": "https://doi.org/10.1097/00003086-198612000-00004",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "1986",
+      "doi": "10.1097/00003086-198612000-00004",
+      "abstract": "More than 90% of patients with so-called primary or idiopathic osteoarthritis of the hips in whom sufficient data were available to make an assessment of the normality of the hip joint at the cessation of growth clearly showed demonstrable abnormalities in the hip joint. The most common are mild acetabular dysplasia and/or pistol grip deformity. This latter deformity is associated with mild slipped capital femoral epiphysis (recognized or unrecognized at the time), Legg-Perthes' disease (recognized or unrecognized at the time), multiple epiphyseal dysplasia, spondyloepiphyseal dysplasia, and/or the presence of an intraacetabular labrum, as well as, in certain instances, acetabular dysplasia. When these abnormalities are taken in conjunction with the detection of other metabolic abnormalities that can lead to osteoarthritis of the hip and which may not be recognized readily, such as hemochromatosis, ochronosis, calcium pyrophosphate disease, and monarticular rheumatoid arthritis, it seems clear that either osteoarthritis of the hip does not exist at all as a primary disease entity or, if it does, is extraordinarily rare.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "[Unusual case of pseudotumoral hip injury due to gout: case report]",
+      "url": "https://zenodo.org/records/10064752",
+      "publisher": "Revista Médica el Instituto Mexicano del Seguro Social",
+      "year": "2023",
+      "doi": "10.5281/zenodo.10064752",
+      "abstract": "Abstract Background: Gout is known as arthropathy due to the deposit of monosodium urate crystals; This pathology comprises a set of clinical and radiographic tests in the context of the intra-articular presence of said crystals. It is a chronic disease associated with other comorbidities such as arterial hypertension, osteoarthritis, diabetes mellitus, etc. The case of a patient with gouty arthritis with consequent hip lesion with a pseudotumoral appearance difficult to diagnose is presented, in order to highlight the importance of this, as well as the appropriate follow-up and treatment for this chronic pathology. Clinic case: A 51-year-old male patient, with a history of hip osteoarthritis and gout. The symptoms and signs were pain in the right hip with an 8/10 on an analogue pain scale, associated with functional limitation characterized by reduced range of motion and impossibility of standing. Imaging studies are carried out which are suggestive of a tumor lesion at the proximal femur with malignant characteristics, for which a biopsy and subsequent histopathological diagnosis of gouty tophi is performed. Conclusions: Gout is a prevalent disease in the adult population, however, its infrequent joint location can result in a difficult diagnosis, so it is necessary not to rule out this entity and to carry out specific studies for its identification.",
+      "licence": "cc-by-sa-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.82,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Protocol for a multi-centre randomised controlled trial comparing arthroscopic hip surgery to physiotherapy-led care for femoroacetabular impingement (FAI): the Australian FASHIoN trial",
+      "url": "http://link.springer.com/article/10.1186/s12891-017-1767-y",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2017",
+      "doi": "10.1186/s12891-017-1767-y",
+      "abstract": "Abstract Background Femoroacetabular impingement syndrome (FAI), a hip disorder affecting active young adults, is believed to be a leading cause of hip osteoarthritis (OA). Current management approaches for FAI include arthroscopic hip surgery and physiotherapy-led non-surgical care; however, there is a paucity of clinical trial evidence comparing these approaches. In particular, it is unknown whether these management approaches modify the future risk of developing hip OA. The primary objective of this randomised controlled trial is to determine if participants with FAI who undergo hip arthroscopy have greater improvements in hip cartilage health, as demonstrated by changes in delayed gadolinium-enhanced magnetic resonance imaging (MRI) of cartilage (dGEMRIC) index between baseline and 12 months, compared to those who undergo physiotherapy-led non-surgical management. Methods This is a pragmatic, multi-centre, two-arm superiority randomised controlled trial comparing hip arthroscopy to physiotherapy-led management for FAI. A total of 140 participants with FAI will be recruited from the clinics of participating orthopaedic surgeons, and randomly allocated to receive either surgery or physiotherapy-led non-surgical care. The surgical intervention involves arthroscopic FAI surgery from one of eight orthopaedic surgeons specialising in this field, located in three different Australian cities. The physiotherapy-led non-surgical management is an individualised physiotherapy program, named Personalised Hip Therapy (PHT), developed by a panel to represent the best non-operative care for FAI. It entails at least six individual physiotherapy sessions over 12 weeks, and up to ten sessions over six months, provided by experienced musculoskeletal physiotherapists trained to deliver the PHT program. The primary outcome measure is the change in dGEMRIC score of a ROI containing both acetabular and femoral head cartilages at the chondrolabral transitional zone of the mid-sagittal plane between baseline and 12 months. Secondary outcomes include patient-reported outcomes and several structural and biomechanical measures relevant to the pathogenesis of FAI and development of hip OA. Interventions will be compared by intention-to-treat analysis. Discussion The findings will help determine whether hip arthroscopy or an individualised physiotherapy program is superior for the management of FAI, including for the prevention of hip OA. Trial registration Australia New Zealand Clinical Trials Registry reference: ACTRN12615001177549 . Trial registered 2/11/2015 (retrospectively registered).",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.68,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Alterations in Hip and Knee Joint Contact Force Waveforms and Orientation Induced by Gait Modifications: A Case Study",
+      "url": "https://ciss-journal.org/article/view/13940",
+      "publisher": "Current Issues in Sport Science",
+      "year": "2026",
+      "doi": "10.36950/2026.5ciss011",
+      "abstract": "Introduction & Purpose Idiopathic torsional deformities of lower limb bones can affect a patient’s gait pattern and joint health, while their cause remains unidentified (Koller et al., 2026). Abnormal joint loadings and the progression of degenerative diseases such as osteoarthritis in adults can be altered through gait modifications (Diamond et al., 2022, Uhlrich et al., 2022). Bone growth is regulated by mechanical stimuli (Carter & Wong, 1988; Frost, 2001), and normalizing joint loadings might be a non-invasive treatment option (Kainz et al., 2020; Koller et al., 2024). What constitutes normal versus abnormal joint contact forces (JCF) remains unidentified and most likely varies by individual. Koller et al. (2026) reported the effect of hip joint loads on proximal femoral growth plate stresses during different foot progression angles (FPA). This study aimed to evaluate several established gait modifications’ abilities to steer hip (HJCF) and knee JCF (KJCF) magnitude and orientation using a personalized musculoskeletal model. Methods One healthy child (15y, m) underwent MRI and three-dimensional gait analysis (Vicon, Oxford, UK) on an instrumented treadmill (AMTI, Watertown, USA), including electromyography of 16 lower limb muscles. After familiarization, he walked at preferred speed, and with altered FPA (in-/out-toeing), stance widths, speeds, and foot-strike patterns. A personalized musculoskeletal model was created using OpenSim Creator’s Model Warper (Kewley et al., 2026) within the MRI2MSKworkflow (Koller, 2026), adapting an OpenSim model (Rajagopal et al., 2016; Uhlrich et al., 2022, Lerner et al., 2015) to the individual’s anatomy obtained from imaging. JCFs per leg and condition were calculated using OpenSim (Delp et al., 2007) and the Muscle Redundancy Solver (De Groote et al., 2016). All trials were post-hoc classified into gait modification categories, as their implementation varied for each step. Results All gait modification results were compared to those of preferred walking style. Out-toeing increased the first peak of HJCF, patellofemoral (PFJCF) and KJCF, but decreased the second peak of HJCF and KJCF. A wider stance lowered, while narrow stance increased HJCF during terminal stance. KJCF had a slightly lower second peak for wide stance variations. Walking with exaggerated plantarflexion (push-off) lowered PFJCF during mid-stance and increased and slightly advanced the second peak of KJCF. Fast walking increased PFJCF during loading response, while slow walking decreased it. Figure 1B shows that all gait deviations except forefoot and slow walking shifted HJCF orientation anteriorly, while these two shifted it posteriorly. Discussion Measuring subject-specific joint loading and identifying abnormal loading patterns supports movement diagnostics across all populations to detect potential risks early. This study demonstrated that coachable gait cues alter joint loads and may influence bone development. Kinematic and kinetic results agreed with Schwartz et al.(2008) for slow, preferred and fast walking. Further studies incorporating finite element simulations are needed to determine the effect of these deviations on femoral growth. Conclusion Recent studies emphasize the need for model personalization and individualized assessment. We showed that gait modifications induce measurable changes in hip and knee joint loading. The effect of gait alterations on longitudinal bone growth remains to be determined. References Carter, D.R. & Wong, M. (1988), The role of mechanical loading histories in the development of diarthrodial joints. J. Orthop. Res., 6: 804-816. https://doi.org/10.1002/jor.1100060604 De Groote, F., Kinney, A.L., Rao, A.V. & Fregly, B.J. (2016). Evaluation of Direct Collocation Optimal Control Problem Formulations for Solving the Muscle Redundancy Problem. Ann Biomedl Eng, 44. https://doi.org/10.1007/s10439-016-1591-9 Delp, S. L., Anderson, F. C., Arnold, A. S., Loan, P., Habib, A., John, C. T., Guendelman, E., Thelen, D. G. (2007). OpenSim: Open-source Software to Create and Analyze Dynamic Simulations of Movement. IEEE Transactions on Biomedical Engineering. (2007). https://doi.org/10.1109/TBME.2007.901024 Diamond, L. E., Devaprakash, D., Cornish, B., Plinsinga, M. L., Hams, A., Hall, M., et al. (2022). Feasibility of personalised hip load modification using real-time biofeedback in hip osteoarthritis: a pilot study. Osteoarthr. Cartil. Open 4, Article 100230. https://doi.org/10.1016/j.ocarto.2021.100230 Frost, H.M. (2001), From Wolff's law to the Utah paradigm: Insights about bone physiology and its clinical applications. Anat. Rec., 262: 398-419. https://doi.org/10.1002/ar.1049 Jiang L., Iwamoto, Y., Ezumi, S., Ishii, Y., Kita, S., Takahashi, M. (2025). Effect of wider step-width gait on hip joint contact force. Journal of Biomechanics 186, 112742. https://doi. org/10.1016/j.jbiomech.2025.112742 Kainz, H., Killen, B. A., Wesseling, M., Perez-Boerema, F., Pitto, L., Garcia Aznar, J. M., et al. (2020). A multi-scale modelling framework combining musculoskeletal rigid-body simulations with adaptive finite element analyses, to evaluate the impact of femoral geometry on hip joint contact forces and femoral bone growth. PLoS ONE 15, Article 7: e0235966. https://doi.org/10.1371/journal.pone.0235966 Kewley, A., van Beesel, J., & Seth, A. (2026). OpenSim creator: an interactive user interface for building OpenSim musculoskeletal models. J. Open Source Softw. 11, Article 8284. https://doi.org/10.21105/joss.08284 Koller, W., Wallnöfer, E., Holder, J., Kranzl, A., Mindler, G., Baca, A., et al. (2024). ESMAC best paper award 2023: increased knee flexion in participants with cerebral palsy results in altered stresses at the distal femoral growth plate compared to a typically developing cohort. Gait Posture 113, 158–166. https://doi.org/10.1016/j.gaitpost.2024.06.012 Koller, W. (2026). MRI2MSK. GitHub repository, https://github.com/WilliKoller/MRI2MSK Koller, W., Wallnöfer, E., Rathmair, L., Egner, C., Kitir, K. & Kainz, H. (2026). Foot progression angle modifications alter hip joint contact forces and femoral growth plate mechanics in children. Front. Bioeng. Biotechnol., 14, Article 1799347. https://doi.org/10.3389/fbioe.2026.1799347 Lerner, Z. F., DeMers, M. S., Delp, S. L., and Browning, R. C. (2015). How tibiofemoral alignment and contact locations affect predictions of medial and lateral tibiofemoral contact forces. J. Biomech. 48, 644–650. https://doi.org10.1016/j.jbiomech.2014.12.049 Leung, P. L., Subasinghe Arachchige, R. S. S., Ip, T. S., Chan, C. H., Cheng, H. Y., Hui, P. Y., Liu, H. L., Ho, E. Y. L., Kwan, R. L. C., Sreenivasa, M., Cheung, R. T. H. (2025). Effect of forefoot strike and toe-out running on hip contact forces: A musculoskeletal modelling-based study. Journal of Biomechanics 192, 112936. https://doi.org/10.1016/j.jbiomech.2025.112936 Rajagopal, A., Dembia, C. L., DeMers, M. S., Delp, D. D., Hicks, J. L., and Delp, S. L. (2016). Full-body musculoskeletal model for muscle-driven simulation of human gait. IEEE Trans. Biomed. Eng. 63, 2068–2079. http://doi.org10.1109/TBME.2016.2586891 Schwartz, M., Rozumalski, A. & Trost, J. (2008). The effect of walking speed on the gait of typically developing children. J Biomech., 41, Article 8. https://doi.org/10.1016/j.jbiomech.2008.03.015 Uhlrich, S.D., Jackson, R.W., Seth, A., Kolesar, J.A. & Delp, S.L. (2022). Muscle coordination retraining inspired by musculoskeletal simulations reduces knee contact force. Sci Rep., 12, Article 9842.https://doi.org/10.1038/s41598-022-13386-9",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Hip-spine syndrome: Diagnostic difficulties",
+      "url": "https://rsp.mediar-press.net/rsp/article/view/3477",
+      "publisher": "Научно-практическая ревматология",
+      "year": "2024",
+      "doi": "10.47360/1995-4484-2023-758-762",
+      "abstract": "Introduction. Hip-spine syndrome (HSS) is a combination of coexisting hip osteoarthritis (OA) and degenerative lumbar spine stenosis (LSS). Main difficulties in treating patients with HSS are in early diagnostics and in choosing right surgery, because mistakes lead to pain maintenance. Existing diagnostic algorithms show right surgery choosing failure in 15–20%. We present results of examination patients with HSS in our survey.The aim – to present clinical and instrumental results of examination of patients with hip-spine syndrome.Materials and methods. We have examined 378 patients with typical pain pattern (buttocks, low back spine, groin and lateral hip) and difficulties in pain source definition. We performed hip X-rays and low back spine MRI.Due to results we divided patients into three groups – patients with HSS (n=100), with hip OA (n=172) and patients with LSS (n=106). We used Harris Hip Score, Oswestry Disability Index and Visual Analogue Score to determine hip and lumbar spine functional status and pain level.Results. Patients with HSS had higher (p<0.05) pain levels (76.5±9.1 mm) than patients with hip (68.3±7.9 mm) or lumbar spine pathology (67.4±7.9 mm). Harris Hip Score in patients wirh HSS (52.7±8.1 points) was same as in patients with hip OA (55.5±9.1 points), Oswestry Disability Index in these patients (44.2±7.6%) was same as in patients with LSS (43.2±7.8%).Conclusion. High pain level and low Harris Hip Score and Oswestry index, along with clinical examination, on first visit can help suspect hip-spine syndrome and recommend both hip and lumbar spine imaging.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Management of Femoroacetabular Impingement",
+      "url": "https://doi.org/10.1177/2325967121S00848",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2023",
+      "doi": "10.1177/2325967121S00848",
+      "abstract": "Management of the Femoroacetabular Impingement (FAI) starts with good diagnosis. What one must remember that the natural course of FAI is the precursor to hip osteoarthritis. An excellent history taking and physical examination is mandatory to exclude many differential diagnosis surrounding the hip. A layered approach could be used. 90 degrees of flexion and internal rotation (FADIR) is specific for hip problem, although doesn’t mean the main culprit is always FAI. Radiology study is very important, several hip projection Xray that can be chosen and specific measurement like Alpha angle, Cam or Pincer or mixed deformity, and so on. Additional imaging with CT or MR Arthrography is also important. With confirmed FAI, controversies exist whether to proceed conservatively or surgery, with nuance of the evidence depends on the background of the writer. Nowadays, surgery for FAI already pushed toward full arthroscopic, while surgical hip dislocation remains a powerful arsenal. Rehabilitation after surgery is utmost importance, and it took time for the results to show it benefits, therefore, a good communication with patient and the whole team of care is advisable.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Predictors of resilience in older adults with lower limb osteoarthritis and persistent severe pain",
+      "url": "https://doi.org/10.1186/s12877-022-02926-7",
+      "publisher": "BMC Geriatrics",
+      "year": "2022",
+      "doi": "10.1186/s12877-022-02926-7",
+      "abstract": "Abstract Background Resilience refers to the process in which people function well despite adversity. Persistent severe pain may be considered an adversity in people with lower limb osteoarthritis (LLOA). The objectives of this study are: (1) to identify what proportion of older adults with LLOA and persistent severe pain show good functioning; and (2) to explore predictors of resilience. Methods Data from the European Project on OSteoArthritis (EPOSA) were used involving standardized data from six European population-based cohort studies. LLOA is defined as clinical knee and/or hip osteoarthritis. Persistent severe pain is defined as the highest tertile of the pain subscale of the Western Ontario and McMaster Universities Osteoarthritis Index both at baseline and follow-up. Resilience is defined as good physical, mental or social functioning at follow-up despite having LLOA with persistent severe pain. Results In total, 95 (14.9%) out of 638 individuals with LLOA had persistent severe pain. Among these, 10 (11.0%), 54 (57.4%) and 49 (53.8%) had good physical, mental and social functioning, respectively. Only 4 individuals (4.5%) were resilient in all three domains of functioning. Younger age, male sex, higher education, higher mastery, smoking and alcohol use, higher physical activity levels, absence of chronic diseases, and more contacts with friends predicted resilience in one or more domains of functioning. Conclusions Few people with LLOA and persistent severe pain showed good physical functioning and about half showed good mental or social functioning. Predictors of resilience differed between domains, and might provide new insights for treatment.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Association between global sagittal malalignment and increasing hip joint contact force, analyzed by a novel musculoskeletal modeling system.",
+      "url": "https://doi.org/10.1371/journal.pone.0259049",
+      "publisher": "PLoS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0259049",
+      "abstract": "Patients with adult spinal deformity have various standing postures. Although several studies have reported a relationship between sagittal alignment and exacerbation of hip osteoarthritis, information is limited regarding how spinopelvic sagittal alignment changes affect hip joint loading. This study aimed to investigate the relationship between sagittal spinopelvic-lower limb alignment and the hip joint contact force (HCF) using a novel musculoskeletal model. We enrolled 20 women (78.3±6.7 years) from a single institution. Standing lateral radiographs were acquired to measure thoracic kyphosis, lumbar lordosis, the pelvic tilt, sacral slope, sagittal vertical axis (SVA), femur obliquity angle, and knee flexion angle. In the model simulation, the Anybody Modeling System was used, which alters muscle pathways using magnetic resonance imaging data. Each patient's alignment was entered into the model; the HCF and hip moment in the standing posture were calculated using inverse dynamics analysis. The relationship between the HCF and each parameter was examined using Spearman's correlation coefficient (r). The patients were divided into low SVA and high SVA groups, with a cutoff value of 50 mm for the SVA. The HCF was 168.2±60.1 N (%BW) and positively correlated with the SVA (r = 0.6343, p<0.01) and femur obliquity angle (r = 0.4670, p = 0.03). The HCF were 122.2 and 214.1 N (75.2% difference) in the low SVA and high SVA groups, respectively (p<0.01). The flexion moment was also increased in the high SVA group compared with that in the low SVA group (p = 0.03). The SVA and femur obliquity angle are factors related to the HCF, suggesting an association between adult spinal deformity and the exacerbation of hip osteoarthritis. Future studies will need to assess the relationship between the hip joint load and sagittal spinopelvic parameters in dynamic conditions.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Identification of new therapeutic targets for osteoarthritis through genome-wide analyses of UK Biobank data",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6400267/",
+      "publisher": "Nature genetics",
+      "year": "2019",
+      "doi": "10.1038/s41588-018-0327-1",
+      "abstract": "Osteoarthritis is the most common musculoskeletal disease and the leading cause of disability globally. Here, we performed a genome-wide association study for osteoarthritis (77,052 cases and 378,169 controls), analyzing four phenotypes: knee osteoarthritis, hip osteoarthritis, knee and/or hip osteoarthritis, and any osteoarthritis. We discovered 64 signals, 52 of them novel, more than doubling the number of established disease loci. Six signals fine-mapped to a single variant. We identified putative effector genes by integrating expression quantitative trait loci (eQTL) colocalization, fine-mapping, and human rare-disease, animal-model, and osteoarthritis tissue expression data. We found enrichment for genes underlying monogenic forms of bone development diseases, and for the collagen formation and extracellular matrix organization biological pathways. Ten of the likely effector genes, including TGFB1 (transforming growth factor beta 1), FGF18 (fibroblast growth factor 18), CTSK (cathepsin K), and IL11 (interleukin 11), have therapeutics approved or in clinical trials, with mechanisms of action supportive of evaluation for efficacy in osteoarthritis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Intersegmental kinematics coordination in unilateral peripheral and central origin: Effect on gait mechanism?",
+      "url": "https://uphf.hal.science/hal-03465108v1",
+      "publisher": "Gait & Posture",
+      "year": "2018",
+      "doi": "10.1016/j.gaitpost.2018.03.014",
+      "abstract": "Background: The gait mechanism requires an efficient intersegmental coordination in order to ensure the displacement of the body while simultaneously maintaining the postural stability. However, intersegmental coordination may be disrupted by neurological or orthopaedic involvement, this increasing the metabolic cost associated with excessive or prolonged muscle co-contraction. Research question: Our aim was to evaluate and to understand how hip OA affects lower limbs coordination during gait by using the kinematic segmental covariation law method and predict the energy expenditure. Methods: In order to evaluate the influence of unilateral alteration of the lower limbs on the gait mechanism, three groups namely 63 hip osteoarthritis patients, 65 chronic hemiparetic stroke patients and 72 healthy subjects performed an instrumented gait analysis. The subjects had to walk barefoot for at least 3 min at a self-selected speed on a force measuring motor-driven treadmill. The biomechanical variables (kinematic, kinetic and energetical cost) were simultaneously recorded. Results: The comparison between the three groups was tested using a repeated measure ANOVA. All biomechanical parameters show significant differences between the 3 groups highlighting the gait alteration for the patients groups. However, the energetic cost remains normal in the hip osteoarthritis group despite of the alteration of the other variables. A multivariate analysis allowed to identify the independent variables affecting more specifically their gait mechanisms. Significance: This study showed the importance of quantitative functional evaluation in order to better understand the impact of hip osteoarthritis on the gait mechanism. The biomechanical analysis provides objective evidence of the altered gait mechanism and more particularly of the intersegmental coordination in these patients. This gait analysis is therefore an interesting tool in the functional evaluation of the patient to better guide the diagnosis.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Routine Assessment of Patient Index Data 3 (RAPID3) is a Valid Index for Routine Care in Patients with Osteoarthritis",
+      "url": "https://hal.science/hal-05542448v1",
+      "publisher": "British Journal of Medicine & Medical Research",
+      "year": "2013",
+      "doi": "",
+      "abstract": "Objective: To compare Routine Assessment of Patient Index Data 3 (RAPID3) on a Multidimensional Health Assessment Questionnaire (MDHAQ) with the Western Ontario and Mc-Master Universities Osteoarthritis Index (WOMAC) in patients with knee or hip osteoarthritis and to evaluate its reliability. Methods: 678 patients with hip or knee osteoarthritis were assessed in daily practice clinical care during 2009-2013. Patients completed an MDHAQ and so a RAPID3 was calculated (physical function, pain, patient global estimate). Pain, stiffness, and physical functions using the standard WOMAC indices for hip and knee osteoarthritis were assessed too; correlation between WOMAC total scores and RAPID3 scores were estimated with Spearman’s rho. Furthermore a linear regression model was developed with a coefficient of determination R2. Finally we evaluated validity and reliability of this index to evaluate that RAPID3 is not inferior to WOMAC. Results: RAPID3 and WOMAC were correlated significantly, with a global correlation Spearman’ rho index of 0.84 (P<0.01). Computing analysis for diagnosis the correlation index was 0.83 for hip osteoarthritis (p<0.01) and 0.87 for knee osteoarthritis. Conclusion: RAPID3 scores provide similar quantitative information to WOMAC in patients with hip or knee osteoarthritis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "hal",
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Hip disability and osteoarthritis outcome score (HOOS)--validity and responsiveness in total hip replacement",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC161815/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2003",
+      "doi": "10.1186/1471-2474-4-10",
+      "abstract": "Background The aim of the study was to evaluate if physical functions usually associated with a younger population were of importance for an older population, and to construct an outcome measure for hip osteoarthritis with improved responsiveness compared to the Western Ontario McMaster osteoarthritis score (WOMAC LK 3.0). Methods A 40 item questionnaire (hip disability and osteoarthritis outcome score, HOOS) was constructed to assess patient-relevant outcomes in five separate subscales (pain, symptoms, activity of daily living, sport and recreation function and hip related quality of life). The HOOS contains all WOMAC LK 3.0 questions in unchanged form. The HOOS was distributed to 90 patients with primary hip osteoarthritis (mean age 71.5, range 49-85, 41 females) assigned for total hip replacement for osteoarthritis preoperatively and at six months follow-up. Results The HOOS met set criteria of validity and responsiveness. It was more responsive than WOMAC regarding the subscales pain (SRM 2.11 vs. 1.83) and other symptoms (SRM 1.83 vs. 1.28). The responsiveness (SRM) for the two added subscales sport and recreation and quality of life were 1.29 and 1.65, respectively. Patients 66 years of age (range 67-85) (Pain SRM 2.60 vs. 1.97, other symptoms SRM 3.0 vs. 1.60, activity of daily living SRM 2.51 vs. 1.52, sport and recreation function SRM 1.53 vs. 1.21 and hip related quality of life SRM 1.95 vs. 1.57). Conclusion The HOOS 2.0 appears to be useful for the evaluation of patient-relevant outcome after THR and is more responsive than the WOMAC LK 3.0. The added subscales sport and recreation function and hip related quality of life were highly responsive for this group of patients, with the responsiveness being highest for those younger than 66.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

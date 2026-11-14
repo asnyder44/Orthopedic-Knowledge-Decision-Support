@@ -1,0 +1,835 @@
+{
+  "term": "Lumbar Disc Herniation",
+  "collected": "2026-11-14",
+  "count": 46,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Comparison of 7 surgical interventions for recurrent lumbar disc herniation: A network meta-analysis and systematic review",
+      "url": "https://doi.org/10.1371/journal.pone.0309343",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0309343",
+      "abstract": "Study design: Network meta-analysis of multiple treatment comparisons of recurrence lumbar disc herniation. Objective: The purpose of comparing the differences between different surgical approaches for recurrent lumbar disc herniation (LDH). Methods: The PubMed, Embase, MEDLINE, Cochrane Library, Web of Science, Google Scholar and China National Knowledge Infrastructure databases were searched for articles published before April 10th, 2024. The Markov chain Monte Carlo methods were used to perform a hierarchical Bayesian NMA in R version 4.3.3 using a random effects consistency model. The assessing outcomes were pain intensity, disability, complications and recurrence. Results: 20 studies including 1556 patients and 7 different approaches (PELD, MED, MIS-TLIF, TLIF, Unilat -TLIF, PLIF and OD) were retrospectively retrieved. the efficacy of each approach was the same in relieving pain, OD was significantly better than PELD and MIS-TLIF in relieving dysfunction (SMD: 1.9[0.21,3.4] and 2.0[0.084,3.8], respectively), In addition, MIS-TLIF was significantly lower than PELD and MED in the complication rate (SMD: 0.37[0.14,0.84] and 0.15[0.034,0.68], respectively), TLIF was significantly Lower than MED in the complication rate (SMD:0.14 [0.027,0.70]), PELD was significantly higher than MIS-TLIF, TLIF and PLIF in the recurrence rate (SMD: 1.3e-17 [2.4e-44,0.00016],1.2e-12[2.1e-36,0.34] and 1.4e-12[6.2e-35,0.013], respectively), MED was significantly higher than MIS-TLIF and PLIF in the recurrence rate (SMD: 2.6e-17[5.6e-44,0.0037] and 3.1e-12[1.6e-34,0.022], respectively), OD was significantly higher than MIS-TLIF, TLIF and PLIF in the recurrence rate (SMD:4.6e+16[2.3e+02,3.0e+43], 4.3e+11[2.4,2.5e+35] and 4.1e+11[35,8.7e+33], respectively). Conclusions: In the treatment of recurrent lumbar disc herniation, vertebral fusion surgery is superior to repeat discectomy. At the same time, MIS-TLIF may be a preferable surgical procedure in the treatment of recurrent lumbar disc herniation.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.1,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Development of the core outcome set for herbal medicine treatment of lumbar disc herniation (COS-HM-LDH): A study protocol for a systematic review and a delphi survey",
+      "url": "https://doi.org/10.1371/journal.pone.0335712",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0335712",
+      "abstract": "Background: Lumbar Disc Herniation (LDH) is a common global musculoskeletal disorder that causes a significant socioeconomic burden. Nonsurgical interventions are the primary treatment; however, herbal medicines (HM) are gaining traction for their efficacy in managing LDH. Conversely, their integration into clinical settings is limited owing to inconsistencies in clinical trial methodologies, mainly stemming from a lack of standardized outcome measures. Our research, highlighting this gap, sought to develop a Core Outcome Set (COS) to consistently assess HM treatments for LDH in Korean medicine (KM) clinical institutions using a consensus-driven, multi-phased approach. Methods: The development of the COS-HM-LDH involves four main phases: (1) a project management group (PMG) conducts a systematic review to curate an initial list of outcomes; (2) several Delphi survey rounds are administered to a selected panel of experts to validate and refine these outcomes; (3) KM clinicians are involved in a subsequent Delphi survey to further refine the outcomes; and (4) a final consensus meeting finalizes the COS. Discussion: The lack of a standardized COS for HM treatment of LDH in KM introduces biases and discrepancies in clinical practice. The proposed COS aims to provide a unified framework, given the challenges faced in clinical trials, especially in KM institutions. This initiative is expected to strengthen evidence quality, foster greater trust, and facilitate wider clinical implementation of HM treatment for LDH. Trial registration: The Core Outcome Measures in Effectiveness Trials (COMET) Initiative: https://www.comet-initiative.org/Studies/Details/2909",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.1,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Nerve abnormalities in lumbar disc herniation: A systematic review and meta-analysis of diffusion tensor imaging",
+      "url": "https://doi.org/10.1371/journal.pone.0279499",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0279499",
+      "abstract": "Purpose: The purpose of this study was to examine the values of fractional anisotropy (FA) and apparent diffusion coefficient (ADC) in diffusion tensor imaging (DTI) for diagnosing patients with nerve impairment due to lumbar disc herniation (LDH). Methods: A literature search of databases (PubMed, Web of Science, Cochrane Library and Embase) was systematically performed to identify articles published before September 2021 that were relevant to this study. FA and ADC estimates of compressed nerve roots due to LDH and healthy controls in the same segment were compared, with either fixed or random effects models selected according to I2 heterogeneity. Additionally, subgroup analysis, sensitivity analysis, potential publication bias analysis and meta-regression analysis were also performed. Results: A total of 369 patients with LDH from 11 publications were included in this meta-analysis. The results showed significantly lower FA values (Weighted Mean Difference (WMD): -0.08, 95% confidence interval (CI): -0.09 to -0.07, P ≤ 0.001, I2 = 87.6%) and significantly higher ADC values (WMD: 0.25, 95% CI: 0.20 to 0.30, P ≤ 0.001, I2 = 71.4%) of the nerve on the compressed side due to LDH compared to the healthy side. Subgroup analysis indicated that different countries and magnetic field strengths may be associated with higher heterogeneity. Furthermore, meta-regression analysis further revealed that segment and field strength did not have a significant effect on the results, regardless of the FA or ADC values. Contrastingly, in FA, the year of publication, country, b value and directions showed an effect on the results. Conclusions: This meta-analysis showed a significant decrease in FA and a significant increase in ADC in patients with nerve damage due to LDH. The results favourably support the presence of nerve impairment in patients with LDH.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.98,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison of Discectomy versus Sequestrectomy in Lumbar Disc Herniation: A Meta-Analysis of Comparative Studies",
+      "url": "https://doi.org/10.1371/journal.pone.0121816",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0121816",
+      "abstract": "Background: Lumbar disc removal is currently the standard treatment for lumbar disc herniation. No consensus has been achieved whether aggressive disc resection with curettage (discectomy) versus conservative removal of the offending disc fragment alone (sequestrectomy) provides better outcomes. This study aims to compare the reherniation rate and clinical outcomes between discectomy and sequestrectomy by literature review and a meta-analysis. Methods: A systematic search of PubMed, Medline, Embase and the Cochrane Library was performed up to June 1, 2014. Outcomes of interest assessing the two techniques included demographic and clinical baseline characteristics, perioperative variables, complications, recurrent herniation rate and post-operative functional outcomes. Results: Twelve eligible trials evaluating discectomy vs sequestrectomy were identified including one randomized controlled study, five prospective and six retrospective comparative studies. By contrast to discectomy, sequestrectomy was associated with significantly less operative time (p<0.001), lower visual analogue scale (VAS) for low back pain (p<0.05), less post-operative analgesic usage (p<0.05) and better patients’ satisfaction (p<0.05). Recurrent herniation rate, reoperation rate, intraoperative blood loss, hospitalization duration and VAS for sciatica were without significant difference. Conclusions: According to our pooled data, sequestrectomy entails equivalent reherniation rate and complications compared with discectomy but maintains a lower incidence of recurrent low back pain and higher satisfactory rate. High-quality prospective randomized controlled trials are needed to firmly assess these two procedures.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.7,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Characteristics and mechanisms of resorption in lumbar disc herniation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9396855/",
+      "publisher": "Arthritis research & therapy",
+      "year": "2022",
+      "doi": "10.1186/s13075-022-02894-8",
+      "abstract": "Lumbar disc herniation (LDH) can be spontaneously absorbed without surgical treatment. However, the pathogenesis and physiological indications for predicting protrusion reabsorption are still unclear, which prevents clinicians from preferentially choosing conservative treatment options for LDH patients with reabsorption effects. The purpose of this review was to summarize previous reports on LDH reabsorption and to discuss the clinical and imaging features that favor natural absorption. We highlighted the biological mechanisms involved in the phenomenon of LDH reabsorption, including macrophage infiltration, inflammatory responses, matrix remodeling, and neovascularization. In addition, we summarized and discussed potential clinical treatments for promoting reabsorption. Current evidence suggests that macrophage regulation of inflammatory mediators, matrix metalloproteinases, and specific cytokines in intervertebral disc is essential for the spontaneous reabsorption of LDH.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The inflammatory response in the regression of lumbar disc herniation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235196/",
+      "publisher": "Arthritis research & therapy",
+      "year": "2018",
+      "doi": "10.1186/s13075-018-1743-4",
+      "abstract": "Lumbar disc herniation (LDH) is highly associated with inflammation in the context of low back pain. Currently, inflammation is associated with adverse symptoms related to the stimulation of nerve fibers that may lead to pain. However, inflammation has also been indicated as the main factor responsible for LDH regression. This apparent controversy places inflammation as a good prognostic indicator of spontaneous regression of LDH. This review addresses the molecular and cellular mechanisms involved in LDH regression, including matrix remodeling and neovascularization, in the scope of the clinical decision on conservative versus surgical intervention. Based on the evidence, a special focus on the inflammatory response in the LDH context is given, particularly in the monocyte/macrophage role. The phenomenon of spontaneous regression of LDH, extensively reported in the literature, is therefore analyzed here under the perspective of the modulatory role of inflammation.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Outcomes of Percutaneous Laser Disc Decompression for Lumbar Disc Herniation: A Systematic Review and Meta-Analysis",
+      "url": "https://www.jstage.jst.go.jp/article/ssrr/10/3/10_2025-0401/_pdf/-char/en",
+      "publisher": "Spine Surgery and Related Research",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Background: Percutaneous laser disc decompression (PLDD) is a minimally invasive treatment option for carefully selected patients with lumbar disc herniations (LDH) whose condition does not respond to conservative therapy but who may not require surgical decompression. Although PLDD has been increasingly adopted, reported outcomes vary widely across studies. This systematic review and meta-analysis aimed to evaluate the effectiveness and safety of PLDD in adults with LDH. Methods: A systematic search of PubMed, Scopus, and Web of Science was conducted through November 2025. Adult PLDD studies reporting clinical outcomes were included. Random-effects models pooled continuous and binary outcomes. Primary outcomes were visual analog scale (VAS) improvement and clinical success. Secondary outcomes were Oswestry Disability Index (ODI) change, reoperation rates, and complications. Heterogeneity was assessed with I2, and risk of bias with the Risk of Bias in Non-randomized Studies of Interventions. Results: Fifteen publications reporting 14 unique PLDD cohorts were included. Eight studies (n=506) reported VAS outcomes, showing a pooled pain reduction of 4.33 points on a 0-10 scale (95% confidence interval [CI] 3.03-5.64; I2=98.8%). Three studies (n=128) reported ODI outcomes, with a pooled improvement of 20.1 points, but with substantial uncertainty (95% CI −21.7 to 61.9; I2=99.6%). Five studies (n=298) reported clinical success, yielding a pooled success rate of 73.8% (95% CI 55.9%-86.2%; I2=91.0%). The pooled reoperation rate across eight cohorts (n=650) was 10.3% (95% CI 6.3%-16.5%; I2=65.8%), and the pooled complication rate across ten studies (n=750) was 1.3% (95% CI 0.4%-3.9%; I2=1.0%). Most studies had moderate risk of bias due to non-randomized, single-arm designs. Conclusions: PLDD is associated with meaningful pain reduction and moderate clinical success with a very low complication rate in selected patients with LDH. Functional outcomes and reoperation rates varied across studies. Further high-quality comparative research is needed to better define long-term results and optimal patient selection.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.14,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Percutaneous Endoscopic Transforaminal Discectomy vs Conventional Open Lumbar Discectomy for Lumbar Disc Herniation: A Systematic Review",
+      "url": "https://hal.science/hal-05200367v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Introduction: Despite the fact that there are various surgical procedures for lumbar disc herniation, open lumbar microdiscectomy is the most effective. Percutaneous endoscopic lumbar discectomy has recently become a popular procedure for treating herniated lumbar discs. Objectives: The aim of this study is to determine whether percutaneous endoscopic lumbar discectomy and conventional open lumbar discectomy show better results as a surgical treatment of lumbar disc herniation. To evaluate the surgical outcomes and advantages of each technique as well as to describe the technical strategy and evaluate the outcomes of the PETD technique specific to LDH. Methods: In this review's analysis, studies examining endoscopic percutaneous endoscopic transforaminal discectomy and conventional open discectomy—both surgical procedures for treating herniated lumbar discs—were looked at. In the Google Scholar and PubMed databases, papers published between 1973, the year percutaneous endoscopic lumbar discectomy was first introduced, and 2022 were searched. Results: The 8 publications that had 5,314 patients were chosen. Percutaneous endoscopic lumbar discectomy has a noticeably better outcome than open lumbar microdiscectomy, according to the comparative study. All procedures have good results, as seen by the comparison between PETD operations and traditional surgical discectomy. A better visual analog pain scale (VAS), a better confidence interval, reduced blood loss, a shorter operating time, a shorter length of stay, fewer complication rates, lower recurrence rates, and a low reoperation rate are some benefits of the PETD method. Conclusion: Although percutaneous endoscopic lumbar discectomy exhibits superior outcomes to traditional surgical discectomy in a number of areas. The traditional open discectomy still yields positive clinical outcomes. In order to compare these two surgical approaches, it is anticipated that a systematic review trial with a sizable research sample and more literature would be required in the future.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.98,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Updates in the Role of MRI in Diagnosis of Lumbar Disc Herniation: A Systematic Review Article",
+      "url": "https://hal.science/hal-05173462v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Background: Magnetic resonance imaging (MRI) is the technique of choice for diagnosing lumbar disc herniation (LDH). This systematic review aims to investigate the recently published literature regarding the updates of MRI for LDH diagnosis. Methodology: PubMed, Web of Science, Science Direct, EBSCO, and Cochrane library were searched. Study articles were screened by title and abstract using Rayyan QCRI then a full-text assessment was implemented. Results: Nine studies were included, with 1064 patients with LDH. All the included studies reported that MRI is valuable in diagnosing and detecting the acuity of LDH. Other diagnostic modalities were used along with MRI to increase the results' accuracy, including the clinical findings, MRM, and QST. Conclusion: MRI is considered suitable for predicting symptom severity in patients with LDH and, when used in combination with clinical findings, improves diagnostic accuracy. This review showed that deep learning can be used on small data sets containing only a few medical images. Impressive results were obtained in terms of detection of findings and improved accuracy of LDH diagnosis. Electrophysiological studies, QST, weight bearing, and MRM have been used as diagnostic methods for his LDH along with MRI, with good and accurate results reported.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.98,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Efficacy and Safety of Yaobitong capsule for lumbar disc herniation (LDH): A Multicentre, Randomized, Double-Blinded, Parallel, Positive-Controlled Clinical Trial",
+      "url": "https://zenodo.org/records/10671690",
+      "publisher": "Advances in Clinical and Experimental Medicine",
+      "year": "2024",
+      "doi": "10.5281/zenodo.10671690",
+      "abstract": "Supplementary Table 1. Kolmogorov-Smirnov Test of ODI and VAS score relative to baseline. Supplementary Table 2. Bartlett Test of ODI and VAS score relative to baseline. Supplementary Table 3. Levene Test of ODI and VAS score relative to baseline. Supplementary Figure 1: QQ plot of rate of decline from baseline in ODI score (ODI1_0: 7D-0D, ODI2_0: 14D-0D, ODI3_1: 21D_0D, ODI4_1: 30D_0D). Supplementary Figure 2: QQ plot of decline from baseline in VAS score (VAS1_0: 7D-0D, VAS2_0: 14D-0D, VAS3_0: 21D-0D, VAS4_0: 30D-0D).",
+      "licence": "cc-by-4.0",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.96,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Percutaneous Transforaminal Endoscopic Discectomy Versus Open Microdiscectomy for Lumbar Disc Herniation: A Systematic Review and Meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993912/",
+      "publisher": "Spine",
+      "year": "2021",
+      "doi": "10.1097/brs.0000000000003843",
+      "abstract": "Study design Systematic review and meta-analysis. Objective To give a systematic overview of effectiveness of percutaneous transforaminal endoscopic discectomy (PTED) compared with open microdiscectomy (OM) in the treatment of lumbar disk herniation (LDH). Summary of background data The current standard procedure for the treatment of sciatica caused by LDH, is OM. PTED is an alternative surgical technique which is thought to be less invasive. It is unclear if PTED has comparable outcomes compared with OM. Methods Multiple online databases were systematically searched up to April 2020 for randomized controlled trials and prospective studies comparing PTED with OM for LDH. Primary outcomes were leg pain and functional status. Pooled effect estimates were calculated for the primary outcomes only and presented as standard mean differences (SMD) with their 95% confidence intervals (CI) at short (1-day postoperative), intermediate (3-6 months), and long-term (12 months). Results We identified 2276 citations, of which eventually 14 studies were included. There was substantial heterogeneity in effects on leg pain at short term. There is moderate quality evidence suggesting no difference in leg pain at intermediate (SMD 0.05, 95% CI -0.10-0.21) and long-term follow-up (SMD 0.11, 95% CI -0.30-0.53). Only one study measured functional status at short-term and reported no differences. There is moderate quality evidence suggesting no difference in functional status at intermediate (SMD -0.09, 95% CI -0.24-0.07) and long-term (SMD -0.11, 95% CI -0.45-0.24). Conclusion There is moderate quality evidence suggesting no difference in leg pain or functional status at intermediate and long-term follow-up between PTED and OM in the treatment of LDH. High quality, robust studies reporting on clinical outcomes and cost-effectiveness on the long term are lacking.Level of Evidence: 2.",
+      "licence": "cc by-nc-nd",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.94,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Risk Factors for Recurrent Lumbar Disc Herniation: A Systematic Review and Meta-Analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4718239/",
+      "publisher": "Medicine",
+      "year": "2016",
+      "doi": "10.1097/md.0000000000002378",
+      "abstract": "Recurrent lumbar disc herniation (rLDH) is a common complication following primary discectomy. This systematic review aimed to investigate the current evidence on risk factors for rLDH.Cohort or case-control studies addressing risk factors for rLDH were identified by search in Pubmed (Medline), Embase, Web of Science, and Cochrane library from inception to June 2015. Relevant results were pooled to give overall estimates if possible. Heterogeneity among studies was examined and publication bias was also assessed.A total of 17 studies were included in this systematic review. Risk factors that had significant relation with rLDH were smoking (OR 1.99, 95% CI 1.53-2.58), disc protrusion (OR 1.79, 95% CI 1.15-2.79), and diabetes (OR 1.19, 95% CI 1.06-1.32). Gender, BMI, occupational work, level, and side of herniation did not correlate with rLDH significantly.Based on current evidence, smoking, disc protrusion, and diabetes were predictors for rLDH. Patients with these risk factors should be paid more attention for prevention of recurrence after primary surgery. More evidence provided by high-quality observational studies is still needed to further investigate risk factors for rLDH.",
+      "licence": "cc by-nd",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.74,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Association between high-density-lipoprotein cholesterol and postoperative recovery from lumbar disc herniation",
+      "url": "https://doi.org/10.1371/journal.pone.0351788",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0351788",
+      "abstract": "Objective: The levels of high density lipoprotein cholesterol (HDL-C) correlate with lumbar spine degeneration, but their value for predicting the prognosis of the lumbar spine is unclear. This study was implemented to explore whether HDL-C levels were associated with postoperative recovery from lumbar disc herniation (LDH). Methods: Patients with LDH who underwent posterior lumbar interbody fusion (PLIF) admitted between January 1st, 2018, and December 31st, 2022, were included in this study. The outcome was postoperative recovery as assessed by the economic-functional score. The primary exposure variable was the postoperative plasma HDL-C level. LASSO regression was used to screen for variables associated with outcome, and GAM modeling was used to determine cutoff values for HDL-C levels, with the adjusted model used to estimate the relative contribution of each variable. HDL-C levels were transformed into a dichotomous variable based on the cutoff values, and multifactorial logistic regression was used to assess OR. Results: A total of 967 patients with LDH were included 529 males (54.7%), 438 females (45.3%), mean age 49.63 ± 12.51 years, mean HDL-C level 1.14 ± 0.25 mmol/L. LASSO regression showed that HDL-C was associated with outcome, there was a risk-protecting effect in the GAM with a cutoff value of 1.15 mmol/L. According to the commonly used clinical classification method, logistic regression showed that normal levels of HDL-C were protective compared with abnormal levels (OR=1.553, 95% CI,1.017–2.372, P = 0.042). HDL-C had a U-shaped effect in patients without cerebral disease, with a range of 1.1–1.8 mmol/L promoting recovery,and in the subgroup without cerebral disease, HDL-C level ranked 6 out of 20 variables, whereas in the overall cohort it ranked 14th and showed no significant effect. Logistic regression showed a protective effect of normal levels of HDL-C over abnormal levels (OR=1.900, 95% CI,1.206–2.992, P = 0.006). Conclusion: Postoperative HDL-C levels were not significantly associated with 1-year postoperative functional recovery in the overall cohort of patients undergoing PLIF for LDH. In a pre-specified subgroup of patients without cerebral disease, postoperative HDL-C levels exhibited a significant U-shaped association with recovery (optimal range 1.1–1.8 mmol/L). These findings are hypothesis-generating and require validation in future studies.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "An updated review of the efficacy of cupping therapy",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3289625/",
+      "publisher": "PloS one",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0031793",
+      "abstract": "Background Since 1950, traditional Chinese medicine (TCM) cupping therapy has been applied as a formal modality in hospitals throughout China and elsewhere in the world. Based on a previous systematic literature review of clinical studies on cupping therapy, this study presents a thorough review of randomized controlled trials (RCTs) to evaluate the therapeutic effect of cupping therapy. Method Six databases were searched for articles published through 2010. RCTs on cupping therapy for various diseases were included. Studies on cupping therapy combined with other TCM treatments versus non-TCM therapies were excluded. Results 135 RCTs published from 1992 through 2010 were identified. The studies were generally of low methodological quality. Diseases for which cupping therapy was commonly applied were herpes zoster, facial paralysis (Bell palsy), cough and dyspnea, acne, lumbar disc herniation, and cervical spondylosis. Wet cupping was used in most trials, followed by retained cupping, moving cupping, and flash cupping. Meta-analysis showed cupping therapy combined with other TCM treatments was significantly superior to other treatments alone in increasing the number of cured patients with herpes zoster, facial paralysis, acne, and cervical spondylosis. No serious adverse effects were reported in the trials. Conclusions Numerous RCTs on cupping therapy have been conducted and published during the past decades. This review showed that cupping has potential effect in the treatment of herpes zoster and other specific conditions. However, further rigorously designed trials on its use for other conditions are warranted.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.58,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Surgery versus conservative management of sciatica due to a lumbar herniated disc: a systematic review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3065612/",
+      "publisher": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
+      "year": "2011",
+      "doi": "10.1007/s00586-010-1603-7",
+      "abstract": "The effectiveness of surgery in patients with sciatica due to lumbar disc herniations is not without dispute. The goal of this study was to assess the effects of surgery versus conservative therapy (including epidural injections) for patients with sciatica due to lumbar disc herniation. A comprehensive search was conducted in MEDLINE, EMBASE, CINAHL, CENTRAL, and PEDro up to October 2009. Randomised controlled trials of adults with lumbar radicular pain, which evaluated at least one clinically relevant outcome measure (pain, functional status, perceived recovery, lost days of work) were included. Two authors assessed risk of bias according to Cochrane criteria and extracted the data. In total, five studies were identified, two of which with a low risk of bias. One study compared early surgery with prolonged conservative care followed by surgery if needed; three studies compared surgery with usual conservative care, and one study compared surgery with epidural injections. Data were not pooled because of clinical heterogeneity and poor reporting of data. One large low-risk-of-bias trial demonstrated that early surgery in patients with 6-12 weeks of radicular pain leads to faster pain relief when compared with prolonged conservative treatment, but there were no differences after 1 and 2 years. Another large low-risk-of-bias trial between surgery and usual conservative care found no statistically significant differences on any of the primary outcome measures after 1 and 2 years. Future studies should evaluate who benefits more from surgery and who from conservative care.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.54,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Unilateral biportal endoscopic discectomy versus percutaneous endoscopic lumbar discectomy in the treatment of lumbar disc herniation: a retrospective study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8760683/",
+      "publisher": "Journal of orthopaedic surgery and research",
+      "year": "2022",
+      "doi": "10.1186/s13018-022-02929-5",
+      "abstract": "Background Unilateral biportal endoscopic discectomy (UBE) is a rapidly growing surgical method that uses arthroscopic system for treatment of lumbar disc herniation (LDH), while percutaneous endoscopic lumbar discectomy (PELD) has been standardized as a representative minimally invasive spine surgical technique for LDH. The purpose of this study was to compare the clinical outcomes between UBE and PELD for treatment of patients with LDH. Methods The subjects consisted of 54 patients who underwent UBE (24 cases) and PELD (30 cases) who were followed up for at least 6 months. All patients had lumber disc herniation for 1 level. Outcomes of the patients were assessed with operation time, incision length, hospital stay, total blood loss (TBL), intraoperative blood loss (IBL), hidden blood loss (HBL), complications, total hospitalization costs, visual analogue scale (VAS) for back and leg pain, the Oswestry disability index (ODI) and modified MacNab criteria. Results The VAS scores and ODI decreased significantly in two groups after operation. Preoperative and 1 day, 1 month, 6 months after operation VAS and ODI scores were not significantly different between the two groups. Compared with PELD group, UBE group was associated with higher TBL, higher IBL, higher HBL, longer operation time, longer hospital stay, longer incision length, and more total hospitalization costs. However, a dural tear occurred in one patient of the UBE group. There was no significant difference in the rate of complications between the two groups. Conclusions Application of UBE for treatment of lumbar disc herniation yielded similar clinical outcomes to PELD, including pain control and patient satisfaction. However, UBE was associated with various disadvantages relative to PELD, including increased total, intraoperative and hidden blood loss, longer operation times, longer hospital stays, and more total hospitalization costs.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "A one-step foraminoplasty via a large trephine in percutaneous endoscopic transforaminal discectomy for the treatment of lumbar disc herniation",
+      "url": "https://doi.org/10.1371/journal.pone.0268564",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0268564",
+      "abstract": "Background: Transforaminal percutaneous endoscopic lumbar discectomy (PELD) is a widely used basic technique for lumbar disc herniation (LDH) with advantages including causing less trauma and fast recovery. The secure, efficient, and rapid enlargement of the intervertebral foramen is a key step in PELD procedures. However, the conventional multi-step trephine system for foraminoplasty involves complicated surgical procedures. In this study, we reported an improved one-step foraminoplasty via a large trephine with simplified surgical procedures, reduced radiation exposure, and shortened operative time. Methods: 70 LDH patients who underwent PELD were retrospectively reviewed in this study. The conventional multi-step trephine system was used for foraminoplasty in 35 patients in the multi-step (MS) group, and the single large trephine was used in the other 35 patients in the one-step (OS) group. Indicators including the operative time, the time to establish the working cannula, intraoperative fluoroscopy times, the radiation dose, and postoperative complications were compared between the MS and OS group. Results: The operative time and the time to establish the working cannula in the OS group was significantly shorter than that in the MS group (P 0.05). The postoperative VAS scores and ODI scores (2 days and 3 months after the surgery) were significantly lower than the preoperative scores in both groups (P 0.05). Conclusions: The one-step foraminoplasty via a single large trephine is an optimized technique evolving from the conventional multi-step foraminoplasty, showing significant superiority in simplified operation, shorted operative time, and reduced radiation exposure.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Erectile Dysfunction in Patients with Lumbar Herniated Disc",
+      "url": "https://zenodo.org/records/6965790",
+      "publisher": "Chronicles of Precision Medical Researchers",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6965790",
+      "abstract": "Introduction: Erectile dysfunction (ED), is defined as a man’s inability to achieve or maintain a sufficient level of penile erection for sexual intercourse. It is reported that ED’s prevalence is between 30-52% in patients aged 40-70. There are many studies examining the effects of chronic pain, diabetes, rheumatoid diseases and knee arthroplasty on ED in the literature. In this study we aimed to examine the effects of lumbar disc herniation on ED. Material and Methods : In this study there are two groups named control group and experimental group. The experimental group includes male patients, who have been admitted to the neurosurgery clinics, diagnosed with lumbar disc herniation clinically and radiological. Patients with a history of other risc factors to ED excluded from the study. Furthermore, patients diagnosed with conus medullaris or cauda equina syndrome were also excluded. VAS scores, whether any motor losses in clinical findings, or any sense or reflex losses were noted. Radiological findings were recorded and classified. FSH, LH, and testosterone levels were noted. IIEF (International Index of Erectile Function), Beck Depression Inventory, and Beck Anxiety Inventory tests were performed. Obtained data was analysed statistically. Results: No statistically significant ED prevalence differences were found between the patients who have been diagnosed with lumbar herniated disc and the control group. It has been found out that disc location affects ED prevalence and severity and there are statistically significant differences in terms of IIEF-5 scores between the cases of laterally herniated disc and centrally herniated discs. Contrary to other studies in the literature, no significant relationship between VAS and ED was found out. Conclusion: The higher incidence of ED in patients with centrally herniated disc may be due to the pressure to sacral roots. Therefore, we think that male patients with disc herniation causing central canal compression should be evaluated more carefully in terms of ED.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effect of cartilaginous endplates on extruded disc resorption in lumbar disc herniation",
+      "url": "https://doi.org/10.1371/journal.pone.0195946",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0195946",
+      "abstract": "Objective: The aim of this study was to investigate the clinicopathologic features of lumbar disc herniation (LDH) with endplate degeneration and the association between cartilaginous fragments and inflammatory response to the herniated disc. Summary of background data: LDH often involves hyaline cartilage fragments pulled from the vertebral endplates. Modic changes are closely associated with LDH that contains hyaline cartilage, and cartilaginous endplates seem to affect resorption of the herniated disc. Methods: A total of 78 patients who underwent microscopic discectomy between 9 and 16 weeks after an occurrence of LDH were reviewed. Modic changes, disc degeneration, high-intensity zone, and vertebral corner defect were evaluated using magnetic resonance imaging (MRI). Histopathological observations of cartilaginous endplates and inflamed granulation tissue in the herniated disc were made. In cases with inflamed granulation tissue, neovascularization and macrophage infiltration were also evaluated using immunohistochemical analysis. Results: Modic changes were observed in approximately one-third of the patients (26 cases: type 1, 7; type 2, 17; and type 3, 2). Cartilaginous endplates were observed in 32 cases (41%) and in the majority of cases with Modic changes compared with cases without Modic changes (65%, p = 0.001). Although inflamed granulation tissue was observed in 60 cases (77%), no significant differences were detected in patient age and the composition of the herniated material. Immunohistochemical analysis showed that fewer CD34-positive capillaries and CD68-positive cells were found in cases with cartilaginous fragments compared with those without cartilaginous fragments (p < 0.001). In addition, a higher immunoreactivity to CD34 and CD68 was found in herniated discs <25% of whose area was occupied by cartilaginous endplates compared with discs whose area was occupied at 25% or more (p < 0.001). Conclusion: There is an association between LDH with endplate degeneration and cartilaginous herniation, with Modic type 2 predominating. Furthermore, neovascularization and macrophage infiltration, especially if the amount of cartilage is high, are likely to be less frequent in cartilaginous herniation, leading to failure in the spontaneous remission of clinical symptoms.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Correlation between intervertebral disc degeneration, paraspinal muscle atrophy, and lumbar facet joints degeneration in patients with lumbar disc herniation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5399427/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2017",
+      "doi": "10.1186/s12891-017-1522-4",
+      "abstract": "Background To assess the correlation between lumbar disc degeneration (LDD), multifidus muscle atrophy (LMA), and facet joints degeneration in patients with L4-L5 lumbar disc herniation (LDH). Methods Sixty patients with L4-L5 LDH diagnosed by a 1.5 T MRI scanner were enrolled in the study group and another 60 patients with non-specific back pain were enrolled in the control group. LDD, LMA, and facet joints degeneration were examined and analyzed independently by two independent orthopedic surgeons using T2-weighted images. Wilcoxon test was used for analyzing the difference of LDD and facet joints degeneration between L3-L4 and L5-S1 and difference of LMA between the herniated and control groups. Correlation analysis of the three degeneration grades at the same level was determined by Spearman rank correlation test. Results In the herniated group, most LMA at L3-L4 level was grade 1 (42, 70.0%); grade 2 (33, 55.0%) at L4-L5 level; and grade 3 (27, 45.0%) at L5-S1 level. LMA and LDD grading were significantly different between L3-L4 and L5-S1 levels (P 0.05) at the L5-S1 level. The differences in LMA between the herniated and control groups at the three levels were significant (P Conclusions Disc degeneration and multifidus muscles atrophy were positively correlated at the L3-L4 disc level. A lumbar extension muscle strengthening program could be helpful in preventing muscle atrophy and lumbar spinal degeneration.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Variants of ACAN are associated with severity of lumbar disc herniation in patients with chronic low back pain",
+      "url": "https://doi.org/10.1371/journal.pone.0181580",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0181580",
+      "abstract": "Introduction: Disc herniation is a complex spinal disorder associated with disability and high healthcare cost. Lumbar disc herniation is strongly associated with disc degeneration. Candidate genes of the aggrecan metabolic pathway may associate with the severity of lumbar disc herniation. Objectives: This study evaluated the association of single nucleotide variants (SNVs) of the candidate genes of the aggrecan metabolic pathway with the severity of lumbar disc herniation in patients with chronic mechanical low back pain. In addition, we assessed the in-silico functional analysis of the significant SNVs and association of their haplotypes with the severity of lumbar disc herniation. Methods: A descriptive cross sectional study was carried out on 106 patients. Severity of disc herniation and disc degeneration were assessed on T2-weighted mid sagittal lumbar MRI scan. Sixty two exonic SNVs of ten candidate genes of aggrecan metabolic pathway (ACAN, IL1A, IL1B, IL6, MMP3, ADAMTS4, ADAMTS5, TIMP1, TIMP2 and TIMP3) were genotyped on a Sequenom MassARRAY iPLEX platform. Multivariable linear regression analysis was carried out using PLINK 1.9 software adjusting for age, gender, body mass index and severity of disc degeneration. Four online bioinformatics tools (Provean, SIFT, PolyPhen and Mutation Taster) were used for in-silico functional analysis. Results: Mean age was 52.42 ± 9.42 years and 69.8% were females. The mean severity of disc herniation was 2.81 ± 1.98. The rs2272023, rs35430524, rs2882676, rs2351491, rs938609, rs3825994, rs1042630, rs698621 and rs3817428 variants and their haplotypes of ACAN were associated with the severity of lumbar disc herniation. However, only the rs35430524, rs938609 and rs3817428 variants of ACAN were detected as pathogenic by in-silico functional analysis. Conclusions: SNVs of ACAN and their haplotypes are associated with the severity of lumbar disc herniation. Functional genetic studies are necessary to identify the role of these significant SNVs in the pathogenesis of disc herniation.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Cut-Off Value for Pain Sensitivity Questionnaire in Predicting Surgical Success in Patients with Lumbar Disc Herniation",
+      "url": "https://doi.org/10.1371/journal.pone.0160541",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0160541",
+      "abstract": "Various factors related to predict surgical success were studied; however, a standard cut-off point for the Pain Sensitivity Questionnaire (PSQ) measure has not yet been established for a favorable surgical outcome for lumbar disc herniation (LDH). This study was to find the optimal cut-off point on the PSQ to distinguish surgical success in patients with LDH. A total of 154 patients with LDH consecutively referred to our clinic were enrolled into this prospective study between February 2011 and January 2014. All participants completed the PSQ. Patients completed the Oswestry Disability Index (ODI) score before surgery, and at 2 years after surgery. Surgical success was defined as a 13-point improvement from the baseline ODI scores. The cut-off value for PSQ was determined by the receiver-operating characteristic curve (ROC). The mean age of patients was 49.3±9.6 years, and there were 80 women. The mean time for follow-up assessment was 31±5 months (range 24–35). Post-surgical success was 79.9% (n = 123) at 2 years follow up. The mean score for the total PSQ, PSQ-minor, and PSQ-moderate were 6.0 (SD = 1.6), 5.4 (SD = 1.9) and 6.5 (SD = 1.7), respectively. Total PSQ score was also significantly correlated with the total scores of the ODI. The optimal total PSQ cut-off point was determined as > 5.2 to predict surgical success in LDH patients, with 80.0% sensitivity and 75.6% specificity (AUC-0.814, 95% CI 0.703–0.926). This study showed that the PSQ could be considered a parameter for predicting surgical success in patients with LDH, and can be useful in clinical practice.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Structural Brain Alterations in Patients with Lumbar Disc Herniation: A Preliminary Study",
+      "url": "https://doi.org/10.1371/journal.pone.0090816",
+      "publisher": "PLoS ONE",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0090816",
+      "abstract": "Chronic pain is one of the most common health complaints in industrial nations. For example, chronic low back pain (cLBP) disables millions of people across the world and generates a tremendous economic burden. While previous studies provided evidence of widespread functional as well as structural brain alterations in chronic pain, little is known about cortical changes in patients suffering from lumbar disc herniation. We investigated morphometric alterations of the gray and white matter of the brain in patients suffering from LDH. The volumes of the gray and white matter of 12 LDH patients were determined in a prospective study and compared to the volumes of healthy controls to distinguish local differences. High-resolution MRI brain images of all participants were performed using a 3 Tesla MRI scanner. Voxel-based morphometry was used to investigate local differences in gray and white matter volume between patients suffering from LDH and healthy controls. LDH patients showed significantly reduced gray matter volume in the right anterolateral prefrontal cortex, the right temporal lobe, the left premotor cortex, the right caudate nucleus, and the right cerebellum as compared to healthy controls. Increased gray matter volume, however, was found in the right dorsal anterior cingulate cortex, the left precuneal cortex, the left fusiform gyrus, and the right brainstem. Additionally, small subcortical decreases of the white matter were found adjacent to the left prefrontal cortex, the right premotor cortex and in the anterior limb of the left internal capsule. We conclude that the lumbar disk herniation can lead to specific local alterations of the gray and white matter in the human brain. The investigation of LDH-induced brain alterations could provide further insight into the underlying nature of the chronification processes and could possibly identify prognostic factors that may improve the conservative as well as the operative treatment of the LDH.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.16,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Efficacy Analysis of Percutaneous Endoscopic Lumbar Discectomy Combined with PEEK Rods for Giant Lumbar Disc Herniation: A Randomized Controlled Study",
+      "url": "http://dx.doi.org/10.1155/2020/3401605",
+      "publisher": "Pain Research and Management",
+      "year": "2020",
+      "doi": "10.1155/2020/3401605",
+      "abstract": "Objective. This study describes a randomized controlled trial that assesses percutaneous endoscopic lumbar discectomy (PELD) combined with a polyetheretherketone (PEEK) rod in patients with GLDH (herniation affecting 50% of the sagittal diameter of the spinal canal) and reports the 2-year follow-up outcome. Methods. In all, 243 patients were randomly assigned to undergo PELD or PELD combined with a PEEK rod by generating random numbers with a random number generator. Clinical outcome data, including the numerical rating scale (NRS), were used to assess the patients’ back and leg pain, while the Oswestry Disability Index (ODI) was used to quantify pain and disability. Imaging data included intervertebral disc height (IDH), range of motion (ROM), and modified Pfirrmann grades. Results. At the final follow-up, the NRS for back and leg pain and the ODI scores were significantly decreased in both groups. The NRS for back pain and the ODI scores in the PELD + PEEK group (1.32 ± 0.70, 14.10 ± 4.74) were better than those in the PELD group (1.91 ± 0.69, 16.93 ± 4.33) (P<0.05). The IDH of the PELD + PEEK group (10.54 ± 1.62) was significantly higher than that in the PELD group (9.98 ± 1.90) (P=0.025). The ROM of the PELD + PEEK group (2.39 ± 0.90) was significantly lower than that of the PELD group (9.49 ± 1.62) (P<0.001). Conclusion. For symptomatic patients with GLDH, both PELD and PELD combined with a PEEK rod showed good efficacy. However, the long-term effect of PELD combined with a PEEK rod is better than that of PELD alone. Moreover, PELD combined with a PEEK rod can effectively reduce the recurrence rate. Maximum benefit can be gained if we adhere to strict selection criteria for PELD combined with a PEEK rod.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.8,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A diagnostic model of nerve root compression localization in lower lumbar disc herniation based on random forest algorithm and surface electromyography",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2023.1176001/full",
+      "publisher": "Frontiers in Human Neuroscience",
+      "year": "2023",
+      "doi": "10.3389/fnhum.2023.1176001",
+      "abstract": "ObjectiveThis study aimed to investigate the muscle activation of patients with lumbar disc herniation (LDH) during walking by surface electromyography (SEMG) and establish a diagnostic model based on SEMG parameters using random forest (RF) algorithm for localization diagnosis of compressed nerve root in LDH patients.MethodsFifty-eight patients with LDH and thirty healthy subjects were recruited. The SEMG of tibialis anterior (TA) and lateral gastrocnemius (LG) were collected bilaterally during walking. The peak root mean square (RMS-peak), RMS-peak time, mean power frequency (MPF), and median frequency (MF) were analyzed. A diagnostic model based on SEMG parameters using RF algorithm was established to locate compressed nerve root, and repeated reservation experiments were conducted for verification. The study evaluated the diagnostic efficiency of the model using accuracy, precision, recall rate, F1-score, Kappa value, and area under the receiver operating characteristic (ROC) curve.ResultsThe results showed that delayed activation of TA and decreased activation of LG were observed in the L5 group, while decreased activation of LG and earlier activation of LG were observed in the S1 group. The RF model based on eight SEMG parameters showed an average accuracy of 84%, with an area under the ROC curve of 0.93. The RMS peak time of TA was identified as the most important SEMG parameter.ConclusionThese findings suggest that the RF model can assist in the localization diagnosis of compressed nerve roots in LDH patients, and the SEMG parameters can provide further references for optimizing the diagnosis model in the future.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Relationship between Body Mass Index and Lumbar Disc Herniation in UKI General Hospital Jakarta, Indonesia",
+      "url": "https://hal.science/hal-05185728v1",
+      "publisher": "Asian Journal of Research in Infectious Diseases",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Background: Nucleus Pulposus Herniation (NPH) is a disease in which the annulus fibrosus ruptures, causing the nucleus pulposus to protrude or bulge and press against the spinal canal, causing sciatic pain. One of the risk factors for Nucleus pulposus herniation was Body Mass Index (BMI). Objective: This study aim the relationship between BMI and the incidence of Lumbar Disc Herniation (LDH) patients at UKI General Hospital from January to June 2020. Methods: The subjects of the study were 24 patients with lumbar disc herniation who were treated at UKI General Hospital from January to June 2020 that were taken from medical records. Results: 63 samples were analyzed that obtained 24 (38.0%) patients with lumbar disc herniation, and patients with lumbar disc herniation with BMI ≥ 23 as many as 18 subjects (75.0%). Conclusion: There is no significant relationship between BMI and LDH patients at UKI General Hospital.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Comparison between Tubular Discectomy and Open Microdiscectomy surgery for Symptomatic Lumbar Disk Herniation",
+      "url": "https://zenodo.org/records/8374118",
+      "publisher": "International Journal of Scientific Development and Research",
+      "year": "2023",
+      "doi": "10.5281/zenodo.8374118",
+      "abstract": "Objectives: There are many different minimally invasive procedures that can be used to treat lumbar disc herniation. In the management of lumbar disc herniation, Open microdiscectomy MD is the gold standard and is used as a benchmark for comparison with more recent techniques like tubular discectomy. The purpose of this study was to assess the complication rates of tubular discectomy and to compare the postoperative outcomes of individuals undergoing tubular discectomy with those undergoing MD. Methods: A retrospective analysis of 250 patients who underwent single-level lumbar discectomy either by tubular TD or MD between JULY 2017- JUNE 2022 was performed. The differences in the 2 groups' demographics, surgical length, intraoperative blood loss, overall hospital stay, pain score on the visual analogue scale (VAS), Oswestry Disability Index (ODI) score both before and after the procedure, and complications were assessed. Results: Out of the 250 patients, 130 patients were treated with MD and 120 by tubular disectomy TD. The mean age in MD and tubular TD group was 45.5 and 45.8 years. There was a improvement in VAS and ODI scores at 4 weeks in both the groups. There was a greater reduction of back pain in the TD group at 2 weeks compared to MD group but at 1 month both are comparable. Average surgical time was shorter in MD (71.6 min) as compared to TD group (80.2 min). the Average blood loss was higher (90.2 mL) in MD group as compared to TD group (35.8 mL) (Table 3 ). Length of incision as measured from the surgical scar was 1.7 cm in TD while it was 3.0 cm in MD group. Average hospital length of stay in TD (1.2 days) which was less than MD group (2.1 days). Likewise, MD group patients took 5.9 weeks to return to activity which was higher than the TD group (4.1 weeks). There were 9 cases (6.9%) of dural tear in MD and 10 cases (8.3%) in TD group. Conclusion: Sciatica caused by disc herniation can be effectively and safely treated with lumbar discectomy, whether it is TD or MD. In comparison to MD, the TD method for treating symptomatic lumbar radiculopathy is superior in that it causes less postoperative back pain, less blood loss, a shorter hospital stay, and a quicker return to work. Despite the learning curve, TD has been demonstrated to be a viable choice for treating lumbar disc herniation in patients who are carefully chosen.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Intradiscal oxygen-ozone therapy for the treatment of symptomatic lumbar disc herniation: A preliminary study.",
+      "url": "https://hal.science/hal-03553759v1",
+      "publisher": "Journal de Neuroradiologie / Journal of Neuroradiology",
+      "year": "2022",
+      "doi": "10.1016/j.neurad.2021.09.004",
+      "abstract": "PURPOSE: To assess safety and effectiveness of computed tomography (CT)-guided intradiscal oxygen-ozone therapy (O(2)-O(3) therapy) for the treatment of symptomatic lumbar disc herniation and radiological changes. MATERIALS AND METHODS: This study was conducted in twenty patients presenting lumbar disc herniation with resistant lumbar or lumbar radicular pain They underwent intradiscal oxygen-ozone therapy under CT guidance. They were treated at one- or two-disc levels, representing a total of 24 discs treated. MR imaging examinations were obtained before treatment and 2 months post-procedure to analyse treatment-related disc modifications including modification of the surfaces of the disc and of the herniated disc, and the variations in disc height according to the disc height index. Clinical outcomes were assessed using the visual analogue scale (VAS) to evaluate the severity of pain before the procedure, at primary (2 months) and at secondary (12 months) follow-ups. RESULTS: All the procedures were technically successful. The median VAS scores were 7.95 before the procedure, 3.9 at 2 months and 2.95 at 12 months. MRI analysis showed a significant decrease in herniation size at 2 months (-20%, p = 0.008). No immediate or late complications were observed. Only three patients (13.6%) underwent lumbar spine microdiscectomy in the year following ozone therapy. The treatment appeared to be more effective in cases of nerve root symptomatology. CONCLUSION: This study suggests that intradiscal O(2)-O(3) therapy is safe and effective for the treatment of lumbar disc herniation associated with resistant lumbar or lumbar radicular pain.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Cytokine gene expression in ligamentum favum hypertrophy",
+      "url": "https://zenodo.org/records/6768965",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6768965",
+      "abstract": "Aim: Lumbar spinal canal stenosis is a disease is an important reason of injury in the elderly and the most important reason of spinal surgery in patients above the age of 65. Ligamentum flavum hypertrophy plays a critical role in the pathogenesis of lumbar spinal canal stenosis. Inflammatory agents induce the ligamentum flavum hypertrophy and increased scar tissue formation. Even though its prevalence, lumbar spinal stenos does not have a universal definition in this day and age and its generally accepted radiologic diagnosis criteria is lacking. Material and Methods: In our study, 25 samples of hypertrophied LF tissue were obtained from the patients with the diagnosis of lumbar spinal canal stenosis while 25 samples were obtained from the patients who underwent surgery for lumbar disc herniation forming control group. Samples were investigated for histological study. Lumbar spinal canal stenosis and control groups were investigated for the expression of inflammatory cytokine genes by semiquantitative RT-PCR method. Results: Cytokines were found both in lumbar spinal canal stenosis and control groups. Any statistically significant difference was not found between lumbar spinal canal stenosis and control groups in terms of some cytokines. However, low levels of IL-1 beta were found in lumbar spinal canal stenosis group. Conclusions: Spinal canal stenosis is the most important reason of pain and decrease in functional capacity in elderly patients. Therefore, effective therapeutic strategies are needed. Drug resistance is common in fibrotic tissue. Antifibrotic drugs can be an important part of a targeted drug development strategy",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Lumbar Multifidus Muscle Morphology Changes in Patient with Different Degrees of Lumbar Disc Herniation: An Ultrasonographic Study",
+      "url": "https://www.mdpi.com/1648-9144/57/7/699",
+      "publisher": "Medicina",
+      "year": "2021",
+      "doi": "10.3390/medicina57070699",
+      "abstract": "Background and Objective : Previous studies demonstrated that the prevalence of lumbar disc herniation (LDH) is relatively high. This investigation aimed to evaluate the size of lumbar multifidus (LM) muscle in patients with different degrees of LDH compared to healthy group, during rest and contraction, using ultrasonography. Materials and Methods : In this non-experimental, analytic, and case control study, ultrasound imaging was used to assess cross-sectional area (CSA) and thickness of the LM muscle in 15 healthy subjects and 60 patients with different stages of LDH (bulging group = 15, protrusion group = 15, extrusion group = 15, sequestration group = 15). Measurements were taken bilaterally at the L4–L5 level, during rest and contraction and results were compared between groups. Results : There was a significant difference between healthy subjects and the extrusion and sequestration groups during rest and contraction for LM muscle CSA and thickness ( p = 0.001), as LM muscle CSA and thickness were significantly smaller in extrusion and sequestration patient groups compared to healthy subjects. LM atrophy was greater in patients with extrusion and sequestration groups than in patients with bulging and protrusion, both at rest and during contraction. Significant correlations were also observed between functional disability and intensity of pain with LM CSA and thickness measurements. Conclusions : Patients with extrusion and sequestration LDH had smaller LM muscle at rest and during contraction compared to healthy subjects. Larger LDH lesions were associated with decreased LM muscle size. Patient with more pain, disability, and extrusion and sequestration LDH had greater LM size changes. LM muscle size was not correlated with symptom duration. Further investigation with greater sample size is warranted.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The relationship of the shear wave elastography findings of patients with unilateral lumbar disc herniation and clinical characteristics",
+      "url": "http://link.springer.com/article/10.1186/s12891-019-2814-7",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2019",
+      "doi": "10.1186/s12891-019-2814-7",
+      "abstract": "Abstract Background The aim of this study was to find out whether the shear wave elastography (SWE) findings of patients with unilateral lumbar disc herniation (LDH) were related to clinical characteristics. Methods For this purpose, the study group included patients (N = 20; 13 male, 7 female) with complaints of unilateral sciatica, with foraminal stenosis caused by one level of LDH (L4-L5 or L5-S1). An gender-and age-matched control group (N = 27; 16 male, 11 female) was included. All the patients were examined on both the axial and longitudinal planes bilaterally at the same level using a convex array probe (1- 6 MHz, Supersonic Imagine, Aix en Provence, France). Results The sciatic nerve stiffness measured on longitudinal planes of the affected side was significantly higher than unaffected side (p < 0.001) and the control group (P < 0.05). Furthermore, the symptom duration of unilateral LDH is positively correlated with the stiffness the sciatic nerve (r = 0.52, p = 0.019). Conclusion According to these findings, ultrasound imaging can be considered as a useful tool to detect changes in the sciatic nerve due to disc herniation. This technique will have a promising prospect for many patients with unilateral LDH in monitoring stiffness during rehabilitation and before or after surgery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Interlaminar Discectomy in Lumbar Disc Herniation: Surgical Experience and Results",
+      "url": "https://hal.science/hal-05392308v1",
+      "publisher": "International Neuropsychiatric Disease Journal",
+      "year": "2017",
+      "doi": "",
+      "abstract": "Aim of the Study: Is to evaluate interlaminar discectomy in terms of: accessibility, safety and clinical outcome. Background: Interlaminar approach for lumbar Discectomy is a less invasive technique that allows accessibility to a herniated disc via resection of ligamentum flavum either partially or totally with preservation of other structures leading to better spinal stability. Study Design: Prospective study. Patients and Methods: This is a prospective study including 64 cases of lumbar disc herniation operated between august 2012 and February 2015. All cases were subjected to lumbar discectomy via interlaminar approach. Surgical technique based on resection of ligamentum flavum either unilateral or bilateral with foraminotomy before disc extraction. Visual Analog Scale was used for preoperative and postoperative pain assessment, while Spengler´s modification of Macnab´s criteria was used for long term follow up. Patients were follow up for a period ranged from 3 to 18 months. Results: Adequate exposure of herniated discs and involved roots obtained in 61 cases where partial laminectomy was need in 3 cases. In these 3 cases, the herniated disc showed cephalic migration. Bilateral resection of ligamentum flavum was done in 11 cases. All cases presented with sciatica showed excellent post-operative improvement, cases with foot drop showed no improvement. Early ambulation was done in all cases. Conclusion: Interlaminar approach in lumbar discectomy is a safe and effective technique providing excellent accessibility in the majority of cases -even with higher levels like L3-4- with less post-operative back pain and early ambulation. Cases with cephalic migration of the herniated discs needs partial laminectomy.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Surgical versus conservative treatment for lumbar disc herniation: a prospective cohort study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5223716/",
+      "publisher": "BMJ open",
+      "year": "2016",
+      "doi": "10.1136/bmjopen-2016-012938",
+      "abstract": "Objectives Evidence comparing the effectiveness of surgical and conservative treatment of symptomatic lumbar disc herniation is controversial. We sought to compare short-term and long-term effectiveness of surgical and conservative treatment in sciatica symptom severity and quality of life in patients with lumbar disc herniation in a routine clinical setting. Methods A prospective cohort study of a routine clinical practice registry consisting of 370 patients. Outcome measures were the North American Spine Society questionnaire and the 36-Item Short-Form Health Survey to assess patient-reported back pain, physical function, neurogenic symptoms and quality of life. Primary outcomes were back pain at 6 and 12 weeks. Standard open discectomy was assessed versus conservative interventions at 6, 12, 52 and 104 weeks. We filled in missing outcome variable values with multiple imputation, accounted for repeated measures within patients with mixed-effects models and adjusted baseline group differences in relevant prognostic indicators by inverse probability of treatment weighting. Results Surgical treatment patients reported less back pain at 6 weeks than those receiving conservative therapy (-0.97; 95% CI -1.89 to -0.09), were more likely to report ≥50% decrease in back pain symptoms from baseline to 6 weeks (48% vs 17%, risk difference: 0.34; 95% CI 0.16 to 0.47) and reported less physical function disability at 52 weeks (-3.7; 95% CI -7.4 to -0.1). The other assessments showed minimal between-group differences with CIs, including the null effect. Conclusions Compared with conservative therapy, surgical treatment provided faster relief from back pain symptoms in patients with lumbar disc herniation, but did not show a benefit over conservative treatment in midterm and long-term follow-up.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Tight Hamstring Syndrome Related Lumbar Disc Herniation and Its Rehabilitation Program to Two Case Reports",
+      "url": "https://hal.science/hal-05486850v1",
+      "publisher": "British Journal of Medicine and Medical Research",
+      "year": "2016",
+      "doi": "",
+      "abstract": "Tight hamstring syndrome (THS) is a symptom complex which has a varied pathogenesis. The syndrome usually occurs in childhood and adolescent period. It is characterized by tightness of lumbar, ischial and crural muscles. Case Report 1: 17 year old male was complaining of low back and right leg pain which spread to the back right leg for last two month. He walking with limited forward flexion and right knee flexion. Stright leg raising test (SLRT) was leading to elevation of whole body like a board with painful and patient was suffering from pain when his legs was elevated to 30 degree. Popliteal angle of effected sign was 87 degrees. There was no weakness of lower extremity. MRI of lumbar spine showed L5-S1 right far lateral disc herniation. It was decided that patient’s diagnosis was THS depending on lumbar discopathy. Medical treatment, conventional physical therapy (15 session) and Mulligan traction straight leg raise technique (TSLR) were applied (9 session). After the treatment his complaints were better than the baseline and the results of examination was improved. Case Report 2: 19 year old male was was complaining of left leg pain which spread to the back left leg last four month. SLRT was leading to elevation of whole body like a board with painful and patient was suffering from pain when his legs was elevated to 40 degree. He was standing and walking with limited forward flexion and increased flexion at left knee. it was also decided that patient’s diagnosis was THS depending on lumbar discopathy. Medical treatment, conventional physical therapy (15 session) and Mulligan TSLR technique were applied (9 session). After the therapy, his toe touching distance was 25 cm and SLRT was negative. Low back range of motion (ROM) was full. Conclusion: As well as developing technologies and treatment approaches, we believe that early diagnosis of THS and its reason can prevent additional surgeries. Our cases which diagnosed THS related lumbar disc herniation improved with early intervention.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Intradiscal Ozone Oxygen in Lumbar Disc Prolapse",
+      "url": "https://zenodo.org/records/3970819",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2016",
+      "doi": "10.5281/zenodo.3970819",
+      "abstract": "Background: Lumbar disc herniation is one of common cause of hospitalization in current orthopaedics practice. There are great controversies whether to conserve or intervene for contained disc prolapsed. The purpose of current study to evaluate usefulness of intradiscal ozone infiltration for contained disc prolapsed. Methods: Total 122 patients were treated with intrasdical ozone infiltration. All the patients who had contained disc prolapsed without neurological involvement were included in the study. Visual analogue scores and Mcnab scoring were used to evaluate results of the patients. Results: The mean age of the patient was 41.64 ± 7.3 and most of the patients were male who involved strenuous hard work. The mean pre-treatment VAS score was 7.40 ± 0.50, and at the end of follow up was 3.40 ± 1.25 Conclusion: We can conclude that intradiscal oxygen-ozone is an alternative treatment modality for contained lu mbar disk herniation.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Evaluating a problem-based learning model integrated with 3D anatomy software and software-assisted annotation in undergraduate spinal surgery education: a randomized controlled trial",
+      "url": "https://doi.org/10.1186/s12909-026-08652-7",
+      "publisher": "BMC Medical Education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-08652-7",
+      "abstract": "Abstract Background Traditional lecture-based learning (LBL) faces limitations in teaching complex spinal anatomy and surgical procedures. This study aimed to evaluate the efficacy of a novel Problem-Based Learning (PBL) model integrated with three-dimensional (3D) anatomy software and software-assisted annotation in spinal surgery education. Methods A randomized controlled trial included 120 fifth-year clinical medicine undergraduates, starting in August 2024. Participants were divided into an experimental group (n = 60, receiving 3D + PBL + annotation-assisted teaching) and a control group (n = 60, receiving traditional LBL). Outcomes were assessed via written tests (objective/subjective questions) and standardized questionnaires evaluating knowledge mastery, learning motivation, academic atmosphere, teacher-student interaction, and knowledge retention. Results The experimental group scored significantly higher on subjective questions (case analysis) than the control group (39.33 ± 5.38 vs. 32.08 ± 4.79, P < 0.001). Questionnaire results indicated that the experimental group reported significantly higher self-rated mastery in spinal endoscopic procedures, anatomy, Michigan State University (MSU) classification of lumbar disc herniation (LDH), and differential diagnosis (all P < 0.05). In addition, students in the experimental group expressed greater satisfaction with learning motivation, academic atmosphere, teacher–student interaction, and knowledge retention (all P < 0.05). Conclusions Integrating 3D anatomy visualization, software-assisted annotation, and PBL significantly enhances clinical reasoning, spatial understanding, and student engagement in spinal surgery education. This multimodal approach addresses the limitations of traditional methods and is recommended for broader application in orthopedic training. Trial registration Chinese Clinical Trial Registry (ChiCTR), ChiCTR2400082568. Registered on 01 April 2024.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.04,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "LUMBAR DISC HERNIATION",
+      "url": "https://doi.org/10.1016/s2255-4971(15)30211-1",
+      "publisher": "Georg Thieme Verlag KG",
+      "year": "2010",
+      "doi": "10.1016/s2255-4971(15)30211-1",
+      "abstract": "Lumbar disc hernia represents one of the most frequent neurosurgical pathologies, consisting of a posterior migration of the nucleus pulposus which protrudes through the surrounding protective connective tissue. The patient usually exhibits leg pain, paraesthesia or a variable degree of discomfort at the lower extremities, those clinical characteristics are correlated to the extent of nucleos pulposus protrusion. Regarding neuroimaging diagnosis, the gold standard of evaluation is Magnetic resonance imaging in different sequences which highlights a precise topography of the herniated disc. Currently, in a well-digitalized era, machine learning and deep learning algorithms are used to assess the sensibility of detecting a lumbar disc hernia, with promising results. In those cases requiring surgical intervention, besides the open lumbar microdiscectomy, a less invasive surgical approach regularly used in the medical practice is endoscopic lumbar discectomy, being limited to cases where a wide intraoperative perspective is not necessary. In the actual neurosurgical management, postoperative complications following lumbar disc hernia surgery are rare and accessible to manage.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Recurrent lumbar disc herniation",
+      "url": "https://doi.org/10.3171/foc.2003.15.3.10",
+      "publisher": "Journal of Neurosurgery Publishing Group (JNSPG)",
+      "year": "2003",
+      "doi": "10.3171/foc.2003.15.3.10",
+      "abstract": "Recurrent lumbar disc herniation is a common disease process. It has been noted to occur in 5 to 15% of cases surgically treated for primary lumbar disc herniation. Outcomes in one series approached those after the initial operations, although this is not the case in the experience of most surgeons. The removal of recurrent lumbar disc herniations requires meticulous surgical technique. Great care is taken to identify the osseous margins of the previous surgical site. Identification and dissection of scar from the dura mater is greatly aided with the use of a microscope.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Integrating multidimensional data analytics for precision diagnosis of chronic low back pain",
+      "url": "https://doi.org/10.1038/s41598-025-93106-1",
+      "publisher": "Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-93106-1",
+      "abstract": "Abstract Low back pain (LBP) is a leading cause of disability worldwide, with up to 25% of cases become chronic (cLBP). Whilst multi-factorial, the relative importance of contributors to cLBP remains unclear. We leveraged a comprehensive multi-dimensional data-set and machine learning-based variable importance selection to identify the most effective modalities for differentiating whether a person has cLBP. The dataset included questionnaire data, clinical and functional assessments, and spino-pelvic magnetic resonance imaging (MRI), encompassing a total of 144 parameters from 1,161 adults with (n = 512) and without cLBP (n = 649). Boruta and random forest were utilised for variable importance selection and cLBP classification respectively. A multimodal model including questionnaire, clinical, and MRI data was the most effective in differentiating people with and without cLBP. From this, the most robust variables (n = 9) were psychosocial factors, neck and hip mobility, as well as lower lumbar disc herniation and degeneration. This finding persisted in an unseen holdout dataset. Beyond demonstrating the importance of a multi-dimensional approach to cLBP, our findings will guide the development of targeted diagnostics and personalized treatment strategies for cLBP patients.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Incidence and temporal changes in lumbar degeneration and low back pain in child and adolescent weightlifters: A prospective 5-year cohort study.",
+      "url": "https://doi.org/10.1371/journal.pone.0270046",
+      "publisher": "PLoS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0270046",
+      "abstract": "This study was conducted to investigate the incidence of lumbar degeneration findings and low back pain (LBP) in children and adolescent weightlifters using magnetic resonance imaging (MRI) and medical questionnaires over a 5-year period. Moreover, we aimed to reveal the temporal changes in the lumbar vertebrae caused by long-term weightlifting training during the growth period. Twelve children and adolescent weightlifters who participated in weightlifting for >2 years (six boys, six girls, 11.4±2.0 years) were enrolled. Participants underwent annual medical questionnaire surveys, including data on practice frequency, competition history, presence of LBP, and lumbar examinations using MRI during the 5-year follow-up. Lumbar disc degeneration was detected in all the participants after 4 years, and lumbar disc herniation findings were detected in 33% of participants after 5 years; one underwent herniotomy during the follow-up period. Lumbar spondylolysis was detected in 58% of patients at 5 years. Although there were three participants who had LBP in the final year, none had LBP that prevented them from returning to weightlifting. This 5-year cohort study of 12 children and adolescent weightlifters detected lumbar degeneration in all participants. High frequency weightlifting training over a long period during the growth period may increase the risk of developing current and future LBP.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Evolution of the Surgical Management of Cauda Equina Syndrome",
+      "url": "https://hal.science/hal-05286268v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2020",
+      "doi": "",
+      "abstract": "Cauda equina syndrome arises secondary to lumbosacral nerve root entrapment, mostly a result of lumbar disc herniation. Clinically, it manifests as sciatica, saddle anesthesia, lower limb weakness, and bowel/bladder dysfunction. Surgical management has developed significantly over the past decades. This literature review aims to shed light on surgical interventions for this condition. Results from 22 original articles have been summarized. Most authors advocate for emergency surgical intervention in all cases. Surgery is performed via an open or endoscopic technique. Open surgery involves lumbar discectomy with laminectomy. It can be carried out with a conventional operative microscope. In contrast, endoscopic discectomy utilizes a minimally invasive incision that minimizes blood loss and the duration of hospital stay. Recent radiologic advances including intraoperative X-ray fluoroscopy, CT scan and ultrasonography have also markedly improved surgical outcomes for lumbar discectomy.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Endoscopic anatomy and features of lumbar discectomy by Destandau technique",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2214751916301098",
+      "publisher": "Interdisciplinary Neurosurgery",
+      "year": "2017",
+      "doi": "10.1016/j.inat.2016.11.009",
+      "abstract": "Minimally invasive spine surgery prevents alteration of paraspinal muscles and avoids traditional open surgery, so in the majority of cases, recovery is much quicker and patients have less back pain after surgery. The authors describe an endoscopic approach to lumbar disc herniation by the Destandau's method originated in Bordeaux. Destandau designed ENDOSPINE for discectomy will be inserted, and the procedure will continue using endoscopy. The Endoscopic approach to lumbar disc herniation by Destandau's method offers a convenient access to lumbar disc herniation with less complications and negligible morbidity. It gives maximum exposure to the disc space with maximal angles and minimal cutaneous incision. Contrary to other minimally invasive approaches, the visual field in discectomy by Destandau technique is broad and depending on the workability of ENDOSPINE an adequate access to lumbar disc herniation is possible.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Overload pain but root differentiation discomfort in the lumbar spine",
+      "url": "https://zenodo.org/records/814983",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.814983",
+      "abstract": "Siminska Joanna, Nowacka Krystyna, Siedlecki Zygmunt, Hagner Wojciech . O VERLOAD PAIN but ROOT DIFFERENTIATION discomfort in the lumbar spine . Journal of Education, Health and Sport. 2017;7(6):3 23 -3 30 . eISSN 2391-8306. DOI http://dx.doi.org/10.5281/ zenodo.814983 http://ojs.ukw.edu.pl/index.php/johs/article/view/454 7 https://pbn.nauka.gov.pl/sedno-webapp/works/822269 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 01.06.2017. Revised: 14.06.2017. Accepted: 20.06.2017. BÓLE PRZECIĄŻENIOWE A KORZENIOWE RÓŻNICOWANIE DOLEGLIWOŚCI W ODCINKU LĘDZWOWYM KRĘGOSŁUPA OVERLOAD PAIN but ROOT DIFFERENTIATION discomfort in the lumbar spine Siminska Joanna 1 , Nowacka Krystyna 1 , Siedlecki Zygmunt 2 , Hagner Wojciech 1 Katedra i Klinika Rehabilitacji Collegium Medicum UMK w Bydgoszczy Klinika Neurochirurgii, Neurotraumatologii i Neurochirurgii Dziecięcej Collegium Medicum UMK w Bydgoszczy Streszczenie Zespoły bólowe lędźwiowego odcinka kręgosłupa możemy także określać jako bóle krzyża. Dolegliwości te obecnie stały się epidemią naszych czasów. W literaturze bóle te określa się jako dolegliwości zlokalizowane, które zlokalizowane są w okolicy lędźwiowej, lędźwiowo- krzyżowej i krzyżowo- biodrowej. Bóle krzyża to określenie bardzo ogólne, ponieważ występuje mnogość czynników, które powodują schorzenie odcinka lędźwiowego. Problem ten stwarza duże trudności diagnostyczne. [4]. Charakter tych dolegliwości jest często trudny do wskazania przez pacjenta, ale mogą być to bóle opisujące przez pacjentów od tępych, przeszywających, świdrujących, piekących, po takie, które są określane jako odczucie lodowatego zimna. Należy mieć na uwadze, ze lokalizacja objawów bólowych z odcinka lędźwiowego bywa różna. Pacjenci zgłaszają bóle, które zlokalizowane są w całej okolicy lędźwiowo- krzyżowej lub tylko po jednej stronie kręgosłupa, bądź występują tylko w okolicy stawów krzyżowo- biodrowych. Dolegliwości te często promieniują wzdłuż kończyny dolnej. Są one często wynikiem braku prawidłowej profilaktyki kręgosłupa : przyczyniają się do tego zła postawa ciała, niewłaściwe ułożenie podczas snu, jak również brak umiejętności radzenia sobie ze stresem, jak również przyczynia się do tego zła dieta. W codziennym życiu należy pamiętać o wykonywaniu codziennych czynności w prawidłowych pozycjach, jak również zastosowanie profilaktyki, aby uniknąć dolegliwości bólowych w odcinku lędźwiowym. Słowa kluczowe: ból kręgosłupa, profilaktyka, rehabilitacja, diagnostyka Abstract Lumbar pain syndromes of the spine can also be referred to as the pain of the cross. These ailments have now become epidemics of our time. In literature, these pain are referred to as localized ailments that are located in the lumbar, lumbosacral, and cross-iliac areas. Cross pains are a very general term because there are a multitude of factors that cause lumbar disc herniation. This problem poses great diagnostic difficulties. [4]. The nature of these ailments is often difficult to pinpoint by the patient, but it can be the pain that describes patients from blunt, piercing, biting, baking, to those that are termed cold feeling. Keep in mind that the location of the lumbar pain symptoms varies. Patients report pain that is located throughout the lumbar-sacral area or only on one side of the spine, or occurs only in the area of the hip joints. These complaints often radiate along the lower limb. They are often the result of a lack of proper spine prevention: they contribute to this poor body posture, improper sleep positioning, as well as lack of coping skills, as well as a bad diet. In daily life, it is important to remember to do your daily activities in the correct position as well as to use prevention to avoid pain in the lumbar area. Key words: spine pain, prevention, rehabilitation, diagnostics",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Learning Curve Associated with Complications in Biportal Endoscopic Spinal Surgery: Challenges and Strategies",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4995243/",
+      "publisher": "Asian spine journal",
+      "year": "2016",
+      "doi": "10.4184/asj.2016.10.4.624",
+      "abstract": "Study design Descriptions of technical strategies to overcome pitfalls associated with early learning periods in biportal endoscopic spinal surgery (BESS). Purpose To introduce BESS for lumbar spinal diseases (LSDs) and to inform certain challenges to be overcome in mastering the technique. Overview of literature BESS has shown superior benefits including excellent magnification, a wider range of view by dynamic handling of an endoscope and instruments. Clinical reports, however, have not yet been very revealing for its new introduction into minimally invasive spine surgery. Methods To evaluate the learning curve for BESS, the procedures for various LSDs by one surgeon were analyzed in the view of shortening of the operating times and reduction of complications. Reviewing of recorded procedures helped in finding the reasons and the implemented solutions. Results The 68 cases included 25 for lumbar disc herniation (LDH), 3 for revision for recurred LDH, 39 for lumbar spinal stenosis (LSS) and 1 for synovial cyst. The operation time for the total cases averaged 83.7±33.6 minutes. According to diagnosis, it was 68.2±23.7 minutes for LDH. After the 14th case of LDH, it was nearly constant and close to the average time. One level of LSS needed 110.4±34.4 minutes. Prolonged operation times even in some later cases of LSS were mainly from struggling against blurred vision due to epidural bleeding. There were 7 cases of complications (10.3%) including 2 cases of dural tear, 1 case of root injury, and 4 cases of incomplete decompression on postoperative magnetic resonance imaging. There was no case of symptomatic hematoma or wound infection. Conclusions BESS seemed to have a relatively short learning curve period. The overall complication rate in early learning period was 10.3%. These could be avoided by magnified regional views on an endoscope and a clear surgical field by controlling epidural bleeding.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Annual Reports of Education, Health and Sport 9781329876262",
+      "url": "https://zenodo.org/records/45634",
+      "publisher": "Zenodo",
+      "year": "2013",
+      "doi": "10.5281/zenodo.45634",
+      "abstract": "Radomska Szkoła Wyższa w Radomiu Radom University in Radom Annual Reports of Education, Health and Sport 9781329876262 Edited by Iwona Czerwińska Pawluk Hanna Żukowska Wiesława Pilewska Mariusz Klimczyk Adam Szulc Walery Zuków htti)://ois.ukw.edu.i)l/index.i)hi)/iohs/index htti)://ioumal.rsw.edu.i)l htti)s://i)bn.nauka.gov.i)l/search?search&searchCategorv=WORK&filter.inJoumal=49068 htti)s://i)bn.nauka.gov.i)l/search?search&searchCategorv=WORK&filter.inJoumal=36616 htti)://elibrarv.ru/contents.asi)?titleid=37467 Open Access Radomska Szkoła Wyższa w Radomiu Radom University in Radom Annual Reports of Education, Health and Sport 9781329876262 Edited by Iwona Czerwińska Pawluk Hanna Żukowska Wiesława Pilewska Mariusz Klimczyk Adam Szulc Walery Zuków htti)://ois.ukw.edu.i)l/index.i)hi)/iohs/index htti)://ioumal.rsw.edu.i)l htti)s://i)bn.nauka.gov.i)l/search?search&searchCategorv=WORK&filter.inJoumal=49068 htti)s://i)bn.nauka.gov.i)l/search?search&searchCategorv=WORK&filter.inJoumal=36616 htti)://elibrarv.ru/contents.asi)?titleid=37467 Open Access Scientific Council pcl rm Ah* ten / IWriUuilVkmdi pet л» Ah* mcd T сНсисЬгке a|>»i»««hxia it bam о pot л* Л h* med V Ed*» ilbonc-. pt\\4 rm Ah* fee i l*>mki ihdmdi yr«dC г* Ah* med A GwhaAotlboncl pit VI ¿rwdoMkyitibamet pit м Abb I «Аур» ilbimei pet m AbbimdA GudpMiUnmcipitni Ah* med к OiJy* abmeipot /» Ah* itW W 1Ъри tfawi prt mAh* med V Mvn itbamci pot mAh* med ft S*d«lkn il Wmci pet mAh* era О C4od«»A.)t ilkranei. pit rm A h* eed t SmnanA il bm»c< pot m Ah* med 1. Shatmilbumcipet m Ah* med I ttm*i»e<ltnmctp<t m=\"\" ah*=\"\" med=\"\" a=\"\" ЬтАгуill=\"\" mrai=\"\" pst=\"\" О=\"\" ХсАсАя=\"\" tlinnri=\"\" p.i=\"\" л»=\"\" y'=\"\" vetfai=\"\" it=\"\" irene-pot=\"\" s=\"\" mnoam,=\"\" liberal=\"\" pat=\"\" abb=\"\" tied=\"\" Л=\"\" aneoed=\"\" o.=\"\" ax=\"\" pkdtt=\"\" i=\"\" jena=\"\" lknd4i=\"\" %*=\"\" hd)=\"\" tsimihmipet=\"\" к=\"\" ihaaailndmds=\"\" К=\"\" ckvticmb(firmer.pit=\"\" h=\"\" kn^aifcdmdi=\"\" x=\"\" Мойки»=\"\" imml»,=\"\" pet=\"\" w=\"\" М)«1м*нР.р<4=\"\" yt=\"\" n*waie»wmti=\"\" ГтаАо(riimti.pot=\"\" pfmd=\"\" tnmti=\"\" pb=\"\" h*=\"\" vi=\"\" 7«aattvandi=\"\" amed=\"\" 1=\"\" fksaauobines=\"\" ai=\"\" u=\"\" ibyi,=\"\" ilvtmis=\"\" rvnbtiaihdmdt=\"\" ЛттупАа-еЫа=\"\" ifaimdi=\"\" doc=\"\" a«=\"\" v=\"\" <1mm>ifbme».=\"\" amd=\"\" c>wmailw*ds=\"\" c'nan&t=\"\" hr*yd=\"\" slsdmdi=\"\" bod.=\"\" &=\"\" delon*»=\"\" ilbaaacs=\"\" md=\"\" dtternmewnb=\"\" ihdmdi=\"\" ihpier-dcra*-*\"**=\"\" inmli,=\"\" baeqrwaa=\"\" ipdaoti=\"\" i'=\"\" k=\"\" umaua=\"\" immtii=\"\" Кка*=\"\" sprlmti=\"\" a1.=\"\" kwm*=\"\" A med II MinmuU slttmts Amed A Ndv* (Wrnds Amed X Nmdtor ilbmKi Amed k ХтжкаvIMmtt, A mid G IvM iPdm!. Amed Г JY.hi^er* iMmti Amed A l*einl i iPdedt, A med L hapndi thdmdc A De%n le* (XipoAhc .4 lnAa> doc A A YLdn (Ibmti, AT. X* tlbami А П MedK»H/ iPdmdL A md L DeUtMmdi Editorial Board St rim Admit* lYUobas Pmd iwid iSh»*uc По» fend km lleem; • IVdmdt Akdmmr/ ftAm llSdmdX Iomm FrrAmki iTVdmdi Aiili Gdmni i)h*«t*0 > I** Or)*» I lb mm i lldm И«!»к*им»*| iTVdmdi IV-«11/d**. .Mmdi Sen. Immb* dbtmti TM>mil«fm*<»(tlb«mt AmehrduMlCmh Xqc*ki Ylminda kndboi tCjc* kqcdbc. ;«* kliwr IUcjc.* Юпжлк iMmdi Abcp kodenei* il'oimli Itrtitci Lmje л'«* ХерзЫх i Ihfucr Sladcedi tPdmdt ,'n M«Ad iMndui U»dmli Mdlodne iCeeth Re»-diH с Inli M*,4■.Pcdmdi YdJo Hl.hrto ilbmxI Stmmdra Und tPtdradk Mvmb* *A«Ao«i* ifoteidc K*A>lm \\W мл ifelmd! Лем Sdt/tk • |4d*d>. Votl Ч*иЫ| iPtdmd>. )ei) Nomci* iWda4>. Pw* пЫпгачг >PUmdt lAbAdsn Padcnh iMmdi *к*тч Pdmdj» ifcdmdc l**n ttod**« lOech ЯфеЫкk KmvM ftm* ilVdmdi kmwvdЫ<имеЦi iMmdk AWum* 'deln ilbaocv Te*|m* tt kmnci lime SekcAnnkj tPcdmdV МкПЗ Ыипмс: iPidetdc K*ot Ugmmk iMmii Ahkiendp bdiihdmtdl Smdi Snndj <%mi Mmien Ymt-Lckjrd thdmdc Meciq Smdkwdi iPcbndt Ihcboi) ТегемЬА llbimeL INnny \\bf«mu ilb amr>. Моем Zemde cPodmdt Temmu 7«Aera*)e ilbmmi Wdef> Mm (bdmdl llmi Mm*a iPoimdi Ad\\i>or> Board tfwmi hdotdkilsdnli Wn |in*m itbmiri LMrldtbiMh lhem)i kermmrr Dm* ilsbndx Ylrmdm DodiAdbimei Kool tkemr iM«»*u>. Kwmet kathmmK/ tfldmiA, )ao koermc/ tiNdmdi Vmidm Komi* ilsdmdi Г We.mj Mnned tPtdendc Yfabdv S.*u> ilbmx ■ )вл Роуя*-I'.iWi Fipmaer h)*pe (Ibmi Riferl S/*blt iMmdv JAr IWhme iCMh KpcAbi Reviewers: pod rm Ah* fra 7- H*«kdkiiMmdi km I'aedlY IbuHmdAoMk M«D » ilbmnecpit m Ah* med W thpw (Pctmdipet m Ah* med 1 KarmrKtmti pst m Ah* med M kmie* ilknme.. pit m Ah* mnl Y Lmamk^ itbemrt p<t m=\"\" ah*=\"\" pn=\"\" a=\"\" urtukilknmrlpet=\"\" rm=\"\" mid=\"\" v=\"\" mwkilbarel=\"\" pet=\"\" ik=\"\" naekubeilbmki=\"\" pat=\"\" h*.=\"\" gn=\"\" 0=\"\" ohodm*p=\"\" ilknnei=\"\" mah*=\"\" med=\"\" i=\"\" sancm*=\"\" ilbmaci=\"\" »=\"\" h*=\"\" l=\"\" lt»tm=\"\" illrsmet=\"\" pit=\"\" 1=\"\" umdcvi=\"\" ilbmnci=\"\" pot=\"\" О=\"\" m«dm=\"\" «ixtmnl=\"\" sktm.=\"\" ilbiliei=\"\" s=\"\" y«m*i».=\"\" tlbwiet.=\"\" .uumrcin=\"\" К=\"\" ihaoclvdmdi=\"\" abb=\"\" r=\"\" ОшЫякл=\"\" ttbemet=\"\" h=\"\" km^d=\"\" ilvtmdi=\"\" put=\"\" ual=\"\" tlbsmei.=\"\" x=\"\" mmamcjifcdmdi=\"\" w=\"\" vtiiindjikdmtip<t=\"\" seed.ifthmdlpet=\"\" ГпИмквihdmdlpet=\"\" к=\"\" dihkibdnlk=\"\" yf=\"\" 7melt=\"\" (ddadt=\"\" *=\"\" 7tktm=\"\" itvdmdi=\"\" ai=\"\" №nk=\"\" tjvdmdi=\"\" mnl=\"\" na*mi1biam\\de<=\"\" an=\"\" cbcne=\"\" ilbmxt=\"\" d=\"\" ii=\"\" or*<i*«mmdt=\"\" amid=\"\" on»m*j=\"\" prahd=\"\" il'rlmdt=\"\" ab*=\"\" %=\"\" momt*=\"\" ixbemt,=\"\" A md V Seod« (lb*K| dx A A Mub lUraxc A 7 Ybky < t bmc. A ft Mmkmntr tbdmdl A med к Tick (Mmdl Editors-in-Chief Anatoliy Go/hcnko Walcn Zukow Co-editors Railodan Muukk-ta Maivk Napicrala Associate Editors Iwona C/.crwinska Pan In к Marius/ Klimcxyk Miroslaua Cicslicka Adam S/ulc Secretary Burtlomicj Nicspod/inski © The Author(s) 2012-2013. IWi elliiw ti p*Xd»d и* Орт Vr«w at Animal U^erli * I duration llrblh md Yfat ef Medomda VikateVlytan « Wadmdn Ihli tUdm t atmrdly b Wedmn Ptimd < lpm Амет Ш« mthbo h thdiihbrd tmdw 0» torn» * the СехИотСтштт Withmfm Ymreemnold lioeno nboh psu*» mi nenremmmiełmr. dtmtkmlen. emiiopedmtienb my mrAimc pmldodlb orlfhkkl mthcris» md mor ar* ordMad cc^ CD©® AMithmlrn Im mad ambbr tb ««k b lb maimn ifrdlad hj the hoIm m Итмг (be ml b mi nay Itml ommdt that Ihn owdai te ym m \\ma mraflhr nmii. Wmmwrild Immey net melhlawml lb r—niritd pefm# 4 Мт» A*» Ifym *trr trmvfonn. я bdld i^m rkf* nmk. son mat tMithpelhrimAbif wmt anti imd»« (bcamrer 4n*ai Imm te ltd« me. Ilertar btm mlkra tpnai m dm. IWm «(Игра *H m dm at Ihr m* 1 f*h*tin IretMlomi tpm n I »•* * okorhmir laWInr). I dll a i hdrdn he It*» m*n mtm ot Ib mmąutm U Ulnar a ~papt * 1лтт\\Ш If«* (1М*т j»d *|da ln«|| (>r*w( «тми I ia* Marolnal tyobnMomrvofir Valy* *e*fi>1i «amdaih W Ibhlhhlnj; llnuw; Radomska Sokoli Wy km n Radomiu. Radom I nłtrrdty In Radean Sir /.uhr/y cilrfo 2 24 tM Rjdom lei; *4* W JW 46 tt? imd orra idu, ul I’rlnflnc llouw: Rjdomtiji SrLob Wyższa n Kadoentai. Radem I nhmth In Radem Mr. /abrryeilet* 2 24-441 Radom Irl: »O iH 38J 6d 05 net* вrm edaol ISBN 9781329876262 Liczba znaków: 716 000 (ze streszczeniami i okładką). liczba grafik: 84 x 1 000 znaków (ryczałt) = 84 000 znaków. Razem: Liczba znaków: 800 000 (ze streszczeniami, okładką i grafikami) = 20,0 arkuszy wydawniczych. Number of characters: 716 000 (with abstracts). Number of images: 84 x 1000 characters (lump sum) = 84 000 characters. Total: Number of characters: 800 000 (with abstracts, summaries and graphics) = 20,0 sheet publications. DOI http://dx.doi.org/10.5281/zenodo.45634 Content: Introduction............................................................................................................................... 5 Mikołajewska Emilia. Incidence of neurogenic heterotopic ossifications in patients with neurological deficits = Występowanie neurogennych skostnień okołostawowych u pacjentów neurologicznych, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zuków Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 7-14. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Mikołajewska Emilia. Use of orthopedic equipment in post-stroke patients as the element of rehabilitation = Wykorzystanie zaopatrzenia ortopedycznego w ramach rehabilitacji u pacjentów po udarze mózgu, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zuków Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013.15-22. ISBN 9781329876002. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport 9781329876002 of Kazimierz Wielki University in Bydgoszcz, Poland. Mikołajewska Emilia. Neurorehabilitation in pediatric stroke = Udar mózgu u dzieci - postępowanie w rehabilitacji neurologicznej, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zuków Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 23-31. ISBN 9781329876002. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Gozhenko Anatoliy, Zuków Walery. Essays on the theory of disease, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zuków Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 32-50. ISBN 9781329876002. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Samosiuk IZ, Chukhraeva EM, Samosiuk NI, Zukow W. Low-intensity physical factors in the treatment of and medical rehabilitation of patients with type 2 diabetes and their effects on lipid metabolism [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 51-60. ISBN 9781329876002. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Mikołajewska Emilia, Mikołajewski Dariusz. Computational approach to neural plasticity of nervous system on system level = Podejście obliczeniowe do neuroplastyczności układu nerwowego na poziomie systemowym, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 61-68. ISBN 9781329876002. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Paprocki Michał, Piekut-Kaluba Katarzyna, Hagner-Derengowska Magdalena, Zukow Walery. Frequency of appearing of side distortions of the spine at students of studies postgraduate of direction physiotherapy exercises = Częstość występowania bocznych skrzywień kręgosłupa u studentów studiów podyplomowych kierunku gimnastyka korekcyjna, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 69-92. ISBN 9781329876002. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Warmińska Magdalena, Łoboda Dorota The physical activity and correct feeding elements a healthy lifestyle of chosen occupational groups = Aktywność fizyczna i prawidłowe żywienie elementami zdrowego stylu życia wybranych grup zawodowych, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 93-105. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Dolomatov SI, Zukow W, Atmazhov ID, Muszkieta R, Skaliy A. The use of biochemical indicators in human saliva for diagnostics periodontitis during pregnancy, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 106-119. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Eksterowicz Jerzy, Napierała Marek, Zukow Walery. Evaluation of the volume of consumption of chosen nutritients during training grouping together students from direction physical education = Ocena wielkości spożycia wybranych składników odżywczych podczas zgrupowania szkoleniowego studentów z kierunku wychowanie fizyczne, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 120-131. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Makarewicz Małgorzta, Drożdż Iwona, Tuszyński Tadeusz. The Effect of Some Bee Products on Microbiological Stability of Fresh Fruit Juices, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 132-146. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Kalisz Karolina, Kalisz Zdzisława, Hagner-Derengowska Magdalena, Zukow Walery, Trela Ewa. Assessment of balance in patients after stroke based on some scales and tests = Ocena równowagi u pacjentów po przebytym udarze mózgu na podstawie wybranych skal i testów, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 147-180. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Dylewski Michał, Hagner-Derengowska Magdalena, Dylewska Monika, Zukow Walery, Hagner Wojciech. Possibilities of proprioceptive assessment in neurological patients using ZEBRIS system [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 181-190. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Babov KD, Gozhenko EA, Starchevskaya TV, Zukow W. To question about mechanism of action of ozone baths in patients with arterial hypertension = К вопросу о механизме действия озоновых ванн у пациентов с артериальной гипертензией, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Himczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 191-202. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is pubUshed with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Piechocka Anna, Trela Ewa, Nalazek Anna, Zukow Walery. Assessment of the effectiveness of the methods used in pain treatment dinic = Ocena skuteczności metod stosowanych w poradni leczenia bólu. [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., PUewska Wiesława Ed., Klimczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 203-223. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is pubUshed with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Lewandowska Magdalena, Trela Ewa, Nalazek Anna, Zukow Walery. Evaluation of nursing care among patients undergoing surgery for lumbar disc herniation cervical = Ocena opieki pielęgniarskiej wśród pacjentów operowanych z powodu dyskopatii szyjnej, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., PUewska Wiesława Ed., Himczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 224-249. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is pubUshed with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Flegontova Veronica, Sheiko VitalU, Morfuntsov Vladimir, Yakovleva Ekaterina, Lvov Aleksandr. Immunologiczne i metaboUczne przełomy u zawodników, uprawiających zapasy Grecko-Rzymskie = Immune and metaboUc shifts in sportsmen going in for Greco-Roman wrestUng. [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., PUewska Wiesława Ed., Himczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 250-263. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is pubUshed with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. StebUuk V., Podolsky A. Hemodynamic effects of audio-visual stimulation in the treatment for patients with arterial hypertension on the background of the syndrome of psycho-emotional stress, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Himczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 264-269. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is pubUshed with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Kędziora Przemysław, Lizis Paweł, Znojek-Tymborowska Justyna, Hagner-Derengowska Magdalena, Szczygielska-Babiuch Anna. Wpływ aktywnej rehabiUtacji na sprawność samoobsługi i lokomocji osób po urazie rdzenia kręgowego = Influence of active rehabiUtation for self­service and locomotion efficiency at peoples past spinal cord injury, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., PUewska Wiesława Ed., Himczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 270-282. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is pubUshed with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Novikov N., Tumansky V.A. Закономерности повреждения и репарации структур аэрогематического барьера при остром респираторном дистресс-синдроме = Injury and repair structures of air-blood barrier in acute respiratory distress syndrome, [in] Czerwińska Pawluk Iwona Ed., Żukowska Hanna Ed., Pilewska Wiesława Ed., Himczyk Mariusz Ed., Szulc Adam Ed., Zukow Walery Ed. Annual Reports of Education, Health and Sport 9781329876262. RSW. Radom 2013. 283-300. ISBN 9781329876262. 304 p. © The Author(s) 2013. This articles is pubUshed with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland. Introduction We hope that a varied program of the Annual Reports of Education, Health and Sport will answer your expectations. We believe that the Annual Reports of Education, Health and Sport will contribute to raising the knowledge, skills and abilities of doctors, therapists, physiotherapists, nurses, psychologists, biologists, researchers, practitioners and health workers interested in rehabilitation, physiotherapy, tourism and recreation. Annual Reports of Education, Health and Sport, corresponding to the modem challenges of global health specialists collect articles from those areas of the leading centers of renowned foreign and domestic. Many of them present state of art in their field. This will be particularly valuable for young doctors in the specialization, and students. Welcome to familiarize yourself with this issue all relevant hazards and health, life and safety at work in tourism, recreation, rehabilitation, physiotherapy, nursing organization to work safely and missions in these conditions, the influence of environmental conditions on public health. Authors from abroad and the country will present an overview of contemporary challenges and solutions in these areas. The issue concerns the text of the wider work for human health, tourism, recreation, physiotherapy, nursing, wellness and rehabilitation, including the economics of health care. © The Author(s) 2013. This articles is published with Open Access at Annual Reports of Education, Health and Sport. RSW. Radom Poland Open Access This articles is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. CE><©<2) Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). Noncommercial — You may not use this work for commercial purposes. Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Discectomy with spinal anesthesia in the third trimester of pregnancy: A case report and literature review",
+      "url": "https://doi.org/10.1177/2050313X251370506",
+      "publisher": "SAGE Open Medical Case Reports",
+      "year": "2025",
+      "doi": "10.1177/2050313X251370506",
+      "abstract": "Low back pain is common during pregnancy, but symptomatic lumbar disc herniation in this period is particularly rare. We report a case of lumbar disc herniation in a 35-year-old woman at 32 weeks of pregnancy, who experienced persistent symptoms despite 6 weeks of rest and medication. Muscle strength in the right L5 nerve root declined to grade 4, and intravenous analgesia was ineffective. After thorough discussions with the patient and her family, a discectomy was performed under spinal anesthesia. Following surgery, the patient’s pain decreased, the Lasegue test became negative, and muscular strength returned to normal 2 weeks post-operation. At 39 weeks of gestation, a cesarean section was performed due to functional dystocia.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.9,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

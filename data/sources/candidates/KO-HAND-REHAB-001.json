@@ -1,0 +1,174 @@
+{
+  "term": "Recovery After Carpal Tunnel Release",
+  "collected": "2026-11-14",
+  "count": 9,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Postoperative Functional Recovery After Carpal Tunnel Release: A Narrative Review on Exercise-Based Rehabilitation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12973252/",
+      "publisher": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.103195",
+      "abstract": "Carpal tunnel release is a commonly performed surgical procedure that effectively alleviates compressive symptoms in patients with carpal tunnel syndrome. However, postoperative recovery of hand function, including grip strength, pinch strength, and coordinated hand use, varies considerably among individuals. This variability indicates that functional recovery is influenced by factors beyond the surgical intervention itself. This narrative review synthesizes the existing literature on postoperative functional recovery following carpal tunnel release, with emphasis on functional outcomes, rehabilitation strategies, and exercise-based interventions. Surgical decompression consistently improves sensory symptoms; however, restoration of hand strength and overall functional performance is frequently delayed and heterogeneous. Although early mobilization is generally considered safe, it does not adequately address persistent deficits in strength, coordination, or endurance. Exercise-based rehabilitation approaches-including nerve and tendon gliding exercises and progressive strengthening-are biologically plausible and potentially relevant to postoperative recovery, yet the existing literature is characterized by variability in study design, intervention protocols, and outcome assessment. Postoperative recovery following carpal tunnel release represents a multifactorial process. Exercise-based rehabilitation is a promising but insufficiently studied modifiable component of postoperative care. Well-designed prospective studies are required to clarify its role in optimizing functional recovery after carpal tunnel surgery.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.64,
+      "providers": [
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The Influence of Corticosteroid Injections on Postoperative Outcomes of Carpal Tunnel Release: A Systematic Review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10411143/",
+      "publisher": "Archives of plastic surgery",
+      "year": "2023",
+      "doi": "10.1055/s-0043-1769739",
+      "abstract": "Background Carpal tunnel syndrome can be treated with corticosteroid injections (CIs) and surgery. In this systematic review, the influence of previous CI on different postoperative outcomes after carpal tunnel release is evaluated. Methods A systematic literature search using several databases was performed to include studies that examined patients diagnosed with carpal tunnel syndrome who received preoperative or intraoperative CIs. Results Of 2,459 articles, 9 were eligible for inclusion. Four papers reported outcomes of preoperative and four outcomes of intraoperative CIs. One study evaluated patients who received both intraoperative and preoperative corticosteroids. Conclusion Intraoperative CIs are associated with reduced postoperative pain after carpal tunnel release and support earlier recovery of the hand function that can be objectified in a faster median nerve conduction speed recovery and lower Boston Carpal Tunnel Questionnaire (BCTQ) scores. Using preoperative CIs did not lead to enhanced recovery after carpal tunnel release, and both preoperative and intraoperative CIs might be predisposing factors for infections.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.02,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Patient-Perceived Time to Recovery After Carpal Tunnel Release",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12962144/",
+      "publisher": "Journal of hand surgery global online",
+      "year": "2026",
+      "doi": "10.1016/j.jhsg.2026.100973",
+      "abstract": "Purpose: Carpal tunnel release (CTR) is the most commonly performed hand surgery procedure, yet there is limited literature on patients’ subjective assessment of full recovery after surgery. Our primary aim was to assess the time until patients report they have achieved full recovery. Methods: Patients who had CTR were prospectively enrolled between January 2019 and August 2020 and completed questionnaires before surgery and at standardized postoperative intervals until full recovery was reported. Study questionnaires included the Likert pain scale; the Quick Disabilities of the Arm, Shoulder and Hand Score (QuickDASH); and the Boston Carpal Tunnel Questionnaire (BCTQ) Symptom Severity Scale (SSS) and Functional Status Scale (FSS). Patients were also asked if they had fully recovered. We performed bivariate analyses to identify variables associated with time to patient-reported full recovery. Results: Fifty-one of 86 total patients completed the study and were included in the final cohort (59%). The mean time to patient-reported full recovery was 5.5 months. Six of 51 patients enrolled (11.8%) did not fully recover by 1 year. The mean Likert pain score, QuickDASH, BCTQ-SSS, and BCTQ-FSS considerably improved from before surgery to full recovery, and the mean differences in these four measures exceeded the minimal clinically important difference. Postoperative scores improved compared with preoperative scores for the four metrics above by 8, 11, 14, and 15 weeks, respectively. Higher preoperative Likert pain score, preoperative QuickDASH, BCTQ-SSS, and BCTQ-FSS were all associated with lack of self-reported full recovery by one year after surgery. Conclusions: Patients did not report full recovery until an average of nearly 6 months after CTR, which is substantial. The reported time to full recovery was notably longer than the time to reach minimal clinically important difference for our patient-reported outcome measures. This may be useful in preoperative discussions about recovery after surgery. Type of study/level of evidence: Prognostic II.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "doaj",
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Association Between Preoperative Nerve Conduction Study Severity and Outcomes After Open Carpal Tunnel Release",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13744391/",
+      "publisher": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.117641",
+      "abstract": "Background Carpal tunnel syndrome (CTS) is a common upper-extremity entrapment neuropathy for which nerve conduction studies (NCS) are widely used to confirm median neuropathy and characterize electrophysiological severity. However, the relationship between preoperative NCS severity and postoperative recovery following carpal tunnel release remains uncertain. This study evaluated the association between preoperative electrophysiological severity and six-month outcomes following open carpal tunnel release. Methods This prospective observational departmental audit included 60 consecutive adult patients with clinically and electrophysiologically confirmed CTS who underwent primary open carpal tunnel release at Kulhudhuffushi Regional Hospital, Maldives. Patients were categorized as having mild, moderate, or severe CTS according to preoperative NCS findings based on the Bland grading system. Outcomes included the Boston Carpal Tunnel Questionnaire (BCTQ), visual analogue scale (VAS) pain score, grip strength, patient satisfaction, and postoperative complications. Outcomes were assessed up to six months following surgery. Associations involving ordinal NCS severity were assessed using Spearman's rank correlation, while the relationship between distal motor latency and six-month BCTQ score was assessed using Pearson's correlation. Results The mean age of the 60 patients was 51.8 ± 10.6 years, and 42 (70.0%) were women. Sixteen patients (26.7%) had mild CTS, 28 (46.7%) had moderate CTS, and 16 (26.7%) had severe CTS. BCTQ and VAS scores improved significantly following surgery across all three severity groups. Six-month BCTQ scores differed significantly among the mild, moderate, and severe groups (1.45 ± 0.41, 1.81 ± 0.58, and 2.50 ± 0.80, respectively; F = 12.33; p < 0.001). Six-month VAS scores (F = 6.59; p = 0.003) and grip strength (F = 6.06; p = 0.004) also differed significantly among severity groups. However, the magnitude of improvement in BCTQ score did not differ significantly among the groups (p = 0.399). Longer symptom duration was associated with greater electrophysiological severity (Spearman's ρ = 0.479; p < 0.001), while greater preoperative distal motor latency was associated with a higher six-month BCTQ score (Pearson's r = 0.520; p < 0.001). Fifty patients (83.3%) were satisfied or very satisfied with their surgical outcome. Conclusions Open carpal tunnel release resulted in substantial symptomatic improvement across all preoperative electrophysiological severity groups. Greater preoperative NCS severity was associated with poorer absolute six-month patient-reported and functional outcomes, although the magnitude of symptomatic improvement was not significantly different among severity groups. Prolonged distal motor latency was moderately associated with higher residual BCTQ scores at six months. These findings suggest that preoperative NCS findings may provide useful prognostic information when counselling patients regarding expected recovery after carpal tunnel release.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Early Functional Outcomes and Recovery of Hand Strength After Carpal Tunnel Release",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13102136/",
+      "publisher": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.107461",
+      "abstract": "Although carpal tunnel release reliably improves symptoms in patients with carpal tunnel syndrome (CTS), the short-term pattern of postoperative recovery in hand strength remains incompletely characterized. Serial measurement of grip and pinch strength, together with patient-reported outcome assessment, may provide a more clinically meaningful description of early recovery after surgery.This prospective observational cohort study included 21 adults with clinically and electrophysiologically confirmed CTS who underwent standardized mini-open carpal tunnel release. All participants followed the same structured 12-week home-based postoperative strengthening protocol beginning in the third postoperative week, following the initial wound-healing period. Grip strength (Jamar hydraulic hand dynamometer) and pinch strength were measured preoperatively and at three, nine, and 15 weeks postoperatively. Symptom severity and functional status were assessed using the Boston Carpal Tunnel Questionnaire (BCTQ) preoperatively and at 15 weeks postoperatively. Longitudinal changes in grip and key pinch strength were analyzed using repeated-measures analysis of variance, while changes in BCTQ symptom severity and functional status scores from baseline to 15 weeks were analyzed using paired-samples t-tests.Grip and key pinch strength demonstrated an early reduction during the postoperative period, followed by progressive improvement at subsequent follow-up assessments. Grip strength declined at three weeks, returned toward preoperative values by nine weeks, and exceeded preoperative values by 15 weeks postoperatively (27.52 ± 9.22 kg preoperatively vs. 32.33 ± 7.77 kg at 15 weeks; p < 0.001), while key pinch strength showed a similar recovery pattern over time (7.33 ± 1.77 kg preoperatively vs. 8.10 ± 1.86 kg at 15 weeks; p < 0.001). Patient-reported outcomes demonstrated marked improvement, with significant reductions in BCTQ symptom severity scores (3.22 ± 0.55 to 1.00 ± 0.00; p < 0.001) and functional status scores (2.79 ± 0.62 to 1.02 ± 0.08; p < 0.001) at follow-up.Early postoperative recovery following carpal tunnel release is characterized by a transient decline in grip and key pinch strength at three weeks, return toward baseline by nine weeks, and improvement beyond baseline by 15 weeks. Objective strength measures and patient-reported outcomes provide complementary information regarding recovery dynamics and may assist clinicians in monitoring early postoperative recovery after carpal tunnel release.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Early Electrophysiological Recovery After Carpal Tunnel Release in Severe Carpal Tunnel Syndrome With Absent Preoperative Nerve Potentials",
+      "url": "https://doi.org/10.1177/15589447261447519",
+      "publisher": "SAGE Publications",
+      "year": "2026",
+      "doi": "10.1177/15589447261447519",
+      "abstract": "Background: In severe cases of carpal tunnel syndrome (CTS), compound muscle action potential (CMAP) and sensory nerve action potential (SNAP) may be absent on preoperative nerve conduction studies (NCS), reflecting advanced nerve damage. Although clinical improvement after carpal tunnel release is common, early electrophysiological recovery in this subgroup and its predictive factors remain poorly defined. This study investigated reappearance of CMAP and SNAP within 3 months after surgery and explored predictors of recovery. Methods: This study included 53 patients with CTS who demonstrated absent CMAP and/or SNAP preoperatively and underwent open carpal tunnel release. All patients had NCS performed within 3 months before surgery and again at 3 months postoperatively. Patients were categorized into recovery and nonrecovery groups based on reappearance of CMAP and/or SNAP. Demographic variables, disease duration, and laboratory parameters were compared between groups. A multivariable logistic regression analysis was performed to identify independent predictors of electrophysiological recovery. Results: At 3 months postoperatively, a subset of patients demonstrated recovery of CMAP and/or SNAP. In the multivariable analysis, younger age ( P < .01) and higher body weight ( P = .04) were independently associated with SNAP recovery, whereas age showed the strongest association with CMAP recovery but did not reach statistical significance. Symptom duration and metabolic laboratory parameters were not independently associated with recovery. Conclusions: Early electrophysiological recovery is achievable even in severe cases of CTS with absent preoperative nerve potentials. Younger age is the strongest predictor of early recovery. These findings provide clinically relevant prognostic information for patients undergoing surgical treatment for advanced CTS.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Analysis of Electrodiagnostic Recovery after Carpal Tunnel Release: A Retrospective Study",
+      "url": "https://doi.org/10.18214/jend.2022.00080",
+      "publisher": "Korean Association of EMG Electrodiagnostic Medicine",
+      "year": "2022",
+      "doi": "10.18214/jend.2022.00080",
+      "abstract": "Objective: We investigated the factors affecting electrodiagnostic (EDX) parameters after carpal tunnel release (CTR).Methods: Thirty-nine cases with clinically diagnosed carpal tunnel syndrome who received CTR and EDX studies before and after CTR were enrolled in this study. We analyzed EDX parameters such as distal onset latency and the amplitude of median compound motor action potentials (CMAPs) and sensory nerve action potentials (SNAPs).Results: Among 39 cases, 24 (61.5%) showed improvement of at least 1 grade, based on Bland’s scale, after CTR. Follow-up EDX studies were performed 6 to 36 months after CTR. Improvement on Bland’s scale was shown in 50% of patients who received follow-up EDX studies at 6 and 12 months after CTR and in all patients who received follow-up at 24 and 36 months. The EDX parameters showed significant recovery. Younger patients showed greater recovery of SNAP amplitude (p = 0.021, r = -0.369) after CTR. The preoperative severe group showed greater recovery of CMAP (both amplitude and latency) than the non-severe group (p = 0.011 and p = 0.038, respectively).Conclusion: We confirmed the effectiveness of CTR through EDX studies. Age and preoperative EDX severity can affect the recovery of EDX parameters after CTR.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Postoperative diagnostic potentials of median nerve strain and applied pressure measurement after carpal tunnel release",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6955092/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2020",
+      "doi": "10.1186/s12891-019-3033-y",
+      "abstract": "Abstract Bakground The objective of this study is to investigate the prognostic values of median nerve strain and applied pressure measurement for the assessment of clinical recovery after carpal tunnel release. Methods Forty-five wrists, from 45 idiopathic carpal tunnel syndrome patients who treated with open carpal tunnel release, were evaluated by ultrasound. Median nerve strain, pressure applied to the skin, and ratio of pressure-strain were measured at the proximal part of the carpal tunnel. In addition, distal latencies in the motor and sensory nerve conductions studies and cross-sectional area of median nerve were measured. The parameters were compared before and after the open carpal tunnel release. According to patient recovery, the receiver operating characteristic curves were generated to evaluate the prognostic values of the parameters. The areas under the receiver operating characteristic curves were compared among parameters. Results There was a significant increase in the median nerve strain, and significant decreases in the pressure applied to the skin and ratio of pressure-strain after carpal tunnel release (P < 0.01). There were significant decreases in the distal latencies and the cross-sectional area after carpal tunnel release (P < 0.01). The areas under the curves were 0.689, 0.773, 0.811, 0.668, 0.637, and 0.562 for the pressure, strain, pressure-strain ratio, motor latency, sensory latency, and area, respectively. Conclusions The results suggest that elasticity of the median nerve and pressure around the nerve recover quickly after carpal tunnel release. Pressure-strain ratio was the most reliable parameter to reflect clinical recovery. The measurement of strain and applied pressure can be useful indicators to evaluate effectiveness of the carpal tunnel release. Trial registration Registered as NCT04027998 at ClinicalTrials.gov. Retrospectively registered on July 22, 2019.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Thenar Recovery After Carpal Tunnel Release with a Silent Cervical Radiculopathy: Three Explanations for Double Crush",
+      "url": "https://europepmc.org/article/PPR/PPR1361598",
+      "publisher": "Preprints.org",
+      "year": "2026",
+      "doi": "10.20944/preprints202611.0653.v1",
+      "abstract": "Electrodiagnostic testing often finds a cervical radiculopathy together with a median neuropathy at the wrist, but coexistence does not show that the lesions interact. A clinically silent C8 or T1 radiculopathy, identified by needle electromyography, may predict incomplete thenar motor recovery after carpal tunnel release without reducing the improvement in symptoms. We distinguish independent lesion burdens, a nonlinear relation between remaining motor capacity and measured function, and biological interaction in which one lesion alters susceptibility or recovery at the other; these explanations can coexist. A numerical illustration shows that independent losses can produce an apparent interaction in measured strength when compensation is exhausted, so a statistical interaction does not establish biological interaction. Compound muscle action potential amplitude does not count surviving axons, and the neurophysiological grade of the wrist lesion is ordinal. We propose a prospective study using standardized nerve conduction studies and needle electromyography at both sites, with serial quantitative thenar strength. The first test is prognostic: whether a matched root lesion adds information about six-month strength beyond baseline function and focal wrist findings. Motor unit estimates paired with force could examine compensation directly.",
+      "licence": "",
+      "kind": "preprint",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

@@ -45,15 +45,23 @@ relationships:
   source_ids:
   - S1
   - S3
+- predicate: AFFECTS
+  target_id: KO-HAND-ANAT-003
+  target_label: Ulnar Nerve
+  source_ids:
+  - S2
+- predicate: AFFECTS
+  target_id: KO-HAND-ANAT-004
+  target_label: Cubital Tunnel
+  source_ids:
+  - S2
+- predicate: DIAGNOSED_BY
+  target_id: KO-HAND-DX-004
+  target_label: Tinel's Sign
+  source_ids:
+  - S1
+  - S2
 proposed_concepts:
-- term: Ulnar Nerve
-  suggested_type: AnatomicalStructure
-  predicate: AFFECTS
-  reason: The nerve squeezed in this condition [S2]; not in the registry yet.
-- term: Cubital Tunnel
-  suggested_type: AnatomicalStructure
-  predicate: AFFECTS
-  reason: The tunnel of tissue at the inside of the elbow where the nerve is squeezed [S2].
 - term: Cubital Tunnel Release (in situ decompression)
   suggested_type: Procedure
   predicate: TREATS
@@ -66,10 +74,6 @@ proposed_concepts:
   suggested_type: Treatment
   predicate: TREATS
   reason: Common non-surgical treatment [S1][S2]. Wrist Splinting (KO-HAND-TRT-001) is a different treatment.
-- term: Tinel's Sign
-  suggested_type: DiagnosticTest
-  predicate: DIAGNOSED_BY
-  reason: Exam test of tapping over the nerve at the elbow [S1][S2].
 sources:
 - id: S1
   title: 'Ulnar Neuropathy at the Elbow: From Ultrasound Scanning to Treatment'
@@ -132,9 +136,9 @@ review:
 safety:
   not_medical_advice: true
   scope_note: General education only. Not a diagnosis or treatment plan.
-version: 0.1.0
+version: 0.1.1
 created: '2026-11-01'
-last_updated: '2026-11-01'
+last_updated: '2026-11-14'
 update_triggers:
 - AAOS OrthoInfo updates its ulnar nerve entrapment (cubital tunnel syndrome) page.
 - A new guideline or systematic review changes advice on splinting, injections, or surgery choice for
@@ -147,6 +151,11 @@ change_log:
   by: OKDS agent (Claude)
   change: Initial AI draft written by the agent from source pack SP-KO-HAND-COND-002 (claude-opus-5-5,
     okds-gen-1.0).
+- version: 0.1.1
+  date: '2026-11-14'
+  by: KO Collector + Claude (Claude Code session)
+  change: 'Proposed concepts that now have KOs became relationships (same sources): affects → Ulnar Nerve
+    (KO-HAND-ANAT-003); affects → Cubital Tunnel (KO-HAND-ANAT-004); diagnosed by → Tinel''s Sign (KO-HAND-DX-004)'
 ---
 
 ## Summary
@@ -230,6 +239,9 @@ See a doctor if your symptoms are severe, or if milder symptoms have lasted more
 - Diagnosed by: Nerve Conduction Study (KO-HAND-DX-001)
 - Often confused with: Carpal Tunnel Syndrome (KO-HAND-COND-001)
 - Proposed topics (not in the registry yet): Ulnar Nerve; Cubital Tunnel; Cubital Tunnel Release; Ulnar Nerve Transposition; Elbow Splinting; Tinel's Sign
+- affects → Ulnar Nerve (KO-HAND-ANAT-003)
+- affects → Cubital Tunnel (KO-HAND-ANAT-004)
+- diagnosed by → Tinel's Sign (KO-HAND-DX-004)
 
 ## References
 1. [S1] Frontiers in Neurology, via PubMed Central. *Ulnar Neuropathy at the Elbow: From Ultrasound Scanning to Treatment.* https://pmc.ncbi.nlm.nih.gov/articles/PMC8160369/ (retrieved 2026-11-01)

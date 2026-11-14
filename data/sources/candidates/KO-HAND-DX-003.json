@@ -1,0 +1,926 @@
+{
+  "term": "Electromyography",
+  "collected": "2026-11-14",
+  "count": 51,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Applications of electromyography in Amyotrophic Lateral Sclerosis: A systematic review",
+      "url": "https://doi.org/10.1371/journal.pone.0350029",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0350029",
+      "abstract": "This systematic review examined the use of surface electromyography (sEMG) for the neuromuscular assessment of individuals with Amyotrophic Lateral Sclerosis (ALS), focusing on clinical parameters, the muscle groups evaluated, acquisition protocols, technical properties of the recording systems, integration with other technologies, and signal processing strategies. We included observational studies that applied sEMG to individuals diagnosed with ALS, with or without comparison to healthy controls, and without restrictions on publication year. The analyses included signals recorded at rest and during voluntary contractions, with or without the use of biofeedback. Most studies employed conventional or high-density surface electrodes, with sampling frequencies ranging from 500 Hz to 3000 Hz. The results showed that the primary parameters assessed were muscle fatigue, fasciculation patterns, the number of motor units (MUNE/MUNIX), motor unit firing rates, and signal complexity. These parameters demonstrated sensitivity to disease progression and may contribute to early diagnosis, phenotypic stratification, and functional monitoring of ALS. Additionally, the studies highlighted the increasing use of advanced computational approaches, such as machine learning, for feature extraction and automated classification. In conclusion, sEMG is a promising tool for functional assessment in ALS, with the potential to improve diagnostic accuracy and support new therapeutic strategies based on electrophysiological biomarkers. However, despite technological advances, the included studies displayed substantial methodological heterogeneity and limited protocol standardization. Integration with other neurophysiological modalities also remains underexplored, despite its significant clinical potential.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.14,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Electromyography in Intraoperative Neurophysiological Monitoring: Principles, Applications, Guidelines and Clinical Relevance",
+      "url": "https://hal.science/hal-05682914v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Electromyography is a central component of intraoperative neurophysiological monitoring because it gives the surgical team real-time information about motor nerves, nerve roots and muscles during procedures in which neural injury is a credible risk. Its clinical value lies not in a single waveform or threshold, but in the way electromyographic information is interpreted alongside anatomy, anaesthesia, surgical manoeuvres and other monitoring modalities. Intraoperative electromyography includes free-running recordings, triggered stimulation, cranial nerve mapping, laryngeal electromyography and muscle-recorded responses used within broader multimodal strategies. These techniques are applied in spinal instrumentation, nerve-root decompression, intradural spinal tumour surgery, vestibular schwannoma and skull-base surgery, thyroid and parathyroid surgery, and selected peripheral nerve operations. The method is highly useful for localising functional neural tissue and detecting irritation, but it is vulnerable to false-positive and false-negative findings when used without technical discipline or clinical context. This critical review examines the principles, applications, professional guidance and clinical relevance of intraoperative electromyography. It argues that electromyography should be understood as a decision-support tool rather than an isolated warning device. Its strongest role is in structured workflows where baseline testing, anaesthetic planning, alert verification, team communication and postoperative outcome audit are all treated as part of the monitoring intervention. Future progress will depend on better standardisation of reporting, more procedure-specific warning criteria, prospective studies linking alerts to surgical responses and patient outcomes, and careful integration of quantitative signal analysis with expert clinical judgement.",
+      "licence": "",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Consensus for experimental design in electromyography (CEDE) project: High-density surface electromyography matrix",
+      "url": "https://hal.science/hal-04736545v1",
+      "publisher": "Journal of Electromyography and Kinesiology",
+      "year": "2022",
+      "doi": "10.1016/j.jelekin.2022.102656",
+      "abstract": "High-density surface electromyography (HDsEMG) can be used to measure the spatial distribution of electrical muscle activity over the skin. As this distribution is associated with the generation and propagation of muscle fiber action potentials, HDsEMG is processed to extract information on regional muscle activation, muscle fiber characteristics and behaviour of individual motor units. This matrix, developed by the Consensus for Experimental Design in Electromyography (CEDE) project, summarizes recommendations on the use of HDsEMG in experimental studies. For each application, recommendations are included regarding electrode montage, electrode type and configuration, electrode location and orientation, data analysis, and interpretation. Cautions and reporting standards are also included. The steps of the Delphi process to reach consensus are contained in an appendix. This matrix is intended to help researchers when collecting, reporting, and interpreting HDsEMG data. It is hoped that this document will be used to generate new empirical evidence to improve how HDsEMG is used in research and in clinical applications. Copyright © 2022 Elsevier Ltd. All rights reserved.",
+      "licence": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Amyotrophic Lateral Sclerosis",
+      "url": "https://medlineplus.gov/amyotrophiclateralsclerosis.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "What is amyotrophic lateral sclerosis (ALS)? Amyotrophic lateral sclerosis (ALS), often called Lou Gehrig's disease, is a disease of the nervous system. It attacks nerve cells called motor neurons in the brain and spinal cord. These neurons send messages from your brain and spinal cord to your voluntary muscles. These are the muscles you can control, such as those in your arms and legs. ALS is a progressive disease, meaning it gets worse over time. As the motor neurons die, they stop sending messages to the muscles. As a result, the muscles become weak, twitch, and waste away. Who is more likely to develop amyotrophic lateral sclerosis (ALS)? ALS can happen at any age, but its symptoms most often begin between ages 55 and 75. There are certain factors that may raise your risk of developing ALS: Being male Being White and not Hispanic Having a family member with ALS What causes amyotrophic lateral sclerosis (ALS)? ALS can be sporadic or familial: Most of the time, ALS is sporadic, meaning that there is no family history of the disease. Researchers don't know what causes this type, but it may be a combination of genetics and environmental factors. Familial ALS is much less common. It is inherited (passed down through families). What are the symptoms of amyotrophic lateral sclerosis (ALS)? The early symptoms of ALS are often mild. They may begin in one arm or leg or in the muscles used for speaking and swallowing. You may notice: Muscle twitches or cramps Stiff or weak muscles in the neck, arm, or leg Trouble walking, running, or writing Slurred speech Trouble chewing or swallowing Over time, weakness spreads to other parts of the body. You gradually lose the ability to move, speak, eat, and breathe on your own. Most people with ALS can still reason, remember, and understand, but some have changes in language, thinking, or behavior. Some may develop a form of dementia known as frontotemporal dementia (FTD-ALS). How is amyotrophic lateral sclerosis (ALS) diagnosed? There is no single test for ALS. Since the symptoms are like those of other diseases, ALS can be hard to diagnose, especially in its early stages. Your health care provider will do a physical exam and a neurological exam and ask about your health history. You may also have tests to rule out other conditions, such as: An electromyography (EMG) and nerve conduction studies (NCS) to check how your nerves and muscles are working An MRI scan of your brain and spinal cord A spinal tap (lumbar puncture) Blood and urine tests How is amyotrophic lateral sclerosis (ALS) treated? There's no treatment to reverse the damage from ALS. But medicines may slow the loss of function, help relieve symptoms, and sometimes help you live longer. A team of providers can help you stay active and independent for as long as possible, with treatments such as: Physical, occupational, and speech therapy Devices to help you communicate A feeding tube, if you can't eat safely Breathing support, such as a mask used during sleep, and later, a breathing machine Most people with ALS die from respiratory failure, often within three to five years after symptoms begin. But some people live 10 years or longer. Support groups and mental health counseling may help you and your family cope with the illness and its impact on your life. Can amyotrophic lateral sclerosis (ALS) be prevented? There is no known way to prevent ALS. If ALS runs in your family, talk with your provider about whether genetic counseling and testing may be right for you. NIH: National Institute of Neurological Disorders and Stroke",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "europepmc",
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Muscular Dystrophy",
+      "url": "https://medlineplus.gov/musculardystrophy.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "What is muscular dystrophy (MD)? Muscular dystrophy (MD) is a group of more than 30 genetic diseases. They cause weakness of the muscles. Over time, the weakness gets worse and can cause trouble walking and doing daily activities. Some types of MD can also affect other organs. What are the types of muscular dystrophy (MD)? There are many different types of MD. Some of the more common types include: Duchenne muscular dystrophy, which is the most common childhood form. It is severe and affects boys more often than girls. The symptoms usually start between ages 3 and 6. Becker muscular dystrophy, which is similar to Duchenne but is less severe and gets worse more slowly. It often starts in the teenage years. Congenital muscular dystrophies, which are present at birth or before age 2. They can be mild or severe. Facioscapulohumeral muscular dystrophy, which often starts in the teenage years. At first, it affects the muscles of the face, shoulders, and upper arms. Each of the types of MD can be different in many ways, such as: Who is more likely to get them Which muscles they affect When they appear, such as in infancy, childhood, middle age, or later What the symptoms are How serious the symptoms are How quickly they get worse Whether they run in families Whether they affect other organs Even within the same type of MD, people can have different symptoms. What causes muscular dystrophy (MD)? MD is genetic, meaning that it caused by a change in one or more genes. Gene changes are also called gene variants or mutations. The gene changes in MD affect proteins that strengthen and protect muscles. There are different gene changes that cause each type of MD. And sometimes people who have the same type of MD can have different gene changes. Muscular dystrophy can run in families, or you can be the first in your family to have a muscular dystrophy. How is muscular dystrophy (MD) diagnosed? To find out if you or your child has MD, your health care provider may use: A medical and family history A physical exam Blood and urine tests, including genetic tests and tests for certain enzymes that may be released by damaged muscles Muscle biopsies Electromyography and nerve conduction studies to find out if muscles are responding the right way to nerve signals Heart testing, such as an electrocardiogram (EKG), since some types of MD can cause heart problems Exercise tests to measure muscle strength and breathing and detect any increased rates of certain chemicals following exercise Imaging tests such as an MRI to look at muscle quality and bulk and measure fatty replacement of muscle tissue What are the treatments for muscular dystrophy (MD)? There is no cure for muscular dystrophy. Treatment can help with the symptoms and prevent complications. It usually includes a combination of therapies, such as: Physical therapy to help keep muscles flexible and strong Occupational therapy to relearn lost motor skills and learn ways to work around weakened muscles Respiratory care, such as breathing exercises, oxygen therapy, and ventilators Speech therapy to help with speech and swallowing problems Assistive devices, such as wheelchairs, splints and braces, and walkers Medicines to help delay damage to muscles or minimize the symptoms of MD Surgery to treat some of the conditions associated with MD, such as heart problems, scoliosis, and cataracts NIH: National Institute of Neurological Disorders and Stroke",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Myasthenia Gravis",
+      "url": "https://medlineplus.gov/myastheniagravis.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "What is myasthenia gravis? Myasthenia gravis, sometimes called MG, is a chronic (long-lasting) disease that causes weakness in your voluntary muscles. The voluntary muscles are the ones that you can control. They include the muscles you use for: Eye and eyelid movement Facial expressions Chewing Talking Swallowing Breathing Moving your arms and legs You can also have weakness in other muscles. This weakness gets worse with activity, and better with rest. Myasthenia gravis is a type of autoimmune disease. In autoimmune diseases, your immune system attacks the healthy cells of your organs and tissues by mistake. What causes myasthenia gravis? Myasthenia gravis is caused by an error in how nerve signals are sent to muscles. These signals get blocked at the nerve-muscle junction. This junction is the place where the nerve endings connect with the muscles they control. Normally, this is how the signals work: The signals travel down a nerve that controls movement in the muscle The nerve endings release a substance called acetylcholine Acetylcholine binds to the muscle tissue at the nerve-muscle junction This causes the muscle to contract (move) But in someone with myasthenia gravis, the body's own immune system makes antibodies that block the binding of acetylcholine to the muscle. This makes the muscles weaker. The thymus gland, which is part of your immune system, may play a role in myasthenia gravis. Normally, your thymus gland is active and growing when you are a child. It makes white blood cells to fight infections. At puberty, it starts getting smaller and is replaced by fat. It is usually small by the time you are an adult. But in many adults with myasthenia gravis, the thymus gland stays large. And some people with myasthenia gravis can get thymomas, which are tumors of the thymus. The are usually benign (not cancer), but they can sometimes become cancerous. Who is more likely to develop myasthenia gravis? Although myasthenia gravis can affect people of any age, it is most common in young adult women (under age 40) and older men (over age 60). It is usually not inherited (passed down in families). Myasthenia gravis normally does not affect infants. But if you are pregnant and have myasthenia gravis it's possible to pass the antibodies to your fetus. The baby can then be born with neonatal myasthenia. This condition is usually temporary, and the symptoms typically go away within two to three months after birth. What are the symptoms of myasthenia gravis? The symptoms of myasthenia gravis will depend on which muscles are affected. The symptoms often include: Weakness of the eye muscles Drooping of one or both eyelids Blurred or double vision Changes in facial expressions Trouble swallowing Shortness of breath Speech problems Weakness in the arms, hands, fingers, legs, and neck Different people have different levels of muscle weakness. And the weakness can vary from day to day. Some days it might be mild, and other days it might be worse. Physical activity often makes the muscle weakness worse. Some people with myasthenia gravis can get severe weakness that affects the muscles that control breathing. This is called a myasthenic crisis, and it is a life-threatening emergency. How is myasthenia gravis diagnosed? There are many other conditions that can cause muscle weakness, so myasthenia gravis can be hard to diagnose. To find out if you have myasthenia gravis, your health care provider: Will ask about your medical history and symptoms Will do a physical exam, including a neurological exam Will likely order tests for myasthenia gravis, including: Blood tests Imaging tests Electromyography (EMG) and nerve conduction studies What are the treatments for myasthenia gravis? There is no cure for myasthenia gravis, but treatments that can improve muscle weakness and help with symptoms. They include: Anticholinesterase medicines, which can improve nerve-to-muscle messages and make muscles stronger. Immunosuppressive medicines, which are medicines that decrease your body's immune system responses. They can lower your body's production of abnormal antibodies. Monoclonal antibodies, which can also help decrease your body's immune system responses. Plasmapheresis (plasma exchange) and intravenous immunoglobulin, which are procedures to remove abnormal antibodies from your blood. They are usually used in severe cases. They can help with symptoms for a few weeks or months. Thymectomy, surgery to remove the thymus gland. It can reduce the symptoms of myasthenia gravis, possibly by rebalancing the immune system. Lifestyle changes may be helpful for some people. The changes could include regular gentle exercise, getting enough rest, and eating healthy foods. Some people with myasthenia gravis go into remission. This means that they do not have symptoms. The remission is usually temporary, but sometimes it can be permanent. NIH: National Institute of Neurological Disorders and Stroke",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Spinal Muscular Atrophy",
+      "url": "https://medlineplus.gov/spinalmuscularatrophy.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "What is spinal muscular atrophy (SMA)? Spinal muscular atrophy (SMA) is a group of genetic diseases that damages and kills motor neurons. Motor neurons are a type of nerve cell in the spinal cord and lower part of the brain. They control movement in your arms, legs, face, chest, throat, and tongue. As the motor neurons die off, your muscles start to weaken and atrophy (waste away). The muscle damage gets worse over time and can affect speaking, walking, swallowing, and breathing. What are the types of spinal muscular atrophy (SMA) and what are their symptoms? There are different types of SMA. They are based on how serious the disease is and when the symptoms start: Type l is also called Werdnig-Hoffman disease or infantile-onset SMA. It is the most severe type. It is also the most common. Babies with this type usually show signs of the disease before 6 months of age. In more severe cases, the signs show up even before or just after birth (Types 0 or 1A). The babies may have trouble swallowing and breathing and may not move around a lot. They have chronic shortening of muscles or tendons (called contractures). They usually cannot sit up without help. Without treatment, many children with this type will die before 2 years of age. Type ll is a moderate to severe type of SMA. It usually first noticed between 6 and 18 months of age. Most children with this type can sit without support but cannot stand or walk without help. They may also have trouble breathing. They can usually live into adolescence or young adulthood. Type lll is also called Kugelberg-Welander disease. It is the mildest type that affects children. The signs of the disease usually show up after age 18 months. Children with this type can walk by themselves but may have trouble running, getting up from a chair, or climbing stairs. They may also have scoliosis (curvature of the spine), contractures, and respiratory infections. With treatment, most children with this type will have a normal lifespan. Type IV is rare and often mild. It usually causes symptoms after 21 years of age. The symptoms include mild to moderate leg muscle weakness, tremors, and mild breathing problems. The symptoms slowly get worse over time. People with this type of SMA have a normal lifespan. What causes spinal muscular atrophy (SMA)? Most types of SMA are caused by a change in the SMN1 gene. This gene is responsible for making a protein that the motor neurons need to be healthy and to function. But when part of the SMN1 gene is missing or abnormal, there isn't enough protein for the motor neurons. This causes the motor neurons to die off. Most people have two copies of the SM1 gene - one from each parent. SMA normally only happens when both copies have the gene change. If only one copy has the change, there usually aren't any symptoms. But that gene could be passed down from parent to child. Some of the less common types of SMA may be caused by changes in other genes. How is spinal muscular atrophy (SMA) diagnosed? Your health care provider may use many tools to diagnose SMA: A physical exam A medical history, including asking about family history Genetic testing to check for the gene changes that cause SMA Electromyography and nerve conduction studies and a muscle biopsy may be done, especially if no gene changes were found Parents who have a family history of SMA may want to do a prenatal test to check to see whether their baby has an SMN1 gene change. An amniocentesis or in some cases a chorionic villi sampling (CVS) is used to get the sample for testing. In some states, genetic testing for SMA is part of newborn screening tests. What are the treatments for spinal muscular atrophy (SMA)? There is no cure for SMA. Treatments can help manage symptoms and prevent complications. They may include: Medicines to help the body make more of the proteins that the motor neurons need Gene therapy for children under 2 years of age Physical, occupational, and rehabilitation therapy to help to improve posture and the mobility of the joints. These therapies may also improve blood flow and slow muscle weakness and atrophy. Some people may also need therapy for trouble speaking, chewing, and swallowing. Assistive devices such as supports or braces, orthotics, speech synthesizers, and wheelchairs to help people stay more independent Good nutrition and a balanced diet to help maintain weight and strength. Some people might need a feeding tube in order to get the nutrition they need. Breathing support for people who have muscle weakness in the neck, throat, and chest. The support may include devices to help with breathing during the day and to prevent sleep apnea at night. Some people might need to be on a ventilator. NIH: National Institute of Neurological Disorders and Stroke",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Acute Flaccid Myelitis",
+      "url": "https://medlineplus.gov/acuteflaccidmyelitis.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "What is acute flaccid myelitis (AFM)? Acute flaccid myelitis (AFM) is a neurologic disease. It is rare, but serious. It affects an area of the spinal cord called gray matter. This can cause the muscles and reflexes in the body to become weak. Because of these symptoms, some people call AFM a \"polio-like\" illness. But it is different from polio. AFM is not caused by polioviruses. What causes acute flaccid myelitis (AFM)? AFM can be caused by several different viruses. Researchers think that enteroviruses have been causing the recent increases in the number of children with AFM. AFM can also be caused by other viruses, including flaviviruses, herpesviruses, and adenoviruses. Most people with AFM had a mild respiratory illness or fever (like you would get from a viral infection) before they got AFM. Who is more likely to develop acute flaccid myelitis (AFM)? Anyone can get AFM, but most cases (more than 90%) have been in young children. What are the symptoms of acute flaccid myelitis (AFM)? Most people with AFM will suddenly have: Arm or leg weakness A loss of muscle tone and reflexes Some people also have other symptoms, including: Facial drooping/weakness Trouble moving the eyes Drooping eyelids Trouble swallowing Slurred speech Pain in the arms, legs, back, or neck Sometimes AFM can weaken the muscles that you need for breathing. This can lead to respiratory failure, which is very serious. If you get respiratory failure, you may need to use a ventilator (breathing machine) to help you breathe. If you or your child develops any of these symptoms, get medical care right away. How is acute flaccid myelitis (AFM) diagnosed? AFM causes many of the same symptoms as other neurologic diseases, such as transverse myelitis and Guillain-Barre syndrome. This can make it difficult to diagnose. To find out if you have AFM, your doctor may use: A neurologic exam, including looking at where there is weakness, poor muscle tone, and decreased reflexes An MRI to look at the spinal cord and brain Lab tests on the cerebrospinal fluid (the fluid around the brain and spinal cord) Nerve conduction and electromyography (EMG) studies. These tests check nerve speed and the response of muscles to the messages from the nerves. It is important that the tests are done as soon as possible after the symptoms start. What are the treatments for acute flaccid myelitis (AFM)? There is no specific treatment for AFM. A doctor who specializes in treating brain and spinal cord illnesses (neurologist) may recommend treatments for specific symptoms. For example, physical and/or occupational therapy may help with arm or leg weakness. Researchers do not know the long-term outcomes of people who get AFM. Can acute flaccid myelitis (AFM) be prevented? There is no specific way to prevent AFM. But you can take steps to prevent getting sick from a virus by: Washing your hands often with soap and water Avoiding touching your face with unwashed hands Avoiding close contact with people who are sick Cleaning and disinfecting surfaces that you frequently touch, including toys Covering coughs and sneezes with a tissue or upper shirt sleeve, not hands Staying home when sick Centers for Disease Control and Prevention",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Interpreting Signal Amplitudes in Surface Electromyography Studies in Sport and Rehabilitation Sciences",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758546/",
+      "publisher": "Frontiers in physiology",
+      "year": "2017",
+      "doi": "10.3389/fphys.2017.00985",
+      "abstract": "Surface electromyography (sEMG) is a popular research tool in sport and rehabilitation sciences. Common study designs include the comparison of sEMG amplitudes collected from different muscles as participants perform various exercises and techniques under different loads. Based on such comparisons, researchers attempt to draw conclusions concerning the neuro- and electrophysiological underpinning of force production and hypothesize about possible longitudinal adaptations, such as strength and hypertrophy. However, such conclusions are frequently unsubstantiated and unwarranted. Hence, the goal of this review is to discuss what can and cannot be inferred from comparative research designs as it pertains to both the acute and longitudinal outcomes. General methodological recommendations are made, gaps in the literature are identified, and lines for future research to help improve the applicability of sEMG are suggested.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Surface electromyography signal processing and classification techniques",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/",
+      "publisher": "Sensors (Basel, Switzerland)",
+      "year": "2013",
+      "doi": "10.3390/s130912431",
+      "abstract": "Electromyography (EMG) signals are becoming increasingly important in many applications, including clinical/biomedical, prosthesis or rehabilitation devices, human machine interactions, and more. However, noisy EMG signals are the major hurdles to be overcome in order to achieve improved performance in the above applications. Detection, processing and classification analysis in electromyography (EMG) is very desirable because it allows a more standardized and precise evaluation of the neurophysiological, rehabitational and assistive technological findings. This paper reviews two prominent areas; first: the pre-processing method for eliminating possible artifacts via appropriate preparation at the time of recording EMG signals, and second: a brief explanation of the different methods for processing and classifying EMG signals. This study then compares the numerous methods of analyzing EMG signals, in terms of their performance. The crux of this paper is to review the most recent developments and research studies related to the issues mentioned above.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.12,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Protocol for a single-blind randomized controlled clinical trial to investigate the feasibility and safety of in-bed self-exercises based on electromyography sensor feedback in patients with subacute stroke",
+      "url": "https://doi.org/10.1371/journal.pone.0310178",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0310178",
+      "abstract": "Background: The dosage and intensity of physical therapy are crucial factors influencing the motor recovery of the hemiplegic lower limb in patients with subacute stroke. Biofeedback using wearable sensors may provide opportunities for patients with stroke to effectively guide self-exercises with monitoring of muscular activities in hemiplegic lower limbs. This study aims to explore the feasibility and safety of in-bed self-exercises based on electromyography sensor feedback in patients with subacute stroke. Methods: This is a pilot randomized controlled trial comparing conventional physical therapy with additional in-bed self-exercises based on electromyography sensor feedback and conventional physical therapy alone. The interventions will be adjusted according to the muscle strength and Brunnstrom recovery stage in the hemiplegic lower limbs. The primary outcome measure is the Pittsburgh Rehabilitation Participation Scale. The secondary outcome measures include the number and percentage of participating sessions, number and percentage of effortful sessions, number and percentage of successful sessions, mean amplitude of muscle contractions in a session, duration and percentage of participating sessions during self-exercises, Rivermead Motor Assessment, Manual Muscle Test, Brunnstrom recovery stage, Fugl–Meyer assessment, Berg Balance Scale, Functional Ambulation Category, modified Rankin scale, and Short-Form Health Survey 36 version 2. Results: The results will be described in future studies. Conclusion: This clinical trial will estimate the feasibility and safety of in-bed self-exercises based on electromyography sensor feedback in patients with subacute stroke. If the expected results are achieved in this study, stroke rehabilitation methods will be enriched. Trial registration: clinicialtrials.gov, NCT05820815.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.96,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "UROREC: A cystometry and electromyography recording system for analyzing urinary incontinence parameters in rat models",
+      "url": "https://doi.org/10.1371/journal.pone.0356999",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0356999",
+      "abstract": "Preclinical research on the lower urinary tract relies heavily on murine models, which necessitates specialized equipment for acquiring concurrent electromyography and cystometry. However, commercial systems are often expensive and bulky, requiring dedicated workstations. These limitations hinder the reproducibility of complex urodynamic studies and restrict experimental accessibility. To address these limitations, we present the UROREC system, which is an accessible, compact, and reliable data acquisition platform designed to simultaneously record electromyography of the external urethral sphincter and intravesical pressure. We established the system’s robustness through benchtop electrical characterization and validated it via in vivo proof-of-concept pilot experiments in urethane-anesthetized female Wistar rats. Electrical testing confirmed a common-mode rejection ratio of 98.4 dB, an input-referred noise of 1.53 µV RMS, and linearity of R2 = 0.9999. Meanwhile, the pressure sensor exhibited a maximum hysteresis of 0.29% at full scale. In vivo, the device reliably digitized electromyography signals at 20 ksps and pressure signals at 100 sps in both a healthy physiological state and an acetic acid–induced overactive bladder model. UROREC precisely quantified 18 cystometric and electromyographic parameters consistent with the existing literature. The robustness of these in vivo recordings was confirmed by quantifying the signal-to-noise ratio, demonstrating high operational reliability and data integrity across all experimental sessions. Furthermore, the system accurately captured high sensitivity to specific pathophysiological shifts induced by acid instillation, with a significant reduction in both the inter-contraction interval (p < 0.001) and tonic activity duration (p < 0.001). These results validate UROREC as a robust, cost-effective alternative that makes high-fidelity urodynamic monitoring more accessible and promotes methodological reproducibility in lower urinary tract research.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Surface electromyography as a non-invasive method for detecting stress-induced changes in gastrointestinal motility in pigs",
+      "url": "https://doi.org/10.1371/journal.pone.0358481",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0358481",
+      "abstract": "Surface electromyography of the gastrointestinal tract is a non-invasive method for monitoring smooth muscle myoelectrical activity and provides an integrated assessment of gastrointestinal motility. Although prolonged or marked stress is known to impair digestive efficiency in livestock, partly via cortisol-mediated modulation of gastrointestinal smooth muscle activity, it remains unclear whether a single mild stressor can induce detectable alterations in motility. Therefore, this study aimed to determine whether a single mild, experimentally induced stressor alters gastrointestinal motility in pigs and whether surface electromyographic measurements are sufficiently sensitive to detect these changes. Four growing pigs were examined using a within-individual experimental design on a baseline control day and on a treatment day involving intravenous administration of adrenocorticotropic hormone (10 micrograms per kilogram body weight) to induce a mild stress response. Gastrointestinal smooth muscle electrical activity was recorded non-invasively using surface electromyography, and repeated blood samples were collected to determine serum cortisol concentrations over time. Adrenocorticotropic hormone administration produced a clear, time-dependent increase in serum cortisol concentrations, confirming the effectiveness of the experimental stress model. This endocrine response was accompanied by a significant reduction in small intestinal smooth muscle activity, whereas gastric and large intestinal activity showed no statistically significant changes, although a consistent tendency toward reduced motility was observed under stress. These findings indicate that small intestinal myoelectrical activity is particularly sensitive to mild endocrine stress and demonstrate that non-invasive surface electromyography can detect stress-related alterations in gastrointestinal function. This approach may provide a useful tool for investigating stress physiology and monitoring digestive function in livestock.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Biofeedback in rehabilitation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3687555/",
+      "publisher": "Journal of neuroengineering and rehabilitation",
+      "year": "2013",
+      "doi": "10.1186/1743-0003-10-60",
+      "abstract": "This paper reviews the literature relating to the biofeedback used in physical rehabilitation. The biofeedback methods used in rehabilitation are based on biomechanical measurements and measurements of the physiological systems of the body. The physiological systems of the body which can be measured to provide biofeedback are the neuromuscular system, the respiratory system and the cardiovascular system. Neuromuscular biofeedback methods include electromyography (EMG) biofeedback and real-time ultrasound imaging (RTUS) biofeedback. EMG biofeedback is the most widely investigated method of biofeedback and appears to be effective in the treatment of many musculoskeletal conditions and in post cardiovascular accident (CVA) rehabilitation. RTUS biofeedback has been demonstrated effective in the treatment of low back pain (LBP) and pelvic floor muscle dysfunction. Cardiovascular biofeedback methods have been shown to be effective in the treatment of a number of health conditions such as hypertension, heart failure, asthma, fibromyalgia and even psychological disorders however a systematic review in this field has yet to be conducted. Similarly, the number of large scale studies examining the use of respiratory biofeedback in rehabilitation is limited. Measurements of movement, postural control and force output can be made using a number of different devices and used to deliver biomechanical biofeedback. Inertial based sensing biofeedback is the most widely researched biomechanical biofeedback method, with a number of studies showing it to be effective in improving measures of balance in a number of populations. Other types of biomechanical biofeedback include force plate systems, electrogoniometry, pressure biofeedback and camera based systems however the evidence for these is limited. Biofeedback is generally delivered using visual displays, acoustic or haptic signals, however more recently virtual reality (VR) or exergaming technology have been used as biofeedback signals. VR and exergaming technology have been primarily investigated in post-CVA rehabilitation, however, more recent work has shown this type of biofeedback to be effective in improving exercise technique in musculoskeletal populations. While a number of studies in this area have been conducted, further large scale studies and reviews investigating different biofeedback applications in different clinical populations are required.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.62,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Chinese sign language recognition based on surface electromyography and motion information",
+      "url": "https://doi.org/10.1371/journal.pone.0295398",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0295398",
+      "abstract": "Sign language (SL) has strong structural features. Various gestures and the complex trajectories of hand movements bring challenges to sign language recognition (SLR). Based on the inherent correlation between gesture and trajectory of SL action, SLR is organically divided into gesture-based recognition and gesture-related movement trajectory recognition. One hundred and twenty commonly used Chinese SL words involving 9 gestures and 8 movement trajectories, are selected as research and test objects. The method based on the amplitude state of surface electromyography (sEMG) signal and acceleration signal is used for vocabulary segmentation. The multi-sensor decision fusion method of coupled hidden Markov model is used to complete the recognition of SL vocabulary, and the average recognition rate is 90.41%. Experiments show that the method of sEMG signal and motion information fusion has good practicability in SLR.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Dimensionality reduction for classification of object weight from electromyography",
+      "url": "https://doi.org/10.1371/journal.pone.0255926",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0255926",
+      "abstract": "Electromyography (EMG) is a simple, non-invasive, and cost-effective technology for measuring muscle activity. However, multi-muscle EMG is also a noisy, complex, and high-dimensional signal. It has nevertheless been widely used in a host of human-machine-interface applications (electrical wheelchairs, virtual computer mice, prosthesis, robotic fingers, etc.) and, in particular, to measure the reach-and-grasp motions of the human hand. Here, we developed an automated pipeline to predict object weight in a reach-grasp-lift task from an open dataset, relying only on EMG data. In doing so, we shifted the focus from manual feature-engineering to automated feature-extraction by using pre-processed EMG signals and thus letting the algorithms select the features. We further compared intrinsic EMG features, derived from several dimensionality-reduction methods, and then ran several classification algorithms on these low-dimensional representations. We found that the Laplacian Eigenmap algorithm generally outperformed other dimensionality-reduction methods. What is more, optimal classification accuracy was achieved using a combination of Laplacian Eigenmaps (simple-minded) and k-Nearest Neighbors (88% F1 score for 3-way classification). Our results, using EMG alone, are comparable to other researchers’, who used EMG and EEG together, in the literature. A running-window analysis further suggests that our method captures information in the EMG signal quickly and remains stable throughout the time that subjects grasp and move the object.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Developing a pain intensity prediction model using facial expression: A feasibility study with electromyography",
+      "url": "https://doi.org/10.1371/journal.pone.0235545",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0235545",
+      "abstract": "The automatic detection of facial expressions of pain is needed to ensure accurate pain assessment of patients who are unable to self-report pain. To overcome the challenges of automatic systems for determining pain levels based on facial expressions in clinical patient monitoring, a surface electromyography method was tested for feasibility in healthy volunteers. In the current study, two types of experimental gradually increasing pain stimuli were induced in thirty-one healthy volunteers who attended the study. We used a surface electromyography method to measure the activity of five facial muscles to detect facial expressions during pain induction. Statistical tests were used to analyze the continuous electromyography data, and a supervised machine learning was applied for pain intensity prediction model. Muscle activation of corrugator supercilii was most strongly associated with self-reported pain, and the levator labii superioris and orbicularis oculi showed a statistically significant increase in muscle activation when the pain stimulus reached subjects’ self -reported pain thresholds. The two strongest features associated with pain, the waveform length of the corrugator supercilii and levator labii superioris, were selected for a prediction model. The performance of the pain prediction model resulted in a c-index of 0.64. In the study results, the most detectable difference in muscle activity during the pain experience was connected to eyebrow lowering, nose wrinkling and upper lip raising. As the performance of the prediction model remains modest, yet with a statistically significant ordinal classification, we suggest testing with a larger sample size to further explore the variables that affect variation in expressiveness and subjective pain experience.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Can we decode phonetic features in inner speech using surface electromyography?",
+      "url": "https://doi.org/10.1371/journal.pone.0233282",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0233282",
+      "abstract": "Although having a long history of scrutiny in experimental psychology, it is still controversial whether wilful inner speech (covert speech) production is accompanied by specific activity in speech muscles. We present the results of a preregistered experiment looking at the electromyographic correlates of both overt speech and inner speech production of two phonetic classes of nonwords. An automatic classification approach was undertaken to discriminate between two articulatory features contained in nonwords uttered in both overt and covert speech. Although this approach led to reasonable accuracy rates during overt speech production, it failed to discriminate inner speech phonetic content based on surface electromyography signals. However, exploratory analyses conducted at the individual level revealed that it seemed possible to distinguish between rounded and spread nonwords covertly produced, in two participants. We discuss these results in relation to the existing literature and suggest alternative ways of testing the engagement of the speech motor system during wilful inner speech production.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Using Electromyography to Assess Postural Load in Dentistry: A Literature Review",
+      "url": "https://hal.science/hal-05285026v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2020",
+      "doi": "",
+      "abstract": "This study sought to perform a review of the literature on the use of electromyography to assess postural load in dental work. The literature used in this review was obtained from databases and only articles published published between 1991 and 2019 were considered. The main keywords were “electromyography,” \"working posture”, “ergonomics” and “muscle activity”. Each abstract was read to determine whether the information in the article included discussions on the use of electromyography to assess postural load in dental work (n=27). It was found that electromyography is beneficial to assess the influence of different devices used in dental work, however, as it has limitations, researchers must be aware of them to seek alternatives to circumvent them.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "International consensus on the assessment of bruxism: Report of a work in progress",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6287494/",
+      "publisher": "Journal of oral rehabilitation",
+      "year": "2018",
+      "doi": "10.1111/joor.12663",
+      "abstract": "In 2013, consensus was obtained on a definition of bruxism as repetitive masticatory muscle activity characterised by clenching or grinding of the teeth and/or by bracing or thrusting of the mandible and specified as either sleep bruxism or awake bruxism. In addition, a grading system was proposed to determine the likelihood that a certain assessment of bruxism actually yields a valid outcome. This study discusses the need for an updated consensus and has the following aims: (i) to further clarify the 2013 definition and to develop separate definitions for sleep and awake bruxism; (ii) to determine whether bruxism is a disorder rather than a behaviour that can be a risk factor for certain clinical conditions; (iii) to re-examine the 2013 grading system; and (iv) to develop a research agenda. It was concluded that: (i) sleep and awake bruxism are masticatory muscle activities that occur during sleep (characterised as rhythmic or non-rhythmic) and wakefulness (characterised by repetitive or sustained tooth contact and/or by bracing or thrusting of the mandible), respectively; (ii) in otherwise healthy individuals, bruxism should not be considered as a disorder, but rather as a behaviour that can be a risk (and/or protective) factor for certain clinical consequences; (iii) both non-instrumental approaches (notably self-report) and instrumental approaches (notably electromyography) can be employed to assess bruxism; and (iv) standard cut-off points for establishing the presence or absence of bruxism should not be used in otherwise healthy individuals; rather, bruxism-related masticatory muscle activities should be assessed in the behaviour's continuum.",
+      "licence": "cc by-nc",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Corticospinal excitability measurements using transcranial magnetic stimulation are valid with intramuscular electromyography",
+      "url": "https://doi.org/10.1371/journal.pone.0172152",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0172152",
+      "abstract": "Objectives: Muscular targets that are deep or inaccessible to surface electromyography (sEMG) require intrinsic recording using fine-wire electromyography (fEMG). It is unknown if fEMG validly record cortically evoked muscle responses compared to sEMG. The purpose of this investigation was to establish the validity and agreement of fEMG compared to sEMG to quantify typical transcranial magnetic stimulation (TMS) measures pre and post repetitive TMS (rTMS). The hypotheses were that fEMG would demonstrate excellent validity and agreement compared with sEMG. Materials and methods: In ten healthy volunteers, paired pulse and cortical silent period (CSP) TMS measures were collected before and after 1200 pulses of 1Hz rTMS to the motor cortex. Data were simultaneously recorded with sEMG and fEMG in the first dorsal interosseous. Concurrent validity (r and rho) and agreement (Tukey mean-difference) were calculated. Results: fEMG quantified corticospinal excitability with good to excellent validity compared to sEMG data at both pretest (r = 0.77–0.97) and posttest (r = 0.83–0.92). Pairwise comparisons indicated no difference between sEMG and fEMG for all outcomes; however, Tukey mean-difference plots display increased variance and questionable agreement for paired pulse outcomes. CSP displayed the highest estimates of validity and agreement. Paired pulse MEP responses recorded with fEMG displayed reduced validity, agreement and less sensitivity to changes in MEP amplitude compared to sEMG. Change scores following rTMS were not significantly different between sEMG and fEMG. Conclusion: fEMG electrodes are a valid means to measure CSP and paired pulse MEP responses. CSP displays the highest validity estimates, while caution is warranted when assessing paired pulse responses with fEMG. Corticospinal excitability and neuromodulatory aftereffects from rTMS may be assessed using fEMG.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Three-Way Analysis of Spectrospatial Electromyography Data: Classification and Interpretation",
+      "url": "https://doi.org/10.1371/journal.pone.0127231",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0127231",
+      "abstract": "Classifying multivariate electromyography (EMG) data is an important problem in prosthesis control as well as in neurophysiological studies and diagnosis. With modern high-density EMG sensor technology, it is possible to capture the rich spectrospatial structure of the myoelectric activity. We hypothesize that multi-way machine learning methods can efficiently utilize this structure in classification as well as reveal interesting patterns in it. To this end, we investigate the suitability of existing three-way classification methods to EMG-based hand movement classification in spectrospatial domain, as well as extend these methods by sparsification and regularization. We propose to use Fourier-domain independent component analysis as preprocessing to improve classification and interpretability of the results. In high-density EMG experiments on hand movements across 10 subjects, three-way classification yielded higher average performance compared with state-of-the art classification based on temporal features, suggesting that the three-way analysis approach can efficiently utilize detailed spectrospatial information of high-density EMG. Phase and amplitude patterns of features selected by the classifier in finger-movement data were found to be consistent with known physiology. Thus, our approach can accurately resolve hand and finger movements on the basis of detailed spectrospatial information, and at the same time allows for physiological interpretation of the results.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Electromyography data for non-invasive naturally-controlled robotic hand prostheses",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4421935/",
+      "publisher": "Scientific data",
+      "year": "2014",
+      "doi": "10.1038/sdata.2014.53",
+      "abstract": "Recent advances in rehabilitation robotics suggest that it may be possible for hand-amputated subjects to recover at least a significant part of the lost hand functionality. The control of robotic prosthetic hands using non-invasive techniques is still a challenge in real life: myoelectric prostheses give limited control capabilities, the control is often unnatural and must be learned through long training times. Meanwhile, scientific literature results are promising but they are still far from fulfilling real-life needs. This work aims to close this gap by allowing worldwide research groups to develop and test movement recognition and force control algorithms on a benchmark scientific database. The database is targeted at studying the relationship between surface electromyography, hand kinematics and hand forces, with the final goal of developing non-invasive, naturally controlled, robotic hand prostheses. The validation section verifies that the data are similar to data acquired in real-life conditions, and that recognition of different hand tasks by applying state-of-the-art signal features and machine-learning algorithms is possible.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.16,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Gait analysis using wearable sensors",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3304165/",
+      "publisher": "Sensors (Basel, Switzerland)",
+      "year": "2012",
+      "doi": "10.3390/s120202255",
+      "abstract": "Gait analysis using wearable sensors is an inexpensive, convenient, and efficient manner of providing useful information for multiple health-related applications. As a clinical tool applied in the rehabilitation and diagnosis of medical conditions and sport activities, gait analysis using wearable sensors shows great prospects. The current paper reviews available wearable sensors and ambulatory gait analysis methods based on the various wearable sensors. After an introduction of the gait phases, the principles and features of wearable sensors used in gait analysis are provided. The gait analysis methods based on wearable sensors is divided into gait kinematics, gait kinetics, and electromyography. Studies on the current methods are reviewed, and applications in sports, rehabilitation, and clinical diagnosis are summarized separately. With the development of sensor technology and the analysis method, gait analysis using wearable sensors is expected to play an increasingly important role in clinical applications.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Neurological Manifestations of COVID-19 Associated Multi-system Inflammatory Syndrome in Children: A Systematic Review and Meta-analysis",
+      "url": "http://jnhrc.com.np/index.php/jnhrc/article/view/3410/1059",
+      "publisher": "Journal of Nepal Health Research Council",
+      "year": "2021",
+      "doi": "10.33314/jnhrc.v19i1.3410",
+      "abstract": "Background: Children comprise only 1–5% of COVID-19 cases. Recent studies have shown that COVID-19 associated multisystem inflammatory syndrome in children (MIS-C) can present with neurological signs and symptoms. In this systematic review and meta-analysis, we have reviewed neurological involvement in these patients. Methods: A comprehensive electronic literature search was done on PubMed, Google Scholar, Embase, Cochrane database, and SCOPUS for the published English language articles from December 1, 2019, to February 28, 2021. A meta-analysis of the proportion was expressed as a pooled proportion with a 95% confidence interval (CI). Representative forest plots showing individual studies and the combined effect size were generated to provide an overview of the results. Results: This systematic review and meta-analysis analyzed 15 published MIS-C studies with a total of 785 patients. Neurological manifestations in patients with MIS-C was found in 27.1%. We found that 27% developed headaches, 17.1% developed meningism/meningitis and 7.6 % developed encephalopathy. Other uncommon neurological manifestations of MIS-C includes anosmia, seizures, cerebellar ataxia, global proximal muscle weakness and bulbar palsy. In MIS-C patients with neurological feature, neuroimaging showed signal changes in the splenium of the corpus callosum. Electroencephalography showed slow wave pattern and nerve conduction studies and electromyography showed mild myopathic and neuropathic changes. Conclusions: Our study revealed that neurological manifestations are not uncommon in patients with MIS-C. Further large prospective studies are needed to better explore the disease spectrum and to unravel the underlying pathophysiology.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.94,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Machine Learning Algorithms Comparison for Hand sEMG-recorded Movements Classification",
+      "url": "https://hal.science/hal-05046648v1",
+      "publisher": "HAL open archive",
+      "year": "2025",
+      "doi": "",
+      "abstract": "This study explores several machine learning methodologies to effectively classify distinct hand gestures using data collected by a gauntlet embedded with multiple surface electromyography (sEMG) sensors placed to capture muscle activation patterns. The analysis includes correlations between sensor data, filtering techniques, and a variety of machine learning algorithms. These efforts had the goal of identifying approaches that could facilitate the development of a commercially viable device. By evaluating the classification accuracy and computational efficiency of each method during the validation phase, this study seeks to identify techniques to be used for further refinement in this kind of product.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Sports Injuries: Biomechanical Data Analysis and Prevention",
+      "url": "https://zenodo.org/records/17507962",
+      "publisher": "Zenodo",
+      "year": "2025",
+      "doi": "10.5281/zenodo.17507962",
+      "abstract": "Sports injuries remain a major concern in both professional and recreational athletics, leading to significant physical, psychological, and economic consequences. Recent advances in biomechanics have provided a powerful framework for analyzing movement patterns, loading mechanisms, and tissue responses associated with sports-related injuries. This paper explores how biomechanical data analysis contributes to the understanding and prevention of sports injuries. Using motion capture systems, force plates, electromyography, and wearable sensors, researchers can quantify kinematic and kinetic variables that reveal underlying risk factors such as improper joint alignment, asymmetrical loading, or excessive repetitive forces. By integrating these biomechanical indicators with machine learning algorithms, predictive models can be developed to identify athletes at higher risk before injury occurs. The paper further reviews intervention strategies, including neuromuscular training, equipment design modifications, and individualized biomechanical feedback systems. Case studies from sports such as soccer, running, and basketball demonstrate how biomechanical insights have successfully reduced injury rates through targeted prevention programs. Ultimately, the synthesis of biomechanical data with modern computational tools represents a paradigm shift from reactive to proactive injury management. This approach not only enhances athletic performance but also promotes long-term musculoskeletal health. The findings underscore the need for interdisciplinary collaboration between biomechanists, sports scientists, medical professionals, and data analysts to create comprehensive injury-prevention ecosystems supported by empirical evidence.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Increased brown adipose tissue oxidative capacity in cold-acclimated humans",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4213359/",
+      "publisher": "The Journal of clinical endocrinology and metabolism",
+      "year": "2014",
+      "doi": "10.1210/jc.2013-3901",
+      "abstract": "Context Recent studies examining brown adipose tissue (BAT) metabolism in adult humans have provided convincing evidence of its thermogenic potential and role in clearing circulating glucose and fatty acids under acute mild cold exposure. In contrast, early indications suggest that BAT metabolism is defective in obesity and type 2 diabetes, which may have important pathological and therapeutic implications. Although many mammalian models have demonstrated the phenotypic flexibility of this tissue through chronic cold exposure, little is known about the metabolic plasticity of BAT in humans. Objective Our objective was to determine whether 4 weeks of daily cold exposure could increase both the volume of metabolically active BAT and its oxidative capacity. Design Six nonacclimated men were exposed to 10°C for 2 hours daily for 4 weeks (5 d/wk), using a liquid-conditioned suit. Using electromyography combined with positron emission tomography with [(11)C]acetate and [(18)F]fluorodeoxyglucose, shivering intensity and BAT oxidative metabolism, glucose uptake, and volume before and after 4 weeks of cold acclimation were examined under controlled acute cold-exposure conditions. Results The 4-week acclimation protocol elicited a 45% increase in BAT volume of activity (from 66 ± 30 to 95 ± 28 mL, P Conclusions These findings demonstrate that daily cold exposure not only increases the volume of metabolically active BAT but also increases its oxidative capacity and thus its contribution to cold-induced thermogenesis.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Employing EMG sensors in Bionic limbs based on a New Binary Trick Method",
+      "url": "http://sjuoz.uoz.edu.krd/index.php/sjuoz/article/view/1027",
+      "publisher": "Science Journal of University of Zakho",
+      "year": "2023",
+      "doi": "10.25271/sjuoz.2023.11.1.1027",
+      "abstract": "Human muscles can be read by using electromyography (EMG) sensors, which are electrical signals generated by the muscles of human and animal bodies. This means it is possible to use electricity generated by muscles to control actuators/servo motors for any specific tasks. This could support a wide range of applications, especially for people with disabilities. One such application would be making bionic limbs based on servo motors. According to a study held by the K4D helpdesk report based on estimations that 15.3% of the world’s population has a moderate or severe disability, this proportion is likely to increase to 18-20% in conflict- affected areas (Thompson, 2017). The goal of this study is to make bionic limbs affordable by minimizing the cost while maintaining accuracy at an acceptable rate. To achieve this goal, the study proposes a new idea for using electromyography (EMG) sensors in bionic limbs, which suggests a decrease in the number of EMG sensors to decrease the cost and power consumption. Decreasing the number of EMG sensors will result in a loss of accuracy in controlling actuators (servo motors) because usually, each sensor is responsible for activating one servo motor. In normal projects, one will need at least six EMG sensors to control six servo motors. The study will use only three EMG sensors to control/activate six servo motors depending on the binary trick idea suggested by this study, which is manipulating all three input signals from EMG sensors at once and then deciding which servo motor to activate by using a supervised machine learning technique such as K-nearest neighbors (kNN).",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Electromyography-informed musculoskeletal modeling provides new insight into hand tendon forces during tennis forehand",
+      "url": "https://hal.science/hal-04136109v1",
+      "publisher": "Scandinavian Journal of Medicine and Science in Sports",
+      "year": "2023",
+      "doi": "10.1111/sms.14434",
+      "abstract": "Lateral epicondylitis, also known as tennis elbow, is a major health issue among tennis players. This musculo-skeletal disorder affects hand extensor tendons, results in substantial pain and impairments for sporting and everyday activities and requires several weeks of recovery. Unfortunately, prevention remains limited by the lack of data regarding biomechanical risk factors, especially because in vivo evaluation of hand tendon forces remains challenging. Electromyography-informed musculo-skeletal modeling is a noninvasive approach to provide physiological estimation of tendon forces based on motion capture and electromyography but was never applied to study hand tendon loading during tennis playing. The objective of this study was to develop such electromyography-informed musculo-skeletal model to provide new insight into hand tendon loading in tennis players. The model was tested with three-dimensional kinematics and electromyography data of two players performing forehand drives at two-shot speeds and with three rackets. Muscle forces increased with shot speed but were moderately affected by racket properties. Wrist prime extensors withstood the highest forces, but their relative implication compared to flexors depended on the player-specific grip force and racket motion strategy. When normalizing wrist extensor forces by shot speed and grip strength, up to threefold differences were observed between players, suggesting that gesture technique, for example, grip position or joint motion coordination, could play a role in the overloading of wrist extensor tendons. This study provided a new methodology for in situ analysis of hand biomechanical loadings during tennis gesture and shed a new light on lateral epicondylitis risk factors.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Real-time lower leg muscle forces estimation using a Hill-type model and whole-body wearable sensors",
+      "url": "https://zenodo.org/records/10722444",
+      "publisher": "Zenodo",
+      "year": "2023",
+      "doi": "10.5281/zenodo.10722444",
+      "abstract": "The estimation of the forces produced by muscles is an aspect of great interest in several fields, e.g., rehabilitation, human-machine interface and sports, where it is pivotal to estimate the muscle forces produced by the human biomechanics control system. Since muscles are the engines of human motion, the scientific community is actively involved in studying methods to model muscles in order to simulate human motions. In our preliminary study, we built a computational model for the contraction dynamics estimation of three muscles of the lower leg (tibialis anterior, gastrocnemius lateralis, gastrocnemius medialis). Acquisition data have been gathered by using the iFeel technology (IMU nodes and sensorized portable shoes) developed by the Artificial and Mechanical Intelligence (AMI) of the Italian Institute of Technology and a off-the-shelf system of surface electromyography (EMGs). The architecture has been implemented on the middleware YARP for both the in-lab sensors and the EMGs tool.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Novel Graphene Electrode for Electromyography Using Wearables Based on Smart Textiles",
+      "url": "https://inria.hal.science/hal-04308394v1",
+      "publisher": "HAL open archive",
+      "year": "2022",
+      "doi": "10.1007/978-3-031-07520-9_19",
+      "abstract": "Studies show that biofeedback increases patient proprioception in physical rehabilitation training, improving outcomes; surface Electromyography (sEMG) is particularly appealing as it enables accurate progress evaluation and instant feedback. Furthermore, extending the rehabilitation processes to patients’ homes has been shown to increase the quality of the recovery process. This led research to move towards telerehabilitation, however, usability remains an issue in sEMG biofeedback, mainly because of the electrode materials. This work proposes a novel electrode, designed using a Shieldex Technik-Tex P130+B conductive fabric substrate, spray-coated with graphene to reduce the contact impedance with the skin. Experimental evaluation was performed in a population of 16 subjects with ages ranging from 20 to 50 years; results show up to 97% correlation and less than 3 dB (in average) degradation of the signal quality comparatively to standard pre-gelled Ag/AgCl electrodes.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "A Dynamic Submaximal Fatigue Protocol Alters Wrist Biomechanical Properties and Proprioception",
+      "url": "https://zenodo.org/records/7031223",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.3389/fnhum.2022.887270",
+      "abstract": "Fatigue is a temporary condition that arises as a result of intense and/or prolonged use of muscles and can affect skilled human performance. Therefore, the quantitative analysis of these effects is a topic of crucial interest in both ergonomics and clinical settings. This study introduced a novel protocol, based on robotic techniques, to quantitatively assess the effects of fatigue on the human wrist joint. A wrist manipulandum was used for two concurrent purposes: (1) implementing the fatigue task and (2) assessing the functional changes both before and at four time points after the end of the fatigue task. Fourteen participants completed the experimental protocol, which included the fatigue task and assessment sessions over 2 days. Specifically, the assessments performed are related to the following indicators: (1) isometric forces, (2) biomechanical properties of the wrist, (3) position sense, and (4) stretch reflexes of the muscles involved. The proposed fatigue task was a short-term, submaximal and dynamic wrist flexion/extension task designed with a torque opposing wrist flexion. A novel task termination criterion was employed and based on a percentage decrease in the mean frequency of muscles measured using surface electromyography. The muscle fatigue analysis demonstrated a change in mean frequency for both the wrist flexors and extensors, however, only the isometric flexion force decreased 4 min after the end of the task. At the same time point, wrist position sense was significantly improved and stiffness was the lowest. Viscosity presented different behaviors depending on the direction evaluated. At the end of the experiment (about 12 min after the end of the fatigue task), wrist position sense recovered to pre-fatigue values, while biomechanical properties did not return to their pre-fatigue values. Due to the wide variety of fatigue tasks proposed in the literature, it has been difficult to define a complete framework that presents the dynamic of fatigue-related changes in different components associated with wrist function. This work enables us to discuss the possible causes and the mutual relationship of the changes detected after the same task.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Investigating User Perceptions Towards Wearable Mobile Electromyography",
+      "url": "https://inria.hal.science/hal-04215531v1",
+      "publisher": "HAL open archive",
+      "year": "2021",
+      "doi": "10.1007/978-3-030-85610-6_20",
+      "abstract": "Wearables capture physiological user data, enabling novel user interfaces that can identify users, adapt to the user state, and contribute to the quantified self. At the same time, little is known about users’ perception of this new technology. In this paper, we present findings from a user study (N = 36) in which participants used an electromyography (EMG) wearable and a visualization of data collected from EMG wearables. We found that participants are highly unaware of what EMG data can reveal about them. Allowing them to explore their physiological data makes them more reluctant to share this data. We conclude with deriving guidelines, to help designers of physiological data-based user interfaces to (a) protect users’ privacy, (b) better inform them, and (c) ultimately support the uptake of this technology.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "EEG dataset and OpenBMI toolbox for three BCI paradigms: an investigation into BCI illiteracy",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6501944/",
+      "publisher": "GigaScience",
+      "year": "2019",
+      "doi": "10.1093/gigascience/giz002",
+      "abstract": "Background Electroencephalography (EEG)-based brain-computer interface (BCI) systems are mainly divided into three major paradigms: motor imagery (MI), event-related potential (ERP), and steady-state visually evoked potential (SSVEP). Here, we present a BCI dataset that includes the three major BCI paradigms with a large number of subjects over multiple sessions. In addition, information about the psychological and physiological conditions of BCI users was obtained using a questionnaire, and task-unrelated parameters such as resting state, artifacts, and electromyography of both arms were also recorded. We evaluated the decoding accuracies for the individual paradigms and determined performance variations across both subjects and sessions. Furthermore, we looked for more general, severe cases of BCI illiteracy than have been previously reported in the literature. Results Average decoding accuracies across all subjects and sessions were 71.1% (± 0.15), 96.7% (± 0.05), and 95.1% (± 0.09), and rates of BCI illiteracy were 53.7%, 11.1%, and 10.2% for MI, ERP, and SSVEP, respectively. Compared to the ERP and SSVEP paradigms, the MI paradigm exhibited large performance variations between both subjects and sessions. Furthermore, we found that 27.8% (15 out of 54) of users were universally BCI literate, i.e., they were able to proficiently perform all three paradigms. Interestingly, we found no universally illiterate BCI user, i.e., all participants were able to control at least one type of BCI system. Conclusions Our EEG dataset can be utilized for a wide range of BCI-related research questions. All methods for the data analysis in this study are supported with fully open-source scripts that can aid in every step of BCI technology. Furthermore, our results support previous but disjointed findings on the phenomenon of BCI illiteracy.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Scanning Electromyography",
+      "url": "https://doi.org/10.5772/25975",
+      "publisher": "InTech",
+      "year": "2012",
+      "doi": "10.5772/25975",
+      "abstract": "This work was supported by the Regional Health Ministry of the Government of Navarre under the project 1312/2010. The study of the anatomy and physiology of the motor unit has important implications in the diagnosis and follow-up of neuromuscular pathologies. Muscle action potentials allow the use of electrophysiological techniques based on electromyography (EMG) to make inferences about muscle structure, state and behaviour. Scanning EMG is one such technique that can record the temporal and spatial distribution of electrical activity of a single motor unit, allowing for deep insight into the structure and function of motor units. In this chapter, we describe the scanning EMG technique in detail, both from a technical and clinical point of view. A brief review of the motor unit anatomy and physiology is provided in Section 2. The technique, the apparatus setup, the recording procedure and the signal processing required are described in Section 3. Key results of studies using scanning EMG are reviewed in Section 4, including findings related to motor unit organisation in normal muscle and how changes due to pathology are reflected using this electrophysiological technique. Finally, Section 5 provides some hints regarding the use of scanning EMG in research.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Techniques of EMG signal analysis: detection, processing, classification and applications",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1455479/",
+      "publisher": "Biological procedures online",
+      "year": "2006",
+      "doi": "10.1251/bpo115",
+      "abstract": "Electromyography (EMG) signals can be used for clinical/biomedical applications, Evolvable Hardware Chip (EHW) development, and modern human computer interaction. EMG signals acquired from muscles require advanced methods for detection, decomposition, processing, and classification. The purpose of this paper is to illustrate the various methodologies and algorithms for EMG signal analysis to provide efficient and effective ways of understanding the signal and its nature. We further point up some of the hardware implementations using EMG focusing on applications related to prosthetic hand control, grasp recognition, and human computer interaction. A comparison study is also given to show performance of various EMG signal analysis methods. This paper provides researchers a good understanding of EMG signal and its analysis procedures. This knowledge will help them develop more powerful, flexible, and efficient applications.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The basics of electromyography",
+      "url": "https://doi.org/10.1136/jnnp.2005.069211",
+      "publisher": "BMJ",
+      "year": "2005",
+      "doi": "10.1136/jnnp.2005.069211",
+      "abstract": "Electromyography (EMG), the recording of electrical activity in muscle, should be regarded as an extension of the clinical examination. It can distinguish myopathic from neurogenic muscle wasting and weakness. It can detect abnormalities such as chronic denervation or fasciculations in clinically normal muscle. It can, by determining the distribution of neurogenic abnormalities, differentiate focal nerve, plexus, or radicular pathology; and it can provide supportive evidence of the pathophysiology of peripheral neuropathy, either axonal degeneration or demyelination. EMG is an obligatory investigation in motor neurone disease to demonstrate the widespread denervation and fasciculation required for secure diagnosis. Recordings are made with a disposable concentric needle electrode inserted into the muscle. A fine wire in the axis of the needle is insulated from the shaft, the end of the needle being cut at an acute angle. The area of the recording surface determines the volume of muscle that the needle can “see”. Conventional EMG needles record from a hemisphere of radius of about 1 mm. Within this volume there are some 100 muscle fibres. The many hundreds of muscle fibres belonging to one motor unit are distributed widely throughout the cross section of the muscle and, therefore, within the pick-up region of the needle there may be just 4–6 fibres of a single motor unit. Analysis of the waveforms and firing rates of single motor or multiple motor units can give diagnostic information. Electromyographers are skilled at interpreting both the appearance of muscle activity and the sound of the activity transmitted through a loud speaker. Normal resting muscle is silent. Patients often have difficulty completely relaxing a muscle. The motor unit activity associated with incomplete relaxation is distinguished from abnormal spontaneous activity by its rhythmicity. Motor units when first recruited or on the point of being de-recruited fire regularly at 6–10 spikes …",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "An unsupervised classification method of uterine electromyography signals: Classification for detection of preterm deliveries",
+      "url": "https://hal.science/hal-02432741v1",
+      "publisher": "Journal of Obstetrics and Gynaecology Research",
+      "year": "2009",
+      "doi": "10.1111/j.1447-0756.2008.00981.x",
+      "abstract": "Aim: This article proposes an unsupervised classification method that can be applied to the electromyography signal of uterine contractions for the detection of preterm birth. Methods: The frequency content of the electromyography changes from one woman to another, and during pregnancy, so wavelet decomposition is first used to extract the parameters of each contraction, and an unsupervised statistical classification method based on Fisher's test is used to classify the events. A principal component analysis projection is then used as evidence of the groups resulting from this classification. Another method of classification based on a competitive neural network is also applied on the same signals. Both methods are compared. Results: Results show that uterine contractions may be classified into independent groups according to their frequency content and according to term (either at recording or at delivery).",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "The effects of vibrotexture insoles on anticipatory postural adjustments during a bilateral rapid arm raise task in healthy younger and older adults",
+      "url": "https://hal.science/hal-05774012v1",
+      "publisher": "Journal of Electromyography and Kinesiology",
+      "year": "2026",
+      "doi": "10.1016/j.jelekin.2026.103195",
+      "abstract": "Sensory-stimulating insoles that deliver a single-sensory stimulus (texture or vibration) can improve standing balance. Vibrotexture insoles combine both stimuli, but their effects on anticipatory postural adjustments (APAs) during internal perturbation tasks remain unclear. The aim was to investigate the effects of vibrotexture insoles on APAs during bilateral rapid arm-raises in healthy younger and older adults. Thirty healthy younger (16 males, 23.6 ± 3.9 years) and thirty healthy older (14 males; 69.8 ± 5.8 years) adults performed rapid, bilateral arm-raises wearing four different insoles (vibrotexture, vibrating, textured, and control). Balance outcomes included time to onset and peak centre of pressure (COP) displacement, and COP displacement and position on the force platform. Surface electromyography of the deltoid, gluteus medius, biceps femoris, and medial gastrocnemius were recorded to determine onset of muscle activity. COP and electromyography outcomes were analysed using a linear mixed model, with Bonferroni adjustment. There were no differences in balance or electromyography outcomes between the vibrotexture and other insole conditions. An isolated difference in onset of biceps femoris activity was observed between vibrating and textured insoles in younger adults (p = 0.001); however, no other COP or muscle activity outcomes differed between insoles. Vibrotexture insoles may not alter APAs during rapid bilateral arm-raises in healthy adults.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Carbon monoxide poisoning-induced myositis",
+      "url": "https://www.ejcrim.com/index.php/EJCRIM/article/view/5874",
+      "publisher": "European Journal of Case Reports in Internal Medicine",
+      "year": "2025",
+      "doi": "10.12890/2025_005874",
+      "abstract": "Introduction: Carbon monoxide (CO) poisoning is common and potentially life-threatening. While neurological and systemic complications are well recognized, muscle involvement, such as myositis, is rare. Case presentation: We report a 38-year-old man with no prior medical history who suffered CO poisoning after inhaling motorcycle exhaust in a closed garage, presenting in coma. He received intensive care and hyperbaric oxygen therapy. One month later, he experienced persistent right thigh myalgia and quadriceps weakness. Laboratory tests were normal, but magnetic resonance imaging (MRI) revealed T2 and fat saturation hypersignal with gadolinium enhancement in the vastus lateralis over 9 cm, consistent with active myositis. Electromyography and X-ray were unremarkable. Other causes, including drug-induced myositis, inflammatory myopathies, and endocrine disorders, were excluded. Treatment with anti-inflammatory medications and rest alleviated pain, though mild weakness persisted. Follow-up MRI at 4 months showed regression of the lesions. Discussion: CO-induced myositis results from tissue hypoxia via the high affinity of CO for myoglobin and inhibition of cytochrome oxidases, sometimes exacerbated by compression during coma. Diagnosis relies on clinical history, elevated muscle enzymes, and MRI, which provides a non-invasive alternative to biopsy. Conclusion: Myositis is a rare complication of CO poisoning. Early recognition and hyperbaric oxygen therapy are essential, with MRI serving as a valuable diagnostic tool to guide management and monitor recovery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Effect of Smartphone Addiction on Scapular Position and Muscle Activation During Shoulder Abduction in Asymptomatic Subjects",
+      "url": "https://doi.org/10.12674/ptk.2025.32.1.46",
+      "publisher": "Physical Therapy Korea",
+      "year": "2025",
+      "doi": "10.12674/ptk.2025.32.1.46",
+      "abstract": "Background: Portable, small computers and smartphones are now considered essential tools in modern society and smartphone ownership and usage rates are rising every year. However, excessive smartphone use can have musculoskeletal and postural implications, leading to “smartphone addiction” and related dysfunctions. Objects: This study aimed to investigate the effects of smartphone addiction on scapular position and muscle activity during shoulder abduction in asymptomatic individuals. Methods: A total of 45 participants were classified into high-risk, middle-risk, and low-risk groups based on their smartphone addiction levels. Scapular position was measured using the scapular index, round shoulder posture (RSP), lateral scapular slide test, and scapulohumeral rhythm spine angle. Muscle activity was assessed using electromyography of the upper trapezius (UT), lower trapezius (LT), serratus anterior (SA), and anterior deltoid (AD) muscles during shoulder abduction. Results: Smartphone addiction was significantly associated with altered scapular position and muscle activity. The high-risk group exhibited greater forward head posture and more pronounced RSP. Additionally, the high-risk group had lower SA activation and higher UT, LT, and AD muscle activity, indicating compensatory mechanisms due to altered scapular positioning. Conclusion: These findings suggest that excessive smartphone use contributes to postural deviations and altered muscle activation patterns, which may lead to musculoskeletal dysfunction over time. Clinicians should consider smartphone use when assessing patients with scapular dysfunction, and future studies should explore interventions to mitigate these effects.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Endurance and electromyographic assessment of abdominopelvic motor control in women with primary dysmenorrhea: a cross-sectional study",
+      "url": "https://doi.org/10.1038/s41598-024-79729-w",
+      "publisher": "Scientific Reports",
+      "year": "2024",
+      "doi": "10.1038/s41598-024-79729-w",
+      "abstract": "Abstract Primary dysmenorrhea (PD), a prevalent menstrual condition characterized by pelvic pain during the menstrual cycle, significantly impacts the quality of life of women and produces increased pain sensitivity that can persist throughout the menstrual cycle. However, scientific literature has not studied whether there are implications for alterations in muscle function and endurance in the abdominopelvic region during the non-painful phases of the menstrual cycle. The aim of this study was to compare muscle function and endurance capacity in the abdominopelvic region in women with PD versus women without this condition. An observational, cross-sectional study was designed to analyze muscle activation and endurance capacity using electromyography (EMG) during McGill exercises. Forty-four women were included, 22 with PD and 22 without dysmenorrhea. The results did not indicate significant differences in muscle activation and endurance of the abdominopelvic musculature between the two groups (p > 0.05). However, the analysis suggests that women with primary dysmenorrhea might develop compensatory strategies that allow them to maintain physical function despite their condition. These results suggest that the approach to PD could focus more on pain management rather than physical functionality, and more studies are needed from a comprehensive approach to more accurately evaluate the relationship between PD and muscle function.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Paced breathing and respiratory movement responses evoked by bidirectional constant current stimulation in anesthetized rabbits",
+      "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2022.1109892/full",
+      "publisher": "Frontiers in Bioengineering and Biotechnology",
+      "year": "2023",
+      "doi": "10.3389/fbioe.2022.1109892",
+      "abstract": "Objective: Diaphragm pacing (DP) is a long-term and effective respiratory assist therapy for patients with central alveolar hypoventilation and high cervical spinal cord injury. The existing DP system has some limitations, especially high price, inconvenience preoperative evaluation methods and diaphragm fatigue easily. Our objective was to develop a DP system and evaluated reliability through hardware testing and animal experiments.Methods: A DP system with bidirectional constant current was designed, manufactured and tested. Effects of a wide range of stimulus amplitudes (range: .5–2.5 mA) and frequencies (range: 10–250 Hz) on airflow and corresponding inspired volume were investigated during DP. Differences in airflow characteristics under various stimulation parameters were evaluated using power function. ECG interference in diaphragm electromyography (EMGdi) was filtered out using stationary wavelet transform to obtain pure EMGdi (EMGdip). 80-min period with a tendency for diaphragm fatigue by root mean square (RMS) and centroid frequency (fc) of EMGdip was studied.Results: The increase of stimulus frequency and amplitude in animals resulted in different degrees of increase in envoked volume. Significant difference in Airflow Index (b) between anesthesia and DP provided a simple, non-invasive and feasible solution for phrenic nerve conduction function test. Increased stimulation duration with the developed DP system caused less diaphragm fatigue.Conclusion: A modular, inexpensive and reliable DP was successfully developed. Its effectiveness was confirmed in animal experiments.Significance: This study is useful for design of future implantable diaphragmatic pacemakers for improving diaphragm fatigue and convenient assessment of respiratory activity in experiments.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Reliability and Validity of the Heel Rise Test Using the Mobile Application",
+      "url": "http://aassjournal.com/article-1-1173-en.pdf",
+      "publisher": "Annals of Applied Sport Science",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Background. The heel-rise test is a measurement method that can evaluate the muscle endurance and muscle fatigue of the plantar flexor. On the other hand, there is a limit to quantifying the criteria because the evaluation method and criteria differ according to the measurement conditions. Objectives. The purpose of this study is to compare the validity and reliability of the smartphone-based measurement application compared to the standardized surface electromyography (sEMG) for measuring muscle fatigue during the heel-rise test. Methods. Fifty-seven adults in their 20s participated in the heel-rise test twice a week apart. The concurrent validity for muscle fatigue during the heel-rise test was measured using surface sEMG and 'Calf raise' application, and analyzed through correlation analysis. The intra-rater reliability and inter-rater reliability of the ‘Calf raise’ application were analyzed using ICC. Results. The Pearson correlation coefficient between the 'Calf raise' application and sEMG showed a statistically significant correlation of r=0.509 for both loss (%) and slope value (p<0.01). The ‘Calf raise’ application showed high intra-rater reliability for loss (%) and slope value with ICC (2,1) = 0.986 and 0.987 respectively. It also showed high inter-rater reliability for loss (%) and slope value with ICC (2,1) =0.946 and 0.926. Conclusion. The smartphone-based 'Calf rise' application can be usefully used in clinical practice as an evaluation tool capable of not only quantitative evaluation of counting the number of heel-rise tests but also qualitative evaluation of muscle fatigue.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Static protocol for multiclass SVM classification of hand grasping movements",
+      "url": "https://hal.science/hal-05850853v1",
+      "publisher": "HAL open archive",
+      "year": "2020",
+      "doi": "",
+      "abstract": "This work is dedicated to the analysis and identification of hand movements using the surface electromyography signals (sEMG) of the forearm muscles. We present the combination of multiclass SVM with sigmoid function and a single feature to identify hand grasping movement. Myo Armband sEMG sensors are used for data acquisitions and two different protocols are defined: static and dynamic ones. The sequences of binary grasping movement, open/close, and multi grasping ones, rest/open/closed, are studied. Entropy is used as a single feature of sEMG signals and classification is performed by using SVM multiclass algorithm with one single optimization processing. A comparison between different protocols (dynamic and static ones) is realized. Furthermore, a discussion is proposed about overlapped window size and window step to calculate entropy characteristics. Our solution for hand gesture classification simplifies the signal analysis, increases the multi-gesture separability and has a low computational cost.",
+      "licence": "https://hal.science/licences/copyright/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Acute effects of partial-body vibration in sitting position",
+      "url": "https://zenodo.org/records/6475128",
+      "publisher": "World Journal of Orthopedics",
+      "year": "2018",
+      "doi": "10.5281/zenodo.6475128",
+      "abstract": "AIM To investigate the acute effects of sinusoidal and stochastic resonance partial-body vibration in sitting position, including muscle activity, heart rate variability, balance and flexibility. METHODS Fifty healthy participants were assigned randomly to two training conditions: A sinusoidal partial-body vibration (SIN, 8 Hz) or a stochastic resonance partial-body vibration (STOCH, 8 ± 2 Hz). For baseline assessment participants sat on the vibration platform without vibration. Both training conditions consisted of five series of a one-minute vibration training and a one-minute break between them. In this experimental study surface electromyography (EMG) of the erector spinae (ES), one of the back muscles, and heart rate variability (HRV) was measured at baseline and during training. Balance and flexibility were assessed at baseline and immediately after training. Balance was measured with the modified star excursion balance test (mSEBT) and flexibility was assessed through the modified fingertip-to-floor method (mFTF). RESULTS Paired sample t-test showed a significant increase in balance that was restricted to STOCH (t = -2.22, P = 0.018; SIN: t = -0.09, P = 0.466). An increase in flexibility was also restricted to STOCH (t = 2.65, P = 0.007; SIN: t = 1.41, P = 0.086). There was no significant change of muscle activity in the ES-EMG in STOCH or SIN conditions. In both training conditions, HRV decreased significantly, but remained in a low-load range (STOCH: t = 2.89, P = 0.004; SIN: t = 2.55, P = 0.009). CONCLUSION In sitting position, stochastic resonance partial-body vibration can improve balance and flexibility while cardiovascular load is low. STOCH can be a valuable training option to people who are unable to stand (e.g., people, who are temporarily wheelchair-bound).",
+      "licence": "cc-by-nc-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Electromyographic assessment of paratonia",
+      "url": "https://zenodo.org/records/1205913",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.1007/s00221-016-4854-7",
+      "abstract": "Many years after its initial description, paratonia remains a poorly understood concept. It is described as the inability to relax muscles during muscle tone assessment with the subject involuntary facilitating or opposing the examiner. Although related to cognitive impairment and frontal lobe function, the underlying mechanisms have not been clarified. Moreover, criteria to distinguish oppositional paratonia from parkinsonian rigidity or spasticity are not yet available. Paratonia is very frequently encountered in clinical practice and only semi-quantitative rating scales are available. The purpose of this study is to assess the feasibility of a quantitative measure of paratonia using surface electromyography. Paratonia was elicited by performing consecutive metronome-synchronized continuous and discontinuous elbow movements in a group of paratonic patients with cognitive impairment. Goniometric and electromyographic recordings were performed on biceps and triceps brachii muscles. Facilitatory (mitgehen) and oppositional (gegenhalten) paratonia could be recorded on both muscles. After normalization with voluntary maximal contraction, biceps showed higher paratonia than triceps. Facilitatory paratonia was higher than oppositional on the biceps. Movement repetition induced increased paratonic burst amplitude only when flexion and extension movements were performed continuously. Both facilitatory and oppositional paratonia increased with movement repetition. Only oppositional paratonia increased following faster movements. This is the first study providing a quantitative and objective characterization of paratonia using electromyography. Unlike parkinsonian rigidity, oppositional paratonia increases with velocity and with consecutive movement repetition. Like spasticity, oppositional paratonia is velocity-dependent, but different from spasticity, it increases during movement repetition instead of decreasing. A quantitative measure of paratonia could help better understanding its pathophysiology and could be used for research purposes on cognitive impairment.",
+      "licence": "zenodo-freetoread-1.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Multi-MUP Analysis of Palatal Muscles in Healthy Men",
+      "url": "http://jtsm.org/archives/archive-detail/article-preview/multi-mup-analysis-of-palatal-muscles-in-healthy-m/7699",
+      "publisher": "Türk Uyku Tıbbı Dergisi",
+      "year": "2014",
+      "doi": "10.4274/jtsm.09",
+      "abstract": "Introduction: The palatal muscles play an important role in the patency of upper airway together with other pharyngeal muscles. Studying their function will be helpful for delineating the pathophysiology of disorders affecting the upper airway patency like obstructive sleep apne syndrome. Materials and Methods: Eight healthy volunteer men were involved in this study. Anthropological data and electromyographic (EMG) studies including the rise time, amplitude, duration, area, thickness, number of phases and turns of motor unit potentials (MUPs) were evaluated. Results: The mean age was 40.25±9.11 years, the mean body mass index (BMI) was 23.64±2.51 kg/m2, and the mean neck circumference was 36.75±2.49 cms. The rise time and duration of MUPs were shorter; the amplitude, area and thickness of MUPs were smaller in uvular muscle with a higher number of phases and turns in compared to palatoglossus and palatopharyngeus muscles, though not significant. The older age was not correlated with any EMG variables. Both the BMI (rs=0.77, p<0.05) and the neck circumference (rs=0.76, p<0.05) were positively correlated with the number of phases of uvular muscle. Discussion: This study presents the quantitative multi-MUP analysis of palatal muscles; palatoglossus, palatopharyngeus, and uvular muscles in healthy men. The quantitative multi-MUP analysis might increase the sensitivity and specificity of palatal electromyography.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.16,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Electrophysiological study in neuromuscular junction disorders",
+      "url": "http://www.annalsofian.org/article.asp?issn=0972-2327;year=2013;volume=16;issue=1;spage=34;epage=41;aulast=Cherian",
+      "publisher": "Annals of Indian Academy of Neurology",
+      "year": "2013",
+      "doi": "10.4103/0972-2327.107690",
+      "abstract": "This review is on ultrastructure and subcellular physiology at normal and abnormal neuromuscular junctions. The clinical and electrophysiological findings in myasthenia gravis, Lambert-Eaton myasthenic syndrome (LEMS), congenital myasthenic syndromes, and botulinum intoxication are discussed. Single fiber electromyography (SFEMG) helps to explain the basis of testing neuromuscular junction function by repetitive nerve stimulation (RNS). SFEMG requires skill and patience and its availability is limited to a few centers. For RNS supramaximal stimulation is essential and so is display of the whole waveform of each muscle response at maximum amplitude. The amplitudes of the negative phase of the first and fourth responses are measured from baseline to negative peak, and the percent change of the fourth response compared with the first represents the decrement or increment. A decrement greater than 10% is accepted as abnormal and smooth progression of response amplitude train and reproducibility form the crux. In suspected LEMS the effect of fast rates of stimulation should be determined after RNS response to slow rates of stimulation. Caution is required to avoid misinterpretation of potentiation and pseudofacilitation.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Electromyography",
+      "url": "https://doi.org/10.4102/sajp.v17i1.1026",
+      "publisher": "AOSIS",
+      "year": "1961",
+      "doi": "10.4102/sajp.v17i1.1026",
+      "abstract": "Electromyographic techniques are extremely useful when there is only minimal denervation, in the detection of early lower motor neurone regeneration, and in the diagnosis of rare syndromes such as myotonia and myasthenia gravis. Another use of electromyography is the detection of isolated motor unit potentials which may provide evidence of the continuity of a nerve in what appears to be a complete lesion.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "term": "Meniscus Tear",
+  "collected": "2026-11-14",
+  "count": 40,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Management of traumatic meniscus tears: the 2019 ESSKA meniscus consensus",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148286/",
+      "publisher": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "year": "2020",
+      "doi": "10.1007/s00167-020-05847-3",
+      "abstract": "Purpose The importance of meniscus integrity in the prevention of early osteoarthritis is well known, and preservation is accepted as the primary goal. The purpose of the ESSKA (European Society for Sports Traumatology, Knee Surgery and Arthroscopy) European consensus on traumatic meniscus tears was to provide recommendations for the treatment of meniscus tears based on both scientific evidence and the clinical experience of knee experts. Methods Three groups of surgeons and scientists elaborated and ratified the so-called formal consensus process to define the recommendations for the management of traumatic meniscus tears. A traumatic meniscus tear was defined as a tear with an acute onset of symptoms caused by a sufficient trauma. The expert groups included a steering group of eight European surgeons and scientists, a rating group of another nineteen European surgeons, and a peer review group. The steering group prepared twenty-seven question and answer sets based on the scientific literature. The quality of the answers received grades of A (a high level of scientific support), B (scientific presumption), C (a low level of scientific support) or D (expert opinion). These question and answer sets were then submitted to and evaluated by the rating group. All answers were scored from 1 (= totally inappropriate) to 9 (= totally appropriate) points. Thereafter, the comments of the members of the rating group were incorporated by the steering group and the consensus was submitted to the rating group a second time. Once a general consensus was reached between the steering and rating groups, the finalized question and answer sets were submitted for final review by the peer review group composed of representatives of the ESSKA-affiliated national societies. Eighteen representatives replied. Results The review of the literature revealed a rather low scientific quality of studies examining the treatment of traumatic meniscus tears. Of the 27 questions, only one question received a grade of A (a high level of scientific support), and another received a grade of B (scientific presumption). The remaining questions received grades of C and D. The mean rating of all questions by the rating group was 8.2 (95% confidence interval 8.1-8.4). A general agreement that MRI should be performed on a systematic basis was not achieved. However, MRI was recommended when arthroscopy would be considered to identify concomitant pathologies. In this case, the indication for MRI should be determined by a musculoskeletal specialist. Based on our data, stable left in situ lateral meniscus tears appear to show a better prognosis than medial tears. When repair is required, surgery should be performed as early as possible. Evidence that biological enhancement such as needling or the application of platelet-rich plasma would improve healing was not identified. Preservation of the meniscus should be considered as the first line of treatment because of an inferior clinical and radiological long-term outcome after partial meniscectomy compared to meniscus repair. Discussion The consensus was generated to present the best possible recommendations for the treatment of traumatic meniscus tears and provides some groundwork for a clinical decision-making process regarding the treatment of meniscus tears. Preservation of the meniscus should be the first line of treatment when possible, because the clinical and radiological long-term outcomes are worse after partial meniscectomy than after meniscus preservation. The consensus clearly states that numerous meniscus tears that were considered irreparable should be repaired, e.g., older tears, tears in obese patients, long tears, etc. LEVEL OF EVIDENCE: II.",
+      "licence": "cc by",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "New strategies of meniscal tears management: A review study",
+      "url": "https://zenodo.org/records/5066333",
+      "publisher": "World Journal of Advanced Research and Reviews",
+      "year": "2021",
+      "doi": "10.5281/zenodo.5066333",
+      "abstract": "The incidence of meniscal tear injuries is rising, predominately due to the sporting activities of young adults. There are different methods in orthopedics of meniscal tear management. An Arthroscopic Partial Meniscectomy (APM) is the most practiced orthopedic procedure globally. However, recent literature reported serious concerns about its positive outcome. Meniscal repair is another recommended technique and growing rapidly due to its less incision requirement. Partial Meniscal implant is a modern management strategy with the excellent outcomes but still required further large-scale research. Concluding to the modern strategies of meniscus tear management “Save the meniscus!” is the emerging approach. This review critically analyzed the most adapted management strategies of meniscal tear and the emerging ones.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The Meniscus Tear: A Review of Stem Cell Therapies",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7016630/",
+      "publisher": "Cells",
+      "year": "2019",
+      "doi": "10.3390/cells9010092",
+      "abstract": "Meniscal injuries have posed a challenging problem for many years, especially considering that historically the meniscus was considered to be a structure with no important role in the knee joint. This led to earlier treatments aiming at the removal of the entire structure in a procedure known as a meniscectomy. However, with the current understanding of the function and roles of the meniscus, meniscectomy has been identified to accelerate joint degradation significantly and is no longer a preferred treatment option in meniscal tears. Current therapies are now focused to regenerate, repair, or replace the injured meniscus to restore its native function. Repairs have improved in technique and materials over time, with various implant devices being utilized and developed. More recently, strategies have applied stem cells, tissue engineering, and their combination to potentiate healing to achieve superior quality repair tissue and retard the joint degeneration associated with an injured or inadequately functioning meniscus. Accordingly, the purpose of this current review is to summarize the current available pre-clinical and clinical literature using stem cells and tissue engineering for meniscal repair and regeneration.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A Comprehensive Evaluation of Deep Learning Models on Knee MRIs for the Diagnosis and Classification of Meniscal Tears: A Systematic Review and Meta-Analysis",
+      "url": "https://www.mdpi.com/2075-4418/14/11/1090",
+      "publisher": "Diagnostics",
+      "year": "2024",
+      "doi": "10.3390/diagnostics14111090",
+      "abstract": "Objectives: This study delves into the cutting-edge field of deep learning techniques, particularly deep convolutional neural networks (DCNNs), which have demonstrated unprecedented potential in assisting radiologists and orthopedic surgeons in precisely identifying meniscal tears. This research aims to evaluate the effectiveness of deep learning models in recognizing, localizing, describing, and categorizing meniscal tears in magnetic resonance images (MRIs). Materials and methods: This systematic review was rigorously conducted, strictly following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Extensive searches were conducted on MEDLINE (PubMed), Web of Science, Cochrane Library, and Google Scholar. All identified articles underwent a comprehensive risk of bias analysis. Predictive performance values were either extracted or calculated for quantitative analysis, including sensitivity and specificity. The meta-analysis was performed for all prediction models that identified the presence and location of meniscus tears. Results: This study’s findings underscore that a range of deep learning models exhibit robust performance in detecting and classifying meniscal tears, in one case surpassing the expertise of musculoskeletal radiologists. Most studies in this review concentrated on identifying tears in the medial or lateral meniscus and even precisely locating tears—whether in the anterior or posterior horn—with exceptional accuracy, as demonstrated by AUC values ranging from 0.83 to 0.94. Conclusions: Based on these findings, deep learning models have showcased significant potential in analyzing knee MR images by learning intricate details within images. They offer precise outcomes across diverse tasks, including segmenting specific anatomical structures and identifying pathological regions. Contributions: This study focused exclusively on DL models for identifying and localizing meniscus tears. It presents a meta-analysis that includes eight studies for detecting the presence of a torn meniscus and a meta-analysis of three studies with low heterogeneity that localize and classify the menisci. Another novelty is the analysis of arthroscopic surgery as ground truth. The quality of the studies was assessed against the CLAIM checklist, and the risk of bias was determined using the QUADAS-2 tool.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.06,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Nineteen percent of meniscus repairs are being revised and failures frequently occur after the second postoperative year: a systematic review and meta-analysis with a minimum follow-up of 5 years",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9206598/",
+      "publisher": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "year": "2022",
+      "doi": "10.1007/s00167-021-06770-x",
+      "abstract": "Purpose Meniscus repair has gained increasing interest over the last two decades as loss of meniscus tissue predisposes to early onset knee arthritis. Although there are many reports of meniscus repair outcome in short-term studies, data on the long-term outcome of meniscus repair are still scarce. The purpose of this meta-analysis was to evaluate the overall failure rate of meniscus repair with a minimum follow-up of 5 years. Additionally, possible factors influencing meniscus repair outcome were assessed. Methods PubMed and Scopus were searched for studies of the last 20 years reporting on meniscus repair outcome with a minimum follow-up of 5 years. The study was performed following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. The search terms used for this study were ([meniscus OR meniscal] AND repair). Titles and abstracts were evaluated by two authors independently. Using meta package of R (version 3.6.2), random-effect models were performed to pool failure rates. Subgroup analyses were performed and effect estimates in form of an odds ratio with 95% CIs were established. Results In total, 12 studies with 864 patients were included. Degenerative tears were excluded in two studies and one study only included traumatic meniscus tears. Other studies did not state whether the cause of meniscus tear was degenerative or traumatic. Studies reporting meniscus repair outcome on root repairs, revision anterior cruciate ligament reconstruction, discoid menisci or ramp lesions were excluded. Revision surgery was used as failure definition in all included studies. The overall failure rate of meniscal repair at a mean follow-up of 86 months was 19.1%. There was no significant difference in meniscus repair outcome when performed in combination with anterior cruciate ligament reconstruction compared to isolated meniscus repair (18.7% vs. 28%; n.s.) or when performed on the lateral meniscus compared to the medial meniscus (19.5% vs. 24.4%; n.s.). There was no significant difference of meniscus repair outcome between vertical/longitudinal tears and bucket-handle tears (n.s.). Thirty-six percent of meniscus repair failures occur after the second postoperative year. The only significant finding was that inside-out repair results in a lower failure rate compared to all-inside repair (5.6% vs. 22.3%; p = 0.009) at 5 years. Conclusion The overall meniscus repair failure rate remains nineteen percent in long-term studies. The cause of failure is poorly documented, and it remains unclear whether failure of the meniscus repair itself or additional adjacent tears lead to revision surgery. Despite the given technical advantages of all-inside repair devices, this meta-analysis cannot demonstrate superior outcomes compared to inside-out or outside-in repair at 5 years. Level of evidence IV.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.98,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Arthroscopic partial meniscectomy for a degenerative meniscus tear: a 5 year follow-up of the placebo-surgery controlled FIDELITY (Finnish Degenerative Meniscus Lesion Study) trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7606577/",
+      "publisher": "British journal of sports medicine",
+      "year": "2020",
+      "doi": "10.1136/bjsports-2020-102813",
+      "abstract": "Objectives To assess the long-term effects of arthroscopic partial meniscectomy (APM) on the development of radiographic knee osteoarthritis, and on knee symptoms and function, at 5 years follow-up. Design Multicentre, randomised, participant- and outcome assessor-blinded, placebo-surgery controlled trial. Setting Orthopaedic departments in five public hospitals in Finland. Participants 146 adults, mean age 52 years (range 35-65 years), with knee symptoms consistent with degenerative medial meniscus tear verified by MRI scan and arthroscopically, and no clinical signs of knee osteoarthritis were randomised. Interventions APM or placebo surgery (diagnostic knee arthroscopy). Main outcome measures We used two indices of radiographic knee osteoarthritis (increase in Kellgren and Lawrence grade ≥1, and increase in Osteoarthritis Research Society International (OARSI) atlas radiographic joint space narrowing and osteophyte sum score, respectively), and three validated patient-relevant measures of knee symptoms and function (Western Ontario Meniscal Evaluation Tool (WOMET), Lysholm, and knee pain after exercise using a numerical rating scale). Results There was a consistent, slightly greater risk for progression of radiographic knee osteoarthritis in the APM group as compared with the placebo surgery group (adjusted absolute risk difference in increase in Kellgren-Lawrence grade ≥1 of 13%, 95% CI -2% to 28%; adjusted absolute mean difference in OARSI sum score 0.7, 95% CI 0.1 to 1.3). There were no relevant between-group differences in the three patient-reported outcomes: adjusted absolute mean differences (APM vs placebo surgery), -1.7 (95% CI -7.7 to 4.3) in WOMET, -2.1 (95% CI -6.8 to 2.6) in Lysholm knee score, and -0.04 (95% CI -0.81 to 0.72) in knee pain after exercise, respectively. The corresponding adjusted absolute risk difference in the presence of mechanical symptoms was 18% (95% CI 5% to 31%); there were more symptoms reported in the APM group. All other secondary outcomes comparisons were similar. Conclusions APM was associated with a slightly increased risk of developing radiographic knee osteoarthritis and no concomitant benefit in patient-relevant outcomes, at 5 years after surgery. Trial registration ClinicalTrials.gov (NCT01052233 and NCT00549172).",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.8,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "A multimodal deep learning radiomics model for predicting degenerative meniscus tear after arthroscopy",
+      "url": "https://doi.org/10.1371/journal.pone.0328299",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0328299",
+      "abstract": "Background: Degenerative meniscus tears are often accompanied by varying degrees of osteoarthritis, making the prognostic outcome of arthroscopic partial meniscectomy (APM) difficult to predict. Our research objective is to develop and validate a multimodal deep learning radiology (MDLR) model based on the integration of multimodal data using deep learning radiology (DLR) scores from preoperative magnetic resonance imaging (MRI) images and clinical variables. Materials and methods: From February 2020 to February 2022, 452 eligible patients with degenerative meniscus tear who underwent APM were retrospectively enrolled in cohorts. DLR features were extracted from MRI of the patient’s knee. Then, an MDLR model was used for the patient prognosis after arthroscopy. The MDLR model for prognostic risk stratification incorporated DLR signatures and clinical variable. Results: The standalone DLR model performed poorly, with a micro average receiver operating characteristic (ROC) curve and macro average ROC line of 0.780 and 0.765 in the training set, 0.747 and 0.747 in the validation set, and 0.720 and 0.732 in the test set, respectively, for predicting postoperative outcomes in degenerative meniscus tears. Multivariate analysis identified gender, height, weight, duration of pain, ESR, and VAS as indicators of poor prognosis. After combining the above clinical features, the performance of the MDLR model has been significantly improved, with the best performance achieved under the Light Gradient Boosting Machine (GBM) algorithm. The micro average ROC curve and macro average ROC line of this model for predicting the postoperative effect of degenerative meniscus tear were 0.917 and 0.919 in the training set, 0.874 and 0.882 in the validation set, and 0.921 and 0.951 in the test set, respectively. With these variables, the MDLR model provides four levels of prognosis for arthroscopic partial meniscectomy: Poor, pain relief 0–25%, Average, pain relief 25–50%, Good, pain relief 50–75%, Excellent, pain relief 75–100%. Conclusion: A tool based on MDLR was developed to consider that the pain exacerbation time is an important prognosis factor for arthroscopic partial meniscectomy in degenerative meniscus tear patients. MDLR showed outstanding performance for the prognostic efficiency stratification of degenerative meniscus tear patients who underwent arthroscopic partial meniscectomy and may help physicians with therapeutic decision making and surveillance strategy selection in clinical practice.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "MV2SwimNet: A lightweight transformer-based hybrid model for knee meniscus tears detection",
+      "url": "https://doi.org/10.1371/journal.pone.0330444",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0330444",
+      "abstract": "Knee Ailments, such as meniscus injuries, bother millions globally, with research showing that more than 14% of the population above 40 years lives with meniscus-related conditions. Conventional diagnosis techniques, like manual MRI interpretation, are labour-intensive, error-prone, and dependent on skilled radiologists, making an automatic and more accurate alternative indispensable. Current deep-learning solutions heavily depend on CNNs, which perform poorly in long-range dependencies and global contextual info. We proposed MV2SwimNet, a hybrid of MobileNetV2 and Swin Transformer, integrating Window Multi-Head Self-Attention (W-MSA) and Multi-Stage Hierarchical Representation (MSHR), efficiently incorporating both local and global features towards enhanced diagnostic capability. Our strategy utilizes the efficiency of lightweight MobileNetV2 coupled with a hierarchical architecture and self-attention-based Swin Transformer, enabling better spatial representation and advanced feature extraction. W-MSA allows our model to process MRI scans effectively by attending to the corresponding regions of images. In contrast, MSHR adjusts feature representations across different levels in a way that allows for progressive and robust learning in stages. We tested MV2SwimNet on two sets using 3-fold cross-validation and achieved 99.94% and 96.04% accuracy on dataset1 and dataset2, which beats state-of-the-art techniques. These results confirm MV2SwimNet efficiency, robustness, and real-world application potential in medicine, providing a highly accurate, automated medical diagnosis tool for knee disease detection. The code of the proposed method can be accessed through the URL: https://github.com/Visheshtanwar/MV2SwimNet",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Efficacy and Applications of Pharmacopuncture for Pathologies of the Knee: A Narrative Review",
+      "url": "https://zenodo.org/records/17100102",
+      "publisher": "Journal of Complementary Therapies in Health",
+      "year": "2025",
+      "doi": "10.5281/zenodo.17100102",
+      "abstract": "Background: The knee is a vital joint for lower limb function, responsible for supporting body weight, assisting movement, and absorbing shock. As the prevalence of knee impairments grows, negatively affecting patients' daily lives, research into therapeutic interventions is gain-ing attention. Pharmacopuncture, a modern therapy that combines acupuncture with medication, involves injecting pharmacological drugs or purified herbal medicines into acupuncture points. Methods: This narrative review reports on the main findings and methodologies of recent stud-ies that have used pharmacopuncture to treat various knee pathologies. The review includes a breakdown of the pharmacopuncture's composition and injection sites. Results: The studies reviewed demonstrate that pharmacopuncture is an effective treatment for a range of knee conditions, including osteoarthritis, chronic pain, and meniscus tears. It consist-ently leads to significant reductions in pain and improvements in functional disability and qual-ity of life. The therapeutic effect is believed to stem from the combined action of the injected substance and the stimulation of specific acupoints. However, not all findings were consistently positive; The reviewed studies utilised a wide variety of substances, from natural herbal extracts like Ulmus davidiana and bee venom to the neuropeptide mixture Cerebrolysin. Injection sites were also varied, ranging from specific knee acupoints and localised ashi points to a broader, systemic application. Conclusions: Pharmacopuncture is a promising and viable treatment for several knee patholo-gies. However, the current body of literature has limitations that need to be addressed in future research. Many studies have limited numbers of participants, lack standardised protocols, and their findings are sometimes diluted by the use of multiple combined treatments. Furthermore, some conclusions are based on observational studies rather than robust randomised controlled trials. To fully establish the long-term effectiveness and solidify its role in integrative medicine, more rigorous and well-designed research is essential.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Repairing the Locked Knee: Functional Outcomes of Bucket-Handle Meniscus Tear Repair: A Prom-Based Analysis of Techniques and Concomitant Injuries",
+      "url": "https://zenodo.org/records/16917992",
+      "publisher": "International Journal of Medical and Pharmaceutical Research",
+      "year": "2025",
+      "doi": "10.5281/zenodo.16917992",
+      "abstract": "Background: Bucket handle meniscal tears (BHMT) are complex injuries, accounting for 10%–26% of all meniscal tears. They are often associated with mechanical knee locking and concomitant injuries, most commonly anterior cruciate ligament (ACL) tears. While meniscectomy provides short-term relief, it is linked to early osteoarthritis. Meniscal preservation through repair remains technically challenging but essential for restoring function. Aim: To evaluate patient-reported outcome measures (PROMs) following BHMT repair and to determine the influence of associated injuries and repair techniques on functional outcomes. Methods: A retrospective study was conducted at Sri Lakshmi Narayana Institute of Medical Sciences from October 2021 to June 2024. Patients with arthroscopically confirmed BHMT undergoing repair were included, while irreparable tears, advanced osteoarthritis, and prior meniscal surgery were excluded. Preoperative demographics, tear characteristics, and associated injuries were recorded. Repair techniques (all-inside, inside-out, outside-in) were documented. Outcomes were assessed using the Lysholm score, IKDC score, and categorical PROM grading. Statistical comparisons between pre- and postoperative scores were performed using paired t-tests, with subgroup analysis for associated injuries and techniques. Results: A total of 42 patients (mean age 28 years; 39 males, 3 females) were analyzed, with mean follow-up of 2 years. Medial meniscus involvement predominated (83.3%). Associated injuries included ACL tears (64.3%), patellar OCD (16.7%), PCL avulsion (2.4%), MLKI (2.4%), and MFC osteoarthritis (14.3%). Both Lysholm and IKDC scores improved significantly from preoperative to postoperative assessments (p < 0.001). Combined BHMT repair with ACL reconstruction showed significantly superior PROMs compared with isolated BHMT repair (Lysholm score: 92.4 ± 3.1 vs. 82.1 ± 5.8, p < 0.01; IKDC score: 86.2 ± 4.5 vs. 75.3 ± 8.1, p < 0.01). Conclusion: Repair of BHMT is a safe and effective procedure that provides significant functional improvement and high patient satisfaction. Concomitant ACL reconstruction enhances outcomes, highlighting the importance of addressing associated injuries during surgery. Meniscal repair techniques (all-inside, inside-out, outside-in) yielded comparable PROMs, supporting meniscal preservation as the preferred strategy.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Silk fibroin hydrogel adhesive enables sealed-tight reconstruction of meniscus tears",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10966011/",
+      "publisher": "Nature communications",
+      "year": "2024",
+      "doi": "10.1038/s41467-024-47029-6",
+      "abstract": "Despite orientationally variant tears of the meniscus, suture repair is the current clinical gold treatment. However, inaccessible tears in company with re-tears susceptibility remain unresolved. To extend meniscal repair tools from the perspective of adhesion and regeneration, we design a dual functional biologic-released bioadhesive (S-PIL10) comprised of methacrylated silk fibroin crosslinked with phenylboronic acid-ionic liquid loading with growth factor TGF-β1, which integrates chemo-mechanical restoration with inner meniscal regeneration. Supramolecular interactions of β-sheets and hydrogen bonds richened by phenylboronic acid-ionic liquid (PIL) result in enhanced wet adhesion, swelling resistance, and anti-fatigue capabilities, compared to neat silk fibroin gel. Besides, elimination of reactive oxygen species (ROS) by S-PIL10 further fortifies localized meniscus tear repair by affecting inflammatory microenvironment with dynamic borate ester bonds, and S-PIL10 continuously releases TGF-β1 for cell recruitment and bridging of defect edge. In vivo rabbit models functionally evidence the seamless and dense reconstruction of torn meniscus, verifying that the concept of meniscus adhesive is feasible and providing a promising revolutionary strategy for preclinical research to repair meniscus tears.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Dextrose Prolotherapy for Muscle, Tendon and Ligament Injury or Pathology: A Systematic Review",
+      "url": "https://hal.science/hal-05312735v1",
+      "publisher": "Annual Research & Review in Biology",
+      "year": "2020",
+      "doi": "",
+      "abstract": "Background: Prolotherapy with dextrose has recently gained attention as a potential treatment for muscle, ligament or tendon pathology/injury. Questions/Purpose: This review aimed to: 1) evaluate the main outcome of dextrose prolotherapy treatment for muscle, ligament or tendon pathology/injury; 2) determine the concentrations of dextrose and protocol of injection; and 3) assess complications or adverse effects after dextrose prolotherapy. Methods: Four electronic databases were searched for related published articles. Articles that met the following criteria were included in this review: 1) articles on peer-reviewed level 1 to 4 studies; 2) articles published in English; 3) articles on dextrose prolotherapy study for tendon or ligament or muscle injury/pathology; and 5) articles that describe dose of dextrose. Published articles that met this inclusion criteria were included in this systematic review. Results: Twenty four studies fulfilled inclusion criteria,consisting of seventeen clinical studies, four animal studies and three invitro studies. Eleven studies reported there were improvement of functional outcome after dextrose prolotherapy. Three Studies reported improvement of patient satisfaction after dextroprolotherapy in supraspinatus tear, Achilles tendinopathy. And patellar tendinopathy, meniscus tear and anterior tibiofibular ligament tear. Three studies reported there are increasing of neovascularization in Achilles tendinopathy and patellar tendinopathy in animal studies, increasing of inflammatory response in animal studies and in vitro studies and increasing of cell proliferation and collagen production. Nine studies (52%) use dextrose 25% concentration. A few adverse effects were reported and minor effect, such as discomfort Minor soreness, extreme pain, skin burns 2nd grade, hypotension, Deep Vein Thrombosis (DVT) ( patient has history DVT). Conclusions: Dextrose Prolotherapy is a potentially effective treatment for patients with muscle, tendon or ligament tear or pathology. Efficacy in long term follow-up, as single therapy or first-line therapy cannot be determined from the current literature.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.9,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Arthroscopic partial meniscectomy versus placebo surgery for a degenerative meniscus tear: a 2-year follow-up of the randomised controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5867417/",
+      "publisher": "Annals of the rheumatic diseases",
+      "year": "2018",
+      "doi": "10.1136/annrheumdis-2017-211172",
+      "abstract": "Objective To assess if arthroscopic partial meniscectomy (APM) is superior to placebo surgery in the treatment of patients with degenerative tear of the medial meniscus. Methods In this multicentre, randomised, participant-blinded and outcome assessor-blinded, placebo-surgery controlled trial, 146 adults, aged 35-65 years, with knee symptoms consistent with degenerative medial meniscus tear and no knee osteoarthritis were randomised to APM or placebo surgery. The primary outcome was the between-group difference in the change from baseline in the Western Ontario Meniscal Evaluation Tool (WOMET) and Lysholm knee scores and knee pain after exercise at 24 months after surgery. Secondary outcomes included the frequency of unblinding of the treatment-group allocation, participants' satisfaction, impression of change, return to normal activities, the incidence of serious adverse events and the presence of meniscal symptoms in clinical examination. Two subgroup analyses, assessing the outcome on those with mechanical symptoms and those with unstable meniscus tears, were also carried out. Results In the intention-to-treat analysis, there were no significant between-group differences in the mean changes from baseline to 24 months in WOMET score: 27.3 in the APM group as compared with 31.6 in the placebo-surgery group (between-group difference, -4.3; 95% CI, -11.3 to 2.6); Lysholm knee score: 23.1 and 26.3, respectively (-3.2; -8.9 to 2.4) or knee pain after exercise, 3.5 and 3.9, respectively (-0.4; -1.3 to 0.5). There were no statistically significant differences between the two groups in any of the secondary outcomes or within the analysed subgroups. Conclusions In this 2-year follow-up of patients without knee osteoarthritis but with symptoms of a degenerative medial meniscus tear, the outcomes after APM were no better than those after placebo surgery. No evidence could be found to support the prevailing ideas that patients with presence of mechanical symptoms or certain meniscus tear characteristics or those who have failed initial conservative treatment are more likely to benefit from APM.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.72,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Dynamic biomechanical effects of medial meniscus tears on the knee joint: a finite element analysis",
+      "url": "https://doi.org/10.1186/s13018-024-05401-8",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2025",
+      "doi": "10.1186/s13018-024-05401-8",
+      "abstract": "Abstract Background Meniscus tears can change the biomechanical environment of the knee joint and might accelerate the development of osteoarthritis. The aim of this study was to investigate the dynamic biomechanical effects of different medial meniscus tear positions and tear gaps on the knee during walking. Methods Seven finite element models of the knee joint were constructed, including the intact medial meniscus (IMM), radial stable tears in the anterior, middle, and posterior one-third regions of the medial meniscus (RSTA, RSTM, RSTP), and the corresponding unstable tears (RUTA, RUTM, RUTP). The seven models applied a 1000 N axial static load and a human walking load, as defined by the ISO14243-1 standard. Results Compared with the results under static loading, the axial load ratio of the medial and lateral compartments was redistributed (ranging from 0.7:1 to 2.9:1). The stress concentration was in the middle and posterior portions of the lateral compartment, not in the anterior and middle portions of the medial compartment under dynamic analysis. Compared with that of the IMM, the maximum von Mises stress on the medial meniscus increased by approximately 24.68–57.14% in the RUTA, RUTM, and RSTM models, with a greater difference observed in the hoop stress on both sides of the radial tear. The peak radial tear gap appeared at GC6 and GC44, and the tear gap remained at a high level from GC30-GC60. Conclusions Radial tears should be considered for repair, and reinforced sutures should be placed on the anterior or middle regions of the meniscus. Greater attention should be given to the dynamic biomechanical effects on the knee joint during preoperative diagnosis and postoperative rehabilitation.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Redefining the gold standard in degenerative meniscus tear management-The rise of perimeniscal injections",
+      "url": "https://amu.hal.science/hal-05586740v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2025",
+      "doi": "10.1016/j.otsr.2025.104214",
+      "abstract": "Redefining the gold standard in degenerative meniscus tear management-The rise of perimeniscal injections Degenerative meniscus tears, a hallmark of knee aging, have long posed a therapeutic dilemma. Historically, arthroscopic partial meniscectomy (APM) dominated treatment algorithms, but landmark ran-domized trials-including MOSELEY, FIDELITY, and ESCAPE-exposed its limited efficacy over conservative care [1]. The 2016 ESSKA Meniscus Consensus Project recalibrated priorities [2], advocating non-operative management (e.g., physiotherapy) as first-line therapy, reserving surgery for refractory cases. Yet, emerging evidence challenges current practices, propagating changes beyond this framework. The ESSKA guidelines, while pivotal, predate advances in precision-guided therapies. Recent innovations in ultrasound (US)-gui-ded intra-and peri-meniscal corticosteroid injections offer a paradigm shift [3]. Two studies published in Orthopaedics & Traumatology: Surgery & Research provide scientific evidence of the efficacy of this method. A first study conducted by Duprat et al. [4] showed that echography guided corticosteroid injections into the meniscus wall offer an effective means of treating degenerative lesions of the medial meniscus without me-chanical symptoms. It is interesting to note that, in this study, patients who didn't respond well to the injection and subsequently had an arthroscopy later on, showed very poor functional outcomes. This is likely due to the fact that the initial symptoms were not completely related to the meniscal tear, and the meniscectomy added another problem to the existing one. Therefore, if a patient doesn't respond well to the injection, instead of reverting immediately to surgical treatment, diagnostic clarification could help elucidate the possibility of a non-meniscal problem. A second paper [5], included 480 patients with degenerative medial meniscus tears and demonstrated that combining these injections with structured physiotherapy achieved 83% surgery-free survivorship at 5 years. This figure surpasses crossover rates (19-33%) seen in trials of physiotherapy alone. Furthermore, WOMAC scores improved significantly (ΔGlobal: 12.4 12.7; p < 0.01), with 86.6% returning to work, highlighting the extent of functional restoration. Only 17% required surgery, outperforming traditional conservative protocols. Why perimeniscal injections? Traditional intra-articular corticosteroids provide transient relief but fail to target the meniscal periphery, where degenerative tears and inflammatory cascades propagate. Perimeniscal injections, guided by US, deliver localized anti-inflammatory action to the meniscal wall and adjacent synovium, addressing the biomechanical and biochemical milieu [6]. This approach aligns with Coll et al. [7], who confirmed the precision of US-guided perimeniscal drug delivery, and Guenoun et al. [8], who highlighted the safety of intrameniscal biologicals. Beyond ESSKA: a synergistic approach The ESSKA consensus emphasizes physiotherapy's role in improving strength and mobility-a foundation our protocol amplifies. By integrating injections, pain is mitigated earlier, enhancing adherence to rehabilitation. Patients with effusions or advanced OA (Kellgren-Law-rence > III) remain challenging, but even in these subgroups, a com-bined approach delayed surgical intervention effectively. The data-driven case for gold standard status These findings align with Di Sante et al. [9], who noted pain relief with perimeniscal corticosteroids, but extend their relevance: at 5 years, 52% required no second injection, and Tegner activity scores rivaled post-meniscectomy outcomes. This durability, paired with cost-effectiveness [10], positions perimeniscal injections as a sustain-able alternative in value-based care. They bridge the gap between symptom palliation and functional recovery, offering a middle path that respects biology, economics, and patient autonomy. Degenerative Meniscus Tear Management often leads to surgical interventions. However, recent evidence suggests that the use of Peri-meniscal injections, sometimes paired with physiotherapy, can avoid surgery and even offer better outcomes. Further trials and long-term studies are required but clinicians should recognize that precisionguided (injection) therapies are no longer adjuncts-they are essentials.",
+      "licence": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "ACL Reconstruction with ACL and Meniscus Repair, Early and Midterm Outcomes",
+      "url": "https://zenodo.org/records/18229227",
+      "publisher": "International Journal of Medical Science and Advanced Clinical Research (IJMACR)",
+      "year": "2025",
+      "doi": "10.5281/zenodo.18229227",
+      "abstract": "Abstract Background: Anterior cruciate ligament (ACL) injuries, often associated with meniscal tears, are common in young athletes. Timely surgical intervention is crucial to restore function, reduce pain, and prevent long-term sequelae such as osteoarthritis and persistent knee instability. Objectives: To compare early and midterm clinical outcomes, patient satisfaction, functional recovery, and complication rates following isolated ACL reconstruction versus combined ACL and meniscal repair over a follow-up period of up to two years. Methodology: This retrospective study analysed 135 patients undergoing ACL reconstruction (ACLR) at Ninewells Hospital, University of Dundee. Patients were categorised into isolated ACL tear and ACL with meniscal tear groups. Outcomes were assessed using the Knee injury and Osteoarthritis Outcome Score (KOOS), Visual Analogue Scale (VAS) for pain, and Tayside patient satisfaction questionnaire at 26, 52, and 104 weeks. Statistical analysis included t-tests and binomial tests. Complication rates were documented. Inclusion and exclusion criteria ensured a homogenous study population without multi-ligament or fracture-related knee injuries. Results: Isolated ACL tears accounted for 40 patients; 95 had combined ACL and meniscal injuries. Most cases occurred in patients under 25 years. Both groups showed significant pain reduction (VAS) and functional improvement (KOOS) at all follow-up points (p<0.001). The ACL-only group demonstrated superior early outcomes in pain, function, and sports participation, whereas by 52–104 weeks, the ACL+ meniscus group achieved better scores in quality of life and sports function. Satisfaction was consistently high in both groups but slightly higher in ACL-only patients at early follow-ups. Complication rates were 13% for ACL-only and 20% for combined repairs, with graft failure most common. Most complications occurred within 26 weeks and were managed conservatively or with minor surgical interventions. Conclusion: Both isolated ACL reconstruction and combined ACL with meniscal repair significantly improve pain, function, and satisfaction. Early recovery is faster in isolated ACL injuries, but combined repairs demonstrate superior long-term quality of life and sports function outcomes.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Potential causal role of synovial complement system activation in the development of post-traumatic osteoarthritis after anterior cruciate ligament injury or meniscus tear",
+      "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2023.1146563/full",
+      "publisher": "Frontiers in Immunology",
+      "year": "2023",
+      "doi": "10.3389/fimmu.2023.1146563",
+      "abstract": "Anterior cruciate ligament (ACL) injury and meniscal tear (MT) are major causal factors for developing post-traumatic osteoarthritis (PTOA), but the biological mechanism(s) are uncertain. After these structural damages, the synovium could be affected by complement activation that normally occurs in response to tissue injury. We explored the presence of complement proteins, activation products, and immune cells, in discarded surgical synovial tissue (DSST) collected during arthroscopic ACL reconstructive surgery, MT-related meniscectomy and from patients with OA. Multiplexed immunohistochemistry (MIHC) was used to determine the presence of complement proteins, receptors and immune cells from ACL, MT, OA synovial tissue vs. uninjured controls. Examination of synovium from uninjured control tissues did not reveal the presence of complement or immune cells. However, DSST from patients undergoing ACL and MT repair demonstrated increases in both features. In ACL DSST, a significantly higher percentage of C4d+, CFH+, CFHR4+ and C5b-9+ synovial cells were present compared with MT DSST, but no major differences were seen between ACL and OA DSST. Increased cells expressing C3aR1 and C5aR1, and a significant increase in mast cells and macrophages, were found in ACL as compared to MT synovium. Conversely, the percentage of monocytes was increased in the MT synovium. Our data demonstrate that complement is activated in the synovium and is associated with immune cell infiltration, with a more pronounced effect following ACL as compared to MT injury. Complement activation, associated with an increase in mast cells and macrophages after ACL injury and/or MT, may contribute to the development of PTOA.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Meniscus tears in professional soccer athletes: resect or repair?",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2667254522000130",
+      "publisher": "Journal of Cartilage & Joint Preservation",
+      "year": "2022",
+      "doi": "10.1016/j.jcjp.2022.100051",
+      "abstract": "Introduction: Meniscal tears in professional soccer players, may lead to decreased game time and potentially affect their career and quality of life in the long term. Advancements in surgical techniques and increased duration of many elite soccer players’ career may necessitate re-evaluation of the treatment strategies. Objectives: To review the current literature regarding surgical management of meniscal tears in professional soccer players. Methods: A comprehensive search of PubMed has been conducted. Studies in English, reporting results of surgical management of meniscal tears or meniscal deficiency in professional soccer players were included. Studies not mentioning return to play (RTP), not examining professional soccer players or not published in English were excluded. Results: Following meniscus repair, an 82% to 90% RTP is reported. Mean time to RTP has been reported from 4.3 to 5.5 months. The outcomes of a single study reporting partial meniscectomy results in professional soccer athletes were 100% RTP at a mean of 1.5 months. Successful results with RTP 92.3 to 100% after salvage procedures such as meniscal allograft transplantation or collagen meniscal implant has been reported, Mean time to RTP stood at 10 to 11.8 months. In addition, knee osteoarthritis is more common after lateral meniscectomy in comparison to medial meniscectomy in the long-term follow-up. Conclusion: Surgical management of meniscal lesions in professional soccer players is the mainstay of treatment. Partial meniscectomy may offer temporary relief and fast RTP. Meniscal repair requires a longer rehabilitation period but may have a chondroprotective effect on the knee. Explicit player consultation and individualized approach may lead to optimal outcomes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Outcomes of Meniscal Repair versus Meniscectomy in Patients with Concomitant ACL and Bucket Handle Meniscus Tears (200)",
+      "url": "https://doi.org/10.1177/2325967121S00309",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2021",
+      "doi": "10.1177/2325967121S00309",
+      "abstract": "Objectives: Bucket handle meniscus tears often present concurrently with tears of the anterior cruciate ligament (ACL). However, little is known regarding the influence of demographic factors on surgical decision-making, or on outcomes following treatment of bucket handle meniscus tears in ACL-deficient patients. Furthermore, no study has compared outcomes in this population between patients undergoing meniscectomy versus repair. The purpose of this study was therefore to determine if there is a difference in outcomes between patients presenting with concomitant ACL and bucket handle meniscus tears treated with meniscal repair versus meniscectomy. A secondary aim of this study was to discover if there is an association between the decision to perform a meniscus repair or meniscectomy based on demographic factors. Methods: In this institutional review board-approved retrospective study, we evaluated 62 patients presenting with ACL tear who were found to have a bucket handle meniscus tear preoperatively or at the time of ACL reconstruction. Of those, 30 patients underwent partial meniscectomy, while 32 underwent meniscal repair. Primary outcome measures included ACL and meniscal retear rates, as well as patient-reported outcome measures (PROMs). Documented PROMs included the International Knee Documentation Committee (IKDC), Single Assessment Numeric Evaluation (SANE), and ACL-Return to Sport after Injury (ACL-RSI) scores. Demographic and patient-specific factors evaluated included age, body mass index (BMI), smoking status, and location of meniscus tear. Results: Of 62 patients presenting for ACL reconstruction with concomitant bucket handle meniscus tear, a total of 34 patients with greater than one year (mean 22.4 month) follow-up were included. 14 patients underwent repair, and 20 underwent meniscectomy. No significant differences were noted in IKDC (p = 0.36), delta IKDC (p = 0.18), SANE (p = 0.61), or ACL-RSI (p = 0.67) scores between the repair and meniscectomy groups at final follow-up. No significant differences were found in ACL (p = 1.00) or meniscus (p = 0.49) retear rates between the two groups. Younger age, lower BMI, and tear location (red-red zone) were significantly associated with the decision to perform meniscal repair over meniscectomy (p < 0.05). Conclusions: Among patients presenting with concomitant ACL and bucket handle meniscus tears, we found no difference in patient-reported outcomes or retear rates in patients undergoing meniscal repair versus meniscectomy. Demographic and patient-specific factors including age, BMI, and tear location may influence surgical decision-making when determining the optimal treatment of bucket handle meniscus tears in this population.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Quantifying the differential functional behavior between the medial and lateral meniscus after posterior meniscus root tears",
+      "url": "https://doi.org/10.1371/journal.pone.0259678",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0259678",
+      "abstract": "Meniscus tears of the knee are among the most common orthopedic knee injury. Specifically, tears of the posterior root can result in abnormal meniscal extrusion leading to decreased function and progressive osteoarthritis. Despite contemporary surgical treatments of posterior meniscus root tears, there is a low rate of healing and an incidence of residual meniscus extrusion approaching 30%, illustrating an inability to recapitulate native meniscus function. Here, we characterized the differential functional behavior of the medial and lateral meniscus during axial compression load and dynamic knee motion using a cadaveric model. We hypothesized essential differences in extrusion between the medial and lateral meniscus in response to axial compression and knee range of motion. We found no differences in the amount of meniscus extrusion between the medial and lateral meniscus with a competent posterior root (0.338mm vs. 0.235mm; p-value = 0.181). However, posterior root detachment resulted in a consistently increased meniscus extrusion for the medial meniscus compared to the lateral meniscus (2.233mm vs. 0.4705mm; p-value < 0.0001). Moreover, detachment of the posterior root of the medial meniscus resulted in an increase in extrusion at all angles of knee flexion and was most pronounced (4.00mm ± 1.26mm) at 30-degrees of knee flexion. In contrast, the maximum mean extrusion of the lateral meniscus was 1.65mm ± 0.97mm, occurring in full extension. Furthermore, only the medial meniscus extruded during dynamic knee flexion after posterior root detachment. Given the differential functional behaviors between the medial and lateral meniscus, these findings suggest that posterior root repair requires reducing overall meniscus extrusion and recapitulating the native functional responses specific to each meniscus.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "The Natural History of Meniscus Tears",
+      "url": "https://doi.org/10.1097/bpo.0000000000001386",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2019",
+      "doi": "10.1097/bpo.0000000000001386",
+      "abstract": "Background: In order to determine whether treatments are effective in the treatment of meniscus tears, it is first necessary to understand the natural history of meniscus tears. The purpose of this paper is to review the literature to ascertain the natural history of meniscus tears in children and adolescents. Methods: A search of the Pubmed and Embase databases was performed using the search terms “meniscus tears,” “natural history of meniscus tears,” “knee meniscus,” “discoid meniscus,” and “natural history of discoid meniscus tears.” Results: A total of 2567 articles on meniscus tears, 28 articles on natural history of meniscus tears, 8065 articles on “menisci,” 396 articles on “discoid meniscus,” and only 2 on the “natural history of discoid meniscus” were found. After reviewing the titles of these articles and reviewing the abstracts of 237 articles, it was clear that there was little true long-term natural history data of untreated meniscus tears nor whether treating meniscus tears altered the natural history. Twenty-five articles were chosen as there was some mention of natural history in their studies. Conclusions: There are few long-term data on untreated meniscal tears or discoid meniscus, or tears in children and adolescents. The literature suggests that there is a higher incidence of chondral injury and subsequent osteoarthritis, but there are many confounding variables which are not controlled for in these relatively short-term papers.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "MRI comparison of injury mechanism and anatomical factors between sexes in non-contact anterior cruciate ligament injuries",
+      "url": "https://doi.org/10.1371/journal.pone.0219586",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0219586",
+      "abstract": "Non-contact anterior cruciate ligament (ACL) rupture is mostly caused by a pivot shift mechanism including valgus collapse and internal tibial rotation. In female athletes, the incidence of ACL rupture has been reported to be significantly higher than in their male counterparts. However, to date, there have been limited reports and controversy regarding sex differences underlying injury mechanisms of ACL and severity of injury. In this study, we hypothesized that 1) in patients with non-contact ACL rupture, the incidence and severity of pivot shift injury, which are determined by injury pattern on MRI, would be significantly higher in females, and 2) anatomical factors associated with pivot shift injury would be significantly associated with female sex. A total of 148 primary ACL ruptures (145 patients) caused by non-contact injury mechanisms were included in this study. Among them, 41 knees (41 patients) were female and 107 knees (104 patients) were male. The status of the osseous lesions, lateral and medial tibial slope, depth of the medial tibial plateau, collateral ligaments, and menisci were assessed by MRI and compared between sexes. The severity of osseous lesions at the lateral tibial plateau, lateral femoral condyle, medial tibial plateau, and medial femoral condyle were comparable between sexes. There were no significant differences between sexes in the location of tibial contusions (p = 0.21), femoral contusions (p = 0.23), or meniscus tears (p = 0.189). Lateral tibial slope was found to be significantly larger in females (8.95° vs. 6.82°; p<0.0001; odds ratio = 1.464), and medial tibial depth was significantly shallower in females (1.80mm vs. 2.41mm; p<0.0001; odds ratio = 0.145). In conclusion, females showed greater lateral tibial slope and shallower medial tibial depth compared to males, however it did not affect the sex differences in injury pattern.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.36,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Artificial intelligence to diagnose meniscus tears on MRI",
+      "url": "https://hal.science/hal-03168852v1",
+      "publisher": "Diagnostic and Interventional Imaging",
+      "year": "2019",
+      "doi": "10.1016/j.diii.2019.02.007",
+      "abstract": "The purpose of this study was to build and evaluate a high-performance algorithm to detect and characterize the presence of a meniscus tear on magnetic resonance imaging examination (MRI) of the knee. Material and methods: An algorithm was trained on a dataset of 1123 MR images of the knee. We separated the main task into three sub-tasks: first to detect the position of both horns, second to detect the presence of a tear, and last to determine the orientation of the tear. An algorithm based on fast-region convolutional neural network (CNN) and faster-region CNN, was developed to classify the tasks. The algorithm was thus used on a test dataset composed of 700 images for external validation. The performance metric was based on area under the curve (AUC) analysis for each task and a final weighted AUC encompassing the three tasks was calculated. Results: The use of our algorithm yielded an AUC of 0.92 for the detection of the position of the two meniscal horns, of 0.94 for the presence of a meniscal tear and of 083 for determining the orientation of the tear, resulting in a final weighted AUC of 0.90. Conclusion: We demonstrate that our algorithm based on fast-region CNN is able to detect meniscal tears and is a first step towards developing more end-to-end artificial intelligencepowered diagnostic tools.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Long-term results of posterior cruciate ligament tear with or without reconstruction: A nationwide, population-based cohort study",
+      "url": "https://doi.org/10.1371/journal.pone.0205118",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0205118",
+      "abstract": "Background: There is increasing interest in the long-term outcomes of patients with posterior cruciate ligament (PCL) tears following conservative treatment or reconstruction. However, limited information is available regarding these results because of the relative rarity of cases and lack of long-term follow-up. Purpose: The goals of this study are to (1) compare the occurrence of secondary meniscal tears, osteoarthritis (OA) or subsequent total knee replacement (TKR) in patients with or without PCL injury, and (2) evaluate the potential protective effect of PCL reconstruction against long-term sequela in patients with PCL deficiency. Study design: Cohort study; Level of evidence, 3 Methods: This retrospective cohort study evaluated the long-term results of PCL deficiency with or without reconstruction in Taiwan based on data from the National Health Insurance Research Database (NHIRD) from 2000 to 2015. The cumulative incidence rates of meniscus tear, OA and TKR were analyzed using the Kaplan-Meier estimator. Cox proportional hazards models were applied to estimate hazard ratios (HRs) and 95% confidence intervals (CIs). Results: A total of 4,169 patients diagnosed with PCL tear from 2000 to 2015 in Taiwan were included in the study. There was a higher cumulative incidence of meniscus tear (1.13%), OA (2.71%) and subsequent TKR (0.91%) among patients with a PCL tear than among patients without one (0.22%, 1.90%, 0.62%; all p < 0.05). PCL reconstruction patients had a decreased cumulative incidence of meniscus tear (0.41%), OA (2.30%) and subsequent TKR (0.48%) compared with non-reconstructed patients (2.44%, 3.46%, 1.69%; all p < 0.05). After adjusting for covariates, PCL-injured patients who underwent reconstruction within one year after PCL injury showed a significantly lower risk of subsequent sequelae than those who never underwent reconstruction (within 1 month: adjusted HR = 0.390, 95% CI = 0.284–0.535; 1 month to 1 year: adjusted HR = 0.546, 95% CI = 0.398–0.748). Conclusions: Patients with PCL tears have a significantly higher risk of meniscus tear, OA and subsequent TKR than patients without PCL tears. PCL reconstruction could decrease the cumulative incidence of these outcomes. The results suggest that PCL-injured patients should undergo reconstruction as early as possible (within one year) to reduce the risk of further degeneration.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Athletic Injuries: Comparison by Team and Individual Sports",
+      "url": "https://zenodo.org/records/6565565",
+      "publisher": "International Journal of Physical Education and Sports",
+      "year": "2018",
+      "doi": "10.5281/zenodo.6565565",
+      "abstract": "Injury occurred at the All India University and National Championship was surveyed. The data on injury was surveyed from 300 sportspersons of various team and individual sports. The mean of the age was 20.32 years with a peak 17 to 28 year’s age group. Abrasion is the highest frequent injury in team game where as Muscle pull is in individual games. Second highest injury in team games was Sprain and Contusion in individual games. Meniscus tear, ligament rupture, fracture, concussion and dislocation are most severe injuries found in various types of team and individual sports. Most of the injuries are minor, and moderate. Severe injuries are closely associated with highly stressful body contact and team sports such as, Boxing, Wrestling, Gymnastic, Basketball, Hockey, Football and Kabaddi",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Meniscus tear surgery and meniscus replacement",
+      "url": "https://doi.org/10.11138/mltj/2016.6.1.071",
+      "publisher": "Edikta s.r.l.",
+      "year": "2016",
+      "doi": "10.11138/mltj/2016.6.1.071",
+      "abstract": "the menisci are easily injured and difficult to repair. The aim of this study was to analyze the current state of meniscal surgery aimed at preserving morphology and conserving the biomechanics of the knee to prevent joint degeneration.a search of the electronic medical literature database Medline was conducted, from http://www.ncbi.nlm.nih.gov/pubmed. The search was not limited by language. Candidate articles were identified by searching for those that included the keywords meniscus, surgery, suture, implant, allograft. The limits were included for clinical research and clinical trials. Basic research was not included. The studies selected were evaluated and classified in three different categories: basic science, reconstruction (suture and meniscectomy) and implants (scaffolds and allograft).the consequences of meniscectomy performed at a young age can lead to a joint cartilage degeneration twenty years later. There are few surgical options for the repair of meniscal injuries in order both to preserve the meniscus and to ensure the long term survival of the knee joint, meniscectomy, repair, suturing the tear, or reconstruction, when a meniscal allograft or synthetic substitute is used to replace the meniscus, but the biomechanical properties of the native meniscus are not reproduced entirely by the scaffolds that exist today.therapies that successfully repair or replace the meniscus are therefore likely to prevent or delay osteoarthritis progression.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "RNA Microarray Analysis of Macroscopically Normal Articular Cartilage from Knees Undergoing Partial Medial Meniscectomy: Potential Prediction of the Risk for Developing Osteoarthritis",
+      "url": "https://doi.org/10.1371/journal.pone.0155373",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0155373",
+      "abstract": "Objectives: (i) To provide baseline knowledge of gene expression in macroscopically normal articular cartilage, (ii) to test the hypothesis that age, body-mass-index (BMI), and sex are associated with cartilage RNA transcriptome, and (iii) to predict individuals at potential risk for developing “pre-osteoarthritis” (OA) based on screening of genetic risk-alleles associated with OA and gene transcripts differentially expressed between normal and OA cartilage. Design: Healthy-appearing cartilage was obtained from the medial femoral notch of 12 knees with a meniscus tear undergoing arthroscopic partial meniscectomy. Cartilage had no radiographic, magnetic-resonance-imaging or arthroscopic evidence for degeneration. RNA was subjected to Affymetrix microarrays followed by validation of selected transcripts by microfluidic digital polymerase-chain-reaction. The underlying biological processes were explored computationally. Transcriptome-wide gene expression was probed for association with known OA genetic risk-alleles assembled from published literature and for comparison with gene transcripts differentially expressed between healthy and OA cartilage from other studies. Results: We generated a list of 27,641 gene transcripts in healthy cartilage. Several gene transcripts representing numerous biological processes were correlated with age and BMI and differentially expressed by sex. Based on disease-specific Ingenuity Pathways Analysis, gene transcripts associated with aging were enriched for bone/cartilage disease while the gene expression profile associated with BMI was enriched for growth-plate calcification and OA. When segregated by genetic risk-alleles, two clusters of study patients emerged, one cluster containing transcripts predicted by risk studies. When segregated by OA-associated gene transcripts, three clusters of study patients emerged, one of which is remarkably similar to gene expression pattern in OA. Conclusions: Our study provides a list of gene transcripts in healthy-appearing cartilage. Preliminary analysis into groupings based on OA risk-alleles and OA-associated gene transcripts reveals a subset of patients expressing OA transcripts. Prospective studies in larger cohorts are needed to assess whether these patterns are predictive for OA.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Associated tears of the lateral meniscus in anterior cruciate ligament injuries: risk factors for different tear patterns",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4389969/",
+      "publisher": "Journal of orthopaedic surgery and research",
+      "year": "2015",
+      "doi": "10.1186/s13018-015-0184-x",
+      "abstract": "Background The pattern of lateral meniscus tears observed in anterior cruciate ligament (ACL)-injured subjects varies greatly and determines subsequent management. Certain tear patterns with major biomechanical consequences should be repaired in a timely manner. Knowledge about risk factors for such tears may help to identify patients in the early posttraumatic phase and subsequently may improve clinical results. Methods A database of 268 patients undergoing primary ACL reconstruction was used to identify all patients with isolated ACL tears and patients with an associated tear of the lateral meniscus. Patients who underwent surgery >6 months after the injury were excluded. Based on the arthroscopic appearance of the lateral meniscus, patients were assorted to one of three groups: 'no tear,' 'minor tear,' and 'major tear.' Tear patterns defined as major included root tears, complete radial tears, and unstable longitudinal tears including bucket-handle tears. Univariate analysis was performed by comparing the three groups with regard to gender, age, height, weight, BMI, type of injury (high-impact sport, low-impact sport, and not sports related), and mechanism of injury (non-contact vs. contact). Multivariate logistic regression was carried out to identify independent risk factors for minor and major meniscal tears and to calculate odds ratios (OR). Results Two hundred fifteen patients met the inclusion and exclusion criteria. Of those, 56% had isolated ACL tears, 27% had associated minor tears, and 17% had associated major tears of the lateral meniscus. Univariate analysis revealed significant differences between the three groups for gender (p = 0.002), age groups (p = 0.026), and mechanism of injury (p Conclusion Male patients, patients <30 years, and particularly patients who sustained a contact injury have a high risk for an associated major lateral meniscus tear. Special attention is therefore necessary in those patients and early referral to magnetic resonance imaging and/or arthroscopy is recommended to allow meniscus repair in a timely manner.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.2,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Regenerative repair of damaged meniscus with autologous adipose tissue-derived stem cells",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3925627/",
+      "publisher": "BioMed research international",
+      "year": "2014",
+      "doi": "10.1155/2014/436029",
+      "abstract": "Mesenchymal stem cells (MSCs) are defined as pluripotent cells found in numerous human tissues, including bone marrow and adipose tissue. Such MSCs, isolated from bone marrow and adipose tissue, have been shown to differentiate into bone and cartilage, along with other types of tissues. Therefore, MSCs represent a promising new therapy in regenerative medicine. The initial treatment of meniscus tear of the knee is managed conservatively with nonsteroidal anti-inflammatory drugs and physical therapy. When such conservative treatment fails, an arthroscopic resection of the meniscus is necessary. However, the major drawback of the meniscectomy is an early onset of osteoarthritis. Therefore, an effective and noninvasive treatment for patients with continuous knee pain due to damaged meniscus has been sought. Here, we present a review, highlighting the possible regenerative mechanisms of damaged meniscus with MSCs (especially adipose tissue-derived stem cells (ASCs)), along with a case of successful repair of torn meniscus with significant reduction of knee pain by percutaneous injection of autologous ASCs into an adult human knee.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.16,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Restoring Stability – A Case of a Decade Old Triple Bucket Handle Meniscus Tear with an Anterior Cruciate Ligament Injury: Case Report",
+      "url": "https://jocr.co.in/wp/2025/12/restoring-stability-a-case-of-a-decade-old-triple-bucket-handle-meniscus-tear-with-an-anterior-cruciate-ligament-injury-case-report/",
+      "publisher": "Journal of Orthopaedic Case Reports",
+      "year": "2025",
+      "doi": "10.13107/jocr.2025.v15.i12.6472",
+      "abstract": "Introduction: Bucket handle meniscus tears (BHMTs) represent a specific pattern of vertical tears wherein the displaced segment of the meniscus lodges into the intercondylar notch. These injuries often present with clinical symptoms including knee pain, intermittent locking, joint instability, swelling, and reduced range of motion. Bucket-handle meniscal tears are frequently observed in conjunction with anterior cruciate ligament (ACL) injuries, with reported incidences varying between 11% and 48%. Meniscus repair aims to alleviate symptoms and restore normal knee joint biomechanics, all while maintaining the integrity of the native meniscus. To the best of our knowledge, this case report is the first to document the fixation of a triple bucket handle tear of the medial meniscus, with clinical results and a 1-year post-operative assessment. Case Report: A woman in her early forties presented with a 10-year history of recurrent knee pain, swelling, and mechanical symptoms, worsened by a recent fall. Clinical evaluation revealed signs of ACL deficiency and medial meniscal injury. Imaging confirmed a complex medial meniscus tear and a near-complete ACL tear, with normal knee alignment on radiographs and scanogram. Diagnostic arthroscopy revealed triple BHMT with complete ACL tear. She underwent ACL reconstruction (ACLR) with peroneus longus graft, triple bucket handle meniscus repair with all-inside, inside out and outside in technique, and lateral extra-articular tenodesis. Conclusion: Chronic triple bucket-handle meniscal tears present a complex surgical challenge. However, this case highlights that accurate anatomical reduction combined with stable fixation can lead to favorable post-operative outcomes, including improved knee function and enhanced quality of life. In addition, performing meniscal repair alongside ACLR increases the likelihood of successful healing and optimal functional recovery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.9,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Combined autologous chondrocyte implantation and meniscus reconstruction for large chondral defect in the lateral compartment due to discoid lateral meniscus tear: A case report",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2352320418300543",
+      "publisher": "Regenerative Therapy",
+      "year": "2019",
+      "doi": "10.1016/j.reth.2018.11.002",
+      "abstract": "Discoid lateral meniscus tear leads to large chondral defect in the lateral compartment of the knee joint. There are few effective treatments for large chondral defect in both the tibial and femoral sides with severe degenerative lateral meniscus. We have developed a combined autologous chondrocyte implantation and meniscus reconstruction technique using hamstring tendon. This technique allows biological reconstruction and avoids knee arthroplasty. Keywords: Autologous chondrocyte implantation, Chondral defect, Discoid lateral meniscus, Lateral compartment, Meniscus reconstruction",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.66,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Previous Knee Surgery, Anteromedial Portal Drilling, Quadriceps Tendon Autograft, and Meniscal Involvement Associated With Delayed Return to Sport After Anterior Cruciate Ligament Reconstruction in Amateur Athletes",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2666061X24000294",
+      "publisher": "Arthroscopy, Sports Medicine, and Rehabilitation",
+      "year": "2024",
+      "doi": "10.1016/j.asmr.2024.100911",
+      "abstract": "Purpose: To identify prognostic factors associated with a delayed return-to-sport (RTS) time in amateur athletes who return to full participation after a primary isolated anterior cruciate ligament (ACL) reconstruction. Methods: A retrospective review was performed among athletes who underwent ACL reconstruction between October 2014 and October 2021. Inclusion criteria were any amateur athletes with an ACL reconstruction who had a documented RTS and greater than 1-year follow-up. Nonathletes, those with multiligamentous knee injury, and those missing documented RTS timelines were excluded. RTS was defined as participation in athletics at a level equivalent to or greater than the preinjury level participation. Demographic and prognostic factors, including previous knee surgery, meniscal involvement, level of participation, surgical approach, and graft type, were recorded along with RTS time and analyzed via Poisson regression. Results: In total, 91 athletes, average age 18.8 (± 6.7) years, who underwent ACL reconstruction at a single institution from 2014 to 2021 were identified with an average follow-up time of 4.6 (± 2.5) years (range 1.1, 9.0). Meniscal involvement (1.11; 95% confidence interval [CI] 1.08-1.15, P < .001) and previous knee surgery (1.43; 95% CI 1.29-1.58; P < .001) were related to a delayed RTS. Quadriceps tendon and bone–patellar tendon–bone autografts, as well as allograft, showed a significant association with a longer RTS time when compared with hamstring autograft (1.16, 95% CI 1.13-1.20, P < .001; 1.04, 95% CI 1.01-1.07, P = .020; 1.11, 95% CI 1.03-1.19, P = .004, respectively), as did anteromedial portal drilling, when compared with the outside in approach for femoral drilling (1.19, 95% CI 1.16-1.23, P < .001). Conclusions: Previous knee surgery, anteromedial femoral drilling, quadriceps tendon autograft, and meniscus tear were most associated with a delayed timeline for RTS among young athletes who were able to return. Level of Evidence: Level IV, prognostic case series.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Expanded Mesenchymal Stem Cell Therapy for Symptomatic Knee Osteoarthritis",
+      "url": "https://hal.science/hal-05220561v1",
+      "publisher": "HAL open archive",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Our objective in this study is to determine if the cellular biological treatment can replace surgery by controlling the symptoms, stopping, or slowing the progression of osteoarthritis (OA), and repairing defects. Bone marrow oedema and subchondral bone cysts are frequent findings in the various stages of knee OA. Typically seen on MRI imaging, once the degenerative process starts, it progresses to severe OA, then a high chance of metal knee replacement. There is no proven therapy yet to alter the outcome of OA. Herein we report a case of a fifty-four-year-old salesperson who enjoys active sports. He presented with symptomatic right knee OA. His knee MRI scan revealed patellofemoral subchondral bone marrow oedema and multiple subchondral cysts. Medial meniscus tear, medial, and patellofemoral cartilage loss. He had a large baker cyst and synovitis. He did not respond to an ultrasound-guided steroid injection. Still, he responded dramatically to a single dose of autologous fat-derived expanded mesenchymal stem cells (MSCs) combined with platelet-rich plasma (PRP). He became symptoms-free three months post the therapy, and that persisted. A repeat MRI nine months after the treatment showed a tiny baker cyst and significant reduction of synovitis due to an anti-inflammatory effect of MSCs. Thirty-three months post-therapy follow-up MRI revealed full resolution of both bone marrow oedema and multiple subchondral patellofemoral bone cysts. This case showed encouraging results, which might change the way we practice medicine in OA management as a step before considering surgery.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Magnetic Resonance Imaging (MRI) of the Knee in Post Meniscal Repair and Meniscectomy",
+      "url": "https://hal.science/hal-05183432v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Background: The best imaging technique for post-operative knee assessment is magnetic resonance imaging (MRI). The challenge of using MRI to diagnose problems in the knee is made more challenging by surgical alterations. Therefore, reliable MRI assessment depends on the ability to distinguish between the normal post-operative MRI image of the knee elements and their anomalies. The purpose of this research was to compare the clinical result with the use of MRI to identify predicted morphological changes in the knee menisci during the first two years after arthroscopic operation. Methods: This cross-sectional study was carried out on 30 patients with previously undergone meniscal repaired or meniscectomy and reported having ongoing or frequent knee discomfort. All patients had extensive clinical examinations and detailed history collection, radiographical imaging and MRI. Results: MRI examination of the knee post operatively showed that the time needed for beginning of meniscus healing after surgery ranged from 3-6months. 27 patients (90%) had a meniscus tear in the posterior 1/3. Degenerative tears 11 (36.4%) was the most prevalent meniscal tears pattern diagnosed by MRI. No effusion occurred in 25 (83.3%) patients. Thirty cases were treated; seventeen received arthroscopic repair, and thirteen underwent resection. 11 patients (36.6%) had symptoms ranging from joint swelling or pain, restricted motion, instability/giving away, and catching/locking, whereas 19 (63.4%) were asymptomatic. Conclusions: Within the first two years after arthroscopic operations, MRI plays a useful role in detecting anticipated morphological alterations of the knee menisci.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "The Incidence of Knee Injury in a Battalion of Indonesian Military Army",
+      "url": "https://hal.science/hal-05200842v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Background: The third most common injury in military patients was observed in knees with ligament and meniscus injury were most prevalent. However, it has not been studied closely. Sports and physical training activities are an area in which a substantial number of injuries can occur. Any physical injury occurred among the military forces can lead to their temporary or permanent disability. Therefore, purpose of this study was to know the incidence of knee injury in a Battalion of Indonesian Military Army. Methods: This was a cross sectional study conducted in Battalion 403/WP of Special Region of Yogyakarta and Sardjito General Hospital. The samples were active duty Army personnel with knee injury. After we performed history taking, physical examination, and MRI, we diagnosed the type of knee injury. Then we evaluated the demographic data, BMI, and Modified Cincinnati score to evaluate the daily functional score. The parameters were statistically analyzed. Results: The study showed from 589 active duty Army personnel there were 25 (4.24%) was suffered from knee injury with 12 of them (2.03%) sustained ligament rupture. Eight of the injury was caused by Non-Duty activities (66.67%). Nine was ACL rupture, 2 PCL rupture and 1 meniscus tear. Average BMI was 24.08 kg/m2 . Most of the patient has fair daily functional score with average of Modified Cincinnati Score was 52.83, we also compare between army and non-army patient, we found that army patients with knee injury has significantly better daily functional score than non-army patients (P < 0.05). Conclusions: The incidence of knee ligament injury in a Battalion of Indonesian Military Army was 2.03 percent and having significantly better daily functional score compared with non-army patient.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Medial Meniscus Repair in Major League Soccer Players Results in Decreased Performance Metrics for One Year and Shortened Career Longevity",
+      "url": "https://www.dovepress.com/medial-meniscus-repair-in-major-league-soccer-players-results-in-decre-peer-reviewed-fulltext-article-OAJSM",
+      "publisher": "Open Access Journal of Sports Medicine",
+      "year": "2021",
+      "doi": "",
+      "abstract": "David Heath, David Momtaz, Abdullah Ghali, Luis Salazar, Jonathan Bethiel, Boris Christopher, Caitlyn Mooney, Katherine C Bartush UT Health San Antonio, Department of Orthopaedics, San Antonio, TX, 78249, USACorrespondence: Katherine C BartushUT Health San Antonio, Department of Orthopaedics, 7703 Floyd Curl Dr, MC-7774, San Antonio, Tx, 78229-3900, USATel +1-574-514-2499Fax +1-210-567-5125Email bartush@uthscsa.eduBackground: The rate of medial meniscus tear (MMT) in professional soccer players is high. There are no studies on objective performance metrics following medial meniscus repair in these athletes.Purpose: Examine the impact of MMT treated with surgical repair on performance metrics and career longevity in Major League Soccer (MLS) players.Methods: MLS players who sustained an MMT between 1993 and 2019 were identified via publicly available databases. These players were each matched to 2 uninjured controls by debut date, experience, position, race, ethnicity, height, weight, and body mass index (BMI). Demographic data and performance metrics were then collected for both groups. Matches, minutes, goals, assists, shots, shots on target, duels, and duel percentage won are collectively referred to as performance metrics. Statistical analysis compared demographic distributions and performance metrics between the MMT and control groups.Results: Thirty-three MLS players who had undergone medial meniscus repair were identified and matched to 66 controls. All performance metrics decreased in the MMT group when compared to their controls in the first year after injury. This difference remained significant even when the performance metrics were normalized with respect to time, indicating that the injured players both played less and were not as productive. At 2 years after injury, performance metrics returned to pre-injury levels and were equivalent to those of the healthy controls. Career length was found to be significantly different between the two groups at 8.81 ± 3.9 years for the MMT group and 12.63 ± 3.51 years for the control group (P < 0.001).Conclusion: MLS players undergoing medial meniscus repair had decreased performance metrics in the first year after injury but returned to baseline levels of play at the second year after injury. Their careers were also shorter than those of their uninjured controls.Keywords: meniscus tear, soccer, return to play, return to sport",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "ACL Injuries and Meniscal Lesion: Hand in Hand?",
+      "url": "https://hal.science/hal-05266868v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Objective: To assess the incidence, nature and pattern of meniscal tear in ACL injury. Methodology: A retrospective study was conducted among the patients who were admitted and treated for ACL tear in Saveetha Medical And College And Hospital over a 2-year period from August 2019-August 2021. There were 52 patients admitted and treated for the same. The case records of each of the patients were reviewed to find the incidence of meniscal lesion in ACL tear and were then analyzed using appropriate statistical tests. Results: 52 patients with ACL tear were reviewed in this study. ACL tear was most commonly reported in younger age group of 20-29 (46.15%). Out of which, 19(36.54%) patients had meniscal tears. About 9(47.37%) patients had lateral meniscus tear, 6(31.58%) had medial meniscus tear and 4(21.05%) had bilateral meniscal tear. It was seen that bucket handle injury (n=12) was the most common meniscus tear overall. Radial tear was most specifically common in bilateral meniscus injury (N=4). Conclusion: Meniscal tears are the most common intra articular lesions associated with ACL tear. It was most commonly reported in the age group of 20-29. We found that the incidence of lateral meniscal tear was significantly higher in the patients rather than medial meniscal tear. Bucket handle injury was the most commonly reported tear in meniscal injury. Therefore, the surgeon needs to equip himself with the necessary meniscal repair instruments in his armamentarium",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Voluntary femoro-tibial subluxations: a benign differential diagnosis in the snapping knee of a child",
+      "url": "https://hal.science/hal-03134373v1",
+      "publisher": "Knee Surgery, Sports Traumatology, Arthroscopy",
+      "year": "2020",
+      "doi": "10.1007/s00167-019-05831-6",
+      "abstract": "PURPOSE: Voluntary femoro-tibial subluxation is a rare entity predominantly found in pretoddlers. It presents as a dynamic phenomenon with uni- or bilateral audible snapping of the knee, often in a context of fatigue or irritation at the end of the day. The aim of the study was to observe the evolution and recovery in these patients. METHODS: Ten children were included. Other causes of dislocating joints and pathologies with snapping of the lateral meniscus were excluded from this study. Six-week immobilisation with a splint at 70° of knee flexion was primarily recommended to all patients. RESULTS: The mean age at onset of symptoms was 10months. Forty percent of the patients presented with bilateral symptoms. Clinically, four patients were hyperlax. In all patients, subluxations could be reproduced passively by rotating the foot externally and advancing the internal tibial plateau anteriorly. Three of the patients were treated with a dorsal splint and experienced significantly less or cessation of symptoms. Two patients underwent surgery, one for a concomitant anterior cruciate ligament (ACL) rupture and meniscus tear that worsened the symptoms, another for concomitant patella dislocation and a meniscus tear. One patient's parents refused treatment and four patients experienced less symptoms at the time of consultation and were not immobilized. Except for the two patients undergoing surgeries, no sequelae were observed. In general, the symptoms got less frequent when the patient began to walk. CONCLUSION: Voluntary femoro-tibial subluxation in children is a rare and benign condition that often resolves spontaneously without sequelae. The risk of meniscus tear should, however, be considered if subluxations do not cease. LEVEL OF EVIDENCE: IV.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The Influence of Medical Insurance on Patient Access to Orthopaedic Surgery Sports Medicine Appointments Under the Affordable Care Act",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5528187/",
+      "publisher": "Orthopaedic journal of sports medicine",
+      "year": "2017",
+      "doi": "10.1177/2325967117714140",
+      "abstract": "Background The goal of the Patient Protection and Affordable Care Act (PPACA) was to expand patient access to health care. Since the rollout of the PPACA, Medicaid patients have demonstrated difficulty obtaining appointments in some specialty care settings. Purpose To assess the effect of insurance type (Medicaid and private) on patient access to orthopaedic surgery sports medicine specialists for a semiurgent evaluation of a likely operative bucket-handle meniscus tear. The study was designed to determine whether disparities in access exist since the PPACA rollout. Study design Cohort study; Level of evidence, 2. Methods The design was to call 180 orthopaedic surgery sports medicine specialists in 6 representative states (California, Ohio, New York, Florida, Texas, and North Carolina) between June 2015 and December 2015. An appointment was requested for the caller's fictitious 25-year-old-brother who had suffered a bucket-handle meniscus tear. Each office was called twice to assess the ease of obtaining an appointment: once for patients with Medicaid and once for patients with private insurance. For each call, data pertaining to whether an appointment was given, wait times, and barriers to receiving an appointment were recorded. Results A total of 177 surgeons were called within the study period. Overall, 27.1% of offices scheduled an appointment for a patient with Medicaid, compared with 91.2% ( P P P Conclusion Despite the passage of the PPACA, patients with Medicaid have reduced access to care. In addition, patients with Medicaid confront more barriers to receiving appointments than patients with private insurance and wait longer for an appointment.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Allograft Versus Autograft Anterior Cruciate Ligament Reconstruction: Predictors of Failure From a MOON Prospective Longitudinal Cohort",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445196/",
+      "publisher": "Sports health",
+      "year": "2011",
+      "doi": "10.1177/1941738110386185",
+      "abstract": "Background Tearing an anterior cruciate ligament (ACL) graft is a devastating occurrence after ACL reconstruction (ACLR). Identifying and understanding the independent predictors of ACLR graft failure is important for surgical planning, patient counseling, and efforts to decrease the risk of graft failure. Hypothesis Patient and surgical variables will predict graft failure after ACLR. Study design Prospective cohort study. Methods A multicenter group initiated a cohort study in 2002 to identify predictors of ACLR outcomes, including graft failure. First, to control for confounders, a single surgeon's data (n = 281 ACLRs) were used to develop a multivariable regression model for ACLR graft failure. Evaluated variables were graft type (autograft vs allograft), sex, age, body mass index, activity at index injury, presence of a meniscus tear, and primary versus revision reconstruction. Second, the model was validated with the rest of the multicenter study's data (n = 645 ACLRs) to evaluate the generalizability of the model. Results Patient age and ACL graft type were significant predictors of graft failure for all study surgeons. Patients in the age group of 10 to 19 years had the highest percentage of graft failures. The odds of graft rupture with an allograft reconstruction are 4 times higher than those of autograft reconstructions. For each 10-year decrease in age, the odds of graft rupture increase 2.3 times. Conclusion There is an increased risk of ACL graft rupture in patients who have undergone allograft reconstruction. Younger patients also have an increased risk of ACL graft failure. Clinical relevance Given these risks for ACL graft rupture, allograft ACLRs should be performed with caution in the younger patient population.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.04,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

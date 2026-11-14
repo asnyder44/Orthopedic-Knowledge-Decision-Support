@@ -389,7 +389,8 @@ def generator_page():
         "help": texts.FIELD_HELP, "steps": texts.STEPS,
         "urls": {"draft": url_for("ko.api_draft"), "check": url_for("ko.api_check"), "save": url_for("ko.api_save"),
                  "fetch": url_for("ko.api_fetch"), "topic": url_for("ko.api_topic"),
-                 "library": url_for("ko.library"), "prompts": url_for("ko.api_prompts")},
+                 "library": url_for("ko.library"), "prompts": url_for("ko.api_prompts"),
+                 "collected": url_for("ko.api_collected", ko_id="__ID__")},
     }
     prompt = load_content("ko-generator-prompt.md")
     return render_template("ko/generator.html", active="generator", data=data,
@@ -510,6 +511,19 @@ def api_fetch():
         return jerr(400, str(e))
     return jsonify({"url": page.url, "title": page.title, "text": page.text, "retrieved": dt.date.today().isoformat(),
                     "message": "Got the page text. Now delete the parts that are not about your topic."})
+
+
+@bp.get("/api/collected/<ko_id>")
+def api_collected(ko_id: str):
+    """Sources found by `okds collect-topics` for this topic, as a ready source pack for the wizard's step 3."""
+    from .. import collect
+
+    path = get_settings().data_dir / "sources" / "candidates" / f"{ko_id}.json"
+    if not re.fullmatch(r"[A-Z0-9-]{3,40}", ko_id) or not path.is_file():
+        return jerr(404, "No collected sources for this topic yet. Run: okds collect-topics " + ko_id)
+    cands = collect.load_candidates(path)
+    pack = collect.pick_pack(cands, patient=True, size=int(request.args.get("size", 4)))
+    return jsonify({"count": len(cands), "sources": [collect.as_source(c, f"S{i}") for i, c in enumerate(pack, 1)]})
 
 
 @bp.post("/api/topic")

@@ -1,0 +1,566 @@
+{
+  "term": "Ulnar Nerve Transposition",
+  "collected": "2026-11-14",
+  "count": 31,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4602994/",
+      "publisher": "Medicine",
+      "year": "2015",
+      "doi": "10.1097/md.0000000000001207",
+      "abstract": "Subcutaneous and submuscular anterior ulnar nerve transposition have been widely used in patients with cubital tunnel syndrome. However, the reliable evidence in favor of 1 of 2 surgical options on clinical improvement remains controversial. To maximize the value of the available literature, we performed a systematic review and meta-analysis to compare subcutaneous versus submuscular anterior ulnar nerve transposition in patients with ulnar neuropathy at the elbow. PubMed, Cochrane Library, and EMBASE databases were searched for randomized and observational studies that compared subcutaneous transposition with submuscular transposition of ulnar nerve for cubital tunnel syndrome. The primary outcome was clinically relevant improvement in function compared to the baseline. Randomized and observational studies were separately analyzed with relative risks (RRs) and 95% confidence intervals (CIs). Two randomized controlled trials (RCTs) and 7 observational studies, involving 605 patients, were included. Our meta-analysis suggested that no significant differences in the primary outcomes were observed between comparison groups, both in RCT (RR, 1.16; 95% CI 0.68-1.98; P = 0.60; I2= 81%) and observational studies (RR, 1.01; 95% CI 0.95-1.08; P = 0.69; I2 = 0%). These findings were also consistent with all subgroup analyses for observational studies. In the secondary outcomes, the incidence of adverse events was significantly lower in subcutaneous group than in submuscular group (RR, 0.54; 95% CI 0.33-0.87; P = 0.01; I2 = 0%), whereas subcutaneous transposition failed to reveal more superiority than submuscular transposition in static two-point discrimination (MD, 0.04; 95% CI -0.18-0.25; P = 0.74; I = 0%). The available evidence is not adequately powered to identify the best anterior ulnar nerve transposition technique for cubital tunnel syndrome on the basis of clinical outcomes, that is, suggests that subcutaneous and submuscular anterior transposition might be equally effective in terms of postoperative clinical improvement. However, differences in clinical outcomes metrics should be noted, and these findings largely rely on the outcomes data from observational studies that are potentially subject to a high risk of selection bias. Therefore, more high-quality and adequately powered RCTs with standardized clinical outcomes metrics are necessary for proper comparison of these techniques.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.7,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Anterior Subcutaneous versus Submuscular Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0130843",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0130843",
+      "abstract": "Objective: To pool reliable evidences for the optimum anterior transposition technique in the treatment of cubital tunnel syndrome by comparing the clinical efficacy of subcutaneous and submuscular anterior ulnar nerve transposition. Methods: A comprehensive search was conducted in PubMed MEDLINE, Cochrane Library, EMBASE, Web of Science, OVID AMED, EBSCO and potentially relevant surgical archives. Risk of bias of each included studies was evaluated according to Cochrane Handbook for Systematic Reviews of Interventions. The risk ratio (RR) and 95% confidence intervals (CI) were calculated for the clinical improvement in function compared to baseline. Heterogeneity was assessed across studies, and subgroup analysis was also performed based on the study type and follow-up duration. Results: Three studies with a total of 352 participants were identified, and the clinically relevant improvement was used as the primary outcomes. Our meta-analysis revealed that no significant difference was observed between two comparison groups in terms of postoperative clinical improvement in those studies (RR 1.04, 95% CI 0.86 to 1.25, P = 0.72). Meanwhile, subgroup analyses by study type and follow-up duration revealed the consistent results with the overall estimate. Additionally, the pre- and postoperative motor nerve conduction velocities were reported in two studies with a total of 326 patients, but we could not perform a meta-analysis because of the lack of concrete numerical value in one study. The quality of evidence for clinical improvement was ‘low’ or ‘moderate’ on the basis of GRADE approach. Conclusions: Based on small numbers of studies with relatively poor methodological quality, the limited evidence is insufficient to identify the optimum anterior transposition technique in the treatment of cubital tunnel syndrome. The results of the present study suggest that anterior subcutaneous and submuscular transposition might be equally effective in patients with ulnar neuropathy at the elbow. Therefore, more high-quality randomized controlled trials with standardized clinical improvement metrics are required to further clarify this topic and to provide reproducible pre- and postoperative objective outcomes.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.7,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Early versus late ulnar nerve transposition outcomes based on visual analogue scale and neurological factors",
+      "url": "https://zenodo.org/records/22700607",
+      "publisher": "Zenodo",
+      "year": "2026",
+      "doi": "10.5281/zenodo.22700607",
+      "abstract": "This dataset contains de-identified patient-level demographic and clinical outcome data of our research paper. Patients are categorized into Group A (early) or Group B (late) based on treatment timing. Pre- and post-operative outcomes include VAS pain scores, two-point discrimination, BMRC motor scores, and QuickDASH scores. The data can be used to compare functional and clinical outcomes before and after treatment and between the two treatment groups.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Modified musculofascial lengthening technique for submuscular ulnar nerve transposition in cubital tunnel syndrome",
+      "url": "https://doi.org/10.1371/journal.pone.0318303",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0318303",
+      "abstract": "Objective: Cubital tunnel syndrome is a common peripheral neuropathy of the upper extremity. Anterior transposition of the ulnar nerve is an established surgical treatment option for this condition. This study aimed to introduce a novel musculofascial lengthening technique that uses only a portion of the flexor-pronator muscle mass for submuscular anterior transposition of the ulnar nerve and investigate its clinical outcomes. Methods: We evaluated 28 patients (29 cases; 1 patient had bilateral involvement) diagnosed with cubital tunnel syndrome who were treated with surgical decompression and submuscular anterior transposition of the ulnar nerve using our novel technique. Mean follow-up was 19.1 months (range, 12–31). Patient-reported outcomes were assessed using the Boston Carpal Tunnel Questionnaire (BCTQ), Disabilities of the Arm, Shoulder, and Hand (DASH) Questionnaire, and numeric rating scale (NRS) for pain. Objective outcomes including light touch perception, static two-point discrimination, and grip strength were also assessed. Modified Bishop score and postoperative complications were also evaluated. Results: BCTQ symptom severity and functional status scores, DASH score, and NRS for pain score showed significant improvement after surgery. Light touch perception, static two-point discrimination, and grip strength also significantly improved after surgery. All patients showed excellent or good results according to the modified Bishop scoring system. No recurrence or complications occurred. Conclusion: Our novel musculofascial lengthening technique that uses only a portion of the flexor-pronator muscle mass for submuscular anterior transposition of the ulnar nerve reliably achieves good results with minimal complications in patients with cubital tunnel syndrome.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Comparative Outcomes of Buried Muscular Tunnel and Local Fascial Cover Techniques for Anterior Ulnar Nerve Transposition in Cubital Tunnel Syndrome: A Case Series",
+      "url": "https://zenodo.org/records/23233488",
+      "publisher": "International Journal of Medical and Pharmaceutical Sciences",
+      "year": "2026",
+      "doi": "10.5281/zenodo.23233488",
+      "abstract": "Background: Cubital tunnel syndrome is the second most common compressive neuropathy of the upper extremity. Although several surgical techniques have been described, the optimal method for anterior ulnar nerve transposition remains controversial. This case series compares the clinical outcomes of buried muscular tunnel (BMT) and local fascial cover (LFC) techniques following anterior ulnar nerve transposition. Methods: Four patients with McGowan Grade II cubital tunnel syndrome underwent surgical decompression with anterior ulnar nerve transposition. Two patients were treated using the buried muscular tunnel technique and two using the local fascial cover technique. Clinical outcomes, postoperative complications, and functional recovery were assessed during follow-up ranging from 12 to 18 months. Results: All patients experienced significant improvement in pain, sensory symptoms, grip strength, and intrinsic muscle function, with no recurrence or major postoperative complications. Mild local tenderness over the transposed nerve was observed in both patients treated with the buried muscular tunnel technique, whereas no postoperative nerve sensitivity was noted in patients who underwent local fascial cover. Functional recovery was comparable between the two techniques. Conclusion: Both buried muscular tunnel and local fascial cover techniques provided satisfactory functional recovery following anterior ulnar nerve transposition. In this preliminary case series, local fascial cover demonstrated comparable clinical outcomes with reduced postoperative local nerve sensitivity. Larger prospective comparative studies are required to validate these findings and define the optimal surgical technique for cubital tunnel syndrome.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.94,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Ultrasound and Clinical outcomes of Vascularized ulnar nerve transposition",
+      "url": "https://doi.org/10.21203/rs.3.rs-8448613/v1",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "2026",
+      "doi": "10.21203/rs.3.rs-8448613/v1",
+      "abstract": "Abstract Background Ulnar nerve entrapment at the elbow is common but results of ulnar nerve transposition remained uncertain. Chronic nerve ischemia is implicated in the syndrome's pathophysiology, and surgical interventions aim to mitigate related damage. The main hypothesis is that preserving the vascular system during ulnar nerve transposition helps prevent ischemic damage and improves clinical outcomes. Methods Thirty five patients were included and divided into two groups: 'Vascularized Ulnar Nerve' (UNV+) and 'Non-vascularized Ulnar Nerve' (UNV-). They underwent subcutaneous anterior transposition of the ulnar nerve. Preoperative and postoperative clinical assessment was made using: Bishop score, Visual Analog Scale, Levine-Katz survey, Functional Status Scale, and QuickDash Score. Post operative nerve extrinsic vascularization was assessed with ultrasound. Results Results after a mean 19.2-month follow-up show superior clinical outcomes, including Bishop and Levine-Katz scores, in the 'Vascularized Ulnar Nerve' group. Despite longer operative times (47 min in UNV+ vs 33 min in UNV-), no vascular complications occurred, supporting the hypothesis that preserving extrinsic vascularization enhances results. Extrinsic vascularization of the ulnar nerve could be continuously observed from proximal to distal in all patients in the UNV+ group. In 4 out of 15 cases in the UNV- group, vascularization was observed along the entire length of the nerve. Conclusions Ultrasound assessments indicated improved nerve characteristics in the vascularized ulnar nerve group, reinforcing the study's main conclusion: preserving the extrinsic vascular system during ulnar nerve transposition contributes to better clinical outcomes. However, the study acknowledges limitations, urging further research with larger cohorts and electromyographic evaluation for a comprehensive understanding. Level of evidence : IV – Case series Therapeutic study",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Optimal nerve release range and transposition distance in anterior ulnar nerve transposition for cubital tunnel syndrome: an anatomical study",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2666638325002415",
+      "publisher": "JSES International",
+      "year": "2025",
+      "doi": "10.1016/j.jseint.2025.07.003",
+      "abstract": "Background: Cubital tunnel syndrome, the second most common entrapment neuropathy, results from ulnar nerve compression at the medial epicondyle (ME). Conservative treatment often fails, requiring surgery. Transposition is an effective but invasive procedure, necessitating precise anatomical guidelines. We aimed to investigate the optimal anatomical measurements for ulnar nerve transposition to facilitate standardization of the technique. Methods: We examined 12 upper limbs from 6 fresh-frozen cadavers with elbows flexed at 60° and forearms supinated. The optimal transposition distance was defined as the distance from the ME to where the ulnar and median nerves run parallel. We measured this distance; pivot points A and B (where the ulnar nerve's course changes after transposition); crossing points over the medial intermuscular septum and flexors (A′, B′); and ulnar nerve branch positions from the inferior border of the ME. Results: After excluding 3 outliers using the interquartile range method, 10 limbs were analyzed. The transposition distance was 16.6 ± 3.3 mm. Pivot points A and B were 53.8 ± 6.5 mm and 50.2 ± 9.1 mm from the ME. Crossing points A′ and B′ were 39.6 ± 7.9 mm and 40.2 ± 6.7 mm. Nerve branches were 21.1 ± 6.0 mm, 32.4 ± 14.8 mm, and 50.9 ± 24.6 mm from the inferior border of the ME. Conclusion: Anterior transposition shifts the ulnar nerve 17 mm anterior to the ME. To prevent kinking, dissection should extend 54 mm proximally and 50 mm distally, totaling approximately 105 mm. These measurements can guide intraoperative planning and emphasize the need for direct visualization to ensure safe and effective anterior transposition.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Novel Technique for Ulnar Nerve Transposition at the Elbow: The Neocubital Tunnel",
+      "url": "http://journals.lww.com/prsgo/fulltext/10.1097/GOX.0000000000006109",
+      "publisher": "Plastic and Reconstructive Surgery, Global Open",
+      "year": "2024",
+      "doi": "10.1097/GOX.0000000000006109",
+      "abstract": "Background:. Many standard surgical procedures for cubital tunnel syndrome rely on ulnar nerve transposition at the elbow. Placing the ulnar nerve anterior to the axis of motion decreases compression during flexion. Subcutaneous, subfascial, and submuscular positioning of the ulnar nerve may predispose to nerve irritation, instability, and compression in the two first scenarios, and requires invasive dissection in the third one. With no single procedure demonstrating clear advantages and outcomes, this study reports the results of a novel technique using the epitrochleo-olecranon ligament to create a neo-tunnel, anatomically stabilizing the ulnar nerve. Methods:. Nine consecutive patients were enrolled. Patients were evaluated qualitatively for symptomatic improvements using physical examination. The Wilson and Krout, modified McGowan, and PRUNE grading scores were used for quantitative measurement. Results:. Postoperatively, all patients reported subjective improvement in symptoms and functional improvement. There were no intraoperative or postoperative complications. Baseline severity of disease was evaluated using the McGowan scale (modified by Goldberg): eight (89%) grade IIA patients and one (11%) grade III patient. Postoperatively, seven (78%) patients were reduced to grade 0, and two (22%) patients to grade 1 (P < 0.001). Using the Wilson and Krout criteria, outcomes were as follows: six (67%) excellent, two (22%) good, and one (11%) fair. The mean postoperative PRUNE survey score was 19.3 (SD ± 24.4). Conclusions:. The neocubital tunnel technique is a relatively noninvasive, safe surgical alternative that may be considered when an anterior transposition of the ulnar nerve is indicated for surgical decompression of the cubital tunnel.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Return to play rates after ulnar nerve transposition and decompression surgery: a retrospective analysis",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2666638320302127",
+      "publisher": "JSES International",
+      "year": "2021",
+      "doi": "10.1016/j.jseint.2020.10.026",
+      "abstract": "Background: Medial elbow pain is a common complaint in overhead throwing athletes. The throwing motion places repetitive tensile and compressive forces on the elbow resulting in significant stress across the ulnohumeral joint. This stress can result in soft-tissue, ligamentous, and ulnar nerve injury. The purpose of this study was to retrospectively investigate the clinical findings and outcomes, including return to play rates, of patients who underwent ulnar nerve transposition surgery for isolated ulnar neuritis. Methods: Throwing athletes who underwent isolated, primary ulnar nerve transposition surgery over an eight-year period, 2009 to 2017, were identified and included in our analysis. Nonthrowing athletes, those who underwent revision ulnar nerve transposition surgery, and those who underwent concomitant ulnar collateral ligament reconstruction or repair were excluded. Patients were contacted to complete the Kerlan-Jobe Orthopaedic Clinic Shoulder and Elbow Score as well as a return to play rate questionnaire. The minimum follow-up was 2 years. Results: Fifteen patients met the inclusion criteria: 13 (86.7%) men and 2 (13.3%) women. The average age at the time of surgery was 19.2 years old (range, 15.6-28.0). Preoperatively, 13 (86.7%) patients played baseball and 2 (13.3%) patients played softball. Two patients (13.3%) underwent a previous ulnar collateral ligament reconstruction. There were no complications. The average final follow-up was 65.26 (range, 24.44-113.29) months with an average Kerlan-Jobe Orthopaedic Clinic Score of 64.51 (range, 28.60-100.00). Thirteen (86.7%) patients were able to return to their preinjury sport, 2 to a higher level of competition, 8 to the same level, and 3 to a lower level. Seven of the 13 (53.8%) patients sustained a postoperative ipsilateral shoulder or elbow injury at an average of 19.57 (range, 7.00-36.00) months postoperatively. All patients reported sustaining the injury as a result of throwing. Conclusion: The results of our study indicate that ulnar nerve transposition surgery in throwing athletes allows athletes to return to throwing with low reoperation rates. However, more than half of the athletes in our analysis sustained a subsequent ipsilateral shoulder or elbow injury. Further investigation regarding outcomes in throwing athletes after ulnar nerve transposition surgery is warranted.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Subcutaneous versus submuscular ulnar nerve transposition in cubital tunnel syndrome",
+      "url": "https://eoj.journals.ekb.eg/article_412475_76fa2b82432a120f9222d06d10c76207.pdf",
+      "publisher": "The Egyptian Orthopaedic Journal",
+      "year": "2018",
+      "doi": "10.4103/eoj.eoj_63_18",
+      "abstract": "IntroductionThere are different surgical procedures for treatment of cubital tunnel syndrome (CubTS), which can be divided into two types, decompression and transposition procedures. Decompressive procedures include simple decompression with or without medial epicondylectomy without mobilizing the nerve. The transposition procedures mobilize the nerve anteriorly for more protection by subcutaneous, intramuscular, and submuscular methods, depending on the position in which the ulnar nerve is placed.Patients and methodsA total of 24 patients with moderate CubTS (according to Dellon’s grading system) between March 2011 and April 2013 were classified according to age and sex into anterior subcutaneous transposition and anterior submuscular transposition groups. The two groups were prospectively followed up for 2 weeks, 6 months, and 12 months postoperatively, and outcome was assessed using the Bishop rating system.ResultsA total of 24 patients with moderate CubTS were used in this study to compare the operative technique (incision length and operative time), postoperative care (postoperative pain and complications), and the outcome between subcutaneous transposition and submuscular transposition of the ulnar nerve as two surgical modalities in treating moderate CubTS. Final results present that the subcutaneous transposition of the ulnar nerve was associated with shorter incision, shorter operative time, less postoperative pain, less postoperative complication, and better outcome compared with the submuscular transposition.ConclusionSubcutaneous ulnar nerve transposition in the treatment of CubTS, as compared with the submuscular approach, is an easier surgical technique with less operative time and postoperative pain, earlier postoperative mobilization, and better postoperative outcome.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Subjective ulnar nerve dysfunction commonly following open reduction, internal fixation (ORIF) of distal humeral fractures and in situ decompression of the ulnar nerve",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5360670/",
+      "publisher": "Strategies in trauma and limb reconstruction",
+      "year": "2017",
+      "doi": "10.1007/s11751-016-0271-5",
+      "abstract": "The aim of this retrospective study was to investigate the frequency of persistent ulnar affection in patients who underwent open reduction and internal fixation (ORIF) of distal humeral fractures without ulnar nerve transposition or mobilisation. Eighty-two patients (53 women), mean age 62 years, were, at a mean of 48 months, reviewed through medical records and a subjective evaluation form concerning ulnar nerve problems. Ulnar nerve affliction, in most cases regarded as mild, was experienced by 22 patients (27%; 14 women) and significantly associated with multiple surgeries. Three patients had been operated with late neurolysis and one with transposition without reported improvement. The proportion of ulnar nerve dysfunction was equally common regardless of medial or lateral plating. ORIF with plate fixation and without ulnar nerve transposition seems to be an acceptable option for patients with distal humeral fractures. The frequency of ulnar nerve affection in our series does not appear higher than previously reported. Subjective ulnar nerve symptoms were, however, relatively common and appear related to the trauma itself, the surgery, or the post-operative management which highlights the need for further analysis of these factors.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "ELBOW ULNAR NEUROPATHY: TREATMENT BY ANTERIOR TRANSPOSITION OF THE ULNAR NERVE",
+      "url": "https://doi.org/10.1590/1413-785220162404157171",
+      "publisher": "FapUNIFESP (SciELO)",
+      "year": "2016",
+      "doi": "10.1590/1413-785220162404157171",
+      "abstract": "Retrospective clinical evaluation of 31 patients who underwent ulnar nerve decompression at the elbow and subcutaneous anterior transposition.From January 2000 to December 2013, 71 patients underwent subcutaneous anterior transposition of the ulnar nerve. Thirty-one patients returned for evaluation. The mean follow-up period was 60 months. Patients were evaluated for the degree of satisfaction after surgery, paresthesia, pain, Tinel sign, Froment test and sensitivity test by esthesiometer, muscle strength of the intrinsic muscles and deep flexor of the fifth digit, visual analogic pain scale (VAS) and were subjected to the QuickDash questionnaire.Thirty-nine per cent of patients had compression on the right side and 61% on the left side. Sixty-one percent were idiopathic, 35% post traumatic and 3% had Poems syndrome. Forty-eight per cent of patients were very much satisfied after surgery and 52% were satisfied. Forty-eight per cent had paresthesia after surgery and 52% did not.The ulnar neurolysis of the cubital tunnel with anterior subcutaneous transposition is a safe and effective technique for treating idiopathic or post-traumatic compressive neuropathy, with high success rate and excellent function for activities of daily living. Level of Evidence IV, Case Series.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Subcutaneous vs Submuscular Ulnar Nerve Transposition in Moderate Cubital Tunnel Syndrome",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2738827/",
+      "publisher": "The open orthopaedics journal",
+      "year": "2009",
+      "doi": "10.2174/1874325000903010078",
+      "abstract": "Background The surgical treatment of Cubital tunnel syndrome (CubTS) is still a matter of debate. No consensus exists about the necessity of anterior transposition of the ulnar nerve after decompression. However, this technique is fairly common in clinical practice. Material and methodology In the present study we compared the operative technique (incision length, operative time), postoperative care (postoperative pain and complications) and the outcome between subcutaneous transposition and submuscular transposition of the ulnar nerve as two surgical modalities in treating moderate CubTS. Between March 2004 and March 2007, twenty six patients with moderate CubTS (according to Dellon's grading system) were stratified according to age and gender into these two surgical techniques. The two groups were prospectively followed up 2 weeks, 6 months and 12 months postoperatively by the same observer and the operation outcome was assessed using the Bishop rating system. Results We found that the subcutaneous transposition of the ulnar nerve was associated with shorter incision, shorter operative time, less postoperative pain, less postoperative complication and better outcome compared with the submuscular transposition. Conclusion The authors recommend the subcutaneous technique when considering anterior transposition of the ulnar nerve in treating moderate CubTS.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Results of Anterior Transposition of the Ulnar Nerve for Ulnar Neuritis",
+      "url": "https://doi.org/10.1136/bmj.1.5687.27",
+      "publisher": "BMJ",
+      "year": "1970",
+      "doi": "10.1136/bmj.1.5687.27",
+      "abstract": "A clinical and electrophysiological followup study was done on 23 patients with ulnar neuritis treated by surgical transposition of the nerve at the elbow. Pain was relieved in all those affected and other sensory symptoms showed some degree of improvement in most. Weakness tended to persist, but recovery of full use of the hand followed operation in 74%. Muscle wasting was the least likely to improve. The chance of recovery after operation was greatly reduced in patients in whom preoperative symptoms had been present for more than one year.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Postoperative Drainage Is Recommended in Ulnar Nerve Transposition",
+      "url": "https://doi.org/10.1177/229255039800600404",
+      "publisher": "SAGE Publications",
+      "year": "1998",
+      "doi": "10.1177/229255039800600404",
+      "abstract": "EG Deune, SE Mackinnon. Postoperative drainage is recommended in ulnar nerve transposition. Can J Plastic Surg 1998;6(4):201-203. Surgery to transpose the ulnar nerve is a common treatment for cubital tunnel syndrome. Postoperative hematoma is a rare, but well recognized complication of this surgery, whereas postoperative bruising is a common sequela. A retrospective review of 138 cases of anterior submuscular transposition performed between December 1991 and December 1995 was conducted to evaluate the merits of postoperative drainage. Various parameters (patient, surgical, and anesthetic) were compared to determine their effect on drainage. Males had a higher postoperative drainage volume than females (P<0.0001). Other patient, surgical and anesthetic factors did not correlate significantly with the drainage volume. The mean drainage during the first postoperative day was 41.2±2.5 mL (range 3 mL to 190 mL). This volume is significant and warrants drainage with an indwelling catheter when anterior submuscular transposition of the ulnar nerve is performed.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Ulnohumeral arthroplasty for primary degenerative arthritis of the elbow: long-term outcome and complications",
+      "url": "https://zenodo.org/records/18623004",
+      "publisher": "Zenodo",
+      "year": "2002",
+      "doi": "10.2106/00004623-200212000-00007",
+      "abstract": "Background: Primary degenerative arthritis of the elbow is an uncommon disorder that recently has been more clearly recognized. The purpose of this study was to analyze the long-term results and complications of ulnohumeral arthroplasty as treatment of primary osteoarthritis of the elbow and to document any tendency for recurrence of the arthritis after the procedure. Methods: The results of ulnohumeral arthroplasties performed at our institution, between 1986 and 1996, in forty-six elbows (forty-five patients) with primary osteoarthritis were reviewed at an average of eighty months (range, twenty-four to 164 months) after the operation. There were forty-four men and one woman with a mean age of forty-eight years. All patients complained of pain with terminal elbow extension. The pain was associated with locking in fourteen elbows and with ulnar nerve symptoms in twelve. The surgical procedure involved fenestration of the olecranon fossa and excision of olecranon and coronoid osteophytes in all patients, with removal of loose bodies in thirty-six elbows. A capsular release was performed in nineteen elbows, and an ulnar nerve transposition or neurolysis was done in eight. Preoperative and follow-up assessment included evaluation of elbow pain and range of motion with the Mayo Elbow Performance Score. Results: The mean arc of flexion-extension improved from 79 degrees (range, 10 degrees to 135 degrees) preoperatively to 101 degrees (range, 45 degrees to 135 degrees) at the time of follow-up (p < 0.05). At the last follow-up examination, thirty-five elbows (76%) were not painful or were only mildly painful and eleven were moderately or severely painful. According to the Mayo Elbow Performance Score, the result was excellent for twenty-six elbows, good for eight, fair for four, and poor for eight. Thirteen of the forty-five patients reported some degree of ulnar nerve symptoms postoperatively, and six of them required another operation to decompress or translocate the nerve. Two other patients underwent additional surgery because of persistent symptoms. Conclusions: The data from this study show that ulnohumeral arthroplasty can yield satisfactory long-term pain relief and an increase in the range of motion. Patients with severe preoperative limitation of elbow extension of >60 degrees and flexion of <100 degrees and those who undergo manipulation under anesthesia in the early postoperative period to increase motion are at risk for the development of ulnar nerve dysfunction postoperatively. One should consider prophylactic ulnar nerve decompression or mobilization under these circumstances.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.0,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Endoscopic cubital tunnel release: a modified surgery and clinical application",
+      "url": "https://medicaljournalssweden.se/JPHS/article/view/45986",
+      "publisher": "Journal of Plastic Surgery and Hand Surgery",
+      "year": "2026",
+      "doi": "10.2340/jphs.v61.45986",
+      "abstract": "Background: Varied surgical alternatives for treating cubital tunnel syndromes have been used. A trend of endoscopic ulnar nerve release is emerging. The purpose of this study is to introduce a modified technique of endoscopic ulnar nerve decompression in association with anterior transposition of the ulnar nerve and to assess the feasibility and efficacy of the surgery. Materials and Methods: We introduced a modified method of endoscopic release and subfascial anterior transposition of the ulnar nerve. The technique was applied to six patients who presented signs, symptoms, and abnormal neurophysiological studies of cubital tunnel syndrome. The patients were classified according to the Dellon classification preoperatively. The Bishop rating system was used to evaluate the postoperative outcomes. Trial registration number for the study is MR-31-25-090620. Results: Preoperatively, all six patients were classified as severe according to the Dellon classification. The endoscopic cubital tunnel release and subfascial anterior ulnar nerve transposition surgeries were performed with no difficulty in all patients. All the patients had improvement in symptoms and scored excellent or good according to the modified Bishop Rating System postoperatively. Conclusions: The modified endoscopic cubital tunnel release and subfascial anterior ulnar nerve transposition technique is technically feasible with satisfactory outcomes in six patients in this study.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Medial elbow approaches for coronoid fractures: risk to the ulnar nerve",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2666638324003980",
+      "publisher": "JSES International",
+      "year": "2025",
+      "doi": "10.1016/j.jseint.2024.09.001",
+      "abstract": "Background: Coronoid fractures often require open reduction internal fixation (ORIF) to restore elbow stability. The flexor pronator split, flexor carpi ulnaris (FCU) split, and Taylor and Scham (T&S) approaches are frequently used medial approaches to access the coronoid. The ulnar nerve can be released or transposed when performing these exposures. The optimal medial surgical approach and management of the ulnar nerve has not been clearly defined. The purpose of this study was to compare postoperative ulnar nerve complications in coronoid fractures undergoing ORIF following a medial surgical approach and ulnar nerve release or transposition. Methods: A retrospective review of 91 patients with coronoid fractures treated with ORIF using a medial approach from 2004 to 2022 was performed at three academic medical centers. Patients ≥ 18 years of age who sustained coronoid fractures with or without associated injuries were included. Patient charts and perioperative imaging were reviewed. Patient demographics, fracture classification, associated injuries, surgical approaches, ulnar nerve management, and postoperative complications were recorded. Primary outcomes assessed were signs and symptoms of postoperative ulnar nerve neuropathy. Results: The mean age of the cohort was 45 ± 16 years, 71% were males, with a mean length of follow-up of 16 ± 22 months. Of the 91 coronoid fractures, 69 were anteromedials, eight were tips, and 14 were basal types. The incidence of preoperative ulnar neuropathy was 5% (n = 5). The incidence of postoperative ulnar neuropathy was 33% (n = 30) of which 55% (n = 16) completely resolved by final follow-up. The rate of postoperative ulnar neuropathy was not significantly different between in situ release 30% (n = 9) or transposition of the ulnar nerve 34% (n = 20), (P = .64). There was a significantly higher rate of postoperative resolution with transposition (70%) versus in situ release (22%), (P = .045). The rate of postoperative ulnar neuropathy was not significantly different between the FCU, T&S, or flexor pronator split approaches, (P = .331). Finally, the rate of neuropathy resolution was not significantly different between medial approaches (P = .46). Conclusion: There was no statistical difference in the incidence of postoperative ulnar nerve complications with ulnar nerve transposition or in situ release following coronoid fixation. However, transposing the nerve resulted in a higher rate of neuropathy resolution. While the incidence of postoperative ulnar nerve dysfunction is high following coronoid fixation when using a medial surgical approach, it was similar with the FCU, T&S, and flexor pronator split approaches. Larger cohorts and randomized clinical trials are needed to confirm these findings.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Short-term outcomes of percutaneous versus subcutaneous fascial flap fixation in cubital tunnel syndrome surgery: A retrospective cohort study",
+      "url": "https://doi.org/10.1186/s13018-025-06200-5",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2025",
+      "doi": "10.1186/s13018-025-06200-5",
+      "abstract": "Abstract Objective Percutaneous external suturing has been proposed as an alternative approach to fascial flap fixation during anterior subcutaneous transposition for cubital tunnel syndrome (CuTS), with the aim of minimizing deep tissue disruption and reducing postoperative complications. This study compared short-term outcomes between percutaneous external fixation and traditional subcutaneous fixation of fascial flaps in CuTS surgery. Methods In this retrospective cohort study, 114 patients who underwent anterior ulnar nerve transposition with fascial flap coverage were enrolled between January 2020 and December 2023. Patients were grouped based on the method of fascial flap fixation: subcutaneous (n = 57) or percutaneous (n = 57). Clinical assessments—including Visual Analog Scale (VAS), Patient-Rated Ulnar Nerve Evaluation (PRUNE), and Cubital Tunnel Syndrome Functional Score—along with nerve conduction studies (CMAP, SNCV, MNCV), were performed preoperatively and at 6-month follow-up. Results Compared to the subcutaneous group, the percutaneous group showed significantly greater improvement in VAS scores (VAS: -2.75 vs. -1.99, p < 0.001), PRUNE scores (PRUNE: -23.78 vs. -17.64, p < 0.001), and functional scores (Score: +3.58 vs. + 2.70, p = 0.0004). Increases in SNCV (16.45 m/s vs. 14.51 m/s, p = 0.035) and MNCV (18.55 m/s vs. 12.13 m/s, p < 0.001) were also more pronounced in the percutaneous group. Although CMAP improved in both groups, postoperative CMAP values were slightly higher in the subcutaneous group (6.02 ± 0.85 mV vs. 5.40 ± 0.51 mV, p = 0.002). No infections or wound complications occurred in either group; two reoperations for recurrent compression were required in the subcutaneous group. Conclusion Percutaneous external suturing may represent a safe and promising alternative for fascial flap fixation during CuTS surgery, with potential benefits in early postoperative pain relief, nerve conduction, and functional outcomes. However, longer-term studies are needed to assess durability and potential late complications. Trial registration This study was retrospectively registered with the Institutional Review Board of the First Affiliated Hospital of Anhui Medical University (Approval No. PJ2024-12-17).",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Poster 53: Epidemiology of UCL Repair and Reconstruction: A Five-Year Study in New York State",
+      "url": "https://doi.org/10.1177/2325967125S00164",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2025",
+      "doi": "10.1177/2325967125S00164",
+      "abstract": "Objectives: To examine the epidemiological trends of UCL repair with an internal brace compared to UCL reconstruction on a state-wide level over a 5-year period. The primary endpoints were the yearly rates of UCL repairs and reconstructions. Secondary endpoints included patient demographics, institutional and surgeon volumes, and concomitant ulnar nerve transposition. Methods: In this descriptive epidemiological study, the New York Statewide Planning and Research Cooperative System (SPARCS) database contains information for every New York State ambulatory discharge. The database was queried to obtain all UCL repairs and reconstructions in New York State from 2017 to 2021, utilizing outpatient CPT-4 (Current Procedural Terminology, 4th Revision) codes. Data obtained included concomitant ulnar nerve surgery, patient age, sex, ethnicity, insurance, laterality, as well as institutional and surgeon volume. Results: From 2017 to 2021, there were 745 UCL surgeries performed in New York State. From 2017 to 2021, there was a 48% increase in UCL reconstructions in the state, compared to an even greater increase in incidence of UCL repairs during this time at 133%. In 2017, UCL repairs accounted for 26% of all UCL surgeries in the state. By 2021, UCL repairs had risen to account for 38% of all UCL surgeries. From 2017 to 2021, the total incidence of UCL surgeries increased by 72%, with an increased incidence of concomitant ulnar nerve surgery of 74%. Amongst patients 13 to 16 years of age, repairs accounted for 40% of UCL surgeries, compared to just 23.3% of UCL surgeries amongst patients 21 to 25 years of age. The two New York highest volume surgeons performed a 543% increase in UCL surgeries (16 in 2017 to 87 in 2021). UCL reconstruction was favored over repair by the two highest volume New York surgeons, though repair incidence increased over the years. There was an increased percent of UCL surgeries with concomitant ulnar nerve transposition, from 31% in 2017 to 43% in 2021. Conclusions: While the frequency of UCL reconstruction in New York State has risen in recent years, the frequency of UCL repair with an internal brace has risen at an even faster rate. UCL repairs are growing more common amongst younger patients. Amongst the two highest volume UCL surgeons in New York State, UCL reconstruction is heavily favored over repair with an internal brace, though repair incidence has increased over the years. There is a paradigm shift underway towards UCL repair with an internal brace, though the highest volume UCL surgeons still favor UCL reconstruction.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Intra-articular Entrapment of Medial Epicondyle Fracture Fragment in Elbow Joint Dislocation Causing Ulnar Neuropraxia: A Case Report",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5393124/",
+      "publisher": "Malaysian orthopaedic journal",
+      "year": "2017",
+      "doi": "10.5704/moj.1703.016",
+      "abstract": "Traumatic elbow dislocations in children are rare but most of them are complex dislocations, and in such dislocations, medial humerus epicondyle fractureis the most common associated injury. Fracture incarceration in the elbow joint occurs in 5-18% of medial humerus epicondyle fractures but ulnar neuropraxia is very rare. Open reduction internal fixation is indicated in medial humerus epicondyle fracture with fracture incarceration, ulnar neuropraxia, marked instability or open fracture. Operative treatment options include fragment excision and sutures, closed or open reduction and Kirschner wire fixation, open reduction and suture fixation, open reduction and smooth pin fixation, and open reduction and screw fixation. However, ulnar nerve transposition is debatable as good outcome had been reported with and without nerve transposition. We report a case of a 13-year old boy, who presented with right elbow dislocation and intra-articular entrapment of medial humerus epicondyle fracture fragment, complicated with sensory ulnar neuropraxia, following a fall onto his right outstretched hand in a motor vehicle accident. The elbow joint was reduced using close manipulative reduction but the fracture fragment remained entrapped post-reduction. The patient then underwent open reduction and screw fixation of the medial humerus epicondyle fracture without ulnar nerve transposition. He had good functional outcome six weeks after surgical intervention, with complete recovery of ulnar neuropraxia six months later. Currently, he is doing well at school and is active with his sporting activity.",
+      "licence": "cc by",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.58,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Paper 13: None: Clinical Outcomes of Ulnar Collateral Ligament Surgery in Non-Throwing Athletes",
+      "url": "https://doi.org/10.1177/2325967121S00551",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2022",
+      "doi": "10.1177/2325967121S00551",
+      "abstract": "Objectives: Ulnar collateral ligament (UCL) surgery continues to improve since its inception by Dr. Frank Jobe in 1974. There is now ample data on the outcomes of surgery for throwing athletes, such as baseball players, who undergo either UCL reconstruction or UCL repair. In comparison, there is very little available data regarding outcomes of UCL surgery for non-throwing athletes who are seeking similar benefit from the procedure. The primary objective of this study is to provide clinical outcomes of UCL surgery performed in non-throwing athletes at a single institution with a minimum two-year follow-up. Methods: Forty non-throwing athletes who underwent UCL surgery (repair or reconstruction) between 2011 and 2019 were identified. All surgeries were performed by one of three fellowship-trained sports medicine surgeons at our institution utilizing a uniform technique for repair or reconstruction. Demographics were recorded including age, sex, laterality, arm dominance, sport, level of competition, and type of surgery (UCL repair or reconstruction). Outcomes included return to play (rate and average time), American Shoulder and Elbow Surgeons (ASES) scores, and complications. Results: Thirty-seven patients (92.5%) were available for evaluation with a minimum two-year follow-up consisting of 16 males (43%) and 21 females (57%). Mean age at the time of surgery was 18±3.7 years.28 UCL repairs (76%) and 9 UCL reconstructions (24%) were performed.Sports included football (n=11), gymnastics (11), cheerleading (7), wrestling (4), volleyball (2), basketball (1), and acrobatics (1). Quarterbacks were excluded from the football patients as quarterbacks are throwing athletes. Level of competition included youth (1), high school (26), college (8), and professional (2).Return to play rate was 93% (26 of 28) at a mean of 7.4 months for UCL repair, and 100% (9 of 9) at a mean of 10 months for UCL reconstruction.Mean ASES scores were 94.4 and 98.7 for UCL repair and reconstruction, respectively.Two Patients in the UCL repair group required ulnar neurolysis and revision ulnar nerve transposition. Conclusions: Both UCL reconstruction and UCL repair show favorable outcomes at minimum two-year follow-up in non-throwing athletes.93% or greater returned to play with good functional outcomes and minimal complications. Table 1. Patient Characteristics Table 2. Outcomes Comparison",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Early Complications of Ulnar Collateral Ligament Repair With Collagen-Coated Suture Tape Augmentation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8504244/",
+      "publisher": "Orthopaedic journal of sports medicine",
+      "year": "2021",
+      "doi": "10.1177/23259671211038320",
+      "abstract": "Background: Recent innovative techniques have led to renewed interest in ulnar collateral ligament (UCL) repair. Although early outcome data regarding the clinical outcome of overhead athletes undergoing UCL repair with augmentation have been encouraging, long-term data are still needed to evaluate both the appropriate indications and success rate for this procedure. Purpose: To describe and evaluate the acute complications seen in a large cohort of patients who underwent UCL repair with internal brace augmentation at a single institution. Study Design: Case series; Level of evidence, 4. Methods: We performed a retrospective chart review of a prospectively collected database, consisting of all patients who underwent UCL repair with internal brace augmentation utilizing a collagen-dipped FiberTape at our institution from August 2013 to January 2020. Patient characteristics, injury setting, side of surgery, and concomitant ulnar nerve transposition procedures were recorded. Early complications of UCL repair (within 6 months of the procedure) were evaluated and characterized as either minor or major, depending on whether the patient required a return to the operating room. Results: Of the 353 patients who underwent UCL repair at our institution with a minimum of 6-month follow-up, 84.7% (299/353) reported no complications, 11.9% (42/353) reported minor complications—including ulnar nerve paresthesia, postoperative medial elbow pain, and postoperative superficial wound complications—and 3.4% (12/353) required a return to the operating room because of a major complication requiring ulnar nerve exploration/debridement, primary ulnar nerve transposition, or heterotopic ossification excision. Conclusion: The low major complication rate identified in this study further validates the efficacy of the UCL repair with the internal bracing augmentation technique. Longer term follow-up data are needed to more adequately assess the outcomes and durability of this procedure.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj",
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Clinical Outcomes and Return to Play in Youth Overhead Athletes After Medial Epicondyle Fractures Treated With Open Reduction and Internal Fixation",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7876761/",
+      "publisher": "Orthopaedic journal of sports medicine",
+      "year": "2021",
+      "doi": "10.1177/2325967120976573",
+      "abstract": "Background There is limited literature regarding outcomes after operative treatment of displaced medial epicondyle avulsion fractures in adolescent athletes. Most studies have had a relatively small sample size and have not assessed return to play of the overhead athlete. Purpose To examine return to play and outcomes of youth overhead athletes who underwent open reduction and internal fixation (ORIF) with screw fixation. Study design Case series; Level of evidence, 4. Methods Charts and radiographs were queried between January 2003 and June 2018 for young overhead athletes (age, Results Overall, 29 patients were included in the study; the mean age at surgery was 14.7 years (range, 12.9-16.5 years). There were 25 baseball players, 3 football quarterbacks, and 1 tennis player. Of the 23 patients with available images at least 3 months after surgery, 96% demonstrated radiographic union at last follow-up. Imaging for the 1 patient with nonunion was taken 3 months after ORIF, and it is unknown if he eventually had union. All patients (100%) were successfully contacted to complete questionnaires at a mean follow-up of 4.8 years (range, 1.0-13.5 years). The mean KJOC score was 93.0, and the mean scores for the American Shoulder and Elbow Surgeons Elbow questionnaire were 8.9, 35.6, and 9.8 for pain, function, and satisfaction, respectively. One overhead athlete did not return to play, while the other 28 returned at a mean 7 months after surgery. No patient underwent revision ORIF, 1 underwent hardware removal, and 1 underwent ulnar nerve transposition. No players underwent ulnar collateral ligament reconstruction after primary ORIF of the medial epicondyle. Conclusion ORIF of displaced medial epicondyle fractures is a reliable and successful procedure in adolescent overhead athletes with high demands, with relatively low risk of major complications, reinjury, or reoperation.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ulnar Nerve Entrapment in Diabetes: Patient-reported Outcome after Surgery in National Quality Registries",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7209826/",
+      "publisher": "Plastic and reconstructive surgery. Global open",
+      "year": "2020",
+      "doi": "10.1097/gox.0000000000002740",
+      "abstract": "Background Ulnar nerve entrapment at the elbow (UNE) is overrepresented in patients with diabetes, but the outcome of surgery is unknown. We aimed to evaluate patient-reported outcome in patients with and without diabetes, and to assess potential sex differences and compare surgical treatment methods. Methods Data on patients operated for UNE (2010-2016, n = 1354) from the Swedish National Registry for Hand Surgery were linked to the Swedish National Diabetes Register. Symptoms were assessed preoperatively (n = 389), and 3 (n = 283), and at 12 months postoperatively (n = 267) by QuickDASH and HQ-8 (specific hand surgery questionnaire-8 questions). Only simple decompressions were included when comparing groups. Results Men with diabetes reported higher postoperative QuickDASH scores than men without diabetes. Women scored their disability higher than men on all time-points in QuickDASH, but showed larger improvement between preoperative and 12 months postoperative values. Patients operated with transposition scored 10.8 points higher on QuickDASH than patients who had simple decompression at 12 months (95% confidence interval 1.98-19.6). Conclusions Women with diabetes benefit from simple decompression for UNE to the same extent as women without diabetes. Men with diabetes risk not to benefit from simple decompression as much as women do. Ulnar nerve transposition had a higher risk of residual symptoms compared to simple decompression.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Cubital Tunnel Syndrome Caused by Anconeus Epitrochlearis Muscle",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6129750/",
+      "publisher": "Journal of Korean Neurosurgical Society",
+      "year": "2018",
+      "doi": "10.3340/jkns.2018.0033",
+      "abstract": "Objective We evaluated the clinical manifestation and surgical results following operative treatment of cubital tunnel syndrome (CuTS) caused by anconeus epitrochlearis (AE) muscle. Methods Among 142 patients who underwent surgery for CuTS from November 2007 to October 2015, 12 were assigned to the AE group based on discovery of AE muscle; 130 patients were assigned to the other group. We analyzed retrospectively; age, sex, dominant hand, symptom duration, and weakness in hand. Severity of the disease was evaluated using the Dellon classification and postoperative symptom were evaluated using disability of arm shoulder and hand (DASH) and visual analogue scale (VAS) scores. Surgery consisted of subfascial anterior transposition following excision of AE muscle. Results AE muscle was present in 8.5% of all patients, and was more common in patients who were younger and with involvement of their dominant hand; the duration of symptom was shorter in patients with AE muscle. All patients showed postoperative improvement in symptoms according to DASH and VAS scores. Conclusion The possibility of CuTS caused by AE muscle should be considered when younger patients have rapidly aggravated and activity-related cubital tunnel symptoms with a palpable mass in the cubital tunnel area. Excision of AE muscle and anterior ulnar nerve transposition may be considered effective surgical treatment.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Endoscopic Anterior Subcutaneous Transposition of the Ulnar Nerve",
+      "url": "https://doi.org/10.1016/j.eats.2017.06.005",
+      "publisher": "Wiley",
+      "year": "2017",
+      "doi": "10.1016/j.eats.2017.06.005",
+      "abstract": "Abstract Cubital tunnel syndrome refers to ulnar nerve compressive neuropathy and most commonly occurs at the level of the elbow. Surgical options include in situ decompression, decompression with anterior transposition of the ulnar nerve, and medial epicondylectomy with or without decompression. With the advancement of endoscopic surgery, techniques of endoscopic in situ decompression of the ulnar nerve, endoscopy‐assisted anterior transposition, and endoscopic anterior transposition of the ulnar nerve have been reported with the advantage of minimally invasive surgery. We describe a 2‐portal technique of endoscopy‐assisted anterior subcutaneous transposition of the ulnar nerve. Technique Video video See video under supplementary data.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Factors Influencing Outcomes after Ulnar Nerve Stability-Based Surgery for Cubital Tunnel Syndrome: A Prospective Cohort Study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4740540/",
+      "publisher": "Yonsei medical journal",
+      "year": "2016",
+      "doi": "10.3349/ymj.2016.57.2.455",
+      "abstract": "Purpose Simple decompression of the ulnar nerve has outcomes similar to anterior transposition for cubital tunnel syndrome; however, there is no consensus on the proper technique for patients with an unstable ulnar nerve. We hypothesized that 1) simple decompression or anterior ulnar nerve transposition, depending on nerve stability, would be effective for cubital tunnel syndrome and that 2) there would be determining factors of the clinical outcome at two years. Materials and methods Forty-one patients with cubital tunnel syndrome underwent simple decompression (n=30) or anterior transposition (n=11) according to an assessment of intra-operative ulnar nerve stability. Clinical outcome was assessed using grip and pinch strength, two-point discrimination, the mean of the disabilities of arm, shoulder, and hand (DASH) survey, and the modified Bishop Scale. Results Preoperatively, two patients were rated as mild, another 20 as moderate, and the remaining 19 as severe according to the Dellon Scale. At 2 years after operation, mean grip/pinch strength increased significantly from 19.4/3.2 kg to 31.1/4.1 kg, respectively. Two-point discrimination improved from 6.0 mm to 3.2 mm. The DASH score improved from 31.0 to 14.5. All but one patient scored good or excellent according to the modified Bishop Scale. Correlations were found between the DASH score at two years and age, pre-operative grip strength, and two-point discrimination. Conclusion An ulnar nerve stability-based approach to surgery selection for cubital tunnel syndrome was effective based on 2-year follow-up data. Older age, worse preoperative grip strength, and worse two-point discrimination were associated with worse outcomes at 2 years.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Management of neglected lateral condyle fractures of humerus in children: A retrospective study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543890/",
+      "publisher": "Indian journal of orthopaedics",
+      "year": "2012",
+      "doi": "10.4103/0019-5413.104221",
+      "abstract": "Background Late presentation of humeral lateral condylar fracture in children is a surgical dilemma. Osteosynthesis of the fracture fragment or correction of elbow deformity with osteotomies and ulnar nerve transposition or sometimes both procedures combined is a controversial topic. We retrospectively evaluated open reduction and fixation cases in late presentation of lateral humeral condyle fracture in pediatric cases with regards to union and functional results. Materials and methods Twenty two pediatric (≤12 years) patients with fractures of lateral condyle presenting 4 weeks or more post injury between the study period of 2006 and 2010 were included. Multiple K-wires / with or without screws along with bone grafting were used. At final evaluation, union (radiologically) and elbow function (Liverpool Elbow Score, LES) was assessed. Results There were 19 boys and 3 girls. Followup averaged 33 months. Pain (n=9), swelling (n=6), restriction of elbow motion (n=6), prominence of lateral condylar region (n=4), valgus deformity (n=4) were the main presenting symptoms. Ulnar nerve function was normal in all patients. There were nine Milch type I and 13 type II fractures. Union occurred in 20 cases. One case had malunion and in another case there was resorption of condyle following postoperative infection and avascular necrosis. Prominent lateral condyles (4/12), fish tail appearance (n=7), premature epiphyseal closure (n=2) were other observations. LES averaged 8.12 (range, 6.66-9.54) at final followup. Conclusions There is high rate of union and satisfactory elbow function in late presenting lateral condyle fractures in children following osteosynthesis attempt. Our study showed poor correlation between patient's age, duration of late presentation or Milch type I or II and final elbow function as determined by LES.",
+      "licence": "cc by-nc-sa",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "MEDIAL EPICONDYLECTOMY OR ULNAR-NERVE TRANSPOSITION FOR ULNAR NEUROPATHY AT THE ELBOW?",
+      "url": "https://doi.org/10.1302/0301-620x.78b5.0780777",
+      "publisher": "British Editorial Society of Bone & Joint Surgery",
+      "year": "1996",
+      "doi": "10.1302/0301-620x.78b5.0780777",
+      "abstract": "We carried out a prospective randomised study comparing medial epicondylectomy with anterior transposition for the treatment of ulnar neuropathy at the elbow. The mean follow-up period was 4.5 years and we assessed the patients neurologically and orthopaedically. Neither procedure appeared to have a significant effect on elbow function. Our study showed better results after medial epicondylectomy; in particular patient satisfaction was higher than after ulnar nerve transposition. There were no significant differences in motor power or nerve-conduction rates and sensory fibres appeared to be more vulnerable to devascularisation.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Spontaneous displacement of olecranon fracture through geode salvaged by elbow replacement",
+      "url": "https://hal.science/hal-00568293v1",
+      "publisher": "Rheumatology International",
+      "year": "2009",
+      "doi": "10.1007/s00296-009-0984-6",
+      "abstract": "We present a case of pathological fracture of olecranon through a giant geode. Fracture was initially undisplaced and was treated conservatively. It later progressed to a transolecranon dislocation as a result of a pseudarthrosis at the fracture site. The patient presented 4 years later when she developed symptoms of ulnar nerve palsy. She was treated by a total elbow arthroplasty with ulnar nerve transposition. The current report highlights this unusual case and reviews the relevant literature.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "hal"
+      ]
+    }
+  ]
+}

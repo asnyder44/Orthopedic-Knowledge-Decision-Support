@@ -1,0 +1,853 @@
+{
+  "term": "Cast Immobilization",
+  "collected": "2026-11-14",
+  "count": 47,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Operative vs Nonoperative Treatment of Distal Radius Fractures in Adults: A Systematic Review and Meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7180423/",
+      "publisher": "JAMA network open",
+      "year": "2020",
+      "doi": "10.1001/jamanetworkopen.2020.3497",
+      "abstract": "Importance No consensus has been reached to date regarding the optimal treatment for distal radius fractures. The international rate of operative treatment has been increasing, despite higher costs and limited functional outcome evidence to support this shift. Objectives To compare functional, clinical, and radiologic outcomes after operative vs nonoperative treatment of distal radius fractures in adults. Data sources The PubMed/MEDLINE, Embase, CENTRAL (Cochrane Central Register of Controlled Trials), and CINAHL (Cumulative Index to Nursing and Allied Health Literature) databases were searched from inception to June 15, 2019, for studies comparing operative vs nonoperative treatment of distal radius fractures. Study selection Randomized clinical trials (RCTs) and observational studies reporting on the following: acute distal radius fracture with operative treatment (internal or external fixation) vs nonoperative treatment (cast immobilization, splinting, or bracing); patients 18 years or older; and functional outcome. Studies in a language other than English or reporting treatment for refracture were excluded. Data extraction and synthesis Data extraction was performed independently by 2 reviewers. Effect estimates were pooled using random-effects models and presented as risk ratios (RRs) or mean differences (MDs) with 95% CIs. Data were analyzed in September 2019. Main outcomes and measures The primary outcome measures included medium-term functional outcome measured with the Disabilities of the Arm, Shoulder and Hand questionnaire (DASH) and the overall complication rate after operative and nonoperative treatment. Results A total of 23 unique studies were included, consisting of 8 RCTs and 15 observational studies, that described 2254 unique patients. Among the studies that presented sex data, 1769 patients were women [80.6%]. Overall weighted mean age was 67 [range, 22-90] years). The RCTs included 656 patients (29.1%); observational studies, 1598 patients (70.9%). The overall pooled effect estimates the showed a significant improvement in medium-term (≤1 year) DASH score after operative treatment compared with nonoperative treatment (MD, -5.22 [95% CI, -8.87 to -1.57]; P = .005; I2 = 84%). No difference in complication rate was observed (RR, 1.03 [95% CI, 0.69-1.55]; P = .87; I2 = 62%). A significant improvement in grip strength was noted after operative treatment, measured in kilograms (MD, 2.73 [95% CI, 0.15-5.32]; P = .04; I2 = 79%) and as a percentage of the unaffected side (MD, 8.21 [95% CI, 2.26-14.15]; P = .007; I2 = 76%). No improvement in medium-term DASH score was found in the subgroup of studies that only included patients 60 years or older (MD, -0.98 [95% CI, -3.52 to 1.57]; P = .45; I2 = 34%]), compared with a larger improvement in medium-term DASH score after operative treatment in the other studies that included patients 18 years or older (MD, -7.50 [95% CI, -12.40 to -2.60]; P = .003; I2 = 77%); the difference between these subgroups was statically significant (test for subgroup differences, P = .02). Conclusions and relevance This meta-analysis suggests that operative treatment of distal radius fractures improves the medium-term DASH score and grip strength compared with nonoperative treatment in adults, with no difference in overall complication rate. The findings suggest that operative treatment might be more effective and have a greater effect on the health and well-being of younger, nonelderly patients.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.9,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Two casting methods compared in patients with Colles' fracture: A pragmatic, randomized controlled trial",
+      "url": "https://doi.org/10.1371/journal.pone.0232153",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0232153",
+      "abstract": "Background: Distal radius fractures are common fractures and the cornerstone of treatment remains immobilization of the wrist in a cast. At present, there is a scarcity of studies that compare different cast immobilization methods. The objective of the study was therefore to compare volar-flexion and ulnar deviation cast to functional cast position in the treatment of dorsally displaced distal radius fracture among elderly patients. Methods and findings: We performed a pragmatic, randomized, controlled trial in three emergency centers in Finland. After closed reduction of the fracture, the wrist was placed in either volar-flexion and ulnar deviation cast or functional cast position. The follow-up was 12 months. The primary outcome was patient-rated wrist evaluation (PRWE) score at 12 months. The secondary outcomes were Quick-DASH score, grip strength, health-related quality of life (15D), and pain catastrophizing scale. The number of complications was also recorded. In total, 105 participants were included in the study. Of these, 88% were female and the mean age was 73.5 (range 65–94) years. In the primary analysis, the mean difference in patient-rated wrist evaluation measure between groups was -4.9 (95% CI: -13.1.– 3.4., p = .24) in favor of the functional cast position. Operative treatment due to loss of reduction of fracture was performed for four patients (8%) in the FC group and for seven patients (13%) in the volar-flexion and ulnar deviation cast group (OR: 0.63, 95% CI: 0.16–2.1). Conclusion: In this study, the data were consistent with a wide range of treatment effects when comparing two different cast positions in the treatment of distal radius fracture among elderly patients at 12-month follow-up. However, the functional cast is more likely to be superior when compared to volar-flexion and ulnar deviation cast. Trial registration: ClinicalTrials.gov identifier: NCT02894983 Accessible: https://clinicaltrials.gov/ct2/show/NCT02894983",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.8,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Impact of a three-week full leg cast immobilization on infant crawling kinetics and spatiotemporal parameters",
+      "url": "https://doi.org/10.1371/journal.pone.0318106",
+      "publisher": "PLOS ONE",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0318106",
+      "abstract": "Despite its importance in the development of mobility in infants, there is a general lack of quantified data on infant crawling, and a specific lack of understanding of crawling kinetics, which includes the relative weightbearing and force generation among the four limbs. Moreover, because of the difficulty of measurement and study design, there is no longitudinal quantification of the impact of a perturbation to typical development, such as limb immobilization. This study measured kinetic and spatiotemporal outcomes in a typically developing infant prior to a fracture that necessitated a long-leg cast that immobilized the left knee and ankle, while crawling with the cast, and again one day after cast removal, and two weeks post. The study utilized a pressure-sensing mat to generate outcomes. Crawling in the cast resulted in a 37% decrease in speed, a shift of weight toward the arms (toward the right arm in particular), and a shift from double and quadruple limb support toward triple limb support. Upon removal of the cast, the unweighting and limb support patterns persisted, while speed recovered and actually exceeded baseline. Triple limb support was 12% at baseline, 28% in the cast, and 32% immediately following cast removal. Two weeks later, the value had dropped back to 17%, while speed continued to increase following a linear trend vs. age. These data provide insight into an infant’s ability to reorganize crawling kinematics, and the persistence of that reorganization following remobilization.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Tibial Pilon Fractures Treated by Percutaneous Screw Fixation with Plaster Cast Immobilization: Analysis of a Series of 13 Cases",
+      "url": "https://zenodo.org/records/6834454",
+      "publisher": "International Journal of Innovative Science and Research Technology",
+      "year": "2022",
+      "doi": "10.5281/zenodo.6834454",
+      "abstract": "Fractures of the tibial pilon remain a complicated situation, due to their articular location in the majority of cases, whose reconstruction in case of fracture of a correct tibioastragalar articular surface constitutes a great challenge for the surgeon. The thin and fragile skin covering the distal part of the tibia further complicates the therapeutic strategy for these fractures, since it is the site of progressive suffering that may require the open site to be removed. In this sense, the treatment of tibial pilon fractures by closed focus osteosynthesis (percutaneous screw fixation more or less pinning on demand or external fixation) has an important place in the therapeutic management of this type of fracture (especially when they are open or associated with significant skin damage). Closed focus osteosynthesis, regardless of the technique used, allows preservation of the skin, but does not allow reduction of the fracture as is obtained with open focus osteosynthesis. In this work, we report our experience with a series of 13 patients with a tibial pilon fracture treated with percutaneous screw fixation more or less pinning on demand associated with plaster cast immobilization for 3 to 4 weeks. This approach allowed us to obtain anatomical reduction of the fracture in 80% of cases, and satisfactory reduction (contact of more than 70% on either side of the fracture site as well as reconstruction of a correct tibiotalar articular surface) in 20% of cases. Thus, this approach allowed us to obtain consolidation for 12 cases of fractures in an average of 4 months with a good functional result (average AOFAS score is 87.2).",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Management of pediatric forearm fractures: what is the best therapeutic choice? A narrative review of the literature",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8578082/",
+      "publisher": "Musculoskeletal surgery",
+      "year": "2021",
+      "doi": "10.1007/s12306-020-00684-6",
+      "abstract": "Purpose This narrative review intends to summarize the most important and relevant data on diagnosis and treatment of pediatric forearm fractures and to describe the characteristics and advantage of each therapeutic option. Methods We conducted a literature research considering peer-reviewed papers (mainly clinical trials or scientific reviews) using the string \"forearm fracture AND epidemiology\" or \"forearm fracture AND diagnosis or \" forearm fracture AND treatment\" or \"forearm fracture AND casting\" or \"forearm fracture AND surgery\". Studies were identified by searching electronic databases (MEDLINE and PubMed) till April 2020 and reference lists of retrieved articles. Only English-language articles were included in the review. Results Conservative management with cast immobilization is a safe and successful treatment option in pediatric forearm fractures. Surgical indication is recommended when an acceptable reduction cannot be obtained with closed reduction and casting. Surgical treatment options are intramedullary nail, plating and hybrid fixation. Conclusions There is not a unique consensus about fracture management and treatment. Further studies are necessary to create univocal guidelines about optimal treatment, considering new techniques and available technologies.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Changes in cardiovascular parameters in rats exposed to chronic widespread mechanical allodynia induced by hind limb cast immobilization",
+      "url": "https://doi.org/10.1371/journal.pone.0245544",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0245544",
+      "abstract": "To elucidate the relationship between chronic pain conditions with cast immobilization and autonomic function, we investigated the functional changes of the autonomic nervous system in conscious rats with chronic post-cast pain (CPCP) induced by a two-week cast immobilization of one hind limb. We telemetrically examined the time courses of systolic arterial blood pressure (SBP), heart rate (HR), and the middle-frequency (MF) component obtained from the power spectral analysis of SBP variability as a vasomotor sympathetic index. We also investigated the baroreflex sensitivity to phentolamine, an α-adrenoceptor antagonist, and the SBP and HR responses to a low ambient temperature (LT; 9.0 ± 0.2°C) exposure, a sympathetic stimulant. Rats exposed to cast immobilization exhibited mechanical allodynia lasting for at least 10 weeks after cast removal in the calf area (skin and muscle) of the bilateral hind limbs. Under resting conditions, the SBP, HR, and MF components were significantly increased during cast immobilization (all p < 0.001). Following cast removal, these parameters gradually decreased and within 1 week reached lower than baseline levels, lasting for over 10 weeks. Phentolamine administration (10 mg/kg, intraperitoneally) significantly decreased the SBP before and during cast immobilization (before, p < 0.001; during, p = 0.001) but did not lower the SBP after cast removal. The baroreflex gain after phentolamine administration, calculated as the HR increase divided by the SBP reduction, was significantly increased after cast removal (p = 0.002). The SBP increase on LT exposure was significantly greater after cast removal than that before cast immobilization, suggesting hypersensitivity to sympathetic neurotransmitters. These results revealed that, in the CPCP model, sympathetic activation was augmented during cast immobilization, which then decreased after cast removal and remained below normal levels with persisting pain behaviors. Additionally, the responsiveness of the autonomic nervous system was impaired in the CPCP model.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Acute scaphoid fractures: guidelines for diagnosis and treatment",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7047900/",
+      "publisher": "EFORT open reviews",
+      "year": "2020",
+      "doi": "10.1302/2058-5241.5.190025",
+      "abstract": "In cases of suspected scaphoid fracture where the initial radiographs are negative, a supplementary MRI, or alternatively CT, should be carried out within three to five days.Fracture classification, assessment of dislocation as well as evaluation of fracture healing is best done on CT with reconstructions in the coronal and sagittal planes, following the longitudinal axis of the scaphoid.After adequate conservative management, union is achieved at six weeks for approximately 90% of non-displaced or minimally displaced (≤ 0.5 mm) scaphoid waist fractures.Scaphoid waist fractures with moderate displacement (0.5-1.5 mm) can be treated conservatively, but require prolonged cast immobilization for approximately eight to ten weeks.Internal fixation is recommended for all scaphoid waist fractures with dislocation ≥ 1.5 mm.Distal scaphoid fractures can be treated conservatively. The majority heal uneventfully after four to six weeks of immobilization, depending on fracture type.In general, proximal scaphoid fractures should be treated with internal fixation. Cite this article: EFORT Open Rev 2020;5:96-103. DOI: 10.1302/2058-5241.5.190025.",
+      "licence": "cc by-nc",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Venous Thrombosis Risk after Cast Immobilization of the Lower Extremity: Derivation and Validation of a Clinical Prediction Score, L-TRiP(cast), in Three Population-Based Case–Control Studies",
+      "url": "https://doi.org/10.1371/journal.pmed.1001899",
+      "publisher": "PLOS Medicine",
+      "year": "2015",
+      "doi": "10.1371/journal.pmed.1001899",
+      "abstract": "Background: Guidelines and clinical practice vary considerably with respect to thrombosis prophylaxis during plaster cast immobilization of the lower extremity. Identifying patients at high risk for the development of venous thromboembolism (VTE) would provide a basis for considering individual thromboprophylaxis use and planning treatment studies. Methods and Findings: We used data from a large population-based case–control study (MEGA study, 4,446 cases with VTE, 6,118 controls without) designed to identify risk factors for a first VTE. Cases were recruited from six anticoagulation clinics in the Netherlands between 1999 and 2004; controls were their partners or individuals identified via random digit dialing. Identification of predictor variables to be included in the model was based on reported associations in the literature or on a relative risk (odds ratio) > 1.2 and p ≤ 0.25 in the univariate analysis of all participants. Using multivariate logistic regression, a full prediction model was created. In addition to the full model (all variables), a restricted model (minimum number of predictors with a maximum predictive value) and a clinical model (environmental risk factors only, no blood draw or assays required) were created. To determine the discriminatory power in patients with cast immobilization (n = 230), the area under the curve (AUC) was calculated by means of a receiver operating characteristic. Validation was performed in two other case–control studies of the etiology of VTE: (1) the THE-VTE study, a two-center, population-based case–control study (conducted in Leiden, the Netherlands, and Cambridge, United Kingdom) with 784 cases and 523 controls included between March 2003 and December 2008 and (2) the Milan study, a population-based case–control study with 2,117 cases and 2,088 controls selected between December 1993 and December 2010 at the Thrombosis Center, Fondazione IRCCS Ca’ Granda–Ospedale Maggiore Policlinico, Milan, Italy. Conclusions: These results show that information on environmental risk factors, coagulation factors, and genetic determinants in patients with plaster casts leads to high accuracy in the prediction of VTE risk. In daily practice, the clinical model may be the preferred model as its factors are most easy to determine, while the model still has good predictive performance. These results may provide guidance for thromboprophylaxis and form the basis for a management study. Using three population-based case-control studies, Banne Nemeth and colleagues derive and validate a clinical prediction score (L-TRiP(cast)) for venous thrombosis risk. Background: Blood normally flows smoothly around the human body, but when a cut or other injury occurs, proteins called clotting factors make the blood gel (coagulate) at the injury site. The resultant clot (thrombus) plugs the wound and prevents blood loss. Sometimes, however, a thrombus forms inside an uninjured blood vessel and partly or completely blocks the blood flow. Clot formation inside one of the veins deep in the body (usually in a leg) is called deep vein thrombosis (DVT). DVT, which can cause pain, swelling, and redness in the affected limb, is treated with anticoagulants, drugs that stop the clot growing. If left untreated, part of the clot can break off and travel to the lungs, where it can cause a life-threatening pulmonary embolism. DVT and pulmonary embolism are known collectively as venous thromboembolism (VTE). Risk factors for VTE include age, oral contraceptive use, having an inherited blood clotting disorder, and prolonged inactivity (for example, being bedridden). An individual’s lifetime risk of developing VTE is about 11%; 10%–30% of people die within 28 days of diagnosis of VTE. Why Was This Study Done?: Clinicians cannot currently accurately predict who will develop VTE, but it would be very helpful to be able to identify individuals at high risk for VTE because the condition can be prevented by giving anticoagulants before a clot forms (thromboprophylaxis). The ability to predict VTE would be particularly useful in patients who have had a lower limb immobilized in a cast after, for example, breaking a bone. These patients have an increased risk of VTE compared to patients without cast immobilization. However, their absolute risk of VTE is not high enough to justify giving everyone with a leg cast thromboprophylaxis because this therapy increases the risk of major bleeds. Here, the researchers investigate the predictive value of genetic and environmental factors and levels of coagulation factors and other biomarkers on VTE occurrence after cast immobilization of the lower leg and develop a clinical tool for the prediction of VTE in patients with plaster casts. What Did the Researchers Do and Find?: The researchers used data from the MEGA study, a study of risk factors for VTE, to build a prediction model for a first VTE in patients with a leg cast; the prediction model included 32 predictors (the full model). They also built a restricted model, which included only 11 predictors but had maximum predictive value, and a clinical model, which included 14 environmental predictors that can all be determined without drawing blood or undertaking any assays. They then determined the ability of each model to distinguish between patients with a leg cast who did and did not develop VTE using receiver operating characteristic (ROC) curve analysis. The area under the curve (AUC) for the full model was 0.85, for the restricted model it was 0.85, and for the clinical model it was 0.77. (A predictive test that discriminates perfectly between individuals who do and do not subsequently develop a specific condition has an AUC of 1.00; a test that is no better at predicting outcomes than flipping a coin has an AUC of 0.5.) Similar or higher AUCs were obtained for all the models using data collected in two independent studies. Finally, the researchers converted the clinical model into a risk score by giving each variable in the model a numerical score. The sum of these scores was used to stratify individuals into categories of low or high risk for VTE. With a cutoff of 9 points, the risk score correctly identified 80.8% of the patients in the MEGA study with a plaster cast who developed VTE and 60.8% of the patients who did not develop VTE. What Do These Findings Mean?: Some aspects of this study may limit the accuracy of its findings. For example, no information was available about which patients with a plaster cast received thromboprophylaxis. Nevertheless, these findings suggest that information on environmental risk factors, coagulation factors, and genetic determinants can be used to predict VTE risk in patients with a leg cast with high accuracy. Importantly, the risk score derived and validated by the researchers, which includes only predictors that can be easily determined in clinical practice, may help clinicians decide which patients with a leg cast should receive thromboprophylaxis and which should not be exposed to the risk of anticoagulant therapy, until an unambiguous guideline for these patients becomes available. Additional Information: This list of resources contains links that can be accessed when viewing the PDF on a device or via the online version of the article at http://dx.doi.org/10.1371/journal.pmed.1001899.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Efficacy and Safety of Conservative and Surgical Treatment in the Treatment of Distal Radius Fractures: A Systematic Review and Meta‐Analysis",
+      "url": "https://doi.org/10.1111/os.70221",
+      "publisher": "Orthopaedic Surgery",
+      "year": "2026",
+      "doi": "10.1111/os.70221",
+      "abstract": "ABSTRACT To assess whether surgical treatment with predominantly volar locking plates has superior clinical and radiographic outcomes to conservative treatment with cast immobilization in the treatment of distal radius fractures by reviewing and investigating the literature with a high level of evidence. Thus, we systematically searched PubMed, Web of Science, and Embase databases for clinical trials comparing surgical and conservative treatments for distal radius fractures. Data extraction was performed to access parameters that included: wrist functional assessment, such as mobility and grip strength; subjective outcomes, such as DASH score, PRWE score, and quality of life score (EQ‐5D); radiographic assessment (palmar inclination, ulnar variance, and articular subluxation, etc.); and complications, such as fracture nonunion, reoperation, infection, and neurologic symptoms, and then to conduct data organization and quantitative synthesis. Finally, a total of 19 clinical trials with 2729 patients were included in this report, including 1378 in the conservative treatment group and 1351 in the surgical treatment group. In terms of recovery of wrist function, wrist joints undergoing cast immobilization gained a greater range of extension (MD 1.5°, p = 0.02), whereas surgical treatment of the range of wrist rotation was significantly greater than with conservative treatment (MD 3°, p = 0.03), and wrist grip strength was significantly improved (MD 2 kg, p = 0.04). There were no significant differences between the two groups of patients in terms of wrist flexion and anterior rotation activities. In terms of patient subjective scores, patients in the plaster immobilization group showed significant improvement in PRWE scores compared with the surgical treatment group at 3 and 12 months after treatment (MD 3–7 points, p 0.05). At the level of complications, the overall complication rate was significantly lower in patients who underwent surgical treatment than in the conservative treatment group (202/1046 [19.3%] vs. 361/1065 [33.9%], p = 0.001). The conclusions drawn were that when treating distal radius fractures, surgical treatment with predominantly metacarpal plate fixation achieves superior anatomical fracture repositioning and a lower complication rate compared to cast immobilization. However, no significant advantage was demonstrated in terms of recovery of wrist function and subjective patient perception. Overall, surgical treatment is an appropriate choice for patients with high motor function requirements who need to recover quickly, whereas more conservative treatments can be considered for patients with lower functional requirements.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.14,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Delayed Closed Reduction and Cast Immobilization for Ring and Little Fingers Carpometacarpal Joints Dislocations of the Right Hand - Success Can Still Happen: A Case Report",
+      "url": "https://zenodo.org/records/14932551",
+      "publisher": "Clinical Case Reports Journal",
+      "year": "2021",
+      "doi": "10.5281/zenodo.14932551",
+      "abstract": "A young gentleman aged 22-year-old was referred to the trauma and Orthopaedics department with post-traumatic swelling and pain in his right hand for -one week- duration. The mechanism of trauma was due to uncouth crush injury. The underlying lesion was a dorsal dislocation of the carpometacarpal (CMC) joints of the right ring and little fingers. Despite being lately presented to us due to a delay in the diagnosis, a closed reduction trial under local anesthetic infiltration was performed. The reduction of the dislocations was succeeded initially. Therefore, a below elbow ulnar gutter slab was applied. As it was thought that the reduction might be unstable and the dislocation would recur, we advised a one-week follow-up in the clinic, but the patient missed it. The next show in the visit, after three weeks, showed a stable reduction. Eventually, the patient has regained most of his hand function and range of motion, as was evident in the consecutive follow-up visits. This has been achieved by closed reduction and slab immobilization for a total of six weeks followed by a period of effective physiotherapy. Although it is an uncommon injury that is treated surgically, there is still a role for closed reduction and conservative management if done properly and if the patient is compliant enough, even if it is not presented acutely. It is Worth to mention, the role of physiotherapy treatment in providing a pain-free range of motion and good grip power of the affected hand during the treatment period.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.74,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Functional weight-bearing mobilization after Achilles tendon rupture enhances early healing response: a single-blinded randomized controlled trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5487693/",
+      "publisher": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "year": "2017",
+      "doi": "10.1007/s00167-016-4270-3",
+      "abstract": "Purpose Functional weight-bearing mobilization may improve repair of Achilles tendon rupture (ATR), but the underlying mechanisms and outcome were unknown. We hypothesized that functional weight-bearing mobilization by means of increased metabolism could improve both early and long-term healing. Methods In this prospective randomized controlled trial, patients with acute ATR were randomized to either direct post-operative functional weight-bearing mobilization (n = 27) in an orthosis or to non-weight-bearing (n = 29) plaster cast immobilization. During the first two post-operative weeks, 15°-30° of plantar flexion was allowed and encouraged in the functional weight-bearing mobilization group. At 2 weeks, patients in the non-weight-bearing cast immobilization group received a stiff orthosis, while the functional weight-bearing mobilization group continued with increased range of motion. At 6 weeks, all patients discontinued immobilization. At 2 weeks, healing metabolites and markers of procollagen type I (PINP) and III (PIIINP) were examined using microdialysis. At 6 and 12 months, functional outcome using heel-rise test was assessed. Results Healing tendons of both groups exhibited increased levels of metabolites glutamate, lactate, pyruvate, and of PIIINP (all p Conclusions Functional weight-bearing mobilization enhanced the early healing response of ATR. In addition, early ankle range of motion was improved without the risk of Achilles tendon elongation and without altering long-term functional outcome. The relationship between functional weight-bearing mobilization-induced upregulation of glutamate and enhanced healing suggests novel opportunities to optimize post-operative rehabilitation.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.68,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "A straightforward inexpensive method for hip cast immobilization in infants and children",
+      "url": "https://doi.org/10.1080/07853890.2026.2650013",
+      "publisher": "Informa UK Limited",
+      "year": "2026",
+      "doi": "10.1080/07853890.2026.2650013",
+      "abstract": "Developmental dysplasia of the hip (DDH) represents the most prevalent hip disorder in children. A variety of methods for spica cast immobilization have been described using specialized equipment. This study attempts to explore an effective tool for spica cast immobilization.We retrospectively analysed a total of 216 children who were diagnosed with DDH and underwent spica cast immobilization in our hospital from January 2018 to December 2023. They were divided into the group A (use of a bamboo stick) and group B (use of the hip spica table). The statistical analysis was conducted on preoperative data, procedure time, and major complications following spica cast immobilization.A total of 101 children in group A and 115 children in group B underwent spica cast immobilization. There was no statistically significant difference in general preoperative data (gender age, weight, medical history, or affected side) and procedure time. The mean number of polymer bandages consumed in group A was 7.8 ± 0.4 rolls, and 7.9 ± 0.5 rolls in group B. There was no statistically significant difference between the two groups. There was no statistical difference in complications (including superficial skin injury, extensive rash, and cast contamination).The bamboo stick represents a portable, safe, and cost-effective alternative to the hip plaster operating table. This method can be applied in spica cast immobilization in children.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Diagnosis and Management of Galeazzi Fracture: A Narrative Review",
+      "url": "https://hal.science/hal-05841535v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Background: The Galeazzi fracture is a distinctive forearm injury combining a fracture of the middle to distal third of the radial shaft with disruption, subluxation, or dislocation of the distal radioulnar joint (DRUJ). Long recognised as a “fracture of necessity” in adults, it carries a high risk of malunion, chronic DRUJ instability, and permanent loss of forearm rotation when treated non-operatively, with reported failure rates of 80–92% for closed management in this age group. Methods: This narrative review synthesises current evidence on the definition, historical background, and clinical variants of the Galeazzi fracture, including the paediatric Galeazzi-equivalent lesion, drawn from the anatomical, biomechanical, and clinical literature on its diagnosis and management. Results: The regional anatomy and biomechanics of the interosseous membrane and triangular fibrocartilage complex (TFCC) that govern forearm rotation and DRUJ stability are discussed, together with the muscular deforming forces that make closed reduction unreliable in adults. Clinical examination findings, radiographic and advanced imaging criteria for occult DRUJ instability, and the major classification systems (Walsh, Rettig and Raskin, Macule Beneyto, Bruckner, and AO/OTA) used to guide treatment decisions are reviewed. Management is presented separately for the paediatric and adult populations: closed reduction and cast immobilization remain effective in children, whereas open reduction and internal fixation (ORIF) of the radius, together with systematic intraoperative assessment and stabilisation of the DRUJ, is the standard of care in adults. Surgical approaches (Thompson dorsal and Henry volar), fixation technique, and salvage options for neglected or malunited injuries, including ulnar shortening osteotomy, the Sauvé–Kapandji procedure, and the Darrach procedure, are also summarised, along with common complications and prognosis. Conclusion: Accurate recognition of DRUJ injury at initial presentation, meticulous anatomical reduction of the radius, and structured intraoperative evaluation of DRUJ stability remain the cornerstones of a good functional outcome.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "To Compare the Outcome of Diaphyseal Fracture Both Bones Forearm in Children Treated with Above Elbow Cast for 6 Weeks Versus 3 Weeks Followed by Below Elbow Cast for Another 3 Weeks",
+      "url": "https://zenodo.org/records/18814205",
+      "publisher": "International Journal of Medical and Pharmaceutical Research",
+      "year": "2026",
+      "doi": "10.5281/zenodo.18814205",
+      "abstract": "ackground: Diaphyseal fractures of both bones of the forearm are among the most common pediatric injuries encountered in orthopedic practice. Conservative management using cast immobilization remains the mainstay of treatment in children due to their excellent remodeling potential. However, the optimal duration and type of casting required to achieve satisfactory functional and radiological outcomes remains a subject of debate. Traditionally, above elbow cast immobilization for six weeks has been widely practiced, though prolonged elbow immobilization may lead to stiffness and delayed functional recovery. An alternative strategy involves initial above elbow casting followed by conversion to a below elbow cast, aiming to balance fracture stability with early joint mobilization. Aim : To compare the clinical, radiological, and functional outcomes of diaphyseal fractures of both bones of the forearm in children treated with above elbow cast immobilization for six weeks versus those treated with above elbow cast for three weeks followed by below elbow cast for another three weeks. Methods : This prospective comparative study was conducted in the Department of Orthopaedics, Government Medical College, Kathua. Children aged 5–14 years presenting with closed diaphyseal fractures of both bones of the forearm were enrolled and divided into two groups. Group A was treated with above elbow cast immobilization for six weeks, while Group B received above elbow cast for three weeks followed by below elbow cast for another three weeks. Patients were followed at regular intervals for clinical assessment, radiological union, range of motion at elbow and forearm, time to functional recovery, and complications. Functional outcomes were evaluated using standardized assessment criteria. Results: A total of 60 children were included in the study, with 30 patients in each group. Radiological union was achieved in 28 patients (93.3%) in Group A and 29 patients (96.7%) in Group B, with a mean union time of 7.8 ± 1.2 weeks and 7.4 ± 1.0 weeks respectively. At final follow-up, full or near-full elbow range of motion was observed in 21 patients (70%) in Group A compared to 26 patients (86.7%) in Group B. Restriction of forearm rotation exceeding 20 degrees was noted in 6 patients (20%) in Group A and 2 patients (6.7%) in Group B. Complications such as elbow stiffness were more common in Group A (8 patients, 26.7%) compared to Group B (3 patients, 10%). No significant difference was observed between the groups with respect to loss of reduction or malunion. Conclusion : Conversion from above elbow cast to below elbow cast after three weeks provides outcomes comparable to six weeks of above elbow immobilization while offering the advantage of improved joint mobility and earlier functional recovery. This method represents an effective and patient-friendly alternative in the conservative management of pediatricdiaphyseal forearm fractures.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Trends in immobilization following fracture surgery of the wrist and hand in Sweden: A 16-Year Analysis from 2008 to 2023",
+      "url": "https://doi.org/10.1371/journal.pone.0324367",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0324367",
+      "abstract": "Introduction: Hand and wrist fractures are common orthopaedic injuries, with varied postoperative management strategies. Cast immobilization, traditionally used to ensure fracture stability, is increasingly debated in favour of early mobilization. However, significant regional differences persist. The aim of this study is to analyse regional, age, and sex differences in post-operative cast immobilization rates for hand and wrist fractures in Sweden between 2008 and 2023. Methods: This observational, population-based study utilized data from the Swedish National Patient Register, analysing post-operative cast immobilization rates among individuals aged 15 and older. Trends and disparities were examined over time by region, gender, and age group. Results: The study found a significant increase in cast immobilization rates across Sweden, with notable differences based on sex and region. By 2023, immobilization rates for men had increased from 46% to 86%, while rates for women increased from 34% to 69%. Conclusion: The findings indicate a nationwide trend towards increased immobilization rates, highlighting gender- and region-based disparities. These differences underscore the need for standardized, evidence-based guidelines to ensure equitable and effective patient care across Sweden.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparative efficacy of closed reduction versus open reduction with pelvic osteotomy for developmental dysplasia of the hip in children aged 18–24 months: A retrospective cohort study",
+      "url": "https://doi.org/10.1371/journal.pone.0324995",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0324995",
+      "abstract": "Background: Optimal treatment for developmental dysplasia of the hip (DDH) in 18–24-month-old children is debated. This study compares closed reduction (CR) to open reduction with pelvic osteotomy (ORPO) to determine efficacy and complications. Materials and methods: Data from 97 patients (131 hips) undergoing CR or ORPO (June 2012 to September 2019) were analyzed. Pre- and postoperative measures including acetabular index (AI), International Hip Dysplasia Institute (IHDI) grade, center-edge angle (CEA), Severin grades, Mckay criteria and avascular necrosis (AVN) were assessed. Statistical analysis compared outcomes and complications. Results: Of 131 hips, 101 underwent CR and 30 ORPO. Preoperative characteristics and radiographic outcomes did not significantly differ. Postoperative AI (CR: 25.2 ± 5.3°, ORPO: 24.3 ± 6.1°, P = 0.441) and CEA (CR: 25.6 ± 11.5°, ORPO: 29.2 ± 16.5°, P = 0.263) showed no significant differences. Satisfactory Severin grades were achieved in 58.4% (CR) and 56.6% (ORPO), P = 1.000. Mckay grade II and above were observed in 66.3% of CR group and 66.7% of ORPO group, P = 1.000. AVN above type Ⅱ incidence was 18.9% (CR) and 33.3% (ORPO), P = 0.131. After using multiple linear regression and logistic regression to control confounding factors, we came to the same outcome. No significant differences were observed in postoperative AI, CEA, Severin grade, Mckay grade or AVN. CR had significantly lower total hospitalization costs. Among the CR group, 19 hips (18.8%) underwent secondary surgery. And their postoperative outcomes were comparable to those in the ORPO group. Conclusion: Closed reduction with spica cast immobilization is a viable treatment option for DDH in 18–24-month-olds, with close monitoring. Prompt consideration of secondary surgery is advised for residual acetabular dysplasia",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Evaluating the Effectiveness of Radius Bone Plates in Fracture Repair",
+      "url": "https://zenodo.org/records/14205736",
+      "publisher": "International Journal of Toxicological and Pharmacological Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.14205736",
+      "abstract": "Background and Aim: Clinically, resection and reduction-based palmar internal fixation using locking plates is commonly utilized to address AO-C type distal radius fractures. This study seeks to evaluate the safety and effectiveness of radius bone plates in the fixation of fractures associated with the radius bone. Material and Methods: This research took place within an Orthopedics Department in India, examining a cohort of 80 patients over the span of one year. In cases of fractures that exhibit instability or significant fragmentation, surgical intervention becomes essential, as relying solely on casting may prove inadequate in preserving the proper alignment of the fracture. All patients underwent monitoring through radiographs, physical examinations, and assessments using the ASA and VAS scoring systems. Results: The findings indicate that at each follow-up, there was a noticeable difference in the VAS score, with a consistent reduction in pain intensity suggesting improved outcomes for radius fractures treated with radius plates. Patients undergoing postoperative care were recommended to engage in rehabilitation exercises during the initial six months, followed by physiotherapy sessions. Assessing the advancements at each follow-up revealed positive post-operative outcomes throughout the first year of the follow-up period. Conclusion: Employing radius plates for the management of unstable distal end radius fractures demonstrates a strong correlation with favourable functional results and a low incidence of complications.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Comparative Outcomes of Conservative and Operative Treatment in Acute Scaphoid Fractures: A Prospective Study",
+      "url": "https://zenodo.org/records/14625687",
+      "publisher": "International Journal of Toxicological and Pharmacological Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.14625687",
+      "abstract": "Background: Acute scaphoid fractures are common injuries of the wrist that require prompt and appropriate management to prevent complications such as non-union and avascular necrosis. While conservative treatment with immobilization remains the standard for displaced fractures, operative treatment has gained popularity for providing earlier functional recovery and reducing immobilization time. Aim: This study aims to compare the outcomes of conservative versus operative treatment in patients with acute scaphoid fractures in terms of union rates, functional recovery, and complications. Methods: A prospective study was conducted over 12 months, enrolling 80 patients with acute scaphoid fractures. Patients were divided into two groups: conservative treatment (n=40) with cast immobilization and operative treatment (n=40) using percutaneous screw fixation. Outcomes were assessed using radiological union rates, functional scores (Modified Mayo Wrist Score, MMWS), and complications over a follow-up period of 12 months. Results: Union rates were 85% in the conservative group and 95% in the operative group. The mean MMWS at 12 months was significantly higher in the operative group (85.6 ± 10.4) compared to the conservative group (78.2 ± 11.3, p < 0.05). Operative treatment also resulted in faster time to union (8 weeks vs. 12 weeks, p < 0.01). Complications were more common in the conservative group, including non-union (10%) and stiffness (15%), while operative treatment had a 5% complication rate, primarily hardware irritation. Conclusion: Operative treatment for acute scaphoid fractures offers superior functional outcomes, higher union rates, and faster recovery compared to conservative treatment. These findings support the selective use of operative management, particularly in patients requiring early return to function.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.56,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Changes in postural sway during upright stance after short-term lower limb physical inactivity: A prospective study",
+      "url": "https://doi.org/10.1371/journal.pone.0272969",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0272969",
+      "abstract": "Previous studies have reported that motor behavior is affected by short-term physical inactivity using cast immobilization; however, the effects of inactivity on postural sway are not well-understood. This study aimed to investigate the effects of short-term lower limb disuse on postural sway in the upright position after cast removal. Twenty-two healthy young adults were enrolled, and each participant’s lower limb on one side was fixed with a soft bandage and medical splint made from metal and soft urethane for 10 h. Fluctuations in the center of pressure (COP) were measured before and after immobilization; the total trajectory length, mean velocity, COP root mean square (RMS) area, mean medial-lateral (M-L) COP, and mean anterior-posterior (A-P) COP were selected as evaluation parameters. Compared with the postural sway before cast application, we noted an increase and shift (from the fixed to the nonfixed side) in the postural sway after cast removal. Our results therefore suggest that short-term disuse may cause acute changes in COP movements during quiet standing. Moreover, patients may maintain their standing posture by adopting a compensatory strategy involving lateral control, similar to individuals with stroke and patients who have undergone total knee arthroplasty.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effect of short-term hindlimb immobilization on skeletal muscle atrophy and the transcriptome in a low compared with high responder to endurance training model",
+      "url": "https://doi.org/10.1371/journal.pone.0261723",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0261723",
+      "abstract": "Skeletal muscle atrophy is a physiological response to disuse, aging, and disease. We compared changes in muscle mass and the transcriptome profile after short-term immobilization in a divergent model of high and low responders to endurance training to identify biological processes associated with the early atrophy response. Female rats selectively bred for high response to endurance training (HRT) and low response to endurance training (LRT; n = 6/group; generation 19) underwent 3 day hindlimb cast immobilization to compare atrophy of plantaris and soleus muscles with line-matched controls (n = 6/group). RNA sequencing was utilized to identify Gene Ontology Biological Processes with differential gene set enrichment. Aerobic training performed prior to the intervention showed HRT improved running distance (+60.6 ± 29.6%), while LRT were unchanged (-0.3 ± 13.3%). Soleus atrophy was greater in LRT vs. HRT (-9.0 ±8.8 vs. 6.2 ±8.2%; P<0.05) and there was a similar trend in plantaris (-16.4 ±5.6% vs. -8.5 ±7.4%; P = 0.064). A total of 140 and 118 biological processes were differentially enriched in plantaris and soleus muscles, respectively. Soleus muscle exhibited divergent LRT and HRT responses in processes including autophagy and immune response. In plantaris, processes associated with protein ubiquitination, as well as the atrogenes (Trim63 and Fbxo32), were more positively enriched in LRT. Overall, LRT demonstrate exacerbated atrophy compared to HRT, associated with differential gene enrichments of biological processes. This indicates that genetic factors that result in divergent adaptations to endurance exercise, may also regulate biological processes associated with short-term muscle unloading.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Management of Distal 1/3rd Closed Forearm Fractures in Children above Elbow Plaster Cast versus Below Elbow Plaster Cast",
+      "url": "https://hal.science/hal-05326448v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Objective: To determine if below-elbow casts are as effective as above-elbow casts in the treatment of the distal third closed forearm fractures in children. Materials and Methods: This was a prospective comparative study and was conducted at orthopaedic department of Liaquat University of Medical and Health Sciences (LUMHS). Children 4 to 12 years of age who presented to, distal 1/3rd fractures of the forearm were randomized in order to manage with either an above-elbow or below-elbow cast after closed reduction under fluoroscopic guidance. Radiographic analysis was done for angulation and displacement at the injury time, following reduction, and at subsequent intervals of follow-up. At the fracture level, the cast index for evaluating the cast moulding quality was assessed from the post-reduction radiographs. Variations between post-reduction and final values for displacement and angulation, the range of motion of elbow, forearm and wrists and cast indices between the two groups were compared. Results: Of total 50 study subjects, 26 underwent above-elbow cast and 24 subjects underwent below-elbow cast techniques. Mean age of above-elbow cast group patients was 9.42 year and the mean age in of below-elbow cast group patients was 9.13 years. 15 male and 11 female patients were present in above-elbow cast group; 14 male and 10 female patients were present in below-elbow cast group. The mean cast index of above-elbow cast group was 0.71 and the mean cast index of below-elbow cast was 0.70. In terms of patient demographics, injury mechanism, characteristics of initial fracture, cast index or shift in displacement and angulation during treatment, no significant variances were observed between both groups. In above-elbow cast group, the mean elbow arc of motion on cast removal at six weeks was only 78° compared to 141.6° in below-elbow cast group. There was a significant decline in arc of motion of elbow joint in above-elbow cast group compared to below-elbow cast group in six weeks which became normal at final follow-up in three months. The complication rates in both the groups were similar. Conclusion: Below-elbow cast is the safe reliable and cost-effective method of cast immobilization in distal third forearm fractures in the children of 4 to 12 years of age.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Recovery of strength after reduced pediatric fractures of the forearm, wrist or hand; A prospective study",
+      "url": "https://doi.org/10.1371/journal.pone.0230862",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0230862",
+      "abstract": "Introduction: The way strength recovers after reduction of pediatric fractures of the upper extremity has not previously been the specific scope of research. This is remarkable, since strength measurements are often used as an outcome measure in studies on trauma of the upper extremity. The aim of this study was to evaluate how strength recovers after sustainment of fractures of the forearm, wrist or hand treated by closed or open reduction in children and adolescents in the first 6 months after trauma. How much strength is lost at 6 weeks, 3 months and 6 months after trauma, and is this loss significant? Are there differences in the pattern of recovery between children who underwent a different treatment? And finally, which of the following factors are associated with an increase in the ratio between affected grip strength and expected strength: type of fracture, cast immobilization, occurrence of complications, and degree of pain? Design: Prospective observational study. Participants: Children and adolescents aged 4–18 years with a reduced fracture of the forearm, wrist or hand. Methods: Grip strength, key grip and three-jaw chuck grip were measured twice in each hand 6 weeks, 3 months and 6 months after trauma. Details on fracture type and location, treatment received, cast immobilization and complications were obtained. Hand-dominance and pain were verbally confirmed. Results: Loss of strength was more prominent and prolonged the more invasive the treatment, hence most extensive in the group receiving open reduction with internal fixation (ORIF), intermediate in the group receiving closed reduction with percutaneous pinning (CRIF), and least extensive in the group undergoing closed reduction without internal fixation (CR). Besides time passed, gender and age were of significant influence on strength, although there was no difference in pattern of recovery over time between children who received a different treatment. In the period of 6 weeks to 3 months after trauma, female gender, type of fracture sustained and occurrence of an unwanted event were associated with an increased ratio between affected and expected grip strength. For the later phase of recovery, between 3 and 6 months, this was only true for the occurrence of an unwanted event.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Evaluation of the Results of Volar Plating in the Treatment of Fractures of Distal End Radius",
+      "url": "https://zenodo.org/records/3970548",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2017",
+      "doi": "10.5281/zenodo.3970548",
+      "abstract": "Background: Fractures of lower end radius are most common fractures of the upper extremity. Increased awareness of the complexity of the distal end radius fractures have stimulated a growing interest and promoted new ideas regarding their management. Close reduction and cast immobilization had been the mainstay of treatment of these fractures but poor functional and cosmetic results are not uncommon. The volar plate system has been shown to be reliable for the fixation of distal radius fractures. As open reduction and volar plating ensures more consistent correction of displacement and maintenance of reduction, this prospective study evaluates the anatomical and functional outcome of open reduction and plate fixation in the management of fracture distal end radius. Method: In this study 40 patients with distal end radius fractures were included, informed consent was and clearance from ethical committee of the institute was taken. The study was Prospective, interventional and observational for the methods used for management of the fracture. Patients were evaluated pre operatively and post operatively at the end of first, fourth, sixth week,3 months and then once in 3months up to 12 months. Results: In the prospective study conducted with forty patients,88% anatomical and 93% functional, excellent to good results suggests that stabilizing the fracture fragments with volar plate and screws in the management of the fractures of distal radius, is an effective method to maintain the reduction till union and prevent collapse of the fracture fragments, even when the fracture is grossly comminuted / intra-articular / unstable and / or the bone is osteoporotic. Conclusion: This study concludes that open reduction and internal fixation with volar plating has excellent functional outcome with minimal complications. The procedure is applicable for all types of Frykman fractures in young patients with a good bone stock as well as in elderly osteoporotic patients.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Angiotensin-(1-7) attenuates disuse skeletal muscle atrophy in mice via its receptor, Mas",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852504/",
+      "publisher": "Disease models & mechanisms",
+      "year": "2016",
+      "doi": "10.1242/dmm.023390",
+      "abstract": "Immobilization is a form of disuse characterized by a loss of strength and muscle mass. Among the main features are decreased IGF-1/Akt signalling and increased ubiquitin-proteasome pathway signalling, which induce greater myosin heavy chain degradation. Activation of the classical renin-angiotensin system (RAS) causes deleterious effects in skeletal muscle, including muscle wasting. In contrast, angiotensin-(1-7) [Ang-(1-7)], a peptide of the non-classical RAS, produces beneficial effects in skeletal muscle. However, the role of Ang-(1-7) in skeletal muscle disuse atrophy and independent of classical RAS activation has not been evaluated. Therefore, we assessed the functions of Ang-(1-7) and the Mas receptor in disuse muscle atrophyin vivousing unilateral cast immobilization of the hind limb in male, 12-week-old wild-type (WT) and Mas-knockout (Mas KO) mice for 1 and 14 days. Additionally, we evaluated the participation of IGF-1/IGFR-1/Akt signalling and ubiquitin-proteasome pathway expression on the effects of Ang-(1-7) immobilization-induced muscle atrophy. Our results found that Ang-(1-7) prevented decreased muscle strength and reduced myofiber diameter, myosin heavy chain levels, and the induction of atrogin-1 and MuRF-1 expressions, all of which normally occur during immobilization. Analyses indicated that Ang-(1-7) increases IGF-1/IGFR-1/Akt pathway signalling through IGFR-1 and Akt phosphorylation, and the concomitant activation of two downstream targets of Akt, p70S6K and FoxO3. These anti-atrophic effects of Ang-(1-7) were not observed in Mas KO mice, indicating crucial participation of the Mas receptor. This report is the first to propose anti-atrophic effects of Ang-(1-7) via the Mas receptor and the participation of the IGF-1/IGFR-1/Akt/p70S6K/FoxO3 mechanism in disuse skeletal muscle atrophy.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Acute versus chronic phase mechanisms in a rat model of CRPS",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4719337/",
+      "publisher": "Journal of neuroinflammation",
+      "year": "2016",
+      "doi": "10.1186/s12974-015-0472-8",
+      "abstract": "Background Tibia fracture followed by cast immobilization in rats evokes nociceptive, vascular, epidermal, and bone changes resembling complex regional pain syndrome (CRPS). In most cases, CRPS has three stages. Over time, this acute picture, allodynia, warmth, and edema observed at 4 weeks, gives way to a cold, dystrophic but still painful limb. In the acute phase (at 4 weeks post fracture), cutaneous immunological and NK1-receptor signaling mechanisms underlying CRPS have been discovered; however, the mechanisms responsible for the chronic phase are still unknown. The purpose of this study is to understand the mechanisms responsible for the chronic phases of CRPS (at 16 weeks post fracture) at both the peripheral and central levels. Methods We used rat tibial fracture/cast immobilization model of CRPS to study molecular, vascular, and nociceptive changes at 4 and 16 weeks post fracture. Immunoassays and Western blotting were carried out to monitor changes in inflammatory response and NK1-receptor signaling in the skin and spinal cord. Skin temperature and thickness were measured to elucidate vascular changes, whereas von Frey testing and unweighting were carried out to study nociceptive changes. All data were analyzed by one-way analysis of variance (ANOVA) followed by Neuman-Keuls multiple comparison test to compare among all cohorts. Results In the acute phase (at 4 weeks post fracture), hindpaw allodynia, unweighting, warmth, edema, and/or epidermal thickening were observed among 90 % fracture rats, though by 16 weeks (chronic phase), only the nociceptive changes persisted. The expression of the neuropeptide signaling molecule substance P (SP), NK1 receptor, inflammatory mediators TNFα, IL-1β, and IL-6 and nerve growth factor (NGF) were elevated at 4 weeks in sciatic nerve and/or skin, returning to normal levels by 16 weeks post fracture. The systemic administration of a peripherally restricted IL-1 receptor antagonist (anakinra) or of anti-NGF inhibited nociceptive behaviors at 4 weeks but not 16 weeks. However, spinal levels of NK1 receptor, TNFα, IL-1β, and NGF were elevated at 4 and 16 weeks, and intrathecal injection of an NK1-receptor antagonist (LY303870), anakinra, or anti-NGF each reduced nociceptive behaviors at both 4 and 16 weeks. Conclusions These results demonstrate that tibia fracture and immobilization cause peripheral changes in neuropeptide signaling and inflammatory mediator production acutely, but central spinal changes may be more important for the persistent nociceptive changes in this CRPS model.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Bone loss in a new rodent model combining spinal cord injury and cast immobilization.",
+      "url": "https://hal.science/hal-05781085v1",
+      "publisher": "The Journal of Musculoskeletal and Neuronal Interactions",
+      "year": "2014",
+      "doi": "",
+      "abstract": "Characterize bone loss in our newly developed severe contusion spinal cord injury (SCI) plus hindlimb immobilization (IMM) model and determine the influence of muscle contractility on skeletal integrity after SCI. Residual and/or facilitated muscle contractility ameliorate bone decrements after severe SCI. Our novel SCI+IMM model represents a clinically-relevant means of assessing strategies to prevent SCI-induced skeletal deficits.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Immobilization-induced hypersensitivity associated with spinal cord sensitization during cast immobilization and after cast removal in rats",
+      "url": "https://doi.org/10.1007/s12576-013-0277-4",
+      "publisher": "Elsevier BV",
+      "year": "2013",
+      "doi": "10.1007/s12576-013-0277-4",
+      "abstract": "This study examined mechanical and thermal hypersensitivity in the rat hind paw during cast immobilization of the hind limbs for 4 or 8 weeks and following cast removal. Blood flow, skin temperature, and volume of the rat hind paw were assessed in order to determine peripheral circulation of the hind limbs. Sensitization was analyzed by measuring the expression of the calcitonin gene-related peptide (CGRP) in the spinal dorsal horn following cast immobilization. Two weeks post immobilization, mechanical and thermal sensitivities increased significantly in all rats; however, peripheral circulation was not affected by immobilization. Cast immobilization for 8 weeks induced more serious hypersensitivity compared to cast immobilization for 4 weeks. Moreover, CGRP expression in the deeper lamina layer of the spinal dorsal horn increased in the rats immobilized for 8 weeks but not in those immobilized for 4 weeks. These findings suggest that immobilization-induced hypersensitivity develops during the immobilization period without affecting peripheral circulation. Our results also highlight the possibility that prolonged immobilization induces central sensitization in the spinal cord.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Keratinocyte expression of inflammatory mediators plays a crucial role in substance P-induced acute and chronic pain",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3458986/",
+      "publisher": "Journal of neuroinflammation",
+      "year": "2012",
+      "doi": "10.1186/1742-2094-9-181",
+      "abstract": "Tibia fracture in rats followed by cast immobilization leads to nociceptive, trophic, vascular and bone-related changes similar to those seen in Complex Regional Pain Syndrome (CRPS). Substance P (SP) mediated neurogenic inflammation may be responsible for some of the signs of CRPS in humans. We therefore hypothesized that SP acting through the SP receptor (NK1) leads to the CRPS-like changes found in the rat model. In the present study, we intradermally injected rats with SP and monitored hindpaw mechanical allodynia, temperature, and thickness as well as tissue levels of tumor necrosis factor-α (TNF-α), interleukin 1β (IL-1β), interleukin 6 (IL-6), and nerve growth factor-β (NGF) for 72 h. Anti-NGF antibody was utilized to block the effects of SP-induced NGF up-regulation. Fracture rats treated with the selective NK1 receptor antagonist LY303870 prior to cast removal were assessed for BrdU, a DNA synthesis marker, incorporation in skin cells to examine cellular proliferation. Bone microarchitecture was measured using micro computed tomography (μCT). We observed that: (1) SP intraplantar injection induced mechanical allodynia, warmth and edema as well as the expression of nociceptive mediators in the hindpaw skin of normal rats, (2) LY303870 administered intraperitoneally after fracture attenuated allodynia, hindpaw unweighting, warmth, and edema, as well as cytokine and NGF expression, (3) LY303870 blocked fracture-induced epidermal thickening and BrdU incorporation after fracture, (4) anti-NGF antibody blocked SP-induced allodynia but not warmth or edema, and (5) LY303870 had no effect on bone microarchitecture. Collectively our data indicate that SP acting through NK1 receptors supports the nociceptive and vascular components of CRPS, but not the bone-related changes.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Noninvasive monitoring of deterioration in skeletal muscle function with forearm cast immobilization and the prevention of deterioration",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC343296/",
+      "publisher": "Dynamic medicine : DM",
+      "year": "2004",
+      "doi": "10.1186/1476-5918-3-2",
+      "abstract": "BACKGROUND: In this research inactivity was simulated by immobilizing the forearm region in a plaster cast. Changes in skeletal muscle oxidative function were measured using near-infrared spectroscopy (NIRS), and the preventative effect of the training protocol on deterioration of skeletal muscle and the clinical utility of NIRS were examined. METHODS: Fourteen healthy adult men underwent immobilization of the forearm of the non-dominant arm by plaster cast for 21 days. Eight healthy adult subjects were designated as the immobilization group (IMM) and six were designated as the immobilization + training group (IMM+TRN). Grip strength, forearm circumference and dynamic handgrip exercise endurance were measured before and after the 21-day immobilization period. Using NIRS, changes in oxidative function of skeletal muscles were also evaluated. Muscle oxygen consumption recovery was recorded after the completion of 60 seconds of 40% maximum voluntary contraction (MVC) dynamic handgrip exercise 1 repetition per 4 seconds and the recovery time constant (TcVO2mus) was calculated. RESULTS: TcVO2mus for the IMM was 59.7 +/- 5.5 seconds (average +/- standard error) before immobilization and lengthened significantly to 70.4 +/- 5.4 seconds after immobilization (p < 0.05). For the IMM+TRN, TcVO2mus was 78.3 +/- 6.2 seconds before immobilization and training and shortened significantly to 63.1 +/- 5.6 seconds after immobilization and training (p < 0.05). CONCLUSIONS: The training program used in this experiment was effective in preventing declines in muscle oxidative function and endurance due to immobilization. The experimental results suggest that non-invasive monitoring of skeletal muscle function by NIRS would be possible in a clinical setting.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A brief review of bone adaptation to unloading",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5054086/",
+      "publisher": "Genomics, proteomics & bioinformatics",
+      "year": "2008",
+      "doi": "10.1016/s1672-0229(08)60016-9",
+      "abstract": "Weight-bearing bone is constantly adapting its structure and function to mechanical environments. Loading through routine exercises stimulates bone formation and prevents bone loss, but unloading through bed rest and cast immobilization as well as exposure to weightlessness during spaceflight reduces its mass and strength. In order to elucidate the mechanism underlying unloading-driven bone adaptation, ground-based in vitro and in vivo analyses have been conducted using rotating cell culturing and hindlimb suspension. Focusing on gene expression studies in osteoblasts and hindlimb suspension studies, this minireview introduces our recent understanding on bone homeostasis under weightlessness in space. Most of the existing data indicate that unloading has the opposite effects to loading through common signaling pathways. However, a question remains as to whether any pathway unique to unloading (and not to loading) may exist.",
+      "licence": "cc by-nc-sa",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Cast immobilization increases long‐interval intracortical inhibition",
+      "url": "https://doi.org/10.1002/mus.21694",
+      "publisher": "Wiley",
+      "year": "2010",
+      "doi": "10.1002/mus.21694",
+      "abstract": "Abstract Immobilization reduces muscle performance, and despite these performance losses being associated with neural impairments little is known regarding adaptations in cortical properties. We utilized transcranial magnetic stimulation to assess changes in flexor carpi radialis (FCR) intracortical facilitation (ICF), and short‐ and long‐interval intracortical inhibition (SICI and LICI) in healthy humans undergoing 3 weeks of immobilization. Measurements were obtained at rest and during contraction (15% intensity). Central activation and the Hoffman reflex (H‐reflex) were also assessed. Strength decreased 43.2% ± 6.1% following immobilization, and central activation also decreased (97.5% ± 2.4% to 73.2% ± 8.3%). No changes in ICF, SICI, or LICI were observed at rest; however, LICI was increased during contraction (67.5% ± 6.9% to 53.1% ± 6.7% of unconditioned response). The increase in LICI correlated with the loss of strength ( r = −0.63). The H‐reflex increased following immobilization. These findings suggest that immobilization increases intracortical inhibition during contraction, and this increase is primarily mediated by GABA B receptors. Muscle Nerve, 2010",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Carpometacarpal Joint Dislocation Rare Injury: A Case Series",
+      "url": "https://zenodo.org/records/13886844",
+      "publisher": "International Journal of Pharmaceutical and Clinical Research",
+      "year": "2024",
+      "doi": "10.5281/zenodo.13886844",
+      "abstract": "Background: Carpometacarpal (CMC) joint fracture dislocations are extremely rare, representing less than 1% of all hand and wrist fractures. These injuries are frequently missed or misdiagnosed, occurring primarily in young adults due to axial loading injuries or in the elderly following falls. Early diagnosis and appropriate management are crucial for optimal recovery. Cases: This series presents 12 cases of CMC joint dislocations in patients aged 19 to 50, including both males and females. The injuries resulted from various mechanisms such as falls, sports injuries, and accidents. The majority of cases involved dorsal dislocations of the 2nd, 3rd, and 4th CMC joints. Treatment included closed reduction, K-wire fixation, and cast immobilization. Result: All patients achieved good functional recovery with minimal stiffness and satisfactory alignment within six to ten weeks. Regular follow-up and structured physiotherapy played significant roles in ensuring optimal outcomes. The consistent application of early intervention techniques proved effective in managing these complex injuries. Conclusion: Despite their rarity, CMC joint dislocations require a high index of suspicion for diagnosis and prompt, precise treatment. This case series highlights the importance of early intervention, demonstrating that with appropriate management, excellent functional outcomes can be achieved in patients with CMC joint dislocations.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 1.86,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Extracellular vesicles derived from immobilization‐induced atrophic muscle of male mice contain distinct microRNA profiles and impact mRNA profiles in brain neurons",
+      "url": "https://doi.org/10.14814/phy2.71052",
+      "publisher": "Physiological Reports",
+      "year": "2026",
+      "doi": "10.14814/phy2.71052",
+      "abstract": "Abstract Muscle atrophy caused by inactivity leads to declines in multiple physiological functions, including brain function. Although skeletal muscle is known to secrete extracellular vesicles (EVs) such as exosomes, how inactivity‐induced muscle atrophy alters the properties and functions of these EVs remains unclear. In this study, we investigated the effects of cast immobilization–induced muscle atrophy on the microRNA (miRNA) profiles of skeletal muscle‐derived EVs in mice, as well as their impact on transcriptome changes in brain neurons. Muscle atrophy induced by cast immobilization significantly altered the microRNA profiles of skeletal muscle‐derived EVs, with 25 microRNAs upregulated and 2 microRNAs downregulated compared with controls. Moreover, treatment of brain neurons with EVs derived from atrophic skeletal muscle markedly changed neuronal mRNA expression profiles. Gene Ontology (GO) analysis revealed that upregulated mRNAs in EV‐treated neurons were enriched in genes involved in the positive regulation of programmed cell death, including apoptosis. Consistently, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis demonstrated activation of apoptosis‐related signaling pathways in brain neurons. These findings suggest that muscle atrophy–induced alterations in skeletal muscle‐derived EVs may contribute to brain dysfunction by promoting apoptotic processes in brain neurons.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Quantitative Assessment of Displacement, Angulation and Shortening in Paediatric Distal Radius Fractures: Implications for Treatment Modality and Functional Outcomes",
+      "url": "https://hal.science/hal-05069879v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2025",
+      "doi": "10.9734/ajorr/2025/v8i1210",
+      "abstract": "Background: Distal radius fractures are among the most common paediatric orthopedic injuries, with closed reduction and cast immobilization being the primary treatment. However, fracture re-displacement rates range from 25–39%, often necessitating surgical intervention. The role of preoperative radiographic measurements in predicting closed reduction failure remains underexplored. This study quantitatively assesses displacement, angulation, and shortening in paediatric distal radius fractures to evaluate their impact on treatment modality and functional outcomes. Place and Duration of Study: Department of Orthopedics, Kauvery Hospital, Radial Road, Chennai, India between June 2023 and July 2024. Methods: A retrospective analysis of 22 paediatric patients (ages 5–15) with completely displaced distal radius fractures was conducted. Patients were categorized into two groups: Group I (n = 14) underwent successful closed reduction and internal fixation, while Group II (n = 8) required open reduction and internal fixation due to failed closed reduction. Radiographic parameters—including radial shortening, displacement, and dorsal angulation—were assessed at three time points: preoperatively, postoperatively, and at implant removal. Functional outcomes were evaluated using the Mayo Wrist Score. Statistical analyses were performed using paired T-tests and Fisher’s Exact test, with significance set at p < 0.05. Results: Group II exhibited significantly greater preoperative radial shortening (14.4 mm vs. 7.2 mm) and displacement (100% vs. 82%) than Group I. Postoperative radiographic outcomes improved in both groups, with no significant differences in final displacement or radial shortening. However, dorsal angulation at implant removal was higher in Group I (p = 0.03). Both groups demonstrated good functional recovery, though patient satisfaction was higher when implants were buried beneath the skin. Conclusion: Severe preoperative displacement, shortening, and angulation are strong predictors of closed reduction failure. Identifying cases requiring open reduction early can minimize complications and re-intervention. Future studies should establish standardized radiographic thresholds to optimize treatment decisions and long-term outcomes.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Elastic-stable intramedullary nailing for radial neck fractures in children: clinical and radiological outcomes and risks for poor prognosis",
+      "url": "http://polishorthopaedics.pl/gicid/01.3001.0054.2650",
+      "publisher": "Chirurgia Narządów Ruchu i Ortopedia Polska",
+      "year": "2023",
+      "doi": "10.31139/chnriop.2023.88.3.4",
+      "abstract": "Introduction. Radial neck fractures in children are rare and account for 1-3% of all childhood trauma. Severe displacement of the fracture can lead to a higher incidence of complications, such as limited range of motion (ROM), pain, instability, neurovascular trauma, premature physeal closure, cubitus valgus, radial head overgrowth, avascular necrosis and improper ossification. The treatment outcome depends on the injury type, treatment method and presence of complications.Aim. The purpose of the study was to assess the outcome of patients treated with elastic-stable intramedullary nailing (ESIN) regarding different radial head angulations and to search for risk factors of a poor outcome.Materials and methods. Twenty-six consecutive patients treated between October 2020, and March 2022, due to radial neck fracture were included in the study. Closed reduction and ESIN fixation were performed. If failed, A K-wire assisted reduction or open reduction was performed. A radiological evaluation was performed pre- and post surgery and at the last follow-up. At the last follow-up visit, the elbow range of motion (ROM) was measured and the Mayo Elbow Performance Score (MEPS) was established. The follow-up was after 25 months. Results. The angulation before surgery was 42.4 and the next day after surgery was 6.9, p = 0.0001. Further correction was observed and at the last follow-up it was 2.5, p = 0.001. We found no complications besides one skin irritation by an implant and 2 reduced ROM. The MEPS was 97.7. The difference in MEPS between Judet IVB (angulation before surgery> 80) 92.5 and other patients 98.6 was significant, p = 0.04674. There was no significant difference in MEPS, ROM, between patients immobilized in a plater cast versus in a sling, Conclusions. Closed reduction with the use of ESIN can be considered a safe procedure with a low rate of complications. Patients with an angulation >80 revealed worse functional effects. Cast immobilization did not reveal a negative or a positive impact on the treatment result.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A novel approach for the treatment of Jacob II and III fractures of the lateral humeral condyle in children: Percutaneous Kirschner wire fixation with ultrasound localization",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsurg.2022.1000399/full",
+      "publisher": "Frontiers in Surgery",
+      "year": "2022",
+      "doi": "10.3389/fsurg.2022.1000399",
+      "abstract": "This research investigated the effectiveness of percutaneous Kirschner wire fixation in children with Jacob II and III lateral humeral condyle fractures. 28 children with Jacob II and III lateral humeral condyle fractures were treated with percutaneous Kirschner wire fixation under ultrasound localization, followed by cast immobilization for 4–5 weeks at our institution from January 2018 to April 2022. X-rays were evaluated on the first postoperative day to assess fracture reduction and Kirschner wire fixation. After 2 and 4 weeks, x-rays were taken to assess fracture healing and the presence of discomfort and infection was evaluated. After confirming fracture healing and callus formation, the cast and Kirschner wire were removed. Rehabilitation exercises were conducted following removal to restore elbow function. At the last follow-up, most results were excellent (n = 25) and good (n = 3) according to Flynn's criteria. Moreover, according to the Mayo Elbow Functional Score Scale (MEPS), all 28 children had excellent scores, with no significant difference in MEPS scores between the lesion and healthy sides (t = 1.533, p > 0.05). The present study substantiated that our novel approach is more convenient and effective, brings less trauma and complications and no radiation and deserves clinical promotion.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The inflammatory response, a mixed blessing for muscle homeostasis and plasticity",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2022.1032450/full",
+      "publisher": "Frontiers in Physiology",
+      "year": "2022",
+      "doi": "10.3389/fphys.2022.1032450",
+      "abstract": "Skeletal muscle makes up almost half the body weight of heathy individuals and is involved in several vital functions, including breathing, thermogenesis, metabolism, and locomotion. Skeletal muscle exhibits enormous plasticity with its capacity to adapt to stimuli such as changes in mechanical loading, nutritional interventions, or environmental factors (oxidative stress, inflammation, and endocrine changes). Satellite cells and timely recruited inflammatory cells are key actors in muscle homeostasis, injury, and repair processes. Conversely, uncontrolled recruitment of inflammatory cells or chronic inflammatory processes leads to muscle atrophy, fibrosis and, ultimately, impairment of muscle function. Muscle atrophy and loss of function are reported to occur either in physiological situations such as aging, cast immobilization, and prolonged bed rest, as well as in many pathological situations, including cancers, muscular dystrophies, and several other chronic illnesses. In this review, we highlight recent discoveries with respect to the molecular mechanisms leading to muscle atrophy caused by modified mechanical loading, aging, and diseases. We also summarize current perspectives suggesting that the inflammatory process in muscle homeostasis and repair is a double-edged sword. Lastly, we review recent therapeutic approaches for treating muscle wasting disorders, with a focus on the RANK/RANKL/OPG pathway and its involvement in muscle inflammation, protection and regeneration processes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Skeletal muscle atrophy-induced hemopexin accelerates onset of cognitive impairment in Alzheimer's disease",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8718090/",
+      "publisher": "Journal of cachexia, sarcopenia and muscle",
+      "year": "2021",
+      "doi": "10.1002/jcsm.12830",
+      "abstract": "Background Alzheimer's disease (AD) is an unmet medical need worldwide, and physical inactivity is a risk factor for AD. Performing physical exercise is difficult at old age, and thus, decline in physical movement may be a cause of age-associated lowering of the brain function. This study aimed to elucidate the molecular mechanism and onset of the skeletal muscle atrophy-induced acceleration of AD. Methods Pre-symptomatic young 5XFAD or non-transgenic wildtype mice were used. The bilateral hindlimbs were immobilized by placing them in casts for 14 days. Cognitive function was evaluated using the object recognition and spatial memory tests. Further, the hindlimb muscles were isolated for organ culture. Conditioned media (CM) of each muscle was separated by two-dimensional polyacrylamide gel electrophoresis (2D-PAGE). Protein expressions in the CM were analysed by matrix-assisted laser desorption/ionization-time-of-flight mass spectrometry analysis. The expression levels of candidate proteins were quantified using ELISA. After continuous intracerebroventricular (i.c.v.) infusion of recombinant hemopexin, cognitive function was evaluated. Gene microarray analysis of the hippocampus was performed to investigate the molecules involved in the accelerated memory deficit. Real-time reverse transcription polymerase chain reaction and histological analysis confirmed the expression. Results Casting for 2 weeks reduced skeletal muscle weight. Object recognition memory in the cast-attached 5XFAD mice (n = 7, training vs. test, P = 0.3390) was impaired than that in age-matched wildtype (n = 7, training vs. test, P = 0.0523) and non-cast 5XFAD mice (n = 7, training vs. test, P = 0.0473). On 2D-PAGE, 88 spots were differentially expressed in muscle CM. The most increased spot in the cast-attached 5XFAD CM was hemopexin. Hemopexin levels in the skeletal muscle (n = 3, P = 0.0064), plasma (n = 3, P = 0.0386), and hippocampus (n = 3, P = 0.0164) were increased in cast-attached 5XFAD mice than those in non-cast 5XFAD mice. Continuous i.c.v. infusion of hemopexin for 2 weeks induced memory deficits in young 5XFAD mice (n = 4, training vs. test, P = 0.6764). Lipocalin-2 (Lcn2) messenger RNA (mRNA), neuroinflammation-associated factor, was increased in the hippocampus in hemopexin-infused 5XFAD mice than in control mice. LCN2 protein in the hippocampus was localized in the neurons, but not glial cells. Lcn2 mRNA levels in the hippocampus were also increased by cast-immobilization of the hindlimbs (n = 6, P = 0.0043). Conclusions These findings provide new evidence indicating that skeletal muscle atrophy has an unbeneficial impact on the occurrence of memory impairment in young 5XFAD mice, which is mediated by the muscle secreted hemopexin.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Most surgeons still prefer to reduce overriding distal radius fractures in children",
+      "url": "http://dx.doi.org/10.1080/17453674.2020.1854502",
+      "publisher": "Acta Orthopaedica",
+      "year": "2021",
+      "doi": "10.1080/17453674.2020.1854502",
+      "abstract": "Background and purpose — Traditionally, overriding distal radius fractures in children have been reduced and immobilized with a cast or treated with percutaneous pin fixation. There is recent evidence that these fractures heal well if immobilized in the bayonet position without reduction. We evaluated the present treatment of these fractures. Methods — A questionnaire including AP and lateral radiographs of overriding distal radius fractures in 3 pre-pubertal children was answered by 213 surgeons from 28 countries. The surgeons were asked to choose their preferred method of treatment (no reduction, reduction, reduction and osteosynthesis), type and length of cast immobilization, and the number of clinical and radiographic follow-ups. Results — Of the 213 participating surgeons, 176 (83%) would have reduced all 3 presented fractures, whereas 4 (2%) would have treated all 3 children with cast immobilization without reduction. Most reductions (77%) would have been done under general anesthesia. Over half (54%) of the surgeons who preferred anesthesia would have fixed (pins 99%, plate 1%) the fractures. An above-elbow splint or circular cast was chosen in 84% of responses, and the most popular (44%) length of immobilization was 4 weeks. Surgeons from the Nordic countries were more eager to fix the fractures (54% vs. 31%, p < 0.001) and preferred shorter immobilization and follow-up times and less frequent clinical and radiological follow-ups compared with their colleagues from the USA. Interpretation — Most of the participating surgeons prefer to reduce overriding distal radius fractures in children under anesthesia. There is substantial lack of agreement on the indications for osteosynthesis, type of cast, length of immobilization, and follow-up protocol.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Traumatic Isolated Thumb Carpometacarpal Joint Dislocation - Report of Two Clinical Cases",
+      "url": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-36162021000400528&tlng=en",
+      "publisher": "Revista Brasileira de Ortopedia",
+      "year": "2021",
+      "doi": "10.1055/s-0040-1702950",
+      "abstract": "Abstract Isolated thumb carpometacarpal joint dislocation is a rare lesion that accounts for less than 1% of all hand lesions. The authors present two cases of traumatic isolated thumb carpometacarpal joint dislocation. One of them was treated with closed reduction and cast immobilization, and the other was treated with closed reduction, Kirschner-wires pinning, and cast immobilization. The first patient had a good functional outcome and showed no signs of thumb carpometacarpal instability. The patient treated with Kirschner wires presented signs of clinical instability and radiological subluxation. Isolated thumb carpometacarpal dislocation is a rare lesion that can cause joint instability, which interferes with the normal function of the hand and can lead to articular degenerative changes. The best management of this lesion is still controversial, since there is lack of evidence in the literature showing superiority of one treatment over the other.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Instability after ankle fractures",
+      "url": "https://aott.org.tr/index.php/pub/article/view/1104",
+      "publisher": "Acta Orthopaedica et Traumatologica Turcica",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Abstract In this study effects of the reduction of the fibular fracture and the distal tibio-fibular syndesmosis on tibio-talar joint were investigated. Discussion subjects, such as transsyndesmotic fixation, acceptable displacement of fibular fracture, the management of SE 2 type fractures, postoperatively external fixation and importance of syndesmotic calcification were reviewed under the light of our cases. Among the 70 patients 32 of them were evaluated by clinically and radiologically, after an average follow-up of 17 months. Based on the findings in our series, we concluded that adequate reduction of the syndesmosis is necessary to achieve a stable ankle joint after supination-external rotation, pronation-external rotation and pronation-abduction fractures. With the use of the suprasyndesmotic screw, weight-bearing was permissible with the screw in situ. As much as two millimeters of lateral displacement of lateral or medial malleolus is accessible with a satisfactory result. Slight or moderate calcification of the syndesmosis seems not to affect the end results considerably. If a stable reduction was achieved it is not necessary to use an external support or cast immobilization. Özet Bu çalışmada distal tibio-fibular sindezmoz ve fibular kırıktaki redaksiyonun tibio-talar eklerindeki etkileri araştırıldı. Transsindezmotik fiksasyon, fibulada kabul edilebilir deplasman miktarı supinasyon-external rotasyon tip 2 (SE 2) kırıklardaki tedavi yöntemi, postoperatif eksternal tesbit gibi tartışma konuları olgularımızın ışığında gözden geçirildi. 70 hasta arasından 32 si ortalama 17 aylık takipten sonra klinik ve radyolojik olarak değerlendirildi. Serimizdeki bulgulara dayanarak, supinasyon-eksternal rotasyon, pronasyon-eksternal rotasyon ve pronasyon-abduksiyon kırıklarından sonra stabil bir ayak bileği eklemi meydana getirmek için sindezmozisinin uygun redüksiyonunun gerekli olduğu sonucuna vardık. Suprasindezmotik vida kullanmakla, vida yerindeyken yüklenmeye izin verilebilmekte idi. Lateral veya medial malleolun 2 mm ye kadar olan lateral deplasmanları tatminkar bir sonuçla kabul edilebilmektedir. Sindezmozisin haif veya orta derecedeki kalsifikasyonunun sonuçları fazla etkilemediği görülmektedir. Stabil bir redaksiyon kazanılabilirse alçı tesbiti ve eksternal bir destek kullanmak gerekli değildir",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Upward closed talocrural dislocation without fracture",
+      "url": "\nhttps://www.panafrican-med-journal.com/content/article/26/179/pdf/179.pdf\n",
+      "publisher": "The Pan African Medical Journal",
+      "year": "2017",
+      "doi": "10.11604/pamj.2017.26.179.9562",
+      "abstract": "The ankle dislocations are very rare, around 1% of all dislocations. It is usually a fracture-dislocation. The talocrural dislocations are exceptional. We report a case about a 63 years male, carpenter, who fell off the stairs leading to an axial compression trauma of his left ankle. In clinical examination, we found a deformation of his ankle without sensory or vascular deficit. This trauma was closed. The x-rays (A, with arrow) found upward talocrural dislocation without fracture. Immediate reduction was performed. The articulation was still incoercible and unstable. We set up two 3.5 mm tri cortical screws in compression followed by six weeks of cast immobilization (B). After 6 weeks, an X-ray was performed where we noticed a decline off the screws (C, with arrow) without clinical impact. We proposed a removal of materiel, but he refused. After 36 months of follow up, functional results were satisfactory.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "The Use of Magnetic Resonance Imaging in Management of Minimally Displaced or Nondisplaced Lateral Humeral Condyle Fractures in Children",
+      "url": "https://hal.science/hal-01792767v1",
+      "publisher": "Pediatric Emergency Care",
+      "year": "2017",
+      "doi": "10.1097/PEC.0000000000000996",
+      "abstract": "OBJECTIVES: Fractures of the lateral humeral condyle are common in children. Nondisplaced fractures are managed with cast immobilization and frequent radiographic follow-up. Possibility of assessing the displacement and stability of such fractures may be helpful in planning the initial treatment and survey. Magnetic resonance imaging (MRI) could be a useful tool in determining the stability of lateral condyle in children. We propose to investigate the use of MRI in such indication. METHODS: Fourteen patients presenting with a minimally displaced or nondisplaced fracture were initially treated with a long arm cast and had an MRI within 5 days of injury. RESULTS: The MRI showed that 10 patients had an incomplete fracture without disruption of the cartilage hinge and 4 patients had a complete fracture with extension of the fracture through the cartilaginous epiphysis into the elbow joint. Three patients with such complete fracture had no evidence of lateral condyle displacement on MRI, and 1 patient had a displacement of the lateral condyle. The patients with incomplete fractures had a conservative treatment. The patient with a complete and displaced fracture had an open reduction and internal fixation. The 3 patients with a complete fracture and no evidence of lateral condyle displacement on MRI had a control MRI, 6 to 10 days after cast application, to detect a secondary displacement of the fracture. CONCLUSIONS: Because it seems difficult in minimally displaced or nondisplaced fractures to detect further displacement with radiographs, MRI was found mandatory to improve complete fracture visualization during the first phase of conservative treatment. In incomplete fractures, initial MRI investigation was consistent with a stable fracture and avoided further early radiographs or clinical survey. In such cases, we recommend a conservative treatment with late radiographs after long arm cast removal. We propose MRI routine use in the early evaluation of minimally displaced or nondisplaced lateral condyle fractures in children.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Soluble milk proteins improve muscle mass recovery after immobilization-induced muscle atrophy in old rats but do not improve muscle functional property restoration",
+      "url": "https://uca.hal.science/hal-01659827v1",
+      "publisher": "Journal of Nutrition, Health & Aging",
+      "year": "2017",
+      "doi": "10.1007/s12603-016-0855-2",
+      "abstract": "Effect of 3 different dairy protein sources on the recovery of muscle function after limb immobilization in old rats. Longitudinal animal study. Institut National de la Recherche Agronomique (INRA). The study took part in a laboratory setting. Old rats were subjected to unilateral hindlimb immobilization for 8 days and then allowed to recover with 3 different dietary proteins: casein, soluble milk proteins or whey proteins for 49 days. Body weight, muscle mass, muscle fibre size, isometric, isokinetic torque, muscle fatigability and muscle oxidative status were measured before and at the end of the immobilization period and during the recovery period i.e 7, 21, 35 and 49 days post immobilization. In contrast to the casein diet, soluble milk proteins and whey proteins were efficient to favor muscle mass recovery after cast immobilization during aging. By contrast, none of the 3 diary proteins was able to improve muscle strength, power and fatigability showing a discrepancy between the recovery of muscle mass and function. However, the soluble milk proteins allowed a better oxidative capacity in skeletal muscle during the rehabilitation period. Whey proteins and soluble milk proteins improve muscle mass recovery after immobilization-induced muscle atrophy in old rats but do not allow muscle functional property restoration.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Spica cast as an alternative to general anesthesia for lower limb MRI in young children",
+      "url": "https://hal.science/hal-02068208v1",
+      "publisher": "Journal of Orthopaedics and Traumatology",
+      "year": "2014",
+      "doi": "10.1007/s10195-013-0251-1",
+      "abstract": "The conventional approach for MRI procedures in very young children is to use general anesthesia which comes with inherent risks. Non-pharmacological strategies to reduce anxiety in children have also been described, but they all require patient cooperation. The purpose of the study was to evaluate the ability to complete diagnosis using temporary spica cast immobilization (TSCI) in children less than 3 years old undergoing MRI procedures for lower limb disorders. IV.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.16,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Median nerve entrapment in a callus fracture following an elastic stable intramedullary nailing for treatment of pediatric both-bone forearm shaft fracture: A case report and literature review Entrapment du nerf médian dans le cal fracturaire à la suite d'un enclouage elastique pour fracture des deux os de l'avant-bras chez un enfant: a propos de un ça et revue de la litterature",
+      "url": "https://hal.science/hal-05339449v1",
+      "publisher": "Journal of Hand and Microsurgery",
+      "year": "2025",
+      "doi": "10.1016/j.jham.2025.100289",
+      "abstract": "Diaphyseal forearm fractures are common injuries in childhood. Most children can be successfully treated conservatively with close reduction and plaster cast immobilization because they have thick periosteum, with a good remodeling potential of the growing skeleton. Surgical intervention is indicated for open fractures, fractures with significant soft-tissue injury, fractures associated with compartment syndrome, unstable fractures, and fractures with an unacceptable alignment after closed reduction. In recent years, elastic stable intramedullary nailing (ESIN) has become the preferred surgical technique. ESIN yields excellent results and severe complications are rare. Neurological symptoms are usually due to neuropraxia and tend to resolve within a few weeks. It has been advised to wait for 3 months until further investigation necessary. Median entrapment is a rare complication of forearm fractures, but several cases have been reported in the literature.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.9,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Case Report of Capitellum Fracture Treated using Herbert Screw",
+      "url": "https://hal.science/hal-05252525v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Capitellar fractures are intra-articular elbow injury & it is an uncommon type of elbow injuries that can cause and affect severe functional limitation if not treated correctly. Various treatment options have evolved over the years, from cast immobilization to closed reduction fixation and now finally open reduction fixation is used as a better treatment option. Open reduction internal fixation provides excellent fixation to the fracture site and helps in achieving a stable joint that help in early mobilization of the elbow joint after trauma. Which also prevents late complications such as myositis ossificans. This is a case report of capitellar fracture, a typical type -1 Hahn-Steinthal fracture of left elbow joint in a 14 year old adolescent male treated using Herbert’s screw fixation. Here after three months of post-op follow-up it shows good interfragmental compression, early mobilization, excellent recovery & Implant removal is rarely necessary.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 0.74,
+      "providers": [
+        "hal"
+      ]
+    }
+  ]
+}

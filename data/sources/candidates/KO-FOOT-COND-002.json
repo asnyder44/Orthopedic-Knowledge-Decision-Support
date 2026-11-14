@@ -1,0 +1,943 @@
+{
+  "term": "Plantar Fasciitis",
+  "collected": "2026-11-14",
+  "count": 52,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Therapeutic efficacy and safety of botulinum toxin A injection in plantar fasciitis: A systematic review and meta-analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0312908",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0312908",
+      "abstract": "Objective: The purpose of this meta-analysis was to evaluate the therapeutic efficacy and safety of botulinum toxin A (BTA) injections for treatment of plantar fasciitis (PF). Methods: This review adhered to the PRISMA guidelines, conducting a comprehensive search of the PubMed, Web of Science, EMBASE, and Cochrane Library databases for eligible studies from their inception to December 30 2023. The inclusion criteria were limited to randomized controlled trials (RCTs) comparing BTA injections with control interventions in terms of pain reduction, functional improvement, or the occurrence of adverse events in treating patients with PF were extracted for meta-analysis. Relevant data were extracted using an electronic spreadsheet and analyzed with Stata 16.0 software. The quality of included studies was assessed using the Cochrane Collaboration’s tool. Results: A total of 655 studies were retrieved and subsequently screened. Seven RCTs, comprising 305 participants, met the eligibility criteria and were included in the meta-analysis. The pooled results indicated that BTA injections led to significant pain reduction only at 1-month posttreatment (SMD = -1.72, 95% CI [-3.10, -0.34], p = 0.01]) and sustained functional improvement over twelve months (SMD = 25.10, 95% CI [9.67, 40.53], p = 0.001) compared to the control group. There was no significant difference in the occurrence of adverse events between the BTA and control interventions (OR = 0.16, 95% CI [-1.00, 1.32], p = 0.79). Conclusion: This meta-analysis suggested that BTA injection could be an effective and safe therapeutic strategy for plantar fasciitis. However, further larger-scale, rigorously designed RCTs are needed to validate these findings and determine the optimal injection dosage and site for BTA in the treatment of plantar fasciitis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 5.06,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Systematic Review of Systematic Reviews on the Epidemiology, Evaluation, and Treatment of Plantar Fasciitis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8705263/",
+      "publisher": "Life (Basel, Switzerland)",
+      "year": "2021",
+      "doi": "10.3390/life11121287",
+      "abstract": "The number of systematic review and meta-analyses on plantar fasciitis is expanding. The purpose of this review was to provide a comprehensive summary of reviews on the topic pertaining to plantar fasciitis, identify any conflicting and inconsistent results, and propose future research direction. A qualitative review of all systematic reviews and meta-analyses related to plantar fasciitis up to February 2021 was performed using PubMed, Embase, Web of Science, and the Cochrane Database. A total of 1052 articles were initially identified and 96 met the inclusion criteria. Included articles were summarized and divided into the following topics: epidemiology, diagnosis, and treatment. While the majority of reviews had high level of heterogeneity and included a small number of studies, there was general consensus on certain topics, such as BMI as a risk factor for plantar fasciitis and extracorporeal shockwave therapy as an effective mode of therapy. A qualitative summary of systematic reviews and meta-analyses published on plantar fasciitis provides a single source of updated information for clinicians. Evidence on topics such as the epidemiology, exercise therapy, or cost-effectiveness of treatment options for plantar fasciitis are lacking and warrant future research.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.94,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Ultrasound- versus Palpation-Guided Injection of Corticosteroid for Plantar Fasciitis: A Meta-Analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0092671",
+      "publisher": "PLoS ONE",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0092671",
+      "abstract": "Background: It is controversial whether ultrasound-guided injection of corticosteroid is superior to palpation-guided injection for plantar fasciitis. This meta-analysis was performed to compare the effectiveness of ultrasound-guided and palpation-guided injection of corticosteroid for the treatment of plantar fasciitis. Methods: Databases (MEDLINE, Cochrane library and EMBASE) and reference lists were searched from their establishment to August 30, 2013 for randomized controlled trials (RCTs) comparing ultrasound-guided with palpation-guided injection for plantar fasciitis. The Cochrane risk of bias (ROB) tool was used to assess the methodological quality. Outcome measurements were visual analogue scale (VAS), tenderness threshold (TT), heel tenderness index (HTI), response rate, plantar fascia thickness (PFT), hypoechogenicity and heel pad thickness (HPT). The statistical analysis was performed with software RevMan 5.2 and Stata 12.0. When I2<50%, the fixed-effects model was adopted. Otherwise the randomized-effects model was adopted. The Grading of Recommendations Assessment, Development and Evaluation (GRADE) system was used to assess the quality of evidence. Results: Five RCTs with 149 patients were identified and analyzed. Compared with palpation-guided injection, ultrasound-guided injection was superior with regard to VAS, TT, response rate, PFT and hypoechogenicity. However, there was no statistical significance between the two groups for HPT and HTI. Conclusion: Ultrasound-guided injection of corticosteroid tends to be more effective than palpation-guided injection. However, it needs to be confirmed by further research.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.66,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "PROTOCOLOS DE TRATAMENTO PARA REABILITAÇÃO DA FASCITE PLANTAR – UMA REVISÃO INTEGRATIVA TREATMENT PROTOCOLS FOR PLANTAR FASCIITIS REHABILITATION – AN INTEGRATIVE REVIEW",
+      "url": "https://zenodo.org/records/18067696",
+      "publisher": "Monumenta: Revista de Estudos Interdisciplinares",
+      "year": "2025",
+      "doi": "10.5281/zenodo.18067696",
+      "abstract": "A fascite plantar (FP) é uma condição caracterizada pela inflamação do tecido que compõe a fáscia plantar, a qual conecta a região do calcâneo (calcanhar) aos dedos do pé. Diversos tratamentos fisioterapêuticos têm sido propostos com o objetivo de aliviar a dor e restaurar a função, incluindo alongamentos da fáscia plantar, fortalecimento dos músculos intrínsecos do pé e da panturrilha, terapias manuais, recursos eletrotermofototerapêuticos, além do uso de palmilhas ortopédicas, bandagens terapêuticas e orientações sobre calçados e postura. Objetivo: Este trabalho teve como objetivo identificar, os principais protocolos fisioterapêuticos utilizados na reabilitação da Fascite Plantar. Metodologia: A pesquisa foi realizada por meio de uma revisão bibliográfica do tipo integrativa, utilizando artigos a partir de 2017, nas bases de dados . PubMed, PEDro, Scielo, Cochrane Library, Google Acadêmico, no período de outubro de 2024 à setembro de 2025 . No total, a busca resultou na seleção de 20 estudos que oferecem uma visão abrangente sobre o tema. Resultados: A análise dos estudos revelou que protocolos integrados, incluindo Terapia por Ondas de Choque, exercícios de alongamento e fortalecimento, mobilizações manuais, bandagens e uso de órteses, apresentaram melhores resultados na redução da dor e na melhora da função do pé. Também se verificou que tratamentos individualizados apresentam maior eficácia do que protocolos padronizados. Conclusão: Constatou-se que a abordagem combinada e personalizada é essencial para a reabilitação da fascite plantar, destacando a necessidade de protocolos adaptáveis ao perfil clínico de cada paciente.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Diagnostic imaging for chronic plantar heel pain: a systematic review and meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2784446/",
+      "publisher": "Journal of foot and ankle research",
+      "year": "2009",
+      "doi": "10.1186/1757-1146-2-32",
+      "abstract": "Background Chronic plantar heel pain (CPHP) is a generalised term used to describe a range of undifferentiated conditions affecting the plantar heel. Plantar fasciitis is reported as the most common cause and the terms are frequently used interchangeably in the literature. Diagnostic imaging has been used by many researchers and practitioners to investigate the involvement of specific anatomical structures in CPHP. These observations help to explain the underlying pathology of the disorder, and are of benefit in forming an accurate diagnosis and targeted treatment plan. The purpose of this systematic review was to investigate the diagnostic imaging features associated with CPHP, and evaluate study findings by meta-analysis where appropriate. Methods Bibliographic databases including Medline, Embase, CINAHL, SportDiscus and The Cochrane Library were searched electronically on March 25, 2009. Eligible articles were required to report imaging findings in participants with CPHP unrelated to inflammatory arthritis, and to compare these findings with a control group. Methodological quality was evaluated by use of the Quality Index as described by Downs and Black. Meta-analysis of study data was conducted where appropriate. Results Plantar fascia thickness as measured by ultrasonography was the most widely reported imaging feature. Meta-analysis revealed that the plantar fascia of CPHP participants was 2.16 mm thicker than control participants (95% CI = 1.60 to 2.71 mm, P Conclusion This systematic review has identified 23 studies investigating the diagnostic imaging appearance of the plantar fascia and inferior calcaneum in people with CPHP. Analysis of these studies found that people with CPHP are likely to have a thickened plantar fascia with associated fluid collection, and that thickness values >4.0 mm are diagnostic of plantar fasciitis. Additionally, subcalcaneal spur formation is strongly associated with pain beneath the heel.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.5,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Can kinesio tape negatively affect the treatment by creating a hard floor in plantar fasciitis treatment? A randomized clinical trial",
+      "url": "https://doi.org/10.1371/journal.pone.0322397",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0322397",
+      "abstract": "Background: Radial extracorporeal shock wave therapy (r-ESWT) is accepted as one of the most effective treatment modalities for plantar fasciitis (PF). Also kinesio taping (KT) applicationis effective for the treatment of PF. However, there is not enough evidence about the effectiveness of the combination of these two modalities in the treatment of PF. This prospective randomized clinical trial was planned to investigate the acute effects of KT application in addition to r-ESWT application on pain, foot function and flexibility. Methods: The study was performed on 42 patients with unilateral PF, that were randomly assigned into two groups receiving four sessions of either r-ESWT or r-ESWT+KT treatment once per week. All patients performed home exercises. Patients’ pain levels were evaluated via the Visual Analogue Scale (VAS), and foot function via the Foot Function Index (FFI). Flexibility was evaluated through gastro-soleus and plantar fascia flexibility tests. The evaluations were done before and one week after the final treatment. Two Way Analysis of Variance with Repeated Measures and Generalized Estimating Equations (GEE) methods were used in statistical analyses. Results: As a result, rest pain and activity pain decreased in both groups and there is no differences between the groups (respectively p: 0,831; p: 0.331). FFI pain and disability subscores decreased and were also similar between the groups (respectively p: 0.304; p: 0.978). FFI activity limitation subscore decreased in the r-ESWT group more than r-ESWT+KT group (p: 0.002). Night pain, gastro-soleus and plantar fascia flexibility did not change in both goups (respectively p: 0.713; p: 0.413; p: 0.475). Conclusion: Adding KT to r-ESWT application did not create an additional pain relieving effect, on the contrary, resulted in less improvement in activity limitation. This may be related to the fact that KT application to the sole and heel region creates a hard surface on the heel. r-ESWT application may be more beneficial in PF where activity limitation are prominent. ClinicalTrials.gov: The registration number: NCT06516393",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.0,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison of the effect of hyaluronic acid injection versus extracorporeal shockwave therapy on chronic plantar fasciitis: Protocol for a randomized controlled trial",
+      "url": "https://doi.org/10.1371/journal.pone.0250768",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0250768",
+      "abstract": "Background: Plantar fasciitis is the most common cause of pain in the plantar region of the heel, and extracorporeal shockwave therapy (ESWT) is an option used in cases where conservative treatment fails. Hyaluronic acid (HA), initially used for osteoarthrosis, is a treatment option because it has been applied to extra-articular regions, such as tendons, ligaments, and fascia. The aim of the present study will be to evaluate the outcomes of pain, function, and personal satisfaction after a single injection of HA and to compare the results with those of ESWT in patients with chronic plantar fasciitis. Methods: The study will include 80 patients who will be randomized to receive three sessions of ESWT (n = 40) or a single ultrasound-guided HA injection in the plantar fascia (n = 40). The outcomes will include the visual analog pain scale score, American Orthopaedic Foot and Ankle Society (AOFAS) score, and Foot and Ankle Outcome Score (FAOS). All of the assessments will be performed at baseline and 3, 6, and 12 months after treatment. Statistical analysis will be performed using the repeated measures ANOVA (analysis of variance test) for primary and secondary outcomes and also Fisher’s Least Significant Difference, a Post-Hoc test. We will use R software for statistical analysis, randomization, and sample size calculation. Results: Recruitment and data collection will begin in November 2020, with completion scheduled for November 2022 and final publication available in March 2023. Conclusion: This trial will evaluate the effects of a single ultrasound-guided HA injection for the treatment of chronic plantar fasciitis. Trial registration: Brazilian Clinical Trials Registry (Register Number: RBR-97vkx4) http://www.ensaiosclinicos.gov.br/rg/RBR-97vkx4/.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.84,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Superior pedal function recovery of newly designed three spike insole over total contact insole in refractory plantar fasciitis: A randomized, double-blinded, non-inferiority study",
+      "url": "https://doi.org/10.1371/journal.pone.0255064",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0255064",
+      "abstract": "Introduction: Plantar fasciitis is one of the common foot complaints that is chronic and can induce dysfunction. Total contact insole (TCI) is simple but effective in treating plantar fasciitis. Despite its effect, the cost and long duration for production have been the major flaws. Therefore, we developed a newly designed three-spike insole (TSI) that can be commercially productive and compared its clinical outcomes to TCI. Methods: Patients with plantar fasciitis refractory to conservative treatment for more than 6 weeks were candidates. We produced insoles with hardness of 58 ± 5 Shore-A. Twenty-eight patients were randomized with equal allocation to either TSI or TCI. The following assessment tools were used: visual analog scale (VAS), American Orthopaedic Foot and Ankle score, Foot and Ankle Outcome Score, Karlsson-Peterson (KP) score, Short Form-36 for quality of life, and Foot Function Index. Non-inferiority was declared if VAS was within the statistical variability of minimal important difference. A blinded assessor evaluated the groups at baseline and after 6, 12, and 24 weeks. Results: The groups were homogenous for majority of variables at baseline. Overall patient-reported satisfaction showed improvement from mean 5.2 (range, 1–12) weeks of wearing and all clinical outcome scores showed significant improvements in both groups over time on Friedman test (p ≤.032). TSI showed non-inferiority to TCI at each time point. Post hoc analysis revealed that many scales showed significant superiority of TSI at 3 month (p ≤.008) and KP score at 6 month (p < .001). Conclusion: We reaffirmed that semi-rigid insole is effective in refractory plantar fasciitis and showed TSI restores pedal function more rapidly than TCI. TSI can be not only effective in deriving better clinical outcomes but also be manufactured for popularization to lower the price and producing time of orthosis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.84,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Electrical dry needling as an adjunct to exercise, manual therapy and ultrasound for plantar fasciitis: A multi-center randomized clinical trial",
+      "url": "https://doi.org/10.1371/journal.pone.0205405",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0205405",
+      "abstract": "Study Design: Randomized, single-blinded, multi-center, parallel-group trial. Objectives: To compare the effects of adding electrical dry needling into a program of manual therapy, exercise and ultrasound on pain, function and related-disability in individuals with plantar fasciitis (PF). Background: The isolated application of electrical dry needling, manual therapy, exercise, and ultrasound has been found to be effective for PF. However, no previous study has investigated the combined effect of these interventions in this population. Methods: One hundred and eleven participants (n = 111) with plantar fasciitis were randomized to receive electrical dry needling, manual therapy, exercise and ultrasound (n = 58) or manual therapy, exercise and ultrasound (n = 53). The primary outcome was first-step pain in the morning as measured by the Numeric Pain Rating Scale (NPRS). Secondary outcomes included resting foot pain (NPRS), pain during activity (NPRS), the Lower Extremity Functional Scale (LEFS), the Foot Functional Index (FFI), medication intake, and the Global Rating of Change (GROC). The treatment period was 4 weeks with follow-up assessments at 1 week, 4 weeks, and 3 months after the first treatment session. Both groups received 6 sessions of impairment-based manual therapy directed to the lower limb, self-stretching of the plantar fascia and the Achilles tendon, strengthening exercises for the intrinsic muscles of the foot, and therapeutic ultrasound. In addition, the dry needling group also received 6 sessions of electrical dry needling using a standardized 8-point protocol for 20 minutes. The primary aim was examined with a 2-way mixed-model analysis of covariance (ANCOVA) with treatment group as the between-subjects variable and time as the within-subjects variable after adjusting for baseline outcomes. Results: The 2X4 ANCOVA revealed that individuals with PF who received electrical dry needling, manual therapy, exercise and ultrasound experienced significantly greater improvements in first-step morning pain (F = 22.021; P<0.001), resting foot pain (F = 23.931; P<0.001), pain during activity (F = 7.629; P = 0.007), LEFS (F = 13.081; P<0.001), FFI Pain Subscale (F = 13.547; P<0.001), FFI Disability Subscale (F = 8.746; P = 0.004), and FFI Total Score (F = 10.65; P<0.001) than those who received manual therapy, exercise and ultrasound at 3 months. No differences in FFI Activity Limitation Subscale (F = 2.687; P = 0.104) were observed. Significantly (X2 = 9.512; P = 0.023) more patients in the electrical dry needling group completely stopped taking medication for their pain compared to the manual therapy, exercise and ultrasound group at 3 months. Based on the cutoff score of ≥+5 on the GROC, significantly (X2 = 45.582; P<0.001) more patients within the electrical dry needling group (n = 45, 78%) achieved a successful outcome compared to the manual therapy, exercise and ultrasound group (n = 11, 21%). Effect sizes ranged from medium to large (0.53<SMD<0.85) at 3 months in favor of the electrical dry needling group. Conclusion: The inclusion of electrical dry needling into a program of manual therapy, exercise and ultrasound was more effective for improving pain, function and related-disability than the application of manual therapy, exercise and ultrasound alone in individuals with PF at mid-term (3 months). Level of evidence: Therapy, Level 1b.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.72,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effectiveness of Dry Needling, Dynamic Cupping and Instrument-assisted Soft-tissue Mobilisation in Plantar Fasciitis: A Critical Narrative Review of Individual and Combined Use",
+      "url": "https://hal.science/hal-05707069v1",
+      "publisher": "Asian Journal of Medicine and Health",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Plantar fasciitis, more broadly described as plantar heel pain or plantar fasciopathy, is commonly treated with exercise, stretching, education and load modification, yet clinicians frequently add dry needling, cupping or instrument-assisted soft-tissue mobilisation when symptoms persist. This critical narrative review evaluates the effectiveness, plausible mechanisms, safety and clinical positioning of dry needling, dynamic cupping and instrument-assisted soft-tissue mobilisation, with particular attention to whether dynamic cupping combined with instrument-assisted soft-tissue mobilisation can be considered an evidence-supported alternative to dry needling. Literature published from 2000 to 21 May 2026 was identified through live searches of PubMed/MEDLINE, PubMed Central, the Directory of Open Access Journals, ClinicalTrials.gov, DOI and official journal records, supplemented by backward and forward citation searching. Evidence was appraised according to design quality, comparator credibility, sample adequacy, intervention fidelity, clinical relevance, follow-up, adverse-event reporting and applicability to multimodal rehabilitation. Dry needling has the largest direct evidence base. Sham-controlled and add-on trials indicate possible reductions in pain and disability, but effect estimates vary with technique, comparator and co-intervention, and statistical improvements do not consistently reach clinically important thresholds. Evidence for cupping is limited to a small number of trials of static dry cupping; direct evidence for moving or dynamic cupping in plantar fasciitis was not identified within the search period. Instrument-assisted soft-tissue mobilisation has a small plantar-heel-specific evidence base, while broader reviews report inconsistent and generally low- or very-low-certainty effects. No eligible trial directly compared dry needling with dynamic cupping plus instrument-assisted soft-tissue mobilisation or tested whether the combined mechanical modalities provide additive benefit. These interventions should therefore be considered optional, preference-sensitive adjuncts rather than substitutes for diagnosis, education, progressive loading and plantar fascia-specific rehabilitation. Future trials require credible sham or attention controls, factorial designs, prespecified clinically important outcomes, longer follow-up and transparent reporting of treatment dose and harms.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "What are the main running-related musculoskeletal injuries? A Systematic Review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4269925/",
+      "publisher": "Sports medicine (Auckland, N.Z.)",
+      "year": "2012",
+      "doi": "10.1007/bf03262301",
+      "abstract": "Background Musculoskeletal injuries occur frequently in runners and despite many studies about running injuries conducted over the past decades it is not clear in the literature what are the main running-related musculoskeletal injuries (RRMIs). Objective The aim of this study is to systematically review studies on the incidence and prevalence of the main specific RRMIs. Methods An electronic database search was conducted using EMBASE (1947 to October 2011), MEDLINE (1966 to October 2011), SPORTDiscus(1975 to October 2011), the Latin American and Caribbean Center on Health Sciences Information (LILACS) [1982 to October 2011] and the Scientific Electronic Library Online (SciELO) [1998 to October 2011] with no limits of date or language of publication. Articles that described the incidence or prevalence rates of RRMIs were considered eligible. Studies that reported only the type of injury, anatomical region or incomplete data that precluded interpretation of the incidence or prevalence rates of RRMIs were excluded. We extracted data regarding bibliometric characteristics, study design, description of the population of runners, RRMI definition, how the data of RRMIs were collected and the name of each RRMI with their rates of incidence or prevalence. Separate analysis for ultra-marathoners was performed. Among 2924 potentially eligible titles, eight studies (pooled n = 3500 runners) were considered eligible for the review. In general, the articles had moderate risk of bias and only one fulfilled less than half of the quality criteria established. Results A total of 28 RRMIs were found and the main general RRMIs were medial tibial stress syndrome (incidence ranging from 13.6% to 20.0%; prevalence of 9.5%), Achilles tendinopathy (incidence ranging from 9.1% to 10.9%; prevalence ranging from 6.2% to 9.5%) and plantar fasciitis (incidence ranging from 4.5% to 10.0%; prevalence ranging from 5.2% to 17.5%). The main ultra-marathon RRMIs were Achilles tendinopathy (prevalence ranging from 2.0% to 18.5%) and patellofemoral syndrome (prevalence ranging from 7.4% to 15.6%). Conclusion This systematic review provides evidence that medial tibia stress syndrome, Achilles tendinopathy and plantar fasciitis were the main general RRMIs, while Achilles tendinopathy and patellofemoral syndrome were the most common RRMIs for runners who participated in ultra-marathon races.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.58,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparing two protocols of shock wave therapy for patients with plantar fasciitis: A pilot study",
+      "url": "https://doi.org/10.1371/journal.pone.0302553",
+      "publisher": "PLOS ONE",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0302553",
+      "abstract": "Objectives: This pilot study primarily aimed to detect the adherence as well as the effect size required to estimate the actual sample size needed for a larger scale study to compare and evaluate the effectiveness of two extracorporeal shock wave therapy (ESWT) protocols along, with a physical therapy program in reducing pain and improving function among patients suffering from plantar fasciitis. The study also aimed to report the effects of the ESWT protocols used on pain and function. Methods: A total of 26 participants took part in the study, including 17 females and 9 males. The average age of the participants was 34 years with a body mass index (BMI) of 23 kg/m2. Participants were divided into three equal groups; Group A received ESWT at a frequency of 15 Hz and intensity of 3, Group B received ESWT at a frequency of 10 Hz and intensity of 4, while Group C underwent the selected physical therapy program along with sham shock wave therapy as a control. Pain levels were assessed using the Visual Analog Scale (VAS) while functional improvements were evaluated using the Foot Function Index (FFI). Data was collected prior to treatment, after three sessions and at the end of six weeks (after six sessions). Results: The three groups were well matched, and the results revealed high adherence rates (90%, 90% and 80% respectively). Results also indicated reductions in pain levels and improvements in function for both intervention groups when compared to the control group. Group A demonstrated better outcomes compared to Group B while Group C showed relatively less improvement. Conclusion: The study concluded a high adherence rate for the three groups as well as a small effect size detected of 0.282 that would suggest a total of 123 participants to be required to replicate the study on a larger scale. With regards to the findings of this pilot, the combination of ESWT and a targeted physical therapy program revealed a possible effective therapeutic approach for plantar fasciitis, with a higher frequency potentially yielding more favourable results.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Plantar Fasciitis: An Updated Review",
+      "url": "https://doi.org/10.4103/jmu.jmu_2_23",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2023",
+      "doi": "10.4103/jmu.jmu_2_23",
+      "abstract": "Abstract Plantar fasciitis (PF) is a common musculoskeletal disease. Histologic findings of patients with PF showed mainly chronic degenerative processes rather than inflammation. In addition to mechanical factors, such as repetitive stress and reduced ankle dorsiflexion, PF is also linked to rheumatologic diseases and genetic factors. Ultrasound is becoming a standard imaging technique for assessing PF. Major sonographic findings included increased plantar fascia thickness and hypoechoic plantar fascia. In addition to traditional B-mode ultrasound, sonoelastography can also be utilized to diagnose PF. Ultrasound can also be used to guide therapeutic interventions. Over 80% of patients with PF improved under nonsurgical treatment. Treatment options for PF include physical therapy, modalities (laser, therapeutic ultrasound), extracorporeal shock wave therapy (ESWT), injections, transcatheter arterial embolization, and surgery. For injections, corticosteroid was mostly used in the past but has been replaced gradually by other techniques such as platelet-rich plasma or dextrose prolotherapy. There is also more and more evidence about ESWT in treating PF. Surgery serves as an option for recalcitrant PF cases, and endoscopic fasciotomy seemed to have good outcomes. Ultrasound plays an important role in diagnosing of PF and evaluating the treatment effect, and the use of sonoelastography in addition to traditional B-mode ultrasound may help in the early detection of PF and assessment of the treatment effect.",
+      "licence": "Open Access",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.52,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Comparative Assessment of the Efficacy of Autologous PRP Injection and Corticosteroid Injection in Treatment of Plantar Fasciitis (PF)",
+      "url": "https://zenodo.org/records/11582113",
+      "publisher": "International Journal of Current Pharmaceutical Review and Research",
+      "year": "2023",
+      "doi": "10.5281/zenodo.11582113",
+      "abstract": "Abstract Aim: The aim of the present study was to assess the efficacy of autologous PRP injection and to compare it with corticosteroid injection in treatment of plantar fasciitis (PF). Methods: The study was conducted in the Department of Orthopaedics for the period of one year. 100 patients were included in the study and divided into two groups. Group I (50 patients) received PRP injection and group II (50 patients) were given steroid injection. Results: A total of 100 patients were analyzed in this study ranging from 22 to 64 years of age. In both groups, females outnumbered males, right sided involvement was more than the left side. The average duration of symptoms at the time of presentation was observed to be 23.17±12.48 and 18.4±14.48 in group A and group B respectively. The clinical improvement in chronic plantar fasciitis in this study was evaluated by comparing the values of functional outcome indices at 6th month follow-up with the baseline values recorded prior to administration of injection. The patients showed a statistically significant improvement in both groups with respect to AOFAS Score, VAS scores and plantar fascia thickness and this improvement was significantly more in Group A (PRP). Both the groups do not differ significantly at baseline and posttreatment at 6 months (p > 0.05). Conclusion: This study concluded that both PRP and corticosteroid (methyl prednisolone) injections provide symptomatic relief in the treatment of chronic plantar fasciitis. Though the corticosteroid (methyl prednisolone) injection was effective for immediate pain relief, PRP injections are more effective than corticosteroid (methyl prednisolone) injections on long term basis.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Frequency of plantar fasciitis due to improper shoes among different universities students",
+      "url": "https://zenodo.org/records/5651463",
+      "publisher": "World Journal of Advanced Research and Reviews",
+      "year": "2021",
+      "doi": "10.5281/zenodo.5651463",
+      "abstract": "Back ground : study was conducted to determine the frequency of plantar fasciitis among three different universities students due to improper shoes. It was cross-sectional study. Plantar fasciitis is the inflammation of plantar fascia; plantar fascia is a thick connective tissue that forms the medial arch of foot. Improper shoes cause constant pressure and irritation on plantar fascia that leads to inflammation. When someone wears improper shoes, pronation activity of the foot decreased and it can lead to plantar fasciitis. Objective: The objective of study was to determine the frequency of plantar fasciitis due to improper shoes among three different universities students. Material and Methods : Study was cross-sectional and the data was collected from university students. Data was collected by using questionnaire and by applying statistical procedures results were concluded. Results: There were the following results in this study as, 35.5% participants without pain, 45% with mild pain, 16% with moderate pain and 3.6% with severe pain. There were 84% participants with single etiology, 13% participants with multiple etiology and 3% participants with nerve entrapment. There were 31 participants with no pain, 49 participants with mild pain, 11 participants with moderate pain and 2 participants with severe pain between ages 20-25 years. And between ages 26-30 there were 29 participants with no pain, 27 with mild pain, 16 with moderate pain and 4 participants with severe pain. Conclusion: Study concluded that 55.6% participants were between ages of 20-25 years. 54.4% participants were females, 59.2% participants were with no pain, 84% participants were with single etiology that is plantar fasciopathy. There were mostly participants suffered with mild pain and only 3.6% participants showed response with severe pain. There were mostly participants suffered with single etiology and the number of affected participants with plantar fasciitis slightly increased with age.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Biomechanical effects of rocker shoes on plantar aponeurosis strain in patients with plantar fasciitis and healthy controls",
+      "url": "https://doi.org/10.1371/journal.pone.0222388",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0222388",
+      "abstract": "Plantar fasciitis is a frequently occurring overuse injury of the foot. Shoes with a stiff rocker profile are a commonly prescribed treatment modality used to alleviate complaints associated with plantar fasciitis. In rocker shoes the apex position was moved proximally as compared to normal shoes, limiting the progression of the ground reaction forces (GRF) and peak plantarflexion moments during gait. A stiff sole minimizes dorsiflexion of the toes. The aim of this study was to investigate whether the biomechanical effects of rocker shoes lead to minimization of plantar aponeurosis (PA) strain during gait in patients with plantar fasciitis and in healthy young adults. 8 patients with plantar fasciitis (1 male, 7 females; mean age 55.0 ± 8.4 years) and 8 healthy young adults (8 females; mean age 24.1 ± 1.6 years) participated in the study. Each participant walked for 1 minute on an instrumented treadmill while wearing consecutively in random order shoes with a normal apex position (61.2 ± 2.8% apex) with flexible insole (FN), normal apex position with stiff insole (SN), proximal apex position (56.1 ± 2.6% apex) with flexible insole (FR) and proximal apex position with stiff insole (SR). Marker position data of the foot and lower leg and GRF were recorded. An OpenSim foot model was used to compute the change in PA length based on changes in foot segment positions during gait. The changes in PA length due to increases in Achilles tendon forces were computed based on previous data of a cadaver study. PA strain computed from both methods was not statistically different between shoe conditions. Peak Achilles tendon force, peak first metatarsophalangeal (MTP1) joint angle and peak plantarflexion moment were significantly lower when walking with the rocker shoe with a proximal apex position and a stiff insole for all subjects (p<.05). Changes in Achilles tendon forces during gait accounted for 65 ± 2% of the total PA strain. Rocker shoes with a stiff insole reduce peak dorsiflexion angles of the toes and plantar flexion moments, but not PA strain because the effects of a proximal apex position and stiff insole do not occur at the same time, but independently affect PA strain at 80–90% and 90–100% of the stance phase. Rocker shoes with an apex position of ~56% are insufficient to significantly reduce peak PA strain values in patients with plantar fasciitis and healthy young adults.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "RehabMove 2018: Biomechanical effects of rocker shoes in patients with plantar fasciitis",
+      "url": "https://zenodo.org/records/2606902",
+      "publisher": "Zenodo",
+      "year": "2019",
+      "doi": "10.5281/zenodo.2606902",
+      "abstract": "Plantar fasciitis is one of the most frequently occurring overuse injury of the foot and characterized by pain under the foot which aggravates during standing, walking and running. A frequently used treatment option for plantar fasciitis is the rocker shoe. The rocker shoe has a proximal apex position and a stiff insole. The rocker shoe is assumed to unload the plantar fascia during gait because it minimizes peak achilles tendon forces and dorsiflexion angles of the toes. However whether a proximal apex position and a stiff insole minimize the strain on the plantar fascia and how these two parameter interact has not been investigated yet. A musculoskeletal model similar to a previously published study and data from a cadaver study was used to estimate the strain of the plantar fascia in ten healthy young adults and nine patients diagnosed with plantar fasciitis. The participants walked for 60 seconds on their comfortable speed on a treadmill. Four different shoe conditions were randomly applied by varying sole stiffnes and the apex position of the shoe. Plantar fascia strain remained unaffected by shoe condition, but peak Achilles tendon force, peak MTP1 angle and peak plantarflexion moment were significantly lower when walking with with a proximal apex position and a stiff insole. Rocker shoes with a stiff insole positively affect peak dorsiflexion angles of the toes and plantar flexion moments but not PA strain during gait. Possibly more proximal apex positions should be used in patients with plantar fasciitis to minimize plantar fascia strain during gait and facilitate healing processes.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Current approaches to surgical treatment of plantar fasciitis (literature review)",
+      "url": "http://ilizarov-journal.com/files/2018_4_14.pdf",
+      "publisher": "Гений oртопедии",
+      "year": "2018",
+      "doi": "10.18019/1028-4427-2018-24-4-515-520",
+      "abstract": "There is no general consensus among experts regarding terminology, pathogenesis and treatment of heel spurs. Surgical treatment of heel spur is considered for patients who have not responded adequately after 6-12 months of conservative therapy. Although there is no evident association between the presence of osteophyte in the heel and plantar heel pain removal of exostosis is still viewed by many experts as the main purpose of surgical management. Another option includes plantar fascia release surgery aimed to relieve tension of plantar aponeurosis and improve pain. Surgical treatment of the proximal plantar fasciosis is reserved for degenerative, non-inflammatory cases to increase collagen regeneration and plantar fascia vascularity",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Imaging of plantar fascia disorders: findings on plain radiography, ultrasound and magnetic resonance imaging",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5265197/",
+      "publisher": "Insights into imaging",
+      "year": "2017",
+      "doi": "10.1007/s13244-016-0533-2",
+      "abstract": "Plantar fascia (PF) disorders commonly cause heel pain and disability in the general population. Imaging is often required to confirm diagnosis. This review article aims to provide simple and systematic guidelines for imaging assessment of PF disease, focussing on key findings detectable on plain radiography, ultrasound and magnetic resonance imaging (MRI). Sonographic characteristics of plantar fasciitis include PF thickening, loss of fibrillar structure, perifascial collections, calcifications and hyperaemia on Doppler imaging. Thickening and signal changes in the PF as well as oedema of adjacent soft tissues and bone marrow can be assessed on MRI. Radiographic findings of plantar fasciitis include PF thickening, cortical irregularities and abnormalities in the fat pad located deep below the PF. Plantar fibromatosis appears as well-demarcated, nodular thickenings that are iso-hypoechoic on ultrasound and show low-signal intensity on MRI. PF tears present with partial or complete fibre interruption on both ultrasound and MRI. Imaging description of further PF disorders, including xanthoma, diabetic fascial disease, foreign-body reactions and plantar infections, is detailed in the main text. Ultrasound and MRI should be considered as first- and second-line modalities for assessment of PF disorders, respectively. Indirect findings of PF disease can be ruled out on plain radiography. Teaching Points • PF disorders commonly cause heel pain and disability in the general population.• Imaging is often required to confirm diagnosis or reveal concomitant injuries.• Ultrasound and MRI respectively represent the first- and second-line modalities for diagnosis.• Indirect findings of PF disease can be ruled out on plain radiography.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Physiotherapeutic methods in the treatment of heel spurs and inflammation of plantar fasciitis - a review of the literature",
+      "url": "https://zenodo.org/records/818080",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.818080",
+      "abstract": "Uczciwek Mariola Monika. Physiotherapeutic methods in the treatment of heel spurs and inflammation of plantar fasciitis - a review of the literature. Journal of Education, Health and Sport. 2017;7(6):408-418. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.818080 http://ojs.ukw.edu.pl/index.php/johs/article/view/4550 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 03.06.2017. Revised: 20.06.2017. Accepted: 25.06.2017. Metody fizjoterapeutyczne w leczeniu ostrogi piętowej i zapalenia rozcięgna podeszwowego - przegląd piśmiennictwa Physiotherapeutic methods in the treatment of heel spurs and inflammation of plantar fasciitis - a review of the literature Mariola Monika Uczciwek Scientific Circle at Department of Hygiene, Epidemiology and Ergonomics. Division of Ergonomics and Exercise Physiology, Nicolaus Copernicus Univeristy in Toruń, Collegium Medicum in Bydgoszcz, Poland Abstract For aim of this paper and analysis of the treatment methods in question articles from Pumbed basis were used. Pumbed basis, which works under the auspices of US National Library of Medicine and National Institute of Health, helped to analyze the treatment methods for chronic condition of heel spur and plantar fascia. The analytical process was based on bibliographical descript. Results of 1204 numbers were summarized because of specialist criterion. Heel spurs are bony growths growing out of the plantar fascia and other soft tissues lining nearby which conduct to the plantar fascia ignition. The occurrence of these is connected with burdensome feeling of pain that can be felt when making first steps after getting up in the morning. It is a serious condition that applies to more and more people. Being overweight, training sports straining feet are the reasons contributing to this condition. Yet, it is not a general rule for the risk group. Treating methods in this sphere give many opportunities for physical therapist and doctors. The best sustainable method is physical therapy supported by medical aids. However, not every case gives intended results. If the sustainable methods are not enough, the surgical treatment should be introduced. There is no doubt that any method of treatment is individually reclaimed by every patient. Keywords calcaneal spur, heel spur, plantar fasciitis, physiotherapy",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Plantar Fasciitis Treatment",
+      "url": "https://zenodo.org/records/3970796",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2016",
+      "doi": "10.5281/zenodo.3970796",
+      "abstract": "Plantar Fasciitis is the most common cause of painful heel. Approach to heel pain involves a detailed history, thorough clinical examination and relevant investigations. Majority of the patients respond to non-operative treatment Out of number of non surgical options available which one to use first and in which one in particular group of patients is not clear",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Dynamic Patterns of Forces and Loading Rate in Runners with Unilateral Plantar Fasciitis: A Cross-Sectional Study",
+      "url": "https://doi.org/10.1371/journal.pone.0136971",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0136971",
+      "abstract": "Aim/Hypothesis: The etiology of plantar fasciitis (PF) has been related to several risk factors, but the magnitude of the plantar load is the most commonly described factor. Although PF is the third most-common injury in runners, only two studies have investigated this factor in runners, and their results are still inconclusive regarding the injury stage. Objective: Analyze and compare the plantar loads and vertical loading rate during running of runners in the acute stage of PF to those in the chronic stage of the injury in relation to healthy runners. Methods: Forty-five runners with unilateral PF (30 acute and 15 chronic) and 30 healthy control runners were evaluated while running at 12 km/h for 40 meters wearing standardized running shoes and Pedar-X insoles. The contact area and time, maximum force, and force-time integral over the rearfoot, midfoot, and forefoot were recorded and the loading rate (20–80% of the first vertical peak) was calculated. Groups were compared by ANOVAs (p<0.05). Results: Maximum force and force-time integral over the rearfoot and the loading rate was higher in runners with PF (acute and chronic) compared with controls (p<0.01). Runners with PF in the acute stage showed lower loading rate and maximum force over the rearfoot compared to runners in the chronic stage (p<0.01). Conclusion: Runners with PF showed different dynamic patterns of plantar loads during running over the rearfoot area depending on the injury stage (acute or chronic). In the acute stage of PF, runners presented lower loading rate and forces over the rearfoot, possibly due to dynamic mechanisms related to pain protection of the calcaneal area.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Extracorporeal shockwave therapy in musculoskeletal disorders",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342893/",
+      "publisher": "Journal of orthopaedic surgery and research",
+      "year": "2012",
+      "doi": "10.1186/1749-799x-7-11",
+      "abstract": "The sources of shockwave generation include electrohydraulic, electromagnetic and piezoelectric principles. Electrohydraulic shockwaves are high-energy acoustic waves generated under water explosion with high voltage electrode. Shockwave in urology (lithotripsy) is primarily used to disintegrate urolithiasis, whereas shockwave in orthopedics (orthotripsy) is not used to disintegrate tissues, rather to induce tissue repair and regeneration. The application of extracorporeal shockwave therapy (ESWT) in musculoskeletal disorders has been around for more than a decade and is primarily used in the treatment of sports related over-use tendinopathies such as proximal plantar fasciitis of the heel, lateral epicondylitis of the elbow, calcific or non-calcific tendonitis of the shoulder and patellar tendinopathy etc. The success rate ranged from 65% to 91%, and the complications were low and negligible. ESWT is also utilized in the treatment of non-union of long bone fracture, avascular necrosis of femoral head, chronic diabetic and non-diabetic ulcers and ischemic heart disease. The vast majority of the published papers showed positive and beneficial effects. FDA (USA) first approved ESWT for the treatment of proximal plantar fasciitis in 2000 and lateral epicondylitis in 2002. ESWT is a novel non-invasive therapeutic modality without surgery or surgical risks, and the clinical application of ESWT steadily increases over the years. This article reviews the current status of ESWT in musculoskeletal disorders.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A Phase 1, Single-Blind, Randomized, Placebo-Controlled Dose Escalation Study to Assess Collagenase Clostridium Histolyticum (CCH) vs Placebo in Patients With Plantar Fasciitis (PFA)",
+      "url": "https://doi.org/10.1177/2473011425S00099",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2025",
+      "doi": "10.1177/2473011425S00099",
+      "abstract": "Research Type: Level 1 - Randomized controlled trial (RCT), Meta-analysis of randomized trials with homogeneous results Introduction/Purpose: Improved nonsurgical treatment options are needed for PFA, the most common cause of heel pain. CCH is approved in the United States for the treatment of adults with Dupuytren’s contracture with a palpable cord and adult men with Peyronie’s disease with a palpable plaque and curvature deformity of at least 30°. A phase 1, randomized, dose-escalating study of CCH for PFA was conducted. Methods: Adults with painful, chronic PFA (duration >8 weeks; unresponsive after 6-12 months of conservative therapy) were eligible. Planned treatments included placebo and 3 CCH doses by intrafascial injection. Primary endpoints were the incidence, severity, and duration of treatment-emergent adverse events (TEAEs) through Day 84. Secondary endpoints included patient-reported measures of foot-related pain and treatment satisfaction. Outcomes were analyzed by comparing mean changes from baseline between treatment groups. Results: Sixty-two patients received placebo (n=14) or CCH treatment (n=48). Although the study was not powered to assess treatment efficacy, an improvement in mean pain scores was observed among CCH treatment groups from baseline to Day 84 (range, -4.0 to -4.3) vs placebo ( 2.8). A positive treatment satisfaction response was seen in 56.3%-66.7% of CCH patients compared to 35.7% of placebo patients. No treatment-related deaths or withdrawals occurred. Most TEAEs were mild to moderate in severity, resolving within 21 days. TEAEs were reported with a higher frequency and severity for the highest CCH dose. Most frequent TEAEs were similar to those seen in the approved indications: injection site pain, swelling, and bruising. Conclusion: Results warranted further evaluation in a phase 2, double-blind, placebo-controlled study (NCT06169319).",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comparison of High-intensity Laser Therapy with Extracorporeal Shock Wave Therapy in the Treatment of Patients with Plantar Fasciitis: A Double-blind Randomized Clinical Trial",
+      "url": "https://ijms.sums.ac.ir/article_49734_92991c742ef88ba1523327cb8d5d51cd.pdf",
+      "publisher": "Iranian Journal of Medical Sciences",
+      "year": "2024",
+      "doi": "10.30476/ijms.2023.98042.2991",
+      "abstract": "Background: The most common cause of heel pain is plantar fasciitis (PF). Although conservative treatments relieve pain in more than 90% of patients, it may remain painful in some cases. This study aimed to compare High-intensity Laser Therapy (HILT) with Extracorporeal Shock Wave Therapy (ESWT) in patients with PF.Methods: In this double-blinded randomized clinical trial (conducted in Yazd, Iran, from May 2020 to March 2021), patients were classified into two groups, including the ESWT and HILT, using online randomization. Nine sessions, three times a week for 3 weeks, were the treatment period in both groups. Visual Analogue Score (VAS), Heel Tenderness Index (HTI), and the SF36 questionnaire were compared and analyzed statistically at the beginning and 9 months after treatment. Results: 38 patients (19 in each group) completed the study. Results showed that pain and patient satisfaction improved significantly 3 months after treatment. The VAS and HTI decreased 3 months after treatment in both groups, which was statistically significant (P<0.001). The SF36 score in both groups increased 3 months after treatment, and this increase was statistically significant (P<0.001). Although the two modalities were effective based on VAS, HTI, and SF36, a significant statistical difference was observed between them (P=0.03, P=0.006, P=0.002, respectively), and the HILT was more effective.Conclusion: ESWT and HILT decrease pain and increase patient satisfaction in PF. Besides, both methods are non-invasive and safe. However, there is a significant difference between them, and HILT is more effective.Trial registration number: IRCT20210913052465N1.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.96,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A systematic review of running-related musculoskeletal injuries in runners",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8500811/",
+      "publisher": "Journal of sport and health science",
+      "year": "2021",
+      "doi": "10.1016/j.jshs.2021.04.001",
+      "abstract": "Objective Running-related musculoskeletal injuries (RRMIs), especially stemming from overuse, frequently occur in runners. This study aimed to systematically review the literature and determine the incidence and prevalence proportion of RRMIs by anatomic location and specific pathology. Methods An electronic database search with no date beginning restrictions was performed in SPORTDiscus, PubMed, and MEDLINE up to June 2020. Prospective studies were used to find the anatomic location and the incidence proportion of each RRMI, whereas retrospective or cross-sectional studies were used to find the prevalence proportion of each RRMI. A separate analysis for ultramarathon runners was performed. Results The overall injury incidence and prevalence were 40.2% ± 18.8% and 44.6% ± 18.4% (mean ± SD), respectively. The knee, ankle, and lower leg accounted for the highest proportion of injury incidence, whereas the knee, lower leg, and foot/toes had the highest proportion of injury prevalence. Achilles tendinopathy (10.3%), medial tibial stress syndrome (9.4%), patellofemoral pain syndrome (6.3%), plantar fasciitis (6.1%), and ankle sprains (5.8%) accounted for the highest proportion of injury incidence, whereas patellofemoral pain syndrome (16.7%), medial tibial stress syndrome (9.1%), plantar fasciitis (7.9%), iliotibial band syndrome (7.9%), and Achilles tendinopathy (6.6%) had the highest proportion of injury prevalence. The ankle (34.5%), knee (28.1%), and lower leg (12.9%) were the 3 most frequently injured sites among ultramarathoners. Conclusion The injury incidence proportions by anatomic location between ultramarathoners and non-ultramarathoners were not significantly different (p = 0.798). The pathologies with the highest incidence proportion of injuries were anterior compartment tendinopathy (19.4%), patellofemoral pain syndrome (15.8%), and Achilles tendinopathy (13.7%). The interpretation of epidemiological data in RRMIs is limited due to several methodological issues encountered.",
+      "licence": "cc by-nc-nd",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.94,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Prediction of clinical response to corticosteroid or platelet-rich plasma injection in plantar fasciitis with MRI: A prospective, randomized, double-blinded study",
+      "url": "https://hal.umontpellier.fr/hal-03636986v1",
+      "publisher": "Diagnostic and Interventional Imaging",
+      "year": "2022",
+      "doi": "10.1016/j.diii.2021.10.008",
+      "abstract": "Purpose: The purpose of this study was to identify association between magnetic resonance imaging (MRI) features and clinical data at baseline and six months following platelet-rich plasma (PRP) or corticosteroid (CS; cortivazol) injection in patients with plantar fasciitis, and to identify initial MRI criteria associated with a favorable clinical response to treatment.Material and methods: The study was registered on ClinicalTrials.gov (NCT03857334). MRI examinations of 36 patients with plantar fasciitis lasting more than 3 months who were randomly assigned to receive ultrasound-guided PRP (PRP group, 20 patients) or CS (CS group, 18 patients) injection were quantitatively and qualitatively analyzed with respect to plantar fascia thickness, plantar fascia hyperintensity on T2-weighted STIR (HSTIR) images, calcaneal bone marrow and surrounding soft tissues. Clinical evaluation including visual analytic scale (VAS) assessment and MRI examinations were obtained before and 6 months after treatment. Good clinical response was defined as pain VAS decrease > 50% at 6 months. ROC curves with AUC measurements were used to determine cut-off points.Results: In the whole study population, an association was found between MRI features (deep soft tissue and calcaneal bone marrow HSTIR) and pain VAS scores for the first steps of the day (P = 0.028 and P = 0.007, respectively). No significant radioclinical associations on post-treatment MRI examinations were found in either group. Initial coronal thickness of plantar fascia was associated with a good clinical response in the CS group (P 7 mm) is predictive of good clinical response six months after CS injection, whereas PRP injection shows effectiveness regardless of fascia thickness.",
+      "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.88,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "High Load Strength Training For Pain and Foot Function in a Patient with Plantar Fasciitis: A Case Report",
+      "url": "https://zenodo.org/records/8275204",
+      "publisher": "Zenodo",
+      "year": "2018",
+      "doi": "10.5281/zenodo.8275204",
+      "abstract": "Background: Plantar fasciitis is one of the most common causes of heel pain [1-3]. Stretching exercise is a popular treatment method to alleviate symptoms. However, it may not be appropriate for patients who demonstrate no limitation of metatarsal phalangeal joint (MTPJ) range of motion (ROM) [4]. High-load strength training has shown better treating effect than plantar specific stretching but without consideration of differences between patients with or without ROM limitation. This case report was to investigate the effect of high-load strength exercise in treating a patient who presented without first MTPJ ROM limitation, in terms of pain reduction and foot function improvement. Case description: A 26-year-old female diagnosed with right plantar fasciitis for less than two months. The patient presented with tenderness to palpation at the medial tubercle of the right calcaneus, decreased active ROM on bilateral ankle dorsiflexion and decreased muscle strength of ankle dorsiflexors, plantarflexors and extensor halluces longus. The 1 st MTPJ extension was at the higher end of the normal limit. Outcomes: Therapy was administered twice a week for 5 weeks. The treatment plan included the conventional treatment and the high-load strength training. Heel pain decreased from 6/10 to 0, and foot function index decreased from 6.1% to 1.7%. Ankle dorsiflexors and plantarflexors strength increased from 4 to +4, and the extensor halluces longus strength increased from -4 to 4. Discussion: This case supported the point of view that for patients with plantar fasciitis, who demonstrated weak plantarflexors but without 1st MTPJ ROM limitation, treatment should focus more on strengthening exercise instead of stretching exercise.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.62,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Immediate Effect of Trigger Point Pressure Release Versus Instrument Assisted Soft Tissue Mobilization on Ankle Mobility and Pain in Runners with Plantar Fasciitis",
+      "url": "https://hal.science/hal-05092627v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2025",
+      "doi": "10.9734/jammr/2025/v37i55842",
+      "abstract": "Background and Objectives: Instrument assisted soft tissue mobilization and Myofascial trigger point pressure release are found to be effective in treatment of plantar fasciitis. However which technique is more effective in improving ankle dorsiflexion range of motion and pain is unknown. The purpose of this study was to compare both the techniques and find out which one works better and give immediate effect on Pain and restricted ROM in runners with plantar fasciitis. Methods: 30 runners having plantar fasciitis were randomly allocated in two groups (A & B). Group A received Myofascial trigger point pressure release and Group B received Instrument assisted soft tissue mobilization Technique. The outcome measure such as Range of motion of ankle dorsiflexion and NPRS (Numerical pain rating scale) for pain was taken pre and post intervention in both groups. Results: The results of the study suggested that The ankle dorsiflexion ROM was significantly increased but reduction of pain (NPRS) was not significant in group-A. The ankle dorsiflexion ROM was significantly increased and pain (NPRS) was significantly reduced in group-B. But, while compared the post-test outcomes in between the groups the reduction of pain and ankle dorsiflexion ROM in group-B was better than group-A. Interpretation and Conclusion: The present study concludes that both treatment protocols were effective in improving ROM whereas IASTM was found more effective in improving pain as well as ROM as compared to Myofascial trigger point pressure release.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Controlled Clinical Study on Efficacy of Siddha Varmam Therapy and Energy Sessions in the Management of Plantar Fasciitis",
+      "url": "https://hal.science/hal-05064215v1",
+      "publisher": "HAL open archive",
+      "year": "2025",
+      "doi": "10.9734/bpi/msraa/v3/5319",
+      "abstract": "Background: Plantar Fascitis (PF) is one of the most common causes of heel pain, clinically presenting with intense discomfort, particularly during the initial steps taken in the morning. In the Siddha medical system, PF correlates symptomatically with Kuthikaal Vatham. It is frequently observed in individuals with obesity, those engaged in prolonged standing occupations, or following trauma to the heel region. Chronic cases often persist for several months and significantly impair daily activities. Aim: This study examines the effects of Siddha therapy with energy sessions on the PF patients in comparison to patients who are on NSAID’s with respect to pain reduction, mobility and functionality. Methods: A randomised comparative clinical study was conducted at the outpatient department of Chakrasiddh. A total of 40 patients aged between 18 and 50 years with clinically diagnosed Plantar Fasciitis were enrolled and randomly allocated into two groups (n=20 each). Group A (Experimental Group) received Siddha Varmam therapy integrated with Marma Chikitsa (energy healing sessions), and Group B (Control Group) was subjected to standard conservative treatment comprising non-steroidal anti-inflammatory drugs (NSAIDs) for 18 days. Outcome measures included the Visual Analogue Scale (VAS) for pain intensity and the Functional Foot Index (FFI) for mobility and functional assessment. Both groups were evaluated pre- and post-intervention. Statistical analysis was performed using paired and independent t-tests, with a significance level set at p<0.05. Results: Both groups demonstrated symptom relief post-intervention; however, Group A exhibited significantly greater improvement in pain reduction, mobility, and functionality. No recurrence of pain was reported in the experimental group at the follow-up stage. Comparative analysis revealed highly significant differences in VAS (t=11.35) and FFI scores (t=21.85) in Group A compared to Group B (p<0.05). Conclusion: Siddha Varmam therapy combined with energy healing significantly improved clinical outcomes in patients with Plantar Fasciitis. The study establishes this integrative approach as a safe, cost-effective, and non-invasive alternative to conventional conservative management. The results support the potential of Siddha-based interventions as holistic therapies in musculoskeletal disorders such as Plantar Fasciitis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Comparative Study of Stretching of Foot & Hip Muscles along with Myofascial Release (MFR) V/S Strengthening of Foot & Hip Muscles along with MFR for the Treatment of Plantar Fasciitis",
+      "url": "https://hal.science/hal-05141359v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Background: Plantar fasciitis causes heel pain in active as well as sedentary adults of all ages. The condition is more likely to occur in persons who are obese or in those who are on their feet most of the day. The muscles that help to invert and evert the ankle are much weaker in a person who is experiencing the symptoms of plantar fasciitis. The lack of adequate hip strength can lead to excess motion in the lower extremity that can place too much stress on the foot and cause plantar fasciitis. Objective: The aim of this study is to compare effectiveness of Strengthening of foot intrinsic and extrinsic muscles with hip abductors & lateral rotators along with Myofascial release vs Stretching of foot intrinsic and extrinsic muscles with hip abductors & lateral rotators along with Myofascial release. Methods and Materials: Randomised comparative case-controlled study. A randomized controlled trial was performed on 80 subjects (both gender) age group 25-55 years with diagnosis of planter fasciitis were divided into 2 equal groups. Group A subjects received MFR with Stretching. MFR technique was applied on sole of the foot by knuckles and by using tennis ball, 5 times/week for 2 mins. In stretching, static stretching was given by maintaining the position for 30 secs and rest of 10 sec is given, for 5 repetitions. This protocol was performed for 8 weeks. In group B, subjects received MFR techniques with strengthening exercise. MFR was given by knuckles for 1 min followed by MFR by using tennis ball for another 1 min. Strengthening was done for both intrinsic and extrinsic muscles, Hip (Abductors & Lateral Rotators) by using TheraBand and weight-cuffs. TheraBand of different colours were used ranging from medium to high resistance. Weight-cuffs of 1kg and above is used according to patients’ condition for strengthening of abductors & lateral rotators of hip. Protocol was followed 5 times/week for 8 weeks. Data was collected on Day 1st (pre-test), 4th week (mid) and at the end of 8 weeks (post-test), for outcome measures of pain on VAS Scale and Foot Function on FFI Scale. Comparison between 2 groups was done on paired t-test. Statistical Analysis Used: Comparison between the two groups was done on Paired T test. SPSS statistical software was used for data analysis. Results: Results suggested that both form of exercises are effective in relief of pain & improvement in function but patients in Group B, which were given strength training with myofascial release were more improved in achieving pain relief and foot function as compare to group-A. Conclusions: After 8 week of training it was found that Strengthening of foot intrinsic and extrinsic muscles with hip abductors & lateral rotators along with Myofascial release has good results in patients with plantar fasciitis as compared to Stretching of foot intrinsic and extrinsic muscles with hip abductors & lateral rotators along with Myofascial release.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effects of Application of Night Splint in the Management of Plantar Fasciitis",
+      "url": "https://hal.science/hal-05206690v1",
+      "publisher": "Asian Journal of Medicine and Health",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Background: Plantar fasciitis is one of the most common causes of heel pain. The condition usually comes on gradually without any injury. Clinically there is pain and tenderness in the sole of the foot, mostly under the heel, with standing or walking. The diagnosis of patient with planter fasciitis is essentially clinical. Treatment options for planter fasciitis include rest, stretching, strengthening exercise, shoe modification, arch supports, orthotics, night splints, anti- inflammatory agents, and surgery. Although injections and Non-steroidal anti-inflammatory drugs (NSAIDs) bring relief, their effects are often only temporary. Stretching of the calf and plantar fascia may provide some benefit. In chronic planter fasciitis, surgical treatment is only advocated where adequate conservative management fails. Objective: The aim of this study is to evaluate the effects of the application of night splint in the management of plantar fasciitis. Materials and Methods: This randomised clinical trial included 50 (fifty) patients with planter fasciitis who were seen in the Physical Medicine and Rehabilitation department of the National Institute of Traumatology and Orthopedic Rehabilitation (NITOR) in Dhaka. The patients were divided randomly into two groups, Group A and Group B. Patients in Group A were treated with NSAID, ADL and Night splint, whereas Group B patients were treated with NSAID and ADL. The patients were evaluated clinically, and data was collected from both groups in a pre-designed data collection sheet for Pain score, Tenderness index, and Visual analogue scale in every 2 weeks interval from the first visit for up to 6 weeks. All the data were analyzed by SPSS version 16.1. Results: The present study showed pain and tenderness were significantly improved in Group A, who were treated with Night Splint, NSAID & ADL instructions than in Group B who were treated with NSAID & ADL instructions after 6 weeks( P<0.05). Conclusion: Night splint is an easy, non-surgical and cost-effective one which can be applied with other modalities. Night Splint, along with NSAIDs and ADL instructions, is more effective in the reduction of pain and other symptoms in a patient with planter fasciitis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Efficacy of Percussive Massage versus Calf Stretching on Pain, Range of Motion, Muscle Strength and Functional Outcomes in Patients with Plantar Fasciitis – A Research Protocol",
+      "url": "https://hal.science/hal-05282660v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Introduction: Plantar fasciitis occurs with the deterioration of the plantar fascia and related surrounding tissues around the heel's medial calcaneal tuberosity. This illness usually causes tightness in the calf muscles. These tight muscles are thought to interfere with the normal biomechanics of ambulation. The invention of percussion massage guns intends to improve the usefulness and efficiency of self-myofascial release, following in the footsteps of vibrating foam rollers. Since there is limited research on muscle gun devices, despite their growing popularity, this study will look into their effects on range of motion, essential physiological or biomechanical factors that contribute to the disease, and their capacity to reduce muscular tightness. Methodology: Subjects with Plantar Fasciitis (n = 48) will be recruited for a single-blind RCT. Participants will be assigned randomly to the experimental or control groups with a one-to-one allocation ratio. Participants in Group A will receive treatment via Theragun, Hot/cold immersion therapy, and a home exercise regimen during a one-week period immediately following baseline evaluations and randomization. Participants in GROUP B would only be subjected to Calf Stretching, a Contrast Bath, and a home exercise regimen. For a week, the calf muscles were treated for 5 minutes every day (7 sessions in all). As 1 week is completed, the efficacy of the approach for both groups is assessed using ankle flexibility tests, VAS, universal goniometers, Active Manual muscle testing, and the (PFPS) as outcome measures. Discussion: The purpose of this study is to compare the benefits of the Hypervolt device vs calf stretching in individuals with plantar fasciitis. The outcomes of the study, which may include a newly designed rehabilitation technique, may assist patients experiencing Plantar +-Fasciitis. Conclusion: Conclusion will be drawn based on the effect of both the techniques on Pain, Range of Motion, Muscle Strength, and Functional Outcomes in Patients with Plantar Fasciitis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Extracorporeal shock wave therapy: an update",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7608508/",
+      "publisher": "EFORT open reviews",
+      "year": "2020",
+      "doi": "10.1302/2058-5241.5.190067",
+      "abstract": "Extracorporeal shock wave therapy (ESWT) is a safe therapy and there are only a few side effects known (such as pain during ESWT and minor haematomata), but no severe complications are to be expected if it is performed as recommended.Contraindications are severe coagulopathy for high-energy ESWT, and ESWT with focus on the foetus or embryo and focus on severe infection.The effect mechanism of ESWT is still a component of diverse studies, but as far as we can summarize today, it is a similar process to a cascade triggered by mechano-transduction: mechanical energy causes changes in the cellular skeleton, which provokes a reaction of the cell core (for example release of mRNA) to influence diverse cell structures such as mitochondria, endoplasmic reticulum, intracellular vesicles, etc., so the enzymatic response leads to the improvement of the healing process.The usage of ESWT should be taught, to improve the outcome. Courses should be organized by national societies, since the legal framework conditions are different from one country to another.In this update the musculoskeletal indications are addressed (mainly bone and tendons): pseudoarthrosis, delayed fracture healing, bone marrow oedema and osteonecrosis in its early stages, insertional tendinopathies such as plantar fasciitis and Achilles tendon fasciitis, calcifying tendonitis of the rotator cuff, tennis elbow, and wound healing problems. Cite this article: EFORT Open Rev 2020;5:584-592. DOI: 10.1302/2058-5241.5.190067.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Follow-up of clinical and sonographic features after extracorporeal shock wave therapy in painful plantar fibromatosis",
+      "url": "https://doi.org/10.1371/journal.pone.0237447",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0237447",
+      "abstract": "Background: Extracorporeal shock wave therapy (ESWT) has been used as a safe alternative treatment for refractory musculoskeletal diseases, such as plantar fasciitis, Achilles tendinopathy and gluteal tendinopathy, and various forms of fibromatosis including palmar or penile fibromatosis. However, there is limited published data for clinical and sonographic features of plantar fibromatosis after ESWT. The purpose of this study was to evaluate the long-term clinical outcome of ESWT in ultrasonography-confirmed plantar fibromatosis and ultrasonographic changes of plantar fibroma after ESWT. Methods: Medical charts of 26 patients (30 feet) with plantar fibromatosis confirmed by ultrasonography were reviewed. Finally, a total of 10 feet who underwent ESWT for “Poor” or “Fair” grade of Roles-Maudsley Score (RMS) and symptoms persisted for >6 months were included in this study. Short-term follow-up was conducted one week after ESWT and long-term follow-up time averaged 34.0 months. The Numerical Rating Scale (NRS) and RMS were collected for the evaluation of clinical features. Follow-up ultrasonography was conducted at long-term follow-up and changes of plantar fibroma was assessed. A greater than 50% reduction in the NRS and achievement of a “good” or “excellent” grade in the RMS were regarded as treatment success. Additionally, medical charts of 144 patients (168 feet) with plantar fasciitis confirmed by ultrasonography were reviewed and subsequently, 42 feet who underwent ESWT with the same protocol were included for the comparison of clinical features. Results: In plantar fibromatosis, baseline NRS (6.2 ± 1.3) and RMS (3.5 ± 0.5) were significantly improved at short-term follow-up (NRS, 1.8 ± 1.0; RMS, 2.0 ± 0.8, P < .001, respectively) and long-term follow-up (NRS, 0.6 ± 1.1; RMS, 1.4 ± 0.8, P < .001, respectively). Treatment success was recorded in seven feet (70.0%) at short-term follow-up and 8 feet (80%) at long-term follow-up, which is comparable to that of the plantar fasciitis group (28 feet, 66.7%; 35 feet, 83.3%, respectively). In long-term follow-up ultrasonography, mean fibroma thickness was reduced from 4.4±1.0 to 2.6±0.8 mm (P = .003); however, length and width were not significantly changed. There were no serious adverse effects. Conclusion: While these are preliminary findings, and must be confirmed in a randomized placebo control study, ESWT can have a beneficial long-term effect on pain relief and functional outcomes in painful plantar fibromatosis. However, ESWT is unlikely to affect the ultrasonographic morphology of plantar fibroma, with the exception of reducing the thickness. Level of evidence: Level III, retrospective cohort study.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Pilot study on the impact of thermoformed foot orthotics on pain in field hockey players with plantar fasciitis Étude pilote de l'impact d'orthèses plantaires thermoformées sur la douleur chez les hockeyeurs sur gazon souffrant d'aponévrosite plantaire",
+      "url": "https://hal.science/hal-02927403v1",
+      "publisher": "Revue du Podologue",
+      "year": "2020",
+      "doi": "10.1016/j.revpod.2020.06.005",
+      "abstract": "Plantar fasciitis is the most common diagnosis for pain in the underside of the heel in athletes. While many studies have focused on running, none has focused on field hockey. The foot functional index is used to assess pain at the time of foot orthotics delivery and at one month. After one month of treatment, the heel of all players was significantly less painful. Like many sports that place intensive demands on the foot, the use of plantar orthoses can be a relevant therapeutic solution that complements other treatments such as foot muscle strengthening.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Prospective Aspects of Regeneration in Orthopaedics: A Review",
+      "url": "https://hal.science/hal-05327853v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2020",
+      "doi": "",
+      "abstract": "Musculoskeletal diseases affect millions of people worldwide and are one of the leading causes of long-term pain and physical disability. Traditional treatment methods for promoting healing and repair has always been consider gold standard, But the emergence of new therapeutic approaches aims to regenerate or repair musculoskeletal tissue. The recognition of a regenerative therapy in orthopaedics requires the demonstration of new Bone, Cartilage, ligament, tendons, healing of soft tissues injuries and Overuse conditions like plantar fasciitis or tennis elbow . Regenerative therapy boosts the body’s ability to use its repair systems to heal diseased or damaged cells after a severe injury, or other degenerative condition. A diversity of regenerative strategies have been evaluated, including distraction osteogenesis, bone grafts and bone substitute materials, bone matrix proteins, growth/differentiation factors, combined therapies and, more recently, tissue‐engineering approaches. This review aims to evaluate the current status of the therapies available and to discuss the challenges that must be faced in order to achieve predictable orthopaedic regeneration in clinical practice.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Long-Term Prognosis of Plantar Fasciitis: A 5- to 15-Year Follow-up Study of 174 Patients With Ultrasound Examination",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5844527/",
+      "publisher": "Orthopaedic journal of sports medicine",
+      "year": "2018",
+      "doi": "10.1177/2325967118757983",
+      "abstract": "Background Plantar fasciitis (PF) affects 7% to 10% of the population. The long-term prognosis is unknown. Purpose Our study had 4 aims: (1) to assess the long-term prognosis of PF, (2) to evaluate whether baseline characteristics (sex, body mass index, age, smoking status, physical work, exercise-induced symptoms, bilateral heel pain, fascia thickness, and presence of a heel spur) could predict long-term outcomes, (3) to assess the long-term ultrasound (US) development in the fascia, and (4) to assess whether US-guided corticosteroid injections induce atrophy of the heel fat pad. Study design Cohort study; Level of evidence, 3. Methods From 2001 to 2011 (baseline), 269 patients were diagnosed with PF based on symptoms and US. At follow-up (2016), all patients were invited to an interview regarding their medical history and for clinical and US re-examinations. Kaplan-Meier survival estimates were used to estimate the long-term prognosis, and a multiple Cox regression analysis was used for the prediction model. Results In all, 174 patients (91 women, 83 men) participated in the study. All were interviewed, and 137 underwent a US examination. The mean follow-up was 9.7 years from the onset of symptoms and 8.9 years from baseline. At follow-up, 54% of patients were asymptomatic (mean duration of symptoms, 725 days), and 46% still had symptoms. The risk of having PF was 80.5% after 1 year, 50.0% after 5 years, 45.6% after 10 years, and 44.0% after 15 years from the onset of symptoms. The risk was significantly greater for women ( P P P P = .49) and presence of a heel spur ( P = .88) at baseline had no impact on prognosis. At follow-up, fascia thickness and echogenicity had normalized in only 24% of the asymptomatic group. The mean fat pad thickness was 9.0 mm in patients who had received a US-guided corticosteroid injection and 9.4 mm in those who had not been given an injection ( P = .66). Conclusion The risk of having PF in this study was 45.6% at a mean 10 years after the onset of symptoms. The asymptomatic patients had PF for a mean 725 days. The prognosis was significantly worse for women and patients with bilateral pain. Fascia thickness decreased over time regardless of symptoms and had no impact on prognosis, and neither did the presence of a heel spur. Only 24% of asymptomatic patients had a normal fascia on US at long-term follow-up. A US-guided corticosteroid injection did not cause atrophy of the heel fat pad. Our observational study did not allow us to determine the efficacy of different treatment strategies.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effectiveness of Foot Biomechanical Orthoses to Relieve Patients Suffering from Plantar Fasciitis : Is the Reduction of Pain Related to Change in Neural Strategy?",
+      "url": "https://hal.science/hal-03554710v1",
+      "publisher": "BioMed Research International",
+      "year": "2018",
+      "doi": "10.1155/2018/3594150",
+      "abstract": "Plantar fasciitis is a cause of chronic pain under the heel and bottom of the foot. One of the treatments to reduce pain consists of using plantar orthoses to address specific imbalances during foot placement or gait. The aim of the present study was to determine if reduction of pain with a treatment based on plantar orthoses is related to changes in reflexes and muscle activity of the muscles of the lower limbs. Ten patients (51.0±3.5 years, 76.0±2.38 kg, 171.9±1.8 cm, 3 women and 7 men) with plantar fasciitis for less than 1 year were followed up during nine weeks. Soleus M, H, and V waves recorded at rest and during voluntary contraction and Root Mean Square-Electromyogram from four leg muscles recorded during walking and static position were analyzed in patients before and 3, 6, and 9 weeks after wearing orthoses. Pain level and gait and posture parameters were also analyzed. Results were compared to five healthy participants exhibiting no pain (30.6±2.1 years, 60.0±3.5 kg, 167.0±3.4 cm, 3 women and 2 men). Results indicated that pain was significantly reduced after 3 weeks. H m a x / M m a x and H s u p / M s u p ratios were significantly higher and M H m a x / M m a x and M H s u p / M s u p were significantly lower in healthy participants compared to patients with plantar fasciitis . No difference in the V/ M s u p ratio was found between groups. Furthermore, all other measured locomotor, stabilometric, and electromyographic parameters remained unchanged throughout the entire protocol. The reduction of pain is not related to change in neural activity suggesting that, after 9 weeks of wearing plantar orthoses, patients are not yet cured and return to physical activity should be delayed.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "RehabMove 2018: EFFECTS OF ROCKER SHOES ON PLANTAR FASCIA STRAIN IN PATIENTS WITH PLANTAR FASCIITIS",
+      "url": "https://zenodo.org/records/1482823",
+      "publisher": "Zenodo",
+      "year": "2018",
+      "doi": "10.5281/zenodo.1482823",
+      "abstract": "Plantar fasciitis is one of the most frequently occurring overuse injury of the foot and characterized by pain under the foot which aggravates during standing, walking and running. A frequently used treatment option for plantar fasciitis is the rocker shoe. The rocker shoe has a proximal apex position and a stiff insole. The rocker shoe is assumed to unload the plantar fascia during gait because it minimizes peak achilles tendon forces and dorsiflexion angles of the toes. However whether a proximal apex position and a stiff insole minimize the strain on the plantar fascia and how these two parameter interact has not been investigated yet. The current study aimed to establish the biomechanical effect of a proximal apex position and a stiff insole on the strain of the plantar fascia during gait? A musculoskeletal model similar to a previously published study and data from a cadaver study was used to estimate the strain of the plantar fascia in ten healthy young adults and nine patients diagnosed with plantar fasciitis. The participants walked for 60 seconds on their comfortable speed on a treadmill. Four different shoe conditions were randomly applied by varying sole stiffnes and the apex position of the shoe. Preliminary analysis of the acquired motion and force data indicates that a proximal apex position in combination with a stiff insole alone is insufficient in minimizing plantar fascia strain during gait. This will be the first study to show the biomechanical effects of a rocker shoe in a group of patients with plantar fasciitis. Our results have direct implications for the prescription of rocker shoes in the treatment of patients with plantar fasciitis.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A prospective study on time to recovery in 254 injured novice runners",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055729/",
+      "publisher": "PloS one",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0099877",
+      "abstract": "Objectives Describe the diagnoses and the time to recovery of running-related injuries in novice runners. Design Prospective cohort study on injured runners. Method This paper is a secondary data analysis of a 933-person cohort study (DANO-RUN) aimed at characterizing risk factors for injury in novice runners. Among those sustaining running-related injuries, the types of injuries and time to recovery is described in the present paper. All injured runners were diagnosed after a thorough clinical examination and then followed prospectively during their recovery. If they recovered completely from injury, time to recovery of each injury was registered. Results A total of 254 runners were injured. The proportion of runners diagnosed with medial tibial stress syndrome was 15%, 10% for patellofemoral pain, 9% for medial meniscal injury, 7% for Achilles tendinopathy and 5% for plantar fasciitis. Among the 220 runners (87%) recovering from their injury, the median time to recovery was 71 days (minimum = 9 days, maximum = 617 days). Conclusions Medial tibial stress syndrome was the most common injury followed by patellofemoral pain, medial meniscal injury and Achilles tendinopathy. Half of the injured runners were unable to run 2×500 meters without pain after 10 weeks. Almost 5% of the injured runners received surgical treatment.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.16,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Talalgia: plantar fasciitis",
+      "url": "https://doi.org/10.1016/j.rboe.2014.03.012",
+      "publisher": "Georg Thieme Verlag KG",
+      "year": "2014",
+      "doi": "10.1016/j.rboe.2014.03.012",
+      "abstract": "Plantar fasciitis is a very common painful syndrome, but its exact etiology still remains obscure. The diagnosis is essentially clinical, based on history-taking and physical examination. Complementary laboratory tests and imaging examinations may be useful for differential diagnoses. The treatment is essentially conservative, with a high success rate (around 90%). The essence of the conservative treatment is the home-based program of exercises to stretch the plantar fascia. Indications for surgical treatment are only made when the symptoms persist without significant improvement, after at least six months of conservative treatment supervised directly by the doctor.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Plantar fasciitis",
+      "url": "https://doi.org/10.1308/003588412x13171221592456",
+      "publisher": "Royal College of Surgeons of England",
+      "year": "2012",
+      "doi": "10.1308/003588412x13171221592456",
+      "abstract": "INTRODUCTION In this article we look at the aetiology of plantar fasciitis, the other common differentials for heel pain and the evidence available to support each of the major management options. We also review the literature and discuss the condition. METHODS A literature search was performed using PubMed and MEDLINE®. The following keywords were used, singly or in combination: ‘plantar fasciitis’, ‘plantar heel pain’, ‘heel spur’. To maximise the search, backward chaining of reference lists from retrieved papers was also undertaken. FINDINGS Plantar fasciitis is a common and often disabling condition. Because the natural history of plantar fasciitis is not understood, it is difficult to distinguish between those patients who recover spontaneously and those who respond to formal treatment. Surgical release of the plantar fascia is effective in the small proportion of patients who do not respond to conservative measures. New techniques such as endoscopic plantar release and extracorporeal shockwave therapy may have a role but the limited availability of equipment and skills means that most patients will continue to be treated by more traditional techniques.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Platelet rich plasma injection grafts for musculoskeletal injuries: a review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2682411/",
+      "publisher": "Current reviews in musculoskeletal medicine",
+      "year": "2008",
+      "doi": "10.1007/s12178-008-9032-5",
+      "abstract": "In Europe and the United States, there is an increasing prevalence of the use of autologous blood products to facilitate healing in a variety of applications. Recently, we have learned more about specific growth factors, which play a crucial role in the healing process. With that knowledge there is abundant enthusiasm in the application of concentrated platelets, which release a supra-maximal quantity of these growth factors to stimulate recovery in non-healing injuries. For 20 years, the application of autologous PRP has been safely used and documented in many fields including; orthopedics, sports medicine, dentistry, ENT, neurosurgery, ophthalmology, urology, wound healing, cosmetic, cardiothoracic, and maxillofacial surgery. This article introduces the reader to PRP therapy and reviews the current literature on this emerging treatment modality. In summary, PRP provides a promising alternative to surgery by promoting safe and natural healing. However, there are few controlled trials, and mostly anecdotal or case reports. Additionally the sample sizes are frequently small, limiting the generalization of the findings. Recently, there is emerging literature on the beneficial effects of PRP for chronic non-healing tendon injuries including lateral epicondylitis and plantar fasciitis and cartilage degeneration (Mishra and Pavelko, The American Journal of Sports Medicine 10(10):1-5, 2006; Barrett and Erredge, Podiatry Today 17:37-42, 2004). However, as clinical use increases, more controlled studies are needed to further understand this treatment.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Ultrasonography Versus Magnetic Resonance Imaging in the Assessment of Chronic Ankle Pain",
+      "url": "https://aimj.journals.ekb.eg/article_506790_6d1acfabb2f1d5ffbb9ed75cc4a24304.pdf",
+      "publisher": "Al-Azhar International Medical Journal",
+      "year": "2026",
+      "doi": "10.21608/aimj.2026.458401.3154",
+      "abstract": "Background: Chronic ankle pain may result from diverse ligamentous, tendinous, synovial, and osseous abnormalities, making accurate diagnosis essential. MRI is the gold standard for comprehensive assessment, whereas ultrasonography (US) is increasingly utilized as a rapid, dynamic, and cost-effective method, particularly for evaluating superficial soft tissue. Aim of the Study: To assess the diagnostic value of ultrasonography in identifying causes of chronic ankle pain and to compare its performance with MRI as the reference standard. Patients and Methods: A prospective study of 40 patients with ankle pain persisting for more than six weeks was conducted. All participants underwent musculoskeletal US followed by MRI. Findings were compared for detecting ligament injuries, tendon disorders, plantar fascia abnormalities, bursitis, and osteochondral or intra-articular lesions. Diagnostic accuracy and agreement between both modalities were analyzed. Results: MRI revealed multiple abnormalities, including ligament injuries; Achilles, peroneal, and posterior tibial tendinopathy or tenosynovitis; plantar fasciitis; bursitis; and Haglund-related changes. The US demonstrated high sensitivity for anterior talofibular ligament injuries, Achilles and peroneal tendon disorders, and plantar fascia pathology. However, its ability to detect intra-articular and osteochondral lesions, as well as bone marrow changes, was limited compared with MRI. Substantial agreement between the US and MRI was noted, varying by lesion type. Conclusion: Ultrasonography is a valuable first-line tool for evaluating soft-tissue causes of chronic ankle pain due to its accessibility and dynamic assessment capability. MRI remains indispensable for intra-articular and osseous evaluation. Combined use enhances overall diagnostic accuracy.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Plantar Fascia Rupture Following Soccer Injury: A Case of Conservative Treatment and Recovery",
+      "url": "https://revistas.udelar.edu.uy/OJS/index.php/anfamed/article/view/2539",
+      "publisher": "Anales de la Facultad de Medicina",
+      "year": "2025",
+      "doi": "10.25184/anfamed2025v12n1a9",
+      "abstract": "The plantar fascia is divided into three bands, each crucial for foot support. Differentiating between plantar fasciitis and plantar fascia rupture is essential due to their distinct treatment approaches. MRI is the best test to diagnose the disease. We present a case of 42-year-old man experienced severe pain in his left foot one day after hearing a “pop” while playing soccer.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Foot orthoses for the prevention of lower limb overuse injuries in naval recruits: study protocol for a randomised controlled trial",
+      "url": "https://doi.org/10.1186/s13047-015-0109-2",
+      "publisher": "Journal of Foot and Ankle Research",
+      "year": "2015",
+      "doi": "10.1186/s13047-015-0109-2",
+      "abstract": "Abstract Background Foot orthoses are frequently used for the prevention of lower limb overuse injuries but evidence for their effectiveness is limited. The primary aim of this study is to determine if prefabricated foot orthoses reduce the incidence of lower limb overuse injuries in naval recruits undertaking 11 weeks of basic training. Methods This study is a participant and assessor blinded, parallel‐group, randomised controlled trial. The trial will recruit participants undertaking 11 weeks of basic training at the Royal Australian Navy Recruit School, Cerberus, Victoria, Australia. Participants will be randomised to a control group (flat insole) or an intervention group (prefabricated foot orthosis). Over the 11 weeks of basic training, participants will document the presence and location of pain in weekly self‐report diaries. The end‐point for each participant will be the completion of 11 weeks of basic training. The primary outcome measure will be the combined incidence of four lower limb injuries (medial tibial stress syndrome, patellofemoral pain, Achilles tendinopathy, and plantar fasciitis/plantar heel pain) which are common among defence members. Secondary outcome measures include: (i) overall incidence of lower limb pain, (ii) severity of lower limb pain, (iii) time to injury, (iv) time to drop‐out due to injury, (v) adverse events, (vi) number of lost training days, (vii) shoe comfort, and (viii) general health status. Data will be analysed using the intention‐to‐treat principle. Discussion This randomised controlled trial will evaluate the effectiveness of prefabricated foot orthoses for the prevention of common lower limb overuse injuries in naval recruits. Trial registration Australian New Zealand Clinical Trials Registry: ACTRN12615000024549.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "DESCRIPTIVE STUDY OF INJURIES IN MIDDLE SCHOOL CROSS COUNTRY RUNNERS",
+      "url": "https://doi.org/10.1177/2325967120S00242",
+      "publisher": "Orthopaedic Journal of Sports Medicine",
+      "year": "2020",
+      "doi": "10.1177/2325967120S00242",
+      "abstract": "Background: High school athletes participating in cross-country sports are at increased risk of overuse injuries. Little is known in younger athletes including those participating in running during middle school regarding prevalence of injuries or related risk factors. The objective of this study was to assess the frequency of sports-related injuries in middle school cross-country runners. Methods: This was a retrospective online survey study of middle school cross-country runners. Middle school cross-country coaches from middle school teams in the Boston area sent letters of invitation via email to the parents of their athletes to participate in an optional, anonymous online survey administered in REDCap. Participants received a $5 gift card for their time. The online survey included demographic information, weight, height, training variables, daily dietary patterns, and injury history. We conducted univariate and bivariate analyses while stratifying for sex. Results: A total of 101 subjects completed the survey, 47% (n=48) were female. Mean age was 12.5 years [SD 0.94], and 24% (n=24) were in sixth grade, 39% (n=39) in seventh grade, and 38 % (n=38) in 8 th grade. The mean BMI for girls was 17.9 kg/m2 and for boys 18.24 kg/m2. The self-reported race/ethnicity was white in 72% (n=72), Asian in 22% (n=22), Latino in 5% (n=5), and black in 1% (n=1). Mean weekly mileage during the cross-country season was 15.2 miles [SD 7.6]. Of female subjects, 17% (n=8) reported that they were diagnosed with a bone stress injury (BSI) due to running, compared to 2% (n=1) of male subjects, p=0.009. The injured bones in females included the tibia (n=1), fibula (n=1), navicular (n=1) and metatarsal bones (n=6). The injured bone in the male was a sacral fracture. Compared to those without injury, runners with BSIs did not have observed differences in calcium or vitamin D intake; no differences were observed related to ball sport or other forms of strengthening exercises. A total of 63 non-fracture injuries occurred from running, with females (18%) more likely to have sprained ankles than males (6%, p=0.47). Conclusions/Significance: Running-related injuries are relatively common in middle school cross-country runners. In middle school, female runners are more likely to sustain running related BSIs than male runners. Efforts to prevent overuse stress injuries in middle school runners should be considered. Table. Demographic and injury history of middle school runners N=101 All (n=101) Girls (n=48) Boys (n=53) P value Age (years) 12.45 [0.94] 12.41 [0.81] 12.49 [1.05] 0.66 Grade 6 th 7 th 8th 24% (24) 39% (39) 38% (38) 22% (11) 41% (20) 37% (18) 25% (13) 37% (19) 39% (20) 0.73 Weight (kg) 44.3 [8.08] 42.0 [7.022] 46.4 [8.19] 0.006 Height (cm) 155 [18.4] 150.9 [23.3] 160 [11.81] 0.021 BMI (kg/m2) 18.09 [2.99] 17.94 [3.30] 18.24 [2.69] 0.62 Race/ethnicity White Latino Black Asian/Pacific Islander Other 72% (72) 5% (5) 1% (1) 22% (22) 1% (1) 71% (34) 8% (4) 2% (1) 19% (9) 0%(0) 77% (41) 3% (1) 0% (0) 25% (13) 2% (1) 0.34 Absences from training last year due to injury None Once or twice 3-4 times 5 or more Didn’t run last year 52% (53) 35% (36) 8% (8) 2% (2) 3% (3) 47% (23) 39% (19) 8% (4) 2% (1) 4% (2) 57% (30) 32% (17) 8% (4) 2% (1) 2% (1) 0.88 Diagnosed with a bone stress injury by a doctor 11% (11) 19% (9) 4% (2) 0.016 Diagnosed with a bone stress injury by a doctor due to running 9% (9) 17% (8) 2% (1) 0.0092 Injured bone Tibia Fibula Metatarsal Sacrum 1* 2* 6 (1 female had both tibia/fibula fracture) 0 0 0 1 Injuries Total injuries Achilles tendonitis Shin splints Runner’s knee IT band syndrome Sprained ankle Hamstring strain Osgood-Schlatter Disease Sever disease Other tendon/bone/joint injury Plantar fasciitis (63) 8% (8) 5% (7) 13% (14) 1% (1) 12% (12) 4% (4) 4% (4) 8% (8) 5% (5) 3% (3) (39) 8% (4) 6% (3) 20% (10) 0% (0) 18% (9) 6% (3) 6% (3) 4% (2) 6% (3) 4% (2) (25) 8% (4) 4% (2) 8% (4) 3% (1) 6% (3) 2% (1) 2%(1) 11% (6) 4% (2) 2% (1) 0.91 0.58 0.059 0.30 0.047 0.27 0.27 0.17 0.58 0.51 *Some subjects had more than one injury.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Physiotherapeutic treatment in patients with heel spurs",
+      "url": "https://zenodo.org/records/1186259",
+      "publisher": "Zenodo",
+      "year": "2018",
+      "doi": "10.5281/zenodo.1186259",
+      "abstract": "Strojek Katarzyna, Karpińska Anna, Strączyńska Agnieszka, Z ukow Walery, Radzimińska Agnieszka. Physiotherapeutic treatment in patients with heel spurs. Journal of Education, Health and Sport. 2018;8(3): 78 - 87 . eISNN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.1186259 http://ojs.ukw.edu.pl/index.php/johs/article/view/53 18 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part b item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eissn 2391-8306 7 © The Authors 2018; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non commercial license (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 05.02.2018. Revised: 10.02.2018. Accepted: 28 .0 2 .2018. Physiotherapeutic treatment in patients with heel spurs Postępowanie fizjoterapeutyczne u osób z ostrogą piętową Katarzyna Strojek 1 , Anna Karpińska 1 , Agnieszka Strączyńska 1 , Walery Zukow 2 , Agnieszka Radzimińska 1 Nicolaus Copernicus University in Torun, Collegium Medicum, Department of Physiotherapy, Bydgoszcz, Poland Department of Spatial Management and Tourism, Faculty of Earth Sciences, Nicolaus Copernicus University, Torun, Poland Streszczenie Ostroga piętowa jest zaburzeniem wynikającym z nieprawidłowości biomechanicznych stopy. Problem dotyczy osób w różnym wieku i powstaje na skutek powtarzanych mikrourazów w obrębie przyczepu ścięgna mięśnia zginacza krótkiego palców. Głównym powodem podejmowania przez pacjentów leczenia są dolegliwości bólowe. Istnieje wiele zachowawczych metod leczenia ostrogi piętowej i związanych z nią dolegliwości wynikających z zapalenia rozcięgna podeszwowego stopy. Do najbardziej skutecznych zalicza się: kinezyterapię, fizykoterapię, terapię manualną oraz plastrowanie dynamiczne. Dostępne badania wskazują na skuteczność terapii z zastosowaniem: ćwiczeń rozciągających, ultradźwięków, laseroterapii nisko i wysokoenergetycznej, fali uderzeniowej, wibroakustycznej, rozluźniania mięśniowo- powięziowych punktów spustowych oraz plastrowania terapeutycznego. Abstract The heel spur is a disorder resulting from biomechanical abnormalities of the foot. The problem affects people of different ages and arises as a result of repeated micro-injuries within the flexor digitorum brevis. The main reason for treating patients is pain. There are many conservative methods of treatment of heel spurs and related complaints resulting from inflammation of the plantar foot aponeurosis. The most effective include: kinesitherapy, physiotherapy, manual therapy and dynamic slicing. Available research indicate the effectiveness of the therapy with the use of: stretching exercises, ultrasounds, low and high-energy laser therapy, shockwave, vibroacoustics, relaxation of myofascial trigger points and therapeutic tapering. Słowa kluczowe: zapalenie rozcięgna podeszwowego stopy, fizykoterapia, punkty spustowe, stretching Key words: plantar fasciitis, physical therapy, trigger points, stretching",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "The Cavovarus Foot and It’s Association with Fractures of the Fifth Metatarsal",
+      "url": "https://doi.org/10.1177/2473011417S000173",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2017",
+      "doi": "10.1177/2473011417S000173",
+      "abstract": "Category: Midfoot/Forefoot, Trauma Introduction/Purpose: Fifth metatarsal fractures are the most commonly encountered metatarsal fractures. It is often inferred that fifth metatarsal fractures occur at an increased frequency in patients with cavovarus foot position. In particular, zone 2 and zone 3 fractures are thought to be associated with cavovarus feet. However, limited data exists in the literature to support this claim. The hypothesis of this study is that a cavovarus foot alignment is positively correlated with the incidence of fifth metatarsal fractures. Methods: 298 consecutive fifth metatarsal fractures were compared with a matched control group of 104 patients presenting to an orthopaedic clinic for toe fractures, interdigital neuromas and plantar fasciitis. Radiographic parameters were measured on weight-bearing anteroposterior and lateral x-rays for all patients. An ANOVA test was utilized to compare radiographic parameters between patients with fifth metatarsal fractures and the control group. Parameters that were found to be statistically significant were further analyzed using a Tukey-Kramer test to compare controls and each type of fifth metatarsal fracture (zone 1, zone 2, zone 3, distal oblique diaphyseal, metatarsal neck). Results: All radiographic parameters are listed in table 1. A statistically significant difference (p<0.05) for calcaneal pitch, lateral talocalcaneal angle, AP talo-2nd metatarsal angle, talonavicular coverage angle and AP talocalcaneal angle were detected. All parameters are indicative of increased cavovarus in the fifth metatarsal fracture group when compared with controls. In the subgroup analysis, zone 1, zone 2, zone 3 and distal oblique diaphyseal fractures each had a calcaneal pitch, lateral talocalcaneal angle and AP talocalcaneal angle consistent with a more cavovarus position than the control group (p<0.05). Zone 2 and zone 3 fractures had an AP talo-2nd metatarsal angle more consistent with cavovarus than zone 1 fractures and controls. For all other parameters there were no significant differences between each type of fifth metatarsal fracture. Conclusion: While it is commonly accepted that cavovarus is a risk factor for fifth metatarsal fractures, there’s little evidence in the literature to support this. This study is the first to show that there is a positive correlation between radiographic parameters that reflect cavovarus foot position and the incidence of fifth metatarsal fractures compared to a matched control group of patients with unrelated pathology. Furthermore, while zone 2 and zone 3 fractures are most commonly thought to be associated with cavovarus, each subcategory of fifth metatarsal fractures in this study had radiographic measurements more consistent with cavovarus foot position than controls.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Risk factors and most common traumatic injuries in people who practice long-distance running",
+      "url": "https://zenodo.org/records/893517",
+      "publisher": "Zenodo",
+      "year": "2017",
+      "doi": "10.5281/zenodo.893517",
+      "abstract": "Lewandowska Anna, Ratuszek-Sadowska Dorota, Hoffman Jarosław, Hoffman Anetta, Kuczma Monika, Landowski Leszek, Hagner Wojciech. Risk factors and most common traumatic injuries in people who practice long-distance running . Journal of Education, Health and Sport. 2017;7(8):8 55 -8 77 . eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.893 517 http://ojs.ukw.edu.pl/index.php/johs/article/view/483 5 https://pbn.nauka.gov.pl/sedno-webapp/works/831638 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 1223 (26.01.2017). 1223 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Authors 2017; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 01.07.2017. Revised: 10.07.2017. Accepted: 31.07.2017. Czynniki ryzyka i najczęstsze urazy narządu ruchu u osób uprawiających biegi długodystansowe Risk factors and most common traumatic injuries in people who practice long-distance running Anna Lewandowska 1 , Dorota Ratuszek-Sadowska 1 , Jarosław Hoffman 1 , Anetta Hoffman 2 , Monika Kuczma 3 , Leszek Landowski 2 , Wojciech Hagner 1 Katedra i Klinika Rehabilitacji, Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy, Uniwersytet Mikołaja Kopernika w Toruniu Wyższa Szkoła Zarządzania w Gdańsku Zamiejscowy Wydział Kultury Fizycznej w Gorzowie Wielkopolskim Akademii Wychowania Fizycznego w Poznaniu, Zakład Rehabilitacji Streszczenie Niewątpliwie zapanowała moda na bieganie. Początkowo biegano dla zabawy, przyjemności, by zapomnieć o zmartwieniach czy problemach. Z czasem jednak przestało chodzić tylko o samą ideę, ludzie coraz bardziej zafascynowani joggingiem poszli o krok dalej. Jednocześnie nie zdając sobie sprawy, jak istotne zmiany mogą zachodzić w ich organizmie. Są to zazwyczaj zmiany o charakterze przeciążeniowym czy zapalnym. Celem niniejszej pracy jest przedstawienie najczęstszych kontuzji osób uprawiających biegi długodystansowe oraz głównych czynników predysponujących do ich powstawania. W pracy zostaną przybliżone także możliwości profilaktyki owych urazów. Do najważniejszych czynników predysponujących do powstania urazu zaliczyć można: świadomość osób uprawiających biegi, nadwagę i otyłość, nieprawidłowy wzorzec biegowy oraz nieodpowiedni plan treningowy. Konsekwencją tych czynników mogą być: kolano biegacza, zespół przeciążenia podudzi, zapalenie ścięgna Achillesa, zapalenie rozcięgna podeszwowego, złamania zmęczeniowe oraz zespół pasma biodrowo-piszczelowego. Kontuzje są niestety wpisane w życie każdego biegacza, bez względu na poziom biegowego zaawansowania. Warto jednak pamiętać, że można im skutecznie zapobiegać, a w momencie ich pojawienia skutecznie leczyć. Urazy biegaczy zależą przede wszystkim od ich podejścia do uprawiania tej formy aktywności fizycznej, w mniejszym stopniu od czynników genetycznych czy mechanicznych. Słowa kluczowe : biegi długodystansowe, jogging, urazy, czynniki ryzyka, profilaktyka Abstract Undoubtedly, the fashion of running comes. Initially people used to run for fun, pleasure, to forget about worries or problems. With time, however, was no longer just about the idea itself, people more and more fascinated with jogging went one step further. At the same time, not realizing how important changes may occur in their body. These are usually overload or inflammatory changes. The aim of this paper is to present the most frequent injuries of long distance runners and the main predisposing factors for their trauma. The work will also cover the possibility of prevention of these injuries. The most important factors predisposing to injury include: the awareness of running people, the overweight and obesity, the incorrect running pattern and the inappropriate training plan. The consequences of these factors may be: runner's knee, leg overload syndrome, Achilles tendonitis, plantar fasciitis, fatigue fractures, and iliotibial-band syndrome. The injuries are, unfortunately, inscribed into the life of every runner, regardless of the level of advancement. However, it is worth remembering that they can be effectively prevented, and at the moment of their appearance, effectively heal. The injuries of runners depend primarily on their approach to practicing this form of physical activity, to a lesser extent from genetic or mechanical factors. Key words: long-distance running, jogging, injury, risk factors, prevention",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "EFFECT OF LOW ENERGY VERSUS MEDIUM ENERGY RADIAL SHOCK WAVE THERAPY IN THE TREATMENT OF CHRONIC PLANTER FASCIITIS",
+      "url": "https://www.ijphy.org/index.php/journal/article/view/145",
+      "publisher": "International Journal of Physiotherapy",
+      "year": "2016",
+      "doi": "10.15621/ijphy/2016/v3i1/88900",
+      "abstract": "Background: Plantar fasciitis (PF) is the most common cause of heel pain and it can often be a challenge for clinicians to treat successfully. Radial shock wave therapy (RSWT) has been introduced recently for treatment of musculoskeletal disorders. Different energy levels of shock wave therapy have been used in the literatures for treatment of PF with no clear settled parameters. Therefore, the purpose of this study was intended to investigate and compare the efficacy of two different energy levels of RSWT on PF patients. Methods: Forty patients having unilateral chronic PF were recruited for the study from orthopedic outpatient clinics of Cairo University hospitals and National Institute of Neuromotor System Cairo Egypt, with a mean age of (47.15±4.57) years. Patients were randomly assigned into two equal groups. Group (A) treated with low intensity level of 1.6 bars (0.16 mJ/mm2) RSWT and group (B) treated with medium intensity level of 4 bars (0.38 mJ/mm2) RSWT. Functional assessment of the foot based on Foot Function Index (FFI) and Present pain intensity was measured during rest by Visual Analogue Scale (VAS). Results: There was as significant decreased in the total FFI scores from (118.42 ±6.51) to (81.37 ±3.46) for group (A) and from (118.93 ±6.85) to (58.50 ±3.22) for group (B). Also regarding VAS Scores there was as significant decreased in the pain intensity from (5.11 ±0.41) to (2.85 ±0.31) for group (A) and from (4.95 ±0.39) to (2.05 ±0.22) for group (B). Conclusion: Radial shock wave therapy is an effective modality that should be considered in the treatment of chronic PF, while the medium energy level RSWT is better than the low energy level RSWT in regarding to the measured treatment outcomes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

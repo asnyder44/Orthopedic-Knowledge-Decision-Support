@@ -66,6 +66,12 @@
         </div>
 
         <div data-step="3" hidden>
+          <div class="collected" id="gen-collected">
+            <button type="button" class="secondary" id="src-collected">⤓ Use collected sources</button>
+            <span class="muted small">Fills the sources with the best open-access ones found by <code>okds collect-topics</code>
+              (a patient page plus research abstracts). Check each one before you use it.</span>
+            <div id="src-collected-msg" role="status"></div>
+          </div>
           <div id="gen-sources"></div>
           <div class="btnrow">
             <button type="button" class="secondary" id="src-add">+ Add another source</button>

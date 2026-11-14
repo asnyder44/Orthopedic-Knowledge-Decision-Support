@@ -1,0 +1,962 @@
+{
+  "term": "Knee Osteoarthritis",
+  "collected": "2026-11-14",
+  "count": 53,
+  "candidates": [
+    {
+      "provider": "plos",
+      "title": "Traditional Chinese medicine for knee osteoarthritis: An overview of systematic review",
+      "url": "https://doi.org/10.1371/journal.pone.0189884",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0189884",
+      "abstract": "Background: Traditional Chinese medicine (TCM) has been accepted as a complementary therapy for knee osteoarthritis. However, the efficacy and safety of the intervention were still conflicting and uncertain. Meanwhile, the quality of methodology and evidence in the field was unknown. Objective: To summarize the characteristics and critically evaluate the quality of methodology, as well as the evidence of systematic reviews (SRs) on TCM for knee osteoarthritis. Methods: Five electronic databases were searched from inception to April 2016. The methodological quality of the included studies was assessed by AMSTAR and ROBIS. The quality of the evidence was determined using the GRADE approach. Results: Ten SRs were included. The conclusions suggest that TCM provides potential benefits for patients with knee osteoarthritis. These benefits include pain relief, functional improvement, and presence of few adverse events. Limitations of the methodological quality mainly included the lack of a-priori protocol or protocol registration and incomprehensive literature search. A list of excluded studies was also not provided. The overall quality of evidence in the SRs was poor, ranging from “very low” to “low,” mainly because of the serious risk of bias of original trials, inconsistencies, and imprecision in the outcomes. Conclusions: TCM generally appears to be effective for knee osteoarthritis treatment. However, the evidence is not robust enough because of the methodological flaws in SRs. Hence, these conclusions on available SRs should be treated with caution for clinical practice.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.78,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Conservative management of knee osteoarthritis in Switzerland. Implementation of the guidelines' recommendation – exercise and education – in clinical practice",
+      "url": "https://zenodo.org/records/7002185",
+      "publisher": "Zenodo",
+      "year": "2022",
+      "doi": "10.5281/zenodo.7002185",
+      "abstract": "International clinical guidelines for the management of knee osteoarthritis (OA) recommend exercise, education and weight management, when appropriate, as the first-line conservative intervention for patients with knee OA. Such interventions aim to improve OA-related symptoms and to enhance patient self-management. However, clinical practice is often at variance with these guidelines in Switzerland, resulting in the requirement for structured exercise and education programmes to translate the recommendations into clinical practice. The overall goal of this thesis is to support the development of a pathway for the systematic implementation of guideline recommendations in Switzerland to deliver improvements in the conservative management of knee OA. To achieve this overarching goal, current practices in conservative management among medical doctors were explored; established exercise and education programmes were analysed with regard to their applicability to the Swiss health care system; a policy brief was developed, as the basis for a stakeholder dialogue, to explore the contextual factors influencing the implementation of an exercise and education programme; and a protocol was developed to evaluate the implementation strategy.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Knee Replacement",
+      "url": "https://medlineplus.gov/kneereplacement.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "What is knee replacement surgery? Knee replacement surgery is a surgery to replace parts of your knee joint with new, artificial parts. You may need a knee replacement if you have knee damage that causes severe pain and difficulty doing daily activities, such as walking and climbing stairs. It is usually done when other treatments for knee pain haven't helped enough. The goal of a knee replacement is to relieve pain and help you move better. People of all ages may have knee replacement surgery. But it is more common in older people. The decision whether to have surgery is based on your overall health and how much your knee bothers you. What conditions does knee replacement surgery treat? Knee replacement surgery treats conditions that cause the cartilage of the knee joint to wear away. These include: Knee osteoarthritis . This is the most common reason for knee replacement surgery. It usually develops over time after an injury or with aging. Knee damage from other types of arthritis. Problems from knee joints that aren't formed correctly. What happens during knee replacement surgery? During the surgery, a surgeon removes damaged cartilage and some bone from the surfaces of your knee joint. Cartilage is tissue that covers your bones where they meet. Healthy cartilage is smooth and helps the bones glide over each other when you move. When cartilage becomes rough and wears away, the bones rub against each other, causing pain. After removing the damaged knee cartilage and bone, the surgeon attaches the artificial parts to your bones. The artificial parts are made of metal and plastic. They will give your knee new, smooth surfaces. Knee replacement surgery may replace all the damaged parts of your knee (total knee replacement) or just part of your knee (partial knee replacement). In a total knee replacement, the surgeon replaces 3 surfaces: The end of the shinbone The end of the thighbone The back of the kneecap What happens after knee replacement surgery? Some people go home the same day they have surgery. Other people will stay in the hospital a few days. To help prevent blood clots, you'll most likely take blood thinners and wear special socks or coverings on your legs for a short time after surgery. The success of your surgery depends a lot on what you do at home to help yourself recover. A physical therapist will teach you exercises to make your knee stronger and help it bend. It is important to do these exercises regularly. You may need to use a cane or walker for several weeks after the surgery. It will probably also be several weeks before you can drive. Your doctor will tell you when you can start driving again. Most people who follow their recovery instructions can get back to nearly all of their normal daily activities within 3 to 6 weeks after surgery. What is life like after a knee replacement? After recovering from surgery, most people can move better with less pain than before surgery. But having an artificial knee is not the same as having a normal, healthy knee . You need to protect your new knee by: Staying at a healthy weight. Getting regular physical activity. Not doing any high-impact activities, such as jogging, running, and jumping. Instead, you can try low-impact activities that are good for your knee , such as walking, biking, and swimming What are the risks of knee replacement surgery? The chance of having problems after knee replacement surgery is low. But there are risks after any surgery. Possible problems after knee replacement surgery include: Infection Blood clots Heart attack Stroke Nerve damage Scarring that limits how far you can bend your knee Your age, general health, and how active you are can all affect your risk of having a problem after knee replacement surgery. How long does a knee replacement last? A knee replacement doesn't last forever. After 15 to 20 years, the artificial knee parts may become loose or worn. If that happens, you may need another surgery on the same knee . If you're thinking about having knee replacement surgery, talk to your doctor about the risks and benefits. Together you can decide if a knee replacement is right for you.",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Leg Injuries and Disorders",
+      "url": "https://medlineplus.gov/leginjuriesanddisorders.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Your legs are made up of bones, blood vessels, muscles, and other connective tissue. They are important for motion and standing. Playing sports, running, falling, or having an accident can damage your legs. Common leg injuries include sprains and strains, joint dislocations, and fractures (broken bones). These injuries can affect the entire leg, or just the foot, ankle, knee , or hip. Certain diseases also lead to leg problems. For example, knee osteoarthritis , common in older people, can cause pain and limited motion. Problems in your veins in your legs can lead to varicose veins or deep vein thrombosis.",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Genicular artery embolization for treatment of knee osteoarthritis pain: Systematic review and meta-analysis",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2665913123000092",
+      "publisher": "Osteoarthritis and Cartilage Open",
+      "year": "2023",
+      "doi": "10.1016/j.ocarto.2023.100342",
+      "abstract": "Objective: Genicular artery embolization (GAE) is a novel, minimally invasive procedure for treatment of knee osteoarthritis (OA). This meta-analysis investigated the safety and effectiveness of this procedure. Design: Outcomes of this systematic review with meta-analysis were technical success, knee pain visual analog scale (VAS; 0–100 scale), WOMAC Total Score (0–100 scale), retreatment rate, and adverse events. Continuous outcomes were calculated as the weighted mean difference (WMD) versus baseline. Minimal clinically important difference (MCID) and substantial clinical benefit (SCB) rates were estimated in Monte Carlo simulations. Rates of total knee replacement and repeat GAE were calculated using life-table methods. Results: In 10 groups (9 studies; 270 patients; 339 knees), GAE technical success was 99.7%. Over 12 months, the WMD ranged from −34 to −39 at each follow-up for VAS score and −28 to −34 for WOMAC Total score (all p ​< ​0.001). At 12 months, 78% met the MCID for VAS score; 92% met the MCID for WOMAC Total score, and 78% met the SCB for WOMAC Total score. Higher baseline knee pain severity was associated with greater improvements in knee pain. Over 2 years, 5.2% of patients underwent total knee replacement and 8.3% received repeat GAE. Adverse events were minor, with transient skin discoloration as the most common (11.6%). Conclusions: Limited evidence suggests that GAE is a safe procedure that confers improvement in knee OA symptoms at established MCID thresholds. Patients with greater knee pain severity may be more responsive to GAE.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.02,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Oral resveratrol in adults with knee osteoarthritis: A randomized placebo-controlled trial (ARTHROL)",
+      "url": "https://doi.org/10.1371/journal.pmed.1004440",
+      "publisher": "PLOS Medicine",
+      "year": "2024",
+      "doi": "10.1371/journal.pmed.1004440",
+      "abstract": "Background: Resveratrol is a natural compound found in red wine. It has demonstrated anti-inflammatory properties in preclinical models. We compared the effect of oral resveratrol in a new patented formulation to oral placebo for individuals with painful knee osteoarthritis. Methods and findings: ARTHROL was a double-blind, randomized, placebo-controlled, Phase 3 trial conducted in 3 tertiary care centers in France. We recruited adults who fulfilled the 1986 American College of Rheumatology criteria for knee osteoarthritis and reported a pain intensity score of at least 40 on an 11-point numeric rating scale (NRS) in 10-point increments (0, no pain, to 100, maximal pain). Participants were randomly assigned (1:1) by using a computer-generated randomization list with permuted blocks of variable size (2, 4, or 6) to receive oral resveratrol (40 mg [2 caplets] twice a day for 1 week, then 20 mg [1 caplet] twice a day; resveratrol group) or matched oral placebo (placebo group) for 6 months. The primary outcome was the mean change from baseline in knee pain on a self-administered 11-point pain NRS at 3 months. The trial was registered at ClinicalTrials.gov: (NCT02905799). Conclusions: In this study, we observed that compared with placebo, oral resveratrol did not reduce knee pain in people with painful knee osteoarthritis. Trial registration: ClinicalTrials.gov ID: NCT02905799. In a phase 3 trial, Christelle Nguyen and team compared the effect of oral resveratrol in a new patented formulation to oral placebo for individuals with painful knee osteoarthritis. Why was this study done?: What did the researchers do and find?: What do these findings mean?:",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.96,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Prevalence and morphometry of the fabella in cadaveric and radiological studies: Is there a link to knee osteoarthritis?",
+      "url": "https://doi.org/10.1371/journal.pone.0340399",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0340399",
+      "abstract": "Objective: To investigate the morphometric features of the fabella in cadaveric specimens and evaluate its prevalence and potential association with knee osteoarthritis through radiological analysis. Methods: In the cadaveric study, 65 knees from 32 cadavers and 3 leg specimens were dissected. Fabellas were measured and analyzed histologically. In the radiological study, bilateral knee X-rays of 1712 patients with osteoarthritis and 2304 control subjects were retrospectively reviewed. The presence and laterality of the fabella were recorded. Results: Fabella was detected in 18.4% of dissected knees. No significant sex-based differences were found in morphometric measurements (p > 0.05). In the radiological study, the overall prevalence was 36.5% (37.6% in patients, 35.7% in controls), with no statistically significant association between fabella presence and osteoarthritis (p > 0.05). Lateralization patterns did not differ between groups. Conclusion: This study provides the first morphometric data on fabella in Turkish cadavers and suggests no significant relationship between fabella presence and knee osteoarthritis. While fabella is a common anatomical variant, its clinical relevance in osteoarthritis remains inconclusive, warranting further investigation.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Hirudotherapy, Medicinal Leech Therapy, and Jalaukavacharana: A Comprehensive Review of PubMed-Indexed Literature with Emphasis on Biochemical Mechanisms, Clinical Applications, and Ayurvedic Perspectives",
+      "url": "https://zenodo.org/records/19595679",
+      "publisher": "International Journal of Diagnostics And Research",
+      "year": "2026",
+      "doi": "10.5281/zenodo.19595679",
+      "abstract": "Background: Hirudotherapy — the therapeutic application of medicinal leeches ( Hirudo medicinalis and related species) — is one of the oldest biological treatments known to humanity, with documented use extending back to ancient Egypt, Greece, and India. [1,2] Within Ayurvedic medicine, the practice is systematically codified as Jalaukavacharana, a sub-procedure of Raktamokshana (bloodletting), described extensively in the Sushruta Samhita and Charaka Samhita . [33] Despite its ancient origins, modern pharmacological and molecular research has revealed that leech saliva contains more than 100 bioactive compounds that exert potent anticoagulant, anti-inflammatory, analgesic, and antimicrobial effects. [3,5] Objective: This review critically synthesizes PubMed-indexed literature on hirudotherapy, medicinal leech therapy (MLT), and Jalaukavacharana (JA) to provide a comprehensive, evidence-graded summary of mechanisms of action, species classification, clinical applications, Ayurvedic perspectives, safety profiles, complications, and future research directions. Methods: A comprehensive electronic search was conducted across PubMed/MEDLINE, Cochrane Library, Scopus, and DHARA databases using the MeSH terms and keywords: \"hirudotherapy,\" \"medicinal leech therapy,\" Hirudo medicinalis , \" Jalaukavacharana ,\" \" Raktamokshana ,\" and \"leech saliva.\" Publications from 1990 to March 2026 in English were screened. A total of 118 articles meeting inclusion criteria were analyzed, including randomized controlled trials (RCTs), systematic reviews, observational studies, and case reports. Results: More than 20 pharmacologically identified bioactive compounds in leech saliva — including hirudin, calin, saratin, hyaluronidase, destabilase, and eglins — account for the diverse therapeutic actions of MLT. [5,6,26,27,28] Strong evidence supports hirudotherapy in venous congestion and flap salvage in reconstructive surgery. [12] Moderate-to-strong evidence exists for knee osteoarthritis and chronic low back pain. [9,10,11] Preliminary evidence supports use in varicose veins, thrombophlebitis, hemorrhoids, skin disorders, and selected ophthalmic conditions. [16,17,25] Ayurvedic applications described in Jalaukavacharana are largely consistent with modern biochemical understanding. [8,15,33] Key safety concerns include Aeromonas spp. infection, requiring antibiotic prophylaxis, and excessive bleeding. [13,24] Conclusion: Hirudotherapy occupies a unique and validated position at the intersection of traditional and modern medicine. It is an FDA-cleared modality for surgical applications [12] and merits continued rigorous investigation for a broader range of chronic inflammatory and musculoskeletal conditions. The integration of Jalaukavacharana into evidence-based Ayurvedic practice represents a promising domain for future clinical trials. [8,15] Keywords: Hirudotherapy; Medicinal leech therapy; Hirudo medicinalis; Jalaukavacharana; Raktamokshana ; Leech saliva; Hirudin; Ayurveda; Complementary medicine; Osteoarthritis; Flap salvage.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.64,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Correlation between varus-type knee osteoarthritis severity and hindfoot alignment: Analysis of radiographs in the long-leg weight-bearing anteroposterior view",
+      "url": "https://doi.org/10.1371/journal.pone.0324974",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0324974",
+      "abstract": "Background: In knee osteoarthritis, the subtalar joint undergoes valgus and varus contractions to compensate for deformities in the knee joint. In this cross-sectional study, we investigated the relationship between varus-type knee osteoarthritis severity and hindfoot alignment severity by concurrently assessing varus-type knee osteoarthritis severity and hindfoot alignment using radiographs in the long-leg weight-bearing anteroposterior view. Patients and methods: A total of 114 patients with knee osteoarthritis graded Kellgren–Lawrence II or higher (128 knees) and 30 healthy controls (31 knees) underwent long-leg weight-bearing anteroposterior imaging for 1 year. Four angles were measured on radiographs in the long-leg weight-bearing anteroposterior view: the femorotibial angle; tibial calcaneal angle; tibial anterior surface angle; and talocrural joint angle between the tibial plafond and talar dome on weight-bearing. Group comparisons were conducted for each Kellgren–Lawrence classification, which was used to classify the severity of knee osteoarthritis at each measured angle. One-way analysis of variance was used to test the results. Results: The mean tibial calcaneal angles were 9.7°, 11.3°, 8.8°, and 9.8° in controls and in patients with Kellgren–Lawrence grades II, III, and IV, respectively (p < 0.05). The mean femorotibial angles were 175.6°, 176.8°, 180.3°, and 186.2° in controls and in patients with Kellgren–Lawrence grades II, III, and IV, respectively (p < 0.05). On weight-bearing, the tibial anterior surface angle and the talocrural joint angle between the tibial plafond and talar dome varied according to severity level. Conclusion: In varus-type knee osteoarthritis cases, defined in accordance with the Kellgren–Lawrence classification, hindfoot alignment leaned toward valgus. As the severity of knee osteoarthritis progressed, the valgus of the hindfoot alignment reduced. While future longitudinal analyses are necessary, these observations indicate both potential compensatory changes and their limitations in varus-type knee osteoarthritis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Knee Osteoarthritis: Steriods Verus Platelets Rich Plasma Effectiveness",
+      "url": "https://zenodo.org/records/10487788",
+      "publisher": "Knee Osteoarthritis: Steriods Verus Platelets Rich  Plasma Effectiveness",
+      "year": "2023",
+      "doi": "10.5281/zenodo.10487788",
+      "abstract": "Background: This study compared the effectiveness of two therapy techniques for treating a certain medical condition: intra-articular steroid injection (Group A) and platelet rich plasma injection (Group B). The medial femorotibial compartment, for instance, frequently exhibits the highest decrease of joint space in the osteoarthritic knee. Treatment for osteoarthritis aims to reduce discomfort and enhance functional status. Medium-term improvements are seen with intra- articular platelet-rich plasma, balneotherapy, and whole-body vibration. The study is intended to demonstrate knee osteoarthritis and establish appropriate treatment guidelines. to determine the mean VAS score in individuals with knee osteoarthritis after intra-articular PRP or steroid injection and to evaluate which treatment is more effective at reducing pain for patients with osteoarthritis of the knee: PRP or steroid injections. Methodology: Department of Orthopedics Surgery & Trauma, lady reading hospital peshawer, UPON ETHICAL Comitte Approval. Thirty patients with knee osteoarthritis were studied in each group from 1 JAN 2022 to 31 December 2022. PRP and steroid groups of patients were randomly assigned using randomization through non-probability consecutive sampling. SPSS-24 Version was used to recode and analyze the results of the CONTROL TRIAL. The male-to-female ratio, age distribution, and pain outcomes both before and after treatment were also examined in the study. The male-to- female ratio in Group A was 1:3, whereas the ratio in Group B was 1:3.75. Both therapies were used, and their effects in reducing pain were evaluated. The results showed that both groups had a larger proportion of females. The groups' age distributions varied, but there were no statistically significant differences between them. Results: The study consisted of 60 patients in total. They were evenly divided between the two groups. Patients in group A had a mean age of 59.93 years plus 7.48 standard deviations, whereas those in group B had a mean age of 61.68 years plus 7.22 SD. After treatment, when pain levels were compared, Group A reported 4.7+1.31SD of pain, whereas Group B reported 6.03+1.18SD of pain. This difference was statistically significant using an independent t-test, with a p-value of 0.000. Pre-treatment pain levels between Group A (mean: 7.93) and Group B (mean: 8.03) were comparable, and there was little change after therapy. In contrast, Group A showed a statistically significant reduction in pain following therapy (mean: 4.7) as compared to Group B (mean: 6.03). Conclusion: This study highlights the potential advantages of intra-articular steroid injections versus platelet rich plasma injections for the treatment of pain. Keywords:- Knee Osteoarthritis, Steroid, Platelet Rich Plasma.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Mechanisms Underlying the Knee Adduction Moment and its Regulation: Conducive to Explaining the Aetiologies of Medial Compartment Knee Osteoarthritis",
+      "url": "https://zenodo.org/records/3985866",
+      "publisher": "Zenodo",
+      "year": "2020",
+      "doi": "10.5281/zenodo.3985866",
+      "abstract": "The knee adduction moment (KAM) is considered to be closely related to the occurrence and progression of medial compartment knee osteoarthritis (OA); however, the mechanisms underlying the KAM remain unclear. The current understanding of the KAM does not explain some clinical phenomena well. In this study, the process underlying the KAM is expounded from a biomechanical perspective, which explains the KAM based on the elastic energy in the gait. In addition, a possible linkage regulation mechanism between the ankle-subtalar joint complex (ASTC) and knee joint is put forward, and an intrinsic connection between this linkage regulation mechanism and changes in KAM is established. These discussions cannot only reasonably explain the clinical phenomena identified by the author, but also contribute to the explanation of the aetiologies of medial compartment OA from a biomechanical perspective. The author believes that all the adjustment movements that occur in an individual’s gait are to maintain a stable centre of gravity (CG) and comfortable gait, and at the same time save energy consumption. A reasonable amount of KAM is conducive not only to the stability of CG in gait and comfortable advancement, but also to energy saving. Factors such as trunk inclination, pace, step width, toe-out angle, body weight, femorotibial angle, muscle strength, muscle mass, and tension of the iliotibial tract may all affect the KAM in gait, but the human body can also actively adjust KAM within a certain range through a specific regulation mechanism; the iliotibial tract plays an important role in this regulation mechanism because of its unique tension band effect. When some soft tissue structures in the human body degrade (mainly due to the decreased muscle strength of the vastus lateralis, biceps femoris, gluteus medius, and gluteus minimus, as well as the decreased muscle mass of the vastus lateralis, gluteus medius, and gluteus minimus, or the increased relaxation of the iliotibial tract), the tension band effect of the iliotibial tract does not fully manifest; therefore, the KAM will not be controlled reasonably. This causes continuously increased stress in the medial compartment of the knee joint, which may be the most important biomechanical aetiology of medial compartment knee OA.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The quality-of-life burden of knee osteoarthritis in New Zealand adults: A model-based evaluation",
+      "url": "https://doi.org/10.1371/journal.pone.0185676",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0185676",
+      "abstract": "Background: Knee osteoarthritis is a leading global cause of health-related quality of life loss. The aim of this project was to quantify health losses arising from knee osteoarthritis in New Zealand (NZ) in terms of quality-adjusted life years (QALYs) lost. Methods: The Osteoarthritis Policy Model (OAPol), a validated Monte Carlo computer simulation model, was used to estimate QALYs lost due to knee osteoarthritis in the NZ adult population aged 40–84 over their lifetimes from the base year of 2006 until death. Data were from the NZ Health Survey, NZ Burden of Diseases, NZ Census, and relevant literature. QALYs were derived from NZ EQ-5D value set 2. Sensitivity to health state valuation, disease and pain prevalence were assessed in secondary analyses. Results: Based on NZ EQ-5D health state valuations, mean health losses due to knee osteoarthritis over people’s lifetimes in NZ are 3.44 QALYs per person, corresponding to 467,240 QALYs across the adult population. Average estimated per person QALY losses are higher for non-Māori females (3.55) than Māori females (3.38), and higher for non-Māori males (3.34) than Māori males (2.60). The proportion of QALYs lost out of the total quality-adjusted life expectancy for those without knee osteoarthritis is similar across all subgroups, ranging from 20 to 23 percent. Conclusions: At both the individual and population levels, knee osteoarthritis is responsible for large lifetime QALY losses. QALY losses are higher for females than males due to greater prevalence of knee osteoarthritis and higher life expectancy, and lower for Māori than non-Māori due to lower life expectancy. Large health gains are potentially realisable from public health and policy measures aimed at decreasing incidence, progression, pain, and disability of osteoarthritis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Low Skeletal Muscle Mass in the Lower Limbs Is Independently Associated to Knee Osteoarthritis",
+      "url": "https://doi.org/10.1371/journal.pone.0166385",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0166385",
+      "abstract": "Objectives: It has been reported that low skeletal muscle mass correlates with knee osteoarthritis in obese individuals. This study aimed to investigate whether lower limb skeletal muscle mass is independently associated with knee osteoarthritis in the general population. Materials and Methods: This cross-sectional study used public data from the Fourth and Fifth Korean National Health and Nutrition Examination Survey. Subjects included 4924 community-dwelling adults aged ≥50 years (821 subjects with knee osteoarthritis and 4,103 controls). Skeletal muscle mass index (SMI) was calculated from the appendicular skeletal muscle mass measured by dual energy X-ray absorptiometry. Independent effects of total and lower limb SMI values on knee osteoarthritis were determined using odds ratios (OR) adjusted for age, sex, obesity, total femur bone mineral density, serum vitamin D level, diabetes mellitus status, and physical activity on multivariate logistic regression analysis. Results: The adjusted logistic regression model revealed that older age, female sex, and obesity were significantly associated with knee osteoarthritis. A higher serum vitamin D level was also positively correlated with knee osteoarthritis (OR, 1.015; 95% CI, 1.003–1.027; P = 0.010). Although total SMI was not significantly associated with knee osteoarthritis (OR, 0.976; 95% CI, 0.946–1.007; P = 0.127), a low lower limb SMI had an independent effect on knee osteoarthritis (OR, 0.941; 95% CI, 0.900–0.983; P = 0.006). Conclusions: Low skeletal muscle mass in the lower limbs but not in the whole body was independently associated with knee osteoarthritis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Subjects with Knee Osteoarthritis Exhibit Widespread Hyperalgesia to Pressure and Cold",
+      "url": "https://doi.org/10.1371/journal.pone.0147526",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0147526",
+      "abstract": "Hyperalgesia to mechanical and thermal stimuli are characteristics of a range of disorders such as tennis elbow, whiplash and fibromyalgia. This study evaluated the presence of local and widespread mechanical and thermal hyperalgesia in individuals with knee osteoarthritis, compared to healthy control subjects. Twenty-three subjects with knee osteoarthritis and 23 healthy controls, matched for age, gender and body mass index, were recruited for the study. Volunteers with any additional chronic pain conditions were excluded. Pain thresholds to pressure, cold and heat were tested at the knee, ipsilateral heel and ipsilateral elbow, in randomized order, using standardised methodology. Significant between-groups differences for pressure pain and cold pain thresholds were found with osteoarthritic subjects demonstrating significantly increased sensitivity to both pressure (p = .018) and cold (p = .003) stimuli, compared with controls. A similar pattern of results extended to the pain-free ipsilateral ankle and elbow indicating widespread pressure and cold hyperalgesia. No significant differences were found between groups for heat pain threshold, although correlations showed that subjects with greater sensitivity to pressure pain were also likely to be more sensitive to both cold pain and heat pain. This study found widespread elevated pain thresholds in subjects with painful knee osteoarthritis, suggesting that altered nociceptive system processing may play a role in ongoing arthritic pain for some patients.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Association between Knee Osteoarthritis, Cardiovascular Risk Factors, and the Framingham Risk Score in South Koreans: A Cross-Sectional Study",
+      "url": "https://doi.org/10.1371/journal.pone.0165325",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0165325",
+      "abstract": "Background: Osteoarthritis is a significant burden on personal health and for social cost, and its prevalence is rising. Recent research has revealed an association between osteoarthritis and cardiovascular disease, and this study uses the Framingham risk score (FRS), which is widely used as a composite index of cardiovascular risk factors, to investigate the association between osteoarthritis and various cardiovascular risk factors. Methods: A total 9,514 participants aged 50 years or older who received knee X-ray diagnosis of the 5th Korean National Health and Nutrition Examination Survey (total surveyees = 24,173) released by the Korean Centers for Disease Control and Prevention was included for analysis. Knee osteoarthritis patients were defined as participants with K-L grade ≥2 on knee X-ray regardless of knee pain. The association between major cardiovascular risk factors (blood pressure, diabetes, cholesterol, and smoking habits), FRS, and knee osteoarthritis was analyzed, adjusting for various covariates. Results: Prevalence of knee osteoarthritis in Koreans aged ≥50 years was 36.6%, and higher in women (men: 24.9%, women: 45.4%). Prevalence of knee osteoarthritis in participants with hypertension was significantly higher than those without hypertension (fully adjusted odds ratio (OR) 1.26; 95% confidence interval (CI) 1.08–1.48). Knee osteoarthritis prevalence was also higher in participants with impaired fasting glucose or diabetes than those without (age, sex adjusted OR 1.19; 95% CI 1.00–1.41). Also, OR values increased statistically significantly with FRS as a continuous variable (fully adjusted OR 1.007; 95% CI 1.00–1.01). Conclusions: Prevalence of knee osteoarthritis was associated with hypertension and diabetes, which are major cardiovascular risk factors, and the FRS. Further studies on FRS pertaining to its relationship with osteoarthritis are warranted.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Balance and Risk of Fall in Individuals with Bilateral Mild and Moderate Knee Osteoarthritis",
+      "url": "https://doi.org/10.1371/journal.pone.0092270",
+      "publisher": "PLoS ONE",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0092270",
+      "abstract": "Balance is essential for mobility and performing activities of daily living. People with knee osteoarthritis display impairment in knee joint proprioception. Thus, the aim of this study was to evaluate balance and risk of fall in individuals with bilateral mild and moderate knee osteoarthritis. Sixty subjects aged between 50 and 70 years volunteered in this study. They were categorized into three groups which were healthy (n = 20), mild (n = 20) and moderate (n = 20) bilateral knee osteoarthritis groups. Dynamic and static balance and risk of fall were assessed using Biodex Stability System. In addition, Timed Up and Go test was used as a clinical test for balance. Results of this study illustrated that there were significant differences in balance (dynamic and static) and risk of fall between three groups. In addition, the main (most significant) difference was found to be between healthy group and moderate group. Furthermore, on clinical scoring of balance, the “Timed Up and Go” test, all three groups showed significant difference. In conclusion, bilateral knee osteoarthritis impaired the balance and increased the risk of fall, particularly in people with moderate knee osteoarthritis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.16,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The Complexity of Human Walking: A Knee Osteoarthritis Study",
+      "url": "https://doi.org/10.1371/journal.pone.0107325",
+      "publisher": "PLoS ONE",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0107325",
+      "abstract": "This study proposes a framework for deconstructing complex walking patterns to create a simple principal component space before checking whether the projection to this space is suitable for identifying changes from the normality. We focus on knee osteoarthritis, the most common knee joint disease and the second leading cause of disability. Knee osteoarthritis affects over 250 million people worldwide. The motivation for projecting the highly dimensional movements to a lower dimensional and simpler space is our belief that motor behaviour can be understood by identifying a simplicity via projection to a low principal component space, which may reflect upon the underlying mechanism. To study this, we recruited 180 subjects, 47 of which reported that they had knee osteoarthritis. They were asked to walk several times along a walkway equipped with two force plates that capture their ground reaction forces along 3 axes, namely vertical, anterior-posterior, and medio-lateral, at 1000 Hz. Data when the subject does not clearly strike the force plate were excluded, leaving 1–3 gait cycles per subject. To examine the complexity of human walking, we applied dimensionality reduction via Probabilistic Principal Component Analysis. The first principal component explains 34% of the variance in the data, whereas over 80% of the variance is explained by 8 principal components or more. This proves the complexity of the underlying structure of the ground reaction forces. To examine if our musculoskeletal system generates movements that are distinguishable between normal and pathological subjects in a low dimensional principal component space, we applied a Bayes classifier. For the tested cross-validated, subject-independent experimental protocol, the classification accuracy equals 82.62%. Also, a novel complexity measure is proposed, which can be used as an objective index to facilitate clinical decision making. This measure proves that knee osteoarthritis subjects exhibit more variability in the two-dimensional principal component space.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.16,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The discordance between clinical and radiographic knee osteoarthritis: a systematic search and summary of the literature",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2542996/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2008",
+      "doi": "10.1186/1471-2474-9-116",
+      "abstract": "Background Studies have suggested that the symptoms of knee osteoarthritis (OA) are rather weakly associated with radiographic findings and vice versa. Our objectives were to identify estimates of the prevalence of radiographic knee OA in adults with knee pain and of knee pain in adults with radiographic knee OA, and determine if the definitions of x ray osteoarthritis and symptoms, and variation in demographic factors influence these estimates. Methods A systematic literature search identifying population studies which combined x rays, diagnosis, clinical signs and symptoms in knee OA. Estimates of the prevalence of radiographic OA in people with knee pain were determined and vice versa. In addition the effects of influencing factors were scrutinised. Results The proportion of those with knee pain found to have radiographic osteoarthritis ranged from 15-76%, and in those with radiographic knee OA the proportion with pain ranged from 15% - 81%. Considerable variation occurred with x ray view, pain definition, OA grading and demographic factors Conclusion Knee pain is an imprecise marker of radiographic knee osteoarthritis but this depends on the extent of radiographic views used. Radiographic knee osteoarthritis is likewise an imprecise guide to the likelihood that knee pain or disability will be present. Both associations are affected by the definition of pain used and the nature of the study group. The results of knee x rays should not be used in isolation when assessing individual patients with knee pain.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Improving Muscle Function Through a Multimodal Behavioural Intervention for Knee Osteoarthritis and Obesity: The POMELO Trial",
+      "url": "https://doi.org/10.1002/jcsm.70025",
+      "publisher": "Journal of Cachexia, Sarcopenia and Muscle",
+      "year": "2025",
+      "doi": "10.1002/jcsm.70025",
+      "abstract": "ABSTRACT Background Treatments aimed at improving physical function and body composition, including reducing fat mass (FM) and increasing muscle mass, may benefit individuals with advanced knee osteoarthritis (OA) and obesity. We investigated the feasibility and efficacy of a multimodal behavioural intervention compared to usual care to enhance physical function and muscle mass in this population. Methods The POMELO (Prevention Of MusclE Loss in Osteoarthritis) study is a two‐arm pilot randomized controlled trial; NCT05026385. Participants aged 40–75 years, with a BMI ≥ 35 kg/m2 and knee OA were randomized 1:1 to either the intervention group (POMELO) or usual care (UC). The 3‐month POMELO intervention incorporated progressive resistance exercise (3 sessions/week), individualized nutrition counselling targeted for OA, and 12 group education sessions on nutrition and arthritis self‐management. The UC group received standard clinical care. After the 3‐month supervised intervention, both groups were followed for 6 months without support. Assessments at baseline, 3 months and 9 months (primary endpoint) included body composition (DXA, measuring FM and appendicular lean soft tissue [ALST]), physical function (chair‐sit‐to‐stands [CSTS], 6‐min walk [6MWT], maximal handgrip strength [HGS]), and health‐related quality of life (Euroqol visual analog scale [EQ‐5D VAS]). Co‐primary outcomes were feasibility (intervention completion ≥ 80% and per‐protocol adherence ≥ 60% [i.e., attendance at 12 education sessions and exercise 3 ×/week]) and acceptability (4‐item Likert‐scale satisfaction survey, and open‐ended questions). Secondary outcomes included changes in physical function and ALST. Results Fifty participants were randomized (POMELO = 25, UC = 25), with 32 completing the study (69% female, mean age 64.9 ± 1.2 years, BMI 42.1 ± 1.0 kg/m2). The POMELO intervention group had 80% completion and 74% adherence, confirming feasibility. Higher satisfaction rates were observed in POMELO compared to UC (3.5 vs. 2.2, p < 0.001) indicating greater acceptability. The POMELO group had improvements in CSTS (mean difference [MD] 3.96, ES 1.2, p < 0.001), 6MWT (MD 31.6 m, ES 0.4, p = 0.039) and EQ‐5D VAS (MD 7.9 points, ES = 0.4, p = 0.01) compared to UC. Both groups experienced FM loss, but only the UC group lost ALST and HGS. Conclusion The POMELO intervention, combining personalized nutrition, resistance exercise and self‐management support, was feasible, acceptable and showed greater efficacy than usual care to improve physical function in patients with knee OA and obesity. Our pilot study of this intervention showed potential benefits on body composition and quality of life without focusing on weight reduction. A larger study is needed to confirm these results, as this approach may offer advantages over usual care, potentially leading to better mobility and health outcomes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Research Protocol: Comparison of Ultrasound Therapy with Zingiber Cassumunar Roxb based Phonophoresis and Conventional Gel in Patients with Knee Osteoarthritis-Randomized Control Trial",
+      "url": "https://hal.science/hal-05280891v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Background: Knee Osteoarthritis is considered as the leading cause of the disability in almost all over the world after age of 40. Almost about 54 percent people will end up in knee osteoarthritis in old age. Awareness of non-pharmacological treatment for knee osteoarthritis is more in practice in European as well as in Asian countries. Physical therapy, Ultrasound therapy, Otago exercises etc. are the treatments that are available for conservative management as well as preventive measure of knee Osteoarthritis. Methodology: Subjects with knee osteoarthritis with grade II to III on Kallgren and Lawrence classification will be included in the study N = 52. Two groups each of 26 will be allocated randomly as group A who will receive ultrasound treatment with Otago exercises control group and group B who will receive ultrasound treatment with zingiber Cassumunar based gel and Otago exercises as experimental group. The Western Ontario and McMaster University Osteoarthritis Index (WOMAC), VAS, star excursion balance test will be performed before and after the treatment after 2 weeks with single blind procedure. Objective: This research will examine the effect of treatment with Zingiber Cassumunar based gel applied by means of phonophoresis with ultrasound therapy in knee osteoarthritis patients with Randomized control trial.",
+      "licence": "",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.84,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Intra-Articular Injection of Autologous Adipose Tissue-Derived Mesenchymal Stem Cells for the Treatment of Knee Osteoarthritis: A Phase IIb, Randomized, Placebo-Controlled Clinical Trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6525553/",
+      "publisher": "Stem cells translational medicine",
+      "year": "2019",
+      "doi": "10.1002/sctm.18-0122",
+      "abstract": "Mesenchymal stem cells (MSCs) have been the focus of an emerging treatment for osteoarthritis. However, few studies reported about outcomes of an intra-articular injection of autologous adipose-derived mesenchymal stem cells (AD-MSCs). This study aimed to assess the efficacy and safety of a single intra-articular injection of AD-MSCs for patients with knee osteoarthritis. It was a prospective double-blinded, randomized controlled, phase IIb clinical trial. AD-MSCs were administered for 12 patients (MSC group), and the group was compared with 12 knees with injection of normal saline (control group) up to 6 months. All procedures were performed in the outpatient clinic. Primary outcome measure was the Western Ontario and McMaster Universities Osteoarthritis index (WOMAC) score. Secondary outcome measure included various clinical and radiologic examination, and safety after injection. Change of cartilage defect after injection was evaluated using magnetic resonance imaging (MRI). Single injection of AD-MSCs led to a significant improvement of the WOMAC score at 6 months. In the control group, there was no significant change in the WOMAC score at 6 months. No serious adverse events were observed in both groups during the follow-up period. In MRI, there was no significant change of cartilage defect at 6 months in MSC group whereas the defect in the control group was increased. An intra-articular injection of autologous AD-MSCs provided satisfactory functional improvement and pain relief for patients with knee osteoarthritis in the outpatient setting, without causing adverse events at 6 months' follow-up. Larger sample size and long-term follow-up are required. Stem Cells Translational Medicine 2019;8:504-511.",
+      "licence": "cc by-nc-nd",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.76,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effectiveness of a Self-Management Programme in Improving Clinical Outcomes Among Older Adults with Knee Osteoarthritis",
+      "url": "http://jmums.mazums.ac.ir/article-1-23079-en.pdf",
+      "publisher": "Journal of Mazandaran University of Medical Sciences",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Abstract Background and purpose: Knee osteoarthritis (KOA) is the most common chronic joint disease and a leading cause of disability among older adults. This study aimed to investigate the effect of a self-management education programme on pain, joint stiffness, and physical function in patients with KOA referred to the orthopaedic clinic of Ganjavian Hospital in Dezful. Materials and methods: This quasi-experimental study was conducted in accordance with the TREND statement. Of 200 elderly patients with KOA, 70 eligible participants were selected by convenience sampling and allocated to the intervention and control groups (n = 35 each) using a quasi-randomised (even–odd) method. The sample size was calculated based on a comparison of two means (α = 0.05, 80% power, effect size ≈ 0.7, and 10% dropout). Data were collected using the WOMAC questionnaire. The intervention group received an educational programme covering pain-reduction techniques, dietary modifications, physical exercise, and pharmacological treatment, while the control group received routine pharmacological treatment only. Assessments were performed at baseline and 45 days after the intervention. Data were analysed using SPSS version 18, with paired t-tests, the Wilcoxon test, the Mann–Whitney test, independent-samples t-tests, and analysis of covariance (ANCOVA) at a significance level of 0.05. Results: At baseline, there were no significant differences between the groups. After the intervention, the intervention group showed significant reductions in pain (P< 0.001) and joint stiffness (P= 0.005) and a significant improvement in physical function (P< 0.001), while no significant changes were observed in the control group. The difference in mean total WOMAC scores between the groups was significant (P< 0.001). After adjusting for baseline values using ANCOVA, the intervention effect remained significant across all WOMAC dimensions. Conclusion: A self-management educational programme may reduce pain and joint stiffness and improve physical function in patients with KOA. Such programmes may be used as an adjunct to pharmacological treatment; however, randomized studies with longer follow-up are needed to validate these findings.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Senotherapeutics for Knee Osteoarthritis",
+      "url": "https://doi.org/10.1002/med.70082",
+      "publisher": "Wiley",
+      "year": "2026",
+      "doi": "10.1002/med.70082",
+      "abstract": "ABSTRACT Osteoarthritis (OA) is a chronic disease that imposes a significant economic burden and deteriorates quality of life. Nevertheless, current therapeutic options for OA are limited to symptomatic remedies. As such, there is a high interest in novel methods for treating or preventing OA. One of the most promising medication modalities is through the clearance of cells that are cell cycle arrested but resistant to apoptosis, termed senescent cells. Additionally, these cells are also resistant to alternative programmed cell death modes, such as ferroptosis and pyroptosis. Senescent cells tend to accumulate with age due to increasing cellular and genetic damage. These cells can release inflammatory factors and signaling molecules termed senescence‐associated secretory phenotype (SASP). In addition to triggering an inflammatory milieu in joints, SASP can also induce senescence in other cells through autocrine signaling. It has been shown via in vitro and in vivo tests that clearance of senescent cells through a class of drugs known as senolytics, or neutralization of SASP with senomorphics, can improve OA pathogenesis. Following these results, several clinical trials have been conducted to evaluate the efficacy of senotherapeutics against knee OA. Yet there remains a need for a comprehensive assessment of safety and optimization of senotherapeutic treatment regimens for knee OA. To this end, a better understanding of molecular mechanisms behind chondrocyte senescence and knee OA pathogenesis is necessary. Identification of novel compounds that can specifically target chondrocyte senescence pathways can assist in developing more effective therapies against OA.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Efficacy of Intra-Articular Steroid Injections in Patients with Degenerative Knee Osteoarthritis in Dongola Specialist Hospital, Sudan (2024–2025)",
+      "url": "https://hal.science/hal-05773010v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Background: Knee osteoarthritis is a degenerative joint disorder associated with pain, stiffness, impaired mobility, and functional limitation. Intra-articular corticosteroid injections are used to provide symptomatic relief, but the duration of benefit may be limited. Objective: To evaluate the efficacy of intra-articular steroid injections in patients with degenerative knee osteoarthritis treated at Dongola Specialist Hospital, Sudan, during 2024–2025. Methods: This observational, prospective, hospital-based study included 60 patients with degenerative knee osteoarthritis. Data were collected using a structured questionnaire, and pain and function were assessed with the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC). Outcomes were assessed before injection and at 3 weeks, 6 weeks, and 3 months after injection. Results: Half of the participants were aged 60–80 years; 58% were female and 42% were male. Forty per cent had been diagnosed with osteoarthritis for 5–10 years. The mean total WOMAC score decreased from 89 before injection to 57 at 3 weeks, then increased to 71 at 6 weeks and 83 at 3 months, indicating an early improvement followed by progressive loss of benefit. Post-injection pain flare occurred in 5 patients (8.3%), and mild local swelling occurred in 3 patients (5%). At 3 months, females had higher WOMAC scores than males (86.48 vs 81.04; p = 0.021), while age and disease duration were not significantly associated with WOMAC outcomes. Conclusion: Intra-articular corticosteroid injections were associated with short-term symptomatic improvement in knee osteoarthritis, with benefit diminishing by 3 months.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Cyriax's Transverse Friction Massage Techniques in Knee Injuries",
+      "url": "https://zenodo.org/records/16761176",
+      "publisher": "Zenodo",
+      "year": "2025",
+      "doi": "10.5281/zenodo.16761176",
+      "abstract": "Transverse friction massage (TFM) is a physiotherapeutic method presented by James Henry Cyriax that is commonly applied as a manual technique for treating soft tissue lesions through mechanical stimulation. This method can potentially enhance functional rehabilitation and reduce pain in acute and chronic situations by facilitating tissue mobility, improving vascular supply, and reducing localized adhesions. TFM can improve fibroblast orientation, reduce scar tissue adhesion formation, and modulate pain perception. Although it is widely used in treating injuries involving the patellar tendon, empirical evidence that supports its therapeutic effectiveness in knee-related disorders is not strong. This study aims to develop a stronger anatomical and clinical basis for using TFM techniques to treat common knee injuries. This research systematically outlines applications of TFM directed at anatomical structures most often involved in knee pathologies. These methods are subdivided according to the anatomical regions targeted, which include the superior and inferior aspects of the patella, the medial and lateral retinacula, the patellar and collateral ligaments, the meniscotibial attachments, the pes anserinus, the iliotibial band, the quadriceps muscle belly, and the musculotendinous junctions of the biceps femoris and popliteus muscles. Each method is described in detail concerning positioning, palpation technique, and the direction of applied friction, with clinical indications that include tendinopathies, chronic ligament sprains, and overuse syndromes documented. A critical review of available literature confirms the rationale for treating a range of knee conditions with TFM. Clinical studies outline its potential benefit in treating iliotibial band syndrome, patellar tendinopathy, knee osteoarthritis symptoms, and meniscotibial ligament injury. In the face of a lack of robust randomized controlled trials, existing evidence supports including TFM as one component of a multi-featured rehabilitation program. In summary, TFM, performed with anatomical precision and clinical reason, is a valuable method for relieving numerous soft tissue dysfunctions of the knee. The current study contributes to clinical decision-making by providing a systematic approach for applying TFM to the knee, based on anatomical specificity and relevant clinical literature.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Global, regional, and national burden of osteoarthritis, 1990-2020 and projections to 2050: a systematic analysis for the Global Burden of Disease Study 2021",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10477960/",
+      "publisher": "The Lancet. Rheumatology",
+      "year": "2023",
+      "doi": "10.1016/s2665-9913(23)00163-7",
+      "abstract": "Background Osteoarthritis is the most common form of arthritis in adults, characterised by chronic pain and loss of mobility. Osteoarthritis most frequently occurs after age 40 years and prevalence increases steeply with age. WHO has designated 2021-30 the decade of healthy ageing, which highlights the need to address diseases such as osteoarthritis, which strongly affect functional ability and quality of life. Osteoarthritis can coexist with, and negatively effect, other chronic conditions. Here we estimate the burden of hand, hip, knee, and other sites of osteoarthritis across geographies, age, sex, and time, with forecasts of prevalence to 2050. Methods In this systematic analysis for the Global Burden of Disease Study, osteoarthritis prevalence in 204 countries and territories from 1990 to 2020 was estimated using data from population-based surveys from 26 countries for knee osteoarthritis, 23 countries for hip osteoarthritis, 42 countries for hand osteoarthritis, and US insurance claims for all of the osteoarthritis sites, including the other types of osteoarthritis category. The reference case definition was symptomatic, radiographically confirmed osteoarthritis. Studies using alternative definitions from the reference case definition (for example self-reported osteoarthritis) were adjusted to reference using regression models. Osteoarthritis severity distribution was obtained from a pooled meta-analysis of sources using the Western Ontario and McMaster Universities Arthritis Index. Final prevalence estimates were multiplied by disability weights to calculate years lived with disability (YLDs). Prevalence was forecast to 2050 using a mixed-effects model. Findings Globally, 595 million (95% uncertainty interval 535-656) people had osteoarthritis in 2020, equal to 7·6% (95% UI 6·8-8·4) of the global population, and an increase of 132·2% (130·3-134·1) in total cases since 1990. Compared with 2020, cases of osteoarthritis are projected to increase 74·9% (59·4-89·9) for knee, 48·6% (35·9-67·1) for hand, 78·6% (57·7-105·3) for hip, and 95·1% (68·1-135·0) for other types of osteoarthritis by 2050. The global age-standardised rate of YLDs for total osteoarthritis was 255·0 YLDs (119·7-557·2) per 100 000 in 2020, a 9·5% (8·6-10·1) increase from 1990 (233·0 YLDs per 100 000, 109·3-510·8). For adults aged 70 years and older, osteoarthritis was the seventh ranked cause of YLDs. Age-standardised prevalence in 2020 was more than 5·5% in all world regions, ranging from 5677·4 (5029·8-6318·1) per 100 000 in southeast Asia to 8632·7 (7852·0-9469·1) per 100 000 in high-income Asia Pacific. Knee was the most common site for osteoarthritis. High BMI contributed to 20·4% (95% UI -1·7 to 36·6) of osteoarthritis. Potentially modifiable risk factors for osteoarthritis such as recreational injury prevention and occupational hazards have not yet been explored in GBD modelling. Interpretation Age-standardised YLDs attributable to osteoarthritis are continuing to rise and will lead to substantial increases in case numbers because of population growth and ageing, and because there is no effective cure for osteoarthritis. The demand on health systems for care of patients with osteoarthritis, including joint replacements, which are highly effective for late stage osteoarthritis in hips and knees, will rise in all regions, but might be out of reach and lead to further health inequity for individuals and countries unable to afford them. Much more can and should be done to prevent people getting to that late stage. Funding Bill & Melinda Gates Foundation, Institute of Bone and Joint Research, and Global Alliance for Musculoskeletal Health.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Identification of serum micro-RNAs of early knee osteoarthritis in a cohort of Egyptian patients",
+      "url": "https://www.tandfonline.com/doi/10.1080/20905068.2022.2140987",
+      "publisher": "Alexandria Journal of Medicine",
+      "year": "2023",
+      "doi": "10.1080/20905068.2022.2140987",
+      "abstract": "ABSTRACTBackground Osteoarthritis (OA), is a prevalent low-grade inflammatory synovial joint disease characterized by progressive cartilage degradation and alteration of the entire joint. Knee OA (KOA) is the commonest form of OA. Osteoarthritis is the 4th leading cause of disability worldwide with no cure and therefore identifying persons with early OA of the knee (KOA), is important to retard progression of the disease process. Several proinflammatory cytokines and microRNAs (miRNAs) are involved in OA pathogenesis.Objective The aim of the work was to investigate the serum miRNA-136 (miR-136) and miR-155-5p expression profile, IL-8 and IL-17 levels in subjects with early KOA and to further evaluate and compare the expression profile of these miRNAs, and level of serum IL-8 and IL-17 in subjects with early and severe KOA.Methods Serum miR-136 and miR-155-5p expression profile in 40 patients with early KOA were compared to 40 age and sex matched healthy controls and 10 patients with severe KOA. Clinical, laboratory, and disease parameters were assessed. Serum and synovial fluid miRNAs were assessed by real-time polymerase chain reaction. Levels of IL-17 and IL-8 levels were determined by the enzyme linked immunosorbent assay test.Results miR-155-5p in serum was significantly higher in early KOA patients compared to healthy controls and to patients with severe OA. Synovial miRNA-155-5p expression levels were significantly higher than serum miRNA-155-5p in severe KOA patients compared to early OA patients. When we compared the expression levels of miRNA-136 between cases and healthy controls, there was no statistical significant difference, p=0.413. Serum IL-8 levels were significantly higher in early OA patients compared to healthy controls.Conclusions Serum miR-155-5p and IL-8 levels are potential useful biomarkers for the early detection of OA and in particular, early KOA.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Efficacy of Combination of PRP and Stem Cell Application on Ultrasound and MRI Findings in Patients with Knee Osteoarthritis",
+      "url": "https://hal.science/hal-05215736v1",
+      "publisher": "HAL open archive",
+      "year": "2023",
+      "doi": "",
+      "abstract": "This chapter's objective is to assess the effects of platelet-rich plasma therapy combined with mesenchymal stem cells derived from autologous adipose tissue on ultrasonography and magnetic resonance imaging for the treatment of knee osteoarthritis. Knee osteoarthritis is the second leading cause of disability in the elderly after cardiovascular disease. Osteoarthritis of the knee most affects mobility. Severe knee osteoarthritis is the cause of disability for many patients, increasing the medical costs of the family and society. 30 patients, 26 females, 4 males, mean age 58.63 ± 11.11, mean disease duration 5.3 ± 4.6 years, respectively 60 knee joints were diagnosed with osteoarthritis at stage II - III according to the Kellgren and Lawrence classifications. After ultrasound and magnetic resonance imaging in the first time, all patients were injected with platelet-rich plasma combined with mesenchymal stem cells from autologous adipose tissue into both knee joints. After treatment 12 months by platelet-rich plasma injection combined with mesenchymal stem cells from autologous adipose tissue: The thickness of articular cartilage on ultrasound increased significantly from 2.08±0.36mm to 2 ,48±0.36 mm with p<0.05. There were 52 joints with increased cartilage thickness, equivalent to 86.67%. The surface of articular cartilage on magnetic resonance in all positions of the knee joint has improved, the difference was statistically significant. Particularly, the patellar joint improved from 1.56 ± 0.25 mm to 1.64 ± 0.21 mm with p < 0.05. Mesenchymal stem cells from autologous adipose tissue were successfully used in the treatment of knee osteoarthritis to increase cartilage thickness on ultrasound and magnetic resonance, consequently enhancing the knee joint's motor function.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Evaluation of Clinical and Magnetic Resonance in the Treatment of Knee Osteoarthritis Using Platelets and Stem Cells",
+      "url": "https://hal.science/hal-05215746v1",
+      "publisher": "HAL open archive",
+      "year": "2023",
+      "doi": "",
+      "abstract": "The goal of this chapter is to assess the effectiveness of platelet-rich plasma therapy in conjunction with mesenchymal stem cells derived from autologous adipose tissue for the treatment of knee osteoarthritis based on clinical symptom and magnetic resonance imaging data. Osteoarthritis of the knee is a degenerative disease which can be classified into primary and secondary knee osteoarthritis. Primary knee osteoarthritis is a disease of unknown cause which is mainly related to the aging process. Secondary knee osteoarthritis with identifiable etiology includes endocrine disorders, anatomical abnormalities, post-traumatic arthritis, and septic arthritis. 30 patients including 26 females and 4 males; correspondingly, 60 knee joints were diagnosed with osteoarthritis with stages II - III of Kellgren and Lawrence, their mean age (year) were 58,63 ± 11.11. All were injected with autologous platelet-rich plasma that was extracted by PRP set, APC 30 PRP PRCEDURE PRAK and autologously extracted mesenchymal stem cells from abdominal adipose tissue using the ADI-25-01 ADIPOSEPRCEDURE PRAK of USA. After 12 months, the pain level according to VAS score at the right knee joint was decreased from 6.0 ± 1.28 before treatment to 1.9 ± 0.3; VAS score at the left knee joint was decreased from 6.43±1.19 to 2.25±0.43. Total Lequene score at right knee joint was decreased from 16.04±1.57 before treatment to 4.31±1.04, at left knee joint was decreased from 17.52±1.74 before treatment to 5.15. ±1.48. Total WOMAC score at right knee joint was decreased from 55.93±5.56 to 10.37±1.56; at left knee joint was decreased from 53.97±5.57 to 10.07±1.59. There were 86.77% joints with cartilage thickness change and the patellar cartilage thickness was increased from 1.56 ± 0.09 mm before treatment to 1.65 ± 0.09 mm. Combining platelet-rich plasma therapy with mesenchymal stem cells derived from the patient's own adipose tissue to treat knee osteoarthritis is beneficial in lowering pain, enhancing patient mobility and walking ability, and changing the thickness of the articular cartilage on magnetic resonance imaging.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "[Functionality/isokinetic work of quadriceps in patients with gonarthrosis managed with prolotherapy]",
+      "url": "https://zenodo.org/records/10064325",
+      "publisher": "Revista Médica el Instituto Mexicano del Seguro Social",
+      "year": "2023",
+      "doi": "10.5281/zenodo.10064325",
+      "abstract": "Abstract Background: Prolotherapy may be a good option in the complementary treatment of knee osteoarthritis (OA) patients, specifically for the increase of functionality. Objective: To determine the effectiveness of prolotherapy in OA grade II - III in the functionality and muscular work of knee flexors and extensors. Material and methods: a double-blind randomized controlled clinical trial was conducted. It included patients diagnosed with OA grades II-III. The experimental group was infiltrated in both knees with 6 ml of 25% glucose solution and 0.05% lidocaine; control group with 0.45% saline solution and 0.05% lidocaine. All patients received a comprehensive rehabilitation program. The isokinetic work of the knee flexor and extensor muscles, pain and functionality were measured, prior to infiltration and at 3-month follow-up. To compare the difference in means, the Student's T test was applied, considering P<0.05 as significant. The project was approved by the local ethics and research committee. Results: 37 patients were recruited, 17 in the prolotherapy group. There were no intergroup differences in functionality, isokinetic knee flexor/extensor work, and pain at baseline, or during follow-up up to 12 weeks. Conclusions: In the present study we identify that both prolotherapy and saline infiltration increased functionality, strength, and decreased pain; however, no statistically significant difference was found between the two group.",
+      "licence": "cc-by-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Proximal Fibular Osteotomy in Treatment of Medial Unicompartmental Knee Osteoarthritis in Elderly Patients",
+      "url": "https://hal.science/hal-05183542v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2022",
+      "doi": "",
+      "abstract": "Background: Osteoarthritis (OA) involves mainly the medial tibiofemoral joint of the knee as the stresses of weight bearing mainly involve the medial condyle of the tibia: thus, this is the primary site for knee OA. The work aimed to evaluating the results of proximal fibular osteotomy alone or conducted with arthroscopic lavage and debridement for treatment of medial unicompartmental knee osteoarthritis in elderly patients. Methods: This study was carried out on 37 cases with knee pain with medial compartment knee osteoarthritis with varying degrees of genu varum. Patients grouped randomly into two matched groups regarding age, sex, BMI and degree of osteoarthritis. Group 1 (n=18) had undergone proximal fibular osteotomy alone and group 2 (n=19) had undergone proximal fibular osteotomy conducted with arthroscopic debridement and lavage. Results: The mean VAS and mean knee sub scores improved in group (A) and (B) postoperatively than preoperatively (p-value <0.0001). Comparing the two groups according to mean (VAS) and mean knee sub scores, it was found that p-value was <0.001 which was statistically significant. The mean ratio of knee joint space it was found that p-value was <0.001 which was statistically significant. Conclusions: PFO is a convenient surgical option in most developing countries like Egypt with low medical and financial resources. PFO may delay or even negate the need for total knee arthroplasty. PFO may be A viable alternative procedure for medial compartment knee osteoarthritis, especially for patients who cannot undergo TKA because of certain medical co morbidities. Care must be taken to avoid common peroneal nerve injuries. Knee arthroscopic lavage helps in decreasing knee pain and knee improving joint function by washing of crystals and debris that may induce inflammation and pain.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effect of Oculus Guided Physical Therapy in Adjunct to Conventional Therapy in Knee Osteoarthritis Patients-A Research Protocol",
+      "url": "https://hal.science/hal-05284024v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Background: Osteoarthritis is the most prevalent disorder affecting the quality of life of older people. Eventually, the protecting tissue at the ends of bones degrades. One of the commonest type is osteoarthritis of knee. Knee osteoarthritis is linked to three main symptoms: knee pain, swelling, and decreased quadriceps mobility. Knee osteoarthritis can be treated with various physical therapy interventions, physiotherapy shows effective results. Visual reality can be used for the physical rehabilitation. In this study an attempt is been made to use the oculus quest for rehabilitation of knee osteoarthritis patients in adjunct to the conventional treatment. Objectives: To demonstrate the effect of a conventional treatment regimen on lower limb function in patients with knee osteoarthritis. To demonstrate the influence of virtual reality-based games on lower limb function in individuals with knee osteoarthritis. In patients with knee osteoarthritis, the effect of virtual reality physical therapy in addition to traditional therapy was compared to the effect of simply conventional therapy. Methods: The aim of this study is to look at the effects of VR-based exercise as an adjunct to conventional therapy. To that aim, a pre and post experimental design will be used, with a control group receiving just conventional therapy (strengthening, ultrasound, Maitland mobilization) and an experimental group receiving conventional treatment as well as the VR-based exercise. Data collected will be examined using the SPSS variant. Conclusion: Conclusion will be drawn based on the effect of virtual reality based exercises and conventional exercises. Which will help the therapist as well as patient in better treatment approach towards knee osteoarthritis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "90-Day all-cause mortality can be predicted following a total knee replacement: an international, network study to develop and validate a prediction model",
+      "url": "https://zenodo.org/records/5806434",
+      "publisher": "Knee Surgery, Sports Traumatology, Arthroscopy",
+      "year": "2021",
+      "doi": "10.1007/s00167-021-06799-y",
+      "abstract": "Abstract Purpose The purpose of this study was to develop and validate a prediction model for 90-day mortality following a total knee replacement (TKR). TKR is a safe and cost-efective surgical procedure for treating severe knee osteoarthritis (OA). Although complications following surgery are rare, prediction tools could help identify high-risk patients who could be targeted with preventative interventions. The aim was to develop and validate a simple model to help inform treatment choices. Methods A mortality prediction model for knee OA patients following TKR was developed and externally validated using a US claims database and a UK general practice database. The target population consisted of patients undergoing a primary TKR for knee OA, aged≥40 years and registered for≥1 year before surgery. LASSO logistic regression models were developed for post-operative (90-day) mortality. A second mortality model was developed with a reduced feature set to increase interpretability and usability. Results A total of 193,615 patients were included, with 40,950 in The Health Improvement Network (THIN) database and 152,665 in Optum. The full model predicting 90-day mortality yielded AUROC of 0.78 when trained in OPTUM and 0.70 when externally validated on THIN. The 12 variable model achieved internal AUROC of 0.77 and external AUROC of 0.71 in THIN. Conclusions A simple prediction model based on sex, age, and 10 comorbidities that can identify patients at high risk of short-term mortality following TKR was developed that demonstrated good, robust performance. The 12-feature mortality model is easily implemented and the performance suggests it could be used to inform evidence based shared decision-making prior to surgery and targeting prophylaxis for those at high risk.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Global, regional prevalence, incidence and risk factors of knee osteoarthritis in population-based studies",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7704420/",
+      "publisher": "EClinicalMedicine",
+      "year": "2020",
+      "doi": "10.1016/j.eclinm.2020.100587",
+      "abstract": "Background Knee osteoarthritis (OA) is a major cause of disability in the elderly, however, there are few studies to estimate the global prevalence, incidence, and risk factors of knee OA. Methods For this study, we searched PUBMED, EMBASE and SCOPUS from inception to April 4, 2020, without language restriction. We identified eligible studies with information on the prevalence or incidence of knee OA in population-based observational studies and extracted data from published reports. We did random-effects meta-analysis to generate estimates. This study was registered with PROSPERO (CRD42020181035). Findings Out of 9570 records identified, 88 studies with 10,081,952 participants were eligible for this study. The pooled global prevalence of knee OA was 16⋅0% (95% CI, 14⋅3%-17⋅8%) in individuals aged 15 and over and was 22⋅9% (95% CI, 19⋅8%-26⋅1%) in individuals aged 40 and over. Correspondingly, there are around 654⋅1 (95% CI, 565⋅6-745⋅6) million individuals (40 years and older) with knee OA in 2020 worldwide. The pooled global incidence of knee OA was 203 per 10,000 person-years (95% CI, 106-331) in individuals aged 20 and over. Correspondingly, there are around annual 86⋅7 (95% CI, 45⋅3-141⋅3) million individuals (20 years and older) with incident knee OA in 2020 worldwide. The prevalence and incidence varied substantially between individual countries and increased with age. The ratios of prevalence and incidence in females and males were 1⋅69 (95% CI, 1⋅59-1⋅80, p p Interpretation Our study provides the global prevalence (16⋅0% [95% CI, 14⋅3%-17⋅8%]) and incidence (203 per 10,000 person-years [95% CI, 106-331]) of knee OA. These findings can be used to better assess the global health burden of knee OA. Further prospective cohort studies are warranted to identify modifiable risk factors for providing effectively preventive strategies in the early stages of the disease. Funding This work was supported by grants from the National Natural Science Foundation of China (nos. 81772384 and 81572174).",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Association between metformin use and disease progression in obese people with knee osteoarthritis: data from the Osteoarthritis Initiative—a prospective cohort study",
+      "url": "http://link.springer.com/article/10.1186/s13075-019-1915-x",
+      "publisher": "Arthritis Research & Therapy",
+      "year": "2019",
+      "doi": "10.1186/s13075-019-1915-x",
+      "abstract": "Abstract Objective To examine whether metformin use was associated with knee cartilage volume loss over 4 years and risk of total knee replacement over 6 years in obese individuals with knee osteoarthritis. Methods This study analysed the Osteoarthritis Initiative participants with radiographic knee osteoarthritis (Kellgren-Lawrence grade ≥ 2) who were obese (body mass index [BMI] ≥ 30 kg/m2). Participants were classified as metformin users if they self-reported regular metformin use at baseline, 1-year and 2-year follow-up (n = 56). Non-users of metformin were defined as participants who did not report the use of metformin at any visit from baseline to 4-year follow-up (n = 762). Medial and lateral cartilage volume (femoral condyle and tibial plateau) were assessed using magnetic resonance imaging at baseline and 4 years. Total knee replacement over 6 years was assessed. General linear model and binary logistic regression were used for statistical analyses. Results The rate of medial cartilage volume loss was lower in metformin users compared with non-users (0.71% vs. 1.57% per annum), with a difference of − 0.86% per annum (95% CI − 1.58% to − 0.15%, p = 0.02), after adjustment for age, gender, BMI, pain score, Kellgren-Lawrence grade, self-reported diabetes, and weight change over 4 years. Metformin use was associated with a trend towards a significant reduction in risk of total knee replacement over 6 years (odds ratio 0.30, 95% CI 0.07–1.30, p = 0.11), after adjustment for age, gender, BMI, Kellgren-Lawrence grade, pain score, and self-reported diabetes. Conclusions These data suggest that metformin use may have a beneficial effect on long-term knee joint outcomes in those with knee osteoarthritis and obesity. Randomised controlled trials are needed to confirm these findings and determine whether metformin would be a potential disease-modifying drug for knee osteoarthritis with the obese phenotype.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Short-Term Effect of Topical Cetylated Fatty Acid on Early and Advanced Knee Osteoarthritis: A Multi-Center Study",
+      "url": "http://localhost/avestema/index.php/pub/article/view/970",
+      "publisher": "Archives of Rheumatology",
+      "year": "2018",
+      "doi": "10.5606/ArchRheumatol.2018.6711",
+      "abstract": "Objectives: This study aims to investigate if short-term topical treatment with cetylated fatty acid (CFA) cream reduces the detrimental effects of early and advanced knee osteoarthritis (OA). Patients and methods: The study included 113 patients (32 males, 81 females; median age 70.0 years; 95% CI: 69.0 to 71.4 years) with knee OA diagnosed according to American College of Rheumatology classification criteria. Each patient underwent knee X-rays, followed by a CFA topical treatment (two applications per day for one week). Before and after the treatment, patients completed a Western Ontario and McMaster Universities Osteoarthritis Index questionnaire. All knee X-rays were classified according to Kellgren-Lawrence scale. Results: After one week of treatment, decreased Western Ontario and McMaster Universities Osteoarthritis Index overall scores and sub-scale scores were observed in the whole cohort (p",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Clinical and Radiographic Features of Knee Osteoarthritis of Elderly Patients",
+      "url": "https://hal.science/hal-05389822v1",
+      "publisher": "British Journal of Medicine and Medical Research",
+      "year": "2017",
+      "doi": "",
+      "abstract": "Background: Knee osteoarthritis is a common pathology, characterized by a prevalence that increases with age. Absence of correlation between anatomy and the clinical features makes medical care complex, particularly in a geriatric setting where study is wanting. Methods: Cross-sectional study including patients who were monitored for 6 months for knee osteoarthritis. A comparaison was made between of those various characteristics between patients of over 65 years of age (group 1; n=56) and those under 65 (group 2; n=56). Results: The age bracket of group1 was 71±5 years with a feminine predominance. Gonalgia had been evolving for 8.4±9.2 years, bilateral in 82.6% and mechanical in 94.6%. The patients experienced an average pain scale of 65.2 mm. An axial deviation of lower limbs was observed in 60.7% and a limited mobility of the knees in 48.2%. The mean value of Lequesne index was 11.02±4.8. The walking distance was not limited in 37.5%. Comparative study showed that elderly patients had a smaller waist size (p=0.003), a longer course of gonalgia (p<0.0001), a widespread site of pain (0.004), and a more frequent limitation of walking distance (p<0.0001) as well as more axial deviation (p<0.0001) and joint mobility limitation (p=0.005). Gonalgia manifesting during rest was more frequent in elderly patients (p=0.001). Impaired functioning (p=0.001) and stage of radiographic damage (p=0.02) were more advanced in elderly patients. Conclusion: This study shows that knee osteoarthritis is more severe in the elderly patients in its various and anatomical aspects as well as its impact on normal functions.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Early knee osteoarthritis",
+      "url": "https://doi.org/10.1136/rmdopen-2015-000062",
+      "publisher": "BMJ",
+      "year": "2015",
+      "doi": "10.1136/rmdopen-2015-000062",
+      "abstract": "Concepts regarding osteoarthritis, the most common joint disease, have dramatically changed in the past decade thanks to the development of new imaging techniques and the widespread use of arthroscopy that permits direct visualisation of intra-articular tissues and structure. MRI and ultrasound allow the early detection of pre-radiographic structural changes not only in the peri-articular bone but also in the cartilage, menisci, synovial membrane, ligaments and fat pad. The significance of MRI findings such as cartilage defects, bone marrow lesions, synovial inflammation/effusions and meniscal tears in patients without radiographic signs of osteoarthritis is not fully understood. Nevertheless, early joint tissue changes are associated with symptoms and, in some cases, with progression of disease. In this short review, we discuss the emerging concept of early osteoarthritis localised to the knee based on recently updated knowledge. We highlight the need for a new definition of early osteoarthritis that will permit the identification of patients at high risk of osteoarthritis progression and to initiate early treatment interventions.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Functional reorganization of the default mode network across chronic pain conditions",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152156/",
+      "publisher": "PloS one",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0106133",
+      "abstract": "Chronic pain is associated with neuronal plasticity. Here we use resting-state functional magnetic resonance imaging to investigate functional changes in patients suffering from chronic back pain (CBP), complex regional pain syndrome (CRPS) and knee osteoarthritis (OA). We isolated five meaningful resting-state networks across the groups, of which only the default mode network (DMN) exhibited deviations from healthy controls. All patient groups showed decreased connectivity of medial prefrontal cortex (MPFC) to the posterior constituents of the DMN, and increased connectivity to the insular cortex in proportion to the intensity of pain. Multiple DMN regions, especially the MPFC, exhibited increased high frequency oscillations, conjoined with decreased phase locking with parietal regions involved in processing attention. Both phase and frequency changes correlated to pain duration in OA and CBP patients. Thus chronic pain seems to reorganize the dynamics of the DMN and as such reflect the maladaptive physiology of different types of chronic pain.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.16,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Prevalence of abnormalities in knees detected by MRI in adults without knee osteoarthritis: population based observational study (Framingham Osteoarthritis Study)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430365/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2012",
+      "doi": "10.1136/bmj.e5339",
+      "abstract": "Objective To examine use of magnetic resonance imaging (MRI) of knees with no radiographic evidence of osteoarthritis to determine the prevalence of structural lesions associated with osteoarthritis and their relation to age, sex, and obesity. Design Population based observational study. Setting Community cohort in Framingham, MA, United States (Framingham osteoarthritis study). Participants 710 people aged >50 who had no radiographic evidence of knee osteoarthritis (Kellgren-Lawrence grade 0) and who underwent MRI of the knee. Main outcome measures Prevalence of MRI findings that are suggestive of knee osteoarthritis (osteophytes, cartilage damage, bone marrow lesions, subchondral cysts, meniscal lesions, synovitis, attrition, and ligamentous lesions) in all participants and after stratification by age, sex, body mass index (BMI), and the presence or absence of knee pain. Pain was assessed by three different questions and also by WOMAC questionnaire. Results Of the 710 participants, 393 (55%) were women, 660 (93%) were white, and 206 (29%) had knee pain in the past month. The mean age was 62.3 years and mean BMI was 27.9. Prevalence of \"any abnormality\" was 89% (631/710) overall. Osteophytes were the most common abnormality among all participants (74%, 524/710), followed by cartilage damage (69%, 492/710) and bone marrow lesions (52%, 371/710). The higher the age, the higher the prevalence of all types of abnormalities detectable by MRI. There were no significant differences in the prevalence of any of the features between BMI groups. The prevalence of at least one type of pathology (\"any abnormality\") was high in both painful (90-97%, depending on pain definition) and painless (86-88%) knees. Conclusions MRI shows lesions in the tibiofemoral joint in most middle aged and elderly people in whom knee radiographs do not show any features of osteoarthritis, regardless of pain.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Assessing stability and change of four performance measures: a longitudinal study evaluating outcome following total hip and knee arthroplasty",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549207/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2005",
+      "doi": "10.1186/1471-2474-6-3",
+      "abstract": "Background Physical performance measures play an important role in the measurement of outcome in patients undergoing hip and knee arthroplasty. However, many of the commonly used measures lack information on their psychometric properties in this population. The purposes of this study were to examine the reliability and sensitivity to change of the six minute walk test (6MWT), timed up and go test (TUG), stair measure (ST), and a fast self-paced walk test (SPWT) in patients with hip or knee osteoarthritis (OA) who subsequently underwent total joint arthroplasty. Methods A sample of convenience of 150 eligible patients, part of an ongoing, larger observational study, was selected. This included 69 subjects who had a diagnosis of hip OA and 81 diagnosed with knee OA with an overall mean age of 63.7 +/- 10.7 years. Test-retest reliability, using Shrout and Fleiss Type 2,1 intraclass correlations (ICCs), was assessed preoperatively in a sub-sample of 21 patients at 3 time points during the waiting period prior to surgery. Error associated with the measures' scores and the minimal detectable change at the 90% confidence level was determined. A construct validation process was applied to evaluate the measures' abilities to detect deterioration and improvement at two different time points post-operatively. The standardized response mean (SRM) was used to quantify change for all measures for the two change intervals. Bootstrapping was used to estimate the 95% confidence intervals (CI) for the SRMs. Results The ICCs (95% CI) were as follows: 6MWT 0.94 (0.88,0.98), TUG 0.75 (0.51, 0.89), ST 0.90 (0.79, 0.96), and the SPWT 0.91 (0.81, 0.97). Standardized response means varied from .79 to 1.98, being greatest for the ST and 6MWT over the studied time intervals. Conclusions The test-retest estimates of the 6MWT, ST, and the SPWT met the requisite standards for making decisions at the individual patient level. All measures were responsive to detecting deterioration and improvement in the early postoperative period.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Intra-articular hyaluronan (hyaluronic acid) and hylans for the treatment of osteoarthritis: mechanisms of action",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC165033/",
+      "publisher": "Arthritis research & therapy",
+      "year": "2003",
+      "doi": "10.1186/ar623",
+      "abstract": "Although the predominant mechanism of intra-articular hyaluronan (hyaluronic acid) (HA) and hylans for the treatment of pain associated with knee osteoarthritis (OA) is unknown, in vivo, in vitro, and clinical studies demonstrate various physiological effects of exogenous HA. HA can reduce nerve impulses and nerve sensitivity associated with the pain of OA. In experimental OA, this glycosaminoglycan has protective effects on cartilage, which may be mediated by its molecular and cellular effects observed in vitro. Exogenous HA enhances chondrocyte HA and proteoglycan synthesis, reduces the production and activity of proinflammatory mediators and matrix metalloproteinases, and alters the behavior of immune cells. Many of the physiological effects of exogenous HA may be a function of its molecular weight. Several physiological effects probably contribute to the mechanisms by which HA and hylans exert their clinical effects in knee OA.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Exercise for Osteoarthritis of the Knee",
+      "url": "https://doi.org/10.2522/ptj.20100084",
+      "publisher": "Oxford University Press (OUP)",
+      "year": "2010",
+      "doi": "10.2522/ptj.20100084",
+      "abstract": "〈LEAP〉 highlights the findings and application of Cochrane reviews and other evidence pertinent to the practice of physical therapy. The Cochrane Library is a respected source of reliable evidence related to health care. Cochrane systematic reviews explore the evidence for and against the effectiveness and appropriateness of interventions - medications, surgery, education, nutrition, exercise - and the evidence for and against the use of diagnostic tests for specific conditions. Cochrane reviews are designed to facilitate the decisions of clinicians, patients, and others in health care by providing a careful review and interpretation of research studies published in the scientific literature.1Each article in this new PTJ series will summarize a Cochrane review or other scientific evidence resource on a single topic and will present clinical scenarios based on real patients to illustrate how the results of the review can be used to directly inform clinical decisions. This article focuses on a patient with moderate osteoarthritis in both knees. Can exercise help this patient?",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Paracetamol in osteoarthritis of the knee",
+      "url": "https://doi.org/10.1136/ard.2003.017236",
+      "publisher": "Elsevier BV",
+      "year": "2004",
+      "doi": "10.1136/ard.2003.017236",
+      "abstract": "Paracetamol is a recommended symptomatic treatment of osteoarthritis (OA), but in clinical trials sample sizes have been relatively small and variable daily doses of paracetamol have been used.To determine the therapeutic efficacy of paracetamol in OA of the knee and identify predictive factors of clinical response to treatment.A double blind, parallel group, placebo controlled trial of analgesic efficacy and safety of paracetamol versus placebo including 779 patients with OA of the knee. Patients were randomly assigned to receive paracetamol 4 g/day (n = 405) or placebo (n = 374) for 6 weeks. Symptomatic OA of the knee was required at inclusion with global pain intensity of the knee during physical activities for the past 24 hours of >or=30 mm on a 100 mm visual analogue scale. The primary end point was a 30% decrease of global pain intensity of the knee. Intention to treat analyses were performed.The percentage of responders did not differ significantly between groups: 52.6% and 51.9% in paracetamol and placebo groups, respectively (p = 0.840). In a subgroup of patients with chronic mechanical knee pain without signs of inflammation (n = 123), the mean change in pain intensity from baseline was 25.2 mm v 15.2 mm, in the paracetamol (n = 63) and placebo (n = 60) groups, respectively-mean difference 10.0 mm; 95% CI 1.0 to 19.0; p = 0.0294. No serious adverse events were attributable to treatment.A statistically significant symptomatic effect of oral paracetamol 4 g/day over placebo was not found, suggesting that paracetamol use in symptomatic OA of the knee should be further explored. The tolerability and safety of paracetamol, at the recommended maximum dose of 4 g/day, was confirmed over 6 weeks.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effect of Integrative Naturopathy and Yoga Rehabilitation Therapy in Advanced Knee Osteoarthritis: A Case Report",
+      "url": "https://hal.science/hal-05862952v1",
+      "publisher": "Journal of Complementary and Alternative Medical Research",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Background: Knee osteoarthritis (KOA) is a common degenerative joint disease characterised by stiffness, pain and progressive cartilage degeneration. Although conventional therapies may temporarily alleviate symptoms, they frequently have adverse effects and cannot halt disease progression. In more advanced cases, integrative approaches combining conventional and alternative therapies may offer longer-lasting benefits. Case Presentation: A 72-year-old woman with radiographically diagnosed advanced knee osteoarthritis experienced severe knee pain, stiffness and reduced mobility. The patient opted for integrative conservative care rather than surgery. Baseline evaluation revealed significant functional restriction, quadriceps weakness, varus deformity and an antalgic gait. Before the intervention, the KOOS was 24/100, the WOMAC score was 72/96, and VAS scores indicated severe pain. Intervention and Outcomes: The patient received integrative naturopathy and yoga therapies during a three-week inpatient programme. Clinically substantial improvements were observed at the post-intervention assessment. The KOOS improved from 24 to 51, the WOMAC score decreased from 72 to 38, and VAS scores for both knees changed from severe to mild pain. Improvements were observed in quality of life, functional mobility, activities of daily living, pain and stiffness. Conclusion: This case illustrates the potential benefits of integrative naturopathy and yoga therapy in the management of advanced bilateral knee osteoarthritis. The multimodal approach was associated with reduced pain, improved function and better quality of life. It may represent a feasible non-surgical option for individuals unwilling to undergo surgery; however, larger randomised controlled trials are required.",
+      "licence": "",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.94,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Features of Early Osteoarthritis and Synovitis against the Background of Metabolic Syndrome: A Cross-Sectional Study",
+      "url": "https://hal.science/hal-05667632v1",
+      "publisher": "Asian Journal of Medical Principles and Clinical Practice",
+      "year": "2026",
+      "doi": "",
+      "abstract": "Background: Early knee osteoarthritis may present with pain, stiffness, and functional limitation despite minimal radiographic changes. Metabolic syndrome may contribute to a more symptomatic and inflammatory disease pattern. Objective: This cross-sectional study evaluated the clinical, functional, anthropometric, laboratory-inflammatory, and instrumental features of early knee osteoarthritis associated with metabolic syndrome, with particular attention to synovitis. Methods: The study included 64 patients aged 35–60 years with early knee osteoarthritis. Thirty-eight patients had metabolic syndrome and 26 did not. Pain intensity was assessed using the visual analogue scale, and functional status and health-related quality of life were evaluated using WOMAC and KOOS indices. Body mass index, waist circumference, systemic inflammatory markers, cartilage oligomeric matrix protein, and knee-joint imaging findings were assessed. Results: Patients with metabolic syndrome had higher pain intensity, worse WOMAC scores, lower KOOS values, and more frequent synovitis than patients without metabolic syndrome. They also had higher body mass index and waist circumference values, while arterial hypertension and diabetes mellitus were observed only in this group. Interleukin-6, cartilage oligomeric matrix protein, and C-reactive protein levels were significantly elevated in the metabolic syndrome group, indicating greater inflammatory activity and cartilage matrix turnover. Conclusion: Early knee osteoarthritis associated with metabolic syndrome showed a metabolic-inflammatory pattern characterised by more pronounced symptoms, synovial involvement, and increased cartilage degradation markers. Comprehensive metabolic and inflammatory assessment may support early diagnosis and individualised management.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Annual Trends of High Tibial Osteotomy: Analysis of an Official Registry in Italy",
+      "url": "https://www.mdpi.com/1648-9144/60/7/1168",
+      "publisher": "Medicina",
+      "year": "2024",
+      "doi": "10.3390/medicina60071168",
+      "abstract": "Background and Objectives: Knee osteoarthritis is a serious burden for modern countries. Timing of surgery and treatment choice are still a matter of controversy in the orthopedic literature. The purpose of this study was to ascertain the incidence and hospitalization trends of high tibial osteotomy in Italy from 2001 to 2016. Materials and Methods: Data are sourced from the National Hospital Discharge Reports (SDO) of the Italian Ministry of Health between 2001 and 2016. Results: A total of 34,402 high tibial osteotomies were performed over the study period in Italy. The cumulative incidence was 3.6 cases per 100,000 residents. The age classes 50–54, 55–59 showed the higher number of procedures. In pediatric patients (0–19 years), high tibial osteotomies are also largely performed. The majority of patients having surgery were men with a M/F ratio of 1.5. The mean age of patients was 44.2 ± 19.2 years. Males were significantly younger than females (43.3 ± 20.7 vs. 45.6 ± 17.7). The average length of hospitalization was 6.1 ± 7.3 days. Over the course of the analysis, a declining trend in hospital stay length was seen. The main primary diagnosis codes were “Varus knee” (736.42 ICD-9-CM code, 33.9%), “Osteoarthrosis, localized, primary, leg region” (715.16 ICD-9-CM code, 9.5%). Conclusions: Over the study period, high tibial osteotomies in Italy almost halved. Varus deformity and knee osteoarthritis are the leading causes requiring high tibial osteotomy. Except for the pediatric setting, results showed that from the 20–24 age class to the 50–54 age class, there was an increasing request for knee osteotomy, whereas in those aged >60 years, the incidence progressively decreased. The evident decline in HTO performed over the years in Italy seems to reflect a minor role for knee osteotomy in the management of knee OA, as it seems to be primarily reserved for younger male patients.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Detrimental alteration of mesenchymal stem cells by an articular inflammatory microenvironment results in deterioration of osteoarthritis",
+      "url": "https://doi.org/10.1186/s12916-023-02923-6",
+      "publisher": "BMC Medicine",
+      "year": "2023",
+      "doi": "10.1186/s12916-023-02923-6",
+      "abstract": "Abstract Background Articular injection of mesenchymal stem cells (MSCs) has been applied to treat knee osteoarthritis (kOA), but its clinical outcomes are controversial. This study investigated whether an articular inflammatory microenvironment (AIM) impacts MSC-based therapy in a rat model of kOA. Methods The biological change of MSCs and the functional change of MSCs on chondrocytes were evaluated under AIM. The key mediator and mechanism for the AIM impact on MSC therapy were explored via gain- and loss-of-function approaches. Results The results showed that MSCs exerted potent anti-kOA effects in vivo and in vitro, but that this therapy become chondrodestructive if a chronic AIM was present. Mechanistically, the overexpression of MMP13 in the injected MSCs via a MAPKs-AP1 signaling axis was revealed as the underlying mechanism for the detriment outcome. Conclusions This study thus clarifies recent clinical findings while also suggesting a means to overcome any detrimental effects of MSC-based therapy while improving its efficacy.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Biomechanical characteristics of tibio-femoral joint after partial medial meniscectomy in different flexion angles: a finite element analysis",
+      "url": "https://doi.org/10.1186/s12891-021-04187-8",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2021",
+      "doi": "10.1186/s12891-021-04187-8",
+      "abstract": "Abstract Background Recent studies have pointed out that arthroscopy, the commonly-used surgical procedure for meniscal tears, may lead to an elevated risk of knee osteoarthritis (KOA). The biomechanical factors of KOA can be clarified by the biomechanical analysis after arthroscopic partial meniscectomy (APM). This study aimed to elucidate the cartilage stress and meniscus displacement of the tibiofemoral joint under flexion and rotation loads after APM. Methods A detailed finite element model of the knee bone, cartilage, meniscus, and major ligaments was established by combining computed tomography and magnetic resonance images. Vertical load and front load were applied to simulate different knee buckling angles. At the same time, by simulating flexion of different degrees and internal and external rotations, the stresses on tibiofemoral articular cartilage and meniscus displacement were evaluated. Results Generally, the contact stress on both the femoral tibial articular cartilage and the meniscus increased with the increased flexion degree. Moreover, the maximum stress on the tibial plateau gradually moved backward. The maximum position shift value of the lateral meniscus was larger than that of the medial meniscus. Conclusion Our finite element model provides a realistic three-dimensional model to evaluate the influence of different joint range of motion and rotating tibiofemoral joint stress distribution. The decreased displacement of the medial meniscus may explain the higher pressure on the knee components. These characteristics of the medial tibiofemoral joint indicate the potential biomechanical risk of knee degeneration.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Identification of new therapeutic targets for osteoarthritis through genome-wide analyses of UK Biobank data",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6400267/",
+      "publisher": "Nature genetics",
+      "year": "2019",
+      "doi": "10.1038/s41588-018-0327-1",
+      "abstract": "Osteoarthritis is the most common musculoskeletal disease and the leading cause of disability globally. Here, we performed a genome-wide association study for osteoarthritis (77,052 cases and 378,169 controls), analyzing four phenotypes: knee osteoarthritis, hip osteoarthritis, knee and/or hip osteoarthritis, and any osteoarthritis. We discovered 64 signals, 52 of them novel, more than doubling the number of established disease loci. Six signals fine-mapped to a single variant. We identified putative effector genes by integrating expression quantitative trait loci (eQTL) colocalization, fine-mapping, and human rare-disease, animal-model, and osteoarthritis tissue expression data. We found enrichment for genes underlying monogenic forms of bone development diseases, and for the collagen formation and extracellular matrix organization biological pathways. Ten of the likely effector genes, including TGFB1 (transforming growth factor beta 1), FGF18 (fibroblast growth factor 18), CTSK (cathepsin K), and IL11 (interleukin 11), have therapeutics approved or in clinical trials, with mechanisms of action supportive of evaluation for efficacy in osteoarthritis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Knee replacement for osteoarthritis",
+      "url": "https://doi.org/10.1016/j.maturitas.2013.03.005",
+      "publisher": "Elsevier BV",
+      "year": "2013",
+      "doi": "10.1016/j.maturitas.2013.03.005",
+      "abstract": "Knee replacement is one of the commonest surgical procedures performed in older adults, and its incidence is increasing rapidly. It is the only curative procedure for knee osteoarthritis, and it has excellent outcomes overall in terms of reoperation, functional outcomes and cost-effectiveness. However, a significant proportion of patients are dissatisfied after knee replacement surgery and there is a growing body of research into predictors of poor outcome and dissatisfaction.In this review, we discuss the place of total knee replacement (TKR) in the management of osteoarthritis, together with operative and non-operative alternatives to TKR. We discuss the different ways in which outcome can be measured, and the influence of patient and surgical factors on the success or failure of knee replacement surgery.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Routine Assessment of Patient Index Data 3 (RAPID3) is a Valid Index for Routine Care in Patients with Osteoarthritis",
+      "url": "https://hal.science/hal-05542448v1",
+      "publisher": "British Journal of Medicine & Medical Research",
+      "year": "2013",
+      "doi": "",
+      "abstract": "Objective: To compare Routine Assessment of Patient Index Data 3 (RAPID3) on a Multidimensional Health Assessment Questionnaire (MDHAQ) with the Western Ontario and Mc-Master Universities Osteoarthritis Index (WOMAC) in patients with knee or hip osteoarthritis and to evaluate its reliability. Methods: 678 patients with hip or knee osteoarthritis were assessed in daily practice clinical care during 2009-2013. Patients completed an MDHAQ and so a RAPID3 was calculated (physical function, pain, patient global estimate). Pain, stiffness, and physical functions using the standard WOMAC indices for hip and knee osteoarthritis were assessed too; correlation between WOMAC total scores and RAPID3 scores were estimated with Spearman’s rho. Furthermore a linear regression model was developed with a coefficient of determination R2. Finally we evaluated validity and reliability of this index to evaluate that RAPID3 is not inferior to WOMAC. Results: RAPID3 and WOMAC were correlated significantly, with a global correlation Spearman’ rho index of 0.84 (P<0.01). Computing analysis for diagnosis the correlation index was 0.83 for hip osteoarthritis (p<0.01) and 0.87 for knee osteoarthritis. Conclusion: RAPID3 scores provide similar quantitative information to WOMAC in patients with hip or knee osteoarthritis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.12,
+      "providers": [
+        "hal",
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Knee injury and Osteoarthritis Outcome Score (KOOS) - validation and comparison to the WOMAC in total knee replacement",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC161802/",
+      "publisher": "Health and quality of life outcomes",
+      "year": "2003",
+      "doi": "10.1186/1477-7525-1-17",
+      "abstract": "Background The Knee injury and Osteoarthritis Outcome Score (KOOS) is an extension of the Western Ontario and McMaster Universities Osteoarthrtis Index (WOMAC), the most commonly used outcome instrument for assessment of patient-relevant treatment effects in osteoarthritis. KOOS was developed for younger and/or more active patients with knee injury and knee osteoarthritis and has in previous studies on these groups been the more responsive instrument compared to the WOMAC. Some patients eligible for total knee replacement have expectations of more demanding physical functions than required for daily living. This encouraged us to study the use of the Knee injury and Osteoarthritis Outcome Score (KOOS) to assess the outcome of total knee replacement. Methods We studied the test-retest reliability, validity and responsiveness of the Swedish version LK 1.0 of the KOOS when used to prospectively evaluate the outcome of 105 patients (mean age 71.3, 66 women) after total knee replacement. The follow-up rates at 6 and 12 months were 92% and 86%, respectively. Results The intraclass correlation coefficients were over 0.75 for all subscales indicating sufficient test-retest reliability. Bland-Altman plots confirmed this finding. Over 90% of the patients regarded improvement in the subscales Pain, Symptoms, Activities of Daily Living, and knee-related Quality of Life to be extremely or very important when deciding to have their knee operated on indicating good content validity. The correlations found in comparison to the SF-36 indicated the KOOS measured expected constructs. The most responsive subscale was knee-related Quality of Life. The effect sizes of the five KOOS subscales at 12 months ranged from 1.08 to 3.54 and for the WOMAC from 1.65 to 2.56. Conclusion The Knee injury and Osteoarthritis Outcome Score (KOOS) is a valid, reliable, and responsive outcome measure in total joint replacement. In comparison to the WOMAC, the KOOS improved validity and may be at least as responsive as the WOMAC.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

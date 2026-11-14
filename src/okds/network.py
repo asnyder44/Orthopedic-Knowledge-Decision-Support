@@ -110,7 +110,20 @@ def build_network(settings: Settings) -> dict[str, Any]:
             nodes[c.ko_id] = Node(id=c.ko_id, label=c.preferred_term, kind="planned", ko_type=c.ko_type,
                                   cluster=int(types.get(c.ko_type, {}).get("cluster", 0)), status=c.status)
 
+    # A proposal whose name matches a topic that already exists points at that topic instead of a new node.
+    known: dict[str, str] = {}
+    for c in registry.values():
+        for name in (c.preferred_term, *c.alternate_terms):
+            known.setdefault(concept_key(name), c.ko_id)
+    for n in list(nodes.values()):
+        known.setdefault(concept_key(n.label), n.id)
+
     edges: list[Edge] = []
+    real_pairs: set[tuple[str, str]] = set()
+    for d in docs:
+        for r in as_list(d.front.get("relationships")):
+            if isinstance(r, dict) and r.get("target_id"):
+                real_pairs.update({(d.ko_id, str(r["target_id"])), (str(r["target_id"]), d.ko_id)})
     for d in docs:
         by_sid = {str(s.get("id")): s for s in as_list(d.front.get("sources")) if isinstance(s, dict)}
         for r in as_list(d.front.get("relationships")):
@@ -126,6 +139,17 @@ def build_network(settings: Settings) -> dict[str, Any]:
                                         for s in sids if s in by_sid], stated_in=d.ko_id))
         for p in as_list(d.front.get("proposed_concepts")):
             if not isinstance(p, dict) or not p.get("term"):
+                continue
+            existing = known.get(concept_key(str(p["term"])))
+            if existing and existing != d.ko_id:
+                if (d.ko_id, existing) in real_pairs:
+                    continue  # already linked for real
+                pred = str(p.get("predicate") or "RELATED")
+                src, dst = ((existing, d.ko_id) if _orient(pred, nodes[d.ko_id].ko_type, nodes[existing].ko_type)
+                            else (d.ko_id, existing))
+                edges.append(Edge(source=src, target=dst, predicate=pred, proposed=True,
+                                  reason=str(p.get("reason") or ""), stated_in=d.ko_id))
+                real_pairs.update({(d.ko_id, existing), (existing, d.ko_id)})
                 continue
             pid = "proposed:" + concept_key(str(p["term"])).replace(" ", "-")
             node = nodes.get(pid)

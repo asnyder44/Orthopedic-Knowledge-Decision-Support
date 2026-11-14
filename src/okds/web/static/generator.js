@@ -194,6 +194,18 @@
       box.appendChild(card);
     });
   }
+  $("#src-collected").addEventListener("click", async () => {
+    const msg = $("#src-collected-msg"); msg.className = "muted small"; msg.textContent = "Loading…";
+    try {
+      const r = await fetch(D.urls.collected.replace("__ID__", encodeURIComponent(S.ko_id)));
+      const j = await r.json();
+      if (!r.ok) throw new Error(j.error || "Could not load the collected sources.");
+      if (S.sources.some(s => s.url.trim() || s.text.trim()) && !confirm("Replace the sources you already entered?")) { msg.textContent = ""; return; }
+      S.sources = j.sources.map(s => ({ ...newSource(), ...Object.fromEntries(Object.entries(s).filter(([k]) => k !== "id").map(([k, v]) => [k, v == null ? "" : String(v)])) }));
+      renderSources(); render();
+      msg.className = "status ok"; msg.textContent = `Loaded ${j.sources.length} of ${j.count} collected sources. Read each one and delete what isn't about this topic.`;
+    } catch (e) { msg.className = "status bad"; msg.textContent = e.message; }
+  });
   $("#src-add").addEventListener("click", () => { S.sources.push(newSource()); renderSources(); render(); });
   $("#src-reset").addEventListener("click", () => {
     if (!confirm("Clear all sources on this step and start with 2 empty ones?")) return;

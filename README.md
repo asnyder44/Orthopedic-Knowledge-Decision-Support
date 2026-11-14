@@ -114,6 +114,43 @@ Command line: `okds validate`, `okds build-json`, `okds list`, `okds ask "questi
 
 Optional meaning search over the KOs: `pip install -e ".[ko-semantic]"` (downloads a ~70 MB model on first use).
 
+### Collecting sources for KOs (`okds collect`)
+
+`src/okds/collect.py` searches open-access scholarly services and builds source packs:
+
+| Provider | Covers |
+|---|---|
+| Europe PMC | PubMed, PubMed Central open access, bioRxiv / medRxiv preprints |
+| Semantic Scholar | open-access papers (set `S2_API_KEY` for a higher rate limit) |
+| DOAJ | open-access journals, incl. SpringerOpen, MDPI, Hindawi, SciELO, Redalyc, Wiley and Nature OA titles |
+| OpenAIRE, Zenodo, HAL, PLOS | open repositories and journals |
+| CORE | only when `CORE_API_KEY` is set (free key from core.ac.uk) |
+| MedlinePlus | patient-level health topics (public domain), so patient KOs have a plain-language source |
+
+Not used on purpose: Sci-Hub and PaperPanda (copyright infringement); Google Scholar, ResearchGate and
+Academia.edu (terms forbid automated collection); DeepDyve, JSTOR, EBSCO, Research4Life (need logins).
+
+```bash
+okds collect "trigger finger" --alt "stenosing tenosynovitis"    # search one term, save every candidate
+okds collect-topics                                              # every topic without a KO: candidates + source pack
+okds collect-topics KO-SPORT-COND-001 --overwrite --pack-size 5
+```
+
+Candidates are saved to `data/sources/candidates/<ko_id>.json` (title, journal, year, DOI, licence, abstract,
+which providers found it) and the best 4 to `data/sources/packs/SP-<ko_id>.md` (a MedlinePlus page first,
+then guidelines / systematic reviews / trials, open licences preferred). Only abstracts are kept. Each
+source's licence sets `permitted_use`: CC BY / CC0 → `open_license`, MedlinePlus → `public_domain`, anything
+else → `link_and_paraphrase`. In the KO Generator, step 3 has **Use collected sources** to start from a pack.
+
+The automatic pack is only a starting point: some abstracts just mention the topic. To choose sources by hand,
+also from the OrthoInfo dataset (full-text MedlinePlus, NIAMS, OpenStax and CC BY Europe PMC articles):
+
+```bash
+okds sources show KO-FOOT-COND-002 -v                 # numbered candidates with abstracts
+okds sources local "plantar fasciitis"                # documents in data/processed
+okds sources set KO-FOOT-COND-002 local:pmc:PMC3954277 c2 c5   # S1, S2, S3: rewrites the pack and the KO's sources
+```
+
 ### Information Discovery Network (prototype)
 
 `/ko/network` shows the KOs as one connected dataset, following Kyle's knowledge vision (KOs as the

@@ -76,19 +76,27 @@ relationships:
   source_ids:
   - S1
   - S3
+- predicate: DIAGNOSED_BY
+  target_id: KO-HAND-DX-003
+  target_label: Electromyography
+  source_ids:
+  - S3
+  - S4
+- predicate: DIAGNOSED_BY
+  target_id: KO-HAND-DX-005
+  target_label: Nerve Ultrasound
+  source_ids:
+  - S1
+  - S3
+  - S4
+- predicate: HAS_SYMPTOM
+  target_id: KO-HAND-CONC-001
+  target_label: Hand Numbness and Tingling
+  source_ids:
+  - S1
+  - S2
+  - S4
 proposed_concepts:
-- term: Electromyography (EMG)
-  suggested_type: DiagnosticTest
-  predicate: DIAGNOSED_BY
-  reason: S3 and S4 describe EMG as a test used for CTS; it is not in the registry.
-- term: Wrist ultrasound
-  suggested_type: DiagnosticTest
-  predicate: DIAGNOSED_BY
-  reason: S1, S3, and S4 say ultrasound can show a swollen median nerve in the tunnel.
-- term: Numbness and tingling in the fingers
-  suggested_type: Concept
-  predicate: HAS_SYMPTOM
-  reason: Main symptom in S1, S2, and S4; needs a Concept KO before a HAS_SYMPTOM link can be made.
 - term: Repetitive hand and wrist motion
   suggested_type: Concept
   predicate: HAS_RISK_FACTOR
@@ -165,9 +173,9 @@ review:
 safety:
   not_medical_advice: true
   scope_note: General education only. Not a diagnosis or treatment plan.
-version: 0.1.0
+version: 0.1.1
 created: '2026-11-01'
-last_updated: '2026-11-01'
+last_updated: '2026-11-14'
 update_triggers:
 - MedlinePlus or NIAMS shows a new 'last updated' or 'last reviewed' date on a cited carpal tunnel page.
 - AAOS updates its carpal tunnel syndrome clinical practice guideline.
@@ -178,6 +186,12 @@ change_log:
   by: OKDS agent (Claude)
   change: Initial draft written by the OKDS agent from source pack SP-KO-HAND-COND-001 (claude-opus-5-5,
     okds-gen-1.0).
+- version: 0.1.1
+  date: '2026-11-14'
+  by: KO Collector + Claude (Claude Code session)
+  change: 'Proposed concepts that now have KOs became relationships (same sources): diagnosed by → Electromyography
+    (KO-HAND-DX-003); diagnosed by → Nerve Ultrasound (KO-HAND-DX-005); has symptom → Hand Numbness and
+    Tingling (KO-HAND-CONC-001)'
 ---
 
 ## Summary
@@ -255,6 +269,9 @@ Early diagnosis and treatment can help prevent lasting nerve damage, such as los
 - Affects: Median Nerve (KO-HAND-ANAT-001), Carpal Tunnel (KO-HAND-ANAT-002)
 - Diagnosed by: Nerve Conduction Study (KO-HAND-DX-001), Phalen's Test (KO-HAND-DX-002)
 - Read next: Wrist Splinting (KO-HAND-TRT-001), Corticosteroid Injection (KO-HAND-TRT-002), Carpal Tunnel Release (KO-HAND-PROC-001)
+- diagnosed by → Electromyography (KO-HAND-DX-003)
+- diagnosed by → Nerve Ultrasound (KO-HAND-DX-005)
+- has symptom → Hand Numbness and Tingling (KO-HAND-CONC-001)
 
 ## References
 1. [S1] MedlinePlus (National Library of Medicine). *Carpal Tunnel Syndrome.* https://medlineplus.gov/carpaltunnelsyndrome.html (retrieved 2026-11-01)

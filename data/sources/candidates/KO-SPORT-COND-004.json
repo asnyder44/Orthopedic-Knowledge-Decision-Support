@@ -1,0 +1,926 @@
+{
+  "term": "Lateral Epicondylitis",
+  "collected": "2026-11-14",
+  "count": 51,
+  "candidates": [
+    {
+      "provider": "europepmc",
+      "title": "Platelet-rich plasma versus autologous blood versus steroid injection in lateral epicondylitis: systematic review and network meta-analysis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4882297/",
+      "publisher": "Journal of orthopaedics and traumatology : official journal of the Italian Society of Orthopaedics and Traumatology",
+      "year": "2016",
+      "doi": "10.1007/s10195-015-0376-5",
+      "abstract": "Background Clinical outcomes between the use of platelet-rich plasma (PRP), autologous blood (AB) and corticosteroid (CS) injection in lateral epicondylitis are still controversial. Materials and methods A systematic review and network meta-analysis of randomized controlled trials was conducted with the aim of comparing relevant clinical outcomes between the use of PRP, AB and CS injection. Medline and Scopus databases were searched from inception to January 2015. A network meta-analysis was performed by applying weight regression for continuous outcomes and a mixed-effect Poisson regression for dichotomous outcomes. Results Ten of 374 identified studies were eligible. When compared to CS, AB injection showed significantly improved effects with unstandardized mean differences (UMD) in pain visual analog scale (VAS), Disabilities of Arm Shoulder and Hand (DASH), Patient-Related Tennis Elbow Evaluation (PRTEE) score and pressure pain threshold (PPT) of -2.5 (95 % confidence interval, -3.5, -1.5), -25.5 (-33.8, -17.2), -5.3 (-9.1, -1.6) and 9.9 (5.6, 14.2), respectively. PRP injections also showed significantly improved VAS and DASH scores when compared with CS. PRP showed significantly better VAS with UMD when compared to AB injection. AB injection has a higher risk of adverse effects, with a relative risk of 1.78 (1.00, 3.17), when compared to CS. The network meta-analysis suggested no statistically significant difference in multiple active treatment comparisons of VAS, DASH and PRTEE when comparing PRP and AB injections. However, AB injection had improved DASH score and PPT when compared with PRP injection. In terms of adverse effects, AB injection had a higher risk than PRP injection. Conclusions This network meta-analysis provided additional information that PRP injection can improve pain and lower the risk of complications, whereas AB injection can improve pain, disabilities scores and pressure pain threshold but has a higher risk of complications. Level of evidence Level I evidence.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.74,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Tendinitis",
+      "url": "https://medlineplus.gov/tendinitis.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Tendons are flexible bands of tissue that connect muscles to bones. They help your muscles move your bones. Tendinitis is the severe swelling of a tendon. Tendinitis usually happens after repeated injury to an area such as the wrist or ankle. It causes pain and soreness around a joint. Some common forms of tendinitis are named after the sports that increase their risk. They include tennis elbow , golfer's elbow, pitcher's shoulder, swimmer's shoulder, and jumper's knee. Doctors diagnose tendinitis with your medical history, a physical exam, and imaging tests. The first step in treatment is to reduce pain and swelling. Rest, wrapping or elevating the affected area, and medicines can help. Ice is helpful for recent, severe injuries. Other treatments include ultrasound, physical therapy, steroid injections, and surgery.",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Management of Lateral Epicondylitis: A Narrative Literature Review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7222600/",
+      "publisher": "Pain research & management",
+      "year": "2020",
+      "doi": "10.1155/2020/6965381",
+      "abstract": "Lateral epicondylitis, also termed as \"tennis elbow,\" is the most common cause of elbow pain and dysfunction, mainly resulting from repetitive gripping or wrist extension during various activities. The exact pathogenesis remains largely elusive with putative tendinosis, a symptomatic degenerative process of the local tendon. It is usually diagnosed by clinical examinations. Sometimes, additional imaging is required for a specific differential diagnosis. Although most cases can be self-healing, the optimal treatment strategy for chronic lateral epicondylitis remains controversial. This article presents a landscape of emerging evidence on lateral epicondylitis and focuses on the pathogenesis, diagnosis, and management, shedding light on the understandings and treatment for healthcare professionals.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.4,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Physiotherapy techniques used in injury treatment: A systematic review of tennis elbow",
+      "url": "https://jurnal.untan.ac.id/index.php/TAJOR/article/view/86823",
+      "publisher": "Tanjungpura Journal of Coaching Research",
+      "year": "2024",
+      "doi": "10.26418/tajor.v2i3.86823",
+      "abstract": "Background and Study Aim. This review provides a comprehensive analysis of the physiotherapy methods used to treat tennis elbow, emphasizing the importance of understanding its pathophysiology and etiology to inform effective treatment strategies. Material and Methods. This review explores a range of physiotherapy interventions, including manual therapies that alleviate pain and improve joint function. Techniques such as joint mobilization, soft tissue massage, and myofascial release are highlighted. Additionally, exercise rehabilitation plays a key role, with individualized exercise programs designed to strengthen weakened muscles and improve elbow biomechanics. The study utilized the Harzing Publish or Perish application for its literature search, sourcing relevant studies from Google Scholar and PubMed using keywords like \"Cyriax,\" \"myofascial release,\" \"tendinitis,\" \"trigger points,\" \"tennis elbow,\" and \"degeneration.\" Boolean operators \"WITH,\" \"AND,\" and \"OR\" were employed to refine the search results.. Results. Various physiotherapy approaches, including manual therapy, the Cyriax method, deep friction massage, Mill manipulation, myofascial release techniques, laser therapy, pulse shortwave diathermy, and ultrasound, have demonstrated positive outcomes in reducing pain, enhancing function, and promoting tissue repair. Conclusion. In conclusion, this review emphasizes the critical role physiotherapy plays in the effective management of tennis elbow. By compiling the latest research and best practices, it offers valuable insights for practitioners seeking to improve patient outcomes for this prevalent and disabling condition.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.06,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Is There any Difference in Clinical Outcome between Open and Arthroscopic Treatment for Tennis Elbow? A Systematic Review and Meta‐Analysis",
+      "url": "https://doi.org/10.1111/os.13570",
+      "publisher": "Orthopaedic Surgery",
+      "year": "2023",
+      "doi": "10.1111/os.13570",
+      "abstract": "There is considerable controversy regarding the optimal approach (open vs arthroscopic) of releasing and/or debridement for the treatment of tennis elbow (TE). The aim of this study was to determine the clinical outcomes of the two techniques by quantitatively synthesizing outcome data. The study was performed by searching the PubMed, EMBASE, Ovid, and Elsevier databases between January 1995 and April 2022 for a minimum follow‐up of 6 months. The searching strategy was “(tennis elbow [Title/Abstract] OR lateral epicondylitis [Title/Abstract]) AND (open [Title/Abstract] OR arthroscopic [Title/Abstract] OR release [Title/Abstract] OR debridement [Title/Abstract] OR surgery [Title/Abstract])”. The quality of each study was investigated using the Coleman Methodology Score. In total, 1411 (693 open, 718 arthroscopic) elbows in 1392 patients who underwent releasing and debridement for tennis elbow were identified. The mean Coleman Methodology Score for the included studies was 55.2 ± 8.6 (open: 55.0 ± 9.4, arthroscopic: 55.8 ± 8.2). Improved clinical results were achieved after treatment with either open or arthroscopic treatment. The surgical success rate was 95.6% in open surgery and 92.4% in arthroscopic management. The complication rates were 2.2% and 1.5% for open and arthroscopic procedures, respectively. Similar subjective and objective outcomes, and surgical success rate were observed in patients with both techniques. Patients who had undergone arthroscopic release seemed to return to work earlier (5.3 weeks vs 7.1 weeks). To draw more definite conclusions, high‐quality long‐term follow‐up randomized controlled trials are needed.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.02,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison of kinesiotape, counterforce brace, and corticosteroid injection in patients with tennis elbow: A prospective, randomized, controlled study",
+      "url": "https://doi.org/10.1371/journal.pone.0328396",
+      "publisher": "PLOS One",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0328396",
+      "abstract": "Objective: The aim of the study was to compare the effects of corticosteroid injection, kinesio tape, and counterforce brace on pain intensity, Common Extensor Tendon thickness, grip strength, and functional status in the treatment of lateral epicondylitis. Design: A total number of 51 patients were randomized into three groups. Group 1 was given kinesio tape, group 2 received a corticosteroid injection, and group 3 received a counterforce brace. Pain was measured using a visual analog scale, common extensor tendon thickness was measured with ultrasonography, functional status was measured using the disabilities of arm, shoulder, and hand questionnaire and grip strength was measured using a dynamometer. All evaluations were performed before treatment and at the second and fourth weeks after the treatment. Results: No significant differences between the groups were observed for the visual analog scale scores, common extensor tendon thicknesses, grip strength, and disabilities of arm, shoulder, and hand questionnaire score compared to the baseline (P > 0.05). A statistically significant difference was found between the pretreatment and posttreatment evaluations of pain intensity and common extensor tendon thickness in all groups at the second and fourth weeks after treatment. According to the disabilities of arm, shoulder, and hand questionnaire scale, the condition improved significantly in the brace group and corticosteroid group, whereas it had not improved in the kinesiotaping group compared to before treatment. None of the treatment methods increased the patients’ grip strength (P > 0.05). Conclusion: The corticosteroid injection, kinesiotape, and specially counterforce brace effectively reduced pain and tendon thickness. However, none of these treatment methods were superior to the others. Trial registration: This study was registered in the Iranian Registry of Clinical Trials (IRCT20091214002851N7).",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.0,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Systematic Review: Allogenic Use of Stromal Vascular Fraction (SVF) and Decellularized Extracellular Matrices (ECM) as Advanced Therapy Medicinal Products (ATMP) in Tissue Regeneration",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7404290/",
+      "publisher": "International journal of molecular sciences",
+      "year": "2020",
+      "doi": "10.3390/ijms21144982",
+      "abstract": "Stromal vascular fraction (SVF) containing adipose stem cells (ASCs) has been used for many years in regenerative plastic surgery for autologous applications, without any focus on their potential allogenic role. Allogenic SVF transplants could be based on the possibility to use decellularized extracellular matrix (ECM) as a scaffold from a donor then re-cellularized by ASCs of the recipient, in order to develop the advanced therapy medicinal products (ATMP) in fully personalized clinical approaches. A systematic review of this field has been realized in accordance with the Preferred Reporting for Items for Systematic Reviews and Meta-Analyses-Protocols (PRISMA-P) guidelines. Multistep research of the PubMed, Embase, MEDLINE, Pre-MEDLINE, PsycINFO, CINAHL, Clinicaltrials.gov, Scopus database, and Cochrane databases has been conducted to identify articles and investigations on human allogenic ASCs transplant for clinical use. Of the 341 articles identified, 313 were initially assessed for eligibility on the basis of the abstract. Of these, only 29 met all the predetermined criteria for inclusion according to the PICOS (patients, intervention, comparator, outcomes, and study design) approach, and 19 have been included in quantitative synthesis (meta-analysis). Ninety-one percent of the studies previously screened (284 papers) were focused on the in vitro results and pre-clinical experiments. The allogenic use regarded the treatment of perianal fistulas, diabetic foot ulcers, knee osteoarthritis, acute respiratory distress syndrome, refractory rheumatoid arthritis, pediatrics disease, fecal incontinence, ischemic heart disease, autoimmune encephalomyelitis, lateral epicondylitis, and soft tissue defects. The information analyzed suggested the safety and efficacy of allogenic ASCs and ECM transplants without major side effects.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.9,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "A systematic review of randomised controlled trials assessing effectiveness of prosthetic and orthotic interventions",
+      "url": "https://doi.org/10.1371/journal.pone.0192094",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0192094",
+      "abstract": "Background: Assistive products are items which allow older people and people with disabilities to be able to live a healthy, productive and dignified life. It has been estimated that approximately 1.5% of the world’s population need a prosthesis or orthosis. Objective: The objective of this study was to systematically identify and review the evidence from randomized controlled trials assessing effectiveness and cost-effectiveness of prosthetic and orthotic interventions. Methods: Literature searches, completed in September 2015, were carried out in fourteen databases between years 1995 and 2015. The search results were independently screened by two reviewers. For the purpose of this manuscript, only randomized controlled trials which examined interventions using orthotic or prosthetic devices were selected for data extraction and synthesis. Results: A total of 342 randomised controlled trials were identified (319 English language and 23 non-English language). Only 4 of these randomised controlled trials examined prosthetic interventions and the rest examined orthotic interventions. These orthotic interventions were categorised based on the medical conditions/injuries of the participants. From these studies, this review focused on the medical condition/injuries with the highest number of randomised controlled trials (osteoarthritis, fracture, stroke, carpal tunnel syndrome, plantar fasciitis, anterior cruciate ligament, diabetic foot, rheumatoid and juvenile idiopathic arthritis, ankle sprain, cerebral palsy, lateral epicondylitis and low back pain). The included articles were assessed for risk of bias using the Cochrane Risk of Bias tool. Details of the clinical population examined, the type of orthotic/prosthetic intervention, the comparator/s and the outcome measures were extracted. Effect sizes and odds ratios were calculated for all outcome measures, where possible. Conclusions: At present, for prosthetic and orthotic interventions, the scientific literature does not provide sufficient high quality research to allow strong conclusions on their effectiveness and cost-effectiveness.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.82,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Lateral epicondylitis and physical exposure at work? A review of prospective studies and meta-analysis",
+      "url": "https://hal.science/hal-01392345v1",
+      "publisher": "Arthritis Care & Research = Arthritis Care and Research",
+      "year": "2016",
+      "doi": "10.1002/acr.22874",
+      "abstract": "OBJECTIVE: In view of the recent published studies, a meta-analysis was undertaken on prospective studies in order to assess any association between lateral epicondylitis and physical exposure at work. METHODS: Using the key words: \"lateral epicondylitis\" and \"occupational\" and (\"cohort\", \"longitudinal\" or \"incidence\") without limitations on the language or year of publication, original prospective studies were selected from four databases (Pub-Med, Scopus, Web of science, BDSP) after two rounds (valid design, valid association reported, valid work exposure). Relevant associations between physical exposure at work and incident lateral epicondylitis were extracted from the articles and a metarisk was calculated using the generic variance approach (meta-odds ratios, meta-OR). RESULTS: From 2001 to 2014, 5 prospective studies were included. Among 6,922 included subjects (and 3,449 who were followed), 256 cases of incident lateral epicondylitis were diagnosed 2.5 to 6 years after baseline. All the published studies found a significant estimation of relative risk for a positive association between combined biomechanical exposure involving wrist and/or elbow and incidence of lateral epicondylitis. The overall meta-OR was 2.6 [1.9-3.5], with a low heterogeneity (Q=1.4, P>0.05). Funnel plot and Egger's test did not suggest major publication bias. CONCLUSION: The results of this meta-analysis strongly support the hypothesis of an association between biomechanical exposure involving wrist and/or elbow at work and incidence of lateral epicondylitis. This article is protected by copyright. All rights reserved.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.74,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Lateral Epicondylitis: Epidemiology, Occupational Risk Factors, and Public Health Implications",
+      "url": "https://zenodo.org/records/15689344",
+      "publisher": "GPH-International Journal of Biological & Medicine Science",
+      "year": "2025",
+      "doi": "10.5281/zenodo.15689344",
+      "abstract": "Lateral epicondylitis, commonly known as tennis elbow, is a prevalent musculoskeletal disorder characterized by pain and tenderness on the lateral aspect of the elbow, often linked to repetitive strain of the extensor carpi radialis brevis tendon. While frequently associated with sports, it is more commonly observed in working-age adults engaged in repetitive, forceful, or awkward upper limb activities. The condition affects approximately 1–3% of the population annually, with a peak incidence in individuals aged 35–54 years. Occupational risk factors include repetitive wrist and forearm motions, forceful exertions, vibration exposure, and poor ergonomic conditions, particularly in manual labor and certain service industries. Lateral epicondylitis contributes significantly to work-related disability, lost productivity, and healthcare costs, underscoring its importance as a public health concern. Effective management involves a combination of conservative treatment, ergonomic workplace interventions, and early diagnosis. Public health strategies should focus on prevention through ergonomic education, job redesign, and occupational health surveillance to mitigate the personal and economic burden of this condition.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Is Platelet-rich plasma superior to whole blood in the management of chronic tennis elbow: one year randomized clinical trial",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4006635/",
+      "publisher": "BMC sports science, medicine & rehabilitation",
+      "year": "2014",
+      "doi": "10.1186/2052-1847-6-12",
+      "abstract": "Background Lateral humeral epicondylitis, or 'tennis elbow', is a common condition with a variety of treatment options. Platelet-rich plasma (PRP) and Autologous Whole Blood (AWB) represent new therapeutic options for chronic tendinopathies including tennis elbow. The aim of the present study was to compare the long term effects of PRP versus autologous whole blood local injection in patients with chronic tennis elbow. Methods Seventy six patients with chronic lateral humeral epicondylitis with duration of symptoms more than 3 months were included in this study and randomized into 2 groups. Group 1 was treated with a single injection of 2 mL of autologous leukocyte rich PRP (4.8 times of plasma) and group 2 with 2 mL of AWB. Tennis elbow strap, stretching and strengthening exercises were administered for both groups. Pain and functional improvements were assessed using visual analogue scale (VAS), Mayo score (modified Mayo Clinic performance index for the elbow) and pressure pain threshold (PPT) at 0, 4, 8 weeks and 6 and 12 months. Results All pain variables including VAS, PPT and Mayo scores improved significantly in both groups at each follow up intervals compared to baseline. No statistically significant difference was noted between groups regarding pain, functional scores and treatment success rates in all follow up examinations (P >0/05). Conclusion PRP and autologous whole blood injections are both effective methods to treat chronic lateral epicondylitis and their efficacy persisted during long term follow up. PRP was not superior to AWB in long term follow up.",
+      "licence": "cc by",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.56,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Investigating the Presence of Inflammation in Lateral Epicondylitis with Platelet/Lymphocyte Ratio, Neutrophil/Lymphocyte Ratio, and Systemic Immune-Inflammation Index",
+      "url": "https://zenodo.org/records/7718532",
+      "publisher": "Chronicles of Precision Medical Researchers",
+      "year": "2023",
+      "doi": "10.5281/zenodo.7718532",
+      "abstract": "Aim: This study aims to assess the existence of inflammation in the physiopathology of lateral epicondylitis (LE) and to evaluate the levels of blood inflammation parameters. Material and Method: 72 patients with LE and 50 healthy individuals were included in this retrospective study. Age, gender, erythrocyte sedimentation rate (ESR), neutrophil, white blood cell (WBC), C-reactive protein (CRP), lymphocyte, platelet counts, platelet-lymphocyte ratio (PLR), neutrophil-lymphocyte ratio (NLR) and systemic immune-inflammation index (SII) levels were scanned retrospectively from the hospital information system. Results: While the patient and control groups were similar in terms of gender, age, CRP, ESR, lymphocyte, NLR and PLR values (p=0.902, p=0.108, p=0.193, p=0.902, p=0.523, p=0.140 and p=0.253, respectively), the median value of neutrophils, mean platelet, mean WBC and median SII score parameters were higher in the patient group (P=0.022, p=0.037, p=0.037, p=0.038, respectively). A strong correlation was detected between SII and NLR and PLR (both p<0.001, r:0.833 and r:0.778, respectively). The area under the curve (AUC) was calculated as 0.61 for SII via the receiver operating characteristics (ROC) curve analysis, (p=0,038). Conclusion: The SII value, which is an indicator of inflammation, was more elevated in the LE group than in the healthy group. More study is needed on this subject.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Effectiveness of Mulligan's Mobilization Technique Versus Eccentric Exercises on Pain, Hand Grip Strength and Function in Subjects with Lateral Epicondylitis",
+      "url": "https://zenodo.org/records/7497485",
+      "publisher": "International Journal of Innovative Science and Research Technology",
+      "year": "2023",
+      "doi": "10.5281/zenodo.7497485",
+      "abstract": "Lateral epicondylitisis the most common overuse syndrome in the elbow, due to injury to the muscles originate on the lateral epicondylar region of the distal humerus. This study was done to assess the effectiveness of Mulligan’s Mobilization versus Eccentric Exercises in subjects with Lateral Epicondylitis. Methods: Lateral Epicondylitis (LE) subjects, diagnosed by Orthopedician were included according to the inclusion criteria and obtained in writing with their consent. Randomly, 60 subjects were split into two groups of 30 each. Group A received Mulligan’s Mobilization where Group B received Eccentric exercises and the treatment was given for 12 sessions in 4 weeks. After the treatment, subjects were evaluated for their pain profile using visual analogue scale, grip strength by Hand dynamometer and functional activity by PRTEE questionnaire. Results: Paired t-test analysis was used to compare groups within each, and independent t-test analysis was performed to compare groups between each. Both groups were similarly efficient in reducing pain after 4 weeks (p>0.05), however Group B had a statistically significant improvement in hand grip strength and functional activities. Conclusion: This study concludes that, both Mulligan’s Movement and Eccentric Exercise Techniques are equally effective in reducing pain, whereas Eccentric Exercise found to be very effective in improving Hand Grip Strength and functional activity. Keywords- Lateral Epicondylitis, Mulligan’s Mobilization, Eccentric Exercises, Visual Analogue Scale (VAS), Hand-held Dynamometer, Patient Rated Tennis Elbow Evaluation Questionnaire (PRTEE Questionnaire).",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.52,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Radiocapitellar incongruity of the radial head in magnetic resonance imaging correlates with pathologic changes of the lateral elbow stabilizers in lateral epicondylitis",
+      "url": "https://doi.org/10.1371/journal.pone.0254037",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0254037",
+      "abstract": "Objective: Post-traumatic posterolateral rotatory instability (PLRI) can be shown as radiocapitellar incongruity or posterior translation (PT) of the radial head in magnetic resonance imaging (MRI). We aimed to evaluate whether PT correlated with pathologic changes of lateral elbow stabilizers in patients with lateral epicondylitis. Materials and methods: In MRIs of 160 patients with lateral epicondylitis, we measured PT of the radial head in the sagittal images. We qualitatively graded five lesions of the lateral elbow structures that included common extensor tendon (CET) lesion (grade 1–3), lateral collateral ligament complex (LCLC) insufficiency (grade 0–2), and absence or presence of bone marrow signal change, osteochondral lesion, and calcification. We analyzed whether the PT correlated with pathologic changes of the lateral elbow stabilizers and evaluated the diagnostic value of the PT for severe lesions. Results: The average PT was 1.9 mm. The PT correlated with both the CET lesion (p 3.4mm as suggested for post-traumatic PLRI, 21 patients had potential PLRI. The positive predictive values of the PT > 3.4mm were 76% for grade 3 CET lesions and 67% for grade 2 LCLC insufficiency. Conclusion: This study demonstrates that PT of the radial head correlates with pathological changes of the lateral elbow stabilizers. As radiocapitellar incongruity is easy to measure quantitatively, it can be used for screening potential PLRI in patients with lateral epicondylitis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effects of Kinesio-Taping in Lateral Epicondylitis: A Narrative Review",
+      "url": "https://hal.science/hal-05267152v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Aim: The objective of this narrative review was to assess the effects of Kinesio-Taping in Lateral Epicondylitis. Methods: A comprehensive search of already published relevant articles only from medical databases like Google Scholar, PubMed and ScienceDirect was carried out for obtaining the same from the year 2014-2019. Background: Lateral epicondylitis is a familiar musculoskeletal disorder that primarily affects the extensors of the wrist. Kinesio-taping (KT) is a newer generation taping technique that aid's the body’s healing process whilst supporting and giving stability to the muscles and joints without hindering the range of motion of the body. Conclusion: The current review recognises the need for Kinesio-Taping in individuals with Lateral Epicondylitis as it has shown to enhance the functionality of the wrists and reduce pain. Limitations: More in-depth studies are to be conducted to find out the mechanism behind Kinesio-Taping.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "A prospective study to compare efficacy of local corticosteroid and platelet rich plasma injection for treatment of lateral epicondylitis",
+      "url": "https://zenodo.org/records/3970125",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2018",
+      "doi": "10.5281/zenodo.3970125",
+      "abstract": "Background: Several modalities of management are available for lateral epicondylitis which is a common cause of pain around elbow. Corticosteroid for long time remained gold standard treatment of choice but Studies have suggested the use of platelet rich plasma (PRP) as a safe and effective choice of therapy. Purpose of this study was to evaluate the efficacy of autologous PRP vs steroid injection in treatment of chronic lateral epicondylitis. Methods: It was a Randomized control trial of 60 cases with at least 6 months of symptoms. PRP was prepared from 40 ml autologous venous blood by double centrifugation method. Patients were followed up to 6 months. All patients had a baseline assessment including Visual Analogue Scale (VAS) and Disability assessment of Shoulder and Hand score (DASH). Results: Mean age of patients was 36.5 and 38.3 years for PRP and Corticosteroid group respectively. Success was defined as reduction of pain (VAS) without re-intervention after a follow up of 6 months. Steroid treatment showed better outcome in short term and PRP showed better outcome in long term. Both VAS and DASH score showed significant progressive improvement with no complications with PRP whereas with steroid injection there was recurrence of symptoms after 3 months. Conclusion: Treatment of patients with Lateral Epicondylitis with PRP decreases pain and significantly increases function, even after a follow-up of 6 months.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "An evidence-based evaluation on the use of platelet rich plasma in orthopedics - a review of the literature",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5632954/",
+      "publisher": "SICOT-J",
+      "year": "2017",
+      "doi": "10.1051/sicotj/2017036",
+      "abstract": "Within orthopedics, the use of platelet-rich plasma (PRP) has been rapidly increasing in popularity, however, its true effectiveness has yet to be fully established. Several studies find that injecting PRP to the site of injury does not provide any significant benefit with respect to clinical outcomes; however, many others report the contrary. Due to the conflicting evidence and multiple meta-analyses conducted on the topic, a literature review of high-quality evidence on the use of PRP for common orthopaedic conditions was performed. Thus far, the evidence appears to suggest that PRP may provide some benefit in patients who present with knee osteoarthritis or lateral epicondylitis. On the other hand, evidence appears to be inconsistent or shows a minimal benefit for PRP usage in rotator cuff repair, patellar and Achilles tendinopathies, hamstring injuries, anterior cruciate ligament (ACL) repair, and medial epicondylitis. There is limited confidence in the conclusions from the published meta-analyses due to issues with statistical pooling, and limited subgroup analyses exploring the substantial heterogeneity across studies. Evidence-based clinicians considering the use of PRP in their patients with musculoskeletal injuries should be weary that the literature appears to be inconsistent and thus far, inconclusive.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Ultrasonography versus magnetic resonance imaging in detecting and grading common extensor tendon tear in chronic lateral epicondylitis",
+      "url": "https://doi.org/10.1371/journal.pone.0181828",
+      "publisher": "PLOS ONE",
+      "year": "2017",
+      "doi": "10.1371/journal.pone.0181828",
+      "abstract": "Objectives: To investigate the diagnostic performance and reliability of ultrasonography (US) in detecting and grading common extensor tendon (CET) tear in patients with chronic lateral epicondylitis (LE), using magnetic resonance imaging (MRI) as the reference standard. Materials and methods: The study comprised fifty-eight chronic LE patients. Each patient underwent US and MRI. CET status was classified as: high-grade tear (≥50% thickness), low-grade tear (<50% thickness), suspected tear (possible but not evident tear), no tear. Additionally, the following dichotomous scale was used: confirmed or unconfirmed CET tear. Relative US parameters (versus MRI) for detecting CET tear included: sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) and accuracy. The agreement between US and MRI findings was measured using the weighted Cohen kappa coefficient (κ). Results: US showed moderate agreement with MRI in detecting and grading CET tear (κ = 0.49). Sensitivity, specificity, and accuracy in CET tear detecting by US were 64.52%, 85.19%, and 72.73%, respectively. PPV and NPV of US were 83.33% and 67.65%, respectively. No patient with unconfirmed CET tear on US had high-grade CET tear on MRI. Conclusion: Ultrasonography is a valuable imaging modality that can be used as a screening tool to exclude high-grade CET tear in chronic LE patients. Once a tear is evident on US, MRI should be considered to assess precisely the extent of tendon injury.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Prospective comparative study of local steroid and autologous blood injection in the treatment of lateral epicondylitis",
+      "url": "https://zenodo.org/records/3970340",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2017",
+      "doi": "10.5281/zenodo.3970340",
+      "abstract": "Background: Tennis elbow (Lateral epicondylitis) frequently encountered myotendinosis affecting around 3 -5 % of population. It’s an ECRB insertion overuse injury at the lateral epicondyle of humerus affecting dominant arm. Non-operative treatment is successful in 80% of patients with tennis elbow. Recent research papers indicate autologous blood injection at the insertion of ECRB proved to be effective in decreasing pain in intermediate and long-term period Methods: This was a randomized control study done in Rajarajeshwari medical college and hospital, Bengaluru to compare the effectiveness of steroid and autologous blood local injection in terms of controlling pain and disability in short term. Total no. of 40 patients, divided in to 2 groups. One group injected at the site of lateral epicondyle with steroid (methyl prednisolone acetate-40mg) and another group with autologous blood (2ml of venous blood). Patients were followed up at 1st, 4th, and 12th week, pain and disability assessed with visual analogue scale (VAS) and Nirschl staging. Results: At 1st week corticosteroid injection group (Group I) recorded a statistically significant decrease in pain (VAS Score) compared to autologous blood injection group. At 4th week both group patients had decrease in pain and disability but statistically not significant when compared to each other. At 12th week review, autologous blood injection group (Group II) recorded statistically significant decrease in pain (P-0.0146) and disability (P-0.0001) compared to corticosteroid injection group. Conclusion: Since autologous blood injection at the lateral epicondyle on OPD basis showed significant improvement in pain and disability, we recommend using same for the treatment of tennis elbow.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Outcome Following Platelet Rich Plasma Injection In Patients Of Chronic Lateral Epicondylitis",
+      "url": "https://zenodo.org/records/3970557",
+      "publisher": "Orthopaedic Journal of M P Chapter",
+      "year": "2017",
+      "doi": "10.5281/zenodo.3970557",
+      "abstract": "Background: Various modalities of management are available for lateral epicondylitis which is a common cause of pain around elbow. Many studies have suggested the use of prp (platelet rich plasma) as a safe and effective mode of therapy. Material and Methods: purpose of this study was to assess the efficacy of prp injection in patients of chronic lateral epicondylitis.It was an interventional study of 70 cases with at least 6 months of symptoms and failed conventional therapy. PRP was prepared from 40 ml autologous venous blood by double centrifugation method.Patients were followed upto 6months. An analysis of result with regards to pain (vas score) was done. Results: Right elbow was predominantly affected in our sample. Mean age of patients was 41 years. Success was defined as reduction of pain (vas) without re-intervention after a follow up of 6 months. In all patients there was improvement in vas score .pre injection mean vas score of patients was 7.04 and at final follow-up it was 1.84. There was 74 % improvement in vas score. There was progressive improvement with no complications. Conclusion: Treatment of patients with tennis elbow with prp decreases pain and significantly increases function, even after a follow-up of 6 months.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Lateral epicondylitis of the elbow",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367546/",
+      "publisher": "EFORT open reviews",
+      "year": "2016",
+      "doi": "10.1302/2058-5241.1.000049",
+      "abstract": "Abstract Lateral epicondylitis, also known as ‘tennis elbow’, is a very common condition affecting mainly middle-aged patients. The pathogenesis remains unknown but there appears to be a combination of local tendon pathology, alteration in pain perception and motor impairment. The diagnosis is usually clinical but some patients may benefit from additional imaging for a specific differential diagnosis. The disease has a self-limiting course of between 12 and 18 months, but in some patients, symptoms can be persistent and refractory to treatment. Most patients are well-managed with non-operative treatment and activity modification. Many surgical techniques have been proposed for patients with refractory symptoms. New non-operative treatment alternatives with promising results have been developed in recent years. Cite this article: Vaquero-Picado A, Barco R, Antuña SA. Lateral epicondylitis of the elbow. EFORT Open Rev 2016;1:391-397. DOI: 10.1302/2058-5241.1.000049.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.24,
+      "providers": [
+        "europepmc",
+        "openaire"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "The Potential Risk Factors Relevant to Lateral Epicondylitis by Wrist Coupling Posture",
+      "url": "https://doi.org/10.1371/journal.pone.0155379",
+      "publisher": "PLOS ONE",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0155379",
+      "abstract": "The use of awkward wrist postures and unskilled techniques might induce lateral epicondylitis. This study thus investigated the effects of wrist deviation combined with extension and movement velocity on the dynamic performances of the wrist muscles during the coupling posture via a custom-made bi-planar isokinetic dynamometer. Thirty subjects were recruited to perform the isokinetic testing. We measured the muscle strengths and activities for the wrist extensors and flexors during concentric and eccentric contractions at three movement velocities, 30°s-1, 90°s-1, and 180°s-1, combined with three wrist postures, neutral position (NP), radial deviation (RD), and ulnar deviation (UD). The root mean square (RMS) of the electromyographic signal in the extensor digitorum communis (EDC), normalized peak torque of extensors, and ratio of normalized peak torque between wrist extensors and flexors, were all greater in the NP than RD and UD in both contractions. The ratio of RMS between EDC and flexor digitorum superficialis (FDS) had a significantly greater value in RD than UD during the concentric contraction. The EDC showed significantly higher activity at the fast velocity in both contractions. Nevertheless, a significantly higher RMS of the electromyographic signal between EDC and FDS and the ratio of strength between wrist extensors and flexors were found at slow velocity in both contractions. The wrist deviation combined with extension and movement velocity of the wrist joint should thus be considered as influential factors which might alter the dynamic performances, and may result in further injury of the elbow joint.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "MR Imaging of Patients with Lateral Epicondylitis of the Elbow: Is the Common Extensor Tendon an Isolated Lesion?",
+      "url": "https://doi.org/10.1371/journal.pone.0079498",
+      "publisher": "PLoS ONE",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0079498",
+      "abstract": "Objective: To investigate whether an injury of the common extensor tendon (CET) is associated with other abnormalities in the elbow joint and find the potential relationships between these imaging features by using a high-resolution magnetic resonance imaging (MRI). Methods: Twenty-three patients were examined with 3.0 T MR. Two reviewers were recruited for MR images evaluation. Image features were recorded in terms of (1) the injury degree of CET; (2) associated injuries in the elbow joint. Spearman’s rank correlation analysis was performed to analyze the relationships between the injury degree of CET and associated abnormalities of the elbow joint, correlations were considered significant at p<0.05. Results: Total 24 elbows in 23 patients were included. Various degrees of injuries were found in total 24 CETs (10 mild, 7 moderate and 7 severe). Associated abnormalities were detected in accompaniments of the elbow joints including ligaments, tendons, saccussynovialis and muscles. A significantly positive correlation (r = 0.877,p<0.01) was found in injuries of CET and lateral ulnar collateral ligament (LUCL). Conclusion: Injury of the CET is not an isolated lesion for lateral picondylitis, which is mostly accompanied with other abnormalities, of which the LUCL injury is the most commonly seen in lateral epicondylitis, and there is a positive correlation between the injury degree in CET and LUCL.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.12,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Extracorporeal shockwave therapy in musculoskeletal disorders",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342893/",
+      "publisher": "Journal of orthopaedic surgery and research",
+      "year": "2012",
+      "doi": "10.1186/1749-799x-7-11",
+      "abstract": "The sources of shockwave generation include electrohydraulic, electromagnetic and piezoelectric principles. Electrohydraulic shockwaves are high-energy acoustic waves generated under water explosion with high voltage electrode. Shockwave in urology (lithotripsy) is primarily used to disintegrate urolithiasis, whereas shockwave in orthopedics (orthotripsy) is not used to disintegrate tissues, rather to induce tissue repair and regeneration. The application of extracorporeal shockwave therapy (ESWT) in musculoskeletal disorders has been around for more than a decade and is primarily used in the treatment of sports related over-use tendinopathies such as proximal plantar fasciitis of the heel, lateral epicondylitis of the elbow, calcific or non-calcific tendonitis of the shoulder and patellar tendinopathy etc. The success rate ranged from 65% to 91%, and the complications were low and negligible. ESWT is also utilized in the treatment of non-union of long bone fracture, avascular necrosis of femoral head, chronic diabetic and non-diabetic ulcers and ischemic heart disease. The vast majority of the published papers showed positive and beneficial effects. FDA (USA) first approved ESWT for the treatment of proximal plantar fasciitis in 2000 and lateral epicondylitis in 2002. ESWT is a novel non-invasive therapeutic modality without surgery or surgical risks, and the clinical application of ESWT steadily increases over the years. This article reviews the current status of ESWT in musculoskeletal disorders.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Ultrasound-guided versus palpation-guided platelet-rich plasma injection for the treatment of chronic lateral epicondylitis: A prospective, randomized study",
+      "url": "http://localhost/avestema/index.php/pub/article/view/1315",
+      "publisher": "Archives of Rheumatology",
+      "year": "2023",
+      "doi": "10.46497/ArchRheumatol.2023.9196",
+      "abstract": "Objectives: This study aims to compare the effectiveness of palpation-guided and ultrasound (US)-guided platelet-rich plasma (PRP) injections in patients with chronic lateral epicondylitis (LE). Patients and methods: Between January 2021 and August 2021, a total of 60 patients (34 males, 26 females; mean age: 40.5±10.9 years; range, 22 to 64 years) diagnosed with chronic LE were included. The patients were randomly allocated to either the palpation-guided (n=30) or the US-guided injection group (n=30) before they received PRP injection. All patients were assessed using the Visual Analog Scale (VAS), Disabilities of the Arm, Shoulder and Hand (DASH) scale, and grip strength at baseline and at one, three, and six months after injection. Results: Baseline sociodemographic and clinical variables were statistically similar between two groups (p>0.05). The VAS and DASH scores improved significantly after the injection at each control, as well as grip strength in both groups (p0.05). No significant complication related to the injection was observed in any of the groups. Conclusion: This study demonstrates that both palpation-guided and US-guided PRP injection protocols can improve clinical symptoms and functional parameters of patients with chronic LE.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.92,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Systematic Review of Dextrose Prolotherapy for Chronic Musculoskeletal Pain",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4938120/",
+      "publisher": "Clinical medicine insights. Arthritis and musculoskeletal disorders",
+      "year": "2016",
+      "doi": "10.4137/cmamd.s39160",
+      "abstract": "Objective The aim of this study was to systematically review dextrose (d-glucose) prolotherapy efficacy in the treatment of chronic musculoskeletal pain. Data sources Electronic databases PubMed, Healthline, OmniMedicalSearch, Medscape, and EMBASE were searched from 1990 to January 2016. Study selection Prospectively designed studies that used dextrose as the sole active prolotherapy constituent were selected. Data extraction Two independent reviewers rated studies for quality of evidence using the Physiotherapy Evidence Database assessment scale for randomized controlled trials (RCTs) and the Downs and Black evaluation tool for non-RCTs, for level of evidence using a modified Sackett scale, and for clinically relevant pain score difference using minimal clinically important change criteria. Study population, methods, and results data were extracted and tabulated. Data synthesis Fourteen RCTs, 1 case-control study, and 18 case series studies met the inclusion criteria and were evaluated. Pain conditions were clustered into tendinopathies, osteoarthritis (OA), spinal/pelvic, and myofascial pain. The RCTs were high-quality Level 1 evidence (Physiotherapy Evidence Database ≥8) and found dextrose injection superior to controls in Osgood-Schlatter disease, lateral epicondylitis of the elbow, traumatic rotator cuff injury, knee OA, finger OA, and myofascial pain; in biomechanical but not subjective measures in temporal mandibular joint; and comparable in a short-term RCT but superior in a long-term RCT in low back pain. Many observational studies were of high quality and reported consistent positive evidence in multiple studies of tendinopathies, knee OA, sacroiliac pain, and iliac crest pain that received RCT confirmation in separate studies. Eighteen studies combined patient self-rating (subjective) with psychometric, imaging, and/or biomechanical (objective) outcome measurement and found both positive subjective and objective outcomes in 16 studies and positive objective but not subjective outcomes in two studies. All 15 studies solely using subjective or psychometric measures reported positive findings. Conclusion Use of dextrose prolotherapy is supported for treatment of tendinopathies, knee and finger joint OA, and spinal/pelvic pain due to ligament dysfunction. Efficacy in acute pain, as first-line therapy, and in myofascial pain cannot be determined from the literature.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.74,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Denervation procedure of the lateral epicondyle for refractory lateral epicondylitis",
+      "url": "https://doi.org/10.1016/j.jseint.2024.03.019",
+      "publisher": "Elsevier BV",
+      "year": "2025",
+      "doi": "10.1016/j.jseint.2024.03.019",
+      "abstract": "Lateral epicondylitis is the most common cause of lateral elbow pain in adults, and nonoperative treatment is the first-line management modality of choice. Pain refractory to conservative management may improve with surgical interventions involving extensor carpi radialis brevis débridement or denervation. This investigation was conducted to evaluate the long-term analgesic efficacy, incidence of postoperative sensory deficits, and postoperative elbow functionality in patients who underwent a denervation surgery of the posterior branch of the posterior cutaneous nerve of the forearm (PBPCNF) for refractory lateral epicondylitis.This investigation was an institutional review board-approved, single-center, single-surgeon case series of 22 patients who underwent denervation surgery with an average final follow-up of 4.7 years. Inclusion criteria for surgery were a minimum of 6 months symptom duration refractory to conservative therapies, a minimum of 2 years clinical follow-up, and significant (70-80%) pain relief from the nerve block test. Visual Analog Scale pain and Single Assessment Numeric Evaluation scores were used to assess pain and function, respectively. The incidence of postoperative sensory deficits was evaluated via clinical exam.Compared to the preoperative average, the cohort's mean Visual Analog Scale pain was significantly decreased at all postoperative follow-up intervals, including 2 weeks, 1 year, and final average follow-up of 4.7 years. At the final follow-up, the mean Single Assessment Numeric Evaluation score was 98.8 ± 2.6, and one patient (4.5%), who reported the same sensory deficit preoperatively, reported postoperative sensory deficits.The PBPCNF denervation procedure is a highly efficacious procedure for achieving long-term pain control in the treatment of refractory lateral epicondylitis. The PBPCNF denervation procedure affords patients a high level of postoperative functionality with a low incidence of sensory deficits.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effects of Eccentric Tyler Twist Extensor-Strengthening Exercises in Lateral Epicondylitis",
+      "url": "https://journals.riphah.edu.pk/index.php/jrcrs/article/view/1759",
+      "publisher": "Journal Riphah College of Rehabilitation Sciences",
+      "year": "2024",
+      "doi": "",
+      "abstract": "Background: Lateral epicondylitis, commonly known as tennis elbow, is characterized by pain and functional limitations at the elbow due to overuse. This study focuses on evaluating the effects of Tyler twist wrist extensor-strengthening exercises, aiming to provide insights into an effective intervention for this condition. Objective: This study aimed to determine the effects of Tyler twist wrist extensor strengthening exercises on pain, disability, and grip strength in patients with lateral epicondylitis. Methodology: A randomized controlled trial was conducted at Cina Medical Center Rawalpindi from February 2022 to January 2023. Fifty-two participants meeting the inclusion criteria were assigned to either Group A or Group B. Group A received eccentric Tyler twist exercises in addition to conventional physiotherapy, while Group B received conventional physiotherapy alone. Pain, functional disability, and grip strength were assessed at baseline, the second week, and the fourth week. Data was analyzed with SPSS version 25. Demographics and descriptive data is presented in form of percentages, frequencies and mean + SD. Normality of the data is determined via Shapiro Wilk Test. We applied mixed-way ANOVA to find the interaction between two groups. Results: Within-group analysis demonstrated a significant improvement in pain, functional disability, and grip strength for both groups (p-value < 0.01). Between-group analysis revealed a significant difference in pain, functional disability, and grip strength. Conclusion: The addition of eccentric Tyler twist exercises to conventional therapy showed a statistically significant difference in terms of pain, functional disability, and grip strength in patients with lateral epicondylitis. Keywords: Extensor Carpi Radialis Brevis, Lateral Epicondylitis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Comparison of Carrying Angle of Elbow between Patients with and without Lateral Epicondylitis: An Observational Study",
+      "url": "https://www.jnma.com.np/jnma/index.php/jnma/article/view/8863",
+      "publisher": "Journal of Nepal Medical Association",
+      "year": "2024",
+      "doi": "10.31729/jnma.8863",
+      "abstract": "Introduction: Lateral epicondylitis is a common cause of elbow pain, characterized by pain on the lateral side of the elbow joint. Its multifactorial etiology may result from repetitive micro-trauma, overuse of the forearm extensor muscles, use of vibrating tools, and anatomical variables causing lateral wear. In case of increased carrying angle of elbow, the course of extensor carpi radialis brevis during movement can be altered, thus increasing the tension on the extensor carpi radialis brevis tendon and increasing the risk for lateral epicondylitis. This study aims to find out the difference in carrying angle of elbow in patients with and without lateral epicondylitis. Methods: An observational cross-section study comparing carrying angle of elbow in patient with and without lateral epicondylitis was performed after ethical approval from the Institutional Review Committee (Reference number: 080/081-019) Patients presenting who had undergone radiographic examination of the elbow were recruited in the study and divided into the lateral epicondylitis group and the normal group. The mean carrying angle of elbow in both groups was compared using the parametric test. Results: This study included 82 participants, with 41 participants in the lateral epicondylitis group and 41 participants in the normal group. The mean carrying angle of elbow among patients with lateral epicondylitis group was 14.35±1.4 degrees; and the normal group, it was 12.40±1.26 degrees (p<0.001). Conclusions: The carrying angle of elbow in patients with lateral epicondylitis was significantly more than those without lateral epicondylitis.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Recognition and Differentiation of Baker Lesions in Lateral Epicondylitis During Arthroscopic Debridement",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2212628724002676",
+      "publisher": "Arthroscopy Techniques",
+      "year": "2024",
+      "doi": "10.1016/j.eats.2024.103142",
+      "abstract": "Recognition of lateral capsular disruptions (Baker lesions) that are commonly identified during arthroscopic lateral epicondylitis release is important because understanding that these lesions exist—and the variation of their arthroscopic appearance—is important. In addition, identifying Baker lesions serves as evidence supporting lateral epicondylitis as the cause of symptoms. The purposes of this article are to describe the classification system and to arthroscopically show examples of each lesion type, as well as to describe our technique for arthroscopic lateral epicondylitis release.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Comprehensive Comparative Study on the Injection of Autologous Whole Blood Versus Corticosteroid for Lateral Epicondylitis",
+      "url": "https://hal.science/hal-05118670v1",
+      "publisher": "HAL open archive",
+      "year": "2024",
+      "doi": "10.9734/bpi/mmrnp/v8/1976",
+      "abstract": "Background: Lateral epicondylitis, commonly known as tennis elbow, is a common musculoskeletal condition affecting the extensor tendons of the forearm, specifically the common extensor tendon originating at the lateral epicondyle of the humerus. Individuals engaged in professions or sports that involve frequent and forceful use of the forearm, such as carpentry, painting, or playing racquet sports, are at an increased risk. Objective: The objective is to compare the efficacy, in terms of pain relief and functional improvement, of autologous whole blood and corticosteroid injection in managing lateral epicondylitis. Methods: This was a comparative study conducted in the Department of Orthopedics, National Institute of Medical Sciences Jaipur, Rajasthan, India. Eighty patients diagnosed to be having lateral epicondylitis were included in this study on the basis of predefined inclusion and exclusion criteria. A detailed history was obtained in terms of the presence of any chronic system illness such as hypertension, diabetes mellitus, arthritis, or any autoimmune disorder. The patients were divided into 2 groups on the basis of whether they were given autologous whole blood (Group B) or corticosteroid injection (Group S). The efficacy of both the treatment modalities was compared in terms of Pain relief (as assessed by a reduction in Visual Analogue Score [VAS] score) and functional improvement (as assessed by an improvement in the Mayo Elbow performance score). SSPS 22.0 software was used for statistical analysis and p<0.05 was taken as statistically significant. Results: A total of 80 patients were included in this study out of which there were 37 (46.25%) males and 43 (53.75%) females with a M: F ratio of 1:1.16. The mean age of patients in Group B and Group S was found to be 52.36±9.98 years and 48.46±10.12 years, respectively. The mean age of patients in both groups was found to be comparable with no statistically significant difference (p=0.0866). In this study, till 2 weeks after injection, the reduction in VAS score was found to be comparable in both groups. At the time of 4 weeks, 8 weeks, and 12 weeks follow–up, the mean VAS score in Group B was less as compared to Group S, and the difference was found to be statistically highly significant (p<0.0001). At the time of 4 weeks, 8 weeks, and 12 weeks follow-up, the mean MEPS in Group B was more as compared to Group S, and the difference was found to be statistically significant (p<0.05). Conclusion: It is concluded that both interventions exhibited a favourable safety profile, with minimal and manageable adverse effects. However, for lateral epicondylitis, whole blood injection demonstrated superior efficacy in terms of pain relief and functional improvement as compared to injection of corticosteroid.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Assessment of the Functional and Clinical Outcomes of Arthroscopic Release of Extensor Carpi Radialis Brevis in Management of Chronic Lateral Epicondylitis",
+      "url": "https://hal.science/hal-05193769v1",
+      "publisher": "Asian Journal of Orthopaedic Research",
+      "year": "2023",
+      "doi": "",
+      "abstract": "Background: Lateral epicondylitis commonly known as tennis elbow, is one of the commonest causes of elbow pain and dysfunction. It is due to excessive use of the muscles of the back of the forearm. Histological findings include granulation tissue and micro-rupture, degenerative changes with no traditional inflammation. Nowadays, management of tennis elbow is achieved through arthroscopy for release of extensor carpi radialis brevis (ECRB) tendon. Aim: To improve the quality of life of chronic lateral epicondylitis patients. Subjects and Methods: This study was Quasi experimental study where Twenty-five patients with chronic lateral epicondylitis were enrolled in the study and were subjected to history taking, physical examination, and then they underwent arthroscopic release of (ECRB) tendon for management of chronic lateral epicondylitis. Outcomes were assessed by Nirschl tennis elbow score and DASH scoring system. Results: A total of 25 patients with mean age of 43.5± 6.6 years and 44% were males. Sixty-eight percent of them had no comorbidities. Ninety-six percent of the participants had history of previous steroid injections with the mean of 1.8± 0.8. There was statistically decrease in DASH score among patients after 6 and 12 weeks of operation than preoperative (p <0.001). Also, there was statistically significant improvement in the NIRSCHL score among patients after 6 and 12 weeks compared to preoperative score (P <0.001). Postoperative complications were reported among only 2 patients. Conclusion: We suggested that arthroscopic release of extensor carpi radialis brevis is effective in management of chronic lateral epicondylitis as it is improving function and decreasing impairment. So, we consider extensor carpi radialis brevis tendon release is a good option for treatment of lateral epicondylitis with minimal complications.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Effect of Oculus Guided Physical Therapy in Adjunct to Conventional Therapy in Lateral Epicondylitis Patients",
+      "url": "https://hal.science/hal-05284023v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Background: Lateral epicondylitis (LE) is a very common condition musculoskeletal in nature affecting the elbow, causing significant pain, disability and loss of grip strength. The conservative management program for lateral epicondylitis includes rest, cryotherapy, and ultrasound, stretching and strengthening exercises. The Oculus Quest is a virtual reality headset. The oculus adventure game ‘Hand Physics Lab' encourages you to try virtual reality in a new way by providing you complete control over your hands and fingers. VR is a developing technology that can be a valuable supplement to conventional therapeutic modalities. Methods: In this study, a total of 60 patients with lateral epicondylitis will be included and divided into two groups of 30 participants each of age group 25-45 years. Group A will undergo conservative management of lateral epicondylitis and Group B will undergo oculus therapy by a hand tracking game ‘Hand Physics Lab’ along with the conservative management. Visual analog scale, Range Of Motion, PRTEE scale are used as outcome measures before and after the treatment and results will be analyzed. Discussion: In this study the effect of oculus guided therapy with conventional Physiotherapy over conventional physiotherapy will be investigated in improving functional level and reducing pain in patients with LE. Individuals in mechanical professions or recreational activities with repetitive stress and intensive usage of forearm muscles are more likely to develop lateral epicondylitis. Physical therapy is now widely accepted as a standard treatment option for persistent lateral epicondylitis. Furthermore, this study can be useful in applying recent advancement in virtual reality for the betterment of health. This study can provide virtual reality in tennis elbow patients for improved motion control, improved quality of life and more patient entertainment to encourage motor learning.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Comparative Study to Evaluate the Efficacy of Supervised Exercise Program and Cyriax Physiotherapy on Pain and Function in Lateral Epicondylitis",
+      "url": "https://hal.science/hal-05270596v1",
+      "publisher": "Journal of Pharmaceutical Research International",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Aims: To see the effectiveness of supervised exercises and cyriax physiotherapy both including therapeutic ultrasound for improving pain and function in adults with lateral epicondylitis. Study Design: Comparative study- to find out the efficacy of effectiveness of two different interventions for reducing pain and improving function in patients with lateral epicondylitis Place and Duration of Study: Department of Musculoskeletal Physiotherapy Sciences, Ravi Nair Physiotherapy College, Sawangi (Meghe), Wardha, for 12 months. Methodology: A total of 30 people with lateral epicondylitis (tennis elbow) were selected to take part in a comparative research. Subjects were randomized 1:1 to either (1) supervised exercise programme group, or (2) cyriax physiotherapy group. Over just a 4-week period, three times each week for a sum of 12 sessions, promptly after baseline evaluation and randomization, subjects received static stretching of Extensor Carpi Radialis Brevis followed by eccentric strengthening of the wrist extensors and Therapeutic Ultrasound in supervised exercise programme group. While those in cyriax physiotherapy group received deep transverse friction massage for 10 min immediately followed by Mill’s manipulation and Ultrasound. The study concluded at the 4 weeks. Results: Out of 30 patients half were placed in each group, where p=.0001. Significant increase in mean in the group I and II in pre ad post-test VAS score (4.20±0.77 and 5.20±0.67) and TEFS score pre and post-test (17.33±1.44 and 19.80±1.42). analysis showed significant improvement in both the groups. Conclusion: From the observations and results, the conclusion drawn that there is significant improvement in both the groups but effect of cyriax physiotherapy in the form of deep friction massage and mills manipulation combined with therapeutic ultrasound for improving pain on VAS and function on TEF scale.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Management of lateral epicondylitis",
+      "url": "https://doi.org/10.1016/j.otsr.2019.09.004",
+      "publisher": "Elsevier BV",
+      "year": "2019",
+      "doi": "10.1016/j.otsr.2019.09.004",
+      "abstract": "Lateral epicondylitis is the most common cause of lateral elbow pain. Although also known as tennis elbow, lateral epicondylitis often develops as a work-related condition and therefore constitutes a major public health issue. This article reviews the pathophysiological factors involved in lateral epicondylitis, as well as the tools available for establishing the diagnosis and ruling out other causes of lateral elbow pain. Finally, the non-operative and surgical treatment options are discussed in detail.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.36,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Subtle elbow instability associated with lateral epicondylitis",
+      "url": "http://link.springer.com/article/10.1186/s12891-018-2069-8",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2018",
+      "doi": "10.1186/s12891-018-2069-8",
+      "abstract": "Abstract Background In lateral epicondylitis, even in the absence of apparent instability, subtle instability can be found under anesthesia. We wanted to ascertain the following: (1) how many elbows surgically treated with lateral epicondylitis showed subtle instability during examination under anesthesia (EUA), (2) how effective magnetic resonance imaging (MRI) was in predicting subtle instability, and (3) if any difference existed in preoperative clinical data between elbows with and without subtle instability during EUA. Methods One hundred and twenty-two elbows (117 patients) diagnosed with intractable lateral epicondylitis underwent surgical treatment. No elbow showed apparent instability with conventional physical examination. Under general anesthesia, the elbows were examined for subtle instability via fluoroscopy and divided into unstable and stable groups. Potential prognostic factors and functional scores were assessed retrospectively. The MRIs were reviewed again by two radiologists. Results Seventeen elbows (unstable group, 13.9%) had subtle instability in EUA, while 105 elbows (stable group, 86.1%) did not. Lateral collateral ligament (LCL) complex injury was noted in the MRIs of 28 elbows. Fifteen elbows showed subtle instability among 28 elbows with abnormal MRI (positive predictive value, 53.6%), while 81 elbows did not show subtle instability among 82 elbows with normal MRI (negative predictive value, 98.7%). The preoperative visual analog scale score was higher in the unstable group than in the stable group (p < 0.001), and a history of multiple corticosteroid injections (≥3) was related to subtle instability in EUA (p = 0.042). Other factors showed no significant differences between both groups. Conclusions Subtle instability resulting from LCL complex injury was noted in elbows with lateral epicondylitis. This could be visualized with fluoroscopic EUA, and preoperative MRI could be used to exclude subtle instability. Surgeons should consider checking for subtle instability, especially when patients have a history of multiple corticosteroid injections (≥3) or severe pain and MRI indicates instability.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Investigation of lateral epicondylitis in neurosurgeons",
+      "url": "https://doi.org/10.5137/1019-5149.jtn.24499-18.2",
+      "publisher": "Turkish Neurosurgical Society",
+      "year": "2018",
+      "doi": "10.5137/1019-5149.jtn.24499-18.2",
+      "abstract": "To investigate the frequency of lateral epicondylitis (LE), depending on the tasks performed by neurosurgeons, and to determine whether it can be accepted as an occupational disease depending on its frequency.All neurosurgery specialists enrolled in the Turkish Neurosurgical Society website were prospectively included. A questionnaire form was shared, and the subsequent responses were recorded. Those who provided incomplete responses were excluded from the study. The respondents diagnosed with LE were recorded. Exclusion criteria were investigated on complaints of pain. They were examined by an orthopedics and traumatology specialist with application of Thomsen test and necessary maneuvers.The study was conducted with 216 neurosurgeons. Those with more than 30 operations per month (p=0.002), those with a specialization duration of 10-20 years and > 20 years (p=0.001), and those who specialized in spinal surgery (p=0.014) had a significantly higher prevalence of epicondylitis. Considering the relationship between lumbar/thoracic pedicle screw insertion and epicondylitis, the epicondylitis diagnosis rate was significantly higher in physicians inserting 20â€\"60 screws per month than those inserting < 20 screws (p=0.009).LE frequently occurs in neurosurgeons who regularly perform spinal instrumentation and appears to be an occupational disease. However, data obtained during the current study should be combined with findings from case-control studies of neurosurgeons.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.32,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Treatment of Refractory Chronic Lateral Epicondylitis by Ultrasound Guided Injection of Autologus Stem Cells versus Autologus Whole Blood",
+      "url": "https://hal.science/hal-05388660v1",
+      "publisher": "Journal of Advances in Medicine and Medical Research",
+      "year": "2017",
+      "doi": "",
+      "abstract": "Background: Lateral epicondylitis, or tennis elbow, is a very common cause of elbow pain among the general population. It is a common presentation in orthopedic clinics. Patients and Methods: Thirty patients with chronic lateral epicondylitis were included in this prospective study. The patients were divided into two treatments groups. The first group contains seventeen cases treated by local injection of autologous whole blood (group I) whereas the second group contains thirteen cases treated by local injection of autologous stem cells (group II). Results: In the first group, after a mean follow up of 21.2 months, the average VAS improved from 8.2 to 3.2, the average DASH score improved from 74 to 50 and the average Nirchl score improved from 5.9 to 2.7. In the second group, after a mean follow up of 18.7 months, the average VAS improved from 8.7 to 1.7, the average DASH score improved from 76 to 46 and the average Nirchl score improved from 5.8 to 1.7 Conclusion: Both stem cells and whole blood injections are safe and helpful for treating chronic lateral epicondylitis. Stem cell injection proved to be safer and more effective for treating tendinopathy. Ultrasonography plays an important role in diagnosing the condition, guiding the injection site as well as assessment of the response to treatment.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Diagnostyka i leczenie zachowawcze łokcia tenisisty = Diagnosis and conservative treatment of tennis elbow",
+      "url": "https://zenodo.org/records/164191",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.164191",
+      "abstract": "Wójcik Gustaw, Stawińska Teresa, Szulc Anna, Sokołowska Barbara. Diagnostyka i leczenie zachowawcze łokcia tenisisty = Diagnosis and conservative treatment of tennis elbow. Journal of Education, Health and Sport. 2016;6(11):98-107. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.164191 http://ojs.ukw.edu.pl/index.php/johs/article/view/3969 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 2 2. 10 .2016. Revised 30 . 10 .2016. Accepted: 31 .10.2016. DIAGNOSTYKA I LECZENIE ZACHOWAWCZE ŁOKCIA TENISISTY DIAGNOSIS AND CONSERVATIVE TREATMENT OF TENNIS ELBOW Wójcik Gustaw 1,2 , Stawińska Teresa 3 , Szulc Anna 3 , Sokołowska Barbara 1 1 Państwowa Szkoła Wyższa im. Papieża Jana Pawła II w Białej Podlaskiej, Wydział Nauk o Zdrowiu i Nauk Społecznych. 2 Uniwersytet Medyczny w Lublinie, Katedra Rehabilitacji, Fizjopterapii i Balneoterapii, Zakład Balneoterapii. 3 Uniwersytet Medyczny w Lublinie, Katedra Rehabilitacji, Fizjoterapii i Balneoterapii, Zakład Rehabilitacji. dr n. med. Wójcik Gustaw 1,2 dr n. o zdr. Stawińska Teresa 3 dr n. o zdr. Szulc Anna 3 dr n. med. Sokołowska Barbara 1 Słowa kluczowe: łokieć tenisisty, nadkłykieć boczny, tendinopatie STRESZCZENIE Wstęp Łokieć tenisisty jest stosunkowo częstym zaburzeniem układu mięśniowo-szkieletowego, dla którego skuteczna strategia leczenia jest nadal nieznana. Odpowiedzialny jest za znaczny ból i utratę funkcji chorej kończyny. Charakterystyczne dla schorzenia są degeneracyjne zmiany w strukturze kolagenu oraz nieprawidłowości w ukrwieniu związane z procesem neowaskularyzacji. Patologia jest wynikiem powtarzających się mikrourazów prowadzących do uszkodzenia tkanek. Czułość diagnostyki obrazowej zależna jest od czasu trwania schorzenia. Pierwszy okres choroby zazwyczaj wywoływany jest urazem, któremu może towarzyszyć stan zapalny, dlatego najbardziej skuteczną metodą leczenia może być terapia przeciwzapalna i unieruchomienie kończyny. Okres późniejszy to zmiany zwyrodnieniowe, a leczenie polega głównie na zwalczaniu bolesnych objawów. Stany oporne na leczenie zachowawcze kwalifikowane są do leczenia chirurgicznego. Cel pracy Przedstawienie aktualnej wiedzy na temat diagnostyki i leczenia entezopatii nadkłykcia bocznego kości ramiennej. Materiał i metody Praca oparta na przeglądzie piśmiennictwa z Baz PubMed, Scopus oraz Web of Science. Wnioski Podstawowym badaniem obrazowym w diagnostyce łokcia tenisisty jest badanie ultrasonograficzne. Klasyczna radiologia jest raczej wykorzystywana do różnicowania innych chorób dotyczących łokcia. Współczesne metody leczenia łokcia tenisisty oparte są na terapii zmian zwyrodnieniowych. Leczenie przeciwzapalne jest nieskuteczne w powyższej jednostce chorobowej. Key words: tennis elbow, lateral epicondylitis, tendinopathy ABSTRACT Introduction. Tennis elbow is a relatively common disorder of the musculoskeletal system, for which effective treatment strategy is still unknown. It is responsible for considerable pain and loss of function of the affected limb. Characteristic for the diseases are degenerative changes in the structure of collagen and abnormalities in blood supply associated with the process of neovascularization. Pathology is due to cycles of repetitive stress leading to tissue damage. The sensitivity of imaging depends on the duration of the disease. The first period of the disease is usually caused by trauma, which may be accompanied by inflammation, which is why the most effective treatment may be anti-inflammatory therapy and immobilization of a limb. The subsequent period is connected with degenerative changes, and treatment relies mainly on combating the painful symptoms. Conditions refractory to conservative treatment are eligible for surgery. The objective of the study. Presentation of current knowledge about diagnosis and treatment of enthesopathy of the lateral epicondyle of the humerus. Materials and method. The work is based on a review of literature of Baz PubMed, Scopus and Web of Science. Conclusions. The primary imaging technique for the diagnosis of tennis elbow is ultrasound. Classic radiology is rather used for the differentiation of other diseases related to the elbow. Modern methods of treatment of tennis elbow are based on the treatment of degenerative changes. Anti-inflammatory treatment is ineffective in the above disease.",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Skuteczność kompleksowej fizjoterapii ambulatoryjnej u chorych z rozpoznaniem zapalenia nadkłykcia bocznego kości ramiennej = The efficiency of complex outpatient physiotherapy in patients diagnosed with lateral epicondylitis",
+      "url": "https://zenodo.org/records/60741",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.60741",
+      "abstract": "Pasiud Klaudia, Garczyński Wojciech. Skuteczność kompleksowej fizjoterapii ambulatoryjnej u chorych z rozpoznaniem zapalenia nadkłykcia bocznego kości ramiennej = The efficiency of complex outpatient physiotherapy in patients diagnosed with lateral epicondylitis. Journal of Education, Health and Sport. 2016;6(8):400-416. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.60741 http://ojs.ukw.edu.pl/index.php/johs/article/view/3764 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 01.08.2016. Revised 08.08.2016. Accepted: 19.08.2016. Skuteczność kompleksowej fizjoterapii ambulatoryjnej u chorych z rozpoznaniem zapalenia nadkłykcia bocznego kości ramiennej The efficiency of complex outpatient physiotherapy in patients diagnosed with lateral epicondylitis Klaudia Pasiud 1, A, B, D-F , Wojciech Garczyński 2, 3, A, C-F 1 absolwentka Wydziału Zamiejscowego w Szczecinie, Wyższej Szkoły Edukacji i Terapii w Poznaniu 2 Wyższa Szkoła Edukacji i Terapii w Poznaniu, Wydział Studiów Edukacyjnych 3 Indywidualna Praktyka Fizjoterapeutyczna w Szczecinie A. przygotowanie projektu badawczego; B. zbieranie danych; C. analiza statystyczna; D. interpretacja danych; E. przygotowanie manuskryptu; F. opracowanie piśmiennictwa; G. pozyskanie funduszy. Autor do korespondencji: dr n. o zdr. Wojciech Garczyński Indywidualna Praktyka Fizjoterapeutyczna ul. Biskupa Bandurskiego 71/17 71-685 Szczecin mail: w.garczynski@gmail.com STRESZCZENIE WSTĘP. Zapalenie nadkłykcia bocznego kości ramiennej, zwane powszechnie „łokciem tenisisty” jest jedną z najczęściej rozpoznawanych dolegliwości w okolicy stawu łokciowego u osób między 30 a 65 rokiem życia. Schorzenie to występuje wśród 1-3% populacji, a jej główną przyczyną są przeciążenia mięśni prostowników przedramienia w wyniku długotrwałej pracy dynamicznej lub statycznej o niewielkim obciążeniu. Osoby, które zawodowo wykonują czynności manualne są szczególnie predysponowane do powstania tego schorzenia. CEL. Celem przeprowadzonych badań była ocena skuteczności kompleksowej fizjoterapii u pacjentów z rozpoznaniem zapalenia nadkłycia bocznego kości ramiennej. MATERIAŁ I METODY. Badanie przeprowadzono w grupie 40 osób (25 mężczyzn i 15 kobiet) z rozpoznaniem zapalenia nadkłycia bocznego kości ramiennej, u których dolegliwości bólowe utrzymywały się od 4 do 6 miesięcy. Średni wiek grupy badanej to 44 lata ± 10,22. W badaniu wykorzystano metodę sondażu diagnostycznego w oparciu o autorski kwestionariusz ankiety oraz standaryzowany kwestionariusz dotyczący niesprawności kończyny górnej DASH ( Disability of the Arm, Shoulder and Hand ). Poziom dolegliwości bólowych oceniono za pomocą skali NRS (Numerical Rating Scale) . Ponadto u badanych wykonano trzy testy funkcjonalne: test Thomsona, test Cozena i test Milla. Do analizy wyników wykorzystano arkusz kalkulacyjny Excel i program Statistica 12. WYNIKI. Najczęściej zlecanymi zabiegami fizjoterapeutycznymi w przypadku zapalenia nadkłycia bocznego kości ramiennej były: laseroterapia (67,5%), krioterapia (60%) oraz ultradźwięki (55%). Zaobserwowano istotną statystycznie różnicę (p<0,001) w poziomie dolegliwości bólowych przed (6,67) i po serii zabiegów (2,27) w skali NRS oraz w poziomie niesprawności kończyny górnej w skali DASH (przed 58,49, po serii zabiegów 23,90). W testach funkcjonalnych uzyskano poprawę u prawie 95% badanych. WNIOSKI. Kompleksowa fizjoterapia, obejmująca od 3 do 5 zabiegów, prowadzona w ramach fizjoterapii ambulatoryjnej, jest skuteczna u pacjentów z rozpoznaniem zapalenia nadkłykcia bocznego kości ramiennej. SŁOWA KLUCZOWE: kompleksowa fizjoterapia, fizjoterapia ambulatoryjna, łokieć tenisisty. SUMMARY INTRODUCTION. Lateral epicondylitis commonly known as 'tennis elbow' is one of the most often diagnosed problems in the neighbourhood of the elbow joint in patients aged 30 to 65. The disease is present among 1-3% of the population and its main cause is the overload of the forearm extensor muscles as a result of long-term dynamic work or static work of small load. The people who perform manual activities professionally are especially predisposed to the disease. PURPOSE. The purpose of the study carried out was the evaluation of the efficiency of complex physiotherapy in patients diagnosed with lateral epicondylitis. MATERIAL AND METHODS. The study was carried out in a group of 40 people (25 men and 15 women) diagnosed with lateral epicondylitis who have experienced pain for 4 to 6 months. The average age of the study group was 44 years ± 10.22. In the study the method of diagnostic survey was applied based on the author's questionnaire and standardized questionnaire concerning the disability of the upper limb, DASH ( Disability of the Arm, Shoulder and Hand ). Pain level was assessed by means of NRS (Numerical Rating Scale) . Moreover, there were three functional tests performed on the interviewees: Thomson's test, Cozen's test and Mill's test. Excel spreadsheet and Statistics 12 programme were used for the purposes of the analysis of the results. RESULTS. The physiotherapeutic procedures ordered most often for lateral epicondylitis were: laser therapy (67.5%), cryotherapy (60%) and ultrasounds (55%). Statistically significant different was observed (p<0.001) with regard to the pain level before (6.67) and after a series of procedures (2.27) in the NRS as well as with regard to the level of the upper limb disability in the DASH scale (58.49 before and 23.90 after a series of procedures). Improvement was observed in almost 95% of the interviewees in the functional tests. CONCLUSIONS. Complex physiotherapy covering 3 to 5 procedures performed in terms of outpatient physiotherapy is efficient in patients diagnosed with lateral epicondylitis. KEY WORDS: complex physiotherapy, outpatient physiotherapy, tennis elbow.",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The effects of extracorporeal shock-wave therapy (ESWT) versus Mulligan concept of manual therapy in treating lateral epicondylitis = Efektywność terapii zewnątrzustrojową falą uderzeniową versus terapia manualna w koncepcji Mulligana w leczeniu zapalenia nadkłykcia bocznego",
+      "url": "https://zenodo.org/records/58333",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.58333",
+      "abstract": "Kocjan Janusz. The effects of extracorporeal shock-wave therapy (ESWT) versus Mulligan concept of manual therapy in treating lateral epicondylitis = Efektywność terapii zewnątrzustrojową falą uderzeniową versus terapia manualna w koncepcji Mulligana w leczeniu zapalenia nadkłykcia bocznego. Journal of Education, Health and Sport. 2016;6(7):411-418. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.58333 http://ojs.ukw.edu.pl/index.php/johs/article/view/3705 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 15.06.2016. Revised 09.07.2016. Accepted: 21.07.2016. THE EFFECTS OF EXTRACORPOREAL SHOCK-WAVE THERAPY (ESWT) VERSUS MULLIGAN CONCEPT OF MANUAL THERAPY IN TREATING LATERAL EPICONDYLITIS EFEKTYWNOŚĆ TERAPII ZEWNĄTRZUSTROJOWĄ FALĄ UDERZENIOWĄ VERSUS TERAPIA MANUALNA W KONCEPCJI MULLIGANA W LECZENIU ZAPALENIA NADKŁYKCIA BOCZNEGO Janusz Kocjan Medical University of Silesia, Doctoral Studium of School of Medicine, Katowice, Poland Śląski Uniwersytet Medyczny, Studium Doktoranckie Wydziału Lekarskiego w Katowicach SUMMARY Extracorporeal shockwave therapy (ESWT) is a conservative treatment in case of many musculoskeletal disorders, including lateral epicondylitis. The aim of the study was the assessment of the efficacy of the shockwave - compare to manual therapy treatment (Mulligan concept) in a population of consecutive patients affected by tennis elbow. 26 patients who suffered from chronic persistent tennis elbow were randomly assigned to one of the two treatment groups. Group 1 (n=13, mean age=37,14±10,07) received an extracorporeal shock wave treatment (ESWT; 2,500 shocks), while Group 2 (n=13, mean age=) was undergoing manual therapy in Mulligan concept. Visual Analogue Scale (VAS) and Patient-Rated Tennis Elbow Evaluation (PRTEE) were used. The results of the study presented here shows that ESWT and Mulligan therapy are an effective treatment of lateral epicondylitis. Both groups achieved improvement in all of analysed variables, but in case of Mulligan Concept statistical significant differences were found in 4 from 6 variables. It is concluded that ESWT and Mulligan therapy appears to be a useful non invasive treatment methods that reduces the symptoms of lateral epicondylitis. Key words: ESWT, mulligan, tennis elbow, lateral epicondylitis.",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "THE IMPACT OF LATERAL EPICONDYLITIS ON QUALITY OF LIFE",
+      "url": "https://www.ijphy.org/index.php/journal/article/view/102",
+      "publisher": "International Journal of Physiotherapy",
+      "year": "2015",
+      "doi": "10.15621/ijphy/2015/v2i4/67742",
+      "abstract": "Background: Lateral epicondylitis is a work related disorder which is considered to be due to over-use or over-stress of the wrist extensors of the forearm. The patient suffers from pain and decreased function which affects the basic activities in daily life. This reduction in function leading to disability may affect the quality of life as it includes items related to self care, usual activities, emotional problems, pain etc. The present study was conducted to study the impact of Lateral epicondylitis on quality of life. Methods: 52 subjects diagnosed with Lateral epicondylitis were included in the study according to the inclusion and exclusion criteria. Outcome measures were: pain using Visual analog scale, functional disability using Patient rated tennis elbow evaluation and health-related quality of life using Short Form 36. Results: A significant positive correlation was found between pain and functional disability (p<.001). A significant negative correlation between pain and physical (p=.014) and mental (p=.052) component summary scores of quality of life was found. A significant negative correlation was found between functional disability and physical (p=.002) and mental (p=.015) component summary scores of quality of life. Also a significant correlation was found between physical and mental component summary scores of quality of life (p<.001). Conclusions: Significant correlation was seen between pain, functional disability and quality of life. This suggests that with an increase in severity of pain there is increase in functional disability with lower QOL both physically and mentally.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "LATERAL EPICONDYLITIS",
+      "url": "https://doi.org/10.29309/tpmj/2015.22.01.1411",
+      "publisher": "Independent Medical Trust",
+      "year": "2015",
+      "doi": "10.29309/tpmj/2015.22.01.1411",
+      "abstract": "Objective: With aging, chemical hormonal and vascular factors have their partto play in lateral epicondylitis. The objective is to compare results of autologous blood injectionand corticosteroid injection in treatment of lateral epicondylitis. Place and Location: Out PatientDepartment of Peshawar Institute of Medical Sciences, Peshawar from March 2013 to February2014. Material and Methods: A prospective randomized control trail conducted on 58 patientsfulfilling inclusion criteria. DASH score and VAS score used as outcome measures and bothwere recorded before injections and at each follow up made at 2 weeks, 6 weeks, 12 weeksand 24 weeks interval. P-value was calculated where applicable. Results: Out of 79 patients 65met the inclusion criteria. Mean age was 41.43 years ±13.43. 36 were females and 29 males.Dominant elbow involved in 39 patients. Mean duration of symptoms was 7.1±2.9 months. 7patients lost in follow up. DASH score improved in both groups (P value <0.0001) but whencompared there was no significance difference between the two groups ( P value 0.33 at 12weeks and 0.09 at 24 week follow up). Similarly Mean VAS improved at 12 and 24 week followup (P value <0.0001) in both groups but when compared the difference was non-significant(P value .071 at 12 weeks and 0.12 at 24 weeks follow up. Conclusions: Both steroid andautologous blood injection has shown improvement in pain and physical activity and provideacceptable results although none superior to other significantly.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Measurements of tennis players' specific forearm muscle force imbalance to assess the potential risk of lateral epicondylitis",
+      "url": "https://hal.science/hal-01454743v1",
+      "publisher": "HAL open archive",
+      "year": "2014",
+      "doi": "10.1016/j.proeng.2014.06.029",
+      "abstract": "Several studies suggested that lateral epicondylitis could potentially develop among tennis players presenting a muscle force imbalance, defined as a functional ratio weakness between agonist and antagonist muscles and/or a predominance of synergic muscles during the movement. Consequently, the measurement of muscle force capability and the assessment of imbalance between antagonist and agonist muscle groups could be useful in the context of clinical follow-up, ascertaining the subject's functional capabilities to return to tennis practice. The purpose of the present study was to develop a method to quantify subject's specific imbalance in forearm muscles to improve the knowledge about lateral epicondylitis. The study included a group of healthy male tennis players (n=11, no history of musculoskeletal problems) and specific tennismen profiles (recovered lateral epicondylitis (n=2), expert (n=1) and woman (n=1)). Maximal isometric net torques in both flexion and extension were measured at the metacarpophalangeal and wrist joints using an isokinetic ergometer. Tennis players' specific fingers and wrist muscle force imbalance between agonistic and antagonistic prehension muscles were estimated using a twostep calculation procedure including (i) an EMG-calibration procedure in order to integrate the muscle coactivation in net joint torques calculation and; (ii) the calculation of the antagonist/agonist torque ratio from corrected joint torques. The results showed dissimilar muscle force imbalances between the healthy men group and recovered lateral epicondylitis players. The observed differences between healthy players and recovered lateral epicondylitis suggested that the proposed method of muscle force imbalance estimation may provide a useful assessment of functional recovery in lateral epicondylitis. (C) 2014 Elsevier Ltd. Open access under CC BY-NC-ND license.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Work-related risk factors for incidence of lateral epicondylitis in a large working population",
+      "url": "https://univ-angers.hal.science/hal-03391063v1",
+      "publisher": "Scandinavian Journal of Work, Environment and Health",
+      "year": "2013",
+      "doi": "10.5271/sjweh.3380",
+      "abstract": "Objectives This study aims to estimate the association between repeated measures of occupational risk factors and the incidence of lateral epicondylitis in a large working population. Methods A total of 3710 workers in a French region were included in 2002–2005, and among them 1046 had a complete follow-up in 2007–2010. At both stages, occupational health physicians assessed the presence of lateral epicondylitis and workers self-reported their occupational exposures. Poisson models were performed to assess the incidence rate ratios (IRR) separately by sex using multiple imputed data. Results The annual incidence rate of lateral epicondylitis was estimated as 1.0 [95% confidence interval (95% CI) 0.7–1.3] per 100 workers among men and 0.9 (95% CI 0.6–1.3) among women. Workers aged >45 years had higher incidence than those aged <30 years (significant at 10%). Among men, high physical exertion combined with elbow flexion/extension or extreme wrist bending (>2 hours/day) was a risk factor, with an age-adjusted IRR of 3.2 (95% CI 1.5–6.4) for workers exposed at both questionnaires [3.3 (95% CI 1.4–7.6) among women]. Conclusions This study highlights the importance of temporal dimensions for occupational risk factors on the incidence of lateral epicondylitis. Further research should evaluate the risk associated with the duration and repetition of occupational exposure on the incidence of lateral epicondylitis.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Work-related risk factors for lateral epicondylitis and other cause of elbow pain in the working population.",
+      "url": "https://inserm.hal.science/inserm-00806183v1",
+      "publisher": "American Journal of Industrial Medicine",
+      "year": "2013",
+      "doi": "10.1002/ajim.22140",
+      "abstract": "BACKGROUND: This study was designed to assess the relationship between work-related combined physical and psychosocial factors and elbow disorders (lateral epicondylitis and non-specific disorders without lateral epicondylitis) in the working population. METHODS: A total of 3,710 workers (58% men) in a French region in 2002-2005 participated in physical examinations by occupational health physicians and assessed their personal factors and work exposure by self-administered questionnaire. Statistical associations between elbow disorders and risks factors were analyzed using multinomial logistic regression. RESULTS: A total of 389 (10.5%) workers had elbow pain without lateral epicondylitis and 90 (2.4%) workers had lateral epicondylitis. Age, body mass index (>25), and low social support (only for men) were significant risks factors. Hard perceived physical exertion combined with elbow flexion/extension (>2 hr/day) and wrist bending (>2 hr/day) was a strong significant risk factor for elbow pain and epicondylitis: among men, adjusted Odds Ratio (ORa) = 2.6 (1.9-3.7) and ORa = 5.6 (2.8-11.3), respectively; among women, ORa = 1.4 (0.9-2.2) and ORa = 2.9 (1.3-6.5). CONCLUSIONS: This study emphasizes the strength of the associations between combined physical exertion and elbow movements and lateral epicondylitis. Certain observed differences in associations with lateral epicondylitis and elbow pain only indicate the need for additional longitudinal studies on different stages of elbow disorders and known risk factors. Am. J. Ind. Med. 56:400-409, 2013. © 2012 Wiley Periodicals, Inc.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Evaluation and management of elbow tendinopathy",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435941/",
+      "publisher": "Sports health",
+      "year": "2012",
+      "doi": "10.1177/1941738112454651",
+      "abstract": "Context Elbow tendinopathy is a common cause of pain and disability among patients presenting to orthopaedic surgeons, primary care physicians, physical therapists, and athletic trainers. Prompt and accurate diagnosis of these conditions facilitates a directed treatment regimen. A thorough understanding of the natural history of these injuries and treatment outcomes will enable the appropriate management of patients and their expectations. Evidence acquisitions The PubMed database was searched in December 2011 for English-language articles pertaining to elbow tendinopathy. Results Epidemiologic data as well as multiple subjective and objective outcome measures were investigated to elucidate the incidence of medial epicondylitis, lateral epicondylitis, distal biceps and triceps ruptures, and the efficacy of various treatments. Conclusions Medial and lateral epicondylitis are overuse injuries that respond well to nonoperative management. Their etiology is degenerative and related to repetitive overuse and underlying tendinopathy. Nonsteroidal anti-inflammatory drugs and localized corticosteroid injections yield moderate symptomatic relief in short term but do not demonstrate benefit on long-term follow-up. Platelet-rich plasma injections may be advantageous in cases of chronic lateral epicondylitis. If 6 to 12 months of nonoperative treatment fails, then surgical intervention can be undertaken. Distal biceps and triceps tendon ruptures, in contrast, have an acute traumatic etiology that may be superimposed on underlying tendinopathy. Prompt diagnosis and treatment improve outcomes. While partial ruptures confirmed with magnetic resonance imaging can be treated nonoperatively with immobilization, complete ruptures should be addressed with primary repair within 3 to 4 weeks of injury.",
+      "licence": "",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Platelet rich plasma injection grafts for musculoskeletal injuries: a review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2682411/",
+      "publisher": "Current reviews in musculoskeletal medicine",
+      "year": "2008",
+      "doi": "10.1007/s12178-008-9032-5",
+      "abstract": "In Europe and the United States, there is an increasing prevalence of the use of autologous blood products to facilitate healing in a variety of applications. Recently, we have learned more about specific growth factors, which play a crucial role in the healing process. With that knowledge there is abundant enthusiasm in the application of concentrated platelets, which release a supra-maximal quantity of these growth factors to stimulate recovery in non-healing injuries. For 20 years, the application of autologous PRP has been safely used and documented in many fields including; orthopedics, sports medicine, dentistry, ENT, neurosurgery, ophthalmology, urology, wound healing, cosmetic, cardiothoracic, and maxillofacial surgery. This article introduces the reader to PRP therapy and reviews the current literature on this emerging treatment modality. In summary, PRP provides a promising alternative to surgery by promoting safe and natural healing. However, there are few controlled trials, and mostly anecdotal or case reports. Additionally the sample sizes are frequently small, limiting the generalization of the findings. Recently, there is emerging literature on the beneficial effects of PRP for chronic non-healing tendon injuries including lateral epicondylitis and plantar fasciitis and cartilage degeneration (Mishra and Pavelko, The American Journal of Sports Medicine 10(10):1-5, 2006; Barrett and Erredge, Podiatry Today 17:37-42, 2004). However, as clinical use increases, more controlled studies are needed to further understand this treatment.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Value of Ultrasonography on Diagnosis and Assessment of Pain and Grip Strength in Patients with Lateral Epicondylitis",
+      "url": "http://localhost/avestema/index.php/pub/article/view/310",
+      "publisher": "Archives of Rheumatology",
+      "year": "2009",
+      "doi": "",
+      "abstract": "Objective: Lateral epicondylitis (LE) is generally diagnosed clinically. Ultrasonography (US) can provide useful information about the location, extent, and severity of LE. Our objective was to use US to confirm LE and to investigate the relationships between pain, grip strength, physical examination, and disability in these patients. Material and Methods: Fifty-two patients with unilateral LE were examined by US. Pain and functional status were assessed using a visual analog scale (VAS), physical functioning and bodily pain scales of the Medical Outcomes Study 36-Item Short-Form Health Survey (SF-36), and a patient-rated forearm evaluation questionnaire (PRFEQ). Grip strength and manual tests for LE were evaluated. Results: Clinical diagnosis of LE was confirmed by US in 28 (53.8%) patients. Our results showed close associations between clinical examination findings and SF-36 and PRFEQ assessments with pain in patients who had sonographic abnormalities. Grip strength was also correlated with clinical and functional evaluations in these cases. Conclusion: We concluded that evaluation of disability in LE requires methods different from those included in the traditional clinical examination. Pain and grip strength measurements provide numerical and quantitative data for evaluation of severity and disability in patients with sonographic findings of LE. (Turk J Rheumatol 2009; 24: 123-30)",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "TREATMENT OF LATERAL EPICONDYLITIS",
+      "url": "https://doi.org/10.1016/s0004-9514(14)61051-5",
+      "publisher": "Elsevier BV",
+      "year": "1968",
+      "doi": "10.1016/s0004-9514(14)61051-5",
+      "abstract": "Of the total number of injuries treated at the Lewisham Hospital Sports Medicine Clinic (Sydney), over a period of eighteen months, lateral epicondylitis constitutes approximately 1.4%. The 36 patients this figure represents received varying treatments, which are listed below. The overall results were as follows.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effects of Linear-Polarized Near-Infrared Light Irradiation on Chronic Pain",
+      "url": "http://dx.doi.org/10.1100/2012/567496",
+      "publisher": "The Scientific World Journal",
+      "year": "2012",
+      "doi": "10.1100/2012/567496",
+      "abstract": "In order to study the efficacy of linear-polarized near-infrared light irradiation (LPNIR) on relieving chronic pain in conjunction with nerve block (NB) or local block (LB), a 3-week prospective, randomized, double-blind, controlled study was conducted to evaluate the pre- and post-therapy pain intensity. Visual analogue scales (VASs) were measured in all patients before and 6 months after therapy visiting the pain clinic during the period of August 2007 to January 2008. A total of 52 patients with either shoulder periarthritis or myofascial pain syndrome or lateral epicondylitis were randomly assigned into two groups by drawing lots. Patients in Group I were treated with NB or LB plus LPNIR; Group II patients, for their part, were treated with the same procedures as in Group I, but not using LPNIR. In both groups, the pain intensity (VAS score) decreased significantly immediately after therapy as compared to therapy. There was a significant difference between the test and control groups immediately after therapy (P<0.05), while no effect 6 months later. No side effects were observed. It is concluded that LPNIR is an effective and safe modality to treat various chronic pains, which has synergic effects with NB or LB.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.08,
+      "providers": [
+        "doaj"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1069 @@
+{
+  "term": "Lumbar Spinal Stenosis",
+  "collected": "2026-11-14",
+  "count": 59,
+  "candidates": [
+    {
+      "provider": "medlineplus",
+      "title": "Spinal Stenosis",
+      "url": "https://medlineplus.gov/spinalstenosis.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Your spine , or backbone, protects your spinal cord and allows you to stand and bend. Spinal stenosis causes narrowing in your spine . The narrowing puts pressure on your nerves and spinal cord and can cause pain. Spinal stenosis occurs mostly in people older than 50. Younger people with a spine injury or a narrow spinal canal are also at risk. Diseases such as arthritis and scoliosis can cause spinal stenosis , too. Symptoms might appear gradually or not at all. They include: Pain in your neck or back Numbness, weakness, cramping, or pain in your arms or legs Pain going down the leg Foot problems Doctors diagnose spinal stenosis with a physical exam and imaging tests. Treatments include medications, physical therapy, braces, and surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 5.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Effectiveness of Surgery for Lumbar Spinal Stenosis: A Systematic Review and Meta-Analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0122800",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0122800",
+      "abstract": "Background: The management of spinal stenosis by surgery has increased rapidly in the past two decades, however, there is still controversy regarding the efficacy of surgery for this condition. Our aim was to investigate the efficacy and comparative effectiveness of surgery in the management of patients with lumbar spinal stenosis. Methods: Electronic searches were performed on MEDLINE, EMBASE, AMED, CINAHL, Web of Science, LILACS and Cochrane Library from inception to November 2014. Hand searches were conducted on included articles and relevant reviews. We included randomised controlled trials evaluating surgery compared to no treatment, placebo/sham, or to another surgical technique in patients with lumbar spinal stenosis. Primary outcome measures were pain, disability, recovery and quality of life. The PEDro scale was used for risk of bias assessment. Data were pooled with a random-effects model, and the GRADE approach was used to summarise conclusions. Results: Nineteen published reports (17 trials) were included. No trials were identified comparing surgery to no treatment or placebo/sham. Pooling revealed that decompression plus fusion is not superior to decompression alone for pain (mean difference –3.7, 95% confidence interval –15.6 to 8.1), disability (mean difference 9.8, 95% confidence interval –9.4 to 28.9), or walking ability (risk ratio 0.9, 95% confidence interval 0.4 to 1.9). Interspinous process spacer devices are slightly more effective than decompression plus fusion for disability (mean difference 5.7, 95% confidence interval 1.3 to 10.0), but they resulted in significantly higher reoperation rates when compared to decompression alone (28% v 7%, P < 0.001). There are no differences in the effectiveness between other surgical techniques for our main outcomes. Conclusions: The relative efficacy of various surgical options for treatment of spinal stenosis remains uncertain. Decompression plus fusion is not more effective than decompression alone. Interspinous process spacer devices result in higher reoperation rates than bony decompression.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.7,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Quantitative radiologic criteria for the diagnosis of lumbar spinal stenosis: a systematic literature review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3161920/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2011",
+      "doi": "10.1186/1471-2474-12-175",
+      "abstract": "Background Beside symptoms and clinical signs radiological findings are crucial in the diagnosis of lumbar spinal stenosis (LSS). We investigate which quantitative radiological signs are described in the literature and which radiological criteria are used to establish inclusion criteria in clinical studies evaluating different treatments in patients with lumbar spinal stenosis. Methods A literature search was performed in Medline, Embase and the Cochrane library to identify papers reporting on radiological criteria to describe LSS and systematic reviews investigating the effects of different treatment modalities. Results 25 studies reporting on radiological signs of LSS and four systematic reviews related to the evaluation of different treatments were found. Ten different parameters were identified to quantify lumbar spinal stenosis. Most often reported measures for central stenosis were antero-posterior diameter ( Conclusions There is a need for consensus on well-defined, unambiguous radiological criteria to define lumbar spinal stenosis in order to improve diagnostic accuracy and to formulate reliable inclusion criteria for clinical studies.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.54,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Expert consensus recommendations to improve diagnosis of ATTR amyloidosis with polyneuropathy",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8179912/",
+      "publisher": "Journal of neurology",
+      "year": "2021",
+      "doi": "10.1007/s00415-019-09688-0",
+      "abstract": "Amyloid transthyretin (ATTR) amyloidosis with polyneuropathy (PN) is a progressive, debilitating, systemic disease wherein transthyretin protein misfolds to form amyloid, which is deposited in the endoneurium. ATTR amyloidosis with PN is the most serious hereditary polyneuropathy of adult onset. It arises from a hereditary mutation in the TTR gene and may involve the heart as well as other organs. It is critical to identify and diagnose the disease earlier because treatments are available to help slow the progression of neuropathy. Early diagnosis is complicated, however, because presentation may vary and family history is not always known. Symptoms may be mistakenly attributed to other diseases such as chronic inflammatory demyelinating polyradiculoneuropathy (CIDP), idiopathic axonal polyneuropathy, lumbar spinal stenosis, and, more rarely, diabetic neuropathy and AL amyloidosis. In endemic countries (e.g., Portugal, Japan, Sweden, Brazil), ATTR amyloidosis with PN should be suspected in any patient who has length-dependent small-fiber PN with autonomic dysfunction and a family history of ATTR amyloidosis, unexplained weight loss, heart rhythm disorders, vitreous opacities, or renal abnormalities. In nonendemic countries, the disease may present as idiopathic rapidly progressive sensory motor axonal neuropathy or atypical CIDP with any of the above symptoms or with bilateral carpal tunnel syndrome, gait disorders, or cardiac hypertrophy. Diagnosis should include DNA testing, biopsy, and amyloid typing. Patients should be followed up every 6-12 months, depending on the severity of the disease and response to therapy. This review outlines detailed recommendations to improve the diagnosis of ATTR amyloidosis with PN.",
+      "licence": "cc by",
+      "kind": "guideline",
+      "source_type": "guideline",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.44,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "medlineplus",
+      "title": "Spine Injuries and Disorders",
+      "url": "https://medlineplus.gov/spineinjuriesanddisorders.html",
+      "publisher": "MedlinePlus (National Library of Medicine)",
+      "year": "",
+      "doi": "",
+      "abstract": "Your backbone, or spine , is made up of 26 bone discs called vertebrae. The vertebrae protect your spinal cord and allow you to stand and bend. A number of problems can change the structure of the spine or damage the vertebrae and surrounding tissue. They include: Infections Injuries Tumors Conditions, such as ankylosing spondylitis and scoliosis Bone changes that come with age, such as spinal stenosis and herniated disks Spinal diseases often cause pain when bone changes put pressure on the spinal cord or nerves. They can also limit movement. Treatments differ by disease, but sometimes they include back braces and surgery.",
+      "licence": "U.S. government work (public domain)",
+      "kind": "patient page",
+      "source_type": "government_health_page",
+      "audience": "patient",
+      "permitted_use": "public_domain",
+      "score": 4.4,
+      "providers": [
+        "medlineplus"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Epidural Steroids for Cervical and Lumbar Radicular Pain and Spinal Stenosis Systematic Review Summary",
+      "url": "https://www.semanticscholar.org/paper/804e73146831c88565f6c8bd42633e1d1c5029fa",
+      "publisher": "Neurology",
+      "year": "2025",
+      "doi": "10.1212/WNL.0000000000213361",
+      "abstract": "Background and Objectives This review systematically evaluates and incorporates evidence for the use of epidural steroid injections (ESIs) in cervical and lumbar spinal stenosis and radiculopathies, assessing short-term (≤3 months) and long-term (≥6 months) improvements in pain and disability. Methods We searched databases for randomized controlled trials (RCTs) on the efficacy of ESIs published between January 2005 and January 2021. Data analysis was performed by American Academy of Neurology methodologists. A panel of ESI experts was engaged to interpret the evidence in a clinical context. Owing to the great variability in efficacy measures used in the articles, we report differences based on any measure of success: the success rate difference (SRD). Results Ninety RCTs met inclusion criteria. In cervical and lumbar radiculopathies, ESIs probably reduce short-term pain (SRD -24.0%, 95% CI −34.9 to −12.6, number needed to treat [NNT] 4) and disability (SRD −16.0%, 95% CI −26.6 to −5, NNT 6) and possibly decrease long-term disability (SRD −11.1%, 95% CI −25.3 to 3.6, NNT 9). There is insufficient evidence to determine whether ESIs reduce long-term pain in radiculopathies (SRD −10.3%, 95% CI −27.8 to 7.6). In lumbar spinal stenosis, ESIs possibly reduce short-term (SRD −26.2%, 95% CI −52.4 to 3.6, NNT 4) and long-term (SRD −11.8%, 95% CI −26.9 to 3.8, NNT 8) disability, but not short-term pain (SRD −3.5%, 95% CI −12.6 to 5.6). In lumbar stenosis, there is insufficient evidence to determine whether ESIs reduce long-term pain (SRD −6.5%, 95% CI −22.5 to 9.8). For cervical spinal stenosis, evidence is insufficient to determine the effectiveness of ESIs. Discussion The review affirms limited efficacy of ESIs in reducing pain and disability in cervical and lumbar radiculopathies and possibly in lumbar spinal stenosis, largely in the short term. The heterogeneity of outcome measures reported preclude presenting integrated data regarding effect size. There is controversy regarding the appropriate choice of inactive comparator treatments as a true placebo in clinical trials of ESIs. The panel recommends that future trials of ESIs use minimal meaningful clinical difference as the measure of efficacy and paraspinal muscle injection of saline as an inactive placebo.",
+      "licence": "",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.158,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Evaluation of the efficacy and safety of conventional and interlaminar full-endoscopic decompressive laminectomy to treat lumbar spinal stenosis (ENDO-F trial): Protocol for a prospective, randomized, multicenter trial",
+      "url": "https://doi.org/10.1371/journal.pone.0283924",
+      "publisher": "PLOS ONE",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0283924",
+      "abstract": "Lumbar spinal stenosis is a common spinal degenerative condition. Minimally invasive interlaminar full-endoscopic decompressive laminectomy provides greater patient satisfaction and faster recovery than open decompressive laminectomy. The aim of our randomized controlled trial will be to compare the safety and efficacy of interlaminar full-endoscopic laminectomy and open decompressive laminectomy. Our trial will include 120 participants (60 per group) who will undergo surgical treatment for lumbar spinal stenosis. The primary outcome will be the Oswestry Disability Index measured at 12 months postoperatively. Secondary patient-reported outcomes will include back and radicular leg pain measured via a visual analog scale; the Oswestry Disability Index; the Euro-QOL-5 Dimensions score measured at 2 weeks and at 3, 6, and 12 months postoperatively; and patient satisfaction. The functional measures will include time to return to daily activities postoperatively and walking distance/time. The surgical outcomes will include postoperative drainage, operation time, duration of hospital stay, postoperative creatine kinase (an indicator of muscle injury) level, and postoperative surgical scarring. Magnetic resonance and computed tomography images and simple radiographs will be obtained for all patients. The safety outcomes will include surgery-related complications and adverse effects. All evaluations will be performed by a single assessor at each participating hospital who will be blinded to group allocation. The evaluations will be conducted preoperatively and at 2 weeks and 3, 6, and 12 months postoperatively. The randomized, multicenter design of the trial, blinding, and justification of the sample size will reduce the risk of bias in our trial. The results of the trial will provide data regarding the use of interlaminar full-endoscopic laminectomy as an alternative to open decompressive laminectomy that results in similar surgical findings with less invasiveness. Trial registration: This trial is registered at cris.nih.go.kr. (KCT0006198; protocol version 1; 27 May 2021).",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.92,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Development of Deep Learning Models for the Diagnosis of Lumbar Spinal Stenosis using Magnetic Resonance Imaging (MRI)",
+      "url": "https://zenodo.org/records/16879026",
+      "publisher": "LASU Postgraduate School Journal (LPSJ)",
+      "year": "2025",
+      "doi": "10.5281/zenodo.16879026",
+      "abstract": "Lumbar Spinal Stenosis (LSS) is a degenerative condition characterized by the narrowing of the spinal canal in the lower back, affecting up to 80% of individuals worldwide. Early and accurate diagnosis is essential for its effective treatment and management; however, interpreting Magnetic Resonance Imaging (MRI) scans can be complex and prone to subjectivity. This study proposes a deep learning-based approach for the automated diagnosis of LSS using T2-weighted lumbar spine MRI images. A dataset of 2,697 labelled images was sourced from a Kaggle repository and split into 70% for training and 30% for testing. Four deep learning architectures- ResNet50, VGG19, EfficientNetB0, and DenseNet121 - were trained and evaluated using accuracy, sensitivity, specificity, and Area under the Curve (AUC) as performance metrics. Among the models, EfficientNetB0 achieved the highest performance with 93.16% accuracy and 97.00% AUC. VGG19 and ResNet50 followed closely, attaining 88.28% accuracy and 95.88% AUC, and 86.87% accuracy 94.19% AUC, respectively. DenseNet121 lagged slightly with 81.88% accuracy and 90.15% AUC. These results highlight the potential of deep learning models to support accurate and efficient diagnosis of LSS. Future work will explore ensemble techniques to further improve model robustness and generalizability.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Diagnostic accuracy of the lumbar spinal stenosis-diagnosis support tool and the lumbar spinal stenosis-self-administered, self-reported history questionnaire",
+      "url": "https://doi.org/10.1371/journal.pone.0267892",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0267892",
+      "abstract": "Despite the applicability of the lumbar spinal stenosis (LSS)-diagnosis support tool (DST) and the LSS-self-administered, self-reported history questionnaire (SSHQ), their diagnostic accuracy has never been compared with that of the well-known North American Spine Society (NASS) clinical description of LSS. This study aimed to compare the diagnostic accuracy of the two diagnostic tools with that of the NASS guidelines’ clinical description of LSS in a Japanese secondary care hospital setting. This multicenter cross-sectional study used data from the lumbar spinal stenosis diagnostic support tool (DISTO) project, which was conducted from December 1, 2011 to December 31, 2012. Japanese adults with low back pain (LBP) aged ≥20 years were consecutively included. The reference standard was LSS diagnosed by orthopedic physicians. The diagnostic accuracy of the two support tools was compared. Of 3,331 patients, 1,416 (42.5%) patients were diagnosed with LSS. The NASS clinical description of LSS had a sensitivity of 63.9% and specificity of 89.5%. The LSS-DST and LSS-SSHQ had sensitivities of 91.3% and 83.8% and specificities of 76.0% and 57.6%, respectively, with substantial improvements in sensitivity (P 60 years. These findings indicated that the LSS-DST and LSS-SSHQ were more sensitive in screening patients with LBP for a diagnosis of LSS than the NASS clinical description of LSS. This study strongly supports prioritizing the use of either of these two diagnostic support tools for screening.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Is radiographic lumbar spinal stenosis associated with the quality of life?: The Wakayama Spine Study",
+      "url": "https://doi.org/10.1371/journal.pone.0263930",
+      "publisher": "PLOS ONE",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0263930",
+      "abstract": "Objectives: This prospective study aimed to determine the association between radiographic lumbar spinal stenosis (LSS) and the quality of life (QOL) in the general Japanese population. Methods: The severity of radiographic LSS was qualitatively graded on axial magnetic resonance images as follows: no stenosis, mild stenosis with ≤1/3 narrowing, moderate stenosis with a narrowing between 1/3 and 2/3, and severe stenosis with > 2/3 narrowing. Patients less than 40 years of age and those who had undergone previous lumbar spine surgery were excluded from the study. The Oswestry Disability Index (ODI), which includes 10 sections, was used to assess the QOL. One-way analysis of variance was performed to determine the statistical relationship between radiographic LSS and ODI. Further, logistic regression analysis adjusted for gender, age, and body mass index was performed to detect the relationship. Results: Complete data were available for 907 patients (300 men and 607 women; mean age, 67.3±12.4 years). The prevalence of severe, moderate, and non-mild/non-radiographic were 30%, 48%, and 22%, respectively. In addition, the mean values of ODI in each group were 12.9%, 13.1%, and 11.7%, respectively, and there was no statistically significant difference between the three groups in logistic analysis (P = 0.55). In addition, no significant differences in any section of the ODI were observed among the groups. However, severe radiographic LSS was associated with low back pain in the \"severe\" group as determined by logistic analysis adjusted for gender, age, and body mass index (odds ratio: 1.53, confidence interval: 1.13–2.07) compared with the non-severe group. Conclusion: In this general population study, severe radiographic LSS was associated with low back pain (LBP), but did not affect ODI.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.48,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Evaluation of the effects of differences in silicone hardness on rat model of lumbar spinal stenosis",
+      "url": "https://doi.org/10.1371/journal.pone.0251464",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0251464",
+      "abstract": "Lumbar spinal stenosis (LSS), one of the most commonly reported spinal disorders, can cause loss of sensation and dyskinesia. In currently used animal models of LSS, the spinal cord is covered entirely with a silicone sheet, or block-shaped silicone is inserted directly into the spinal canal after laminectomy. However, the effects of differences between these implant materials have not been studied. We assessed the degree of damage and locomotor function of an LSS model in Sprague-Dawley rats using silicone blocks of varying hardness (70, 80, and 90 kPa) implanted at the L4 level. In sham rats, the spinal cord remained intact; in LSS rats, the spinal cord was increasingly compressed by the mechanical pressure of the silicone blocks as hardness increased. Inflammatory cells were not evident in sham rats, but numerous inflammatory cells were observed around the implanted silicone block in LSS rats. CD68+ cell quantification revealed increases in the inflammatory response in a hardness-dependent manner in LSS rats. Compared with those in sham rats, proinflammatory cytokine levels were significantly elevated in a hardness-dependent manner, and locomotor function was significantly decreased, in LSS rats. Overall, this study showed that hardness could be used as an index to control the severity of nerve injury induced by silicone implants.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Cerebrospinal fluid dynamics correlate with neurogenic claudication in lumbar spinal stenosis",
+      "url": "https://doi.org/10.1371/journal.pone.0250742",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0250742",
+      "abstract": "Neurogenic claudication is a typical manifestation of lumbar spinal stenosis (LSS). However, its pathophysiology is still unclear. The severity of clinical symptoms has been shown not to correlate with the degree of structural stenosis. Altered cerebrospinal fluid (CSF) flow has been suggested as one of the causative factors of LSS. The objectives of this study were to compare CSF dynamics at the lumbosacral level between patients with LSS and healthy controls and to investigate whether CSF dynamics parameters explain symptom severity in LSS. Phase-contrast magnetic resonance imaging (PC-MRI) was conducted to measure CSF dynamics in 18 healthy controls and 9 patients with LSS. Cephalic peak, caudal peak, and peak-to-peak CSF velocities were evaluated at the lumbosacral level in the patients and controls. The power of CSF dynamics parameters to predict symptom severity was determined using a linear regression analysis adjusted for demographic and structural variables. Significantly attenuated CSF flow velocity was observed in the patients compared with the controls. The cephalic peak, caudal peak, and peak-to-peak velocities at the lumbar level were greater in the controls than in the patients (p<0.001). The predictive power increased most when the peak-to-peak velocity was added (adjusted R2 = 0.410) to the model with age, body mass index, and the minimum anterior-posterior diameter (adjusted R2 = 0.306), and the peak-to-peak velocity was the only statistically significant variable. CSF dynamics variables showed an association with the severity of LSS symptoms, independent of structural stenosis. PC-MRI can help to further our understanding of the pathophysiology of neurogenic claudication and support the diagnosis of LSS.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The Comparison of Trace Element Levels in Serum, Bone and Intervertebral Disc Tissues of Patients with Lumbar Spinal Stenosis and Lumbar Disc Herniation",
+      "url": "https://zenodo.org/records/5749562",
+      "publisher": "Zenodo",
+      "year": "2021",
+      "doi": "10.19070/2470-4520-2100021",
+      "abstract": "Aim: The aim of this study was to measure the levels of trace elements (TEs) in serum, bone and disc tissue of patients with lumbar spinal stenosis (LSS) and lumbar disc herniation(LDH) and so to evaluate the role TEs in the physiopathogenesis of in these pathologies. Material and method: In this study, serum, bone, and disc tissue levels of 10 TEs including phosphorus (P), calcium (Ca), magnesium (Mg), manganese (Mn), vanadium (V), zinc (Zn), chromium (Cr), copper (Cu), selenium (Se), cobalt (Co) levels were measured in 20 patients with LDH and 30 patients with LSS by the way of Inductively Coupled Plasma - Mass Spectrometer (ICP-MS). Results: While there was no significant difference in the serum levels of the two groups, statistically significant differences were observed in the amount of Ca, Co, P, and V elements in bone and disc tissues. In the LSS group, the Ca element was found to be higher in the bone tissues, whereas in the LDH group, the Co element was found to be higher in the bone tissue. In disc tissue, Ca, P and Co elements were found to be higher in LSS group. Conclusion: The differences in trace element levels seen in these pathologies are discussed in terms of possible causes in the light of current literature. Although it is known that high doses of trace elements have toxic effects, it supports the hypothesis that these trace elements may have beneficial biological effects at pharmacological levels in accordance with the results obtained in our study",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Automated measurement of anteroposterior diameter and foraminal widths in MRI images for lumbar spinal stenosis diagnosis",
+      "url": "https://doi.org/10.1371/journal.pone.0241309",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0241309",
+      "abstract": "Lumbar Spinal Stenosis causes low back pain through pressures exerted on the spinal nerves. This can be verified by measuring the anteroposterior diameter and foraminal widths of the patient’s lumbar spine. Our goal is to develop a novel strategy for assessing the extent of Lumbar Spinal Stenosis by automatically calculating these distances from the patient’s lumbar spine MRI. Our method starts with a semantic segmentation of T1- and T2-weighted composite axial MRI images using SegNet that partitions the image into six regions of interest. They consist of three main regions-of-interest, namely the Intervertebral Disc, Posterior Element, and Thecal Sac, and three auxiliary regions-of-interest that includes the Area between Anterior and Posterior elements. A novel contour evolution algorithm is then applied to improve the accuracy of the segmentation results along important region boundaries. Nine anatomical landmarks on the image are located by delineating the region boundaries found in the segmented image before the anteroposterior diameter and foraminal widths can be measured. The performance of the proposed algorithm was evaluated through a set of experiments on the Lumbar Spine MRI dataset containing MRI studies of 515 patients. These experiments compare the performance of our contour evolution algorithm with the Geodesic Active Contour and Chan-Vese methods over 22 different setups. We found that our method works best when our contour evolution algorithm is applied to improve the accuracy of both the label images used to train the SegNet model and the automatically segmented image. The average error of the calculated right and left foraminal distances relative to their expert-measured distances are 0.28 mm (p = 0.92) and 0.29 mm (p = 0.97), respectively. The average error of the calculated anteroposterior diameter relative to their expert-measured diameter is 0.90 mm (p = 0.92). The method also achieves 96.7% agreement with an expert opinion on determining the severity of the Intervertebral Disc herniations.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A Review of Lumbar Spinal Stenosis with Intermittent Neurogenic Claudication: Disease and Diagnosis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7101166/",
+      "publisher": "Pain medicine (Malden, Mass.)",
+      "year": "2019",
+      "doi": "10.1093/pm/pnz161",
+      "abstract": "Objective Lumbar spinal stenosis (LSS) is a degenerative spinal condition affecting nearly 50% of patients presenting with lower back pain. The goal of this review is to present and summarize the current data on how LSS presents in various populations, how it is diagnosed, and current therapeutic strategies. Properly understanding the prevalence, presentation, and treatment options for individuals suffering from LSS is critical to providing patients the best possible care. Results The occurrence of LSS is associated with advanced age. In elderly patients, LSS can be challenging to identify due to the wide variety of presentation subtleties and common comorbidities such as degenerative disc disease. Recent developments in imaging techniques can be useful in accurately identifying the precise location of the spinal compression. Treatment options can range from conservative to surgical, with the latter being reserved for when patients have neurological compromise or conservative measures have failed. Once warranted, there are several surgical techniques at the physician's disposal to best treat each individual case.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.36,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Patients undergoing surgery for lumbar spinal stenosis experience unique courses of pain and disability: A group-based trajectory analysis",
+      "url": "https://doi.org/10.1371/journal.pone.0224200",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0224200",
+      "abstract": "Objective: Identify patient subgroups defined by trajectories of pain and disability following surgery for degenerative lumbar spinal stenosis, and investigate the construct validity of the subgroups by evaluating for meaningful differences in clinical outcomes. Methods: We recruited patients with degenerative lumbar spinal stenosis from 13 surgical spine centers who were deemed to be surgical candidates. Study outcomes (leg and back pain numeric rating scales, modified Oswestry disability index) were measured before surgery, and after 3, 12, and 24 months. Group-based trajectory models were developed to identify trajectory subgroups for leg pain, back pain, and pain-related disability. We examined for differences in the proportion of patients achieving minimum clinically important change in pain and disability (30%) and clinical success (50% reduction in disability or Oswestry score ≤22) 12 months from surgery. Results: Data from 548 patients (mean[SD] age = 66.7[9.1] years; 46% female) were included. The models estimated 3 unique trajectories for leg pain (excellent outcome = 14.4%, good outcome = 49.5%, poor outcome = 36.1%), back pain (excellent outcome = 13.1%, good outcome = 45.0%, poor outcome = 41.9%), and disability (excellent outcome = 30.8%, fair outcome = 40.1%, poor outcome = 29.1%). The construct validity of the trajectory subgroups was confirmed by between-trajectory group differences in the proportion of patients meeting thresholds for minimum clinically important change and clinical success after 12 postoperative months (p < .001). Conclusion: Subgroups of patients with degenerative lumbar spinal stenosis can be identified by their trajectories of pain and disability following surgery. Although most patients experienced important reductions in pain and disability, 29% to 42% of patients were classified as members of an outcome trajectory subgroup that experienced little to no benefit from surgery. These findings may inform appropriate expectation setting for patients and clinicians and highlight the need for better methods of treatment selection for patients with degenerative lumbar spinal stenosis.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Altered postural timing and abnormally low use of proprioception in lumbar spinal stenosis pre- and post- surgical decompression",
+      "url": "https://zenodo.org/records/2667828",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2019",
+      "doi": "10.1186/s12891-019-2497-0",
+      "abstract": "Background: Lumbar spinal stenosis (LSS) is frequently associated with postural instability. Although several studies evaluated patients' functional impairments, underlying sensorimotor mechanisms are still poorly understood. We aimed to assess the specific set of postural control deficits associated with LSS during spontaneous and externally perturbed stance and evaluated post-surgical changes in postural behavior. Methods: We analyzed postural control in eleven LSS patients (age 69 ± 8 years) pre- and post-laminectomy, correlated experimental data with functional tests and patient-reported outcomes, and compared findings to 15 matched, healthy control subjects (age 70 ± 6 years). Postural control was characterized by spontaneous sway measures and measures of perturbed stance. Perturbations were induced by anterior-posterior pseudorandom tilts of the body support surface. We used an established postural control model to extract specific postural control parameters. Results: Spontaneous sway amplitude, velocity and frequency were abnormally large in LSS patients. Furthermore, patients' postural reactions to platform tilts, represented by GAIN and PHASE were significantly altered. Based on simple feedback model simulations, we found that patients rely less on proprioceptive cues for stance regulation than healthy subjects. Moreover, their postural reactions' timing is altered. After surgery, patients' spontaneous sway amplitude was significantly reduced and their postural timing approximated the behavior of healthy subjects. Conclusion: The reduction in proprioceptive input for stance control due to stenosis-caused afferent dysfunction is a functional disadvantage for LSS patients – and may be the basis of increased spontaneous sway. This disadvantage may cause the timing of postural reactions to alter, with the intent of preventing rapid changes in stance regulation for safety reasons. After surgery, patients' postural timing approximated those of healthy subjects, while the abnormally low use of proprioception remained unchanged. We suggest the post-surgery rehabilitation of proprioception, eg through balance exercises on unstable surfaces and reduced visual input.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Kinetic and kinematic variables affecting trunk flexion during level walking in patients with lumbar spinal stenosis",
+      "url": "https://doi.org/10.1371/journal.pone.0197228",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0197228",
+      "abstract": "Lumbar spinal stenosis causes cauda equina and nerve root compression, resulting in neurological symptoms. Although trunk flexion during level walking may alleviate these symptoms by enabling spinal canal decompression, some patients do not use this strategy. We aimed to identify the kinetic and kinematic variables that affect trunk flexion in patients during level walking. Gait was recorded in 111 patients using a three-dimensional motion capture system and six force plates. From the data recorded, walking velocity, bilateral step length, cycle time, maximum trunk flexion angle, forward pelvic tilt angle, pelvic rotation angle, maximum and minimum joint angles, and moment and power of the lower limb were calculated. Then a step-wise multiple regression analysis was conducted to identify kinetic and kinematic variables affecting trunk flexion. The maximum hip extension angle (β = 0.416), maximum hip flexion moment (β = -0.348), and step length (β = 0.257) were identified as variables significantly affecting the trunk flexion angle. The coefficient of determination adjusted for the degree of freedom was 0.294 (p < 0.05). Our results suggest that patients with lumbar spinal stenosis choose one of two strategies to alleviate symptoms during walking. One strategy is gait with trunk flexion posture to increase step length and hip extension angle. The other strategy is gait with trunk upright posture to decrease step length and hip extension angle.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Prognostic function to estimate the probability of meaningful clinical improvement after surgery - Results of a prospective multicenter observational cohort study on patients with lumbar spinal stenosis",
+      "url": "https://doi.org/10.1371/journal.pone.0207126",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0207126",
+      "abstract": "Background: Approximately two thirds of patients with lumbar spinal stenosis (LSS) who undergo surgical treatment benefit from the surgery. The objective of this study was to derive a prognostic probability function (PPF) to identify patients with a high probability of post-surgical improvement because there is currently no method available. Methods: In this multicenter, prospective, observational study, we collected data from eight medical centers in Switzerland in which patients underwent surgery for LSS. The endpoints were meaningful clinically important differences (MCID) in pain and disability one year after baseline. We developed a PPF named PROCESS (PostopeRative OutComE Spinal Stenosis), based on a large set of prognostic indicators extracted from the literature. The PPF was derived using data from a random subset of two thirds of the patients and validated in the remaining third. We addressed overfitting by shrinking the regression coefficients. The area under the ROC curve (AUC) and calibration determined the accuracy of the PPF. Results: In this study, 452 LSS patients received surgery. 73% of the 300 patients in the derivation subset reached an MCID in pain and 68% reached an MCID in disability. The corresponding values were 70% and 63% in the validation subset, respectively. In the derivation subsample, the AUC was 0.64 (95% CI 0.57 to 0.71) for of the PPF predicting MCID in pain and 0.71 (0.64 to 0.77) for MCID in disability, after shrinkage. The corresponding numbers were 0.62 (0.52 to 0.72) and 0.70 (0.60 to 0.79) in the validation subsample, and the PPF showed good calibration. Conclusions: Surgical treatment for patients with lumbar spinal stenosis is being performed with increasing frequency. PROCESS is conditional on the individual pattern of preoperatively available prognostic indicators, and may be helpful for clinicians in counselling patients and in guiding the discussion on individual treatment decision in the era of personalized medicine.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Low back pain in older adults: risk factors, management options and future directions",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395891/",
+      "publisher": "Scoliosis and spinal disorders",
+      "year": "2017",
+      "doi": "10.1186/s13013-017-0121-3",
+      "abstract": "Low back pain (LBP) is one of the major disabling health conditions among older adults aged 60 years or older. While most causes of LBP among older adults are non-specific and self-limiting, seniors are prone to develop certain LBP pathologies and/or chronic LBP given their age-related physical and psychosocial changes. Unfortunately, no review has previously summarized/discussed various factors that may affect the effective LBP management among older adults. Accordingly, the objectives of the current narrative review were to comprehensively summarize common causes and risk factors (modifiable and non-modifiable) of developing severe/chronic LBP in older adults, to highlight specific issues in assessing and treating seniors with LBP, and to discuss future research directions. Existing evidence suggests that prevalence rates of severe and chronic LBP increase with older age. As compared to working-age adults, older adults are more likely to develop certain LBP pathologies (e.g., osteoporotic vertebral fractures, tumors, spinal infection, and lumbar spinal stenosis). Importantly, various age-related physical, psychological, and mental changes (e.g., spinal degeneration, comorbidities, physical inactivity, age-related changes in central pain processing, and dementia), as well as multiple risk factors (e.g., genetic, gender, and ethnicity), may affect the prognosis and management of LBP in older adults. Collectively, by understanding the impacts of various factors on the assessment and treatment of older adults with LBP, both clinicians and researchers can work toward the direction of more cost-effective and personalized LBP management for older people.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.28,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Prevalence of lumbar spinal stenosis, using the diagnostic support tool, and correlated factors in Japan: a population-based study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838585/",
+      "publisher": "Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association",
+      "year": "2013",
+      "doi": "10.1007/s00776-013-0455-5",
+      "abstract": "Background Few studies have examined the prevalence of lumbar spinal stenosis (LSS) in the general population. The purposes of this study were to estimate the prevalence of LSS and to investigate correlated factors for LSS in Japan. Methods A questionnaire survey was performed on 4,400 subjects selected from residents aged 40-79 years in Japan by stratified two-stage random sampling in 2010. The question items consisted of lower-limb symptoms suggestive of LSS, the diagnostic support tool for LSS (LSS-DST), demographic and lifestyle characteristics, comorbidities, the Japanese Perceived Stress Scale (JPSS), and the Mental Health Index 5 (MHI-5). Using the LSS-DST, the presence of LSS was predicted to estimate the prevalence of LSS. Logistic regression analysis was performed to examine the relationship between LSS and correlated factors. Results Questionnaires were obtained from 2,666 subjects (60.6 %), consisting of 1,264 males (47.4 %). The mean (standard deviation) age was 60.0 (10.9) years. According to the LSS-DST, 153 subjects were regarded as having LSS. The prevalence was estimated to be 5.7 %. When standardizing this value with the age distribution of the Japanese population, it was estimated that 3,650,000 Japanese subjects aged 40-79 years might have LSS using the LSS-DST. Prevalence increased with age and was particularly high in subjects aged 70-79 years, irrespective of gender. As correlated factors, an advanced age (60 years or older), diabetes mellitus, urological disorders, and osteoarthritis/fracture as comorbidities, and depressive symptoms, were associated with LSS. Conclusions This study elucidated the prevalence of LSS and factors associated with LSS in Japan. This is the first report describing the estimated prevalence of LSS and associated factors using a strictly sampled representative population.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.12,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Delta large-channel endoscopy versus unilateral biportal endoscopy decompressive laminectomy for lumbar spinal stenosis: a prospective randomized controlled trial",
+      "url": "https://www.semanticscholar.org/paper/01143e4751841e85ff8ab6e178b54fa77b4bc038",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2025",
+      "doi": "10.1186/s13018-024-05409-0",
+      "abstract": "Delta large-channel endoscopy and unilateral biportal endoscopy (UBE) are prominent minimally invasive techniques for treating lumbar spinal stenosis, known for minimal tissue damage, clear visualization, and quick recovery. However, rigorous controlled research comparing these procedures is scarce, necessitating further investigation into their respective complications and long-term effectiveness. This randomized controlled trial aims to compare their perioperative outcomes, focusing on postoperative recovery and complications over time. In total, 101 participants were randomly assigned to Delta large-channel endoscopy group (n = 50) or UBE group (n = 51). Primary measures were Oswestry Disability Index (ODI) scores and operation time. Secondary measures included VAS, EQ-5D, JOA scores, intraoperative blood loss, hospital stay duration, and costs. Perioperative complications such as dural tears, incision infections, hematomas, thrombosis, and reoperation rates were recorded. The Delta group consistently showed lower mean ODI scores throughout the follow-up than UBE group, with significant differences at 2 weeks postoperative (P = 0.048), though they were not significant by 1 month (P = 0.124), 2 months (P = 0.821) and 3 months (P = 0.350). Operation times were shorter in the Delta group (P < 0.001). Hospitalization costs and intraoperative blood loss were slightly higher in the UBE group (P < 0.001). No significant differences were noted in the other secondary outcomes at various post-surgery intervals, such as VAS, EQ-5D, JOA scores, hospital stay duration and complications. Both techniques are safe and effective when performed by experienced surgeons. Compared to UBE, Delta large-channel endoscopy can shorten surgery time and reduce blood loss, and more importantly, it promotes faster recovery of lumbar function in the early postoperative period. Name of the registry: Chinese Clinical Trial Registry chictr.org.cn. (http://www.chictr.org.cn/index.aspx). Unique Identifying number or registration ID: ChiCTR2300076237. Hyperlink to your specific registration (must be publicly accessible and will be checked): https://www.chictr.org.cn/showproj.html?proj=207,844. The presented study is the first randomized controlled trial that compares the efficacy and safety of delta large-channel endoscopy versus unilateral biportal endoscopy decompressive laminectomy for spinal stenosis. Our study utilized the current mainstream assessment scoring systems for lumbar spinal conditions, including ODI, JOA, EQ-5D, lumbar pain visual analogue scale (VAS), and leg pain visual analogue scale (VAS), which enhanced the reliability of our research findings. Our study found that Delta large-channel endoscopy promotes faster recovery of lumbar function in the early postoperative period, reduces surgery time, intraoperative blood loss, and hospitalization costs.",
+      "licence": "CCBYNCND",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.032,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "LUMBAR SPINAL STENOSIS FUSION SURGERY IN PARKINSON'S DISEASE: A CASE REPORT",
+      "url": "https://zenodo.org/records/7477618",
+      "publisher": "INTERNATIONAL JOURNAL OF HEALTH SCIENCES OF NORTHERN LIGHTS",
+      "year": "2022",
+      "doi": "10.5281/zenodo.7477618",
+      "abstract": "Parkinson's disease is a nervous system disorder that progressively affects and impairs movement. Spinal stenosis is more common in these patients due to spinal deformities and motor movement disorders. In addition, osteoporosis is more common in Parkinson's disease than in the general population. Lumbar decompression and fusion surgery is a frequently used surgical technique in lumbar degenerative spine diseases. In this case, it is aimed to present early spinal instability due to osteoporosis and posture after spinal fusion surgery in Parkinson's disease.",
+      "licence": "cc-by-4.0",
+      "kind": "case report",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.78,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Clinical effects of arthroscopic-assisted uni-portal spinal surgery and unilateral bi-portal endoscopy on unilateral laminotomy for bilateral decompression in patients with lumbar spinal stenosis: a retrospective cohort study",
+      "url": "https://www.semanticscholar.org/paper/3472afa625a536d75063d5cb384428d3d2ccf73c",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2024",
+      "doi": "10.1186/s13018-024-04621-2",
+      "abstract": "To investigate the clinical effectiveness of Arthroscopic-assisted Uni-portal Spinal Surgery (AUSS) in the treatment of lumbar spinal stenosis. A total of 475 patients with lumbar spinal stenosis from January 2019 to January 2023 were included in this study. Among them, 240 patients were treated with AUSS (AUSS group); the other 235 patients were treated with unilateral bi-portal endoscopy treatment (UBE group). The differences in surgery-related clinical indicators, pain degree before and after surgery, Oswestry Disability Index (ODI), CT imaging parameters of spinal stenosis, and clinical efficacy were compared between the two groups. Patients in the AUSS group had a shorter operative time than those in the UBE group, and the length of incision and surgical bleeding were less than those in the UBE group, with statistically significant differences (P 0. 05). After operation, patients in both groups showed a significant reduction in low back and leg pain, and their VAS scores were significantly lower than before the operation (P < 0.05). Three months after surgery, the results of CT re-examination in both groups showed that the spinal stenosis of the patients was well improved, and the measurements of lumbar spinal interspace APDC, CAC, ICA, CAD and LAC were significantly higher than those before surgery (P < 0. 05). Besides, the lumbar function of patients improved significantly in both groups, and ODI measurements were significantly lower than those before surgery (P < 0.05). Both AUSS and UBE with unilateral laminotomy for bilateral decompression can achieve good clinical results in the treatment of lumbar spinal stenosis, but the former has the advantages of simpler operation, shorter operation time, shorter incision length, and less surgical blood loss.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.664,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Long-term clinical and radiographic outcomes of interlaminar coflex dynamic stabilization versus posterior lumbar interbody fusion for lumbar spinal stenosis: a comparative study with minimum 15-year follow-up",
+      "url": "https://doi.org/10.1186/s13018-026-07174-8",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2026",
+      "doi": "10.1186/s13018-026-07174-8",
+      "abstract": "Abstract Purpose This study aimed to evaluate the clinical and radiographic outcomes of inter-laminar Coflex dynamic stabilization compared with posterior lumbar interbody fusion (PLIF) for the treatment of lumbar spinal stenosis (LSS) over a long-term follow-up period exceeding 15 years. Patients and methods A retrospective cohort study was conducted on 78 patients (36 in the Coflex group and 42 in the PLIF group) treated between January 2007 and December 2009. Clinical outcomes were assessed using the visual analogue scale (VAS) for back and leg pain and the Oswestry Disability Index (ODI). Radiographic evaluation included intervertebral foraminal height (IFH), intervertebral space height (ISH), and range of motion (ROM) at the operative and adjacent levels. Complications, symptomatic adjacent segment disease (ASD), and revision rates were documented. Results At the final follow-up, the Coflex group demonstrated significantly lower low back VAS, leg VAS, and ODI scores compared to the PLIF group (P < 0.05). Coflex initially maintained higher IFH and ISH at 1 month postoperatively (P < 0.05), these parameters gradually decreased over time, becoming significantly lower than the PLIF group at the final follow-up (P < 0.05). The Coflex group successfully preserved ROM at the operative level. In contrast, the PLIF group exhibited significantly increased ROM at both proximal and distal adjacent segments at the final follow-up (P < 0.05). The incidence of symptomatic ASD (5.6% vs 16.7%) and the revision rate (2.8% vs 11.9%) were significantly lower in the Coflex group than in the PLIF group (P < 0.05). Conclusion Inter-laminar Coflex dynamic stabilization provides superior long-term clinical relief and functional improvement compared to PLIF for LSS patients. The progressive reduction in IFH and ISH in the Coflex group represents a biomechanical adaptive change that does not compromise long-term pain relief. By preserving operative segment mobility and preventing compensatory hypermobility at adjacent levels, Coflex significantly reduces the long-term risk of symptomatic ASD and the need for revision surgery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Clinical efficacy of AUSS/UNSES-TLIF in the treatment of single-segment degenerative lumbar spinal stenosis: a retrospective study",
+      "url": "https://www.semanticscholar.org/paper/7248b4216c9c19f5bd682d1d41323bfd063a4ea8",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2025",
+      "doi": "10.1186/s13018-025-05779-z",
+      "abstract": "To explore the clinical efficacy and advantages of Arthroscopic-assisted Uni-portal Spinal Surgery (AUSS)-Transforaminal Lumbar Interbody Fusion (TLIF) in the treatment of degenerative lumbar spinal stenosis (LSS). This study included 71 patients with lumbar spinal stenosis who underwent surgical treatment at the Department of Spine Surgery, Second Affiliated Hospital of Xi’an Medical University, between January 2022 and December 2023. Among these, 34 patients underwent AUSS-TLIF surgery, and 37 patients underwent minimally invasive TLIF (MIS-TLIF) surgery. Preoperative and postoperative Visual Analog Scale (VAS) scores for low back and leg pain, Oswestry Disability Index (ODI) scores, intervertebral disc height, anterior-posterior diameter of the canal (APDC), surgical-related parameters (such as operative time, intraoperative blood loss, postoperative drainage, postoperative C-reactive protein levels, and length of hospital stay), and surgical outcomes were compared and analyzed between the AUSS-TLIF and MIS-TLIF groups. All 71 patients were followed up. There were no significant differences in preoperative VAS scores or ODI index between the AUSS-TLIF and MIS-TLIF groups (P > 0.05). Three days postoperatively, both groups showed significant reductions in back and leg symptoms, with VAS scores significantly lower than preoperatively (P 0.05). Both groups showed significant improvement in lumbar function at 3 and 12 months postoperatively, with ODI scores significantly lower than preoperatively (P 0.05). There were no significant differences in preoperative intervertebral disc height or APDC between the two groups (P > 0.05). CT scans at 12 months postoperatively showed a significant increase in intervertebral disc height and APDC in both groups compared to preoperative values (P 0.05). The AUSS-TLIF group had lower surgical blood loss, postoperative drainage, and postoperative inflammatory markers compared to the MIS-TLIF group (P < 0.05), but the AUSS-TLIF group had a significantly longer operative time compared to the MIS-TLIF group (P < 0.05). Both AUSS-TLIF and MIS-TLIF achieve good clinical outcomes, but AUSS-TLIF, as an endoscopic surgery with an open surgical concept, offers advantages including greater flexibility, smaller trauma, less blood loss, shorter operative time, and shorter hospital stay. It provides a better perioperative experience for patients.",
+      "licence": "CCBYNCND",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.634,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Artificial intelligence for segmentation and classification in lumbar spinal stenosis: an overview of current methods",
+      "url": "https://www.semanticscholar.org/paper/1d1b8f9f73d51324277f466772e100194b13269b",
+      "publisher": "European spine journal",
+      "year": "2025",
+      "doi": "10.1007/s00586-025-08672-9",
+      "abstract": "Lumbar spinal stenosis (LSS) is a frequently occurring condition defined by narrowing of the spinal or nerve root canal due to degenerative changes. Physicians use MRI scans to determine the severity of stenosis, occasionally complementing it with X-ray or CT scans during the diagnostic work-up. However, manual grading of stenosis is time-consuming and induces inter-reader variability as a standardized grading system is lacking. Machine Learning (ML) has the potential to aid physicians in this process by automating segmentation and classification of LSS. However, it is unclear what models currently exist to perform these tasks. A systematic review of literature was performed by searching the Cochrane Library, Embase, Emcare, PubMed, and Web of Science databases for studies describing an ML-based algorithm to perform segmentation or classification of the lumbar spine for LSS. Risk of bias was assessed through an adjusted version of the Newcastle-Ottawa Quality Assessment Scale that was more applicable to ML studies. Qualitative analyses were performed based on type of algorithm (conventional ML or Deep Learning (DL)) and task (segmentation or classification). A total of 27 articles were included of which nine on segmentation, 16 on classification and 2 on both tasks. The majority of studies focused on algorithms for MRI analysis. There was wide variety among the outcome measures used to express model performance. Overall, ML algorithms are able to perform segmentation and classification tasks excellently. DL methods tend to demonstrate better performance than conventional ML models. For segmentation the best performing DL models were U-Net based. For classification U-Net and unspecified CNNs powered the models that performed the best for the majority of outcome metrics. The number of models with external validation was limited. DL models achieve excellent performance for segmentation and classification tasks for LSS, outperforming conventional ML algorithms. However, comparisons between studies are challenging due to the variety in outcome measures and test datasets. Future studies should focus on the classification task using DL models and utilize a standardized set of outcome measures and publicly available test dataset to express model performance. In addition, these models need to be externally validated to assess generalizability.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.632,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Comparative efficacy and fusion outcomes of unilateral bi-portal endoscopic transforaminal lumbar interbody fusion versus minimally invasive transforaminal lumbar interbody fusion in treating single-segment degenerative lumbar spondylolisthesis with lumbar spinal stenosis: a two-year retrospective s",
+      "url": "https://www.semanticscholar.org/paper/c440ccac0885ba2dff53a4115a1713f1453f97f0",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2024",
+      "doi": "10.1186/s13018-024-05315-5",
+      "abstract": "Degenerative lumbar spondylolisthesis (DLS) with lumbar spinal stenosis (LSS) is a common condition resulting in substantial lower back pain and disability. Surgical intervention is recommended only when conservative treatment fails. This study compared UBE-TLIF and MIS-TLIF regarding clinical outcomes and fusion rates in patients with single-segment DLS with LSS. A total of 85 patients who underwent either UBE-TLIF (n = 40) or MIS-TLIF (n = 45) were examined retrospectively. Clinical results were evaluated by the Visual Analog Scale (VAS) for pain and the Oswestry Disability Index (ODI) for functional outcomes. Radiographs and CT were utilized to assess radiological outcomes such as disc height (DH), lumbar lordosis (LL), and interbody fusion rates. The two groups were also compared in terms of perioperative data (operation time, blood loss, hospital stay, and fluoroscopy exposure). Both surgical techniques showed similar statistically significant improvements in VAS and ODI scores. Fusion rates at 2 years postoperatively were identical, including 95% for the UBE-TLIF group and 97.7% for the MIS-TLIF group. However, compared with MIS-TLIF, the operative time and fluoroscopy exposure were longer for UBE-TLIF, but intraoperative blood loss and length of hospital stay were reduced. UBE-TLIF and MIS-TLIF can successfully treat single-segment DLS in the presence of LSS, achieving similar clinical and radiological outcomes with low complication rates. Although UBE-TLIF has certain advantages regarding perioperative outcomes (less blood loss and shorter hospital stay), MIS-TLIF is associated with shorter operative times and lower fluoroscopy exposure.",
+      "licence": "CCBYNCND",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.632,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Lumbar spinal stenosis: current concept of management",
+      "url": "https://www.semanticscholar.org/paper/2072f0468579807079fe4e32e12e71f1819467d3",
+      "publisher": "Asian Spine Journal",
+      "year": "2025",
+      "doi": "10.31616/asj.2025.0198",
+      "abstract": "Lumbar spinal stenosis (LSS) is a common degenerative spinal condition where spinal canal narrowing causes symptoms such as neurogenic claudication, radiculopathy, and lower back pain. While non-operative and surgical approaches yield similar long-term outcomes, surgical intervention—particularly decompression—can provide earlier symptom relief, functional recovery, and fall prevention in selected patients with refractory symptoms. Recent advancements in surgical technologies and image guidance have brought about a paradigm shift in LSS management. Biportal endoscopic spine surgery (BESS) has gained global traction as a minimally invasive alternative to traditional decompression methods, offering superior visualization, less soft tissue damage, shorter hospital stays, and faster recovery. High-quality studies, including randomized controlled trials, have shown promising outcomes for this technique. Furthermore, the integration of navigation systems, robot-assisted instrumentation, and artificial intelligence (AI)-driven diagnostics and surgical planning tools is transforming spinal surgery by enhancing precision in preoperative evaluation and intraoperative execution. These innovations enable accurate targeting, reduce complications, and improve reproducibility across diverse surgical settings. This review provides an updated overview of LSS, covering its pathophysiology, clinical assessment, diagnosis, and treatment. Special emphasis is placed on the growing role of BESS and the transformative impact of digital technologies such as navigation, robotics, and AI in the evolving landscape of spinal stenosis care.",
+      "licence": "CCBYNC",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.63,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Bilateral synchronous UBE for unilateral laminotomy and bilateral decompression as a potentially effective minimally Invasive approach for two-level lumbar spinal stenosis",
+      "url": "https://www.semanticscholar.org/paper/e3763fcf1b4694dd1e91cfaea122803fb732d85d",
+      "publisher": "Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-86106-8",
+      "abstract": "Currently, Unilateral biportal endoscopy is widely used in the surgical treatment of lumbar spinal stenosis. To investigate the feasibility of bilateral synchronous UBE to unilateral laminotomy and bilateral decompression(BS-UBE-ULBD) for treating two-level lumbar spinal stenosis (LSS). Sixty-four patients with two-level lumbar spinal stenosis (LSS) treated with BS-UBE-ULBD from October 2022 to January 2024 were retrospectively analyzed. All patients were treated with BS-UBE-ULBD. All 64 patients successfully underwent surgery, and the duration of surgery was 95–180 min, with an average of 119.92 ± 14.79 min. The average number of fluoroscopy was 3.02 ± 0.92. The average blood loss during the surgery was 73. 44 ± 36.70 ml. Postoperative lumbar CT showed that the spinal canal and bilateral nerve roots were fully decompressed. There were no postoperative complications, such as infection, severe nerve root injury, and lumbar instability. Complete follow-up data were obtained for all 64 cases. The VAS score of low back and leg pain and the ODI of lumbar function significantly (P < 0.05) improved at each follow-up time point. MacNab evaluation at 6 months after the surgery showed that the results were excellent in 48 cases, good in 14 cases, and fair in 2 cases. The excellent and good rate was 96. 88% (62/64). So BS-UBE-ULBD is a minimally invasive, highly effective, and safe procedure for 2-level LSS. Degenerative lumbar spinal stenosis (LSS) refers to clinical symptoms caused by the compression of the cauda equina, nerve root, and vascular complex. LSS can occur due to the abnormal shape and volume of the bony or fibrous structure after degenerative changes and the stenosis of the inner diameter of one or more lumens at a single level or multiple levels. It is a common cause of lumbago or lumbago and leg pain, which is common among middle-aged and elderly people1. LSS has become the most common cause of lumbar surgery among patients over 60 years of age2. However, traditional surgery necessitates extensive stripping of paraspinal muscles, which can easily lead to the ischemic injury of paraspinal muscles and atrophy after denervation. Therefore, traditional surgery may result in intractable back pain, stiffness, and discomfort after surgery3,4. Furthermore, as the posterior bone and soft tissue structures need to be extensively resected during the surgery, epidural scar and nerve compression are highly likely after the surgery. The high risk of general anesthesia cannot be ignored among elderly and weak patients2,5. Recently, with the rapid development of minimally invasive spine surgery, endoscopic surgery has been applied in the treatment of LSS6. Unilateral biportal endoscopy (UBE ) is more popular in treating LSS and is a more flexible operation, with small trauma, quick recovery, and a gentle learning curve. In addition, many studies have proven the good clinical efficacy of unilateral biportal endoscopy7. Multilevel spinal stenosis can be done simultaneously. Previously, the same operator decompressed multiple segments in turn8,9, but the operation lasted longer, and the corresponding problems, such as bleeding, high risk of anesthesia, and fluoroscopy frequency, increased. From October 2022 to June 2024, our hospital pioneered the use of Bilateral Synchronous UBE-unilateral Laminotomy and Bilateral Decompression (BS-UBE-ULBD) for two-level degenerative LSS. Sixty-four patients with two-segment LSS were treated with BS-UBE-ULBD, and the results were satisfactory.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.622,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Super-resolution deep learning reconstruction to evaluate lumbar spinal stenosis status on magnetic resonance myelography",
+      "url": "https://www.semanticscholar.org/paper/06e6a335f4faeaccbad133b170b3ba29106cc6ab",
+      "publisher": "Japanese Journal of Radiology",
+      "year": "2025",
+      "doi": "10.1007/s11604-025-01787-5",
+      "abstract": "To investigate whether super-resolution deep learning reconstruction (SR-DLR) of MR myelography-aided evaluations of lumbar spinal stenosis. In this retrospective study, lumbar MR myelography of 40 patients (16 males and 24 females; mean age, 59.4 ± 31.8 years) were analyzed. Using the MR imaging data, MR myelography was separately reconstructed via SR-DLR, deep learning reconstruction (DLR), and conventional zero-filling interpolation (ZIP). Three radiologists, blinded to patient background data and MR reconstruction information, independently evaluated the image sets in terms of the following items: the numbers of levels affected by lumbar spinal stenosis; and cauda equina depiction, sharpness, noise, artifacts, and overall image quality. The median interobserver agreement in terms of the numbers of lumbar spinal stenosis levels were 0.819, 0.735, and 0.729 for SR-DLR, DLR, and ZIP images, respectively. The imaging quality of the cauda equina, and image sharpness, noise, and overall quality on SR-DLR images were significantly better than those on DLR and ZIP images, as rated by all readers (p < 0.001, Wilcoxon signed-rank test). No significant differences were observed for artifacts on SR-DLR against DLR and ZIP. SR-DLR improved the image quality of lumbar MR myelographs compared to DLR and ZIP, and was associated with better interobserver agreement during assessment of lumbar spinal stenosis status.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.612,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Comparison of Endoscopic Unilateral Laminectomy for Bilateral Decompression (Endo‐ULBD) and Posterior Lumbar Interbody Fusion (PLIF) in Managing Multi‐Segmental Lumbar Spinal Stenosis: Technique and Early Outcomes",
+      "url": "https://www.semanticscholar.org/paper/093b7fc78abe42101390974ae5b9ef1785b73872",
+      "publisher": "Orthopaedic Surgery",
+      "year": "2025",
+      "doi": "10.1111/os.70013",
+      "abstract": "Lumbar spinal stenosis is a common degenerative spine condition that leads to severe pain and disability. Surgical intervention is often required when conservative treatments fail, but the choice between different surgical techniques remains a topic of ongoing debate. The objective of this study was to provide a comprehensive comparison of the safety and efficacy of endoscopic unilateral laminectomy with bilateral decompression (Endo‐ULBD) and posterior lumbar interbody fusion (PLIF) in the treatment of multi‐segmental lumbar spinal stenosis (MS‐LSS). Furthermore, the text provides detailed technical information regarding the Endo‐ULBD procedure.",
+      "licence": "CCBYNCND",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.612,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "A Radiological Comparison of Qualitative and Quantitative Grading Systems (Schizas Classification and Stenosis Ratio) For Lumbar Spinal Stenosis in a Low-Income Setting",
+      "url": "https://hal.science/hal-05427466v1",
+      "publisher": "Asian Journal of Research in Surgery",
+      "year": "2025",
+      "doi": "",
+      "abstract": "Introduction: In low-resource neurosurgical settings, the choice of a reliable and efficient imaging tool for grading degenerative lumbar spinal stenosis (DLSS) is critical. The qualitative Schizas morphological classification and the quantitative Stenosis Ratio (SR) are two established methods, but their direct correlation and practical interchangeability in such environments are not well-documented. This study aimed to determine the correlation and inter-rater reliability between the Schizas grading system and the Stenosis Ratio in patients with symptomatic DLSS in a low-income country. Methods: A retrospective cross-sectional radiological analysis was conducted on 50 consecutive patients scheduled for surgery. The researcher and two neuroradiologists independently graded the most stenotic axial T2-weighted MRI level using the Schizas system (Grades A-D) and measured the SR (dural sac area / bony canal area). Inter-rater reliability was assessed using Cohen’s Kappa and Intraclass Correlation Coefficient (ICC). Correlation between the two grading systems was evaluated using Spearman’s rank correlation (ρ). Results: The cohort had a mean SR of 0.39 (SD 0.19). Schizas Grade C was the most prevalent (44%). Inter-rater reliability was excellent for both systems: SR (ICC = 0.984, p<0.001) and Schizas grade (κ = 0.90). A very strong, statistically significant negative correlation was found between the Schizas grade and the SR (ρ = -0.821, p < 0.001), indicating convergent validity. Conclusion: This study demonstrates a strong radiological correlation and excellent reliability between the Schizas classification and the Stenosis Ratio. The findings validate the Schizas system as an efficient, reliable, and software-free tool for routine anatomical grading of DLSS in low-resource settings. The quantitative SR remains a precise option for complex cases, but the high concordance supports the primary use of the simpler qualitative method to optimise workflow in constrained environments.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Lumbar spinal stenosis and surgical decompression affect sleep quality and position in patients. A prospective cross-sectional cohort study",
+      "url": "http://www.sciencedirect.com/science/article/pii/S2772529424000419",
+      "publisher": "Brain and Spine",
+      "year": "2024",
+      "doi": "10.1016/j.bas.2024.102785",
+      "abstract": "Introduction: It is reasonable to assume that lumbar spinal stenosis (LSS) affects the cauda nerve roots also at night. Research question: Does microsurgical decompression influence sleep quality and position? Materials and methods: A study nurse interviewed 140 patients scheduled for LSS decompression using the Pittsburgh Sleep Quality Index (PSQI), Spinal Stenosis Measure (SSM), Numeric Rating Scale (NRS) for back and leg pain, Douleur Neuropathique (DN4), and Charlson Comorbidity Index. Epidemiologic and MRI data were collected along with self-reported rankings of preferred sleep positions (prone, supine, side, and fetal). Follow-up interviews were conducted by telephone six and 18 months after discharge. Statistical analysis was performed using SSPS 24, with significance set at p < 0.05. Results: 132 patients (55% female, mean age 73 years) were evaluated. Preoperatively, 45 (34.1%) patients were classified as good sleepers (GS: PSQI ≤5, range 1–21 (worst)) and 87 (65.9%) as poor sleepers (PS: PSQI ≥6). Decompression surgery reversed the relationship between PS (31.8%) and GS (68.2%, recovered/improved). Protective fetal sleeping position was the most common (≥70%) before and after surgery for both PS and GS. Risk factors for PS included female sex (p = 0.03), obesity (p = 0.03), high NRS back pain score (p = 0.008), and high SSM symptom score (p = 0.004). MRI imaging did not differ between PS and GS. Discussion and conclusion: LSS had a negative effect on sleep quality, whereas surgical decompression had a positive effect. The protective fetal sleeping position was the preferred position both before and after surgery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Preoperative and follow-up variations of psoas major muscle are related to S1 screw loosening in patients with degenerative lumbar spinal stenosis",
+      "url": "https://doi.org/10.1186/s12891-024-07298-0",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2024",
+      "doi": "10.1186/s12891-024-07298-0",
+      "abstract": "Abstract Background It was reported the paraspinal muscle played an important role in spinal stability. The preoperative paraspinal muscle was related to S1 screw loosening. But the relationship between preoperative and postoperative change of psoas major muscle (PS) and S1 pedicle screw loosening in degenerative lumbar spinal stenosis (DLSS) patients has not been reported. This study investigated the effects of preoperative and follow-up variations in the psoas major muscle (PS) on the first sacral vertebra (S1) screw loosening in patients with DLSS. Methods 212 patients with DLSS who underwent lumbar surgery were included. The patients were divided into the S1 screw loosening group and the S1 screw non-loosening group. Muscle parameters were measured preoperatively and at last follow-up magnetic resonance imaging. A logistic regression analysis was performed to investigate the risk factors for S1 screw loosening. Results The S1 screw loosening rate was 36.32% (77/212). The relative total cross-sectional areas and relative functional cross-sectional areas (rfCSAs) of the PS at L2–S1 were significantly higher after surgery. The increased rfCSA values of the PS at L3–S1 in the S1 screw non-loosening group were significantly higher than those in the S1 screw loosening group. The regression analysis showed male, lower CT value of L1 and longer segment fusion were independent risk factors for S1 screw loosening, and postoperative hypertrophy of the PS was a protective factor for S1 screw loosening. Conclusions Compared to the preoperative muscle, the PS size increased and fatty infiltration decreased after surgery from L2–3 to L5–S1 in patients with DLSS after short-segment lumbar fusion surgery. Postoperative hypertrophy of the PS might be considered as a protective factor for S1 screw loosening. MRI morphometric parameters and postoperative selected exercise of PS for DLSS patients after posterior lumbar fusion surgery might contribute to improvement of surgical outcome.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Complications and Management of Endoscopic Spinal Surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10080410/",
+      "publisher": "Neurospine",
+      "year": "2023",
+      "doi": "10.14245/ns.2346226.113",
+      "abstract": "In the past, the use of endoscopic spine surgery was limited to intervertebral discectomy; however, it has recently become possible to treat various spinal degenerative diseases, such as spinal stenosis and foraminal stenosis, and the treatment range has also expanded from the lumbar spine to the cervical and thoracic regions. However, as endoscopic spine surgery develops and its indications widen, more diverse and advanced surgical techniques are being introduced, and the complications of endoscopic spine surgery are also increasing accordingly. We searched the PubMed/MEDLINE databases to identify articles on endoscopic spinal surgery, and key words were set as \"endoscopic spinal surgery,\" \"endoscopic cervical foramoinotomy,\" \"PECD,\" \"percutaneous transforaminal discectomy,\" \"percutaneous endoscopic interlaminar discectomy,\" \"PELD,\" \"PETD,\" \"PEID,\" \"YESS\" and \"TESSYS.\" We analyzed the evidence level and classified the prescribed complications according to the literature. Endoscopic lumbar surgery was divided into full endoscopic interlaminar and transforaminal approaches and a unilateral biportal approach. We performed a comprehensive review of available literature on complications of endoscopic spinal surgery. This study particularly focused on the prevention of complications. Regardless of the surgical methods, the most common complications related to endoscopic spinal surgery include dural tears and perioperative hematoma. transient dysesthesia, nerve root injury and recurrence. However, Endoscopic spinal surgery, including full endoscopic transforaminal and interlaminar and unilateral biportal approaches, is a safe and effective a treatment for lumbar as well as cervical and thoracic spinal diseases such as disc herniation, lumbar spinal stenosis, foraminal stenosis and recurrent disc herniation.",
+      "licence": "cc by-nc",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Lower Extremity Arterial Disease and Lumbar Spinal Stenosis: A Study of Exercise-Induced Arterial Ischemia in 5197 Patients Complaining of Claudication",
+      "url": "https://hal.science/hal-04233811v1",
+      "publisher": "Journal of Clinical Medicine",
+      "year": "2022",
+      "doi": "10.3390/jcm11195550",
+      "abstract": "Only few studies have analyzed the associations of lower extremity artery disease (LEAD) with lumbar spinal stenosis (LSS), although it is expected to be a frequent association. With exercise-oximetry, we determined the presence of exercise-induced regional blood flow impairment (ischemia) in 5197 different patients complaining of claudication and referred for treadmill testing. We recorded height, weight, age, sex, ongoing treatments, cardiovascular risk factor (diabetes, high blood pressure, current smoking habit), and history of suspected or treated LSS and/or lower limb revascularization. An ankle-brachial index at rest 1.40 on at least one side was considered indicative of the presence of LEAD (ABI+). Ischemia was defined as a minimal DROP (Limb-changes minus chest-changes from rest) value < –15 mmHg during exercise oximetry. We analyzed the clinical factors associated to the presence of exercise-induced ischemia in patients without a history of LSS, using step-by-step linear regression, and defined a score from these factors. This score was then tested in patients with a history of LSS. In 4690 patients without a history of (suspected, diagnosed, or treated) LSS, we observed that ABI+, male sex, antiplatelet treatment, BMI< 26.5 kg//m2, age ≤ 64 years old, and a history of lower limb arterial revascularization, were associated to the presence of ischemia. The value of the score derived from these factors was associated with the probability of exercise-induced ischemia in the 507 patients with a history of LSS. This score may help to suspect the presence of ischemia as a factor of walking impairment in patients with a history of lumbar spinal stenosis.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Lumbar Spinal Stenosis Treatment: Is Surgery Better than Non-Surgical Treatments in Afro-Descendant Populations?",
+      "url": "https://hal.science/hal-04715903v1",
+      "publisher": "Biomedicines",
+      "year": "2022",
+      "doi": "10.3390/biomedicines10123144",
+      "abstract": "(1) Background: Limited data are available on lumbar spine stenosis management in sub-Saharan African populations and Afro-descendant patients are underrepresented in European and US clinical trials. We aimed to compare the clinical response between decompressive surgery and conservative treatments in a population of self-reported Afro-Caribbean patients with lumbar spine stenosis over a 2-year follow-up period. (2) Methods: Prospective cohort of 137 self-reported Afro Caribbeans with lumbar spine stenosis based on clinical and radiological criteria. Patients were assigned to decompression surgery or to conservative treatments according to their outcome after a first course of steroid epidural injection and their preferences. The primary outcome was evolution of the Oswestry disability index at 3 months (3 M), 12 M, 18 M and 24 M follow-up. (3) Results: Decrease of ODI was significantly more important in the “decompression surgery” arm compared to “conservative treatment” arm at 3 M, 12 M and 18 M: −17.36 vs. 1.03 p < 10−4; −16.38 vs. −1.53 p = 0.0059 and −19.00 vs. −4.52 p = 0.021, respectively. No difference was reported at 24 M. (4) Conclusions: In this first comparative study between surgery and conservative treatments in an exclusively afro-descendant lumbar spine stenosis cohort, we report long term superiority of decompression surgery versus conservative treatments over an 18-month period.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Assessing Fatty Infiltration of Paraspinal Muscles in Patients With Lumbar Spinal Stenosis: Goutallier Classification and Quantitative MRI Measurements",
+      "url": "https://www.frontiersin.org/articles/10.3389/fneur.2021.656487/full",
+      "publisher": "Frontiers in Neurology",
+      "year": "2021",
+      "doi": "10.3389/fneur.2021.656487",
+      "abstract": "Objective: Fatty infiltration of paraspinal muscle is associated with spinal disorders. It can be assessed qualitatively (i.e., Goutallier classification) and quantitatively using image processing software. The aims of this study were to compare paraspinal muscle fatty infiltration as assessed using the Goutallier classification vs. quantitative magnetic resonance images (MRI) measurements and to investigate the association between anthropometric parameters and paraspinal muscle morphology and fatty infiltration in patients with symptomatic lumbar spinal stenosis (LSS).Methods: Patients affected by symptomatic LSS scheduled for surgery with available MRI of the lumbar spine were included in this retrospective cross-sectional study. Fatty infiltration at each lumbar level was rated qualitatively according to the Goutallier classification and quantified based on the cross-sectional area (CSA) of the paraspinal muscle, of its lean fraction (LeanCSA), and the ratio between LeanCSA and CSA and the CSA relative to the CSA of vertebral body (RCSA). Considering the muscle as a single unit, overall fatty infiltration according to Goutallier, overall CSA, LeanCSA, LeanCSA/CSA, and RCSA were computed as averages (aGoutallier, aCSA, aLeanCSA, aLeanCSA/aCSA, and aRCSA). Associations among parameters were assessed using Spearman's respective Pearson's correlation coefficients.Results: Eighteen patients, with a mean age of 71.3 years, were included. aGoutallier correlated strongly with aLeanCSA and aLeanCSA/aCSA (R = −0.673 and R = −0.754, both P < 0.001). There was a very strong correlation between values of the left and right sides for CSA (R = 0.956, P < 0.001), LeanCSA (R = 0.900, P < 0.001), and LeanCSA/CSA (R = 0.827, P < 0.001) at all levels. Among all anthropometric measurements, paraspinal muscle CSA correlated the most with height (left: R = 0.737, P < 0.001; right: R = 0.700, P < 0.001), while there was a moderate correlation between vertebral body CSA and paraspinal muscle CSA (left: R = 0.448, P < 0.001; right: R = 0.454, P < 0.001). Paraspinal muscle CSA correlated moderately with body mass index (BMI; left: R = 0.423, P < 0.001; right: R = 0.436, P < 0.001), and there was no significant correlation between aLeanCSA or aLeanCSA/CSA and BMI.Conclusions: The Goutallier classification is a reliable yet efficient tool for assessing fatty infiltration of paraspinal muscles in patients with symptomatic LSS. We suggest taking body height as a reference for normalization in future studies assessing paraspinal muscle atrophy and fatty infiltration.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Lumbar Spinal Stenosis: Diagnostic Value of Cauda Equina Motor Conduction Time at Rest and after Walk",
+      "url": "https://hal.science/hal-05241227v1",
+      "publisher": "HAL open archive",
+      "year": "2021",
+      "doi": "",
+      "abstract": "Lumbosacral spinal stenosis is a narrowing of the spinal canal, which compresses the nerves travelling through the lower back into the lower limbs. Symptomatic patients often have intermittent neurogenic claudication, and with diagnostic procedures at rest, it is difficult to evaluate it objectively Measurement of conduction in the cauda equine at rest and after walking may be a valuable tool in lumbosacral spinal stenosis work-up. The aim of our study was to compare results of magnetic in electrical stimulation, and the peripheral motor conduction time. Methods: M and F waves and compound muscle action potentials were recorded after L1 MS, S1 MS, and L1 ES. Results: The compound muscle action potential latency on L1 MS was 26.9 ± 2.6 milliseconds and on L1 ES was 25.6 ± 2.2 milliseconds, and the peripheral motor conduction time was 27.0 ± 2.5 milliseconds (analysis of variance P = 0.0008). The compound muscle action potential amplitude was 12 ± 11% of M-wave on L1 MS, 32 ± 18% on S1 MS, and 31 ± 17% on L1 ES. Conclusions: Dorsal MS reliably elicits responses in the abductor hallucis muscle. The latency of compound muscle action potentials on L1 MS is comparable to peripheral motor conduction time. A potential drawback of MS may be too weak stimulation at the proximal end of the cauda equina.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.44,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Lumbar spinal stenosis and disc alterations affect the upper lumbar spine in adults with achondroplasia",
+      "url": "https://inserm.hal.science/inserm-02511411v1",
+      "publisher": "Scientific Reports",
+      "year": "2020",
+      "doi": "10.1038/s41598-020-61704-w",
+      "abstract": "In achondroplasia, lumbar spinal stenosis arises from congenital dysplasia and acquired degenerative changes. We here aimed to describe the changes of the lumbar spinal canal and intervertebral disc in adults. We included 18 adults (age ≥ 18 years) with achondroplasia and lumbar spinal stenosis. Radiographs were used to analyze spinal-pelvic angles. Antero-posterior diameter of the spinal canal and the grade of disc degeneration were measured by MRI. Antero-posterior diameters of the spinal canal differed by spinal level (P < 0.05), with lower values observed at T12-L1, L1-2 and L2-3. Degrees of disc degeneration differed by intervertebral level, with higher degrees observed at L1-2, L2-3 and L3-4. A significant correlation was found between disc degeneration and thoraco-lumbar kyphosis at L2-3, between antero-posterior diameter of the spinal canal and lumbar lordosis at T12-L1 and L2-3, and between antero-posterior diameter of the spinal canal and thoraco-lumbar kyphosis at L1-2. Unlike the general population, spinal stenosis and disc degeneration involve the upper part of the lumbar spine in adults with achondroplasia, associated with thoraco-lumbar kyphosis and loss of lumbar lordosis.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Lumbar spinal muscles and spinal canal study by MRI three-dimensional reconstruction in adult lumbar spinal stenosis",
+      "url": "https://hal.science/hal-02500530v1",
+      "publisher": "Orthopaedics & Traumatology: Surgery & Research",
+      "year": "2017",
+      "doi": "10.1016/j.otsr.2016.10.025",
+      "abstract": "Background: Lumbar spinal stenosis is degenerative disc disease most common manifestation. If stenosisdegree seems poorly related to symptom severity, lumbar muscles role is recognized. Many studiesreport imaging methods, to analyze muscle volumes and fat infiltration (FI), but remain limited due tothe difficulty to represent entire muscle volume variability. Recently a 3D muscle reconstruction protocol(using the deformation of a parametric specific object method (DPSO) and three-point Dixon images) wasreported. It offers the ability to evaluate, muscles volumes and muscle FI.Purpose: To describe, in a lumbar spinal stenosis population, muscle volumes, muscle FI and lumbarspinal canal volume with 3D MRI images reconstructions.Materials and methods: Ten adults presenting L4–L5 lumbar stenosis, were included. After specific MRIprotocol, three-dimensional, muscle and spinal canal, reconstructions were performed. Muscle (psoasand paraspinal muscles) volumes and fat infiltration (FI), the spinal canal volume, age, and height werecorrelated one to each other with Spearman correlation factor. An ANOVA was performed to evaluate theintervertebral level influence (P ≤ 0.05).Results: Muscle volumes correlated with height (r = 0.68 for psoas). Muscles FI correlated with age (r = 0.66for psoas) and lumbar spinal canal volume (r = 0.91). Psoas and paraspinal volumes were maximum atL3–L4 level whereas FI increased from L1–L2 to L5–S1 level.Discussion: These first results illustrate the importance to consider muscles entirely and report correla-tions between muscles FI, lumbar spinal canal volume and age; and between muscle volumes and patientsheight. Muscle degeneration seems more related to muscle FI than muscle volume.Level of evidence: 3.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.28,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Zastosowanie plastrowania dynamicznego u chorych wieku podeszłym po leczeniu operacyjnym stenozy zwyrodnieniowej kanału kręgowego i dyskopatii lędźwiowej = The application of Kinesio Taping in eldery patients after surgical treatment of lumbar spinal stenosis and disc herniation",
+      "url": "https://zenodo.org/records/197908",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.197908",
+      "abstract": "Główczewska-Siedlecka Emilia, Mądra-Gackowska Katarzyna, Nowacka Krystyna, Simińska Joanna, Siedlecki Zygmunt, Szostak Mateusz, Kędziora-Kornatowska Kornelia. Zastosowanie plastrowania dynamicznego u chorych wieku podeszłym po leczeniu operacyjnym stenozy zwyrodnieniowej kanału kręgowego i dyskopatii lędźwiowej = The application of Kinesio Taping in eldery patients after surgical treatment of lumbar spinal stenosis and disc herniation. Journal of Education, Health and Sport. 2016;6(12):222-229. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.197908 http://ojs.ukw.edu.pl/index.php/johs/article/view/4051 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 22.11.2016. Revised 28.11.2016. Accepted: 09.12.2016. Zastosowanie plastrowania dynamicznego u chorych wieku podesz ł ym po leczeniu operacyjnym stenozy zwyrodnieniowej kana ł u kr ę gowego i dyskopatii l ę d ź wiowej The application of Kinesio Taping in eldery patients after surgical treatment of lumbar spinal stenosis and disc herniation G łó wczewska-Siedlecka Emilia 1 , M ą dra-Gackowska Katarzyna 1 , Nowacka Krystyna 2 , Simi ń ska Joanna 2 , Siedlecki Zygmunt 3 , Szostak Mateusz 3 , K ę dziora‑Kornatowska Kornelia 1 1. Katedra i Klinika Geriatrii, Collegium Medicum im. L. Rydygiera w Bydgoszczy, Uniwersytet Miko ł aja Kopernika w Toruniu 2. Katedra i Klinika Rehabilitacji, Collegium Medicum im. L. Rydygiera w Bydgoszczy, Uniwersytet Miko ł aja Kopernika w Toruniu 3. Klinika Neurochirurgii, Neurotraumatologii i Neurochiurgii Dzieci ę cej, Collegium Medicum im. L. Rydygiera w Bydgoszczy, Uniwersytet Miko ł aja Kopernika w Toruniu Streszczenie Plastrowanie dynamiczne (ang. Kinesio Taping) jest coraz bardziej popularną metodą leczenia zespołów bólowych mięśniowo - szkieletowych oraz kręgosłupa. Może być to pojedyncza metoda leczenia zachowawczego oraz wspomaganie innych. Plastrowanie można stosować jako uzupełnienie kinezyterapii, terapii manualnej oraz po zabiegach neurochirurgicznych kręgosłupa, jako uzupełnienie postępowania pooperacyjnego. Niniejsza praca przedstawia wyniki plastrowania chorych w wieku podeszłym po operacjach z obrębie kręgosłupa lędźwiowego. Pacjentom w grupie badanej naklejono plastry Kinesio Taping w pierwszej dobie po zabiegu. Uzyskano zmniejszenie bólu po zabiegu operacyjnym w grupie stosującej plastrowanie dynamiczne. W grupie kontrolnej dolegliwości bólowe po zabiegu były większe niż w grupie badanej, co dowodzi że Kinesio Taping może być stosowany z powodzeniem u chorych w wieku podeszłym po leczeniu operacyjnym w obrębie kręgosłupa lędźwiowego. S ł owa kluczowe: Kinesio Taping, geriatria, dyskopatia l ę d ź wiowa, stenoza zwyrodnieniowa, zespo ł y b ó lowe kr ę gos ł upa Abstract Kinesio Taping is popular method of treating musculo - skeletal pain and low back pain. This can be a single method of conservative treatment or can support other methods like physiotherapy, manual therapy or after neurosurgical spine procedures. The study presents results of Kinesio Taping in eldery, geriatric patients after surgical treatment of lumbar spine comparing to eldery patients after neurosurgical procedures without Kinesio Taping. Patients in the study group had applied Kinesio Taping the first day post op. The pain relief after surgery in the group using Kinesio Taping was observed. In the control group pain after surgery they were greater than those in the study group, which proves that Kinesio Taping can be used successfully in eldery patients after surgery of lumbar spine. Key words: Kinesio Taping, geriatrics, lumbar discopathy, lumbar spinal stenosis, low back pain",
+      "licence": "cc-by-nc-nd-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Model of lumbar spinal stenosis in the experiment",
+      "url": "https://zenodo.org/records/19735",
+      "publisher": "Journal of Education, Health and Sport",
+      "year": "2015",
+      "doi": "10.5281/zenodo.19735",
+      "abstract": "Perepechai O., Ivanov G., Novikov N., Fishchenko I. Model of lumbar spinal stenosis in the experiment. Journal of Education, Health and Sport. 2015;5(7):171-178 . ISSN 2391-8306. DOI 10.5281/zenodo.19735 http://ojs.ukw.edu.pl/index.php/johs/article/view/2015%3B5%287%29%3A171-178 https://pbn.nauka.gov.pl/works/581310 http://dx.doi.org/10.5281/zenodo.19735 Formerly Journal of Health Sciences. ISSN 1429-9623 / 2300-665X. Archives 2011 – 2014 http://journal.rsw.edu.pl/index.php/JHS/issue/archive Deklaracja. Specyfika i zawartość merytoryczna czasopisma nie ulega zmianie. Zgodnie z informacją MNiSW z dnia 2 czerwca 2014 r., że w roku 2014 nie będzie przeprowadzana ocena czasopism naukowych; czasopismo o zmienionym tytule otrzymuje tyle samo punktów co na wykazie czasopism naukowych z dnia 31 grudnia 2014 r. The journal has had 5 points in Ministry of Science and Higher Education of Poland parametric evaluation. Part B item 1089. (31.12.2014). © The Author (s) 2015; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland and Radom University in Radom, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 21.04.2015. Revised 28.05.2015. Accepted: 30.06.2015. MODEL OF LUMBAR SPINAL STENOSIS IN THE EXPERIMENT O. Perepechai 1 , G. Ivanov 2 , N. Novikov 3 , I. Fishchenko 1 1 State University “Institute of Traumatology and Orthopedics of NAMS of Ukraine”, Kiev, Ukraine 2 State University “Professor M. Sitenko’s Institute of Spine and Joint Pathology of NAMS of Ukraine”, Kharkov, Ukraine 3 Medical Academy named after S.I. Georgievsky of Vernadsky CFU Abstracts The description of an experimental model of lumbar spinal stenosis on 20 rats. The experiment was symmetrical dissection of arc plates to the inside thin cortical layer plates, and then dissection of the latter. The middle part of the arc with the spinous processes of the vertebrae is separated from the rest of the arc, and articular processes. The separated middle part of the arc with yellow ligament is shifted in the ventral direction, reducing the size of the cavity of the spinal canal and fix the contacting bone edges with bone cement. Degenerative changes of the nerve roots were evaluated histologically by endoneural and epineural changes using a 7-point scale of G. Byrond and others. In the studied group of animals 7 days after spinal canal stenosis simulations appeared degenerative changes of nerve fibers, but the degree is low, and there is virtually no endoneural inflammation. The epineurium determined expressed or gross changes, indicating epineural inflammatory processes. After 1 month. There appeared dystrophic and degenerative changes of nerve fibers of the overwhelming majority (over 75%). At a later date (3 months), endoneural change remained practically the same as in the 1th month after surgery, epineural violations were preserved, there were groups and single fibroblasts as a sign of epineural fibrosis, as well as portions of connective tissue neoplasms and hyalinosis. Keywords: lumbar spinal stenosis, an experimental model.",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.2,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Transthyretin-derived amyloidosis: probably a common cause of lumbar spinal stenosis",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4116761/",
+      "publisher": "Upsala journal of medical sciences",
+      "year": "2014",
+      "doi": "10.3109/03009734.2014.895786",
+      "abstract": "Background Senile systemic amyloidosis (SSA) derived from wild-type transthyretin is a fairly common condition of old individuals, particularly men. The main presentation is by cardiac involvement, which can lead to severe restrictive cardiomyopathy. SSA is, however, a systemic disease, and amyloid deposits may appear in many other tissues but are thought to be without clinical symptoms outside the heart. Amyloid is a very common finding in cartilage and ligaments of elderly subjects, and transthyretin has been demonstrated in some deposits. Lumbar spinal stenosis is also a condition of usually elderly individuals in whom narrowing of the lumbar spinal canal leads to compression of nerves to the lower limbs. Results We questioned whether lumbar spinal stenosis sometimes could be a manifestation of undiagnosed SSA. In this first report we have studied the presence of amyloid in material obtained at surgery for spinal stenosis in 26 patients. Amyloid was found in 25 subjects. Transthyretin was demonstrated immunohistochemically in 5 out of 15 studied resected tissues. Four of the positive materials were analyzed with Western blot revealing both full-length transthyretin (TTR) and C-terminal TTR fragments, typically seen in SSA. Conclusion We conclude that lumbar spinal stenosis quite frequently may be a consequence of SSA and that further studies are warranted.",
+      "licence": "cc by-nc-nd",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.16,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Treatment of the Moderate Lumbar Spinal Stenosis with an Intespinous Distraction Device IMPALA",
+      "url": "http://jhsci.ba/OJS/index.php/jhsci/article/view/74",
+      "publisher": "Journal of Health Sciences",
+      "year": "2013",
+      "doi": "",
+      "abstract": "Introduction : The aim of this study was the evaluation of symptom improvements in patients with moderate lumbar spinal stenosis, who consecutively underwent placement of interspinous distraction device IMPALA®. Methods : This study included a total of 11 adult patients with moderate lumbar spinal stenosis. Clinical evaluations were performed preoperatively and 3-months after surgery using the Visual Analogue Scale (VAS) and Oswestry Disability Index (ODI). Results: The mean preoperative VAS was 7.09 and fell to 2.27 a 3-months after surgery. The mean preoperative ODI was 59.45 fell to 20.72 a 3-months after surgery. Conclusions: Using the IMPALA® device in patients with moderate lumbar spinal stenosis is a minimal invasive, effective and safe procedure. Clinical symptoms were improved 3 months after surgery.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.12,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Clinical Analysis following Minimally Invasive Treatment of Lumbar Spinal Stenosis with Interspinous Devices: Where We Are and Where We Go",
+      "url": "https://doi.org/10.1055/s-0032-1319894",
+      "publisher": "Global Spine Journal",
+      "year": "2012",
+      "doi": "10.1055/s-0032-1319894",
+      "abstract": "Introduction Insertion of an interspinous device has become a common procedure for the treatment of different clinical pictures of degenerative spinal disease. We present our experience with patients treated with interspinous devices because affected by claudication neurogenic, by lumbar disk herniation (LDH) where the interspinous system has been inserted following microdiscectomy. Materials and Methods This study included patients ( n = 200) with neurogenic intermittent claudication (NIC) secondary to LSS (group 1) and patients ( n = 150) with LDH (group 2) in whom the interspinous device has been implanted following radicular decompression in a period spanning 6 years. The latter have been compared with a homogenous group of patients ( n = 150) where no interspinous system has been implanted following microdiscectomy (group 3). We observed clinical and neuroradiological findings preoperatively and 3, 6, 12 months and every year postoperatively using dedicated questionnaires (Zurich Claudication Questionnaire, SF-36, ODI) and X-ray imaging. Results After 6 years of surgical treatment 85% of patients of group 1 presented a very good improvement of symptoms and 90% of patients referred satisfaction for surgery. Only 2% of the cases needed re-operation to change the implant. In one case the device was removed and in two cases we observed recurrence of symptoms and we changed surgical procedure. Overall patients of group 2 presented significantly less lumbar disk recurrences compared with group 3 ( p < 0.05) and better clinical outcome when compared with the same group ( p < 0.01). Conclusion According to our features, no significant complications were associated with such kind of surgery. In particular, interspinous systems showed significant and clinically meaningful improvements in pain and disability for up to 6 years. Furthermore, interspinous devices have shown better clinical outcome and less lumbar disk recurrences when associated with standard microdiscectomy. These data, however, need further studies and a longer period of follow-up. I confirm having declared any potential conflict of interest for all authors listed on this abstract No Disclosure of Interest None declared",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Lumbar Spinal Stenosis",
+      "url": "https://doi.org/10.1016/j.berh.2009.11.001",
+      "publisher": "Elsevier BV",
+      "year": "2010",
+      "doi": "10.1016/j.berh.2009.11.001",
+      "abstract": ": As we age, our spines change. These normal wear-and-tear effects of aging can lead to narrowing of the spinal canal. This condition is called spinal stenosis. Almost everyone will experience low back pain at some point in their lives. A common cause of low back pain is lumbar spinal stenosis. Your spine is made up of vertebrae, muscles, ligaments, nerves, and intervertebral disks. When stenosis occurs in the lower back, it is called lumbar spinal stenosis. It often results from the normal aging process. As people age, the soft tissues and bones in the spine may harden or become overgrown. These degenerative changes may narrow the space around the spinal cord and result in spinal stenosis. Degenerative changes of the spine are seen in up to 95% of people by the age of 50. Spinal stenosis most often occurs in adults over 60 years old. Pressure on the spinal cord is equally common in men and women, although women are more likely to have symptoms that require treatment. A small number of people are born with back problems that develop into lumbar spinal stenosis. This is known as congenital spinal stenosis. It occurs most often in men. People usually first notice symptoms between the ages of 30 and 50. Arthritis is the most common cause of spinal stenosis. Arthritis is the degeneration of any joint in the body. Since 2002, we have treated spinal stenosis with CT guided epidural injection of steroids.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "MANAGEMENT OF LUMBAR SPINAL STENOSIS",
+      "url": "https://doi.org/10.1302/0301-620x.78b1.0780154",
+      "publisher": "British Editorial Society of Bone & Joint Surgery",
+      "year": "1996",
+      "doi": "10.1302/0301-620x.78b1.0780154",
+      "abstract": "The term stenosis means a narrowing of the calibre of an orifice or a tube. It causes a decreased flow of fluids or gasses within the tube or compression of its solid contents (Verbiest 1976). In the case of the spinal canal, the term indicates a pathological condition causing compression of the contents of the canal, particularly the neural structures. If compression does not occur, the canal should be described as narrow but not stenotic. I have defined lumbar spinal stenosis as a “narrowing of the osteoligamentous vertebral canal and/or the intervertebral foramina causing compression of the thecal sac and/or the caudal nerve roots; at a single vertebral level, narrowing may affect the whole canal or part of it” (Postacchini 1983). This definition distinguishes between disc herniation and stenosis. A disc prolapse does cause stenosis, in the strictest sense, but the two conditions are so different in their pathogenesis and anatomical and clinical characteristics that they cannot be considered as a single pathological entity. The lumbar spinal canal consists of a central part, two lateral parts and a posterior part corresponding to the interlaminar angle. The central portion is the so-called central spinal canal, and each lateral part constitutes the nerve-root or radicular canal. The central spinal canal is rounded and occupied by the thecal sac. Stenosis of this portion is sometimes called central spinal stenosis to distinguish it from lateral spinal stenosis (nerve-root canal stenosis). This terminology implies that in central spinal stenosis the nerve-root canals may not be stenotic, but this is not the case. Stenosis of the central portion is almost always associated with stenosis of the lateral corners of the spinal canal. The term ‘spinal canal stenosis’ is therefore preferable to central spinal stenosis. The nerve-root canal is the semitubular structure through which the nerve root runs from the thecal sac to the intervertebral foramen. The proximal part of the canal, also called the subarticular or intervertebral portion, is limited anteriorly by the intervertebral disc and posterolaterally by the superior articular process and the facet joint. The distal part of the canal corresponds to the lateral recess, i.e., the lateral corner of the vertebral foramen at the level of the pedicle. Pathological narrowing of the nerve-root canal not associated with stenosis of the central spinal canal is called isolated nerve-root (or radicular) canal stenosis. The entrance and exit of the intervertebral foramen lie at the medial and lateral borders of the pedicle. Some authors (Wiltse 1984; Burton 1987) include the intervertebral foramen in the nerve-root canal, of which it is then the most distal portion. In my opinion there are valid anatomical reasons for distinguishing between the two and identifying stenosis of the intervertebral foramen as a separate condition.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "DIAGNOSIS OF LUMBAR SPINAL STENOSIS",
+      "url": "https://doi.org/10.1016/s0889-857x(21)00058-2",
+      "publisher": "Elsevier BV",
+      "year": "1994",
+      "doi": "10.1016/s0889-857x(21)00058-2",
+      "abstract": "Lumbar spinal stenosis is a clinical-anatomic syndrome. Radiographic evidence of cauda equina compression is necessary but not sufficient to establish the diagnosis. Patients must have a clinical syndrome consisting of back and lower extremity discomfort exacerbated by lumbar extension or relieved by flexion, or evidence of lower extremity neurologic deficits. Symptomatic lumbar spinal stenosis may arise from a variety of specific etiologies and frequently coexists with other pain syndromes.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.0,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Minimally invasive decompression versus open laminectomy for central stenosis of the lumbar spine: pragmatic comparative effectiveness study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381635/",
+      "publisher": "BMJ (Clinical research ed.)",
+      "year": "2015",
+      "doi": "10.1136/bmj.h1603",
+      "abstract": "Objective To test the equivalence for clinical effectiveness between microdecompression and laminectomy in patients with central lumbar spinal stenosis. Design Multicentre observational study. Setting Prospective data from the Norwegian Registry for Spine Surgery. Participants 885 patients with central stenosis of the lumbar spine who underwent surgery at 34 Norwegian orthopaedic or neurosurgical departments. Patients were treated from October 2006 to December 2011. Interventions Laminectomy and microdecompression. Main outcome measures The primary outcome was change in Oswestry disability index score one year after surgery. Secondary endpoints were quality of life (EuroQol EQ-5D), perioperative complications, and duration of surgical procedures and hospital stays. A blinded biostatistician performed predefined statistical analyses in unmatched and propensity matched cohorts. Results The study was powered to detect a difference between the groups of eight points on the Oswestry disability index at one year. 721 patients (81%) completed the one year follow-up. Equivalence between microdecompression and laminectomy was shown for the Oswestry disability index (difference 1.3 points, 95% confidence interval -1.36 to 3.92, P Conclusion At one year the effectiveness of microdecompression is equivalent to laminectomy in the surgical treatment of central stenosis of the lumbar spine. Favourable outcomes were observed at one year in both treatment groups.Trial registration ClinicalTrials.gov NCT02006901.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Preoperative Gabapentinoids Reduce Postoperative Pain in Lumbar Narrow Canal Surgery",
+      "url": "https://hal.science/hal-05092924v1",
+      "publisher": "HAL open archive",
+      "year": "2024",
+      "doi": "10.9734/bpi/acmms/v7/2909",
+      "abstract": "The success of pre-emption depends on the strategy pertaining to the choice of agent and when and how to use it. This study aimed to evaluate the efficacy of preemptive analgesia regarding postoperative pain management in lumbar spinal stenosis surgery. Postoperative pain arises through multiple physiological and pathological mechanisms, including nociceptive inputs resulting from incision and peripheral and central sensitization via nerve growth factor, cytokines, and \\(\\alpha\\)-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor. On the other hand, surgical insult and nerve damage caused by surgical removal are the basis of postoperative acute pain. Preventive analgesia provided neuroprotection in addition to reducing postoperative pain. The use of an analgesic drug before the onset of a painful stimulus is known as preemptive analgesia. It prevents the formation of altered afferent input processing, which worsens post-operative pain. The use of gabapentinoids (e.g. gabapentin/pregabalin) in acute pain has become more prevalent, particularly in enhanced recovery protocols. Initial studies indicated improved postoperative pain relief and reduced opioid use, but this was traded against an increased risk of sedation. Lumbar spinal stenosis (LSS) relates to the gradual narrowing of the spinal canal which causes discomfort in walking. In conclusion, the preoperative oral administration of gabapentin or pregabalin may reduce postoperative pain, delay the pain medication requirement, and decrease the overall usage of analgesics in patients undergoing lumbar canal stenosis surgery.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.56,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Determining Prior Authorization Approval for Lumbar Stenosis Surgery With Machine Learning",
+      "url": "https://hal.science/hal-04215423v1",
+      "publisher": "Global Spine Journal",
+      "year": "2023",
+      "doi": "10.1177/21925682231155844",
+      "abstract": "Study Design Medical vignettes. Objectives Lumbar spinal stenosis (LSS) is a degenerative condition with a high prevalence in the elderly population, that is associated with a significant economic burden and often requires spinal surgery. Prior authorization of surgical candidates is required before patients can be covered by a health plan and must be approved by medical directors (MDs), which is often subjective and clinician specific. In this study, we hypothesized that the prediction accuracy of machine learning (ML) methods regarding surgical candidates is comparable to that of a panel of MDs. Methods Based on patient demographic factors, previous therapeutic history, symptoms and physical examinations and imaging findings, we propose an ML which computes the probability of spinal surgical recommendations for LSS. The model implements a random forest model trained from medical vignette data reviewed by MDs. Sets of 400 and 100 medical vignettes reviewed by MDs were used for training and testing. Results The predictive accuracy of the machine learning model was with a root mean square error (RMSE) between model predictions and ground truth of .1123, while the average RMSE between individual MD’s recommendations and ground truth was .2661. For binary classification, the AUROC and Cohen’s kappa were .959 and .801, while the corresponding average metrics based on individual MD’s recommendations were .844 and .564, respectively. Conclusions Our results suggest that ML can be used to automate prior authorization approval of surgery for LSS with performance comparable to a panel of MDs.",
+      "licence": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Automatic Lumbar Spinal CT Image Segmentation With a Dual Densely Connected U-Net",
+      "url": "https://ieeexplore.ieee.org/document/9091133/",
+      "publisher": "IEEE Access",
+      "year": "2020",
+      "doi": "10.1109/ACCESS.2020.2993867",
+      "abstract": "The clinical treatment of degenerative and developmental lumbar spinal stenosis (LSS) is different. Computed tomography (CT) is helpful in distinguishing degenerative and developmental LSS due to its advantage in imaging osseous and calcified tissues. However, boundaries of the vertebral body, spinal canal and dural sac have low contrast and are hard to identify in a CT image, so the diagnosis depends heavily on the knowledge of expert surgeons and radiologists. In this paper, we develop an automatic lumbar spinal CT image segmentation method to assist LSS diagnosis. The main contributions of this paper are as follows: 1) a new lumbar spinal CT image dataset is constructed that contains 2393 axial CT images collected from 279 patients, with the ground truth of pixel-level segmentation labels; 2) a dual densely connected U-shaped neural network (DDU-Net) is used to segment the spinal canal, dural sac and vertebral body in an end-to-end manner; 3) DDU-Net is capable of segmenting tissues with large scale-variant, inconspicuous edges (e.g., spinal canal) and extremely small size (e.g., dural sac); and 4) DDU-Net is practical, requiring no image preprocessing such as contrast enhancement, registration and denoising, and the running time reaches 12 FPS. In the experiment, we achieved state-of-the-art performance on the lumbar spinal image segmentation task. We expect that the technique will increase both radiology workflow efficiency and the perceived value of radiology reports for referring clinicians and patients.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Predictability of the effects of facet joint infiltration in the degenerate lumbar spine when assessing MRI scans",
+      "url": "http://link.springer.com/article/10.1186/s13018-017-0685-x",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2017",
+      "doi": "10.1186/s13018-017-0685-x",
+      "abstract": "Abstract Background Imaging results are frequently considered as hallmarks of disease by spine surgeons to plan their future treatment strategy. Numerous classification systems have been proposed to quantify or grade lumbar magnetic resonance imaging (MRI) scans and thus objectify imaging findings. The clinical impact of the measured parameters remains, however, unclear. To evaluate the pathological significance of imaging findings in patients with multisegmental degenerative findings, clinicians can perform image-guided local infiltrations to target defined areas such as the facet joints. The aim of the present retrospective study was to evaluate the correlation of MRI facet joint degeneration and spinal stenosis measurements with improvement obtained by image-guided intraarticular facet joint infiltration. Methods Fifty MRI scans of patients with chronic lumbar back pain were graded radiologically using a wide range of classification and measurement systems. The reported effect of facet joint injections at the site was recorded, and a comparative analysis performed. Results When we allocated patients according to their reported pain relief, 27 showed no improvement (0–30%), 16 reported good improvement (31–75%) and 7 reported excellent improvement (> 75%). MRI features assessed in this study did, however, not show any relevant correlation with reported pain after facet joint infiltration: Values for Kendall’s tau ranged from τ = − 0.190 for neuroforaminal stenosis grading as suggested by Lee, to τ = 0.133 for posterior disc height as proposed by Hasegawa. Conclusion Despite the trend in evidence-based medicine to provide medical algorithms, our findings underline the continuing need for individualised spine care that, along with imaging techniques or targeted infiltrations, includes diagnostic dimensions such as good patient history and clinical examination to formulate a diagnosis. Trial registration ClinicalTrials.gov , NCT03308149 , retrospectively registered October 2017",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.28,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Learning Curve Associated with Complications in Biportal Endoscopic Spinal Surgery: Challenges and Strategies",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4995243/",
+      "publisher": "Asian spine journal",
+      "year": "2016",
+      "doi": "10.4184/asj.2016.10.4.624",
+      "abstract": "Study design Descriptions of technical strategies to overcome pitfalls associated with early learning periods in biportal endoscopic spinal surgery (BESS). Purpose To introduce BESS for lumbar spinal diseases (LSDs) and to inform certain challenges to be overcome in mastering the technique. Overview of literature BESS has shown superior benefits including excellent magnification, a wider range of view by dynamic handling of an endoscope and instruments. Clinical reports, however, have not yet been very revealing for its new introduction into minimally invasive spine surgery. Methods To evaluate the learning curve for BESS, the procedures for various LSDs by one surgeon were analyzed in the view of shortening of the operating times and reduction of complications. Reviewing of recorded procedures helped in finding the reasons and the implemented solutions. Results The 68 cases included 25 for lumbar disc herniation (LDH), 3 for revision for recurred LDH, 39 for lumbar spinal stenosis (LSS) and 1 for synovial cyst. The operation time for the total cases averaged 83.7±33.6 minutes. According to diagnosis, it was 68.2±23.7 minutes for LDH. After the 14th case of LDH, it was nearly constant and close to the average time. One level of LSS needed 110.4±34.4 minutes. Prolonged operation times even in some later cases of LSS were mainly from struggling against blurred vision due to epidural bleeding. There were 7 cases of complications (10.3%) including 2 cases of dural tear, 1 case of root injury, and 4 cases of incomplete decompression on postoperative magnetic resonance imaging. There was no case of symptomatic hematoma or wound infection. Conclusions BESS seemed to have a relatively short learning curve period. The overall complication rate in early learning period was 10.3%. These could be avoided by magnified regional views on an endoscope and a clear surgical field by controlling epidural bleeding.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Algorytm postępowania fizjoterapeutycznego u pacjentów po zabiegu laminektomii odcinka lędźwiowego kręgosłupa = Algorithm of the proceeding physiotherapy in patients after lumbar spine laminectomy",
+      "url": "https://zenodo.org/records/45358",
+      "publisher": "Zenodo",
+      "year": "2016",
+      "doi": "10.5281/zenodo.45358",
+      "abstract": "Cichosz Michał, Gąsiorows ka Agata, Ciecierski Jakub, Kobylańska Marzena, Ławniczak Zuzanna, Karczyński Wojciech, Kochański Bartosz, Zukow Walery. Algorytm postępowania fizjoterapeutycznego u pacjentów po zabiegu laminektomii odcinka lędźwiowego kręgosłupa = Algorithm of the proceeding physiotherapy in patients after lumbar spine laminectomy. Journal of Education, Health and Sport. 2016;6(1):281-294. eISSN 2391-8306. DOI http://dx.doi.org/10.5281/zenodo.45358 http://ojs.ukw.edu.pl/index.php/johs/article/view/3349 https://pbn.nauka.gov.pl/works/710549 The journal has had 7 points in Ministry of Science and Higher Education parametric evaluation. Part B item 755 (23.12.2015). 755 Journal of Education, Health and Sport eISSN 2391-8306 7 © The Author (s) 2016; This article is published with open access at Licensee Open Journal Systems of Kazimierz Wielki University in Bydgoszcz, Poland Open Access. This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted, non commercial use, distribution and reproduction in any medium, provided the work is properly cited. The authors declare that there is no conflict of interests regarding the publication of this paper. Received: 01.01.2016. Revised 12.01.2016. Accepted: 31.01.2016. Algorytm postępowania fizjoterapeutycznego u pacjentów po zabiegu laminektomii odcinka lędźwiowego kręgosłupa Algorithm of the proceeding physiotherapy in patients after lumbar spine laminectomy Michał Cichosz 1 , Agata Gąsiorows ka 2 , Jakub Ciecierski 3 , Marzena Kobylańska 4,5 , Zuzanna Ławniczak 5 , Wojciech Karczyński 1 , Bartosz Kochański 6 , Walery Zukow 7 1 Oddział Rehabilitacji Neurologicznej Popielówek; Fundacja Wsparcie Kowary; 2 Wydział Nauk o Zdrowiu Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu; 3 Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej; 4 Akademia Wychowania Fizycznego we Wrocławiu, Katedra Fizjoterapii i Terapii Zajęciowej w Dysfunkcjach Narządu Ruchu; 5 Wrocławskie Centrum Rehabilitacji i Medycyny Sportowej 6 Katedra i Klinika Rehabilitacji, Wydział Nauk o Zdrowiu, Uniwersytet Mikołaja Kopernika w Toruniu 7 Wydział Kultury Fizycznej, Zdrowia i Turystyki, Uniwersytet Kazimierza Wielkiego w Bydgoszczy; Streszczenie Jedną z częściej stosowanych metod leczenia neurochirurgicznego dolegliwości bólowych kręgosłupa lędźwiowego jest laminektomia. Najczęściej stosowana jest ona w celu złagodzenia dolegliwości bólowych kręgosłupa lędźwiowego spowodowanych stenozą. W większości znanych przypadków pacjenci po zabiegu laminektomii odzyskują sprawność powoli a dolegliwości bólowe mogą utrzymywać się nawet do 18 miesięcy po zabiegu. W niniejszej pracy autorzy przedstawiają proponowany przez siebie algorytm postępowania fizjoterapeutycznego u pacjentów po zabiegu laminektomii lędźwiowego odcinka kręgosłupa. Summary One of the most frequently used methods of neurosurgical treatment of pain is the lumbar spine is laminectomy. Is typically performed to alleviate pain from lumbar spinal stenosis. In most known cases of lumbar laminectomies, patients tend to recover slowly, with recurring pain or spinal stenosis persisting for up to 18 months after the procedure. In this study authors presents the proposed algorithm for physiotherapy in patients after lumbar spine laminectomy. Słowa kluczowe: laminektomia, fizjoterapia, algorytm. Keywords: laminectomy, physiotherapy, algorithm.",
+      "licence": "cc-by-nc-sa-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.24,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Uncertainties in the Diagnosis of Lumbar Spinal Stenosis",
+      "url": "https://doi.org/10.1148/radiol.11111086",
+      "publisher": "Radiological Society of North America (RSNA)",
+      "year": "2011",
+      "doi": "10.1148/radiol.11111086",
+      "abstract": "Despite years of extensive research in lumbar spinal stenosis, many uncertainties remain and might be solved only through collaboration of experts in different specialties.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.04,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "The course of the acute vertebral body fragility fracture: its effect on pain, disability and quality of life during 12 months",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2556463/",
+      "publisher": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
+      "year": "2008",
+      "doi": "10.1007/s00586-008-0753-3",
+      "abstract": "The vertebral body fracture is the most frequent bone fragility fracture. In spite of this there is considerable uncertainty about the frequency, extent and severity of the acute pain and even more about the duration of pain, the magnitude of disability and how much daily life is disturbed in the post-fracture period. The aim of the present study was to follow the course of pain, disability, ADL and QoL in patients during the year after an acute low energy vertebral body fracture. The study design was a longitudinal cohort study with prospective data collection. All the patients over 40 years admitted to the emergency unit because of back pain with a radiologically acute vertebral body fracture were eligible. A total of 107 patients were followed for a year. The pain, disability (von Korff pain and disability scores), ADL (Hannover ADL score), and QoL (EQ-5D) were measured after 3 weeks, 3, 6 and 12 months. Two-thirds of the patients were women, and were similar in average age, as the men around 75 years. A total of 65.4% of the fractures were due to a level fall or a minor trauma, whereas 34.6% had no recollection of trauma or a specific event as the cause of the fracture. A total of 76.6% of the fractured patients were immediately mobilized and allowed to return home while the remaining were hospitalized. The average pain intensity score after 3 weeks was 70.9 (SD 19.3), the disability score 68.9 (SD 23.6), the ADL score 37.7 (SD 22.1) and EQ-5D score of 0.37 (SD 0.37). The largest improvements, 10-15%, occurred between the initial visit and the 3 months follow-up and were quite similar for all the measures. From 3 months, all the outcome measures leveled out or tended to deteriorate resulting in a mean pain intensity score of 60.5, disability score of 53.9, ADL score of 47.6, and EQ-5D score 0.52 after 12 months. After a whole year the fractured patients' condition was similar to the preoperative condition of patients with a herniated lumbar disc, central lumbar spinal stenosis or in patients 100% work disabled due to back or neck problems. Instead of the generally believed good prognosis for the greater majority of those fractured, the acute vertebral body fracture was the beginning of a long-lasting severe deterioration of their health.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.0,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}

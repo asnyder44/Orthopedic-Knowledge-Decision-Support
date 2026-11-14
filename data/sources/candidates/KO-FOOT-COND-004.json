@@ -1,0 +1,1015 @@
+{
+  "term": "Achilles Tendinopathy",
+  "collected": "2026-11-14",
+  "count": 56,
+  "candidates": [
+    {
+      "provider": "zenodo",
+      "title": "Glucopuncture for Achilles Tendinopathy: A Descriptive Review",
+      "url": "https://zenodo.org/records/7756509",
+      "publisher": "World Journal of Advanced Research and Reviews",
+      "year": "2022",
+      "doi": "10.5281/zenodo.7756509",
+      "abstract": "As sports related injuries such as Achilles tendinopathy are prevalent, it is important to investigate new treatment modalities which are safe, easy to apply and effective. Over the last decade, glucose 5% injections have received more attention among clinicians. Unfortunately, no large randomized clinical trials have confirmed their effectiveness so far. This article invites the medical community for further basic-science and clinical studies to clarify the potential benefits of local glucose 5% injections for Achilles tendinopathy. The goal of introducing the term Glucopuncture is to raise awareness among physicians of the interesting risk-benefits ratio of regional glucose 5% injections and to point out the difference with Prolotherapy.",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "The Outcomes of Conservative Nonpharmacological Treatments for Achilles Tendinopathy: An Umbrella Review",
+      "url": "https://zenodo.org/records/8089416",
+      "publisher": "MDPI",
+      "year": "2022",
+      "doi": "10.3390/app122312132",
+      "abstract": "Achilles tendinopathy (AT) is the most common injury of the Achilles tendon and represents 55–65% of all Achilles tendon clinical diagnoses. AT is characterized by pain, swelling, and impaired performance. ATs can be divided into two types, according to anatomical location—midportion AT (MAT) and insertional AT (IAT). MAT more often occurs in older, less active, and overweight populations, while IAT usually occurs in the more physically active population. Both types of AT can be treated by different treatments, such as surgery, conservative pharmacological treatments, and conservative nonpharmacological treatments. This umbrella review aims to assemble the evidence from all available systematic reviews and/or meta-analyses to determine which conservative nonpharmacological treatments are most commonly used and have the greatest effects. Three major electronic scientific databases (PubMed, Scopus, and Web of Science) were screened. The reference lists of several recent articles on AT were also searched. We found 50 articles that met the inclusion criteria. The methodological quality of the included articles was assessed using the AMSTAR 2 tool. Eccentric (ECC) exercise, isotonic (ISOT) exercise, and acupuncture treatment showed the greatest effects for treating MAT as a standalone therapy. Meanwhile, extracorporeal shockwave therapy and ECC exercise provided the best outcomes for treating IAT as individual treatments. However, an even greater pain decrease, greater function improvement, and greater patient satisfaction for treating either MAT or IAT were achieved with combined protocols of ECC exercise with extracorporeal shockwave therapy (in both cases), ECC exercise with cold air and high-energy laser therapy (in the case of IAT), or ECC exercise with ASTYM therapy (in the case of IAT).",
+      "licence": "cc-by-4.0",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.48,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Effectiveness of Platelet-Rich Plasma Injection for Chronic Achilles Tendinopathy: An Umbrella Systematic Review",
+      "url": "https://www.semanticscholar.org/paper/15262196b2d59dfbc0eea8e069332c2c78f44712",
+      "publisher": "Cureus",
+      "year": "2025",
+      "doi": "10.7759/cureus.92652",
+      "abstract": "Chronic Achilles tendinopathy (CAT) represents a prevalent overuse injury affecting athletes and active individuals, with conventional treatments showing variable success rates. Platelet-rich plasma (PRP) injection has emerged as a promising biologic therapy, theoretically promoting tendon regeneration through growth factor release. However, clinical evidence regarding PRP effectiveness remains controversial. This umbrella systematic review synthesized findings from systematic reviews and meta-analyses examining PRP injection effectiveness for CAT management. A comprehensive literature search was conducted across five major databases (PubMed, Embase, Scopus, Web of Science, and Cochrane Library) from inception until June 2025. Eight systematic reviews and meta-analyses published between 2018 and 2025 were included, encompassing 170-697 participants across primary studies. Methodological quality was assessed using AMSTAR 2 (A MeaSurement Tool to Assess systematic Reviews) criteria. The predominant finding across reviews was the absence of statistically significant differences between PRP and control interventions for primary outcomes, including pain reduction (visual analog scale) and functional improvement (Victorian Institute of Sport Assessment-Achilles scores). While some reviews reported modest short-term improvements in pain scores at three to 12 weeks, these benefits were neither clinically meaningful nor sustained at longer follow-up periods. Tendon structural outcomes assessed via ultrasonography yielded inconsistent results, with substantial heterogeneity attributed to variability in PRP preparation methods, injection protocols, and outcome measurements. Safety profiles were generally favorable with minimal adverse events. The collective evidence fails to demonstrate PRP superiority over placebo or standard conservative treatments. Current evidence does not support routine PRP use as a first-line treatment for CAT, with established conservative interventions remaining the preferred therapeutic approach.",
+      "licence": "CCBY",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.112,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Endoscopic versus open surgery for insertional achilles tendinopathy: A systematic review and meta‐analysis of comparative outcomes",
+      "url": "https://www.semanticscholar.org/paper/241993ee30ddeb0f1d4a1f148ff6327365517606",
+      "publisher": "Journal of Experimental Orthopaedics",
+      "year": "2025",
+      "doi": "10.1002/jeo2.70374",
+      "abstract": "Insertional Achilles tendinopathy (IAT) causes chronic hindfoot pain and functional impairment. Although conservative treatment remains the first‐line management approach, surgery is often necessary when nonoperative measures fail. Both open and endoscopic techniques are commonly used, but their comparative efficacy remains debated. Accordingly, this meta‐analysis compared surgical outcomes, complications and recovery between open and endoscopic techniques; it also conducted a subgroup analysis to assess return to sports in highly active individuals.",
+      "licence": "CCBY",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 4.108,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Comparison between moderate-load and high-load exercises in the rehabilitation of runners with Achilles tendinopathy: Protocol for a blind randomized controlled trial",
+      "url": "https://doi.org/10.1371/journal.pone.0342934",
+      "publisher": "PLOS One",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0342934",
+      "abstract": "Background: Achilles tendinopathy is one of the most frequent conditions affecting runners. Exercise-based interventions are the main treatment options for Achilles tendinopathy; however, the ideal exercise dosage remains unknown. Objective: The objective of this study is to investigate the effects of a moderate-load exercise intervention compared to a high-load exercise intervention in runners with Achilles tendinopathy in terms of pain, symptom severity, quality of life, muscle strength, and function. Methods: Sixty amateur runners will be randomly allocated to one of two groups: high-load exercise group (HLG) and moderate-load exercise group (MLG). The HLG will start the treatment with calf exercises with 55% of 1 repetition maximum (1RM) and progressively increase the exercise load in 12 weeks to 90% 1RM. The MLG will perform exercises with 55% 1RM during the 12 weeks of intervention. The RM load will be reassessed every 2 weeks, and the total training volume (total repetitions and tendon time under tension per week) will be the same in both groups. Both groups will also perform strengthening exercises for the quadriceps and gluteal muscles. The primary outcome will be symptom severity (Victorian Institute of Sport Assessment−Achilles), which will be evaluated at baseline, at week 6, at week 12 (end of intervention), and 6 months after the intervention. Pain will be evaluated using the visual analogue scale during the same time points. Secondary outcomes will include peak isometric strength of ankle, knee, and hip muscles, function of plantar flexor muscles, quality of life, and perception of improvement. Results will be analyzed under the intention-to-treat principle using generalized estimating equations (GEE) and Bonferroni-adjusted post hoc tests. Discussion: This will be the first randomized controlled trial comparing high-load exercises versus moderate-load exercises in individuals with Achilles tendinopathy applying equal training volume. Trial registration number: RBR-4vwy5xj",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.04,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Effectiveness of Dry Needling Versus Percutaneous Electrolysis in Achilles Tendinopathy: A Randomized Clinical Trial",
+      "url": "https://zenodo.org/records/18887227",
+      "publisher": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.104384",
+      "abstract": "Introduction: Achilles tendinopathy (AT) is characterized by pain, inflammation, and functional limitations. It is also the most common cause of pain located at the back of the calcaneus. The Achilles tendon is among the most vulnerable tendons in the lower limb, and its pathology is one of the most common overuse injuries. Moreover, it is not an injury exclusive to athletes, as 65% of diagnosed Achilles tendinopathies are not related to sport. Methods: Randomized, single-blind clinical trial with 60 patients, 30 in each group. All study participants were previously diagnosed with insertional AT, mid-portion tendinopathy, or both and were referred by an orthopedic surgeon. The short- and medium-term results of treatment with dry needling (DN) application to the gastrocnemius muscle trigger points (MTrPs) versus ultrasound-guided percutaneous electrolysis (PE) application to the Achilles tendon were observed in terms of pain intensity, pressure pain threshold, ankle dorsiflexion range of motion under load, quality of life, and ankle and foot function in patients with previously diagnosed AT. Results: The visual analogue scale revealed that the time effect was statistically significant. Similarly, AT algometry revealed that the time effect was statistically significant, indicating that the pressure pain threshold assessed by algometry changed significantly over the course of the study. Moreover, quality of life and functionality showed statistically significant improvements from the third week of the study, whereas range of motion remained unchanged. Conclusion: Ultrasound-guided PE applied to the Achilles tendon is more effective than DN applied to the MTrPs of the gastrocnemius muscle in reducing pain intensity and improving quality of life and ankle and foot function in the short and medium term in patients with AT.",
+      "licence": "cc-by-4.0",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 4.04,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Which treatment is most effective for patients with Achilles tendinopathy? A living systematic review with network meta-analysis of 29 randomised controlled trials",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7907558/",
+      "publisher": "British journal of sports medicine",
+      "year": "2021",
+      "doi": "10.1136/bjsports-2019-101872",
+      "abstract": "Objective To provide a consistently updated overview of the comparative effectiveness of treatments for Achilles tendinopathy. Design Living systematic review and network meta-analysis. Data sources Multiple databases including grey literature sources were searched up to February 2019. Study eligibility criteria Randomised controlled trials examining the effectiveness of any treatment in patients with both insertional and/or midportion Achilles tendinopathy. We excluded trials with 10 or fewer participants per treatment arm or trials investigating tendon ruptures. Data extraction and synthesis Reviewers independently extracted data and assessed the risk of bias. We used the Grading of Recommendations Assessment, Development and Evaluation to appraise the certainty of evidence. Primary outcome measure The validated patient-reported Victorian Institute of Sport Assessment-Achilles questionnaire. Results 29 trials investigating 42 different treatments were included. 22 trials (76%) were at high risk of bias and 7 (24%) had some concerns. Most trials included patients with midportion tendinopathy (86%). Any treatment class seemed superior to wait-and-see for midportion Achilles tendinopathy at 3 months (very low to low certainty of evidence). At 12 months, exercise therapy, exercise+injection therapy and exercise+night splint therapy were all comparable with injection therapy for midportion tendinopathy (very low to low certainty). No network meta-analysis could be performed for insertional Achilles tendinopathy. Summary/conclusion In our living network meta-analysis no trials were at low risk of bias and there was large uncertainty in the comparative estimates. For midportion Achilles tendinopathy, wait-and-see is not recommended as all active treatments seemed superior at 3-month follow-up. There seems to be no clinically relevant difference in effectiveness between different active treatments at either 3-month or 12-month follow-up. As exercise therapy is easy to prescribe, can be of low cost and has few harms, clinicians could consider starting treatment with a calf-muscle exercise programme. Prospero registration number CRD42018086467.",
+      "licence": "cc by-nc",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.94,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Topical diclofenac vs placebo for the treatment of chronic Achilles tendinopathy: A randomized controlled clinical trial",
+      "url": "https://doi.org/10.1371/journal.pone.0247663",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0247663",
+      "abstract": "Introduction: The application of topical diclofenac has been suggested as a possible treatment for Achilles tendinopathy. Our aim was to answer the question, is topical diclofenac more effective than placebo for the treatment of Achilles tendinopathy?. Methods: 67 participants with persistent midportion or insertional Achilles tendinopathy were randomly assigned to receive a 4 week course of 10% topical diclofenac (n = 32) or placebo (n = 35). The a priori primary outcome measure was change in severity of Achilles tendinopathy (VISA-A score) at 4 and 12 weeks. Secondary outcome measures included numeric pain rating, and patient-reported change in symptoms using a 7 point scale, from substantially worse to substantially better. Pressure pain threshold (N) and transverse tendon stiffness (N/m) were measured over the site of maximum Achilles tendon pathology at baseline and 4 weeks. Results: There were no statistically or clinically significant differences between the diclofenac and placebo groups in any of the primary or secondary outcome measures at any timepoint. Average VISA-A score improved in both groups (p<0.0001), but the improvements were marginal: at 4 weeks, the improvements in VISA-A were 9 (SD 11) in the diclofenac group and 8 (SD 12) in the placebo group, and at 12 weeks the improvements were 9 (SD 16) and 11 (SD13) respectively–these average changes are smaller than the minimum clinically important difference of the VISA-A. Conclusion: The regular application of topical diclofenac for Achilles tendinopathy over a 4 week period was not associated with superior clinical outcomes to that achieved with placebo.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.84,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Intramuscular stimulation vs sham needling for the treatment of chronic midportion Achilles tendinopathy: A randomized controlled clinical trial",
+      "url": "https://doi.org/10.1371/journal.pone.0238579",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0238579",
+      "abstract": "Background: The insertion of filiform needles intramuscularly (a.k.a. intramuscular stimulation/dry needling) has been suggested as a possible treatment for various painful musculoskeletal conditions. Our aim was to answer the question, is intramuscular stimulation more effective than sham intramuscular stimulation/dry needling for the treatment of Achilles tendinopathy? Methods: 52 participants with persistent midportion Achilles tendinopathy began and 46 completed one of three treatment protocols which were randomly assigned: (G3) a 12-week rehabilitation program of progressive tendon loading plus intramuscular stimulation (n = 25), (G2) the same rehabilitation program but with sham intramuscular stimulation (n = 19), or (G1) a reference group of rehabilitation program alone (as an additional control) (n = 8). The a priori primary outcome measure was change in VISA-A score at 12 weeks–VISA-A was also measured at 6 weeks, and at 6 and 12 months. Secondary outcome measures include the proportion of patients who rated themselves as much or very much improved (%), dorsiflexion range of motion (degrees), and tendon thickness (mm). Results: The study retention was 94% at 12 weeks and 88% at 1 year. VISA-A score improved in all three groups over time (p<0.0001), with no significant difference among the three groups in VISA-A score at the start of the study (mean ± SD: G3 59 ± 13, G2 57 ± 17, G1 56 ± 22), at 12 weeks (G3 76 ± 14, G2 76 ± 15, G1 82 ± 11) or at any other timepoint. The percentage of patients who rated themselves as much or very much improved (i.e. treatment success) was not different after 12 weeks (G3 70%, G2 89%, G1 86% p = 0.94), or at 26 (p = 0.62) or 52 weeks (p = 0.71). No clinically significant effects of intervention group were observed in any of the secondary outcome measures. Conclusion: The addition of intramuscular stimulation to standard rehabilitation for Achilles tendinopathy did not result in any improvement over the expected clinical benefit achieved with exercise-based rehabilitation alone.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.8,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "What are the main running-related musculoskeletal injuries? A Systematic Review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4269925/",
+      "publisher": "Sports medicine (Auckland, N.Z.)",
+      "year": "2012",
+      "doi": "10.1007/bf03262301",
+      "abstract": "Background Musculoskeletal injuries occur frequently in runners and despite many studies about running injuries conducted over the past decades it is not clear in the literature what are the main running-related musculoskeletal injuries (RRMIs). Objective The aim of this study is to systematically review studies on the incidence and prevalence of the main specific RRMIs. Methods An electronic database search was conducted using EMBASE (1947 to October 2011), MEDLINE (1966 to October 2011), SPORTDiscus(1975 to October 2011), the Latin American and Caribbean Center on Health Sciences Information (LILACS) [1982 to October 2011] and the Scientific Electronic Library Online (SciELO) [1998 to October 2011] with no limits of date or language of publication. Articles that described the incidence or prevalence rates of RRMIs were considered eligible. Studies that reported only the type of injury, anatomical region or incomplete data that precluded interpretation of the incidence or prevalence rates of RRMIs were excluded. We extracted data regarding bibliometric characteristics, study design, description of the population of runners, RRMI definition, how the data of RRMIs were collected and the name of each RRMI with their rates of incidence or prevalence. Separate analysis for ultra-marathoners was performed. Among 2924 potentially eligible titles, eight studies (pooled n = 3500 runners) were considered eligible for the review. In general, the articles had moderate risk of bias and only one fulfilled less than half of the quality criteria established. Results A total of 28 RRMIs were found and the main general RRMIs were medial tibial stress syndrome (incidence ranging from 13.6% to 20.0%; prevalence of 9.5%), Achilles tendinopathy (incidence ranging from 9.1% to 10.9%; prevalence ranging from 6.2% to 9.5%) and plantar fasciitis (incidence ranging from 4.5% to 10.0%; prevalence ranging from 5.2% to 17.5%). The main ultra-marathon RRMIs were Achilles tendinopathy (prevalence ranging from 2.0% to 18.5%) and patellofemoral syndrome (prevalence ranging from 7.4% to 15.6%). Conclusion This systematic review provides evidence that medial tibia stress syndrome, Achilles tendinopathy and plantar fasciitis were the main general RRMIs, while Achilles tendinopathy and patellofemoral syndrome were the most common RRMIs for runners who participated in ultra-marathon races.",
+      "licence": "cc by",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.58,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Assessment of content validity and psychometric properties of VISA-A for Achilles tendinopathy",
+      "url": "https://doi.org/10.1371/journal.pone.0247152",
+      "publisher": "PLOS ONE",
+      "year": "2021",
+      "doi": "10.1371/journal.pone.0247152",
+      "abstract": "A recent COSMIN review found that the Victorian Institute of Sports Assessment–Achilles tendinopathy questionnaire (VISA-A) has flawed construct validity. The objective of the current study was to assess specifically the process of how VISA-A was constructed and validated, and whether the Danish version of VISA-A is a valid patient-reported outcome measure (PROM) for measuring the perceived impact of Achilles tendinopathy. The original item generation strategy for content validity and the process for confirming the scaling properties (construct validity) were examined. In addition, construct validity was evaluated directly using several psychometric methods (Rasch analysis, confirmatory factor analysis (CFA), and multivariable linear regression) in a cohort of 318 persons with Achilles tendinopathy with symptom duration groups ranging from less than 3 months to more than 1 year of chronicity, and a group of 120 healthy persons. We found that the item generation and item reduction in the original construction of VISA-A was based on literature review and clinician consensus with little or no patient involvement. We determined that 1) VISA-A consists of ambiguous conceptual item themes and thus lacks content validity, 2) there was no thorough investigation of the psychometric properties of the original version of VISA-A, which thus lacks construct validity, and 3) rigorous direct assessment of the psychometric properties of the Danish VISA-A revealed inadequate psychometric properties. In agreement with the COSMIN study, we conclude that when used as a single score, VISA-A is not an adequate scale for measuring self-reported impact of Achilles tendinopathy.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Can Achilles tendon xanthoma be distinguished from Achilles tendinopathy using Dixon method MRI? A cross-sectional exploratory study",
+      "url": "https://zenodo.org/records/5898604",
+      "publisher": "Zenodo",
+      "year": "2021",
+      "doi": "10.1186/s12891-021-04494-0",
+      "abstract": "Familial hypercholesterolemia is a genetic condition characterized by life-long elevations of plasma low-density lipoprotein cholesterol. In addition to life-threatening cardiovascular complications, intratendinous cholesterol deposits (xanthomas) can lead to pain and tendon thickening, particularly in the Achilles. Clinical detection of xanthomas currently relies upon visual assessment and palpation, or ultrasound-based measures of tendon thickening or echotexture. Misdiagnosis of xanthoma can delay the commencement of potentially life-saving lipid-lowering therapy. Our primary purpose was to determine whether analysis of separated fat and water magnetic resonance images may be able to differentiate between xanthomatic and nonxanthomatic Achilles tendons through quantifcation of intratendinous fat content. The main hypothesis was that Achilles tendon xanthomas will demonstrate greater lipid content than Achilles tendinopathy or healthy control tendons. Methods: Bilateral MRI scans of Achilles tendons from 30 participants (n=10 Achilles tendon xanthoma, n=10 Achilles overuse tendinopathy, n=10 healthy controls) were analyzed for total lipid content using the Dixon method of fat and water signal separation. Secondary outcome measures included tendon water content, as well as ultrasound characterization of tendon tissue organization and thickness. Results: Fat content was greater in Achilles tendon xanthomas compared to the tendinopathy (p<0.0001) and control groups (p<0.0001). Water content was also greater in Achilles tendon xanthomas compared to the tendinopathy (p<0.0001) and control groups (p=0.0002). Ultrasound tissue characterization revealed worse tissue organization in Achilles tendon xanthoma tendons compared to Achilles tendinopathy (p<0.05) but demonstrated largely overlapping distributions. Achilles tendon xanthoma tendons were, on average, significantly thicker than the tendons of the other two groups (p<0.01 and p<0.001, respectively). Conclusion: MRI-derived measures of Achilles tendon fat content may be able to distinguish xanthomas from control and tendinopathic tissue. Dixon method MRI warrants further evaluation in an adequately powered study to develop and test clinically relevant diagnostic thresholds.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.44,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "“It's disappointing and it's pretty frustrating, because it feels like it's something that will never go away.” A qualitative study exploring individuals’ beliefs and experiences of Achilles tendinopathy",
+      "url": "https://doi.org/10.1371/journal.pone.0233459",
+      "publisher": "PLOS ONE",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0233459",
+      "abstract": "Background: Achilles tendinopathy (AT) is a common and often persistent musculoskeletal disorder affecting both athletic and non-athletic populations. Despite the relatively high incidence there is little insight into the impact and perceptions of tendinopathy from the individual’s perspective. Increased awareness of the impact and perceptions around individuals’ experiences with Achilles tendinopathy may provide crucial insights for the management of what is often a complex, persistent, and disabling MSK disorder. Purpose: To qualitatively explore the lived experiences of individuals with AT. Design: A qualitative, interpretive description design was performed using semi-structured telephone interviews. Methods: Semi-structured interviews were conducted on 15 participants (8 male and 7 female) with AT. Thematic analysis was performed using the guidelines laid out by Braun and Clarke. The study has been reported in accordance with the consolidated criteria for reporting qualitative research (COREQ) checklist. Results: Four main themes were identified from the data: 1) beliefs and perceptions surrounding AT: “If I'm over training or something, I don't really know”, 2) the biopsychosocial impact of AT: “I think it restricts me in a lot of things that I would be able to do”, 3) individuals’ experiences with the management process: “You want it to happen now. You're doing all this stuff and it's just very slow progress”, and 4) future prognosis and outlook in individuals with AT: “I see myself better”. Conclusions: This study offers a unique insight into the profound impact and consequences of Achilles tendinopathy in a mixed sample of both athletic and non-athletic individuals. The findings of this study have important clinical implications. Specifically, it highlights the need for clinicians to recognize and adopt treatment approaches to embrace a more biopsychosocial approach for the management of tendinopathy.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.4,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Transverse tendon stiffness is reduced in people with Achilles tendinopathy: A cross-sectional study",
+      "url": "https://doi.org/10.1371/journal.pone.0211863",
+      "publisher": "PLOS ONE",
+      "year": "2019",
+      "doi": "10.1371/journal.pone.0211863",
+      "abstract": "Objectives: The objective of the current cross-sectional study was to examine Achilles tendon transverse stiffness in a group of recreational runners with Achilles tendinopathy, in comparison to an asymptomatic group of runners with similar training history. We also aimed to determine the between-week intra-individual reliability of this measurement technique. Design: Cross-sectional cohort study. Methods: A hand-held dynamometer was used to assess the transverse stiffness of the Achilles tendon (AT) in twenty-five recreational runners. In ten people with midportion Achilles tendinopathy (5 men, 5 women), measurements were taken directly over the most symptomatic location. In 15 people who were free of AT symptoms (7 men, 8 women), measurements were taken at an equivalent location on the tendon. Participants returned after one week to determine measurement reliability (intra-class correlation coefficient/ICC and minimum detectable change/MDC95). We also collected information about people’s tendon loading activities, tendon thickness (ultrasound mesaurement), and symptoms (Victorian Institute of Sports Assessment–Achilles / VISA-A score). Results: The AT transverse stiffness was lower in people with Achilles tendinopathy (777 N/m ± 86) compared to those who were asymptomatic (873 N/m ± 72) (p < 0.05). AT transverse stiffness was negatively correlated with age and tendon thickness, and positively correlated with VISA-A score and waist circumference. Reliability was good, with ICC of 0.81 in people with tendinopathy and 0.80 in healthy controls, and an MDC95 of 118 and 87N/m in these two respective groups. Conclusions: Transverse Achilles tendon stiffness can be reliably measured in people with midportion Achilles tendinopathy, and appears to be lower in people who are older, more symptomatic, and with more extensive tendon thickening. The potential clinical utility of monitoring tendon stiffness in the management of tendon injuries merits further study.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.36,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Chronic inflammation is a feature of Achilles tendinopathy and rupture",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5867427/",
+      "publisher": "British journal of sports medicine",
+      "year": "2018",
+      "doi": "10.1136/bjsports-2017-098161",
+      "abstract": "Background Recent investigation of human tissue and cells from positional tendons such as the rotator cuff has clarified the importance of inflammation in the development and progression of tendon disease. These mechanisms remain poorly understood in disease of energy-storing tendons such as the Achilles. Using tissue biopsies from patients, we investigated if inflammation is a feature of Achilles tendinopathy and rupture. Methods We studied Achilles tendon biopsies from symptomatic patients with either mid-portion tendinopathy or rupture for evidence of abnormal inflammatory signatures. Tendon-derived stromal cells from healthy hamstring and diseased Achilles were cultured to determine the effects of cytokine treatment on expression of inflammatory markers. Results Tendinopathic and ruptured Achilles highly expressed CD14+ and CD68+ cells and showed a complex inflammation signature, involving NF-κB, interferon and STAT-6 activation pathways. Interferon markers IRF1 and IRF5 were highly expressed in tendinopathic samples. Achilles ruptures showed increased PTGS2 and interleukin-8 expression. Tendinopathic and ruptured Achilles tissues expressed stromal fibroblast activation markers podoplanin and CD106. Tendon cells isolated from diseased Achilles showed increased expression of pro-inflammatory and stromal fibroblast activation markers after cytokine stimulation compared with healthy hamstring tendon cells. Conclusions Tissue and cells derived from tendinopathic and ruptured Achilles tendons show evidence of chronic (non-resolving) inflammation. The energy-storing Achilles shares common cellular and molecular inflammatory mechanisms with functionally distinct rotator cuff positional tendons. Differences seen in the profile of ruptured Achilles are likely to be attributable to a superimposed phase of acute inflammation and neo-vascularisation. Strategies that target chronic inflammation are of potential therapeutic benefit for patients with Achilles tendon disease.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Ultrasound elastography: compression elastography and shear-wave elastography in the assessment of tendon injury",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6206379/",
+      "publisher": "Insights into imaging",
+      "year": "2018",
+      "doi": "10.1007/s13244-018-0642-1",
+      "abstract": "Ultrasound elastography (USE) is a recent technology that has experienced major developments in the past two decades. The assessment of the main mechanical properties of tissues can be made with this technology by characterisation of their response to stress. This article reviews the two major techniques used in musculoskeletal elastography, compression elastography (CE) and shear-wave elastography (SWE), and evaluates the studies published on major electronic databases that use both techniques in the context of tendon pathology. CE accounts for more studies than SWE. The mechanical properties of tendons, particularly their stiffness, may be altered in the presence of tendon injury. CE and SWE have already been used for the assessment of Achilles tendons, patellar tendon, quadriceps tendon, epicondylar tendons and rotator cuff tendons and muscles. Achilles tendinopathy is the most studied tendon injury with USE, including the postoperative period after surgical repair of Achilles rupture tendon. In relation to conventional ultrasound (US), USE potentially increases the sensitivity and diagnostic accuracy in tendinopathy, and can detect pathological changes before they are visible in conventional US imaging. Several technical limitations are recognised, and standardisation is necessary to ensure repeatability and comparability of the results when using these techniques. Still, USE is a promising technique under development and may be used not only to promote an early diagnosis, but also to identify the risk of injury and to support the evaluation of rehabilitation interventions. KEY POINTS: • USE is used for the assessment of the mechanical properties of tissues, including the tendons. • USE increases diagnostic performance when coupled to conventional US imaging modalities. • USE will be useful in early diagnosis, tracking outcomes and monitoring treatments of tendon injury. • Technical issues and lack of standardisation limits USE use in the assessment of tendon injury.",
+      "licence": "cc by",
+      "kind": "review",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Defining the molecular signatures of Achilles tendinopathy and anterior cruciate ligament ruptures: A whole-exome sequencing approach",
+      "url": "https://doi.org/10.1371/journal.pone.0205860",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0205860",
+      "abstract": "Musculoskeletal soft tissue injuries are complex phenotypes with genetics being one of many proposed risk factors. Case-control association studies using the candidate gene approach have predominately been used to identify risk loci for these injuries. However, the ability to identify all risk conferring variants using this approach alone is unlikely. Therefore, this study aimed to further define the genetic profile of these injuries using an integrated omics approach involving whole exome sequencing and a customised analyses pipeline. The exomes of ten exemplar asymptomatic controls and ten exemplar cases with Achilles tendinopathy were individually sequenced using a platform that included the coverage of the untranslated regions and miRBase miRNA genes. Approximately 200 000 variants were identified in the sequenced samples. Previous research was used to guide a targeted analysis of the genes encoding the tenascin-C (TNC) glycoprotein and the α1 chain of type XXVII collagen (COL27A1) located on chromosome 9. Selection of variants within these genes were; however, not predetermined but based on a tiered filtering strategy. Four variants in TNC (rs1061494, rs1138545, rs2104772 and rs1061495) and three variants in the upstream COL27A1 gene (rs2567706, rs2241671 and rs2567705) were genotyped in larger Achilles tendinopathy and anterior cruciate ligament (ACL) rupture sample groups. The CC genotype of TNC rs1061494 (C/T) was associated with the risk of Achilles tendinopathy (p = 0.018, OR: 2.5 95% CI: 1.2–5.1). Furthermore, the AA genotype of the TNC rs2104772 (A/T) variant was significantly associated with ACL ruptures in the female subgroup (p = 0.035, OR: 2.3 95% CI: 1.1–5.5). An inferred haplotype in the TNC gene was also associated with the risk of Achilles tendinopathy. These results provide a proof of concept for the use of a customised pipeline for the exploration of a larger genomic dataset. This approach, using previous research to guide a targeted analysis of the data has generated new genetic signatures in the biology of musculoskeletal soft tissue injuries.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Novel animal model for Achilles tendinopathy: Controlled experimental study of serial injections of collagenase in rabbits",
+      "url": "https://doi.org/10.1371/journal.pone.0192769",
+      "publisher": "PLOS ONE",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0192769",
+      "abstract": "Our goal was to develop a novel technique for inducing Achilles tendinopathy in animal models which more accurately represents the progressive histological and biomechanical characteristic of chronic Achilles tendinopathy in humans. In this animal research study, forty-five rabbits were randomly assigned to three groups and given bilateral Achilles injections. Low dose (LD group) (n = 18) underwent a novel technique with three low-dose (0.1mg) injections of collagenase that were separated by two weeks, the high dose group (HD) (n = 18) underwent traditional single high-dose (0.3mg) injections, and the third group were controls (n = 9). Six rabbits were sacrificed from each experimental group (LD and HD) at 10, 12 and 16 weeks. Control animals were sacrificed after 16 weeks. Histological and biomechanical properties were then compared in all three groups. At 10 weeks, Bonar score and tendon cross sectional area was highest in HD group, with impaired biomechanical properties compared to LD group. At 12 weeks, Bonar score was higher in LD group, with similar biomechanical findings when compared to HD group. After 16 weeks, Bonar score was significantly increased for both LD group (11,8±2,28) and HD group (5,6±2,51), when compared to controls (2±0,76). LD group showed more pronounced histological and biomechanical findings, including cross sectional area of the tendon, Young’s modulus, yield stress and ultimate tensile strength. In conclusion, Achilles tendinopathy in animal models that were induced by serial injections of low-dose collagenase showed more pronounced histological and biomechanical findings after 16 weeks than traditional techniques, mimicking better the progressive and chronic characteristic of the tendinopathy in humans.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.32,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Achilles Tendinopathy: Current Concepts about the Basic Science and Clinical Treatments",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5112330/",
+      "publisher": "BioMed research international",
+      "year": "2016",
+      "doi": "10.1155/2016/6492597",
+      "abstract": "Achilles tendinopathy is one of the most frequently ankle and foot overuse injuries, which is a clinical syndrome characterized by the combination of pain, swelling, and impaired performance. The two main categories of Achilles tendinopathy are classified according to anatomical location and broadly include insertional and noninsertional tendinopathy. The etiology of Achilles tendinopathy is multifactorial including both intrinsic and extrinsic factors. Failed healing response and degenerative changes were found in the tendon. The failed healing response includes three different and continuous stages (reactive tendinopathy, tendon disrepair, and degenerative tendinopathy). The histological studies have demonstrated an increased number of tenocytes and concentration of glycosaminoglycans in the ground substance, disorganization and fragmentation of the collagen, and neovascularization. There are variable conservative and surgical treatment options for Achilles tendinopathy. However, there has not been a gold standard of these treatments because of the controversial clinical results between various studies. In the future, new level I researches will be needed to prove the effect of these treatment options.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Inflammatory and Metabolic Alterations of Kager's Fat Pad in Chronic Achilles Tendinopathy",
+      "url": "https://doi.org/10.1371/journal.pone.0127811",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0127811",
+      "abstract": "Background: Achilles tendinopathy is a painful inflammatory condition characterized by swelling, stiffness and reduced function of the Achilles tendon. Kager’s fat pad is an adipose tissue located in the area anterior to the Achilles tendon. Observations reveal a close physical interplay between Kager’s fat pad and its surrounding structures during movement of the ankle, suggesting that Kager’s fat pad may stabilize and protect the mechanical function of the ankle joint. Aim: The aim of this study was to characterize whether Achilles tendinopathy was accompanied by changes in expression of inflammatory markers and metabolic enzymes in Kager’s fat pad. Methods: A biopsy was taken from Kager’s fat pad from 31 patients with chronic Achilles tendinopathy and from 13 healthy individuals. Gene expression was measured by reverse transcription-quantitative PCR. Focus was on genes related to inflammation and lipid metabolism. Results: Expression of the majority of analyzed inflammatory marker genes was increased in patients with Achilles tendinopathy compared to that in healthy controls. Expression patterns of the patient group were consistent with reduced lipolysis and increased fatty acid β-oxidation. In the fat pad, the pain-signaling neuropeptide substance P was found to be present in one third of the subjects in the Achilles tendinopathy group but in none of the healthy controls. Conclusion: Gene expression changes in Achilles tendinopathy patient samples were consistent with Kager’s fat pad being more inflamed than in the healthy control group. Additionally, the results indicate an altered lipid metabolism in Kager’s fat pad of Achilles tendinopathy patients.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "plos",
+      "title": "Serum Levels of Oxylipins in Achilles Tendinopathy: An Exploratory Study",
+      "url": "https://doi.org/10.1371/journal.pone.0123114",
+      "publisher": "PLOS ONE",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0123114",
+      "abstract": "Background: Linoleic acid-derived oxidation products are found in experimental pain models. However, little is known about the levels of such oxylipins in human pain. In consequence, in the present study, we have undertaken a lipidomic profiling of oxylipins in blood serum from patients with Achilles tendinopathy and controls. Methodology/Principal findings: A total of 34 oxylipins were analysed in the serum samples. At a significance level of P<0.00147 (<0.05/34), two linoleic acid-derived oxylipins, 13-hydroxy-10E,12Z-octadecadienoic (13-HODE) and 12(13)-dihydroxy-9Z-octadecenoic acid (12,13-DiHOME) were present at significantly higher levels in the Achilles tendinopathy samples. This difference remained significant when the dataset was controlled for age, gender and body-mass index. In contrast, 0/21 of the arachidonic acid- and 0/4 of the dihomo-γ-linolenic acid, eicosapentaenoic acid or docosahenaenoic acid-derived oxylipins were higher in the patient samples at this level of significance. The area under the Receiver-Operator Characteristic (ROC) curve for 12,13-DiHOME was 0.91 (P<0.0001). Levels of four N-acylethanolamines were also analysed and found not to be significantly different between the controls and the patients at the level of P<0.0125 (<0.05/4). Conclusions/Significance: It is concluded from this exploratory study that abnormal levels of linoleic acid-derived oxylipins are seen in blood serum from patients with Achilles tendinopathy. Given the ability of two of these, 9- and 13-HODE to activate transient receptor potential vanilloid 1, it is possible that these changes may contribute to the symptoms seen in Achilles tendinopathy.",
+      "licence": "CC BY 4.0 (PLOS)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 3.2,
+      "providers": [
+        "plos"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Effectiveness of reducing tendon compression in the rehabilitation of insertional Achilles tendinopathy: a randomised clinical trial",
+      "url": "https://www.semanticscholar.org/paper/d2746226d438abe15fe9f7361c655bf1673577db",
+      "publisher": "British Journal of Sports Medicine",
+      "year": "2025",
+      "doi": "10.1136/bjsports-2024-109138",
+      "abstract": "Objective To assess the effectiveness of low tendon compression rehabilitation (LTCR) versus high tendon compression rehabilitation (HTCR) for treating patients with insertional Achilles tendinopathy. Methods In an investigator-blinded, stratified randomised trial, 42 sport-active patients (30 males and 12 females; age 45.8±8.2 years) with chronic (> 3 months) insertional Achilles tendinopathy were allocated in a 1:1 ratio to receive LTCR or HTCR. Both rehabilitation protocols consisted of a progressive 4-stage tendon-loading programme, including isometric, isotonic, energy-storage and release and sport-specific exercises. The LTCR programme was designed to control Achilles tendon compression by limiting ankle dorsiflexion during exercise, eliminating calf stretching and incorporating heel lifts. The primary outcome was the Victorian Institute of Sports Assessment-Achilles (VISA-A) score at 12 and 24 weeks, which measures tendon pain and function and was analysed on an intention-to-treat basis using a linear mixed model. Significance was accepted when p<0.05. Results 20 patients were randomised to the LTCR group and 22 to the HTCR group. Improvement in VISA-A score was significantly greater for LTCR compared with HTCR after 12 weeks (LTCR=24.4; HTCR=12.2; mean between-group difference=12.9 (95% CI: 6.2 to 19.6); p<0.001) and after 24 weeks (LTCR=29.0; HTCR=19.3; mean between-group difference=10.4 (95% CI: 3.7 to 17.1); p<0.001). These differences exceeded the minimal clinically important difference of 10. Conclusions In sport-active patients with insertional Achilles tendinopathy, LTCR was more effective than HTCR in improving tendon pain and function at 12 and 24 weeks. Consequently, LTCR should be considered in the treatment of insertional Achilles tendinopathy. Trial registration number ClinicalTrials.gov (ID: NCT05456620).",
+      "licence": "CCBYNC",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 3.034,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A systematic review of running-related musculoskeletal injuries in runners",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8500811/",
+      "publisher": "Journal of sport and health science",
+      "year": "2021",
+      "doi": "10.1016/j.jshs.2021.04.001",
+      "abstract": "Objective Running-related musculoskeletal injuries (RRMIs), especially stemming from overuse, frequently occur in runners. This study aimed to systematically review the literature and determine the incidence and prevalence proportion of RRMIs by anatomic location and specific pathology. Methods An electronic database search with no date beginning restrictions was performed in SPORTDiscus, PubMed, and MEDLINE up to June 2020. Prospective studies were used to find the anatomic location and the incidence proportion of each RRMI, whereas retrospective or cross-sectional studies were used to find the prevalence proportion of each RRMI. A separate analysis for ultramarathon runners was performed. Results The overall injury incidence and prevalence were 40.2% ± 18.8% and 44.6% ± 18.4% (mean ± SD), respectively. The knee, ankle, and lower leg accounted for the highest proportion of injury incidence, whereas the knee, lower leg, and foot/toes had the highest proportion of injury prevalence. Achilles tendinopathy (10.3%), medial tibial stress syndrome (9.4%), patellofemoral pain syndrome (6.3%), plantar fasciitis (6.1%), and ankle sprains (5.8%) accounted for the highest proportion of injury incidence, whereas patellofemoral pain syndrome (16.7%), medial tibial stress syndrome (9.1%), plantar fasciitis (7.9%), iliotibial band syndrome (7.9%), and Achilles tendinopathy (6.6%) had the highest proportion of injury prevalence. The ankle (34.5%), knee (28.1%), and lower leg (12.9%) were the 3 most frequently injured sites among ultramarathoners. Conclusion The injury incidence proportions by anatomic location between ultramarathoners and non-ultramarathoners were not significantly different (p = 0.798). The pathologies with the highest incidence proportion of injuries were anterior compartment tendinopathy (19.4%), patellofemoral pain syndrome (15.8%), and Achilles tendinopathy (13.7%). The interpretation of epidemiological data in RRMIs is limited due to several methodological issues encountered.",
+      "licence": "cc by-nc-nd",
+      "kind": "systematic review",
+      "source_type": "systematic_review",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.94,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "A criteria-based rehabilitation program for chronic mid-portion Achilles tendinopathy: study protocol for a randomised controlled trial",
+      "url": "https://doi.org/10.1186/s12891-021-04553-6",
+      "publisher": "BMC Musculoskeletal Disorders",
+      "year": "2021",
+      "doi": "10.1186/s12891-021-04553-6",
+      "abstract": "Abstract Background Achilles tendinopathy (AT) is a common overuse injury in running-related sports where patients experience pain and impaired function which can persist. A graded rehabilitation program has been successful in reducing pain and improving function to enable a return to sport. The aim of this study is to compare the effectiveness of a criteria-based rehabilitation program including strength and reactive strength targets, with a previously successful rehabilitation program on changes in pain and function using the Victorian Institute of Sport Assessment-Achilles (VISA-A) questionnaire. Secondary aims will be to assess changes in calf strength, reactive strength, and lower limb running and forward hop biomechanics over the course of a 12-week rehabilitation program, and long-term follow-up investigations. Methods Sixty eligible participants with chronic mid-portion AT who train in running-based sports will be included in this study. They will be randomly assigned to a group that will follow an evidence-based rehabilitation program of daily exercises with progression guided by symptoms or a group performing 3 high-intensity rehabilitation sessions per week with individualised load targets progressing to reactive strength exercises. Testing will take place at baseline, week 6 and 12. Plantar flexor peak torque will be measured using isokinetic dynamometry, reactive strength will be measured using a drop jump and lower limb biomechanical variables will be measured during a single leg forward hurdle hop test and treadmill running using 3D motion analysis. Follow-up interviews will take place at 6, 12 and 24 months after beginning the program which will assess patient participation in sport and possible re-injury. Discussion This is the first study to propose an individualised criteria-based graded rehabilitation program in patients in with chronic mid-portion Achilles tendinopathy where progression is guided by strength and reactive strength outcome measures. This study will provide a comprehensive assessment of plantar flexor strength, reactive strength and lower limb biomechanical variables in running and forward hopping with the VISA-A questionnaire as the primary outcome measure and long term post-intervention follow-up assessments performed. Trial registration ClinicalTrials.gov (ID: NCT04384874 ). Registered retrospectively on April 23rd 2020.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.84,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Efficacy of heel lifts versus calf muscle eccentric exercise for mid-portion Achilles tendinopathy (the HEALTHY trial): study protocol for a randomised trial",
+      "url": "http://link.springer.com/article/10.1186/s13047-019-0325-2",
+      "publisher": "Journal of Foot and Ankle Research",
+      "year": "2019",
+      "doi": "10.1186/s13047-019-0325-2",
+      "abstract": "Abstract Background Mid-portion Achilles tendinopathy is a common musculoskeletal condition characterised by degeneration of the Achilles tendon, which causes pain and disability. Multiple non-surgical treatments have been advocated for this condition including calf muscle eccentric exercise and in-shoe heel lifts. Although adherence is challenging, there is evidence to suggest that calf muscle eccentric exercise is effective in decreasing pain and improving function in people with Achilles tendinopathy. Heel lifts reduce ankle joint dorsiflexion and Achilles tendon strain, however their efficacy in the management of Achilles tendinopathy is unclear. This article describes the design of a parallel-group randomised trial comparing the efficacy of heel lifts to calf muscle eccentric exercise for Achilles tendinopathy. Methods Ninety-two participants with Achilles tendinopathy will be randomised to one of two groups: (i) a heel lift group that will receive pre-fabricated 12 mm in-shoe heel lifts (Clearly Adjustable®), or (ii) an exercise group that will be advised to carry out a calf muscle eccentric exercise program (twice a day, 7 days a week, for 12 weeks). Outcome measures will be obtained at baseline, 2, 6 and 12 weeks; the primary endpoint for assessing efficacy being 12 weeks. The primary outcome measure will be the total score of the Victorian Institute of Sport Assessment – Achilles (VISA–A) questionnaire. Secondary outcome measures will include thickness and integrity of the Achilles tendon (using ultrasound tissue characterisation [UTC]), participant perception of treatment effect on pain and function (using the 7-point Patient Global Impression of Change scale), severity of pain at the Achilles tendon (using a 100 mm visual analogue scale) in the previous week, health status (using the EuroQol-5D-5L™ questionnaire), physical activity levels (using the 7-day Recall Physical Activity Questionnaire) and calf muscle function (using the standing heel rise test). Data will be analysed using the intention to treat principle. Discussion The HEALTHY trial (Heel lifts versus calf muscle eccentric Exercise for AchiLles TendinopatHY) is the first randomised trial to compare the efficacy of heel lifts to calf muscle eccentric exercise in reducing pain and improving function in people with Achilles tendinopathy. A pragmatically designed trial was developed to ensure that if the interventions are found to be effective, the findings can be readily implemented in clinical practice. Trial registration Australian New Zealand Clinical Trials Registry: ACTRN12617001225303. Registered on August 22nd, 2017.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.76,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Effectiveness of low energy extracorporeal shock wave therapy in the treatment of chronic insertional Achilles tendinopathy",
+      "url": "https://www.banglajol.info/index.php/BSMMUJ/article/view/87687",
+      "publisher": "Bangabandhu Sheikh Mujib Medical University Journal",
+      "year": "2026",
+      "doi": "10.3329/bsmmuj.v19i2.87687",
+      "abstract": "Background: Insertional Achilles tendinopathy is a prevalent overuse disorder that often persists despite traditional interventions like rest, orthoses, and exercise therapy. When conservative measures fail, extracorporeal shockwave therapy (ESWT) serves as a promising non-invasive alternative. This study evaluated the effectiveness of low-energy ESWT for chronic insertional Achilles tendinopathy in a local hospital-based population. Methods: This quasi-experimental study was conducted at Chittagong Medical College Hospital from October 2021 to April 2022. The study enrolled 39 adults with chronic symptoms lasting at least 3 months, a morning pain visual analogue scale (VAS) score above 5, and a history of failed conservative treatment. Participants received four weekly ESWT sessions; corticosteroids were prohibited. Outcomes were measured using the VAS for pain and the Roles and Maudsley score (RMS) for functional status, with follow-ups at 1, 2, and 3 months post-treatment. Data were analysed using repeated-measures ANOVA with Bonferroni-adjusted post hoc comparisons. Results: The mean baseline VAS score was 7.9 (0.8), decreased to 4.6 (0.7) at 1 month and 2.3 (0.5) at 3 months (P <0.001). The mean RMS improved from 2.9 (0.7) at baseline to 0.9 (0.6) at 3 months (P <0.001). Post hoc analysis showed significant improvement from baseline to each follow-up for both outcomes; for VAS, all pairwise comparisons remained significant, whereas for RMS the difference between 2 and 3 months was not significant after adjustment. Conclusion: Low-energy ESWT provides substantial short-term pain relief and functional recovery for patients with recalcitrant insertional Achilles tendinopathy.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Patients with Achilles Tendinopathy show Reduced Intra-tendinous Sliding during Dynamic Exercises",
+      "url": "https://nantes-universite.hal.science/hal-05550656v1",
+      "publisher": "Medicine and Science in Sports and Exercise",
+      "year": "2026",
+      "doi": "10.1249/MSS.0000000000003942",
+      "abstract": "Purpose: Intra-tendinous sliding, i.e. non-uniform motions between the superficial and deep layers of the Achilles tendon, is reduced in individuals with Achilles tendinopathy compared to healthy controls during isometric contractions. Previous work has shown that intra-tendinous sliding can be increased by performing isometric contractions with a horizontally outward-rotated (“toes-out”) foot position. The purpose of this study was to compare intra-tendinous sliding between healthy individuals and patients with Achilles tendinopathy during dynamic exercises, and to determine the effect of a toes-out foot position. Methods: Forty participants (20 healthy and 20 Achilles tendinopathy) performed dynamic exercises, including bilateral heel rise/drop (sitting & standing), unilateral heel rise/drop (knee extended & bent) and squat. Exercises were performed in a neutral and toes-out foot position, with ultrasound images captured using an external probeholder. Intra-tendinous sliding (mm) was estimated via a speckle tracking algorithm as the difference between displacement of the superficial and deep layers of the Achilles tendon. Results: Main effects of group, foot position and exercise were found indicating that Achilles tendinopathy patients have reduced intra-tendinous sliding, that intra-tendinous sliding can be increased in a toes-out foot position and that some exercises induce more intra-tendinous sliding than others. Conclusions: These findings support intra-tendinous sliding as a marker of tendon health and suggest that foot positioning may be a simple way to enhance sliding. Given the poor rehabilitation outcomes for Achilles tendinopathy patients, implementing an external foot position during rehabilitation protocols could offer a low-cost and easy-to-implement method to improve rehabilitation success rates.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Selective muscle weakness in Achilles tendinopathy: is it time to look beyond the soleus?",
+      "url": "https://hal.science/hal-05501819v1",
+      "publisher": "Exercise and Sport Sciences Reviews",
+      "year": "2026",
+      "doi": "10.1249/JES.0000000000000381",
+      "abstract": "Plantarflexor weakness in Achilles tendinopathy has long been attributed to soleus dysfunction. However, recent neurophysiological and biomechanical evidence challenges this view, suggesting selective deficits in gastrocnemius lateralis muscle-tendon unit. This article re-examines the role of the triceps surae in Achilles tendinopathy and proposes a shift toward assessing gastrocnemius lateralis deficits and targeting rehabilitation to restore its function. SUMMARY STATEMENT: Emerging evidence questions the soleus-centric model of Achilles tendinopathy, highlighting deficits in the gastrocnemius lateralis and their implications for rehabilitation.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.64,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Do Anxiety, Depression, Fear of Movement and Fear of Achilles Rupture Correlate with Achilles Tendinopathy Pain, Symptoms or Physical Function?",
+      "url": "https://www.semanticscholar.org/paper/5ee26d6ce5f6b49144c0b6a411df5d212832c8a7",
+      "publisher": "Journal of Clinical Medicine",
+      "year": "2025",
+      "doi": "10.3390/jcm14020473",
+      "abstract": "Objectives: To determine if psychological factors, such as anxiety, depression, fear of movement and fear of rupture are associated with increased tendon-related disability, quantified by the Tendinopathy Severity Assessment-Achilles (TENDINS-A). Design: Cross-sectional. Setting: Online Qualtrics survey. Participants: Sixty-eight participants (54% female) with Achilles tendinopathy and a mean (standard deviation) age of 40.1 (12.6) years. Main Outcome Measures: The TENDINS-A (including subscales of pain; symptoms such as stiffness; physical function), Patient Health Questionnaire-9, General Anxiety Disorder-7, Tampa Scale for Kinesiophobia and fear of tendon rupture. Associations were evaluated using generalised linear models (adjusting for age and sex), with significance accepted when p < 0.05. Results: Anxiety symptoms were positively associated with Achilles pain (p = 0.035), symptoms (p = 0.045) and physical function (p = 0.019). Depressive symptoms were negatively associated with symptoms (p = 0.045) but not pain (p = 0.078) or physical function (p = 0.429). Fear of movement was not associated with pain (p = 0.479), symptoms (p = 0.915) or physical function (p = 0.064). Fear of rupture was associated with pain (p = 0.042), but not symptoms (p = 0.797) or physical function (p = 0.509). Conclusions: Our research demonstrated anxiety symptoms and fear of rupture, not fear of movement or depressive symptoms, are positively associated with the severity of tendon-related disability. Therefore, clinicians should include an assessment anxiety symptoms and fear of rupture in their practice.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.616,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Correlations between insertional Achilles tendinopathy and haglund’s deformity: MRI and radiographic findings",
+      "url": "https://www.semanticscholar.org/paper/1bccabf230cdaa3fbb46c2cb92cd61fab60db63f",
+      "publisher": "Journal of Orthopaedic Surgery and Research",
+      "year": "2025",
+      "doi": "10.1186/s13018-025-06036-z",
+      "abstract": "The relationship between insertional Achilles tendinopathy (IAT) and Haglund’s deformity has not been fully elucidated. This study aimed to determine the optimal cutoff value of MRI-based Achilles thickness and intratendinous degeneration for IAT and further explored the correlations of IAT and Haglund’s deformity. Thirty heels with symptomatic IAT (IAT group) underwent surgeries and 38 healthy participants without heel pain (control group) were enrolled. Five different radiographic parameters for diagnosing Haglund’s deformity were measured. The IAT changes including tendon thickness and intratendinous degenerative ratio (ITD ratio) were obtained on MRI. The correlations of IAT and different radiographic parameters of Haglund’s deformity were evaluated. A total of 68 feet were enrolled. The optimal thresholds of Achilles tendon thickness and ITD ratio were 6.1 mm and 48.8%, respectively. Both tendon thickness and ITD ratio were positively correlated with bump height and bump-calcaneus ratio (p < 0.001), but Fowler–Phillip angle, Heneghan–Pavlov parallel pitch lines and X-Y ratio were not. Achilles tendon thickness of more than 6.1 mm and intratendinous abnormality of over 48.8% were confirmed to be diagnostic cutoff values for IAT. Haglund’s deformity was determined as a risk factor of IAT requiring surgery. Both radiographic parameters of Haglund’s deformity using the bump height and the bump-calcaneus ratio were useful in predicting the presence of IAT on MRI. Level III, Retrospective cohort study.",
+      "licence": "CCBYNCND",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.614,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Subject-specific biomechanics influences tendon strains in patients with Achilles tendinopathy",
+      "url": "https://www.semanticscholar.org/paper/7e380a7824b90c983f8d47e96d78267e6f86d133",
+      "publisher": "Scientific Reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-024-84202-9",
+      "abstract": "The treatment of Achilles tendinopathy is challenging, as 40% of patients do not respond to existing rehabilitation protocols. These protocols neglect individual Achilles tendon (AT) characteristics, which are crucial for healing of the tendon tissue. Although prior studies suggest an optimal strain for AT regeneration (6% tendon strains), it is unclear if current protocols meet this condition. Our study aimed to analyse the impact of a selection of rehabilitation exercises on tendon strains in patients with Achilles tendinopathy, using subject-specific finite element (FE) models of the free AT. Second, this study aimed to explain the influence of muscle forces and material properties on AT strains. The 21 FE models of the AT included the following subject-specific features: geometry estimated from 3D freehand ultrasound images, Elastic modulus estimated from the experimental stress‒strain curve, and muscle forces estimated using a combination of 3D motion capture and musculoskeletal modelling. Exercises were ranked based on strain progression, starting from concentric and eccentric exercises, and going to more functional exercises, which impose a greater load on the AT. There was no significant difference between the unilateral heel drop and walking, and both exercises fell within the optimal strain range. However, when examining individual strains, it became evident that there was diversity in exercise rankings among participants, as well as exercises falling within the optimal strain range. Muscle forces notably affected strains more than material properties. Our findings indicate the importance of tailored rehabilitation protocols that account for individual morphological, material, and muscle characteristics.",
+      "licence": "CCBYNCND",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.614,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Metabolic risk factors relate to worse tendon health in individuals with Achilles tendinopathy",
+      "url": "https://www.semanticscholar.org/paper/a6bed738e6c6799b40d2aacdda2735988b978788",
+      "publisher": "Journal of Orthopaedic Research",
+      "year": "2025",
+      "doi": "10.1002/jor.26038",
+      "abstract": "A high proportion of individuals with Achilles tendinopathy continue to demonstrate long‐term symptoms and functional impairments after exercise treatment. Thus, there is a need to delineate patient presentations that may require alternative treatment. The objective of this study was to evaluate if the presence of metabolic risk factors relates to tendon symptoms, psychological factors, triceps surae structure, and lower limb function in individuals with Achilles tendinopathy. One hundred and fifty‐eight individuals (88 female) with diagnosed midportion Achilles tendinopathy were divided into three groups based on the number of metabolic risk factors linked to cardiovascular disease present at baseline: two or more factors, one factor, no factors. Metabolic risk factors were determined by clinical evaluation and past medical history. Achilles tendinopathy symptoms (Victorian Institute of Sport Assessment‐Achilles, Patient Reported Outcome Measurement Information System, movement‐evoked pain ratings), psychological factors (Tampa Scale for Kinesiophobia), triceps surae structure (B‐mode ultrasound of tendon and muscle morphology, continuous shear wave elastography of tendon mechanical properties), and lower limb function (test battery) were compared among groups. Individuals with two or more metabolic risk factors had worse symptoms with loading (p = 0.011), smaller Achilles tendon size relative to body mass (p = 0.002), and worse lower limb function compared to individuals without metabolic risk factors (p < 0.02). No differences were observed between individuals with one metabolic risk factor and those without metabolic risk factors. Future consideration of multiple metabolic risk factors for individuals with Achilles tendinopathy could facilitate understanding the underlying impairments of tendon pathology and recovery that may be addressed with treatment.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.614,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Load and muscle‐dependent changes in triceps surae motor unit firing properties in individuals with non‐insertional Achilles tendinopathy",
+      "url": "https://www.semanticscholar.org/paper/aed04488a3d01ecef4cf7d394f363933e485b446",
+      "publisher": "Journal of Physiology",
+      "year": "2025",
+      "doi": "10.1113/JP287588",
+      "abstract": "Non‐insertional Achilles tendinopathy (NIAT) induces morpho‐mechanical changes to the Achilles tendon (AT). Evidence on how triceps surae motor unit firing properties are influenced by altered tendon mechanics in NIAT is limited. This study investigated motor unit firing properties (mean discharge rate (DR), recruitment and de‐recruitment thresholds, and discharge rate variability (COVisi)), motor unit firing‐torque relationships (cross‐correlation coefficient between cumulative spike train (CST) and torque, and neuromechanical delay (NMD)) and neural drive distribution (connectivity strength and functional networks) of the medial gastrocnemius (MG), lateral gastrocnemius (LG), and soleus (SO) muscles during isometric plantarflexion contractions at 10%, 40%, and 70% maximal voluntary contraction (MVC) using high‐density surface electromyography (HD‐sEMG) on 26 individuals with NIAT and 25 healthy controls. AT's morpho‐mechanical properties (thickness, cross‐sectional area, length, and stiffness) were assessed via ultrasonography. Motor unit properties changed in a load and muscle‐dependent manner. LG DR increased (p = 0.002) and de‐recruitment threshold decreased (p = 0.039) at 70% MVC in the NIAT group compared to controls. The CST‐torque cross‐correlation coefficient of the LG decreased at 10% MVC (p < 0.0001) and increased at 70% MVC (p = 0.013) in the NIAT group. Connectivity strength for the 0–5 Hz and 5–15 Hz frequency bands decreased (p < 0.01) in the NIAT group at 10% MVC. Furthermore, NIAT individuals showed reduced tendon stiffness and increased thickness (p < 0.01). This study shows that individuals with NIAT exhibit load‐ and muscle‐dependent changes in motor unit firing properties, motor unit‐torque relationships, and neural drive distribution to the triceps surae. These alterations may be due to muscle‐specific compensations for AT's modified mechanical properties.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.612,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "semanticscholar",
+      "title": "Ultrasound Imaging/Guidance for Insertional Achilles Tendinopathy.",
+      "url": "https://www.semanticscholar.org/paper/622dc0fa48ac548700875f7daa9822270a1c4ef7",
+      "publisher": "British Journal of Radiology",
+      "year": "2025",
+      "doi": "10.1093/bjr/tqaf231",
+      "abstract": "OBJECTIVES This observational study aimed to define a standardized sonographic approach for evaluating the elementary lesions of the tendon-bone junction (TBJ) in insertional Achilles tendinopathy (IAT). METHODS Using high-frequency transducers, we matched the histological microarchitecture and the anatomical features of the TBJ of the Achilles tendon in patients with a clinical diagnosis of IAT. Color/power Doppler assessments have been performed as well. RESULTS Fifty eight patients, with a mean age of 54 years (54.50 ± 11.72) and a gender distribution of 32 males (55.17%) and 26 females (44.83%), were enrolled in this observational study. Five elementary lesions of IAT were sonographically defined: bone spur, calcified longitudinal fissuration, intra-tendinous bony formation, tendon-bone disjunction, and fibrocartilage hyperemia. Moreover, specific sonographic signs have been identified to differentiate bony spurs in the growing phase and end-stage. CONCLUSIONS Using high-frequency B-mode and high-sensitive Doppler imaging, detailed sonographic assessment of the TBJ can be performed in IAT patients. The aforementioned five elementary lesions can be considered as a standardized approach for prompt examination of this complex/anatomical region. ADVANCES IN KNOWLEDGE Recent advances in ultrasound equipment allow for accurate assessment of the TBJ of the AT. The present observational study defined five elementary sonographic lesions of the IAT as bone spur, calcified longitudinal fissuration, intra-tendinous bony formation, tendon-bone disjunction, and fibrocartilage hyperemia. Pertinent ultrasound-guided procedures targeting the TBJ are also discussed.",
+      "licence": "CCBY",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.608,
+      "providers": [
+        "semanticscholar"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Achilles tendinopathy",
+      "url": "https://doi.org/10.1038/s41572-025-00602-9",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": "2025",
+      "doi": "10.1038/s41572-025-00602-9",
+      "abstract": "Achilles tendon pathologies are prevalent, impacting ~6% of the general population and up to 50% of elite endurance runners over their lifetimes. These conditions substantially affect quality of life and work productivity, leading to substantial societal costs. Achilles tendinopathy (AT) is a condition marked by localized pain and functional impairment related to mechanical loading. AT can considerably impair participation and potentially also performance in sports and daily activities. The aetiology of AT is multifactorial and repetitive overloading of the tendon is often observed as the inciting factor by health professionals. However, AT can also be associated with adverse effects of certain medication, ageing and various comorbidities. Characteristic tendon changes include proteoglycan accumulation, fluid accumulation with swelling and hypervascularization. Tissue disorganization advances as pathological changes in matrix structure are driven by altered cellular function and makeup, often accompanied by persistent inflammation. Treatment strategies include various interventions, although these can be protracted and challenging for both patients and health-care providers, often with high failure rates. Current research focuses on understanding the pathological processes at the cellular and molecular levels to distinguish between disease categories and to investigate the role of inflammation, metabolic maladaptation and mechanical stress. Emerging therapeutic approaches need to be developed to address these underlying mechanisms. These approaches focus on optimizing rehabilitation protocols and advancing the development of adjunct therapies, such as advanced therapy medicinal products, alongside the integration of precision medicine to improve treatment outcomes.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Thyroid Achilles tendinopathy",
+      "url": "https://doi.org/10.1097/js9.0000000000002975",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "year": "2025",
+      "doi": "10.1097/js9.0000000000002975",
+      "abstract": "Achilles tendinopathy (AT) is characteristic of the multifactorial condition and protracted duration. Besides the extrinsic factors like mechanical overload or medications usage, many comorbidities including autoimmune inflammation, metabolic maladaptation and endocrinopathies can contribute to the occurrence of AT as the intrinsic factors. We observe the role of intrinsic thyroid factors and propose the notion of “thyroid Achilles tendinopathy.” We think that AT can be the sentinel complaint in the patients with asymptomatic hypothyroidism or Hashimoto’s thyroiditis. AT probably is not only an orthopedic issue especially in the sedentary middle-aged women who should be reminded of the systemic dysmetabolic factors like thyroid dysfunction.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Achilles Subtendons Stiffness Differ in People with and without Achilles Tendinopathy",
+      "url": "https://hal.science/hal-05364697v1",
+      "publisher": "Medicine and Science in Sports and Exercise",
+      "year": "2025",
+      "doi": "10.1249/MSS.0000000000003717",
+      "abstract": "ABSTRACT Purpose Previous work showed altered mechanical properties of the Achilles tendon in the presence of tendinopathy, considering the Achilles tendon as a homogeneous structure with the gastrocnemius medialis (GM) subtendon representative of it. However, the Achilles tendon consists of three semi-independent structures: the GM, gastrocnemius lateralis (GL), and soleus (SOL) subtendons, each independently pulled by their respective muscle. The aim of this study was (i) to compare the mechanical properties of the different Achilles subtendons in humans in vivo by considering the force of each muscle within the triceps surae group and (ii) to determine whether the loss of stiffness in the presence of tendinopathy is specific to individual subtendons. We hypothesized that (i) stiffness would differ between subtendons in healthy participants and that (ii) the loss of stiffness in people with Achilles tendinopathy compared with healthy controls would not affect the three subtendons identically. Methods Fourteen participants with tendinopathy and 14 controls performed ramped isometric plantarflexions. Simultaneously, the elongation of the three subtendons was recorded, and an estimate of the force pulling on each was made (from muscle activation and volume). Stiffness was calculated from the individual muscle index of force–subtendon elongation relationships. Results Results showed that regardless of the group, SOL stiffness was significantly higher than stiffness of both gastrocnemii (muscle effect: P 0.925, d = 0.3). Conclusions This study supports the hypothesis that the biomechanical properties of the Achilles tendon differ between subtendons and further shows that the loss of stiffness in Achilles tendinopathy is specific to the GL subtendon.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Achilles Tendon Mechanical but Not Morphological Properties Change with Rehabilitation in Patients with Chronic Midportion Achilles Tendinopathy",
+      "url": "https://hal.science/hal-05232569v1",
+      "publisher": "Medicine and Science in Sports and Exercise",
+      "year": "2025",
+      "doi": "10.1249/MSS.0000000000003606",
+      "abstract": "Purpose : Achilles tendinopathy is associated with altered tendon’s morphological and mechanical properties, yet it is unclear whether these properties are reversed upon mechanical loading to promote tendon healing. This study aims to determine the extent to which pathological tendon’s morphological and mechanical properties adapt throughout a 12-wk eccentric rehabilitation protocol. Methods Forty participants with midportion Achilles tendinopathy were recruited and participated in a 12-wk eccentric rehabilitation program. Function and symptoms were recorded through the Victorian Institute of Sports Assessment–Achilles (VISA-A) and hopping. The tendon’s morphological (i.e., volume, midportion cross-sectional area (CSA) and anteroposterior (AP) diameter) and mechanical (i.e., stiffness, Young’s modulus, and tendon nonuniform displacement) properties were measured at baseline and at 6 and 12-wk of the intervention. Results Significant functional improvements were observed, with VISA-A scores and hopping results showing marked improvements ( P = 0.001). Morphologically, no significant changes in volume, midportion CSA, or AP diameter were found, although a trend toward decreased CSA between 30% and 70% of tendon length was noted. Mechanically, significant increases in Achilles tendon stiffness ( P = 0.001) and Young’s modulus ( P = 0.001) were observed over the course of the rehabilitation program. No differences in tendon nonuniform displacement were found after a 12-wk rehabilitation program. Conclusions These findings suggest that tendon adaptation in response to mechanical loading primarily involves changes in mechanical properties rather than morphology, highlighting the complexity and variability in tendon adaptation. Clinically, these mechanical properties could be considered in the load progression throughout rehabilitation as potentially higher strains will be induced when clinical improvements precede mechanical adaptations.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.6,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "zenodo",
+      "title": "Cyriax's Transverse Friction Massage Techniques in Soft Tissue Injuries of the Foot and Leg",
+      "url": "https://zenodo.org/records/16783063",
+      "publisher": "Zenodo",
+      "year": "2025",
+      "doi": "10.5281/zenodo.16783063",
+      "abstract": "Transverse friction massage (TFM) of James Henry Cyriax is a manual therapeutic technique that aims to correct soft tissue dysfunctions involving repetitive localized friction applied perpendicular to the orientation of fibers. Although traditionally focused on conditions involving tendinosis and ligamentous strains, there is a need for increased systematic clinical direction to enable its use in anatomical sites of the foot and leg, the locations most common for soft tissue lesions due to biomechanical stress, overuse, and trauma. This study aims to produce a critical anatomical and clinical analysis of techniques of TFM specifically developed for the soft tissue structure of the foot and leg. Several distinct techniques were systematically established and categorized according to the sites of anatomy involved and structure-specific. Interventions include procedures involving the tibialis anterior and posterior tendons with their respective musculotendinous junctions, the peroneal muscles, the extensor and flexor hallucis longus, and the calf muscles. Special focus includes different planes of the Achilles tendon, including superficial, deep, anterior, and lateral attachments. In addition, some ligamentous formations like the anterior talofibular ligament, the calcaneofibular ligament, the talocalcaneal ligament, the deltoid complex, and some midfoot ligaments were studied. Plantar fascia was also included, given its common occurrence with chronic heel pain syndromes. Each technique is carefully described in terms of anatomical orientation, palpation method, direction of friction, and therapeutic use. A focused literature review supports using TFM in managing plantar fasciitis and Achilles tendinopathy. Clinical studies demonstrate its potential to relieve pain and improve function, especially when integrated into a multimodal rehabilitation program. However, further high-quality randomized controlled trials are required to establish standardized protocols and confirm long-term efficacy. TFM is a foundational approach to treating soft tissue injury of the foot and leg areas. Its efficacy is due to its focal nature and careful application over discrete anatomical regions, making it suitable for various musculoskeletal disorders, such as tendinopathies, ligament sprains, and plantar fasciopathy. This research offers a clinically structured foundation for using TFM in the lower limb, reconciling classical manual therapeutic philosophies with current anatomical knowledge and evidence-based practice.",
+      "licence": "cc-by-4.0",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.6,
+      "providers": [
+        "zenodo"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Reduced Intratendinous Sliding in Achilles Tendinopathy During Active Plantarflexion Regardless of Horizontal Foot Position",
+      "url": "https://hal.science/hal-04764055v1",
+      "publisher": "Scandinavian Journal of Medicine and Science in Sports",
+      "year": "2024",
+      "doi": "10.1111/sms.14679",
+      "abstract": "ABSTRACT Purpose The Achilles tendon consists of three subtendons with the ability to slide relative to each other. As optimal intratendinous sliding is thought to reduce the overall stress in the tendon, alterations in sliding behavior could potentially play a role in the development of Achilles tendinopathy. The aims of this study were to investigate the difference in intratendinous sliding within the Achilles tendon during isometric contractions between asymptomatic controls and patients with Achilles tendinopathy and the effect of changing the horizontal foot position on intratendinous sliding in both groups. Methods Twenty‐nine participants (13 Achilles tendinopathy and 16 controls) performed isometric plantarflexion contractions at 60% of their maximal voluntary contraction (MVC), in toes‐neutral, and at 30% MVC in toes‐neutral, toes‐in, and toes‐out positions during which ultrasound images were recorded. Intratendinous sliding was estimated as the superficial‐to‐middle and middle‐to‐deep relative displacement. Results Patients with Achilles tendinopathy present lower intratendinous sliding than asymptomatic controls. Regarding the horizontal foot position in both groups, the toes‐out foot position resulted in increased sliding compared with both toes‐neutral and toes‐out foot position. Conclusion We provided evidence that patients with Achilles tendinopathy show lower intratendinous sliding than asymptomatic controls. Since intratendinous sliding is a physiological feature of the Achilles tendon, the external foot position holds promise to increase sliding in patients with Achilles tendinopathy and promote healthy tendon behavior. Future research should investigate if implementing this external foot position in rehabilitation programs stimulates sliding within the Achilles tendon and improves clinical outcome.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Achilles tendon compliance influences tendon loading more than Achilles tendon twist in Achilles tendinopathy: a musculoskeletal modeling approach",
+      "url": "https://hal.science/hal-04764054v1",
+      "publisher": "Frontiers in Bioengineering and Biotechnology",
+      "year": "2024",
+      "doi": "10.3389/fbioe.2024.1399611",
+      "abstract": "The Achilles tendon exhibits anatomical variations in subtendon twist among individuals, and its compliance can change due to conditions like Achilles tendinopathy. However, current musculoskeletal models overlook these material and morphological variations. This study aimed to investigate the impact of altering Achilles subtendon insertion points and compliance on the triceps surae muscle forces, and therefore tendon loading, during dynamic exercises in one Achilles tendinopathy patient. First, subtendon insertion points were altered in the musculoskeletal model based on a subject-specific 3D freehand ultrasound model and for three types of subtendon twists: low, medium, and high. Second, tendon compliance was modeled based on experimental values, creating three musculoskeletal models: compliant, mean, and stiff. Results indicated that tendon compliance had a larger effect than tendon twist on triceps surae muscle forces. Altering subtendon insertion points to the three types of twist showed a maximal change of 2.3% in muscle force contribution compared to the no-twist model. During the eccentric rehabilitation exercise—a common exercise choice during rehabilitation—the compliant tendon model showed substantial differences compared to the generic (control) musculoskeletal model, resulting in decreased gastrocnemius medialis (−3.5%) and gastrocnemius lateralis (−3.2%) contributions and increased soleus contribution (+ 6.6%). Our study results highlight the necessity of incorporating tendon compliance in musculoskeletal models to accurately predict triceps surae muscle forces, especially in individuals with increased tendon compliance, such as patients with Achilles tendinopathy. Such findings contribute to more accurate predictions of muscle forces and hence, personalized rehabilitation strategies.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.56,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Triceps surae muscle forces during dynamic exercises in patients with Achilles tendinopathy: A cross‐sectional study",
+      "url": "https://hal.science/hal-04612417v1",
+      "publisher": "Scandinavian Journal of Medicine and Science in Sports",
+      "year": "2023",
+      "doi": "10.1111/sms.14444",
+      "abstract": "Abstract Purpose The aim of this study was to investigate the individual triceps surae muscle forces during the execution of six different functional movements and rehabilitation exercises in patients with Achilles tendinopathy compared to a control group. Methods Triceps surae muscle forces of 15 participants with Achilles tendinopathy (AT) and 15 healthy controls were estimated through a combination of experimental data and musculo‐skeletal modeling. Three‐dimensional motion capture and force plates were used to collect the ankle and knee joint angles and moments during three functional movements (walking, heel walking, and toe walking) and three rehabilitation exercises (bilateral heel drop, unilateral heel drop with extended knee and with flexed knee). A dynamic optimization method was used to obtain the modeled triceps surae muscle forces. Force‐sharing strategies were calculated at the peak triceps surae muscle force and compared between groups. Results Lower peak triceps surae forces were obtained for the AT group during dynamic exercises. Across all exercises, the average contribution of the soleus (SOL) to the total triceps surae muscle force was the largest (60.83 ± 13.89% [AT] > 56.90 ± 16.18% [healthy]), followed by the gastrocnemius medialis (29.87 ± 10.67% [AT] < 32.19 ± 12.90% [healthy]) and the gastrocnemius lateralis (9.30 ± 4.31% [AT] < 10.91 ± 4.66% [healthy]). The triceps surae force‐sharing strategy was different for the toe walking, heel walking, and the bilateral and unilateral heel drop with extended knee. Conclusion This study provides evidence for altered triceps surae muscle force‐sharing strategies during dynamic tasks in patients with AT. The influence of altered muscle force‐sharing on the subtendon nonuniformity and/or the tendon loading should be explored in future work.",
+      "licence": "",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.52,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "A 5-year follow-up study of Alfredson's heel-drop exercise programme in chronic midportion Achilles tendinopathy",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3277725/",
+      "publisher": "British journal of sports medicine",
+      "year": "2012",
+      "doi": "10.1136/bjsports-2011-090035",
+      "abstract": "Background Eccentric exercises have the most evidence in conservative treatment of midportion Achilles tendinopathy. Although short-term studies show significant improvement, little is known of the long-term (>3 years) results. Aim To evaluate the 5-year outcome of patients with chronic midportion Achilles tendinopathy treated with the classical Alfredson's heel-drop exercise programme. Study design Part of a 5-year follow-up of a previously conducted randomised controlled trial. Methods 58 patients (70 tendons) were approached 5 years after the start of the heel-drop exercise programme according to Alfredson. At baseline and at 5-year follow-up, the validated Victorian Institute of Sports Assessment-Achilles (VISA-A) questionnaire score, pain status, alternative treatments received and ultrasonographic neovascularisation score were recorded. Results In 46 patients (58 tendons), the VISA-A score significantly increased from 49.2 at baseline to 83.6 after 5 years (p Conclusion At 5-year follow-up, a significant increase of VISA-A score can be expected. After the 3-month Alfredson's heel-drop exercise programme, almost half of the patients had received other therapies. Although improvement of symptoms can be expected at long term, mild pain may remain.",
+      "licence": "cc by-nc",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.48,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Efficacy of customised foot orthoses in the treatment of Achilles tendinopathy: study protocol for a randomised trial",
+      "url": "http://www.jfootankleres.com/content/2/1/27",
+      "publisher": "Journal of Foot and Ankle Research",
+      "year": "2009",
+      "doi": "10.1186/1757-1146-2-27",
+      "abstract": "Abstract Background Achilles tendinopathy is a common condition that can cause marked pain and disability. Numerous non-surgical treatments have been proposed for the treatment of this condition, but many of these treatments have a poor or non-existent evidence base. The exception to this is eccentric calf muscle exercises, which have become a standard non-surgical intervention for Achilles tendinopathy. Foot orthoses have also been advocated as a treatment for Achilles tendinopathy, but the long-term efficacy of foot orthoses for this condition is unknown. This manuscript describes the design of a randomised trial to evaluate the efficacy of customised foot orthoses to reduce pain and improve function in people with Achilles tendinopathy. Methods One hundred and forty community-dwelling men and women aged 18 to 55 years with Achilles tendinopathy (who satisfy inclusion and exclusion criteria) will be recruited. Participants will be randomised, using a computer-generated random number sequence, to either a control group (sham foot orthoses made from compressible ethylene vinyl acetate foam) or an experimental group (customised foot orthoses made from semi-rigid polypropylene). Both groups will be prescribed a calf muscle eccentric exercise program, however, the primary difference between the groups will be that the experimental group receive customised foot orthoses, while the control group receive sham foot orthoses. The participants will be instructed to perform eccentric exercises 2 times per day, 7 days per week, for 12 weeks. The primary outcome measure will be the total score of the Victorian Institute of Sport Assessment - Achilles (VISA-A) questionnaire. The secondary outcome measures will be participant perception of treatment effect, comfort of the foot orthoses, use of co-interventions, frequency and severity of adverse events, level of physical activity and health-related quality of life (assessed using the Short-Form-36 questionnaire - Version two). Data will be collected at baseline, then at 1, 3, 6 and 12 months. Data will be analysed using the intention to treat principle. Discussion This study is the first randomised trial to evaluate the long-term efficacy of customised foot orthoses for the treatment of Achilles tendinopathy. The study has been pragmatically designed to ensure that the study findings are generalisable to clinical practice. Trial registration Australian New Zealand Clinical Trials Registry Number: ACTRN12609000829213.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Is genu varum a risk factor for the prevalence and severity of achilles tendinopathy? A cross-sectional study of Nigerian elite track and field athletes",
+      "url": "http://www.npmj.org/article.asp?issn=1117-1936;year=2020;volume=27;issue=2;spage=87;epage=92;aulast=Aiyegbusi",
+      "publisher": "Nigerian Postgraduate Medical Journal",
+      "year": "2020",
+      "doi": "10.4103/npmj.npmj_179_19",
+      "abstract": "Background: Achilles tendinopathy (AT) is one of the most frequently reported ankle and foot overuse injuries. Prior studies have reported altered biomechanical variables of the lower limb as risk factors for the prevalence and severity of AT in athletes, especially in Caucasians, but there are few reports on African elite athletes. Because it is established that anthropometric and biomechanical values vary with racial disposition, this study was designed to investigate the association between selected physical and biomechanical variables of the lower limb and the prevalence and severity of AT in Nigerian elite track and field athletes. Subjects and Methods: Eighty-five elite Nigerian track and field athletes participated in this cross-sectional study. Biomechanical variables of Q-angle, tibial torsion, limb-length discrepancy (LLD) and foot posture index (FPI) were evaluated using standard procedures. The presence of AT was confirmed with ultrasonography and clinical assessments, whereas the severity was evaluated with VISA-A questionnaire. Inferential statistics of Chi-square was used to determine the association between prevalence of AT and the biomechanical variables. Results: The prevalence of AT was 15.3%, made up of participants who tested positive to both clinical test and ultrasound scan. There was no significant association between AT and LLD, tibial torsion and FPI. Most of the participants with AT had genu varum, which was significantly associated with both the prevalence and severity of AT. Conclusion: It was concluded that genu varum had a significant association with both the prevalence and severity of AT in elite Nigerian track and field athletes.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Muscle coordination and musculoskeletal disorders - Investigation of Achilles tendinopathy Coordination musculaire et pathologies musculo-squelettiques - Etude de la tendinopathie d’Achille",
+      "url": "https://hal.science/tel-04612403v1",
+      "publisher": "HAL open archive",
+      "year": "2020",
+      "doi": "",
+      "abstract": "The Achilles tendon is made of three subtendons that each arises from a different head of the triceps surae: gastrocnemius medialis, gastrocnemius lateralis and soleus. Non-optimal distribution of load within Achilles tendon would contribute to the development of Achilles tendinopathy. Moreover, there is evidence that the distribution of load or strain within the Achilles tendon is partly determined by the distribution of force among the heads of the triceps surae. The overall aim of this thesis was to provide a deeper understanding of the role of muscle coordination (i.e. the distribution of force among muscles) on the development of Achilles tendinopathy.Individual muscle forces were estimated from muscle activation, volume and architecture. Results showed that (i) the distribution of activation among triceps surae is robust between days, and varies greatly between individuals; (ii) there is a significant positive correlation between the distribution of physiological cross-sectional area and the distribution of activation among gastrocnemii; (iii) muscle coordination among the triceps surae differs in people with Achilles tendinopathy compared with controls, with the gastrocnemius lateralis contributing significantly less to total triceps surae force in people with Achilles tendinopathy. Whether this altered strategy is a cause or a consequence of Achilles tendinopathy should be further explored. Le tendon d'Achille est composé de trois sous-tendons qui proviennent chacun d'un chef du triceps surae: gastrocnemius medialis, gastrocnemius lateralis, et soleus. Unedistribution non optimale de la contrainte imposée au tendon d'Achille contribuerait au développement de la tendinopathie d'Achille. D’autre part, la distribution des contraintes sur le tendon d'Achille est en partie déterminée par la distribution de la force entre les chefs des triceps surae. L'objectif général de cette thèse était d’étudier le rôle de la coordination musculaire (définie comme la distribution de force entre les muscles) dans le développement d’une tendinopathie d'Achille. Les forces musculaires de chaque muscle ont été estimées à partir de l'activation, du volume et de l'architecture musculaires. Les résultats ont montré que (i) la distribution de l’activation musculaire dans le triceps surae est robuste dans le temps, et varie considérablement d'un individu à l'autre; (ii) il existe une corrélation positive significative entre la distribution de la surface de section transversale physiologique et la distribution de l'activation au sein des gastrocnemii; (iii) le gastrocnemius lateralis contribuesignificativement moins à la force totale produite par le triceps sural chez les personnes atteintes de tendinopathie d'Achille par rapport aux contrôles. L’altération de la coordination musculaire pourrait être une cause, comme elle pourrait être une conséquence de la tendinopathie d’Achille.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Force-sharing within the Triceps Surae: An Achilles Heel in Achilles Tendinopathy",
+      "url": "https://nantes-universite.hal.science/hal-03325152v1",
+      "publisher": "Medicine and Science in Sports and Exercise",
+      "year": "2020",
+      "doi": "10.1249/MSS.0000000000002229",
+      "abstract": "CROUZIER, M., K. TUCKER, L. LACOURPAILLE, V. DOGUET, G. FAYET, M. DAUTY, and F. HUG. Force-sharing within the Triceps Surae: An Achilles Heel in Achilles Tendinopathy. Med. Sci. Sports Exerc., Vol. 52, No. 5, pp. 1076–1087, 2020. Purpose: The primary aim of this study was to determine whether the distribution of force between the three heads of the triceps surae differs between people with Achilles tendinopathy and controls. We also aimed to determine the effect of this force distribution on subtendon strain. Methods: Data were collected for 21 participants with Achilles tendinopathy and 21, case-wise paired, asymptomatic controls. Ultrasonography was used to measure muscle volume, fascicle length, pennation angle and subtendon length at rest. Muscle activation was estimated using surface electromyography during maximal and submaximal isometric plantarflexion tasks. The product of normalized activation, physiological cross-sectional area, and the cosine of the pennation angle was considered as an index of individual muscle force. Displacement of the distalmyotendinous junction of each muscle was measured during the submaximal contractions. Results: The contribution of the gastrocnemius lateralis to the overall triceps surae physiological cross-sectional area and activation was 8.5% (P = 0.047, d = 0.75) and 24.7% lower (main effect group P = 0.009, d = 0.67) in people with Achilles tendinopathy than in the controls, respectively. Consequently, gastrocnemius lateralis contributed approximately 28% less (main effect group P = 0.025, d = 0.62) of the triceps surae force in people with Achilles tendinopathy. The contribution of gastrocnemius medialis and soleus was not different between groups. Subtendon strain was not different between groups (P = 0.835). Conclusions: These results provide evidence for a difference in force-sharing strategy within the triceps surae in people with Achilles tendinopathy compared with the controls. Whether this altered strategy is a cause or a consequence of Achilles tendinopathy should be explored further.",
+      "licence": "https://about.hal.science/hal-authorisation-v1/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "hal",
+      "title": "Molecular and Structural Effects of Percutaneous Interventions in Chronic Achilles Tendinopathy",
+      "url": "https://hal.science/hal-05021885v1",
+      "publisher": "International Journal of Molecular Sciences",
+      "year": "2020",
+      "doi": "10.3390/ijms21197000",
+      "abstract": "Achilles tendinopathy (AT) is a common problem, especially in people of working age, as well as in the elderly. Although the pathogenesis of tendinopathy is better known, therapeutic management of AT remains challenging. Various percutaneous treatments have been applied to tendon lesions: e.g., injectable treatments, platelet-rich plasma (PRP), corticosteroids, stem cells, MMP inhibitors, and anti-angiogenic agents), as well as percutaneous procedures without any injection (percutaneous soft tissue release and dry needling). In this review, we will describe and comment on data about the molecular and structural effects of these treatments obtained in vitro and in vivo and report their efficacy in clinical trials. Local treatments have some impact on neovascularization, inflammation or tissue remodeling in animal models, but evidence from clinical trials remains too weak to establish an accurate management plan, and further studies will be necessary to evaluate their value.",
+      "licence": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.4,
+      "providers": [
+        "hal"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Incidence and prevalence of lower extremity tendinopathy in a Dutch general practice population: a cross sectional study",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4711046/",
+      "publisher": "BMC musculoskeletal disorders",
+      "year": "2016",
+      "doi": "10.1186/s12891-016-0885-2",
+      "abstract": "Background Lower extremity tendinopathy is a common sports injury, but it can also affect non-athletes. Because tendinopathy is difficult to treat and has negative effects on the ability to work and quality of life, development of preventive interventions is important. The first step in the Van Mechelen prevention model is to determine the extent of the problem. The primary aim of this study was to determine the incidence and prevalence of lower extremity tendinopathy in a Dutch general practice population. The secondary aim was to investigate possible associated factors. Methods A cross-sectional study was performed in a Dutch general practice. Using International Classification of Primary Care codes, the electronic patient files were searched to identify cases of adductor tendinopathy, greater trochanteric pain syndrome, jumper's knee, Achilles tendinopathy, and plantar fasciopathy in 2012. The tendinopathy patients were compared to the general practice population regarding age, gender, use of medication, and comorbidity using 95% confidence intervals. Results The prevalence and incidence rates of lower extremity tendinopathy found in this study were 11.83 and 10.52 per 1000 person-years. Lower extremity tendinopathy was more prevalent among older patients. No differences between tendinopathy patients and the general practice population were found regarding gender, use of medication, or comorbidity. Conclusions In this cross-sectional study in a Dutch general practice, the prevalence and incidence rates of lower extremity tendinopathy were 11.83 and 10.52 per 1000 person-years. Lower extremity tendinopathy deserves a higher place in locomotor system research to develop preventive interventions.",
+      "licence": "cc by",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "open_license",
+      "score": 2.24,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Achilles Tendinopathy in Club Runners",
+      "url": "https://doi.org/10.1055/s-0031-1299701",
+      "publisher": "Georg Thieme Verlag KG",
+      "year": "2012",
+      "doi": "10.1055/s-0031-1299701",
+      "abstract": "Ultrasound (US) changes within the Achilles tendon are present in asymptomatic Achilles individuals. We assessed the association of US signs with symptoms of Achilles tendinopathy in a study group of club level running athletes and in a control group of athletes training at least 2 times per week. The Achilles tendon was assessed in its entirety on longitudinal US scans, at the musculotendinous junction (MTJ), the calcaneal insertion site, and at a midtendon point. 25 middle distance runners, 19 males and 6 females, aged from 18 to 58, were enrolled in each group. When compared to control athletes, club level runners presented significantly increased tendon thickness (p=0.046) at the musculo-tendinous junction, and increased tendon thickness, with no statistical significance, at the other landmarks points. Although club level runners were significantly more symptomatic and predisposed to develop signs of tendinopathy than control athletes (p=<0.001), ultrasound abnormalities were not significantly associated with local symptoms complained at the US investigation time. Prospective studies on asymptomatic athletes are needed to define the predictive value of US signs of Achilles tendinopathy in the development of symptoms in the long-term.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.08,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "openaire",
+      "title": "Treatment of Achilles Tendinopathy",
+      "url": "https://doi.org/10.11575/prism/12916",
+      "publisher": "Graduate Studies",
+      "year": "2011",
+      "doi": "10.11575/prism/12916",
+      "abstract": "This research sought to influence clinical management and treatment of Achilles tendinopathy by: 1) evaluating the efficacy of sclerotherapy (with a 25% dextrose and 0.5% lidocaine sclerosant) over the course of one year; 2) evaluating the effectiveness of a 12 week standardized home based heavy load eccentric training program; and 3) describing the prevalence of neovascularisation in adults with disease and without, and prevalence after treatment. Specifically, it provides the first short term data from a prospective triple blinded randomized controlled trial on the efficacy of ultrasound guided sclerosing 25% dextrose and 0.5% lidocaine injections following failure of eccentric exercises. Sclerotherapy was an efficacious treatment in the short term (3 months) with all patients showing statistically significant improvement in pain and function (as measured by the Victorian Institute of Sport Assessment-Achilles outcome measure), but its positive effects decreased for some patients after one year. With regards to neovascularisation, it was present in all affected tendons (and in one individual without the disease), but change in the number of neovessels does not appear to affect symptoms. With regard to eccentric training, it was found to not be effective in the majority of patients with only two patients considering themselves satisfied with treatment. Based on these results, a treatment paradigm and future research directions are provided. Most notably, eccentric training is not recommended as an effective treatment option for Achilles tendinopathy. Sclerotherapy is recommended as a treatment option for both mid-portion and enthesopathy.",
+      "licence": "Open Access",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 2.04,
+      "providers": [
+        "openaire"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Medium- and Long-Term Effectiveness of Custom Insoles for Cavus Foot: A Surface Electromyography Study",
+      "url": "https://www.mdpi.com/2411-5142/10/4/461",
+      "publisher": "Journal of Functional Morphology and Kinesiology",
+      "year": "2025",
+      "doi": "10.3390/jfmk10040461",
+      "abstract": "Background: Cavus foot, defined by an increased medial longitudinal arch and often forefoot plantarflexion, alters biomechanics and increases peak plantar pressures, raising the risk of musculoskeletal disorders such as metatarsalgia, Achilles tendinopathy, and gait instability. Custom foot orthoses are the preferred conservative treatment, offering plantar support, pressure redistribution, and reduction in compensatory muscle activity. This study evaluated the medium- and long-term effectiveness of custom orthoses in 71 patients with cavus feet using surface electromyography (sEMG) and the same shoes. Methods: Muscle activity of the peroneus longus, peroneus brevis, and gastrocnemius was recorded during treadmill gait after one and four months of orthotic use. Results: Significant reductions in muscles were observed, especially after four months, confirming greater long-term effectiveness. No residual benefits were found when participants walked without orthoses. Conclusions: These findings support the clinical value of insoles in reducing the compensatory muscle activity in cavus feet and emphasize the importance of investigating their long-term role in biomechanics and potential pathology risk reduction.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Foot orthoses for the prevention of lower limb overuse injuries in naval recruits: study protocol for a randomised controlled trial",
+      "url": "https://doi.org/10.1186/s13047-015-0109-2",
+      "publisher": "Journal of Foot and Ankle Research",
+      "year": "2015",
+      "doi": "10.1186/s13047-015-0109-2",
+      "abstract": "Abstract Background Foot orthoses are frequently used for the prevention of lower limb overuse injuries but evidence for their effectiveness is limited. The primary aim of this study is to determine if prefabricated foot orthoses reduce the incidence of lower limb overuse injuries in naval recruits undertaking 11 weeks of basic training. Methods This study is a participant and assessor blinded, parallel‐group, randomised controlled trial. The trial will recruit participants undertaking 11 weeks of basic training at the Royal Australian Navy Recruit School, Cerberus, Victoria, Australia. Participants will be randomised to a control group (flat insole) or an intervention group (prefabricated foot orthosis). Over the 11 weeks of basic training, participants will document the presence and location of pain in weekly self‐report diaries. The end‐point for each participant will be the completion of 11 weeks of basic training. The primary outcome measure will be the combined incidence of four lower limb injuries (medial tibial stress syndrome, patellofemoral pain, Achilles tendinopathy, and plantar fasciitis/plantar heel pain) which are common among defence members. Secondary outcome measures include: (i) overall incidence of lower limb pain, (ii) severity of lower limb pain, (iii) time to injury, (iv) time to drop‐out due to injury, (v) adverse events, (vi) number of lost training days, (vii) shoe comfort, and (viii) general health status. Data will be analysed using the intention‐to‐treat principle. Discussion This randomised controlled trial will evaluate the effectiveness of prefabricated foot orthoses for the prevention of common lower limb overuse injuries in naval recruits. Trial registration Australian New Zealand Clinical Trials Registry: ACTRN12615000024549.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "trial",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.6,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "doaj",
+      "title": "Endoscopic Insertional Achilles Reconstruction with Double Row Suture Bridge Reconstruction: A Technique Tip",
+      "url": "https://doi.org/10.1177/2473011421S00369",
+      "publisher": "Foot & Ankle Orthopaedics",
+      "year": "2022",
+      "doi": "10.1177/2473011421S00369",
+      "abstract": "Category: Ankle; Arthroscopy Introduction/Purpose: Insertional Achilles tendinopathy can be a debilitating condition that often fails to improve with non- surgical management such as bracing and physical therapy. Traditional surgical techniques include an open debridement of the diseased tendon and resection of calcaneal spurs. This is followed by repair of the tendon. Suture anchors are often used to secure the tendon, but recent advances in tendon fixation, including the advent of double row repairs, has allowed better biomechanical repairs and faster rehabilitation. Additionally, minimally invasive surgery (MIS) and endoscopic techniques have advanced to allow successful treatment of all aspects of the condition while minimizing wound complications and infection Methods: The authors present a technique to treat insertional Achilles tendinopathy and calcaneal bone spurs using MIS techniques while also incorporating a percutaneous double row suture anchor repair. The technique utilizes four portals to access two endoscopic working planes. The burr is inserted deep to the tendon and the calcaneoplasty is performed. Subsequently, the endoscope is inserted alongside a shaver to remove bony debris and debulk the anterior aspect of the Achilles areas of tendinopathy. Following this, the portals are used to place a double row suture anchor repair. Results: With over 75 surgeries performed, there have been zero wound complications and patients have been able to return to full weight bearing within 10 days after surgery. Follow up outcome data is currently being collected and will be reported as a case series once sufficient patients have completed their follow up. Conclusion: This study presents double-row repair following an endoscopic assisted MIS calcaneoplasty and Achilles debridement. The technique combines the benefits of the double row suture bridge repair with a minimal incision technique to debride the insertional tendinosis. In order to adequately debride the tendon and the posterior calcaneal tuberosity, the tendon foot print is elevated as the burr removes the bone at the insertion. The anterior portion of the tendon, which may be a pain generator as well, isdebrided endoscopically with the shaver. Finally, a double row suture bridge repair is performed in order to allow early weight bearing and rehabilitation.",
+      "licence": "open access journal (licence per article: <verify>)",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.48,
+      "providers": [
+        "doaj"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Increased expression of IL-6 family members in tendon pathology",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3380247/",
+      "publisher": "Rheumatology (Oxford, England)",
+      "year": "2012",
+      "doi": "10.1093/rheumatology/kes002",
+      "abstract": "Objectives Histological examination of pathological tendon generally does not reveal signs of inflammation. However, the inflammatory cytokine IL-6 has been shown to be expressed in ruptured rotator cuff tendon. The aim of this study was to investigate the expression of IL-6 family members in painful posterior tibialis tendon (PTT) and in painful and ruptured Achilles tendon (AT) compared with normal tendon. Methods AT samples were obtained from cadavers (normal) or from patients undergoing surgical procedures to treat chronic painful tendinopathy or ruptured tendon. PTT samples were obtained from patients undergoing surgery for other reasons (normal) and from patients with PTT dysfunction (painful). Total RNA was extracted and mRNA expression was analysed by quantitative real-time PCR. Results Collagen type I α-chain I (COL1A1) expression was increased in both painful PTT and AT compared with normal. Ciliary neurotrophic factor levels were increased in painful PTT only. In the painful AT, cyclooxygenase-2 (COX2) and IL-6 expression increased compared with normal. In the ruptured AT, levels of VEGF A, COX2, oncostatin-M, leukaemia inhibitory factor and IL-6 expression were higher compared with both normal and painful AT. IL-6R expression decreased in both painful and ruptured AT compared with normal. Conclusion Painful AT and PTT show different expression patterns, indicating a substantial difference between those two tendinopathies. Inflammatory markers are up-regulated in painful and particularly in ruptured AT, pointing towards a role of inflammation not only in rupture healing, but also in Achilles tendinopathy.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.08,
+      "providers": [
+        "europepmc"
+      ]
+    },
+    {
+      "provider": "europepmc",
+      "title": "Terminology for Achilles tendon related disorders",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076576/",
+      "publisher": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "year": "2011",
+      "doi": "10.1007/s00167-010-1374-z",
+      "abstract": "The terminology of Achilles tendon pathology has become inconsistent and confusing throughout the years. For proper research, assessment and treatment, a uniform and clear terminology is necessary. A new terminology is proposed; the definitions hereof encompass the anatomic location, symptoms, clinical findings and histopathology. It comprises the following definitions: Mid-portion Achilles tendinopathy: a clinical syndrome characterized by a combination of pain, swelling and impaired performance. It includes, but is not limited to, the histopathological diagnosis of tendinosis. Achilles paratendinopathy: an acute or chronic inflammation and/or degeneration of the thin membrane around the Achilles tendon. There are clear distinctions between acute paratendinopathy and chronic paratendinopathy, both in symptoms as in histopathology. Insertional Achilles tendinopathy: located at the insertion of the Achilles tendon onto the calcaneus, bone spurs and calcifications in the tendon proper at the insertion site may exist. Retrocalcaneal bursitis: an inflammation of the bursa in the recess between the anterior inferior side of the Achilles tendon and the posterosuperior aspect of the calcaneus (retrocalcaneal recess). Superficial calcaneal bursitis: inflammation of the bursa located between a calcaneal prominence or the Achilles tendon and the skin. Finally, it is suggested that previous terms as Haglund's disease; Haglund's syndrome; Haglund's deformity; pump bump (calcaneus altus; high prow heels; knobbly heels; cucumber heel), are no longer used.",
+      "licence": "cc by-nc",
+      "kind": "article",
+      "source_type": "journal_article",
+      "audience": "clinician",
+      "permitted_use": "link_and_paraphrase",
+      "score": 1.04,
+      "providers": [
+        "europepmc"
+      ]
+    }
+  ]
+}
