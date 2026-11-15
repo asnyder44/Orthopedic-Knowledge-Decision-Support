@@ -14,3 +14,6 @@ results
 tests
 docs
 examples
+data/pipeline
+data/records/*/batches/*
+!data/records/rehab/batches/sample-synthetic

@@ -1,0 +1,7 @@
+provider_id,role,setting
+HP-0001,physical therapist,outpatient clinic
+HP-0002,hand therapist,outpatient clinic
+HP-0003,occupational therapist,outpatient clinic
+HP-0004,physical therapist,home
+HP-0005,athletic trainer,outpatient clinic
+HP-0006,physical therapist,telehealth

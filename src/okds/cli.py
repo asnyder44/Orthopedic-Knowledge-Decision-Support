@@ -158,6 +158,110 @@ def _sources(args: argparse.Namespace) -> int:
     return 0
 
 
+def _pipeline(args: argparse.Namespace) -> int:
+    """KO pipeline jobs. Schedule them with cron / Task Scheduler now; AWS EventBridge + Lambda later."""
+    from .pipeline import jobs
+    from .pipeline.store import PipelineStore
+
+    s = get_settings()
+    reports = []
+    if args.job in ("fetch", "run"):
+        reports.append(jobs.fetch_job(s, args.topic or None))
+    if args.job in ("generate", "run"):
+        reports.append(jobs.generate_job(s, args.max, template=args.template))
+    if args.job == "status":
+        store = PipelineStore(s)
+        counts: dict[str, int] = {}
+        for a in store.articles():
+            counts[a.status] = counts.get(a.status, 0) + 1
+        print(f"Article inbox: {counts or 'empty'}")
+        print(f"Review queue: {[i.ko_id for i in store.queue_items()] or 'empty'}")
+        for r in store.runs(5):
+            print(f"  {r['started']}  {r['job']:8} {r['status']:13} {r.get('counts')}")
+        return 0
+    failed = False
+    for r in reports:
+        cost = f", about ${r.est_cost_usd}" if r.est_cost_usd is not None else ""
+        print(f"[{r.job}] {r.status}: {r.counts or 'no changes'}{cost}")
+        for m in r.messages:
+            print(f"    {m}")
+        failed |= r.status == "error"
+    return 1 if failed else 0
+
+
+def _data(args: argparse.Namespace) -> int:
+    """Data skeleton: show the model, write templates or the synthetic sample, check / upload / decide batches."""
+    import csv
+
+    from . import records
+    from .records.sample import make_sample
+
+    s = get_settings()
+    try:
+        m = records.get_model(args.model)
+    except records.ModelError as e:
+        print(e)
+        return 1
+    store = records.RecordStore(s, m)
+    if args.action == "model":
+        print(f"{m.title} (model '{m.name}' v{m.version}): {len(m.entities)} entities, {len(m.edges())} links")
+        for e in m.edges():
+            print(f"  {e['from']} {e['predicate']} {e['to']}")
+        return 0
+    if args.action in ("template", "sample"):
+        out = Path(args.paths[0] if args.paths else f"{m.name}-{args.action}")
+        out.mkdir(parents=True, exist_ok=True)
+        tables = make_sample(args.patients) if args.action == "sample" else {}
+        for name, ent in m.entities.items():
+            with (out / f"{name}.csv").open("w", encoding="utf-8", newline="") as f:
+                w = csv.DictWriter(f, fieldnames=list(ent.fields))
+                w.writeheader()
+                for r in tables.get(name, []):
+                    w.writerow({k: ("yes" if v is True else "no" if v is False else v) for k, v in r.items()})
+        print(f"Wrote {len(m.entities)} CSV files to {out}")
+        return 0
+    if args.action == "batches":
+        for b in store.batches():
+            print(f"{b.id:24} {b.status:9} {'synthetic' if b.meta.get('synthetic') else 'real':9} "
+                  f"{sum(b.meta.get('counts', {}).values()):6} rows  by {b.meta.get('uploaded_by', '')}")
+        return 0
+    if args.action == "decide":
+        if len(args.paths) != 2 or args.paths[1] not in ("accept", "reject"):
+            print("Use: okds data decide <batch-id> accept|reject --name 'Your Name' [--reason '...']")
+            return 1
+        try:
+            b = store.decide(args.paths[0], "accepted" if args.paths[1] == "accept" else "rejected", args.name or "",
+                             args.reason or "")
+        except records.UploadError as e:
+            print(f"Not changed: {e}")
+            return 1
+        print(f"Batch {b.id} {b.status}.")
+        return 0
+    # check / upload
+    paths = [p for x in args.paths for p in ([Path(x)] if Path(x).is_file() else sorted(Path(x).glob("*.csv")))]
+    files = [(p.name, p.read_bytes()) for p in paths]
+    try:
+        tables = records.read_upload(files)
+    except records.UploadError as e:
+        print(e)
+        return 1
+    result = store.check(tables, records.ko_types(s))
+    print(f"{sum(result.counts.values())} rows in {len(result.counts)} table(s): "
+          f"{len(result.errors)} problem(s), {len(result.warnings)} warning(s)")
+    for i in result.issues[:50]:
+        print(f"  {i.level.upper():7} {i}")
+    if args.action == "check" or not result.ok:
+        return 0 if result.ok else 1
+    if not args.name or not (args.synthetic or (args.deidentified and args.agreement)):
+        print("To upload: --name 'Your Name' and either --synthetic, or --deidentified --agreement 'DUA-...'")
+        return 1
+    b = store.save(tables, result, uploaded_by=args.name, synthetic=args.synthetic,
+                   agreement="synthetic sample (no real people)" if args.synthetic else args.agreement,
+                   status="accepted" if args.accept else "pending")
+    print(f"Saved batch {b.id} ({b.status}). " + ("" if args.accept else "Review it in the KO Portal: Review → Data batches."))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="okds", description="OKDS Knowledge Object tools")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -193,6 +297,26 @@ def main(argv: list[str] | None = None) -> int:
     so.add_argument("picks", nargs="*", help="set: c<number> or local:<doc_id>, in order (S1, S2, ...)")
     so.add_argument("-v", "--verbose", action="store_true", help="show: also print publisher, link, abstract")
     so.set_defaults(func=_sources)
+    p = sub.add_parser("pipeline", help="KO pipeline: fetch articles, generate KOs, or show status")
+    p.add_argument("job", choices=["fetch", "generate", "run", "status"],
+                   help="fetch = Job 1, generate = Job 2, run = both, status = what is in the inbox and queue")
+    p.add_argument("--topic", action="append", help="Job 1 only: fetch for this topic ID (can repeat)")
+    p.add_argument("--max", type=int, default=None, help="Job 2 only: most KOs to make (default OKDS_PIPELINE_KOS_PER_RUN)")
+    p.add_argument("--template", action="store_true", help="Job 2 only: empty-template drafts, no AI (a person writes them)")
+    p.set_defaults(func=_pipeline)
+    d = sub.add_parser("data", help="Data skeleton: model, templates, synthetic sample, check/upload/decide batches")
+    d.add_argument("action", choices=["model", "template", "sample", "check", "upload", "batches", "decide"])
+    d.add_argument("paths", nargs="*", help="template/sample: output folder; check/upload: CSV files, folders, .zip "
+                                            "or .json; decide: <batch-id> accept|reject")
+    d.add_argument("--model", default="rehab")
+    d.add_argument("--patients", type=int, default=40, help="sample: how many made-up patients")
+    d.add_argument("--name", help="upload/decide: your name")
+    d.add_argument("--synthetic", action="store_true", help="upload: the data is made up (no real people)")
+    d.add_argument("--deidentified", action="store_true", help="upload: I confirm real records are de-identified")
+    d.add_argument("--agreement", help="upload: the data agreement / approval it is shared under")
+    d.add_argument("--reason", help="decide reject: why")
+    d.add_argument("--accept", action="store_true", help=argparse.SUPPRESS)  # seeding the shipped synthetic sample
+    d.set_defaults(func=_data)
     args = parser.parse_args(argv)
     return args.func(args)
 

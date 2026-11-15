@@ -183,6 +183,12 @@
     row.appendChild(button(S.depth ? "Show everything" : "Focus here", () => { S.depth = S.depth ? 0 : 1; $("#net-depth").value = String(S.depth); select(id); }));
     panel.appendChild(row);
 
+    const usage = (NET.data_usage || {})[id];
+    if (usage) {  // accepted records from the Data Skeleton that point at this KO
+      panel.appendChild(el("h4", null, "In uploaded data"));
+      Object.entries(usage).forEach(([where, n]) => panel.appendChild(el("p", "small", `${n} × ${where.replace(":", " · ")}`)));
+      panel.appendChild(el("p", "muted small", "Counts from accepted record batches (Data Skeleton). Under 5 shows as <5."));
+    }
     const links = edges.filter(e => (e.source === id || e.target === id) && S.preds.has(e.predicate) && (S.proposed || !e.proposed));
     panel.appendChild(el("h4", null, `Connections (${links.length})`));
     if (!links.length) panel.appendChild(el("p", "muted small", "No connections yet."));

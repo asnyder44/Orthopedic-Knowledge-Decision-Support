@@ -152,7 +152,10 @@ def _stream_claude(*, model: str, system: str, user: str, effort: str, max_token
     usage = getattr(result.message, "usage", None)
     result.model = getattr(result.message, "model", model)
     result.usage = {"input_tokens": getattr(usage, "input_tokens", None),
-                    "output_tokens": getattr(usage, "output_tokens", None)}
+                    "output_tokens": getattr(usage, "output_tokens", None),
+                    # with prompt caching, most of the prompt is counted here instead of input_tokens
+                    "cache_creation_input_tokens": getattr(usage, "cache_creation_input_tokens", None) or 0,
+                    "cache_read_input_tokens": getattr(usage, "cache_read_input_tokens", None) or 0}
 
 
 OPENAI_FINISH = {"stop": "end_turn", "length": "max_tokens", "content_filter": "refusal"}

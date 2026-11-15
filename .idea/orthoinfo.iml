@@ -9,6 +9,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings" />
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+  </component>
   <component name="ReSTService" />
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
@@ -17,5 +20,8 @@
         <option value="$MODULE_DIR$/src/okds/web/templates" />
       </list>
     </option>
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
   </component>
 </module>

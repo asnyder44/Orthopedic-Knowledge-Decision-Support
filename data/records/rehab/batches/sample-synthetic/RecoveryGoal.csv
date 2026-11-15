@@ -1,0 +1,81 @@
+goal_id,plan_id,goal,target_day
+G-0001,PL-0001,return to daily activities,28
+G-0002,PL-0001,return to work,28
+G-0003,PL-0002,return to daily activities,42
+G-0004,PL-0002,return to work,42
+G-0005,PL-0003,less pain,35
+G-0006,PL-0003,return to daily activities,35
+G-0007,PL-0004,return to daily activities,35
+G-0008,PL-0004,return to work,35
+G-0009,PL-0005,return to work,63
+G-0010,PL-0005,full range of motion,63
+G-0011,PL-0006,return to daily activities,49
+G-0012,PL-0006,less pain,49
+G-0013,PL-0007,return to daily activities,28
+G-0014,PL-0007,less pain,28
+G-0015,PL-0008,full range of motion,49
+G-0016,PL-0008,return to daily activities,49
+G-0017,PL-0009,return to daily activities,35
+G-0018,PL-0009,less pain,35
+G-0019,PL-0010,return to work,49
+G-0020,PL-0010,return to daily activities,49
+G-0021,PL-0011,less pain,35
+G-0022,PL-0011,return to work,35
+G-0023,PL-0012,less pain,70
+G-0024,PL-0012,full range of motion,70
+G-0025,PL-0013,return to daily activities,63
+G-0026,PL-0013,return to work,63
+G-0027,PL-0014,full range of motion,49
+G-0028,PL-0014,return to work,49
+G-0029,PL-0015,return to work,42
+G-0030,PL-0015,full range of motion,42
+G-0031,PL-0016,less pain,49
+G-0032,PL-0016,full range of motion,49
+G-0033,PL-0017,full range of motion,49
+G-0034,PL-0017,less pain,49
+G-0035,PL-0018,return to daily activities,28
+G-0036,PL-0018,less pain,28
+G-0037,PL-0019,return to daily activities,42
+G-0038,PL-0019,return to work,42
+G-0039,PL-0020,full range of motion,28
+G-0040,PL-0020,return to work,28
+G-0041,PL-0021,less pain,35
+G-0042,PL-0021,return to work,35
+G-0043,PL-0022,return to work,42
+G-0044,PL-0022,less pain,42
+G-0045,PL-0023,return to work,49
+G-0046,PL-0023,full range of motion,49
+G-0047,PL-0024,full range of motion,35
+G-0048,PL-0024,return to work,35
+G-0049,PL-0025,full range of motion,35
+G-0050,PL-0025,return to daily activities,35
+G-0051,PL-0026,full range of motion,35
+G-0052,PL-0026,return to work,35
+G-0053,PL-0027,return to daily activities,63
+G-0054,PL-0027,return to work,63
+G-0055,PL-0028,return to work,63
+G-0056,PL-0028,full range of motion,63
+G-0057,PL-0029,less pain,42
+G-0058,PL-0029,full range of motion,42
+G-0059,PL-0030,return to work,28
+G-0060,PL-0030,return to daily activities,28
+G-0061,PL-0031,return to work,35
+G-0062,PL-0031,full range of motion,35
+G-0063,PL-0032,return to work,35
+G-0064,PL-0032,full range of motion,35
+G-0065,PL-0033,return to work,56
+G-0066,PL-0033,less pain,56
+G-0067,PL-0034,return to daily activities,42
+G-0068,PL-0034,full range of motion,42
+G-0069,PL-0035,less pain,35
+G-0070,PL-0035,return to daily activities,35
+G-0071,PL-0036,less pain,56
+G-0072,PL-0036,return to daily activities,56
+G-0073,PL-0037,return to work,63
+G-0074,PL-0037,return to daily activities,63
+G-0075,PL-0038,return to daily activities,56
+G-0076,PL-0038,full range of motion,56
+G-0077,PL-0039,return to work,35
+G-0078,PL-0039,less pain,35
+G-0079,PL-0040,full range of motion,42
+G-0080,PL-0040,return to work,42

@@ -1,0 +1,242 @@
+# Data skeleton: rehabilitation records (okds-data-1.0).
+#
+# Follows the team's "Patient -> Rehabilitation" flow diagram. Every box is an entity; every arrow is a
+# `ref` field whose `predicate` is the arrow's label. `edge: in` means the arrow points from the referenced
+# entity to this one (Rehabilitation HAS_SESSION RehabSession); `edge: out` means it points from this entity
+# to the referenced one (RehabSession PERFORMED_BY HealthcareProvider).
+#
+# Privacy by design (records must be de-identified):
+#   - no names, contact details, record numbers or exact dates: people are study codes (e.g. P-0001),
+#     ages are bands (90+ for 90 and older), time is "day N" since the rehabilitation started, years only;
+#   - free-text fields are scanned for identifiers before a batch can be saved.
+#
+# Field types: id, ref, ko (a Knowledge Object ID), text, category, integer, number, boolean, day, year.
+# A `ko` field links the records to the KO network (e.g. which Treatment KO an intervention is).
+
+model: rehab
+version: "1.0"
+title: Rehabilitation records
+description: >
+  De-identified records of rehabilitation programs: who took part, sessions, exercises, assessments
+  (mobility, function, pain), outcomes, milestones, plans and feedback. Built so partners (for example
+  IMPACT ecosystem members) can upload their own data later; it ships with made-up sample data only.
+root: Patient
+
+shared:
+  age_band: &age_band [18-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89, "90+"]
+  side: &side [left, right, both, not applicable]
+  joint: &joint [shoulder, elbow, wrist, hand/fingers, hip, knee, ankle, foot, spine]
+
+entities:
+  Patient:
+    description: A person in a rehabilitation program, known only by a study code.
+    fields:
+      patient_id: {type: id, description: "Study code, e.g. P-0001. Never a name or medical record number."}
+      age_band: {type: category, values: *age_band, required: true}
+      sex: {type: category, values: [female, male, other, not stated], required: true}
+      condition_ko: {type: ko, ko_types: [Condition], predicate: HAS_CONDITION, description: "The condition KO, e.g. KO-HAND-COND-001."}
+      side: {type: category, values: *side}
+
+  HealthcareProvider:
+    description: A role, not a named person.
+    fields:
+      provider_id: {type: id, description: "Study code, e.g. HP-01."}
+      role: {type: category, required: true, values: [physical therapist, occupational therapist, hand therapist, physician, surgeon, nurse, athletic trainer, other]}
+      setting: {type: category, values: [outpatient clinic, hospital, home, telehealth, other]}
+
+  PatientFeedback:
+    description: What a patient says about a session.
+    fields:
+      feedback_id: {type: id}
+      patient_id: {type: ref, ref: Patient, predicate: SUBMITS, edge: in, required: true}
+      session_id: {type: ref, ref: RehabSession, predicate: PROVIDES_FEEDBACK_ON, edge: out}
+      provider_id: {type: ref, ref: HealthcareProvider, predicate: HAS_PROVIDER, edge: out}
+      day: {type: day}
+      satisfaction: {type: integer, min: 1, max: 5, description: "1 = very unhappy, 5 = very happy"}
+      comment: {type: text, max_length: 500, free_text: true}
+
+  Rehabilitation:
+    description: One rehabilitation program for one patient.
+    fields:
+      rehab_id: {type: id}
+      patient_id: {type: ref, ref: Patient, predicate: PARTICIPATES_IN, edge: in, required: true}
+      procedure_ko: {type: ko, ko_types: [Procedure], predicate: AFTER_PROCEDURE, description: "Surgery the rehab follows, if any."}
+      protocol_ko: {type: ko, ko_types: [RehabProtocol, Treatment], predicate: FOLLOWS_KO}
+      start_year: {type: year}
+      status: {type: category, values: [active, completed, stopped early]}
+
+  RehabSession:
+    description: One therapy visit.
+    fields:
+      session_id: {type: id}
+      rehab_id: {type: ref, ref: Rehabilitation, predicate: HAS_SESSION, edge: in, required: true}
+      provider_id: {type: ref, ref: HealthcareProvider, predicate: PERFORMED_BY, edge: out}
+      day: {type: day, required: true}
+      minutes: {type: integer, min: 1, max: 480}
+
+  SessionReport:
+    fields:
+      report_id: {type: id}
+      session_id: {type: ref, ref: RehabSession, predicate: GENERATES, edge: in, required: true}
+      summary: {type: text, max_length: 1000, free_text: true}
+
+  ExercisePerformance:
+    description: How an exercise went in a session.
+    fields:
+      performance_id: {type: id}
+      session_id: {type: ref, ref: RehabSession, predicate: RECORDS, edge: in, required: true}
+      exercise_id: {type: ref, ref: RehabExercise, predicate: OF_EXERCISE, edge: out}
+      sets: {type: integer, min: 0, max: 50}
+      reps: {type: integer, min: 0, max: 500}
+      completed: {type: boolean}
+
+  TherapeuticIntervention:
+    description: A treatment given in a session (links to a Treatment KO).
+    fields:
+      intervention_id: {type: id}
+      session_id: {type: ref, ref: RehabSession, predicate: INCLUDES, edge: in, required: true}
+      treatment_ko: {type: ko, ko_types: [Treatment], predicate: IS_TREATMENT, required: true}
+      minutes: {type: integer, min: 1, max: 240}
+
+  RehabExercise:
+    fields:
+      exercise_id: {type: id}
+      session_id: {type: ref, ref: RehabSession, predicate: CONTAINS, edge: in, required: true}
+      exercise: {type: text, max_length: 80, required: true, description: "e.g. tendon gliding, quad sets"}
+      treatment_ko: {type: ko, ko_types: [Treatment], predicate: IS_TREATMENT}
+
+  RecoveryAssessment:
+    description: A check-up during rehab. It produces the assessments below.
+    fields:
+      assessment_id: {type: id}
+      rehab_id: {type: ref, ref: Rehabilitation, predicate: HAS_ASSESSMENT, edge: in, required: true}
+      day: {type: day, required: true}
+
+  RecoveryOutcome:
+    fields:
+      outcome_id: {type: id}
+      assessment_id: {type: ref, ref: RecoveryAssessment, predicate: PRODUCES, edge: in, required: true}
+      outcome_measure_ko: {type: ko, ko_types: [OutcomeMeasure], predicate: MEASURED_WITH, description: "e.g. KO-HAND-OUT-001 (BCTQ)"}
+      score: {type: number}
+
+  GoalProgress:
+    fields:
+      progress_id: {type: id}
+      outcome_id: {type: ref, ref: RecoveryOutcome, predicate: TRACKS, edge: in, required: true}
+      goal_id: {type: ref, ref: RecoveryGoal, predicate: FOR_GOAL, edge: out}
+      percent: {type: integer, min: 0, max: 100}
+
+  DischargeAssessment:
+    fields:
+      discharge_id: {type: id}
+      outcome_id: {type: ref, ref: RecoveryOutcome, predicate: GENERATES, edge: in, required: true}
+      day: {type: day}
+      discharged_to: {type: category, values: [home program, another rehab program, no further care, other]}
+
+  FollowUpPlan:
+    fields:
+      followup_id: {type: id}
+      discharge_id: {type: ref, ref: DischargeAssessment, predicate: DETERMINES, edge: in, required: true}
+      follow_up_weeks: {type: integer, min: 0, max: 104}
+
+  RecoveryMilestone:
+    fields:
+      milestone_id: {type: id}
+      outcome_id: {type: ref, ref: RecoveryOutcome, predicate: RECORDS, edge: in, required: true}
+      milestone: {type: category, required: true, values: [return to work, return to sport, full range of motion, pain free, independent daily living]}
+      day: {type: day}
+
+  MobilityAssessment:
+    fields:
+      mobility_id: {type: id}
+      assessment_id: {type: ref, ref: RecoveryAssessment, predicate: PRODUCES, edge: in, required: true}
+
+  RangeOfMotion:
+    fields:
+      rom_id: {type: id}
+      mobility_id: {type: ref, ref: MobilityAssessment, predicate: MEASURES, edge: in, required: true}
+      joint: {type: category, values: *joint, required: true}
+      movement: {type: text, max_length: 40, description: "e.g. flexion, extension"}
+      degrees: {type: number, min: 0, max: 360, unit: degrees}
+
+  Balance:
+    fields:
+      balance_id: {type: id}
+      mobility_id: {type: ref, ref: MobilityAssessment, predicate: EVALUATES, edge: in, required: true}
+      test: {type: category, values: [single-leg stance, Berg Balance Scale, timed up and go, other]}
+      score: {type: number}
+
+  FunctionalAssessment:
+    fields:
+      functional_id: {type: id}
+      assessment_id: {type: ref, ref: RecoveryAssessment, predicate: PRODUCES, edge: in, required: true}
+      outcome_measure_ko: {type: ko, ko_types: [OutcomeMeasure], predicate: MEASURED_WITH}
+
+  PhysicalStrength:
+    fields:
+      strength_id: {type: id}
+      functional_id: {type: ref, ref: FunctionalAssessment, predicate: MEASURES, edge: in, required: true}
+      muscle_group: {type: text, max_length: 40, description: "e.g. grip, quadriceps"}
+      measure: {type: category, values: [grip strength (kg), manual muscle test (0-5), other]}
+      value: {type: number, min: 0}
+
+  DailyLivingAbility:
+    fields:
+      adl_id: {type: id}
+      functional_id: {type: ref, ref: FunctionalAssessment, predicate: EVALUATES, edge: in, required: true}
+      activity: {type: category, values: [dressing, bathing, cooking, writing, lifting, walking, stairs, driving, work tasks]}
+      independence: {type: category, values: [independent, needs some help, needs full help]}
+
+  PainAssessment:
+    fields:
+      pain_id: {type: id}
+      assessment_id: {type: ref, ref: RecoveryAssessment, predicate: PRODUCES, edge: in, required: true}
+
+  PainLocation:
+    fields:
+      location_id: {type: id}
+      pain_id: {type: ref, ref: PainAssessment, predicate: IDENTIFIES, edge: in, required: true}
+      body_site: {type: category, values: *joint, required: true}
+      side: {type: category, values: *side}
+
+  PainLevel:
+    fields:
+      level_id: {type: id}
+      pain_id: {type: ref, ref: PainAssessment, predicate: MEASURES, edge: in, required: true}
+      scale: {type: category, values: ["NRS 0-10", "VAS 0-100"], required: true}
+      score: {type: number, min: 0, max: 100, required: true}
+
+  TreatmentAdjustment:
+    fields:
+      adjustment_id: {type: id}
+      assessment_id: {type: ref, ref: RecoveryAssessment, predicate: TRIGGERS, edge: in, required: true}
+      plan_id: {type: ref, ref: RehabilitationPlan, predicate: MODIFIES, edge: out}
+      protocol_id: {type: ref, ref: TreatmentProtocol, predicate: UPDATES, edge: out}
+      reason: {type: category, values: [faster progress than expected, slower progress than expected, pain, new problem, patient request]}
+
+  RehabilitationPlan:
+    fields:
+      plan_id: {type: id}
+      rehab_id: {type: ref, ref: Rehabilitation, predicate: HAS_PLAN, edge: in, required: true}
+      protocol_id: {type: ref, ref: TreatmentProtocol, predicate: FOLLOWS, edge: out}
+
+  RecoveryGoal:
+    fields:
+      goal_id: {type: id}
+      plan_id: {type: ref, ref: RehabilitationPlan, predicate: CONTAINS, edge: in, required: true}
+      goal: {type: text, max_length: 120, required: true}
+      target_day: {type: day}
+
+  TreatmentProtocol:
+    description: A named protocol (often matches a RehabProtocol or Treatment KO).
+    fields:
+      protocol_id: {type: id}
+      name: {type: text, max_length: 120, required: true}
+      protocol_ko: {type: ko, ko_types: [RehabProtocol, Treatment, Procedure], predicate: DESCRIBED_BY}
+
+  TreatmentSchedule:
+    fields:
+      schedule_id: {type: id}
+      plan_id: {type: ref, ref: RehabilitationPlan, predicate: DEFINES, edge: in, required: true}
+      sessions_per_week: {type: integer, min: 0, max: 14}
+      weeks: {type: integer, min: 1, max: 104}

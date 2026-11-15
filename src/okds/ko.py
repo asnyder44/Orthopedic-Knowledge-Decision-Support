@@ -15,7 +15,7 @@ import yaml
 from . import vocab
 
 SCHEMA_VERSION = "okds-ko-1.0"
-GENERATOR_PROMPT_VERSION = "okds-gen-1.1"  # 1.1: source text is data, not instructions
+GENERATOR_PROMPT_VERSION = "okds-gen-1.2"  # 1.1: sources are data; 1.2: links go from this KO
 TEMPLATE_VERSION = "okds-template-1.0"
 
 FIELD_ORDER = [

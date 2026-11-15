@@ -18,7 +18,7 @@ Educational only; no diagnosis.
 |---|---|
 | `/` | The website (subspecialty explorer, search, **Ask an OrthoBot**) |
 | `/library`, `/search`, `/doc/<id>`, `/about` | Source library pages (restyled to match the site) |
-| `/ko/` | KO Portal: What is a KO · Generator · Library (browse / manage) · Topics · Sources · KO OrthoBot |
+| `/ko/` | KO Portal: What is a KO · Generator · Library (browse / manage) · Topics · Sources · Discovery Network · KO OrthoBot · Pipeline · Review · Data Skeleton |
 | `POST /api/ask` | OrthoBot: `{"question": "...", "all_sources": false, "mode": "quote" \| "ai"}` -> cited passages as JSON (`passages`, `knowledge_objects`, and `ai` when asked for) |
 | `GET /api/health`, `GET /api/info` | Health check / dataset info (incl. `knowledge_objects` count and whether `ai_answers` are on) |
 
@@ -33,7 +33,7 @@ Educational only; no diagnosis.
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
 orthoinfo serve                                         # http://127.0.0.1:5000  (KO Portal: /ko/)
-pytest                                                  # 139 tests (tests/ko = KO Portal)
+pytest                                                  # 196 tests (tests/ko = KO Portal, pipeline, data skeleton)
 okds validate                                           # check every KO in data/kos
 ```
 
@@ -113,6 +113,57 @@ Files: `data/kos/<specialty>/<ko_id>_<slug>.md` (KOs), `data/registry.csv` (topi
 Command line: `okds validate`, `okds build-json`, `okds list`, `okds ask "question"`.
 
 Optional meaning search over the KOs: `pip install -e ".[ko-semantic]"` (downloads a ~70 MB model on first use).
+
+### KO data pipeline (from the okds repo) and the Review queue
+
+The two daily jobs from the okds repo's "Knowledge Object Data Pipeline" now run in this app
+(`src/okds/pipeline/`, pages **Pipeline** and **Review**):
+
+| Step | What happens |
+|---|---|
+| **Job 1 · Fetch** | For topics with no KO, searches Europe PMC (reviews first), runs automatic checks (open licence, peer reviewed, not retracted, not a case report, has full text, not fetched before) and saves the full text to the **article inbox** (`data/pipeline/articles/`) as new / skipped (with the reason) |
+| **Upload a document** | Partner reports, guidelines or articles your team may use join the same inbox, after similar checks (topic exists, 500+ characters, reuse not restricted, not added before) |
+| **Job 2 · Generate** | A topic with 2+ new articles becomes an AI draft (same prompt and rules as the Generator), or an empty template draft when there's no AI key (`--template`), in the **review queue** |
+| **Review** | A person reads each draft next to its sources, edits it, then **accepts** (→ KO Library as `team_checked`, with their name) or **rejects** it (with a reason; a copy is kept). The Review page also lists KOs already in the library that are still drafts, and uploaded data batches |
+| **OrthoBot** | `OKDS_ORTHOBOT_MIN_STATUS=team_checked` makes OrthoBot answer only from accepted KOs (default `draft`: every KO, since all current KOs are drafts) |
+
+```bash
+okds pipeline fetch                     # Job 1 (or --topic KO-ID, repeatable)
+okds pipeline generate                  # Job 2 with AI;  okds pipeline generate --template  without AI
+okds pipeline run                       # both (schedule this daily; the Pipeline page shows cron / Task Scheduler lines)
+okds pipeline status
+```
+
+Later the jobs move to AWS (EventBridge Scheduler + Lambda, S3, Secrets Manager), as planned in the okds repo. Its AWS
+hosting code (`infra/`, `s3path.py`, `cloud.py`) is not ported yet; the settings already have a `jobs_in_lambda` switch.
+
+### Data Skeleton: a structure for partner data
+
+The project has no IMPACT partner data yet, so the **Data Skeleton** page (`/ko/data`, code in `src/okds/records/`)
+defines what such data should look like and how it flows: **model → upload → automatic checks → people check →
+summaries + KO network**.
+
+- **Data model:** `src/okds/datamodels/rehab.yaml` follows the team's rehabilitation flow diagram (Patient →
+  Rehabilitation → sessions, assessments, outcomes, plans, feedback): 29 entities, 34 labelled links. Fields of type
+  `ko` link records to Knowledge Objects (condition, procedure, treatment, outcome measure). A team adds its own model
+  as `data/models/<name>.yaml`: it gets its own diagram, templates, checks and review flow, without code changes.
+- **Upload:** CSV per entity (from the empty templates), a ZIP, or JSON. Checks: required fields, types, ranges,
+  allowed values, links between tables, KO links to real topics of the right type, duplicate codes, only the model's
+  columns, and a **privacy screen** (emails, phone numbers, SSNs, full dates, record numbers, web/street addresses,
+  exact ages). Real records also need a de-identification confirmation and the data agreement they are shared under.
+- **Review:** batches wait in the Review queue; only accepted batches count. Summaries hide groups under 5.
+- **Privacy:** people are study codes, ages are bands, time is "day N". Uploaded batches stay in `data/records/` on this
+  computer and are git-ignored; only the **synthetic** sample batch (40 made-up patients, 3,843 rows) is in the repo.
+  Real patient-level data needs an approved data agreement (usually IRB) before it is uploaded at all.
+
+```bash
+okds data model                         # entities and links
+okds data template out/                 # empty CSVs + data dictionary
+okds data sample out/ --patients 40     # synthetic records that follow the model
+okds data check out/                    # run the automatic checks only
+okds data upload out/ --name "You" --synthetic        # or --deidentified --agreement "DUA-2026-014"
+okds data batches                       # list;  okds data decide <id> accept|reject --name "You" [--reason ...]
+```
 
 ### Collecting sources for KOs (`okds collect`)
 

@@ -34,6 +34,10 @@ HARD RULES
    and target_ids from REGISTRY. If a needed concept is not in REGISTRY,
    put it in proposed_concepts (term, suggested_type, predicate, reason).
    Never use RELATED_TO or ASSOCIATED_WITH.
+   Every link goes FROM this KO: this KO is always the subject. Each item
+   has exactly predicate, target_id, target_label, source_ids. A link that
+   would point INTO this KO (for example "Wrist Splinting TREATS this
+   condition") belongs in the other KO; mention it in review.open_issues.
 6. Medical safety: general education only. No personal advice, no dosing,
    no promises of outcomes. For Conditions, include "When to seek care"
    using source content. Keep safety.not_medical_advice: true.

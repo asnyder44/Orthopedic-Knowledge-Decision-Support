@@ -18,6 +18,8 @@ dependencies = [
     "certifi>=2024.2.2",
     # Use the operating system's certificate store for outgoing requests (campus/corporate networks).
     "truststore>=0.9",
+    # KO pipeline: safe parsing of PubMed Central article XML
+    "defusedxml>=0.7",
     "anthropic>=2.0,<3",
     "openai>=1.40",
 ]

@@ -1,0 +1,28 @@
+discharge_id,outcome_id,day,discharged_to
+D-0001,O-0006,42,home program
+D-0002,O-0009,35,no further care
+D-0003,O-0014,63,no further care
+D-0004,O-0017,49,home program
+D-0005,O-0023,49,no further care
+D-0006,O-0028,49,home program
+D-0007,O-0034,70,home program
+D-0008,O-0037,63,no further care
+D-0009,O-0048,49,home program
+D-0010,O-0051,28,home program
+D-0011,O-0054,42,home program
+D-0012,O-0062,42,home program
+D-0013,O-0065,49,home program
+D-0014,O-0070,35,no further care
+D-0015,O-0073,35,no further care
+D-0016,O-0078,63,home program
+D-0017,O-0081,42,no further care
+D-0018,O-0084,28,home program
+D-0019,O-0087,35,home program
+D-0020,O-0090,35,no further care
+D-0021,O-0093,56,home program
+D-0022,O-0096,42,no further care
+D-0023,O-0099,35,no further care
+D-0024,O-0102,56,no further care
+D-0025,O-0105,63,home program
+D-0026,O-0111,35,home program
+D-0027,O-0114,42,home program

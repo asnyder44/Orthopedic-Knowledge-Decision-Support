@@ -1,0 +1,149 @@
+{% extends "ko/layout.html" %}
+{% block title %}KO Data Pipeline{% endblock %}
+{% macro tabbtn(key, label) %}<button role="tab" data-tab="{{ key }}"{{ ' aria-selected="true"'|safe if tab == key }}>{{ label }}</button>{% endmacro %}
+{% block content %}
+<h1>Knowledge Object Data Pipeline</h1>
+<p class="lead">Job 1 fetches open-access articles, Job 2 drafts a KO from them, and a person reviews every draft
+  before OrthoBot can use it. Documents your team uploads join the same inbox.</p>
+
+<div class="netstats">
+  {% for label, value in metrics %}<div><b>{{ value }}</b><span>{{ label }}</span></div>{% endfor %}
+</div>
+
+{% for rep in reports or [] %}
+  <div class="flash {{ 'success' if rep.status == 'ok' else 'error' if rep.status == 'error' else 'info status' }}" role="status">
+    <b>{{ rep.job|title }}: {{ rep.status }}.</b>
+    {% for k, v in rep.counts.items() %}{{ k }}: {{ v }}{{ ', ' if not loop.last }}{% else %}No changes.{% endfor %}
+    {% if rep.cost is not none %} · about ${{ rep.cost }}{% endif %}
+    {% if rep.messages %}<ul class="small">{% for m in rep.messages %}<li>{{ m }}</li>{% endfor %}</ul>{% endif %}
+    {% if rep.counts.get('KOs in review queue') %}<a href="{{ url_for('ko.review_page') }}">Open the Review queue</a>{% endif %}
+  </div>
+{% endfor %}
+
+<form class="card" method="post" action="{{ url_for('ko.pipeline_run') }}" id="run-form">
+  <input type="hidden" name="csrf_token" value="{{ csrf }}">
+  <h3>Run the jobs</h3>
+  <div class="seg" role="radiogroup" aria-label="Job 1 runs for">
+    <label><input type="radio" name="mode" value="auto" checked> Topics with no KO yet</label>
+    <label><input type="radio" name="mode" value="chosen"> Topics I choose</label>
+  </div>
+  <p class="muted small" id="auto-note">Up to {{ s.pipeline_topics_per_fetch }} topics with no KO that still need articles (what the daily schedule does).</p>
+  <div id="topic-pick" hidden>
+    {% if fetchable %}
+      <div class="checks scrollbox">{% for c in fetchable %}
+        <label><input type="checkbox" name="topic" value="{{ c.ko_id }}"> {{ c.preferred_term }} <span class="muted small">{{ c.ko_id }} · {{ new_counts[c.ko_id] }} new</span></label>{% endfor %}</div>
+    {% else %}<p class="muted small">Every topic already has a KO or a KO in review. Add a topic under Suggested topics or KO Topics.</p>{% endif %}
+  </div>
+  <div class="btnrow">
+    <button name="job" value="fetch"{{ ' disabled' if not can_edit }}>Run Job 1: Fetch articles</button>
+    <button name="job" value="generate"{{ ' disabled' if not (can_edit and s.ai_ready) }} title="Uses the AI (about $0.10-0.20 per KO)">Run Job 2: Make {{ s.pipeline_kos_per_run }} KO (AI)</button>
+    <button name="job" value="template" class="secondary"{{ ' disabled' if not can_edit }} title="No AI: a person writes the draft in the Review queue">Job 2 without AI: template draft</button>
+    <button name="job" value="both" class="secondary"{{ ' disabled' if not (can_edit and s.ai_ready) }}>Run both</button>
+  </div>
+  {% if not s.ai_ready %}<p class="muted small">Job 2 with AI needs a Claude or OpenAI key in <code>.env</code>. Without one, make template drafts.</p>{% endif %}
+  {% if not can_edit %}<p class="muted small">Read only: sign in as an editor to run jobs.</p>{% endif %}
+  <p class="muted small">Job 1 can take a minute or two (it waits between requests, as NCBI asks).</p>
+</form>
+
+<div class="tabs" data-tabs>
+  <div class="tablist" role="tablist">
+    {{ tabbtn("inbox", "Article inbox") }}{{ tabbtn("upload", "Upload a document") }}{{ tabbtn("runs", "Run history") }}
+    {{ tabbtn("suggested", "Suggested topics") }}{{ tabbtn("how", "How it works") }}{{ tabbtn("settings", "Settings & schedule") }}
+  </div>
+
+  <section class="tabpanel" data-panel="inbox">
+    {% if not inbox.new and not inbox.used and not inbox.skipped %}<div class="notice">The inbox is empty. Run Job 1, or upload a document.</div>{% endif %}
+    {% for status, heading, info in sections %}
+      <h3>{{ heading }} ({{ inbox[status]|length }}) <span class="help" title="{{ info }}">?</span></h3>
+      {% if inbox[status] %}
+      <div class="table-wrap card"><table class="small">
+        <tr><th>Topic</th><th>Article</th><th>Title</th><th>Journal / publisher</th><th>Date</th><th>License</th>
+          <th>{{ 'Text (chars)' if status == 'new' else 'Used in' if status == 'used' else 'Why skipped' }}</th></tr>
+        {% for a in inbox[status] %}<tr>
+          <td>{{ a.topic_id }}</td>
+          <td>{% if (a.meta.get('url') or '').startswith('http') %}<a href="{{ a.meta.url }}" target="_blank" rel="noopener">{{ a.pmcid }}</a>{% else %}{{ a.pmcid }}{% endif %}</td>
+          <td>{{ a.meta.get('title', '') }}</td><td>{{ a.meta.get('journal', '') }}</td><td>{{ a.meta.get('publication_date', '') }}</td>
+          <td>{{ (a.meta.get('license') or '')|upper }}</td>
+          <td>{{ a.text|length if status == 'new' else a.meta.get('used_in', '') if status == 'used' else a.meta.get('skip_reason', '') }}</td>
+        </tr>{% endfor %}
+      </table></div>
+      {% else %}<p class="muted small">No {{ heading|lower }} articles.</p>{% endif %}
+    {% endfor %}
+    <p class="muted small">Each article is a Markdown file in <code>data/pipeline/articles/&lt;topic&gt;/</code>. Skipped ones keep only the reason.</p>
+  </section>
+
+  <section class="tabpanel" data-panel="upload" hidden>
+    <p>Add a document your team has the right to use: a partner report, a guideline, an article, a protocol. It goes
+      through automatic checks into the article inbox, Job 2 drafts a KO from it (with other articles on the topic),
+      and a person reviews the draft. <b>No patient information</b> in documents; for structured records use
+      <a href="{{ url_for('ko.data_page', tab='upload') }}">Data Skeleton</a>.</p>
+    <form class="card" method="post" action="{{ url_for('ko.pipeline_upload') }}" enctype="multipart/form-data">
+      <input type="hidden" name="csrf_token" value="{{ csrf }}">
+      <div class="row2">
+        <label class="field">Topic * <select name="topic" required>{% for c in topics %}<option value="{{ c.ko_id }}">{{ c.preferred_term }} · {{ c.ko_id }}</option>{% endfor %}</select></label>
+        <label class="field">Title * <input name="title" required></label>
+      </div>
+      <div class="row3">
+        <label class="field">Publisher / organization <input name="publisher" placeholder="e.g. Partner clinic, AAOS"></label>
+        <label class="field">Link (if public) <input name="url" placeholder="https://..."></label>
+        <label class="field">Date on the document <input name="date" placeholder="e.g. 2026-05"></label>
+      </div>
+      <div class="row3">
+        <label class="field">License <input name="license" placeholder="e.g. CC BY 4.0, internal, permission given"></label>
+        <label class="field">Reuse rules <select name="permitted_use">{% for p in permitted %}<option{{ ' selected' if p == '<verify>' }}>{{ p }}</option>{% endfor %}</select></label>
+        <label class="field">Your name * <input name="name" required value="{{ session.get('reviewer_name', '') }}"></label>
+      </div>
+      <label class="field">File (.txt, .md or .html) <input type="file" name="file" accept=".txt,.md,.markdown,.html,.htm"></label>
+      <label class="field">…or paste the text <textarea name="text" rows="8" placeholder="At least 500 characters"></textarea></label>
+      <p class="muted small">Automatic checks: the topic exists, it has a title and 500+ characters of text, the reuse
+        rules allow it (not "restricted"), and the same text wasn't added before.</p>
+      <button{{ ' disabled' if not can_edit }}>Add to the article inbox</button>
+    </form>
+  </section>
+
+  <section class="tabpanel" data-panel="runs" hidden>
+    {% if runs %}<div class="table-wrap card"><table class="small">
+      <tr><th>Started</th><th>Job</th><th>Status</th><th>Counts</th><th>Cost (USD)</th><th>Notes</th></tr>
+      {% for r in runs %}<tr><td>{{ r.started }}</td><td>{{ r.job }}</td><td>{{ r.status }}</td>
+        <td>{% for k, v in (r.counts or {}).items() %}{{ k }}: {{ v }}{{ ', ' if not loop.last }}{% endfor %}</td>
+        <td>{{ r.est_cost_usd if r.est_cost_usd is not none }}</td><td>{{ (r.messages or [])|join(' · ') }}</td></tr>{% endfor %}
+    </table></div>{% else %}<div class="notice">No runs yet.</div>{% endif %}
+  </section>
+
+  <section class="tabpanel" data-panel="suggested" hidden>
+    <p class="muted">New topics our KOs point to (their proposed concepts), most often proposed first. Add one to KO Topics and Job 1 will look for articles about it.</p>
+    {% for it in suggested %}
+      <form class="card suggest" method="post" action="{{ url_for('ko.pipeline_add_topic') }}">
+        <input type="hidden" name="csrf_token" value="{{ csrf }}"><input type="hidden" name="term" value="{{ it.term }}">
+        <div><b>{{ it.term }}</b> <span class="muted small">· {{ it.ko_type }} · suggested by {{ it['from']|join(', ') }}</span>
+          {% if it.reason %}<p class="muted small">{{ it.reason }}</p>{% endif %}</div>
+        <button class="secondary"{{ ' disabled' if not can_edit }}>Add topic</button>
+      </form>
+    {% else %}<div class="notice">No suggestions right now.</div>{% endfor %}
+  </section>
+
+  <section class="tabpanel" data-panel="how" hidden>
+    <iframe class="guide tall" src="{{ url_for('ko.pipeline_diagram') }}" title="How the KO data pipeline works" loading="lazy"></iframe>
+    <p><a href="{{ url_for('ko.pipeline_guide') }}" target="_blank" rel="noopener">Open the full step-by-step guide</a></p>
+  </section>
+
+  <section class="tabpanel" data-panel="settings" hidden>
+    <p>Change these in the <code>.env</code> file, then restart the app.</p>
+    <div class="table-wrap card"><table class="small"><tr><th>Setting</th><th>Now</th><th>Meaning</th></tr>
+      {% for k, v, m in settings_rows %}<tr><td><code>{{ k }}</code></td><td>{{ v }}</td><td>{{ m }}</td></tr>{% endfor %}</table></div>
+    <h3>Run it every day on this computer</h3>
+    <p class="small">Windows (Task Scheduler, in a terminal):</p>
+    <pre>schtasks /Create /SC DAILY /ST 07:00 /TN "KO pipeline" /TR "cmd /c cd /d &lt;project folder&gt; &amp;&amp; .venv\Scripts\okds.exe pipeline run &gt;&gt; data\pipeline\task.log 2&gt;&amp;1"</pre>
+    <p class="small">macOS / Linux (crontab):</p>
+    <pre>0 7 * * *  cd &lt;project folder&gt; &amp;&amp; .venv/bin/okds pipeline run &gt;&gt; data/pipeline/cron.log 2&gt;&amp;1</pre>
+    <p class="small">Without an AI key use <code>okds pipeline run --template</code>. <b>Later in the cloud:</b> EventBridge Scheduler
+      runs each job as an AWS Lambda function; the inbox, queue and library move to S3, and the AI key to Secrets Manager.</p>
+  </section>
+</div>
+{% endblock %}
+{% block page_scripts %}<script>
+(function(){const f=document.getElementById("run-form");const sync=()=>{const chosen=f.querySelector('input[name=mode]:checked').value==="chosen";
+ document.getElementById("topic-pick").hidden=!chosen;document.getElementById("auto-note").hidden=chosen;};
+ f.querySelectorAll('input[name=mode]').forEach(r=>r.addEventListener("change",sync));sync();
+ f.addEventListener("submit",e=>{const b=e.submitter;if(b){setTimeout(()=>{b.disabled=true;b.textContent="Working… (this can take a minute)";},0)}});})();
+</script>{% endblock %}

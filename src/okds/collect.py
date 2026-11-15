@@ -28,7 +28,6 @@ import html
 import json
 import os
 import re
-import ssl
 import time
 import urllib.error
 import urllib.parse
@@ -38,7 +37,7 @@ from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Any
 
-import certifi
+from .tls import tls_context
 
 USER_AGENT = "OKDS-portal/0.2 (student research project; open-access source collection)"
 TIMEOUT = 30
@@ -66,18 +65,7 @@ class Candidate:
 
 # ---------------------------------------------------------------- HTTP
 
-def _tls() -> ssl.SSLContext:
-    """The operating system's certificate store when `truststore` is installed (needed on campus/corporate
-    networks that inspect TLS), else certifi's bundle."""
-    try:
-        import truststore
-
-        return truststore.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
-    except ImportError:
-        return ssl.create_default_context(cafile=certifi.where())
-
-
-_TLS = _tls()
+_TLS = tls_context()
 
 
 def _get(url: str, headers: dict[str, str] | None = None, retries: int = 3) -> str:

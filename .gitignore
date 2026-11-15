@@ -20,3 +20,11 @@ venv/
 # Generated files (rebuilt from the Markdown KOs) and local logs
 data/build/
 data/logs/
+
+# KO pipeline: the run lock (the inbox, queue, and run log are kept, as in the okds repo)
+data/pipeline/.lock
+
+# Data skeleton: uploaded record batches stay on this computer (they may be real, de-identified partner data).
+# Only the synthetic sample batch is kept in the repository.
+data/records/*/batches/*
+!data/records/rehab/batches/sample-synthetic/

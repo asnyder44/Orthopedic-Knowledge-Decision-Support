@@ -19,6 +19,8 @@ COPY data/processed/v2026-10-26 ./data/processed/v2026-10-26
 COPY data/kos ./data/kos
 COPY data/sources ./data/sources
 COPY data/registry.csv ./data/registry.csv
+# the synthetic sample batch only (.dockerignore keeps real uploads out of the image)
+COPY data/records ./data/records
 COPY index.html gunicorn.conf.py ./
 
 RUN useradd --system --no-create-home app && chown -R app /app/data

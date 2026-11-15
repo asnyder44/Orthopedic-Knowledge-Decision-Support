@@ -1,0 +1,157 @@
+{% extends "ko/layout.html" %}
+{% block title %}Review queue{% endblock %}
+{% block content %}
+<h1>Review queue</h1>
+<p class="lead">A person checks everything before it is used: KO drafts from the pipeline, drafts already in the library,
+  and uploaded data batches. Accept with your name, or reject with a reason.</p>
+{% if not can_edit %}<div class="notice">Read only: sign in as an editor to accept or reject.
+  {% if login_available %}<a href="{{ url_for('ko.login', next=request.full_path) }}">Sign in</a>{% endif %}</div>{% endif %}
+
+<div class="subtabs">
+  <a class="{{ 'on' if tab == 'queue' }}" href="{{ url_for('ko.review_page', tab='queue') }}">Pipeline drafts ({{ items|length }})</a>
+  <a class="{{ 'on' if tab == 'library' }}" href="{{ url_for('ko.review_page', tab='library') }}">Library drafts ({{ drafts|length }})</a>
+  <a class="{{ 'on' if tab == 'data' }}" href="{{ url_for('ko.review_page', tab='data') }}">Data batches ({{ batches|length }})</a>
+</div>
+
+{% if tab in ('queue', 'library') %}
+  {% set list = items if tab == 'queue' else drafts %}
+  {% if not list %}
+    <div class="notice">{% if tab == 'queue' %}Nothing to review. <a href="{{ url_for('ko.pipeline_page') }}">Run the pipeline</a> to make a KO draft.{% else %}Every KO in the library has been checked by a person.{% endif %}</div>
+  {% else %}
+  <div class="libcols sel">
+    <div class="liblist">
+      <p class="muted small">{{ list|length }} waiting{% if tab == 'library' %} · KOs in the library still marked draft (OrthoBot {{ 'uses' if settings.orthobot_min_status == 'draft' else 'does not use' }} them){% endif %}</p>
+      {% for it in list %}
+        {% set title = (it.doc.front.get('title', it.ko_id) if it.doc else it.ko_id ~ ' (cannot read)') %}
+        <a class="kocard{{ ' on' if it.ko_id == selected }}" href="{{ url_for('ko.review_page', tab=tab, ko=it.ko_id) }}">
+          <b>{{ title }}</b><span class="muted small">{{ it.ko_id }}{% if tab == 'queue' %} · made {{ (it.notes.get('created') or '')[:10] }} · {{ it.notes.get('model', '') }}{% endif %}</span></a>
+      {% endfor %}
+    </div>
+    <div class="libdetail card">
+      {% if detail.error %}
+        <div class="flash error">This KO can't be read: {{ detail.error }}. Fix it in the Edit box below.</div>
+      {% else %}
+        <h2>{{ detail.title }}</h2>
+        <p><span class="chip ai">Pending review</span><span class="chip">{{ detail.ko_id }}</span><span class="chip">{{ detail.sources|length }} sources</span>
+          {% if detail.notes.get('model') %}<span class="chip">Made by {{ detail.notes.model }}</span>{% endif %}</p>
+        {% if detail.summary %}<p class="lead-box">{{ detail.summary }}</p>{% endif %}
+      {% endif %}
+      <div class="status {{ 'bad' if detail.errors else 'info' if detail.warnings else 'ok' }}">
+        {% if detail.errors %}{{ detail.errors|length }} problem(s) to fix before it can be accepted.{% elif detail.warnings %}No problems; {{ detail.warnings|length }} thing(s) to double-check.{% else %}No problems found.{% endif %}</div>
+      <div class="tabs" data-tabs>
+        <div class="tablist" role="tablist">
+          <button type="button" role="tab" data-tab="preview" aria-selected="true">Preview</button>
+          <button type="button" role="tab" data-tab="sources">Sources</button>
+          {% if tab == 'queue' %}<button type="button" role="tab" data-tab="edit">Edit</button>{% endif %}
+          <button type="button" role="tab" data-tab="checks">Checks</button>
+        </div>
+        <div class="tabpanel prose" data-panel="preview">
+          {{ detail.body if not detail.error }}
+          {% if detail.open_issues %}<details><summary>Open issues listed with the draft ({{ detail.open_issues|length }})</summary>
+            <ul>{% for i in detail.open_issues %}<li>{{ i }}</li>{% endfor %}</ul></details>{% endif %}
+        </div>
+        <div class="tabpanel" data-panel="sources" hidden>
+          {% for src in detail.sources %}
+            <p><b>[{{ src.get('id') }}]</b> {% if (src.get('url') or '').startswith('http') %}<a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.get('title', src.url) }}</a>{% else %}{{ src.get('title', '') }}{% endif %}<br>
+              <span class="muted small">{{ src.get('publisher', '') }} · {{ src.get('publication_date', '') }} · reuse: {{ src.get('permitted_use', '') }}<br>{{ src.get('notes', '') }}</span></p>
+          {% endfor %}
+          {% if detail.pack %}<details><summary>The text the draft was written from (source pack)</summary><pre>{{ detail.pack }}</pre></details>{% endif %}
+        </div>
+        {% if tab == 'queue' %}
+        <div class="tabpanel" data-panel="edit" hidden>
+          <p class="muted small">Change the text here, then Save changes, or accept it with your changes.</p>
+          <textarea class="ed-text mono" rows="24" form="accept-form" name="text" id="review-text">{{ detail.text }}</textarea>
+          <p><button class="secondary" form="accept-form" formaction="{{ url_for('ko.review_save', ko_id=detail.ko_id) }}"{{ ' disabled' if not can_edit }}>Save changes</button>
+            <span class="muted small" id="review-live"></span></p>
+        </div>
+        {% endif %}
+        <div class="tabpanel" data-panel="checks" hidden>
+          {% if detail.errors %}<p><b>Problems to fix ({{ detail.errors|length }})</b></p><ul class="bad">{% for e in detail.errors %}<li>{{ e }}</li>{% endfor %}</ul>{% endif %}
+          {% if detail.warnings %}<p><b>Double-check ({{ detail.warnings|length }})</b></p><ul class="warn">{% for e in detail.warnings %}<li>{{ e }}</li>{% endfor %}</ul>{% endif %}
+          {% for n in detail.notes.get('generator_notes') or [] %}<p class="muted small">Generator note: {{ n }}</p>{% endfor %}
+        </div>
+      </div>
+
+      <div class="card decision">
+        <h3>Your decision</h3>
+        <form method="post" id="accept-form" action="{{ url_for('ko.review_accept', ko_id=detail.ko_id) }}">
+          <input type="hidden" name="csrf_token" value="{{ csrf }}"><input type="hidden" name="mode" value="{{ tab }}">
+          <label class="field">Your name * <input name="name" required value="{{ name }}" placeholder="Saved with the KO as the person who checked it"></label>
+          <button{{ ' disabled' if not can_edit }}>✓ Accept → KO Library (team checked)</button>
+          {% if tab == 'library' %}<a class="btn secondary" href="{{ url_for('ko.manage_edit', ko_id=detail.ko_id) }}">Edit it in Manage first</a>{% endif %}
+        </form>
+        {% if tab == 'queue' %}
+        <details><summary>Reject</summary>
+          <form method="post" action="{{ url_for('ko.review_reject', ko_id=detail.ko_id) }}">
+            <input type="hidden" name="csrf_token" value="{{ csrf }}"><input type="hidden" name="name" value="{{ name }}" class="mirror-name">
+            <label class="field">Why? * <textarea name="reason" rows="2" required placeholder="e.g. Facts not supported by the sources"></textarea></label>
+            <button class="danger"{{ ' disabled' if not can_edit }}>Reject this KO</button>
+          </form></details>
+        {% endif %}
+        <p class="muted small">Accept sets the review status to <b>team checked</b> with your name and today's date.
+          {% if settings.orthobot_min_status == 'team_checked' %}OrthoBot answers only from team-checked KOs (OKDS_ORTHOBOT_MIN_STATUS).{% else %}To make OrthoBot answer only from checked KOs, set OKDS_ORTHOBOT_MIN_STATUS=team_checked.{% endif %}</p>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+{% else %}{# ------------------------------------------------ data batches #}
+  {% if not data_detail %}
+    <div class="notice">No data batches waiting. Upload one on the <a href="{{ url_for('ko.data_page', tab='upload') }}">Data Skeleton</a> page.</div>
+  {% else %}
+  {% set b = data_detail.batch %}
+  <div class="libcols sel">
+    <div class="liblist">
+      {% for x in batches %}<a class="kocard{{ ' on' if x.id == b.id }}" href="{{ url_for('ko.review_page', tab='data', batch=x.id) }}">
+        <b>Batch {{ x.id }}</b><span class="muted small">{{ x.model }} · {{ x.meta.get('uploaded_by', '') }} · {{ 'synthetic' if x.meta.get('synthetic') else 'real (de-identified)' }}</span></a>{% endfor %}
+    </div>
+    <div class="libdetail card">
+      <h2>Batch {{ b.id }}</h2>
+      <p><span class="chip ai">Pending review</span><span class="chip">model: {{ b.model }} v{{ b.meta.get('model_version', '') }}</span>
+        <span class="chip">{{ 'Synthetic (no real people)' if b.meta.get('synthetic') else 'Real, de-identified' }}</span></p>
+      <p class="small">Uploaded by {{ b.meta.get('uploaded_by', '') }} on {{ b.meta.get('created', '') }} · shared under: {{ b.meta.get('agreement', '') }}
+        {% if b.meta.get('note') %}<br>Note: {{ b.meta.note }}{% endif %}</p>
+      <div class="status ok">Passed the automatic checks (model rules and privacy screen).</div>
+      <h3>Rows</h3>
+      <p class="small">{% for e, n in data_detail.counts.items() %}<span class="chip">{{ e }}: {{ n }}</span>{% endfor %}</p>
+      {% if b.meta.get('warnings') %}<details><summary>Things to double-check ({{ b.meta.warnings|length }})</summary><ul class="warn small">{% for w in b.meta.warnings %}<li>{{ w }}</li>{% endfor %}</ul></details>{% endif %}
+      {% if can_edit %}
+      <details><summary>Look at the first rows of each table</summary>
+        {% for e, rows in data_detail.preview.items() if rows %}
+          <p><b>{{ e }}</b></p><div class="table-wrap"><table class="small"><tr>{% for k in rows[0].keys() %}<th>{{ k }}</th>{% endfor %}</tr>
+          {% for r in rows %}<tr>{% for v in r.values() %}<td>{{ v }}</td>{% endfor %}</tr>{% endfor %}</table></div>
+        {% endfor %}
+      </details>
+      {% endif %}
+      <div class="card decision">
+        <h3>Your decision</h3>
+        <form method="post" action="{{ url_for('ko.data_decide', batch_id=b.id) }}">
+          <input type="hidden" name="csrf_token" value="{{ csrf }}"><input type="hidden" name="model" value="{{ b.model }}">
+          <label class="field">Your name * <input name="name" required value="{{ name }}"></label>
+          <label class="field">Reason (needed to reject) <input name="reason" placeholder="e.g. Not de-identified enough; wrong study"></label>
+          <div class="btnrow"><button name="decision" value="accept"{{ ' disabled' if not can_edit }}>✓ Accept batch</button>
+            <button name="decision" value="reject" class="danger"{{ ' disabled' if not can_edit }}>Reject batch</button></div>
+        </form>
+        <p class="muted small">Check that the data is de-identified, that it is shared under the stated agreement, and that
+          the values make sense. Accepted batches count in the Data Skeleton summaries and link into the Discovery Network.</p>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+{% endif %}
+
+<details class="card"><summary>Recent decisions</summary>
+  {% if decisions %}<div class="table-wrap"><table class="small"><tr><th>Time</th><th>Item</th><th>Decision</th><th>By</th><th>Reason</th></tr>
+  {% for d in decisions %}<tr><td>{{ d.time }}</td><td>{{ d.ko_id }}</td><td>{{ d.decision }}</td><td>{{ d.get('reviewer', '') }}</td><td>{{ d.get('reason', '') }}</td></tr>{% endfor %}</table></div>
+  {% else %}<p class="muted small">No decisions yet.</p>{% endif %}
+</details>
+{% endblock %}
+{% block page_scripts %}<script>
+(function(){ // keep the reject form's name in step with the accept form's; live checks while editing
+ const nameIn=document.querySelector('#accept-form input[name=name]');
+ if(nameIn) nameIn.addEventListener("input",()=>document.querySelectorAll(".mirror-name").forEach(m=>{m.value=nameIn.value}));
+ const ta=document.getElementById("review-text"), live=document.getElementById("review-live"); if(!ta) return; let t=null;
+ ta.addEventListener("input",()=>{clearTimeout(t);t=setTimeout(async()=>{try{const j=await KO.post("{{ url_for('ko.api_check') }}",{text:ta.value});
+  live.textContent=j.ok?(j.warnings.length?`No problems; ${j.warnings.length} to double-check.`:"No problems."):`${j.errors.length} problem(s): ${j.errors[0]}`;}catch(e){live.textContent=e.message}},500)});
+})();
+</script>{% endblock %}

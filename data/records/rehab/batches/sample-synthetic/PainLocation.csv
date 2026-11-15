@@ -1,0 +1,115 @@
+location_id,pain_id,body_site,side
+PLC-0001,PA-0001,knee,right
+PLC-0002,PA-0002,knee,right
+PLC-0003,PA-0003,knee,right
+PLC-0004,PA-0004,knee,right
+PLC-0005,PA-0005,knee,both
+PLC-0006,PA-0006,knee,left
+PLC-0007,PA-0007,wrist,right
+PLC-0008,PA-0008,wrist,right
+PLC-0009,PA-0009,wrist,both
+PLC-0010,PA-0010,elbow,left
+PLC-0011,PA-0011,elbow,both
+PLC-0012,PA-0012,elbow,right
+PLC-0013,PA-0013,elbow,right
+PLC-0014,PA-0014,elbow,both
+PLC-0015,PA-0015,wrist,right
+PLC-0016,PA-0016,wrist,right
+PLC-0017,PA-0017,wrist,right
+PLC-0018,PA-0018,wrist,left
+PLC-0019,PA-0019,wrist,both
+PLC-0020,PA-0020,wrist,left
+PLC-0021,PA-0021,knee,left
+PLC-0022,PA-0022,knee,right
+PLC-0023,PA-0023,knee,left
+PLC-0024,PA-0024,wrist,right
+PLC-0025,PA-0025,wrist,left
+PLC-0026,PA-0026,spine,not applicable
+PLC-0027,PA-0027,spine,not applicable
+PLC-0028,PA-0028,spine,not applicable
+PLC-0029,PA-0029,wrist,right
+PLC-0030,PA-0030,wrist,left
+PLC-0031,PA-0031,wrist,left
+PLC-0032,PA-0032,wrist,right
+PLC-0033,PA-0033,wrist,left
+PLC-0034,PA-0034,wrist,right
+PLC-0035,PA-0035,spine,not applicable
+PLC-0036,PA-0036,spine,not applicable
+PLC-0037,PA-0037,spine,not applicable
+PLC-0038,PA-0038,wrist,left
+PLC-0039,PA-0039,wrist,right
+PLC-0040,PA-0040,knee,left
+PLC-0041,PA-0041,knee,both
+PLC-0042,PA-0042,knee,right
+PLC-0043,PA-0043,knee,left
+PLC-0044,PA-0044,knee,left
+PLC-0045,PA-0045,knee,right
+PLC-0046,PA-0046,elbow,both
+PLC-0047,PA-0047,elbow,left
+PLC-0048,PA-0048,elbow,left
+PLC-0049,PA-0049,knee,left
+PLC-0050,PA-0050,knee,right
+PLC-0051,PA-0051,knee,right
+PLC-0052,PA-0052,spine,not applicable
+PLC-0053,PA-0053,spine,not applicable
+PLC-0054,PA-0054,spine,not applicable
+PLC-0055,PA-0055,knee,left
+PLC-0056,PA-0056,knee,right
+PLC-0057,PA-0057,spine,not applicable
+PLC-0058,PA-0058,spine,not applicable
+PLC-0059,PA-0059,spine,not applicable
+PLC-0060,PA-0060,knee,right
+PLC-0061,PA-0061,knee,right
+PLC-0062,PA-0062,knee,left
+PLC-0063,PA-0063,wrist,right
+PLC-0064,PA-0064,wrist,right
+PLC-0065,PA-0065,wrist,right
+PLC-0066,PA-0066,spine,not applicable
+PLC-0067,PA-0067,spine,not applicable
+PLC-0068,PA-0068,knee,right
+PLC-0069,PA-0069,knee,left
+PLC-0070,PA-0070,knee,right
+PLC-0071,PA-0071,knee,right
+PLC-0072,PA-0072,knee,left
+PLC-0073,PA-0073,knee,right
+PLC-0074,PA-0074,wrist,left
+PLC-0075,PA-0075,wrist,left
+PLC-0076,PA-0076,wrist,right
+PLC-0077,PA-0077,wrist,right
+PLC-0078,PA-0078,wrist,left
+PLC-0079,PA-0079,elbow,both
+PLC-0080,PA-0080,elbow,both
+PLC-0081,PA-0081,elbow,both
+PLC-0082,PA-0082,elbow,left
+PLC-0083,PA-0083,elbow,right
+PLC-0084,PA-0084,elbow,both
+PLC-0085,PA-0085,elbow,left
+PLC-0086,PA-0086,elbow,right
+PLC-0087,PA-0087,elbow,right
+PLC-0088,PA-0088,knee,left
+PLC-0089,PA-0089,knee,left
+PLC-0090,PA-0090,knee,both
+PLC-0091,PA-0091,knee,right
+PLC-0092,PA-0092,knee,left
+PLC-0093,PA-0093,knee,right
+PLC-0094,PA-0094,knee,right
+PLC-0095,PA-0095,knee,left
+PLC-0096,PA-0096,knee,right
+PLC-0097,PA-0097,wrist,left
+PLC-0098,PA-0098,wrist,right
+PLC-0099,PA-0099,wrist,right
+PLC-0100,PA-0100,spine,not applicable
+PLC-0101,PA-0101,spine,not applicable
+PLC-0102,PA-0102,spine,not applicable
+PLC-0103,PA-0103,knee,both
+PLC-0104,PA-0104,knee,left
+PLC-0105,PA-0105,knee,right
+PLC-0106,PA-0106,wrist,right
+PLC-0107,PA-0107,wrist,right
+PLC-0108,PA-0108,wrist,right
+PLC-0109,PA-0109,knee,both
+PLC-0110,PA-0110,knee,right
+PLC-0111,PA-0111,knee,left
+PLC-0112,PA-0112,spine,not applicable
+PLC-0113,PA-0113,spine,not applicable
+PLC-0114,PA-0114,spine,not applicable

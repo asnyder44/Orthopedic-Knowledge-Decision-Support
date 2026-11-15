@@ -1,0 +1,159 @@
+{% extends "ko/layout.html" %}
+{% block title %}Data Skeleton{% endblock %}
+{% macro tabbtn(key, label) %}<button role="tab" data-tab="{{ key }}"{{ ' aria-selected="true"'|safe if tab == key }}>{{ label }}</button>{% endmacro %}
+{% block content %}
+<h1>Data Skeleton</h1>
+<p class="lead">A ready-made structure for partner data. The project doesn't have the IMPACT partner data yet, so this
+  defines <b>what the data should look like</b> and <b>how it flows</b>: upload → automatic checks (including a
+  privacy screen) → a person reviews the batch → accepted records are summarized and linked to the Knowledge Objects.</p>
+<div class="proto-banner" role="note"><b>Skeleton.</b> It ships with <b>made-up sample data only</b>. Real records
+  must be de-identified and shared under a data agreement (e.g. an IRB-approved data use agreement) before upload.</div>
+
+{% if models|length > 1 %}
+<form method="get" class="libfilter"><label for="m">Data model</label>
+  <select id="m" name="model" onchange="this.form.submit()">{% for n, mm in models.items() %}<option value="{{ n }}"{{ ' selected' if n == model.name }}>{{ mm.title }}</option>{% endfor %}</select></form>
+{% endif %}
+{% for e in model_errors %}<div class="flash error">A data model file has a problem and was skipped: {{ e }}</div>{% endfor %}
+
+<div class="flowstrip" aria-label="How data flows">
+  <div><b>1 · Model</b><span>{{ model.entities|length }} entities, {{ model_json.edges|length }} links</span></div>
+  <div><b>2 · Upload</b><span>CSV, ZIP or JSON</span></div>
+  <div><b>3 · Automatic checks</b><span>rules + privacy screen</span></div>
+  <div><b>4 · People check</b><span>Review queue</span></div>
+  <div><b>5 · Use</b><span>summaries + KO network</span></div>
+</div>
+
+<div class="tabs" data-tabs>
+  <div class="tablist" role="tablist">
+    {{ tabbtn("model", "Data model") }}{{ tabbtn("upload", "Upload") }}{{ tabbtn("batches", "Batches (" ~ batches|length ~ ")") }}
+    {{ tabbtn("summary", "Summaries") }}{{ tabbtn("kos", "Connected KOs") }}
+  </div>
+
+  <section class="tabpanel" data-panel="model">
+    <h2>{{ model.title }} <span class="muted small">model “{{ model.name }}” v{{ model.version }}</span></h2>
+    <p class="muted">{{ model.description }}</p>
+    <div class="netcols">
+      <div class="card">
+        <div class="dm-scroll"><svg id="dm-svg" role="img" aria-label="Data model: entities and how they connect"></svg></div>
+        <p class="muted small">Each box is a kind of record; each arrow is a link, labelled like the team's flow diagram.
+          Click a box to see its fields. Scroll sideways to see the whole model.</p>
+      </div>
+      <aside class="netside card" id="dm-panel"><div class="eyebrow">Entity</div><p class="muted">Pick a box to see its fields.</p></aside>
+    </div>
+    <p class="btnrow">
+      <a class="btn" href="{{ url_for('ko.data_template', model_name=model.name) }}">⤓ Empty templates + data dictionary (.zip)</a>
+      {% if model.name == 'rehab' %}<a class="btn secondary" href="{{ url_for('ko.data_sample', model_name=model.name) }}">⤓ Synthetic sample (.zip)</a>{% endif %}
+      <a class="btn secondary" href="{{ url_for('ko.data_model_json', model_name=model.name) }}">Model as JSON</a>
+    </p>
+    <details><summary>Data dictionary (every field)</summary>
+      {% for ename, e in model.entities.items() %}
+        <h4 id="ent-{{ ename }}">{{ ename }}</h4>{% if e.description %}<p class="muted small">{{ e.description }}</p>{% endif %}
+        <div class="table-wrap"><table class="small"><tr><th>Field</th><th>Type</th><th>Required</th><th>Links to</th><th>Allowed values / range</th><th>Meaning</th></tr>
+        {% for f in e.fields.values() %}<tr><td><code>{{ f.name }}</code></td><td>{{ f.type }}</td><td>{{ 'yes' if f.required or f.type == 'id' }}</td>
+          <td>{% if f.type == 'ref' %}{{ f.ref }} <span class="muted">({{ f.predicate }})</span>{% elif f.type == 'ko' %}KO: {{ f.ko_types|join(' / ') }}{% endif %}</td>
+          <td>{{ f['values']|join(', ') }}{% if f.min is not none or f.max is not none %}{{ f.min if f.min is not none }}–{{ f.max if f.max is not none }} {{ f.unit }}{% endif %}{% if f.max_length %}up to {{ f.max_length }} characters{% endif %}</td>
+          <td>{{ f.description }}</td></tr>{% endfor %}</table></div>
+      {% endfor %}
+    </details>
+    <details><summary>Add your own data model</summary>
+      <p class="small">Copy <code>src/okds/datamodels/rehab.yaml</code> to <code>data/models/&lt;name&gt;.yaml</code>, rename the model,
+        and describe your entities and fields (types: id, ref, ko, text, category, integer, number, boolean, day, year).
+        It appears here with its own diagram, templates, checks and review flow, without code changes.</p>
+    </details>
+  </section>
+
+  <section class="tabpanel" data-panel="upload" hidden>
+    <div class="grid cols-2">
+      <form class="card" method="post" action="{{ url_for('ko.data_upload') }}" enctype="multipart/form-data">
+        <input type="hidden" name="csrf_token" value="{{ csrf }}"><input type="hidden" name="model" value="{{ model.name }}">
+        <h3>Upload a batch</h3>
+        <label class="field">Files * <input type="file" name="files" multiple accept=".csv,.zip,.json"></label>
+        <p class="muted small">One CSV per entity named like <code>Patient.csv</code>, a .zip of them, or a .json
+          <code>{"Patient": [...], ...}</code>. Start from the empty templates.</p>
+        <fieldset><legend>What is it?</legend>
+          <label><input type="radio" name="kind" value="synthetic" checked> Synthetic / test data (no real people)</label>
+          <label><input type="radio" name="kind" value="real"> Real records, de-identified</label>
+        </fieldset>
+        <div id="real-fields" hidden>
+          <label><input type="checkbox" name="deidentified" value="yes"> I confirm the records are de-identified: no names, contact
+            details, record numbers, full dates, or other identifiers, and ages over 89 are “90+”.</label>
+          <label class="field">Data agreement / approval * <input name="agreement" placeholder="e.g. DUA-2026-014, IRB #12345"></label>
+        </div>
+        <label class="field">Your name * <input name="name" value="{{ name }}" required></label>
+        <label class="field">Note <input name="note" placeholder="e.g. Partner clinic, Q3 2026 export"></label>
+        <div class="btnrow"><button{{ ' disabled' if not can_edit }}>Check and send to review</button>
+          {% if model.name == 'rehab' %}<button name="use_sample" value="1" class="secondary" formnovalidate{{ ' disabled' if not can_edit }}>Use the synthetic sample</button>{% endif %}</div>
+        {% if not can_edit %}<p class="muted small">Read only: sign in as an editor to upload.</p>{% endif %}
+      </form>
+      <div class="card">
+        <h3>Before you upload</h3>
+        <ul class="small">
+          <li><b>De-identify first.</b> People are study codes (P-0001), ages are bands, time is “day N” since the
+            rehabilitation started, years only. No names, addresses, phone numbers, emails, record numbers or full dates.</li>
+          <li><b>Have permission.</b> Real patient-level records need an approved data agreement (and usually IRB approval).
+            If in doubt, upload summaries or use the synthetic sample.</li>
+          <li><b>Only the model's columns.</b> Extra columns are refused, so nothing identifying slips in.</li>
+          <li><b>Automatic checks:</b> required fields, types and ranges, allowed values, links between tables, KO links to
+            real topics of the right type, duplicate codes, and a privacy screen for emails, phone numbers, SSNs, dates,
+            record numbers, web and street addresses, and exact ages.</li>
+          <li><b>Then a person reviews</b> the batch in the Review queue. Only accepted batches are used. Summaries hide
+            groups smaller than 5.</li>
+          <li>Uploaded records are stored in <code>data/records/</code> on this computer and are <b>not</b> committed to git.</li>
+        </ul>
+      </div>
+    </div>
+    {% if check %}
+      <div class="card">
+        <h3>Last check: {{ 'passed' if check.ok else 'not saved' }}{% if check.batch %} (batch {{ check.batch }}){% endif %}</h3>
+        <p class="small">{% for e, n in check.counts.items() %}<span class="chip">{{ e }}: {{ n }}</span>{% endfor %}</p>
+        {% if check.errors %}<p><b>Problems ({{ check.n_errors }})</b></p><ul class="bad small">{% for e in check.errors %}<li>{{ e }}</li>{% endfor %}</ul>
+          {% if check.n_errors > check.errors|length %}<p class="muted small">…and {{ check.n_errors - check.errors|length }} more.</p>{% endif %}{% endif %}
+        {% if check.warnings %}<p><b>Double-check ({{ check.n_warnings }})</b></p><ul class="warn small">{% for e in check.warnings %}<li>{{ e }}</li>{% endfor %}</ul>{% endif %}
+      </div>
+    {% endif %}
+  </section>
+
+  <section class="tabpanel" data-panel="batches" hidden>
+    {% if batches %}<div class="table-wrap card"><table class="small">
+      <tr><th>Batch</th><th>Status</th><th>Kind</th><th>Uploaded</th><th>By</th><th>Rows</th><th>Decision</th></tr>
+      {% for b in batches %}<tr><td>{{ b.id }}</td><td><span class="chip{{ ' ai' if b.status == 'accepted' }}">{{ b.status }}</span></td>
+        <td>{{ 'synthetic' if b.meta.get('synthetic') else 'real (de-identified)' }}</td><td>{{ b.meta.get('created', '') }}</td><td>{{ b.meta.get('uploaded_by', '') }}</td>
+        <td>{{ b.meta.get('counts', {}).values()|sum }}</td>
+        <td>{% if b.status == 'pending' %}<a href="{{ url_for('ko.review_page', tab='data', batch=b.id) }}">Review</a>{% else %}{{ b.meta.get('reviewer', '') }} {{ b.meta.get('decided', '')[:10] }}{% if b.meta.get('reason') %} · {{ b.meta.reason }}{% endif %}{% endif %}</td></tr>{% endfor %}
+    </table></div>{% else %}<div class="notice">No batches yet. Upload one, or use the synthetic sample.</div>{% endif %}
+  </section>
+
+  <section class="tabpanel" data-panel="summary" hidden>
+    {% if not summary.people and not summary.entities|selectattr('rows')|list %}
+      <div class="notice">No accepted records yet. Summaries appear once a batch is accepted in the Review queue.</div>
+    {% else %}
+    <p class="muted">Accepted records only. Groups smaller than 5 show as “&lt;5”, and averages need at least 5 values.</p>
+    <div class="grid cols-3">
+      {% for e in summary.entities if e.rows %}
+      <div class="card">
+        <h4>{{ e.name }} <span class="muted small">{{ e.rows_shown }} rows</span></h4>
+        {% for c in e.categories %}
+          <p class="small"><b>{{ c.field }}</b></p>
+          {% set top = c['values'][0].n if c['values'] else 1 %}
+          {% for v in c['values'][:6] %}<div class="hbar"><span>{{ ko_titles.get(v.value, v.value) if c.type == 'ko' else v.value }}</span>
+            <span class="bar"><span style="width:{{ (v.n / top * 100)|round if v.count[0] != '<' else 4 }}%"></span></span><b>{{ v.count }}</b></div>{% endfor %}
+        {% endfor %}
+        {% for n in e.numbers %}<p class="small"><b>{{ n.field }}</b>: {% if n.mean is not none %}average {{ n.mean }}{{ ' ' ~ n.unit if n.unit }} (range {{ n.min }}–{{ n.max }}, n={{ n.n }}){% else %}too few values to show{% endif %}</p>{% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </section>
+
+  <section class="tabpanel" data-panel="kos" hidden>
+    <p class="muted">Fields of type <code>ko</code> connect the records to Knowledge Objects (conditions, procedures, treatments,
+      outcome measures). These links also show in the <a href="{{ url_for('ko.network_page') }}">Discovery Network</a>.</p>
+    {% if usage %}<div class="table-wrap card"><table class="small"><tr><th>Knowledge Object</th><th>Used in</th></tr>
+      {% for ko, fields in usage|dictsort %}<tr><td><a href="{{ url_for('ko.library', ko=ko) }}">{{ ko_titles.get(ko, ko) }}</a> <span class="muted">{{ ko }}</span></td>
+        <td>{% for f, n in fields.items() %}<span class="chip">{{ f }}: {{ n if n >= 5 else '<5' }}</span>{% endfor %}</td></tr>{% endfor %}
+    </table></div>{% else %}<div class="notice">No accepted records link to KOs yet.</div>{% endif %}
+  </section>
+</div>
+<script type="application/json" id="dm-data">{{ model_json|tojson }}</script>
+{% endblock %}
+{% block page_scripts %}<script src="{{ url_for('ko.static', filename='datamodel.js') }}"></script>{% endblock %}

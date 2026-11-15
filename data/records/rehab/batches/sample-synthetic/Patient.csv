@@ -1,0 +1,41 @@
+patient_id,age_band,sex,condition_ko,side
+P-0001,30-39,male,KO-SPORT-COND-001,left
+P-0002,80-89,male,KO-JOINT-COND-001,right
+P-0003,50-59,female,KO-TRAUMA-COND-002,left
+P-0004,40-49,female,KO-HAND-COND-002,left
+P-0005,70-79,male,KO-HAND-COND-002,left
+P-0006,40-49,male,KO-HAND-COND-001,right
+P-0007,50-59,female,KO-HAND-COND-001,right
+P-0008,80-89,male,KO-JOINT-COND-001,left
+P-0009,60-69,female,KO-HAND-COND-001,left
+P-0010,60-69,male,KO-SPINE-COND-001,not applicable
+P-0011,70-79,female,KO-HAND-COND-001,right
+P-0012,40-49,male,KO-HAND-COND-001,left
+P-0013,70-79,male,KO-SPINE-COND-001,not applicable
+P-0014,50-59,female,KO-HAND-COND-001,left
+P-0015,80-89,male,KO-SPORT-COND-001,left
+P-0016,70-79,not stated,KO-JOINT-COND-001,left
+P-0017,50-59,not stated,KO-HAND-COND-002,left
+P-0018,50-59,not stated,KO-SPORT-COND-001,right
+P-0019,50-59,male,KO-SPINE-COND-001,not applicable
+P-0020,60-69,female,KO-SPORT-COND-001,left
+P-0021,40-49,male,KO-SPINE-COND-001,not applicable
+P-0022,80-89,male,KO-SPORT-COND-001,right
+P-0023,40-49,female,KO-HAND-COND-001,right
+P-0024,70-79,not stated,KO-SPINE-COND-001,not applicable
+P-0025,60-69,female,KO-JOINT-COND-001,left
+P-0026,80-89,male,KO-SPORT-COND-001,left
+P-0027,40-49,male,KO-HAND-COND-001,right
+P-0028,40-49,female,KO-TRAUMA-COND-002,left
+P-0029,80-89,female,KO-HAND-COND-002,right
+P-0030,40-49,female,KO-HAND-COND-002,left
+P-0031,40-49,male,KO-HAND-COND-002,left
+P-0032,80-89,female,KO-SPORT-COND-001,left
+P-0033,50-59,female,KO-JOINT-COND-001,left
+P-0034,30-39,female,KO-SPORT-COND-001,right
+P-0035,50-59,not stated,KO-TRAUMA-COND-002,left
+P-0036,70-79,male,KO-SPINE-COND-001,not applicable
+P-0037,50-59,not stated,KO-JOINT-COND-001,right
+P-0038,40-49,male,KO-HAND-COND-001,right
+P-0039,60-69,female,KO-JOINT-COND-001,right
+P-0040,50-59,male,KO-SPINE-COND-001,not applicable

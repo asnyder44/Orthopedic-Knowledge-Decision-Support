@@ -50,6 +50,27 @@ class Settings:
     search_method: str = "hybrid"  # OrthoBot: keyword | semantic | hybrid (falls back to keyword)
     embedding_model: str = DEFAULT_EMBEDDING_MODEL
     semantic_enabled: bool = True  # needs the "semantic" extra; otherwise OrthoBot uses keyword search
+    # KO pipeline (from the okds repo; local now, AWS Lambda + EventBridge + S3 later)
+    pipeline_kos_per_run: int = 1          # Job 2 makes at most this many KOs per run (1 per day for now)
+    pipeline_topics_per_fetch: int = 3     # Job 1 looks for articles for this many topics per run
+    pipeline_articles_per_topic: int = 3   # most articles kept per topic (they become the KO's sources)
+    pipeline_min_articles: int = 2         # a topic needs this many new articles before a KO is made
+    pipeline_max_chars: int = 15000        # longest article text kept (keeps the AI cost low)
+    contact_email: str = ""                # sent to NCBI with API calls, as NCBI asks (optional)
+    # Which KOs OrthoBot answers from: "draft" = every KO in the library; "team_checked" = only KOs a person
+    # accepted (the pipeline diagram's rule). Statuses rank draft < ai_checked < team_checked < ... < published.
+    orthobot_min_status: str = "draft"
+    jobs_in_lambda: bool = False           # hosted later: the Run buttons start AWS Lambda jobs instead
+
+    @property
+    def pipeline_dir(self) -> Path:
+        """Article inbox, review queue, rejected KOs, and run log of the KO pipeline."""
+        return self.data_dir / "pipeline"
+
+    @property
+    def records_dir(self) -> Path:
+        """Data skeleton: uploaded record batches (pending / accepted / rejected), by data model."""
+        return self.data_dir / "records"
 
     @property
     def ai_ready(self) -> bool:
@@ -115,7 +136,21 @@ def get_settings() -> Settings:
         search_method=os.environ.get("OKDS_SEARCH", "hybrid").lower(),
         embedding_model=os.environ.get("OKDS_EMBEDDING_MODEL", DEFAULT_EMBEDDING_MODEL),
         semantic_enabled=os.environ.get("OKDS_SEMANTIC", "true").strip().lower() not in {"0", "false", "no", "off"},
+        pipeline_kos_per_run=_int_env("OKDS_PIPELINE_KOS_PER_RUN", 1),
+        pipeline_topics_per_fetch=_int_env("OKDS_PIPELINE_TOPICS_PER_FETCH", 3),
+        pipeline_articles_per_topic=_int_env("OKDS_PIPELINE_ARTICLES_PER_TOPIC", 3),
+        pipeline_min_articles=_int_env("OKDS_PIPELINE_MIN_ARTICLES", 2),
+        pipeline_max_chars=_int_env("OKDS_PIPELINE_MAX_CHARS", 15000),
+        contact_email=os.environ.get("OKDS_CONTACT_EMAIL", "").strip(),
+        orthobot_min_status=os.environ.get("OKDS_ORTHOBOT_MIN_STATUS", "draft").strip().lower() or "draft",
     )
+
+
+def _int_env(name: str, default: int) -> int:
+    try:
+        return max(0, int(os.environ.get(name, default)))
+    except ValueError:
+        return default
 
 
 def anthropic_key_configured() -> bool:

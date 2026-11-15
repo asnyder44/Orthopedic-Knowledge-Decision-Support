@@ -15,11 +15,14 @@
   ("sources", "ko.sources", "KO Sources"),
   ("network", "ko.network_page", "Discovery Network"),
   ("orthobot", "ko.orthobot", "KO OrthoBot"),
+  ("pipeline", "ko.pipeline_page", "Pipeline"),
+  ("review", "ko.review_page", "Review"),
+  ("data", "ko.data_page", "Data Skeleton"),
 ] %}
 <div class="ko-bar">
   <nav class="ko-nav" aria-label="KO Portal">
     {% for key, endpoint, label in sections %}
-      <a href="{{ url_for(endpoint) }}" class="{{ 'on' if active == key }}"{% if active == key %} aria-current="page"{% endif %}>{{ label }}</a>
+      <a href="{{ url_for(endpoint) }}" class="{{ 'on' if active == key }}"{% if active == key %} aria-current="page"{% endif %}>{{ label }}{% if key == 'review' and review_count %} <span class="count">{{ review_count }}</span>{% endif %}</a>
     {% endfor %}
   </nav>
   <div class="ko-status">

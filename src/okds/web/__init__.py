@@ -319,7 +319,8 @@ def _http_error(exc: HTTPException):
 def _context():
     s = get_settings()
     return {"can_edit": can_edit(), "login_available": bool(edit_password()), "settings": s,
-            "csrf": csrf_token(), "md": md, "md_inline": md_inline, "topic_name": topic_name, "cluster": cluster}
+            "csrf": csrf_token(), "md": md, "md_inline": md_inline, "topic_name": topic_name, "cluster": cluster,
+            "review_count": pipeline_views.queue_count()}
 
 
 # ---------------------------------------------------------------- sign in
@@ -875,7 +876,7 @@ def api_network():
 def orthobot():
     s = get_settings()
     index = kindex.get_index(s)
-    docs = kindex.load_docs(s)
+    docs = kindex.orthobot_docs(s)
     return render_template(
         "ko/orthobot.html", active="orthobot", n_docs=len(docs), n_chunks=len(index.chunks),
         starters=chatbot.starter_questions(docs), semantic=index.semantic, ai_allowed=ai_allowed(),
@@ -938,3 +939,7 @@ def api_ask():
         yield {"done": True, "answer": answer_payload(ans, label)}
 
     return ndjson(run())
+
+
+# Pages that live in their own modules (they register routes on `bp`).
+from . import data_views, pipeline_views  # noqa: E402,F401

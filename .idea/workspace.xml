@@ -5,164 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d8230bf-51e4-4f75-88e5-e1ae54456eb2" name="Changes" comment="add data">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/orthoinfo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/foot/KO-FOOT-COND-001_ankle-sprain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/foot/KO-FOOT-COND-002_plantar-fasciitis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/foot/KO-FOOT-COND-003_achilles-tendon-rupture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/foot/KO-FOOT-COND-004_achilles-tendinopathy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/foot/KO-FOOT-COND-005_hallux-valgus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-ANAT-003_ulnar-nerve.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-ANAT-004_cubital-tunnel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-ANAT-005_transverse-carpal-ligament.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-CONC-001_hand-numbness-and-tingling.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-COND-003_trigger-finger.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-COND-004_de-quervain-tenosynovitis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-COND-005_dupuytren-contracture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DEV-001_wrist-orthosis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DX-003_electromyography.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DX-004_tinel-s-sign.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DX-005_nerve-ultrasound.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DX-006_durkan-s-test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-OUT-001_boston-carpal-tunnel-questionnaire.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-PROC-002_trigger-finger-release.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-PROC-003_cubital-tunnel-release.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-PROC-004_ulnar-nerve-transposition.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-REHAB-001_recovery-after-carpal-tunnel-release.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-TRT-003_hand-therapy-exercises.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-TRT-004_elbow-splinting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/joint/KO-JOINT-COND-001_knee-osteoarthritis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/joint/KO-JOINT-COND-002_hip-osteoarthritis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/joint/KO-JOINT-PROC-001_total-knee-arthroplasty.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/joint/KO-JOINT-PROC-002_total-hip-arthroplasty.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/joint/KO-JOINT-TRT-001_exercise-therapy-for-knee-osteoarthritis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/spine/KO-SPINE-COND-001_lumbar-spinal-stenosis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/spine/KO-SPINE-COND-002_lumbar-disc-herniation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/spine/KO-SPINE-COND-003_adolescent-idiopathic-scoliosis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/spine/KO-SPINE-PROC-001_spinal-fusion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/spine/KO-SPINE-TRT-001_physical-therapy-for-low-back-pain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/sport/KO-SPORT-COND-001_anterior-cruciate-ligament-tear.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/sport/KO-SPORT-COND-002_meniscus-tear.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/sport/KO-SPORT-COND-003_rotator-cuff-tear.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/sport/KO-SPORT-COND-004_lateral-epicondylitis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/sport/KO-SPORT-PROC-001_acl-reconstruction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/trauma/KO-TRAUMA-COND-001_hip-fracture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/trauma/KO-TRAUMA-COND-002_distal-radius-fracture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/trauma/KO-TRAUMA-COND-003_osteoporotic-fracture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/trauma/KO-TRAUMA-PROC-001_open-reduction-and-internal-fixation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kos/trauma/KO-TRAUMA-TRT-001_cast-immobilization.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-FOOT-COND-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-FOOT-COND-002.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-FOOT-COND-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-FOOT-COND-004.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-FOOT-COND-005.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-ANAT-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-ANAT-004.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-ANAT-005.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-CONC-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-COND-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-COND-004.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-COND-005.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-DEV-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-DX-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-DX-004.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-DX-005.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-DX-006.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-OUT-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-PROC-002.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-PROC-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-PROC-004.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-REHAB-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-TRT-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-HAND-TRT-004.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-JOINT-COND-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-JOINT-COND-002.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-JOINT-PROC-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-JOINT-PROC-002.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-JOINT-TRT-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPINE-COND-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPINE-COND-002.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPINE-COND-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPINE-PROC-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPINE-TRT-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPORT-COND-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPORT-COND-002.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPORT-COND-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPORT-COND-004.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-SPORT-PROC-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-TRAUMA-COND-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-TRAUMA-COND-002.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-TRAUMA-COND-003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-TRAUMA-PROC-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/candidates/KO-TRAUMA-TRT-001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-FOOT-COND-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-FOOT-COND-002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-FOOT-COND-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-FOOT-COND-004.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-FOOT-COND-005.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-ANAT-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-ANAT-004.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-ANAT-005.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-CONC-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-COND-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-COND-004.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-COND-005.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-DEV-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-DX-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-DX-004.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-DX-005.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-DX-006.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-OUT-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-PROC-002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-PROC-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-PROC-004.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-REHAB-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-TRT-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-HAND-TRT-004.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-JOINT-COND-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-JOINT-COND-002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-JOINT-PROC-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-JOINT-PROC-002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-JOINT-TRT-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPINE-COND-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPINE-COND-002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPINE-COND-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPINE-PROC-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPINE-TRT-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPORT-COND-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPORT-COND-002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPORT-COND-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPORT-COND-004.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-SPORT-PROC-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-TRAUMA-COND-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-TRAUMA-COND-002.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-TRAUMA-COND-003.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-TRAUMA-PROC-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sources/packs/SP-KO-TRAUMA-TRT-001.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okds/collect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okds/packs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/ko/test_collect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/ko/test_packs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/orthoinfo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/orthoinfo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kos/hand/KO-HAND-COND-001_carpal-tunnel-syndrome.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-COND-001_carpal-tunnel-syndrome.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kos/hand/KO-HAND-COND-002_cubital-tunnel-syndrome.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-COND-002_cubital-tunnel-syndrome.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DX-001_nerve-conduction-study.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DX-001_nerve-conduction-study.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DX-002_phalen-s-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-DX-002_phalen-s-test.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kos/hand/KO-HAND-PROC-001_carpal-tunnel-release.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-PROC-001_carpal-tunnel-release.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kos/hand/KO-HAND-TRT-001_wrist-splinting.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-TRT-001_wrist-splinting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/kos/hand/KO-HAND-TRT-002_corticosteroid-injection.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/kos/hand/KO-HAND-TRT-002_corticosteroid-injection.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/registry.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/registry.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/okds/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/collect.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/collect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/fetch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/fetch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/kindex.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/kindex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/ko.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/ko.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/llm.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/llm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/okds/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/prompts/ko_generator.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/prompts/ko_generator.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/okds/web/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/web/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/okds/web/static/generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/web/static/generator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/okds/web/static/network.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/web/static/network.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/okds/web/templates/ko/generator.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/web/templates/ko/generator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/web/static/portal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/web/static/portal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okds/web/templates/ko/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/okds/web/templates/ko/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/orthoinfo/assistant.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/orthoinfo/assistant.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/ko/test_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ko/test_core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/ko/test_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ko/test_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/ko/test_portal.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ko/test_portal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +52,65 @@
 }]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1111053351458213" />
+      <entry key="MS500" value="1.6443873152425077" />
+      <entry key="S2" value="1.8959561310220234" />
+      <entry key="S5" value="1.9570060829809024" />
+      <entry key="S10" value="1.9782668771766232" />
+      <entry key="S30" value="1.9927025017843931" />
+      <entry key="S60" value="1.9963445698072495" />
+      <entry key="M2" value="1.9981706115726157" />
+      <entry key="M5" value="1.9992678426373076" />
+      <entry key="M10" value="1.9996338542873122" />
+      <entry key="M15" value="1.99975588795993" />
+      <entry key="M30" value="1.9998779365302197" />
+      <entry key="H1" value="1.99993896640256" />
+      <entry key="H2" value="1.999969482735628" />
+      <entry key="H4" value="1.9999847412513994" />
+      <entry key="D1" value="1.9999974568590644" />
+      <entry key="W1" value="1.9999996366937562" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9822115072375867" />
+      <entry key="MS500" value="1.5197859526720523" />
+      <entry key="S2" value="1.850999373565678" />
+      <entry key="S5" value="1.9376248604007276" />
+      <entry key="S10" value="1.968330306969251" />
+      <entry key="S30" value="1.9893344108634234" />
+      <entry key="S60" value="1.9946534577277157" />
+      <entry key="M2" value="1.9973232829025416" />
+      <entry key="M5" value="1.9989284849710427" />
+      <entry key="M10" value="1.99946410435714" />
+      <entry key="M15" value="1.9996427055357289" />
+      <entry key="M30" value="1.9998213374148897" />
+      <entry key="H1" value="1.9999106648688652" />
+      <entry key="H2" value="1.9999553314747456" />
+      <entry key="H4" value="1.9999776654974457" />
+      <entry key="D1" value="1.9999962775495839" />
+      <entry key="W1" value="1.999999468220553" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -237,7 +162,7 @@
       <workItem from="1793832349360" duration="23000" />
       <workItem from="1793869714293" duration="130000" />
       <workItem from="1794075337717" duration="3596000" />
-      <workItem from="1794676927504" duration="1588000" />
+      <workItem from="1794676927504" duration="3182000" />
     </task>
     <task id="LOCAL-00002" summary="Incorporate KO application and temp knowledge network">
       <option name="closed" value="true" />
@@ -247,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794080340397</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add data">
+      <option name="closed" value="true" />
+      <created>1794692001189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794692001189</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

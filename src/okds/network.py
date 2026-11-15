@@ -173,7 +173,21 @@ def build_network(settings: Settings) -> dict[str, Any]:
         "predicates": {p: d["meaning"] for p, d in vocab.predicates().items()},
         "types": {t: d["description"] for t, d in types.items()},
         "clusters": vocab.load_vocab().get("clusters", {}),
+        "data_usage": _data_usage(settings),
     }
+
+
+def _data_usage(settings: Settings) -> dict[str, dict[str, str]]:
+    """KO ID -> {"model:Entity.field": count} from accepted record batches (counts under 5 shown as "<5")."""
+    try:
+        from .records import ko_usage
+        from .records.store import small
+    except Exception:  # the data skeleton is optional for the network
+        return {}
+    try:
+        return {ko: {k: small(n) for k, n in fields.items()} for ko, fields in ko_usage(settings).items()}
+    except Exception:
+        return {}
 
 
 # ---------------------------------------------------------------- views of the network

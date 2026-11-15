@@ -1,0 +1,7 @@
+protocol_id,name,protocol_ko
+TP-0001,Carpal tunnel release rehab,KO-HAND-REHAB-001
+TP-0002,Cubital tunnel conservative care,KO-HAND-TRT-004
+TP-0003,ACL reconstruction rehab,KO-JOINT-TRT-001
+TP-0004,Knee replacement rehab,KO-JOINT-TRT-001
+TP-0005,Wrist fracture after casting,KO-TRAUMA-TRT-001
+TP-0006,Spinal stenosis therapy,KO-SPINE-TRT-001

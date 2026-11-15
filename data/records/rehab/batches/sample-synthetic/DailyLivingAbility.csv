@@ -1,0 +1,229 @@
+adl_id,functional_id,activity,independence
+ADL-0001,FA-0001,stairs,needs some help
+ADL-0002,FA-0001,driving,needs some help
+ADL-0003,FA-0002,walking,independent
+ADL-0004,FA-0002,driving,needs some help
+ADL-0005,FA-0003,stairs,independent
+ADL-0006,FA-0003,walking,independent
+ADL-0007,FA-0004,driving,needs some help
+ADL-0008,FA-0004,walking,needs some help
+ADL-0009,FA-0005,driving,independent
+ADL-0010,FA-0005,stairs,independent
+ADL-0011,FA-0006,stairs,independent
+ADL-0012,FA-0006,walking,independent
+ADL-0013,FA-0007,writing,needs some help
+ADL-0014,FA-0007,dressing,needs some help
+ADL-0015,FA-0008,cooking,needs some help
+ADL-0016,FA-0008,dressing,independent
+ADL-0017,FA-0009,cooking,independent
+ADL-0018,FA-0009,writing,independent
+ADL-0019,FA-0010,work tasks,needs some help
+ADL-0020,FA-0010,dressing,needs some help
+ADL-0021,FA-0011,lifting,needs some help
+ADL-0022,FA-0011,dressing,needs some help
+ADL-0023,FA-0012,work tasks,needs some help
+ADL-0024,FA-0012,lifting,needs some help
+ADL-0025,FA-0013,lifting,needs some help
+ADL-0026,FA-0013,work tasks,needs some help
+ADL-0027,FA-0014,dressing,independent
+ADL-0028,FA-0014,lifting,independent
+ADL-0029,FA-0015,cooking,needs some help
+ADL-0030,FA-0015,writing,needs some help
+ADL-0031,FA-0016,cooking,independent
+ADL-0032,FA-0016,dressing,needs some help
+ADL-0033,FA-0017,cooking,independent
+ADL-0034,FA-0017,writing,independent
+ADL-0035,FA-0018,dressing,needs some help
+ADL-0036,FA-0018,cooking,needs some help
+ADL-0037,FA-0019,writing,needs some help
+ADL-0038,FA-0019,cooking,independent
+ADL-0039,FA-0020,writing,independent
+ADL-0040,FA-0020,dressing,independent
+ADL-0041,FA-0021,walking,needs some help
+ADL-0042,FA-0021,driving,needs some help
+ADL-0043,FA-0022,stairs,needs some help
+ADL-0044,FA-0022,walking,needs some help
+ADL-0045,FA-0023,driving,independent
+ADL-0046,FA-0023,walking,independent
+ADL-0047,FA-0024,dressing,needs some help
+ADL-0048,FA-0024,cooking,needs some help
+ADL-0049,FA-0025,dressing,independent
+ADL-0050,FA-0025,cooking,needs some help
+ADL-0051,FA-0026,lifting,needs some help
+ADL-0052,FA-0026,bathing,needs some help
+ADL-0053,FA-0027,walking,independent
+ADL-0054,FA-0027,lifting,needs some help
+ADL-0055,FA-0028,bathing,independent
+ADL-0056,FA-0028,walking,independent
+ADL-0057,FA-0029,cooking,needs some help
+ADL-0058,FA-0029,writing,needs some help
+ADL-0059,FA-0030,cooking,needs some help
+ADL-0060,FA-0030,dressing,needs some help
+ADL-0061,FA-0031,cooking,independent
+ADL-0062,FA-0031,writing,independent
+ADL-0063,FA-0032,dressing,needs some help
+ADL-0064,FA-0032,writing,needs some help
+ADL-0065,FA-0033,cooking,independent
+ADL-0066,FA-0033,writing,needs some help
+ADL-0067,FA-0034,writing,independent
+ADL-0068,FA-0034,dressing,independent
+ADL-0069,FA-0035,walking,needs some help
+ADL-0070,FA-0035,bathing,needs some help
+ADL-0071,FA-0036,walking,independent
+ADL-0072,FA-0036,bathing,needs some help
+ADL-0073,FA-0037,walking,independent
+ADL-0074,FA-0037,bathing,independent
+ADL-0075,FA-0038,dressing,needs some help
+ADL-0076,FA-0038,cooking,needs some help
+ADL-0077,FA-0039,writing,independent
+ADL-0078,FA-0039,dressing,needs some help
+ADL-0079,FA-0040,driving,needs some help
+ADL-0080,FA-0040,stairs,needs some help
+ADL-0081,FA-0041,driving,needs some help
+ADL-0082,FA-0041,walking,needs some help
+ADL-0083,FA-0042,driving,independent
+ADL-0084,FA-0042,walking,independent
+ADL-0085,FA-0043,walking,needs some help
+ADL-0086,FA-0043,driving,needs some help
+ADL-0087,FA-0044,walking,needs some help
+ADL-0088,FA-0044,driving,needs some help
+ADL-0089,FA-0045,driving,independent
+ADL-0090,FA-0045,walking,independent
+ADL-0091,FA-0046,work tasks,needs some help
+ADL-0092,FA-0046,lifting,needs some help
+ADL-0093,FA-0047,lifting,independent
+ADL-0094,FA-0047,dressing,needs some help
+ADL-0095,FA-0048,lifting,independent
+ADL-0096,FA-0048,dressing,independent
+ADL-0097,FA-0049,stairs,needs some help
+ADL-0098,FA-0049,driving,needs some help
+ADL-0099,FA-0050,stairs,independent
+ADL-0100,FA-0050,driving,needs some help
+ADL-0101,FA-0051,walking,independent
+ADL-0102,FA-0051,driving,independent
+ADL-0103,FA-0052,bathing,needs some help
+ADL-0104,FA-0052,walking,needs some help
+ADL-0105,FA-0053,lifting,needs some help
+ADL-0106,FA-0053,walking,needs some help
+ADL-0107,FA-0054,bathing,independent
+ADL-0108,FA-0054,walking,independent
+ADL-0109,FA-0055,walking,needs some help
+ADL-0110,FA-0055,driving,needs some help
+ADL-0111,FA-0056,driving,needs some help
+ADL-0112,FA-0056,stairs,needs some help
+ADL-0113,FA-0057,bathing,needs some help
+ADL-0114,FA-0057,walking,needs some help
+ADL-0115,FA-0058,lifting,needs some help
+ADL-0116,FA-0058,bathing,needs some help
+ADL-0117,FA-0059,lifting,independent
+ADL-0118,FA-0059,bathing,independent
+ADL-0119,FA-0060,driving,needs some help
+ADL-0120,FA-0060,stairs,needs some help
+ADL-0121,FA-0061,driving,independent
+ADL-0122,FA-0061,stairs,needs some help
+ADL-0123,FA-0062,driving,independent
+ADL-0124,FA-0062,walking,independent
+ADL-0125,FA-0063,writing,needs some help
+ADL-0126,FA-0063,cooking,needs some help
+ADL-0127,FA-0064,cooking,independent
+ADL-0128,FA-0064,dressing,needs some help
+ADL-0129,FA-0065,writing,independent
+ADL-0130,FA-0065,dressing,independent
+ADL-0131,FA-0066,lifting,needs some help
+ADL-0132,FA-0066,bathing,needs some help
+ADL-0133,FA-0067,walking,independent
+ADL-0134,FA-0067,bathing,independent
+ADL-0135,FA-0068,walking,needs some help
+ADL-0136,FA-0068,driving,needs some help
+ADL-0137,FA-0069,walking,needs some help
+ADL-0138,FA-0069,driving,needs some help
+ADL-0139,FA-0070,driving,independent
+ADL-0140,FA-0070,walking,independent
+ADL-0141,FA-0071,stairs,needs some help
+ADL-0142,FA-0071,driving,needs some help
+ADL-0143,FA-0072,driving,independent
+ADL-0144,FA-0072,stairs,independent
+ADL-0145,FA-0073,driving,independent
+ADL-0146,FA-0073,stairs,independent
+ADL-0147,FA-0074,cooking,needs some help
+ADL-0148,FA-0074,dressing,needs some help
+ADL-0149,FA-0075,dressing,needs some help
+ADL-0150,FA-0075,cooking,needs some help
+ADL-0151,FA-0076,dressing,needs some help
+ADL-0152,FA-0076,writing,needs some help
+ADL-0153,FA-0077,cooking,independent
+ADL-0154,FA-0077,writing,needs some help
+ADL-0155,FA-0078,writing,independent
+ADL-0156,FA-0078,dressing,independent
+ADL-0157,FA-0079,dressing,needs some help
+ADL-0158,FA-0079,lifting,needs some help
+ADL-0159,FA-0080,dressing,needs some help
+ADL-0160,FA-0080,lifting,needs some help
+ADL-0161,FA-0081,lifting,independent
+ADL-0162,FA-0081,work tasks,independent
+ADL-0163,FA-0082,dressing,needs some help
+ADL-0164,FA-0082,lifting,needs some help
+ADL-0165,FA-0083,dressing,independent
+ADL-0166,FA-0083,work tasks,independent
+ADL-0167,FA-0084,lifting,independent
+ADL-0168,FA-0084,work tasks,independent
+ADL-0169,FA-0085,lifting,needs some help
+ADL-0170,FA-0085,dressing,needs some help
+ADL-0171,FA-0086,dressing,needs some help
+ADL-0172,FA-0086,lifting,independent
+ADL-0173,FA-0087,lifting,independent
+ADL-0174,FA-0087,dressing,independent
+ADL-0175,FA-0088,walking,needs some help
+ADL-0176,FA-0088,driving,needs some help
+ADL-0177,FA-0089,stairs,independent
+ADL-0178,FA-0089,walking,independent
+ADL-0179,FA-0090,stairs,independent
+ADL-0180,FA-0090,walking,independent
+ADL-0181,FA-0091,stairs,needs some help
+ADL-0182,FA-0091,driving,needs some help
+ADL-0183,FA-0092,stairs,needs some help
+ADL-0184,FA-0092,driving,needs some help
+ADL-0185,FA-0093,stairs,independent
+ADL-0186,FA-0093,walking,independent
+ADL-0187,FA-0094,stairs,needs some help
+ADL-0188,FA-0094,driving,needs some help
+ADL-0189,FA-0095,stairs,needs some help
+ADL-0190,FA-0095,driving,needs some help
+ADL-0191,FA-0096,walking,independent
+ADL-0192,FA-0096,stairs,independent
+ADL-0193,FA-0097,writing,needs some help
+ADL-0194,FA-0097,dressing,needs some help
+ADL-0195,FA-0098,cooking,independent
+ADL-0196,FA-0098,dressing,independent
+ADL-0197,FA-0099,dressing,independent
+ADL-0198,FA-0099,cooking,independent
+ADL-0199,FA-0100,walking,needs some help
+ADL-0200,FA-0100,lifting,needs some help
+ADL-0201,FA-0101,bathing,independent
+ADL-0202,FA-0101,walking,needs some help
+ADL-0203,FA-0102,bathing,independent
+ADL-0204,FA-0102,walking,independent
+ADL-0205,FA-0103,stairs,needs some help
+ADL-0206,FA-0103,walking,needs some help
+ADL-0207,FA-0104,driving,independent
+ADL-0208,FA-0104,walking,independent
+ADL-0209,FA-0105,walking,independent
+ADL-0210,FA-0105,driving,independent
+ADL-0211,FA-0106,dressing,needs some help
+ADL-0212,FA-0106,writing,needs some help
+ADL-0213,FA-0107,cooking,needs some help
+ADL-0214,FA-0107,writing,independent
+ADL-0215,FA-0108,writing,independent
+ADL-0216,FA-0108,cooking,independent
+ADL-0217,FA-0109,driving,needs some help
+ADL-0218,FA-0109,walking,needs some help
+ADL-0219,FA-0110,stairs,independent
+ADL-0220,FA-0110,walking,independent
+ADL-0221,FA-0111,stairs,independent
+ADL-0222,FA-0111,driving,independent
+ADL-0223,FA-0112,lifting,needs some help
+ADL-0224,FA-0112,bathing,needs some help
+ADL-0225,FA-0113,lifting,needs some help
+ADL-0226,FA-0113,bathing,independent
+ADL-0227,FA-0114,bathing,independent
+ADL-0228,FA-0114,walking,independent

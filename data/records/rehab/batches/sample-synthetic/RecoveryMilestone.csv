@@ -1,0 +1,55 @@
+milestone_id,outcome_id,milestone,day
+MS-0001,O-0006,pain free,42
+MS-0002,O-0006,independent daily living,42
+MS-0003,O-0009,full range of motion,35
+MS-0004,O-0009,pain free,35
+MS-0005,O-0014,independent daily living,63
+MS-0006,O-0014,pain free,63
+MS-0007,O-0017,pain free,49
+MS-0008,O-0017,independent daily living,49
+MS-0009,O-0023,pain free,49
+MS-0010,O-0023,return to work,49
+MS-0011,O-0028,independent daily living,49
+MS-0012,O-0028,return to work,49
+MS-0013,O-0034,return to work,70
+MS-0014,O-0034,independent daily living,70
+MS-0015,O-0037,full range of motion,63
+MS-0016,O-0037,pain free,63
+MS-0017,O-0048,full range of motion,49
+MS-0018,O-0048,independent daily living,49
+MS-0019,O-0051,return to work,28
+MS-0020,O-0051,full range of motion,28
+MS-0021,O-0054,independent daily living,42
+MS-0022,O-0054,return to work,42
+MS-0023,O-0062,return to work,42
+MS-0024,O-0062,pain free,42
+MS-0025,O-0065,full range of motion,49
+MS-0026,O-0065,independent daily living,49
+MS-0027,O-0070,independent daily living,35
+MS-0028,O-0070,return to work,35
+MS-0029,O-0073,full range of motion,35
+MS-0030,O-0073,return to work,35
+MS-0031,O-0078,pain free,63
+MS-0032,O-0078,return to work,63
+MS-0033,O-0081,independent daily living,42
+MS-0034,O-0081,pain free,42
+MS-0035,O-0084,independent daily living,28
+MS-0036,O-0084,full range of motion,28
+MS-0037,O-0087,return to work,35
+MS-0038,O-0087,pain free,35
+MS-0039,O-0090,return to work,35
+MS-0040,O-0090,pain free,35
+MS-0041,O-0093,independent daily living,56
+MS-0042,O-0093,pain free,56
+MS-0043,O-0096,full range of motion,42
+MS-0044,O-0096,return to work,42
+MS-0045,O-0099,pain free,35
+MS-0046,O-0099,return to work,35
+MS-0047,O-0102,pain free,56
+MS-0048,O-0102,independent daily living,56
+MS-0049,O-0105,full range of motion,63
+MS-0050,O-0105,return to work,63
+MS-0051,O-0111,return to work,35
+MS-0052,O-0111,full range of motion,35
+MS-0053,O-0114,full range of motion,42
+MS-0054,O-0114,pain free,42

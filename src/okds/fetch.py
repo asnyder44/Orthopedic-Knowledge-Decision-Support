@@ -14,14 +14,13 @@ import http.client
 import ipaddress
 import re
 import socket
-import ssl
 import time
 import urllib.request
 from dataclasses import dataclass
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse
 
-import certifi
+from .tls import tls_context
 
 MAX_BYTES = 3_000_000
 TIMEOUT = 20          # per network step (connect, each read)
@@ -183,24 +182,27 @@ def looks_like_bot_check(text: str) -> bool:
     return len(text) < 2000 and bool(BOT_CHECK_RE.search(text))
 
 
-def fetch_page(url: str) -> FetchResult:
+def http_get(url: str, accept: str, allowed_types: tuple[str, ...], max_bytes: int = MAX_BYTES,
+             headers: dict[str, str] | None = None) -> tuple[bytes, str, str, str]:
+    """Download a public http(s) URL safely. Returns (data, content type, charset, final URL).
+    Used for web pages (fetch_page) and for the pipeline's API calls (Europe PMC, NCBI)."""
     url = url.strip()
     _check_public(url)
     # certifi's CA bundle: works the same on every OS (python.org macOS builds ship without root certificates).
-    tls = ssl.create_default_context(cafile=certifi.where())
+    tls = tls_context()
     opener = urllib.request.build_opener(urllib.request.ProxyHandler({}), _SafeRedirect, _PinnedHTTPHandler(),
                                          _PinnedHTTPSHandler(context=tls))
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html,text/plain"})
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": accept, **(headers or {})})
     deadline = time.monotonic() + TOTAL_TIMEOUT
     try:
         with opener.open(req, timeout=TIMEOUT) as resp:
             ctype = resp.headers.get("Content-Type", "")
-            if "html" not in ctype and "text/plain" not in ctype:
-                raise FetchError(f"This page is '{ctype or 'unknown type'}'. Only HTML or plain text is supported.")
+            if not any(t in ctype for t in allowed_types):
+                raise FetchError(f"This page is '{ctype or 'unknown type'}'. Expected {', '.join(allowed_types)}.")
             parts, size = [], 0
             while chunk := resp.read(65536):
                 size += len(chunk)
-                if size > MAX_BYTES:
+                if size > max_bytes:
                     raise FetchError("The page is too large to fetch.")
                 if time.monotonic() > deadline:
                     raise FetchError("The page took too long to load. Copy the text by hand instead.")
@@ -216,6 +218,11 @@ def fetch_page(url: str) -> FetchResult:
         codecs.lookup(charset)
     except LookupError:
         charset = "utf-8"  # the page names an unknown character set
+    return data, ctype, charset, final_url
+
+
+def fetch_page(url: str) -> FetchResult:
+    data, ctype, charset, final_url = http_get(url, "text/html,text/plain", ("html", "text/plain"))
     html = data.decode(charset, errors="replace")
     if "text/plain" in ctype:
         return FetchResult(final_url, "", clean_text(html))

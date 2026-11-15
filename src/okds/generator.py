@@ -47,6 +47,7 @@ class KORequest:
     sources: list[dict[str, Any]]  # source pack entries; each may carry a "text" field
     author: str
     license_name: str = "CC-BY-4.0"
+    registry: dict[str, Concept] | None = None  # for link checks in finalize(); loaded from disk when None
 
 
 def source_metadata(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -167,6 +168,47 @@ def finalize(raw: str, req: KORequest, model: str) -> tuple[str, list[str]]:
         return raw, [f"The draft has an unexpected format ({type(e).__name__}: {e}). Fix it by hand in the editor."]
 
 
+def registry_of(req: KORequest) -> dict[str, Concept]:
+    """The registry the request was made with (set by the caller), else the one on disk."""
+    if req.registry is not None:
+        return req.registry
+    from .config import get_settings
+    from .registry import load_registry
+    return load_registry(get_settings().registry_path)
+
+
+def _clean_links(raw, req: KORequest, registry: dict[str, Concept]) -> tuple[list[dict], list[str]]:
+    """Keep links that follow the rules (from this KO, known target, allowed types); fill in missing labels.
+    Other links are moved to review.open_issues with the reason, so a person can decide."""
+    kept, moved = [], []
+    me = req.concept
+    for rel in as_list(raw):
+        if not isinstance(rel, dict):
+            continue
+        pred, target = str(rel.get("predicate", "")), str(rel.get("target_id", ""))
+        subject = str(rel.get("subject_id") or me.ko_id)
+        sources = [str(x) for x in as_list(rel.get("source_ids"))]
+        where = f"{pred} -> {target} ({', '.join(sources) or 'no sources'})"
+        concept = registry.get(target)
+        if subject != me.ko_id:
+            moved.append(f"Link to add in {subject}'s KO: {subject} {pred} {me.ko_id} ({', '.join(sources)}).")
+            continue
+        if target == me.ko_id:
+            moved.append(f"Removed a link from this KO to itself: {where}.")
+            continue
+        if concept is None and not vocab.object_is_entity_record(pred):
+            moved.append(f"Link target {target} is not in KO Topics: {where}. Add the topic, or use proposed_concepts.")
+            continue
+        if concept is not None and vocab.predicate_allows(pred, me.ko_type, concept.ko_type) is False:
+            moved.append(f"{pred} does not allow {me.ko_type} -> {concept.ko_type}: {where}.")
+            continue
+        clean = {"predicate": pred, "target_id": target,
+                 "target_label": str(rel.get("target_label") or (concept.preferred_term if concept else target)),
+                 "source_ids": sources}
+        kept.append(clean)
+    return kept, moved
+
+
 def _finalize_doc(doc: KODocument, req: KORequest, model: str) -> tuple[str, list[str]]:
     notes: list[str] = []
     front = skeleton(req, {"model": model, "prompt_version": GENERATOR_PROMPT_VERSION})
@@ -185,6 +227,10 @@ def _finalize_doc(doc: KODocument, req: KORequest, model: str) -> tuple[str, lis
     model_review = as_dict(doc.front.get("review"))
     front["review"]["author"] = "KO Generator"
     front["review"]["open_issues"] = [str(i) for i in as_list(model_review.get("open_issues"))]
+    front["relationships"], moved = _clean_links(front.get("relationships"), req, registry_of(req))
+    if moved:
+        front["review"]["open_issues"].extend(moved)
+        notes.append(f"{len(moved)} link(s) did not follow the link rules; they are listed in review.open_issues.")
     front["change_log"] = [{
         "version": "0.1.0",
         "date": dt.date.today().isoformat(),
@@ -202,6 +248,7 @@ def _finalize_doc(doc: KODocument, req: KORequest, model: str) -> tuple[str, lis
 def ai_draft_stream(req: KORequest, registry: dict[str, Concept], model: str, effort: str,
                     result: llm.StreamResult, provider: str = "claude") -> Iterator[str]:
     """Stream the raw model text. After it finishes, call finalize(result.text, ...)."""
+    req.registry = registry  # finalize() checks the links against the same registry
     yield from llm.stream_text(
         model=model, system=system_prompt(), user=user_prompt(req, registry), effort=effort, result=result,
         provider=provider,

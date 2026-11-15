@@ -220,3 +220,31 @@ iframe.guide { width: 100%; height: 520px; border: 1px solid var(--line); border
 .hbar { display: grid; grid-template-columns: 11rem 1fr 2rem; gap: .5rem; align-items: center; font-size: .9rem; margin: .25rem 0; }
 .hbar .bar { height: .6rem; background: var(--alt); border-radius: 999px; overflow: hidden; }
 .hbar .bar span { display: block; height: 100%; background: var(--accent); }
+
+/* Pipeline, Review, Data Skeleton */
+.ko-nav .count { display: inline-block; min-width: 1.2rem; padding: 0 .35rem; border-radius: 999px; background: #c2410c; color: #fff; font-size: .75rem; text-align: center; }
+.scrollbox { max-height: 14rem; overflow: auto; border: 1px solid var(--line); border-radius: 8px; padding: .4rem .6rem; }
+.scrollbox label { display: block; }
+.suggest { display: flex; justify-content: space-between; gap: 1rem; align-items: center; }
+.suggest p { margin: .2rem 0 0; }
+iframe.guide.tall { height: 640px; }
+.decision { border-color: var(--accent); }
+.status.info, .flash.info { background: #e6effb; color: #1b3f74; border-color: #c2d3f0; }
+.flowstrip { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .5rem; margin: .8rem 0; }
+.flowstrip div { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: .5rem .7rem; position: relative; }
+.flowstrip div:not(:last-child)::after { content: "→"; position: absolute; right: -.55rem; top: 50%; transform: translateY(-50%); color: var(--accent); font-weight: 700; }
+.flowstrip b { display: block; font-size: .92rem; } .flowstrip span { color: var(--muted); font-size: .8rem; }
+@media (max-width: 700px) { .flowstrip { grid-template-columns: 1fr 1fr; } .flowstrip div::after { display: none; } }
+#dm-svg { width: 100%; height: auto; background: var(--alt); border-radius: 10px; }
+.dm-scroll { overflow-x: auto; max-height: 34rem; overflow-y: auto; border-radius: 10px; }
+.netcols > .card { min-width: 0; }
+.dm-node rect { fill: var(--card); stroke: var(--fg); stroke-width: 1.2; }
+.dm-node.root rect { stroke: var(--accent); stroke-width: 2.4; }
+.dm-node.sel rect { fill: var(--accent); } .dm-node.sel text { fill: #fff; }
+.dm-node { cursor: pointer; } .dm-node:focus { outline: none; } .dm-node:focus rect { stroke-width: 3; }
+.dm-node text { font-size: 11.5px; fill: var(--fg); text-anchor: middle; pointer-events: none; }
+.dm-edge { fill: none; stroke: var(--muted); stroke-width: 1.2; opacity: .7; }
+.dm-edge.hot { stroke: var(--accent); stroke-width: 2.2; opacity: 1; } .dm-edge.dim { opacity: .2; }
+.dm-label { font-size: 9.5px; fill: var(--muted); text-anchor: middle; paint-order: stroke; stroke: var(--alt); stroke-width: 3px; }
+.dm-label.hot { fill: var(--accent); font-weight: 700; }
+#dm-svg .arrowhead { fill: var(--muted); }

@@ -1,0 +1,15 @@
+adjustment_id,assessment_id,plan_id,protocol_id,reason
+TA-0001,A-0019,PL-0007,TP-0001,pain
+TA-0002,A-0022,PL-0008,TP-0004,pain
+TA-0003,A-0036,PL-0013,TP-0006,pain
+TA-0004,A-0039,PL-0014,TP-0001,slower progress than expected
+TA-0005,A-0041,PL-0015,TP-0004,faster progress than expected
+TA-0006,A-0053,PL-0019,TP-0006,faster progress than expected
+TA-0007,A-0056,PL-0020,TP-0004,pain
+TA-0008,A-0069,PL-0025,TP-0004,pain
+TA-0009,A-0072,PL-0026,TP-0004,slower progress than expected
+TA-0010,A-0075,PL-0027,TP-0001,faster progress than expected
+TA-0011,A-0080,PL-0029,TP-0002,faster progress than expected
+TA-0012,A-0083,PL-0030,TP-0002,faster progress than expected
+TA-0013,A-0107,PL-0038,TP-0001,slower progress than expected
+TA-0014,A-0113,PL-0040,TP-0006,faster progress than expected

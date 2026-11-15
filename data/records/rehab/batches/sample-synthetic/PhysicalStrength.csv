@@ -1,0 +1,115 @@
+strength_id,functional_id,muscle_group,measure,value
+PS-0001,FA-0001,quadriceps,manual muscle test (0-5),3
+PS-0002,FA-0002,quadriceps,manual muscle test (0-5),4
+PS-0003,FA-0003,quadriceps,manual muscle test (0-5),5
+PS-0004,FA-0004,quadriceps,manual muscle test (0-5),3
+PS-0005,FA-0005,quadriceps,manual muscle test (0-5),4
+PS-0006,FA-0006,quadriceps,manual muscle test (0-5),4
+PS-0007,FA-0007,grip,grip strength (kg),12.5
+PS-0008,FA-0008,grip,grip strength (kg),21.1
+PS-0009,FA-0009,grip,grip strength (kg),23.9
+PS-0010,FA-0010,grip,grip strength (kg),16.7
+PS-0011,FA-0011,grip,grip strength (kg),18.2
+PS-0012,FA-0012,grip,grip strength (kg),14.3
+PS-0013,FA-0013,grip,grip strength (kg),20
+PS-0014,FA-0014,grip,grip strength (kg),25.8
+PS-0015,FA-0015,grip,grip strength (kg),12.2
+PS-0016,FA-0016,grip,grip strength (kg),21.8
+PS-0017,FA-0017,grip,grip strength (kg),22.9
+PS-0018,FA-0018,grip,grip strength (kg),13.9
+PS-0019,FA-0019,grip,grip strength (kg),22.7
+PS-0020,FA-0020,grip,grip strength (kg),23
+PS-0021,FA-0021,quadriceps,manual muscle test (0-5),3
+PS-0022,FA-0022,quadriceps,manual muscle test (0-5),4
+PS-0023,FA-0023,quadriceps,manual muscle test (0-5),5
+PS-0024,FA-0024,grip,grip strength (kg),18
+PS-0025,FA-0025,grip,grip strength (kg),21.1
+PS-0026,FA-0026,quadriceps,manual muscle test (0-5),3
+PS-0027,FA-0027,quadriceps,manual muscle test (0-5),4
+PS-0028,FA-0028,quadriceps,manual muscle test (0-5),4
+PS-0029,FA-0029,grip,grip strength (kg),14.4
+PS-0030,FA-0030,grip,grip strength (kg),17.5
+PS-0031,FA-0031,grip,grip strength (kg),30.1
+PS-0032,FA-0032,grip,grip strength (kg),12.1
+PS-0033,FA-0033,grip,grip strength (kg),17.7
+PS-0034,FA-0034,grip,grip strength (kg),19.8
+PS-0035,FA-0035,quadriceps,manual muscle test (0-5),3
+PS-0036,FA-0036,quadriceps,manual muscle test (0-5),4
+PS-0037,FA-0037,quadriceps,manual muscle test (0-5),5
+PS-0038,FA-0038,grip,grip strength (kg),13.6
+PS-0039,FA-0039,grip,grip strength (kg),22.5
+PS-0040,FA-0040,quadriceps,manual muscle test (0-5),3
+PS-0041,FA-0041,quadriceps,manual muscle test (0-5),4
+PS-0042,FA-0042,quadriceps,manual muscle test (0-5),5
+PS-0043,FA-0043,quadriceps,manual muscle test (0-5),3
+PS-0044,FA-0044,quadriceps,manual muscle test (0-5),4
+PS-0045,FA-0045,quadriceps,manual muscle test (0-5),4
+PS-0046,FA-0046,grip,grip strength (kg),13.8
+PS-0047,FA-0047,grip,grip strength (kg),23.7
+PS-0048,FA-0048,grip,grip strength (kg),26.1
+PS-0049,FA-0049,quadriceps,manual muscle test (0-5),3
+PS-0050,FA-0050,quadriceps,manual muscle test (0-5),4
+PS-0051,FA-0051,quadriceps,manual muscle test (0-5),5
+PS-0052,FA-0052,quadriceps,manual muscle test (0-5),3
+PS-0053,FA-0053,quadriceps,manual muscle test (0-5),4
+PS-0054,FA-0054,quadriceps,manual muscle test (0-5),4
+PS-0055,FA-0055,quadriceps,manual muscle test (0-5),3
+PS-0056,FA-0056,quadriceps,manual muscle test (0-5),4
+PS-0057,FA-0057,quadriceps,manual muscle test (0-5),3
+PS-0058,FA-0058,quadriceps,manual muscle test (0-5),4
+PS-0059,FA-0059,quadriceps,manual muscle test (0-5),4
+PS-0060,FA-0060,quadriceps,manual muscle test (0-5),3
+PS-0061,FA-0061,quadriceps,manual muscle test (0-5),4
+PS-0062,FA-0062,quadriceps,manual muscle test (0-5),5
+PS-0063,FA-0063,grip,grip strength (kg),13.6
+PS-0064,FA-0064,grip,grip strength (kg),21.5
+PS-0065,FA-0065,grip,grip strength (kg),21.3
+PS-0066,FA-0066,quadriceps,manual muscle test (0-5),3
+PS-0067,FA-0067,quadriceps,manual muscle test (0-5),4
+PS-0068,FA-0068,quadriceps,manual muscle test (0-5),3
+PS-0069,FA-0069,quadriceps,manual muscle test (0-5),4
+PS-0070,FA-0070,quadriceps,manual muscle test (0-5),5
+PS-0071,FA-0071,quadriceps,manual muscle test (0-5),3
+PS-0072,FA-0072,quadriceps,manual muscle test (0-5),4
+PS-0073,FA-0073,quadriceps,manual muscle test (0-5),4
+PS-0074,FA-0074,grip,grip strength (kg),15.7
+PS-0075,FA-0075,grip,grip strength (kg),18.6
+PS-0076,FA-0076,grip,grip strength (kg),19.1
+PS-0077,FA-0077,grip,grip strength (kg),21.9
+PS-0078,FA-0078,grip,grip strength (kg),27.3
+PS-0079,FA-0079,grip,grip strength (kg),17.5
+PS-0080,FA-0080,grip,grip strength (kg),23
+PS-0081,FA-0081,grip,grip strength (kg),30.2
+PS-0082,FA-0082,grip,grip strength (kg),15.2
+PS-0083,FA-0083,grip,grip strength (kg),16.1
+PS-0084,FA-0084,grip,grip strength (kg),26.6
+PS-0085,FA-0085,grip,grip strength (kg),17.4
+PS-0086,FA-0086,grip,grip strength (kg),24.7
+PS-0087,FA-0087,grip,grip strength (kg),25.6
+PS-0088,FA-0088,quadriceps,manual muscle test (0-5),3
+PS-0089,FA-0089,quadriceps,manual muscle test (0-5),4
+PS-0090,FA-0090,quadriceps,manual muscle test (0-5),4
+PS-0091,FA-0091,quadriceps,manual muscle test (0-5),3
+PS-0092,FA-0092,quadriceps,manual muscle test (0-5),4
+PS-0093,FA-0093,quadriceps,manual muscle test (0-5),5
+PS-0094,FA-0094,quadriceps,manual muscle test (0-5),3
+PS-0095,FA-0095,quadriceps,manual muscle test (0-5),4
+PS-0096,FA-0096,quadriceps,manual muscle test (0-5),5
+PS-0097,FA-0097,grip,grip strength (kg),14.7
+PS-0098,FA-0098,grip,grip strength (kg),19
+PS-0099,FA-0099,grip,grip strength (kg),26.7
+PS-0100,FA-0100,quadriceps,manual muscle test (0-5),3
+PS-0101,FA-0101,quadriceps,manual muscle test (0-5),4
+PS-0102,FA-0102,quadriceps,manual muscle test (0-5),4
+PS-0103,FA-0103,quadriceps,manual muscle test (0-5),3
+PS-0104,FA-0104,quadriceps,manual muscle test (0-5),4
+PS-0105,FA-0105,quadriceps,manual muscle test (0-5),4
+PS-0106,FA-0106,grip,grip strength (kg),16.7
+PS-0107,FA-0107,grip,grip strength (kg),19.8
+PS-0108,FA-0108,grip,grip strength (kg),20.2
+PS-0109,FA-0109,quadriceps,manual muscle test (0-5),3
+PS-0110,FA-0110,quadriceps,manual muscle test (0-5),4
+PS-0111,FA-0111,quadriceps,manual muscle test (0-5),4
+PS-0112,FA-0112,quadriceps,manual muscle test (0-5),3
+PS-0113,FA-0113,quadriceps,manual muscle test (0-5),4
+PS-0114,FA-0114,quadriceps,manual muscle test (0-5),4

@@ -5,7 +5,7 @@ import pytest
 from okds import chatbot, generator, registry, vocab
 from okds.config import get_settings
 from okds.fetch import FetchError, fetch_page
-from okds.ko import parse_ko, render_ko
+from okds.ko import GENERATOR_PROMPT_VERSION, parse_ko, render_ko
 from okds.storage import LocalKOStore
 from okds.validator import validate_text
 
@@ -98,7 +98,7 @@ def test_finalize_restores_script_owned_fields(data_dir):
     assert front["ko_id"] == "KO-HAND-DX-001"
     assert front["review"]["status"] == "draft"
     assert front["cluster"] == 3
-    assert front["review"]["generated_by"] == {"model": "claude-opus-5-5", "prompt_version": "okds-gen-1.1"}
+    assert front["review"]["generated_by"] == {"model": "claude-opus-5-5", "prompt_version": GENERATOR_PROMPT_VERSION}
     assert len(notes) == 2
 
 

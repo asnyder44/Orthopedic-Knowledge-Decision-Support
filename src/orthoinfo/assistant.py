@@ -62,7 +62,7 @@ class HubAssistant:
 
     def ko_count(self) -> int:
         try:
-            return len(kindex.load_docs(get_settings()))
+            return len(kindex.orthobot_docs(get_settings()))
         except Exception:  # a broken data folder must not break the API
             log.exception("could not read the Knowledge Objects")
             return 0
